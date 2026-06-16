@@ -84,38 +84,6 @@ button {
   text-align: center;
 }
 
-.mini-mark {
-  width: 58px;
-  height: 38px;
-  margin: 0 auto 18px;
-  position: relative;
-}
-
-.mini-mark span {
-  position: absolute;
-  bottom: 0;
-  width: 18px;
-  border-radius: 999px 999px 7px 7px;
-  background: var(--charcoal);
-}
-
-.mini-mark span:nth-child(1) {
-  height: 25px;
-  left: 2px;
-  opacity: 0.5;
-}
-
-.mini-mark span:nth-child(2) {
-  height: 36px;
-  left: 20px;
-  background: var(--gold);
-}
-
-.mini-mark span:nth-child(3) {
-  height: 25px;
-  right: 2px;
-  opacity: 0.5;
-}
 
 .setup-hero h1,
 .app-title,
@@ -180,24 +148,62 @@ button {
 
 .board-button {
   min-height: 54px;
-  border: 1px solid var(--line);
   border-radius: 16px;
-  background: var(--surface);
-  color: var(--muted);
-  font-weight: 800;
+  background: linear-gradient(180deg, 
+    color-mix(in oklch, var(--surface) 90%, oklch(100% 0 0)) 0%, 
+    var(--surface) 100%
+  );
+  border: 1px solid var(--line);
+  color: color-mix(in oklch, var(--ink) 80%, transparent);
+  font-weight: 750;
   font-size: 18px;
-  box-shadow: 0 1px 0 oklch(100% 0 0 / 0.8) inset;
-  transition: transform 180ms cubic-bezier(0.22, 1, 0.36, 1), border-color 180ms, background 180ms, color 180ms;
+  cursor: pointer;
+  
+  /* Physical 3D popped-up state */
+  transform: translateY(0);
+  box-shadow: 
+    inset 0 1px 0 oklch(100% 0 0 / 0.95), /* Specular top highlight */
+    0 4px 0 color-mix(in oklch, var(--line) 80%, var(--ink) 20%), /* 3D side body */
+    0 5px 6px oklch(0% 0 0 / 0.06); /* Drop shadow */
+    
+  transition: 
+    transform 100ms cubic-bezier(0.25, 0.46, 0.45, 0.94), 
+    border-color 150ms ease, 
+    background-color 150ms ease, 
+    color 150ms ease, 
+    box-shadow 100ms ease;
+}
+
+.board-button:not(.selected):hover {
+  border-color: color-mix(in oklch, var(--gold) 50%, var(--line));
+  background: oklch(100% 0 0); /* Pure bright white */
+  color: var(--ink);
+  box-shadow: 
+    inset 0 1px 0 oklch(100% 0 0 / 1),
+    0 4px 0 color-mix(in oklch, var(--gold) 50%, var(--line)),
+    0 6px 10px oklch(0% 0 0 / 0.08);
 }
 
 .board-button:active {
-  transform: scale(0.965);
+  /* Physical depression while clicking */
+  transform: translateY(4px);
+  box-shadow: 
+    inset 0 2px 3px oklch(0% 0 0 / 0.08),
+    0 0 0 transparent,
+    0 1px 1px oklch(0% 0 0 / 0.02);
 }
 
 .board-button.selected {
   background: var(--charcoal);
   color: var(--surface);
   border-color: var(--charcoal);
+  font-weight: 850;
+  
+  /* Pushed down locked state (socketed appearance) */
+  transform: translateY(4px);
+  box-shadow: 
+    inset 0 2.5px 5px oklch(0% 0 0 / 0.35), /* Recessed inner shadow */
+    0 1px 1px oklch(100% 0 0 / 0.08);
 }
 
 .call-mode-picker {
@@ -216,55 +222,74 @@ button {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 9px;
-  padding: 5px;
-  border-radius: 24px;
-  border: 1px solid var(--line);
-  background: oklch(99% 0.01 84 / 0.66);
-  box-shadow: 0 1px 0 oklch(100% 0 0 / 0.65) inset;
 }
 
 .mode-option {
-  min-height: 76px;
-  display: grid;
-  align-content: center;
-  gap: 5px;
-  padding: 10px 12px;
-  border: 1px solid transparent;
-  border-radius: 19px;
-  background: transparent;
-  color: var(--muted);
-  text-align: left;
-  transition:
-    transform 180ms cubic-bezier(0.22, 1, 0.36, 1),
-    background-color 180ms,
-    border-color 180ms,
-    color 180ms,
-    box-shadow 180ms;
+  min-height: 54px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 16px;
+  background: linear-gradient(180deg, 
+    color-mix(in oklch, var(--surface) 90%, oklch(100% 0 0)) 0%, 
+    var(--surface) 100%
+  );
+  border: 1px solid var(--line);
+  color: color-mix(in oklch, var(--ink) 80%, transparent);
+  font-size: 15px;
+  font-weight: 750;
+  cursor: pointer;
+  
+  /* Physical 3D popped-up state */
+  transform: translateY(0);
+  box-shadow: 
+    inset 0 1px 0 oklch(100% 0 0 / 0.95), /* Specular top highlight */
+    0 4px 0 color-mix(in oklch, var(--line) 80%, var(--ink) 20%), /* 3D side body */
+    0 5px 6px oklch(0% 0 0 / 0.06); /* Drop shadow */
+    
+  transition: 
+    transform 100ms cubic-bezier(0.25, 0.46, 0.45, 0.94), 
+    border-color 150ms ease, 
+    background-color 150ms ease, 
+    color 150ms ease, 
+    box-shadow 100ms ease;
 }
 
 .mode-option strong {
-  color: var(--ink);
-  font-size: 15px;
-  font-weight: 900;
+  font-weight: inherit;
+  color: inherit;
 }
 
-.mode-option span {
-  font-size: 12px;
-  font-weight: 720;
-  line-height: 1.25;
+.mode-option:not(.selected):hover {
+  border-color: color-mix(in oklch, var(--gold) 50%, var(--line));
+  background: oklch(100% 0 0);
+  color: var(--ink);
+  box-shadow: 
+    inset 0 1px 0 oklch(100% 0 0 / 1),
+    0 4px 0 color-mix(in oklch, var(--gold) 50%, var(--line)),
+    0 6px 10px oklch(0% 0 0 / 0.08);
 }
 
 .mode-option:active {
-  transform: scale(0.975);
+  /* Physical depression while clicking */
+  transform: translateY(4px);
+  box-shadow: 
+    inset 0 2px 3px oklch(0% 0 0 / 0.08),
+    0 0 0 transparent,
+    0 1px 1px oklch(0% 0 0 / 0.02);
 }
 
 .mode-option.selected {
-  background: var(--surface);
-  border-color: color-mix(in oklch, var(--gold) 34%, var(--line));
-  color: var(--muted);
-  box-shadow:
-    0 8px 22px oklch(54% 0.09 78 / 0.10),
-    0 1px 0 oklch(100% 0 0 / 0.78) inset;
+  background: var(--charcoal);
+  color: var(--surface);
+  border-color: var(--charcoal);
+  font-weight: 850;
+  
+  /* Pushed down locked state (socketed appearance) */
+  transform: translateY(4px);
+  box-shadow: 
+    inset 0 2.5px 5px oklch(0% 0 0 / 0.35), /* Recessed inner shadow */
+    0 1px 1px oklch(100% 0 0 / 0.08);
 }
 
 .setup-footer {
@@ -441,16 +466,17 @@ button {
   position: absolute;
   right: -2px;
   bottom: -1px;
-  min-width: 20px;
-  height: 20px;
+  min-width: 18px;
+  height: 18px;
   display: grid;
   place-items: center;
   border-radius: 999px;
-  background: var(--charcoal);
+  background: var(--gold-deep);
   color: var(--surface);
   border: 2px solid var(--paper);
-  font-size: 11px;
+  font-size: 10px;
   font-weight: 800;
+  box-shadow: 0 1px 3px oklch(0% 0 0 / 0.15);
 }
 
 .progress-track {
@@ -479,6 +505,12 @@ button {
   perspective: 1100px;
   position: relative;
   padding: 8px 14px 14px;
+  transition: padding 260ms cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.game-screen:has(.manual-controls.expanded) .card-stage {
+  padding-top: 4px;
+  padding-bottom: 8px;
 }
 
 .deck-shadow {
@@ -776,57 +808,59 @@ button {
 }
 
 .back-line {
-  width: 106px;
-  height: 4px;
+  width: 100px;
+  height: 3px;
   border-radius: 999px;
-  background: var(--gold);
+  background: linear-gradient(90deg, transparent, var(--gold), transparent);
 }
 
 .back-symbol {
   display: flex;
   gap: 8px;
   font-family: Georgia, Cambria, "Times New Roman", serif;
-  font-size: 24px;
+  font-size: 26px;
   font-weight: 800;
   color: var(--surface);
+  margin-top: 10px;
 }
 
 .back-symbol span {
-  width: 44px;
-  height: 52px;
+  width: 46px;
+  height: 54px;
   display: grid;
   place-items: center;
   border-radius: 12px;
   background: var(--charcoal);
+  box-shadow: 
+    inset 0 2px 2px color-mix(in oklch, var(--surface) 35%, transparent),
+    inset 0 -3px 0 color-mix(in oklch, var(--ink) 25%, transparent),
+    0 4px 6px color-mix(in oklch, var(--ink) 12%, transparent);
+  text-shadow: 0 1px 2px color-mix(in oklch, var(--ink) 40%, transparent);
 }
 
-.back-symbol span:nth-child(1) {
-  background: var(--col-b);
-}
-.back-symbol span:nth-child(2) {
-  background: var(--col-i);
-}
-.back-symbol span:nth-child(3) {
-  background: var(--col-n);
-}
-.back-symbol span:nth-child(4) {
-  background: var(--col-g);
-}
-.back-symbol span:nth-child(5) {
-  background: var(--col-o);
-}
+.back-symbol span:nth-child(1) { background: var(--col-b); }
+.back-symbol span:nth-child(2) { background: var(--col-i); }
+.back-symbol span:nth-child(3) { background: var(--col-n); }
+.back-symbol span:nth-child(4) { background: var(--col-g); }
+.back-symbol span:nth-child(5) { background: var(--col-o); }
 
 .back-title {
   font-family: Georgia, Cambria, "Times New Roman", serif;
-  font-size: 31px;
+  font-size: 32px;
   font-weight: 700;
+  text-align: center;
+  line-height: 1.15;
+  color: var(--ink);
+  margin-top: 8px;
   z-index: 1;
 }
 
 .back-subtitle {
   color: var(--muted);
-  font-size: 15px;
-  font-weight: 700;
+  font-size: 16px;
+  font-weight: 600;
+  text-align: center;
+  margin-top: -6px;
   z-index: 1;
 }
 
@@ -836,7 +870,7 @@ button {
   padding: 14px 16px calc(14px + var(--safe-bottom));
   display: grid;
   grid-template-columns: 70px 1fr 70px;
-  align-items: end;
+  align-items: center;
   gap: 12px;
   z-index: 5;
   background: var(--paper);
@@ -852,33 +886,60 @@ button {
   cursor: pointer;
 }
 
+/* Minimalist, Apple-like tactile icon buttons */
 .tool-button {
-  min-height: 60px;
-  display: grid;
-  justify-items: center;
-  align-content: center;
-  gap: 5px;
-  border-radius: 19px;
-  background: oklch(98% 0.01 82 / 0.92);
+  width: 60px;
+  height: 60px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+  background: color-mix(in oklch, var(--surface) 50%, transparent);
   color: var(--ink);
-  border: 1px solid var(--line);
-  font-size: 11px;
-  font-weight: 800;
-  box-shadow: 0 2px 4px oklch(28% 0.02 70 / 0.04);
+  border: 1px solid color-mix(in oklch, var(--line) 40%, transparent);
+  box-shadow: 
+    0 2px 8px color-mix(in oklch, var(--ink) 4%, transparent),
+    inset 0 1px 0 color-mix(in oklch, var(--surface) 80%, transparent);
   transition: 
-    transform 380ms cubic-bezier(0.34, 1.56, 0.64, 1),
-    box-shadow 380ms cubic-bezier(0.34, 1.56, 0.64, 1),
-    background-color 200ms,
-    border-color 200ms;
+    transform 0.2s cubic-bezier(0.34, 1.56, 0.64, 1),
+    background 0.2s ease,
+    color 0.2s ease,
+    border-color 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+/* Hide the text completely for a sleek, icon-only aesthetic */
+.tool-button span {
+  display: none;
+}
+
+.tool-button svg {
+  width: 24px;
+  height: 24px;
+  opacity: 0.7;
+  transition: all 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
 }
 
 .tool-button:not(:disabled):hover {
-  background: oklch(99% 0.01 84 / 0.98);
-  border-color: oklch(76% 0.02 75);
+  background: var(--surface);
+  border-color: var(--line);
+  color: var(--charcoal);
   transform: translateY(-2px);
   box-shadow: 
-    0 6px 12px oklch(28% 0.02 70 / 0.08),
-    0 1px 2px oklch(28% 0.02 70 / 0.04);
+    0 6px 16px color-mix(in oklch, var(--ink) 6%, transparent),
+    inset 0 1px 0 color-mix(in oklch, var(--surface) 100%, transparent);
+}
+
+.tool-button:not(:disabled):hover svg {
+  opacity: 1;
+  transform: scale(1.08);
+}
+
+.tool-button:active {
+  transform: scale(0.92) !important;
+  background: color-mix(in oklch, var(--surface) 90%, var(--line));
+  box-shadow: none;
 }
 
 .tool-button:disabled {
@@ -928,7 +989,7 @@ button {
 
 .manual-controls {
   width: 100%;
-  padding: 12px 14px calc(13px + var(--safe-bottom));
+  padding: 12px 14px calc(32px + var(--safe-bottom));
   display: grid;
   gap: 10px;
   background: var(--paper);
@@ -1050,7 +1111,14 @@ button {
 
 .manual-pad {
   display: grid;
-  gap: 8px;
+  gap: 0;
+  padding-bottom: 5px;
+  transition:
+    gap 260ms cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.manual-controls.expanded .manual-pad {
+  gap: 9px;
 }
 
 .manual-columns,
@@ -1060,32 +1128,74 @@ button {
 }
 
 .manual-columns {
+  grid-row: 2;
   grid-template-columns: repeat(5, 1fr);
+  align-items: end;
+  padding: 0 0 14px;
+  overflow: visible;
+}
+
+.manual-numbers-shell {
+  grid-row: 1;
+  max-height: 0;
+  overflow: hidden;
+  opacity: 0;
+  transform: translateY(18px) scale(0.985);
+  pointer-events: none;
+  transition:
+    opacity 190ms cubic-bezier(0.22, 1, 0.36, 1),
+    transform 260ms cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.manual-controls.expanded .manual-numbers-shell {
+  max-height: 170px;
+  opacity: 1;
+  transform: translateY(0) scale(1);
+  pointer-events: auto;
 }
 
 .manual-numbers {
   grid-template-columns: repeat(5, 1fr);
+  padding: 3px 1px 11px;
+  animation: manual-numbers-rise 240ms cubic-bezier(0.16, 1, 0.3, 1) both;
 }
 
 .manual-number {
-  border: 1px solid var(--line);
-  background: var(--surface);
-  color: var(--ink);
-  box-shadow: 
-    0 1px 2px oklch(20% 0.01 60 / 0.04),
-    inset 0 1px 0 oklch(100% 0 0 / 0.75);
+  min-height: 38px;
+  border: 0;
+  border-radius: 12px;
+  background:
+    linear-gradient(180deg,
+      color-mix(in oklch, var(--pad-accent) 15%, var(--surface)) 0%,
+      color-mix(in oklch, var(--pad-accent) 5%, var(--surface-soft)) 100%
+    );
+  color: color-mix(in oklch, var(--pad-accent) 70%, var(--ink));
+  font-size: 13.5px;
+  font-weight: 820;
+  box-shadow:
+    inset 0 1px 1px oklch(100% 0 0 / 0.72),
+    inset 0 -2px 0 color-mix(in oklch, var(--pad-accent) 13%, oklch(24% 0.012 65 / 0.12)),
+    0 3px 0 color-mix(in oklch, var(--pad-accent) 20%, oklch(23% 0.018 65 / 0.16)),
+    0 4px 7px oklch(24% 0.018 65 / 0.075);
   cursor: pointer;
+  -webkit-appearance: none;
+  appearance: none;
+  touch-action: manipulation;
   transition:
-    transform 180ms cubic-bezier(0.34, 1.56, 0.64, 1),
-    background-color 220ms ease,
-    border-color 220ms ease,
-    color 220ms ease,
-    opacity 220ms ease,
-    box-shadow 180ms ease;
+    transform 120ms cubic-bezier(0.25, 1, 0.5, 1),
+    box-shadow 120ms cubic-bezier(0.25, 1, 0.5, 1),
+    background-color 180ms,
+    color 180ms,
+    opacity 180ms,
+    filter 180ms;
 }
 
 .manual-number:active {
-  transform: scale(0.93) !important;
+  transform: translateY(3px) scale(0.975) !important;
+  box-shadow:
+    inset 0 1px 1px oklch(100% 0 0 / 0.62),
+    inset 0 -1px 0 color-mix(in oklch, var(--pad-accent) 12%, oklch(24% 0.012 65 / 0.09)),
+    0 1px 2px oklch(24% 0.018 65 / 0.08);
 }
 
 .manual-column:nth-child(1) { --col-key: var(--col-b); }
@@ -1098,11 +1208,16 @@ button {
 .manual-column {
   position: relative;
   min-height: 48px;
+  display: grid;
+  place-items: center;
   border-radius: 12px;
   font-size: 20px;
   font-weight: 800;
   cursor: pointer;
   border: none;
+  -webkit-appearance: none;
+  appearance: none;
+  touch-action: manipulation;
   
   /* Top face gradient simulating convex matte plastic */
   background: linear-gradient(180deg, 
@@ -1123,23 +1238,20 @@ button {
   text-shadow: 0 1px 1px color-mix(in oklch, var(--col-key) 25%, oklch(100% 0 0 / 0.95));
   
   transition: 
-    transform 0.1s cubic-bezier(0.4, 0.0, 0.2, 1),
-    box-shadow 0.1s cubic-bezier(0.4, 0.0, 0.2, 1),
-    background 0.3s ease,
-    color 0.3s ease,
-    opacity 0.3s ease,
-    filter 0.3s ease;
+    transform 120ms cubic-bezier(0.25, 1, 0.5, 1),
+    box-shadow 120ms cubic-bezier(0.25, 1, 0.5, 1),
+    background 220ms cubic-bezier(0.22, 1, 0.36, 1),
+    color 220ms cubic-bezier(0.22, 1, 0.36, 1),
+    opacity 220ms,
+    filter 220ms;
 }
 
-.manual-column:not(:disabled):hover {
-  background: linear-gradient(180deg, 
-    color-mix(in oklch, var(--col-key) 24%, var(--surface)) 0%, 
-    color-mix(in oklch, var(--col-key) 10%, var(--surface)) 100%
-  );
-  color: color-mix(in oklch, var(--col-key) 80%, var(--ink));
+.manual-column span {
+  position: relative;
+  z-index: 2;
 }
 
-.manual-column:active {
+.manual-column:not(:disabled):active {
   /* Physical key depression */
   transform: translateY(5px);
   box-shadow: 
@@ -1150,27 +1262,67 @@ button {
 }
 
 .manual-column.selected {
-  /* Lit up state like a mechanical LED key */
-  background: linear-gradient(180deg, 
-    color-mix(in oklch, var(--col-key) 85%, oklch(100% 0 0)) 0%, 
-    var(--col-key) 100%
+  background:
+    radial-gradient(ellipse at 27% 18%,
+      oklch(100% 0 0 / 0.56) 0%,
+      oklch(100% 0 0 / 0.22) 22%,
+      transparent 46%
+    ),
+    radial-gradient(ellipse at 52% 38%,
+      color-mix(in oklch, var(--col-key) 58%, oklch(99% 0.01 84)) 0%,
+      color-mix(in oklch, var(--col-key) 82%, oklch(84% 0.018 80)) 48%,
+      transparent 70%
+    ),
+    linear-gradient(180deg,
+      color-mix(in oklch, var(--col-key) 62%, oklch(98% 0.012 84)) 0%,
+      color-mix(in oklch, var(--col-key) 88%, oklch(70% 0.018 78)) 52%,
+      color-mix(in oklch, var(--col-key) 74%, oklch(23% 0.016 65)) 100%
   );
-  color: var(--surface);
-  text-shadow: 0 -1px 2px oklch(0% 0 0 / 0.4);
-  
-  /* Stays slightly depressed but intensely glowing */
+  color: color-mix(in oklch, var(--col-key) 42%, oklch(18% 0.015 65));
+  text-shadow: 0 1px 1px oklch(100% 0 0 / 0.45);
   transform: translateY(2px);
-  box-shadow: 
-    inset 0 2px 3px color-mix(in oklch, var(--col-key) 100%, oklch(100% 0 0 / 0.9)),
-    inset 0 -2px 0 color-mix(in oklch, var(--col-key) 100%, oklch(0% 0 0 / 0.3)),
-    0 3px 0 color-mix(in oklch, var(--col-key) 80%, oklch(0% 0 0 / 0.5)),
-    0 6px 16px color-mix(in oklch, var(--col-key) 65%, transparent);
+  box-shadow:
+    inset 0 1px 1px oklch(100% 0 0 / 0.52),
+    inset 7px 7px 13px oklch(100% 0 0 / 0.12),
+    inset -8px -9px 14px oklch(14% 0.012 65 / 0.24),
+    inset 0 -3px 0 color-mix(in oklch, var(--col-key) 68%, oklch(17% 0.014 65 / 0.34)),
+    0 3px 0 color-mix(in oklch, var(--col-key) 45%, oklch(16% 0.014 65 / 0.34)),
+    0 6px 9px oklch(18% 0.014 65 / 0.16);
+}
+
+.manual-column.selected::before {
+  content: "";
+  position: absolute;
+  top: 7px;
+  left: 11px;
+  width: 34px;
+  height: 12px;
+  border-radius: 50%;
+  background: linear-gradient(180deg, oklch(100% 0 0 / 0.48), oklch(100% 0 0 / 0));
+  transform: rotate(-18deg);
+  pointer-events: none;
+  z-index: 1;
+}
+
+.manual-column.selected::after {
+  content: "";
+  position: absolute;
+  inset: 9px 14px;
+  border-radius: 999px;
+  background:
+    radial-gradient(ellipse at 32% 18%, oklch(100% 0 0 / 0.92), transparent 36%),
+    linear-gradient(180deg, oklch(99% 0.006 84), oklch(90% 0.012 82));
+  box-shadow:
+    inset 1px 2px 4px oklch(15% 0.015 65 / 0.18),
+    0 1px 2px oklch(15% 0.015 65 / 0.14);
+  pointer-events: none;
+  z-index: 1;
 }
 
 .manual-columns:has(.selected) .manual-column:not(.selected) {
-  opacity: 0.5;
-  transform: scale(0.96) translateY(2px);
-  filter: saturate(0.4);
+  opacity: 0.58;
+  transform: scale(0.975) translateY(1px);
+  filter: saturate(0.55);
   box-shadow: 
     inset 0 1px 1px color-mix(in oklch, var(--col-key) 20%, oklch(100% 0 0 / 0.5)),
     0 1px 0 color-mix(in oklch, var(--col-key) 20%, oklch(0% 0 0 / 0.1)),
@@ -1178,43 +1330,48 @@ button {
 }
 
 .manual-number:disabled {
-  opacity: 0.26;
-  border-style: dashed;
+  opacity: 0.34;
   cursor: not-allowed;
   transform: none;
-  box-shadow: none;
-  background: var(--surface-soft);
-}
-
-.manual-number:not(:disabled) {
-  min-height: 38px;
-  border-radius: 11px;
-  font-size: 13.5px;
-  font-weight: 700;
-  background: color-mix(in oklch, var(--pad-accent) 5%, var(--surface));
-  border-color: color-mix(in oklch, var(--pad-accent) 18%, var(--line));
-  color: color-mix(in oklch, var(--pad-accent) 76%, var(--ink));
-}
-
-.manual-number:not(:disabled):hover {
-  background: color-mix(in oklch, var(--pad-accent) 12%, var(--surface));
-  border-color: color-mix(in oklch, var(--pad-accent) 36%, var(--line));
-  transform: translateY(-2px);
-  box-shadow: 
-    0 4px 8px color-mix(in oklch, var(--pad-accent) 10%, transparent),
-    inset 0 1px 0 oklch(100% 0 0 / 0.85);
+  filter: saturate(0.42);
 }
 
 .manual-number.used {
-  opacity: 0.16;
-  text-decoration: line-through;
-  background: var(--surface-soft) !important;
-  border-color: var(--line) !important;
-  color: var(--muted) !important;
+  opacity: 0.26;
+  text-decoration: none;
+  background:
+    linear-gradient(180deg, var(--surface-soft), color-mix(in oklch, var(--surface-soft) 82%, var(--line))) !important;
+  color: color-mix(in oklch, var(--muted) 86%, var(--ink)) !important;
   cursor: not-allowed;
   pointer-events: none;
-  transform: none !important;
-  box-shadow: none !important;
+  transform: translateY(2px) !important;
+  box-shadow:
+    inset 0 2px 5px oklch(25% 0.012 65 / 0.08),
+    0 1px 0 oklch(100% 0 0 / 0.45) !important;
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .manual-column:not(:disabled):not(.selected):hover {
+    background: linear-gradient(180deg, 
+      color-mix(in oklch, var(--col-key) 24%, var(--surface)) 0%, 
+      color-mix(in oklch, var(--col-key) 10%, var(--surface)) 100%
+    );
+    color: color-mix(in oklch, var(--col-key) 80%, var(--ink));
+  }
+
+  .manual-number:not(:disabled):hover {
+    transform: translateY(-1px);
+    background:
+      linear-gradient(180deg,
+        color-mix(in oklch, var(--pad-accent) 20%, var(--surface)) 0%,
+        color-mix(in oklch, var(--pad-accent) 8%, var(--surface-soft)) 100%
+      );
+    box-shadow:
+      inset 0 1px 1px oklch(100% 0 0 / 0.82),
+      inset 0 -2px 0 color-mix(in oklch, var(--pad-accent) 16%, oklch(24% 0.012 65 / 0.14)),
+      0 4px 0 color-mix(in oklch, var(--pad-accent) 24%, oklch(23% 0.018 65 / 0.17)),
+      0 7px 12px color-mix(in oklch, var(--pad-accent) 12%, transparent);
+  }
 }
 
 .sheet-layer {
@@ -1309,20 +1466,166 @@ button {
   font-weight: 750;
 }
 
-.current-dot {
-  color: var(--success);
-  font-size: 12px;
-  font-weight: 900;
-}
 
 .quiet-danger {
-  width: 100%;
+  width: calc(100% - 16px);
+  max-width: 340px;
   min-height: 48px;
-  margin-top: 14px;
-  border: 0;
+  margin: 20px auto 4px;
+  padding: 10px 24px;
+  border-radius: 18px;
+  border: 1.5px solid color-mix(in oklch, var(--danger) 18%, transparent);
   color: var(--danger);
-  background: transparent;
+  background: color-mix(in oklch, var(--danger) 4%, transparent);
+  font-size: 14px;
+  font-weight: 750;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  cursor: pointer;
+}
+
+.quiet-danger:hover {
+  background: color-mix(in oklch, var(--danger) 8%, transparent);
+  border-color: color-mix(in oklch, var(--danger) 32%, transparent);
+  transform: translateY(-2px);
+  box-shadow: 
+    0 6px 14px color-mix(in oklch, var(--danger) 8%, transparent),
+    inset 0 1px 0 oklch(100% 0 0 / 0.1);
+}
+
+.quiet-danger:active {
+  transform: translateY(0) scale(0.97);
+  background: color-mix(in oklch, var(--danger) 14%, transparent);
+  box-shadow: none;
+}
+
+/* Custom Apple-like Confirm Dialog Modal */
+.dialog-layer {
+  position: fixed;
+  inset: 0;
+  z-index: 100; /* overlay everything */
+  display: grid;
+  place-items: center;
+  padding: 24px;
+}
+
+.dialog-backdrop {
+  position: absolute;
+  inset: 0;
+  background: oklch(0% 0 0 / 0.42);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border: 0;
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+}
+
+.confirm-dialog {
+  position: relative;
+  z-index: 2;
+  width: 100%;
+  max-width: 320px;
+  background: var(--paper);
+  border-radius: 26px;
+  padding: 24px;
+  text-align: center;
+  border: 1px solid var(--line);
+  box-shadow: 
+    0 24px 60px oklch(0% 0 0 / 0.16),
+    0 4px 12px oklch(0% 0 0 / 0.04),
+    inset 0 1px 0 oklch(100% 0 0 / 0.85);
+  animation: dialog-pop 320ms cubic-bezier(0.34, 1.56, 0.64, 1) both;
+}
+
+@keyframes dialog-pop {
+  from { 
+    transform: scale(0.88) translateY(16px); 
+    opacity: 0; 
+  }
+  to { 
+    transform: scale(1) translateY(0); 
+    opacity: 1; 
+  }
+}
+
+.dialog-title {
+  font-family: Georgia, Cambria, "Times New Roman", serif;
+  font-size: 23px;
+  font-weight: 700;
+  color: var(--ink);
+  margin: 0 0 10px;
+}
+
+.dialog-message {
+  color: var(--muted);
+  font-size: 14.5px;
+  font-weight: 650;
+  line-height: 1.45;
+  margin: 0 0 24px;
+}
+
+.dialog-actions {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+
+.dialog-btn-cancel,
+.dialog-btn-danger {
+  min-height: 48px;
+  border-radius: 15px;
+  font-size: 14.5px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.dialog-btn-cancel {
+  background: var(--surface-soft);
+  color: var(--ink);
+  border: 1px solid var(--line);
+  font-weight: 700;
+  box-shadow: 
+    0 1px 2px oklch(0% 0 0 / 0.03),
+    inset 0 1px 0 oklch(100% 0 0 / 0.8);
+}
+
+.dialog-btn-cancel:hover {
+  background: var(--surface);
+  border-color: color-mix(in oklch, var(--gold) 30%, var(--line));
+}
+
+.dialog-btn-cancel:active {
+  transform: scale(0.96);
+  background: color-mix(in oklch, var(--surface-soft) 85%, var(--ink));
+}
+
+.dialog-btn-danger {
+  background: var(--danger);
+  color: var(--surface);
+  border: none;
   font-weight: 800;
+  box-shadow: 
+    0 2px 6px color-mix(in oklch, var(--danger) 16%, transparent),
+    inset 0 1px 0 oklch(100% 0 0 / 0.15);
+}
+
+.dialog-btn-danger:hover {
+  background: color-mix(in oklch, var(--danger) 90%, oklch(100% 0 0));
+  box-shadow: 
+    0 4px 12px color-mix(in oklch, var(--danger) 24%, transparent),
+    inset 0 1px 0 oklch(100% 0 0 / 0.2);
+}
+
+.dialog-btn-danger:active {
+  transform: scale(0.96);
+  background: color-mix(in oklch, var(--danger) 80%, var(--ink));
+  box-shadow: none;
 }
 
 .board-row {
@@ -1393,27 +1696,7 @@ button {
 }
 
 .alert-summary {
-  display: grid;
-  grid-template-columns: auto 1fr;
-  gap: 14px;
-  align-items: center;
-  margin: 4px 0 16px;
-}
-
-.alert-emblem {
-  width: 54px;
-  height: 54px;
-  display: grid;
-  place-items: center;
-  border-radius: 18px;
-  color: var(--gold-deep);
-  background: color-mix(in oklch, var(--gold) 11%, var(--surface-soft));
-  box-shadow: inset 0 1px 0 oklch(100% 0 0 / 0.55);
-}
-
-.alert-emblem svg {
-  width: 27px;
-  height: 27px;
+  margin: 4px 0 20px;
 }
 
 .alert-sheet h3 {
@@ -1761,6 +2044,17 @@ button {
   }
 }
 
+@keyframes manual-numbers-rise {
+  from {
+    opacity: 0;
+    transform: translateY(18px) scale(0.985);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
 @keyframes waiting-card {
   from {
     opacity: 0;
@@ -1814,6 +2108,7 @@ button {
 
   .manual-controls {
     padding-inline: 10px;
+    padding-bottom: calc(30px + var(--safe-bottom));
     gap: 8px;
   }
 
@@ -1836,6 +2131,10 @@ button {
 
   .manual-column {
     min-height: 38px;
+  }
+
+  .manual-columns {
+    padding-bottom: 13px;
   }
 
   .manual-number {

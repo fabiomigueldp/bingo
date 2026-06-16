@@ -126,11 +126,6 @@ function SetupScreen({ onStart }) {
   return (
     <main className="setup-screen">
       <section className="setup-hero" aria-labelledby="setup-title">
-        <div className="mini-mark" aria-hidden="true">
-          <span />
-          <span />
-          <span />
-        </div>
         <h1 id="setup-title">Bingo</h1>
         <p>Violência e discriminação</p>
       </section>
@@ -178,7 +173,6 @@ function SetupScreen({ onStart }) {
             aria-pressed={drawMode === DRAW_MODES.APP}
           >
             <strong>App sorteia</strong>
-            <span>Embaralha e puxa as cartas</span>
           </button>
           <button
             type="button"
@@ -187,7 +181,6 @@ function SetupScreen({ onStart }) {
             aria-pressed={drawMode === DRAW_MODES.MANUAL}
           >
             <strong>Globo físico</strong>
-            <span>Registre as bolinhas</span>
           </button>
         </div>
       </section>
@@ -358,6 +351,10 @@ function ManualCallControls({ game, onUndo, onCall, onHistory, busy = false }) {
     if (!currentCode) setActiveColumn("");
   }, [currentCode]);
 
+  function chooseColumn(column) {
+    setActiveColumn((current) => (current === column ? "" : column));
+  }
+
   function columnAvailable(column) {
     return numbers.some((number) => {
       const card = cardByCode[`${column}${number}`];
@@ -378,7 +375,7 @@ function ManualCallControls({ game, onUndo, onCall, onHistory, busy = false }) {
   }
 
   return (
-    <nav className="manual-controls" aria-label="Registrar chamada física">
+    <nav className={activeColumn ? "manual-controls expanded" : "manual-controls"} aria-label="Registrar chamada física">
       <div className="manual-control-head">
         <button className="tool-button" type="button" onClick={onUndo} disabled={!hasDrawn || busy}>
           <Icon name="undo" />
@@ -412,33 +409,35 @@ function ManualCallControls({ game, onUndo, onCall, onHistory, busy = false }) {
               type="button"
               key={column}
               className={activeColumn === column ? "manual-column selected" : "manual-column"}
-              onClick={() => setActiveColumn(column)}
+              onClick={() => chooseColumn(column)}
               disabled={busy || finished || !columnAvailable(column)}
               aria-pressed={activeColumn === column}
               aria-label={`Letra ${column}`}
             >
-              {column}
+              <span>{column}</span>
             </button>
           ))}
         </div>
 
-        <div className="manual-numbers" aria-label="Número da bolinha">
-          {numbers.map((number) => {
-            const card = activeColumn ? cardByCode[`${activeColumn}${number}`] : null;
-            const used = card ? drawnSet.has(card.id) : false;
-            return (
-              <button
-                type="button"
-                key={number}
-                className={used ? "manual-number used" : "manual-number"}
-                onClick={() => submitNumber(number)}
-                disabled={busy || !activeColumn || used}
-                aria-label={activeColumn ? `${activeColumn}${number}` : `Número ${number}`}
-              >
-                {number}
-              </button>
-            );
-          })}
+        <div className="manual-numbers-shell" aria-hidden={!activeColumn}>
+          <div key={activeColumn || "closed"} className="manual-numbers" aria-label="Número da bolinha">
+            {numbers.map((number) => {
+              const card = activeColumn ? cardByCode[`${activeColumn}${number}`] : null;
+              const used = card ? drawnSet.has(card.id) : false;
+              return (
+                <button
+                  type="button"
+                  key={number}
+                  className={used ? "manual-number used" : "manual-number"}
+                  onClick={() => submitNumber(number)}
+                  disabled={busy || !activeColumn || used}
+                  aria-label={activeColumn ? `${activeColumn}${number}` : `Número ${number}`}
+                >
+                  {number}
+                </button>
+              );
+            })}
+          </div>
         </div>
       </div>
     </nav>
@@ -472,7 +471,6 @@ function HistorySheet({ game, onClose, onNewGame }) {
           <div className="history-row" key={`${card.id}-${index}`} style={{ "--row-accent": COLUMN_COLORS[card.column] }}>
             <span className="history-code">{card.code}</span>
             <span className="history-label">{card.label}</span>
-            {index === 0 ? <span className="current-dot">Atual</span> : null}
           </div>
         ))}
       </div>
@@ -551,9 +549,6 @@ function AlertSheet({ game, alerts, onClose, onConfer }) {
   return (
     <BottomSheet title="Conferência" onClose={onClose} className="alert-sheet">
       <div className="alert-summary">
-        <div className="alert-emblem" aria-hidden="true">
-          <Icon name="spark" />
-        </div>
         <div>
           <h3>
             {isMultiple
@@ -657,11 +652,32 @@ function Toast({ message }) {
   return <div className="toast">{message}</div>;
 }
 
+function ConfirmDialog({ title, message, confirmLabel, cancelLabel, onConfirm, onCancel }) {
+  return (
+    <div className="dialog-layer" role="presentation">
+      <button className="dialog-backdrop" type="button" aria-label="Cancelar" onClick={onCancel} />
+      <section className="confirm-dialog" role="dialog" aria-modal="true" aria-label={title}>
+        <h2 className="dialog-title">{title}</h2>
+        <p className="dialog-message">{message}</p>
+        <div className="dialog-actions">
+          <button className="dialog-btn-cancel" type="button" onClick={onCancel}>
+            {cancelLabel}
+          </button>
+          <button className="dialog-btn-danger" type="button" onClick={onConfirm}>
+            {confirmLabel}
+          </button>
+        </div>
+      </section>
+    </div>
+  );
+}
+
 function GameScreen({ game, setGame, onReset }) {
   const [sheet, setSheet] = useState(null);
   const [conferenceBoard, setConferenceBoard] = useState(null);
   const [toast, setToast] = useState("");
   const [flight, setFlight] = useState(null);
+  const [showConfirmReset, setShowConfirmReset] = useState(false);
   const flightTimers = useRef([]);
   const drawMode = game.drawMode || DRAW_MODES.APP;
   const currentCard = game.drawnIds.length ? cardById[game.drawnIds.at(-1)] : null;
@@ -745,9 +761,7 @@ function GameScreen({ game, setGame, onReset }) {
   }
 
   function newGame() {
-    if (window.confirm("Começar um novo jogo?")) {
-      onReset();
-    }
+    setShowConfirmReset(true);
   }
 
   const drawnCount = game.drawnIds.length;
@@ -790,6 +804,21 @@ function GameScreen({ game, setGame, onReset }) {
         />
       ) : null}
       <Toast message={toast} />
+      
+      {showConfirmReset ? (
+        <ConfirmDialog
+          title="Novo jogo?"
+          message="Todo o progresso do jogo atual será perdido. Deseja mesmo reiniciar?"
+          confirmLabel="Sim, reiniciar"
+          cancelLabel="Cancelar"
+          onConfirm={() => {
+            onReset();
+            setShowConfirmReset(false);
+            setSheet(null);
+          }}
+          onCancel={() => setShowConfirmReset(false)}
+        />
+      ) : null}
     </main>
   );
 }
