@@ -726,16 +726,99 @@ function BottomSheet({ title, children, onClose, className = "" }) {
   );
 }
 
+function HistoryDisclosure({ card, historyKey, isOpen, onToggle }) {
+  return (
+    <div
+      className={isOpen ? "history-row open" : "history-row"}
+      data-history-id={historyKey}
+      style={{ "--row-accent": COLUMN_COLORS[card.column] }}
+    >
+      <button
+        className="history-summary"
+        type="button"
+        aria-expanded={isOpen}
+        onClick={(event) => {
+          event.stopPropagation();
+          onToggle();
+        }}
+      >
+        <span className="history-code">{card.code}</span>
+        <span className="history-label">{card.label}</span>
+        <span className="history-cue" aria-hidden="true">
+          <Icon name="chevron" />
+        </span>
+      </button>
+
+      {isOpen ? (
+        <div className="history-detail">
+          <div className="history-detail-section">
+            <span className="history-detail-label">Caso</span>
+            <p>{card.case}</p>
+          </div>
+          <div className="history-detail-section">
+            <span className="history-detail-label">Explicação</span>
+            <p>{renderRich(card.explanation)}</p>
+          </div>
+          {card.readingPoints?.length ? (
+            <ol className="history-points">
+              {card.readingPoints.map((point) => (
+                <li key={point.title}>
+                  <strong>{point.title}:</strong> {point.body}
+                </li>
+              ))}
+            </ol>
+          ) : null}
+          {card.conferenceQuestion ? <div className="history-question">{card.conferenceQuestion}</div> : null}
+        </div>
+      ) : null}
+    </div>
+  );
+}
+
 function HistorySheet({ game, onClose, onNewGame }) {
-  const cards = [...game.drawnIds].reverse().map((id) => cardById[id]);
+  const cards = [...game.drawnIds].reverse().map((id) => cardById[id]).filter(Boolean);
+  const [openHistoryId, setOpenHistoryId] = useState(null);
+  const scrollRef = useRef(null);
+
+  useEffect(() => {
+    if (!openHistoryId) return undefined;
+    const scrollEl = scrollRef.current;
+    if (!scrollEl) return undefined;
+
+    const frame = window.requestAnimationFrame(() => {
+      const item = scrollEl.querySelector(`[data-history-id="${openHistoryId}"]`);
+      if (!item) return;
+
+      const scrollRect = scrollEl.getBoundingClientRect();
+      const itemRect = item.getBoundingClientRect();
+      const topRoom = 10;
+      const bottomRoom = 16;
+      const overflowTop = scrollRect.top + topRoom - itemRect.top;
+      const overflowBottom = itemRect.bottom - (scrollRect.bottom - bottomRoom);
+      const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+      const behavior = reduceMotion ? "auto" : "smooth";
+
+      if (overflowTop > 0) {
+        scrollEl.scrollBy({ top: -overflowTop, behavior });
+      } else if (overflowBottom > 0) {
+        scrollEl.scrollBy({ top: itemRect.top - scrollRect.top - topRoom, behavior });
+      }
+    });
+
+    return () => window.cancelAnimationFrame(frame);
+  }, [openHistoryId]);
+
   return (
     <BottomSheet title="Chamadas" onClose={onClose}>
-      <div className="history-list">
+      <div className="history-list" ref={scrollRef}>
         {cards.map((card, index) => (
-          <div className="history-row" key={`${card.id}-${index}`} style={{ "--row-accent": COLUMN_COLORS[card.column] }}>
-            <span className="history-code">{card.code}</span>
-            <span className="history-label">{card.label}</span>
-          </div>
+          <HistoryDisclosure
+            card={card}
+            historyKey={`${card.id}-${index}`}
+            isOpen={openHistoryId === `${card.id}-${index}`}
+            key={`${card.id}-${index}`}
+            onToggle={() => setOpenHistoryId((current) => (current === `${card.id}-${index}` ? null : `${card.id}-${index}`))}
+          />
         ))}
       </div>
       <button className="quiet-danger" type="button" onClick={onNewGame}>
