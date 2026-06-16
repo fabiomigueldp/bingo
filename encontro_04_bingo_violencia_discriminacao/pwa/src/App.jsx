@@ -434,71 +434,150 @@ function BottomControls({ game, onUndo, onDraw, onHistory, busy = false }) {
 
 function ManualCallControls({ game, onUndo, onCall, onHistory, busy = false }) {
   const [activeColumn, setActiveColumn] = useState("");
+  const [pendingManualCode, setPendingManualCode] = useState("");
+  const [motionPhase, setMotionPhase] = useState("idle");
+  const [pressedNumber, setPressedNumber] = useState("");
   const lastColumnRef = useRef("");
+  const manualCallTimers = useRef([]);
   if (activeColumn && activeColumn !== lastColumnRef.current) {
     lastColumnRef.current = activeColumn;
   }
   const renderColumn = activeColumn || lastColumnRef.current;
   
   const [lastCode, setLastCode] = useState("");
-  const [pulseKey, setPulseKey] = useState(0);
   const hasDrawn = game.drawnIds.length > 0;
   const drawnSet = useMemo(() => new Set(game.drawnIds), [game.drawnIds]);
   const finished = game.drawnIds.length >= data.cards.length;
   const numbers = useMemo(() => Array.from({ length: 15 }, (_, index) => (index + 1).toString().padStart(2, "0")), []);
   const currentCode = game.drawnIds.length ? cardById[game.drawnIds.at(-1)]?.code || "" : "";
-  const displayCode = activeColumn || lastCode || "...";
-  const ballState = activeColumn ? "selecting" : lastCode ? "called" : "idle";
-  const ballColumn = activeColumn || (lastCode ? lastCode[0] : "");
+  const displayCode = pendingManualCode || activeColumn || lastCode || "...";
+  const ballState = pendingManualCode ? "committing" : activeColumn ? "selecting" : lastCode ? "called" : "idle";
+  const ballColumn = activeColumn || (pendingManualCode ? pendingManualCode[0] : lastCode ? lastCode[0] : "");
   const ballAccentColor = ballColumn ? COLUMN_COLORS[ballColumn] : "oklch(92% 0.015 80)";
+  const locked = busy || Boolean(pendingManualCode);
+  const activeColumnIndex = COLUMN_ORDER.indexOf(activeColumn);
+  const controlsClass = [
+    "manual-controls",
+    activeColumn ? "expanded" : "",
+    pendingManualCode ? "committing" : "",
+    motionPhase !== "idle" ? `motion-${motionPhase}` : ""
+  ].filter(Boolean).join(" ");
+  const availableColumns = useMemo(() => {
+    return Object.fromEntries(
+      COLUMN_ORDER.map((column) => [
+        column,
+        numbers.some((number) => {
+          const card = cardByCode[`${column}${number}`];
+          return card && !drawnSet.has(card.id);
+        })
+      ])
+    );
+  }, [drawnSet, numbers]);
+  const numberStates = useMemo(() => {
+    return numbers.map((number) => {
+      const card = renderColumn ? cardByCode[`${renderColumn}${number}`] : null;
+      return {
+        number,
+        used: card ? drawnSet.has(card.id) : false,
+        label: renderColumn ? `${renderColumn}${number}` : `Número ${number}`
+      };
+    });
+  }, [drawnSet, numbers, renderColumn]);
 
   useEffect(() => {
     setLastCode(currentCode);
-    if (!currentCode) setActiveColumn("");
+    if (!currentCode) {
+      setActiveColumn("");
+      setMotionPhase("idle");
+      setPressedNumber("");
+    }
   }, [currentCode]);
 
-  function chooseColumn(column) {
-    setActiveColumn((current) => (current === column ? "" : column));
+  useEffect(() => {
+    return () => {
+      clearManualCallTimers();
+    };
+  }, []);
+
+  function clearManualCallTimers() {
+    manualCallTimers.current.forEach((timer) => window.clearTimeout(timer));
+    manualCallTimers.current = [];
   }
 
-  function columnAvailable(column) {
-    return numbers.some((number) => {
-      const card = cardByCode[`${column}${number}`];
-      return card && !drawnSet.has(card.id);
-    });
+  function scheduleManualCall(callback, delay) {
+    const timer = window.setTimeout(() => {
+      manualCallTimers.current = manualCallTimers.current.filter((item) => item !== timer);
+      callback();
+    }, delay);
+    manualCallTimers.current.push(timer);
+  }
+
+  function chooseColumn(column) {
+    if (locked) return;
+    setPressedNumber("");
+    const nextColumn = activeColumn === column ? "" : column;
+    setActiveColumn(nextColumn);
+    setMotionPhase(nextColumn ? "selecting" : "idle");
   }
 
   function submitNumber(number) {
-    if (!activeColumn || busy) return;
+    if (!activeColumn || locked) return;
     const code = `${activeColumn}${number}`;
     const card = cardByCode[code];
     if (!card || drawnSet.has(card.id)) return;
 
-    onCall(card.id);
     setLastCode(code);
-    setActiveColumn("");
-    setPulseKey((current) => current + 1);
+    setPressedNumber(number);
+    setMotionPhase("committing");
+    setPendingManualCode(code);
+
+    clearManualCallTimers();
+
+    const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    if (reduceMotion) {
+      setActiveColumn("");
+      onCall(card.id);
+      setPendingManualCode("");
+      setPressedNumber("");
+      setMotionPhase("idle");
+      return;
+    }
+
+    scheduleManualCall(() => {
+      setMotionPhase("closing");
+      onCall(card.id);
+    }, 210);
+
+    scheduleManualCall(() => {
+      setActiveColumn("");
+      setPendingManualCode("");
+      setPressedNumber("");
+      setMotionPhase("idle");
+    }, 440);
   }
 
   return (
-    <nav className={activeColumn ? "manual-controls expanded" : "manual-controls"} aria-label="Registrar chamada física">
+    <nav
+      className={controlsClass}
+      aria-label="Registrar chamada física"
+      aria-busy={locked}
+    >
       <div className="manual-control-head">
-        <button className="tool-button" type="button" onClick={onUndo} disabled={!hasDrawn || busy}>
+        <button className="tool-button" type="button" onClick={onUndo} disabled={!hasDrawn || locked}>
           <Icon name="undo" />
           <span>Voltar</span>
         </button>
 
         <div className="manual-ball-wrap" aria-live="polite">
           <div
-            key={pulseKey}
             className={`manual-ball ${ballState}`}
             style={{ "--ball-accent": ballAccentColor }}
           >
-            <strong>{displayCode}</strong>
+            <strong key={displayCode}>{displayCode}</strong>
           </div>
         </div>
 
-        <button className="tool-button" type="button" onClick={onHistory} disabled={!hasDrawn || busy}>
+        <button className="tool-button" type="button" onClick={onHistory} disabled={!hasDrawn || locked}>
           <Icon name="list" />
           <span>Histórico</span>
         </button>
@@ -509,14 +588,18 @@ function ManualCallControls({ game, onUndo, onCall, onHistory, busy = false }) {
         aria-label="Código da bolinha"
         style={{ "--pad-accent": ballAccentColor }}
       >
-        <div className="manual-columns" aria-label="Letra da bolinha">
+        <div
+          className={activeColumn ? "manual-columns has-selection" : "manual-columns"}
+          aria-label="Letra da bolinha"
+          data-selected-index={activeColumnIndex >= 0 ? activeColumnIndex : undefined}
+        >
           {COLUMN_ORDER.map((column) => (
             <button
               type="button"
               key={column}
               className={activeColumn === column ? "manual-column selected" : "manual-column"}
               onClick={() => chooseColumn(column)}
-              disabled={busy || finished || !columnAvailable(column)}
+              disabled={locked || finished || !availableColumns[column]}
               aria-pressed={activeColumn === column}
               aria-label={`Letra ${column}`}
             >
@@ -527,19 +610,17 @@ function ManualCallControls({ game, onUndo, onCall, onHistory, busy = false }) {
 
         <div className="manual-numbers-shell" aria-hidden={!activeColumn}>
           <div className="manual-numbers" aria-label="Número da bolinha">
-            {numbers.map((number) => {
-              const card = renderColumn ? cardByCode[`${renderColumn}${number}`] : null;
-              const used = card ? drawnSet.has(card.id) : false;
-              // Provide a fallback disabled state if no active column
-              const isActuallyDisabled = busy || !activeColumn || used;
+            {numberStates.map(({ number, used, label }) => {
+              const isActuallyDisabled = locked || !activeColumn || used;
+              const isChosen = pressedNumber === number && Boolean(pendingManualCode);
               return (
                 <button
                   type="button"
                   key={number}
-                  className={used ? "manual-number used" : "manual-number"}
+                  className={`manual-number${used ? " used" : ""}${isChosen ? " chosen" : ""}`}
                   onClick={() => submitNumber(number)}
                   disabled={isActuallyDisabled}
-                  aria-label={renderColumn ? `${renderColumn}${number}` : `Número ${number}`}
+                  aria-label={label}
                 >
                   {number}
                 </button>
@@ -559,6 +640,7 @@ function BottomSheet({ title, children, onClose, className = "" }) {
   const gesture = useRef(null);
   const closeTimer = useRef(null);
   const suppressClick = useRef(false);
+  const interactiveSelector = "button:not(:disabled), a, input, textarea, select";
 
   function closeSheet(resetDrag = true) {
     if (closing) return;
@@ -574,7 +656,8 @@ function BottomSheet({ title, children, onClose, className = "" }) {
 
   function startGesture(clientY, target, pointerId = null) {
     if (closing) return false;
-    if (target.closest("button:not(:disabled), a, input, textarea, select")) return false;
+    if (target.closest(interactiveSelector)) return false;
+    const scrollEl = target.closest(".history-detail, .history-list, .boards-list, .materials-list, .rules-list, .conference-scroll");
 
     gesture.current = {
       startY: clientY,
@@ -582,7 +665,8 @@ function BottomSheet({ title, children, onClose, className = "" }) {
       startTime: performance.now(),
       active: false,
       pointerId,
-      scrollEl: target.closest(".history-list, .boards-list, .materials-list, .rules-list, .conference-scroll")
+      scrollEl,
+      parentScrollEl: scrollEl?.classList?.contains("history-detail") ? scrollEl.closest(".history-list") : null
     };
     return true;
   }
@@ -603,6 +687,7 @@ function BottomSheet({ title, children, onClose, className = "" }) {
     }
 
     if (current.scrollEl && current.scrollEl.scrollTop > 1) return;
+    if (current.parentScrollEl && current.parentScrollEl.scrollTop > 1) return;
 
     if (delta > 6 || current.active) {
       current.active = true;
@@ -675,6 +760,7 @@ function BottomSheet({ title, children, onClose, className = "" }) {
   function captureClick(event) {
     if (!suppressClick.current) return;
     suppressClick.current = false;
+    if (event.target.closest(interactiveSelector)) return;
     event.preventDefault();
     event.stopPropagation();
   }
@@ -737,10 +823,7 @@ function HistoryDisclosure({ card, historyKey, isOpen, onToggle }) {
         className="history-summary"
         type="button"
         aria-expanded={isOpen}
-        onClick={(event) => {
-          event.stopPropagation();
-          onToggle();
-        }}
+        onClick={onToggle}
       >
         <span className="history-code">{card.code}</span>
         <span className="history-label">{card.label}</span>
@@ -809,15 +892,15 @@ function HistorySheet({ game, onClose, onNewGame }) {
   }, [openHistoryId]);
 
   return (
-    <BottomSheet title="Chamadas" onClose={onClose}>
+    <BottomSheet title="Chamadas" onClose={onClose} className="history-sheet">
       <div className="history-list" ref={scrollRef}>
-        {cards.map((card, index) => (
+        {cards.map((card) => (
           <HistoryDisclosure
             card={card}
-            historyKey={`${card.id}-${index}`}
-            isOpen={openHistoryId === `${card.id}-${index}`}
-            key={`${card.id}-${index}`}
-            onToggle={() => setOpenHistoryId((current) => (current === `${card.id}-${index}` ? null : `${card.id}-${index}`))}
+            historyKey={card.id}
+            isOpen={openHistoryId === card.id}
+            key={card.id}
+            onToggle={() => setOpenHistoryId((current) => (current === card.id ? null : card.id))}
           />
         ))}
       </div>
