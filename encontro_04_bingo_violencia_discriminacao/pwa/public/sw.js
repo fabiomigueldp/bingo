@@ -4,9 +4,20 @@ const APP_SHELL = [
   "./index.html",
   "./manifest.webmanifest",
   "./icon.svg",
+  "./favicon.ico",
+  "./favicon-16x16.png",
+  "./favicon-32x32.png",
   "./icons/icon-192.png",
   "./icons/icon-512.png",
+  "./icons/maskable-192.png",
+  "./icons/maskable-512.png",
   "./icons/apple-touch-icon.png",
+  "./icons/apple-touch-icon-120x120.png",
+  "./icons/apple-touch-icon-152x152.png",
+  "./icons/apple-touch-icon-167x167.png",
+  "./icons/apple-touch-icon-180x180.png",
+  "./screenshots/iphone-portrait.png",
+  "./screenshots/ipad-portrait.png",
   "./materials/cartelas_bingo_24_a4.pdf",
   "./materials/kit_impressao_bingo_violencia_discriminacao.pdf"
 ];
@@ -26,26 +37,39 @@ self.addEventListener("activate", (event) => {
   );
 });
 
+self.addEventListener("message", (event) => {
+  if (event.data?.type === "SKIP_WAITING") self.skipWaiting();
+});
+
 self.addEventListener("fetch", (event) => {
   if (event.request.method !== "GET") return;
+
+  const requestUrl = new URL(event.request.url);
+  if (requestUrl.origin !== self.location.origin) return;
+
+  if (event.request.mode === "navigate") {
+    event.respondWith(
+      fetch(event.request)
+        .then((response) => {
+          const copy = response.clone();
+          caches.open(CACHE_NAME).then((cache) => cache.put("./index.html", copy));
+          return response;
+        })
+        .catch(() => caches.match("./index.html").then((home) => home || caches.match("./")))
+    );
+    return;
+  }
 
   event.respondWith(
     caches.match(event.request, { ignoreSearch: true }).then((cached) => {
       if (cached) return cached;
 
-      return fetch(event.request)
-        .then((response) => {
-          if (!response || response.status !== 200 || response.type === "opaque") return response;
-          const copy = response.clone();
-          caches.open(CACHE_NAME).then((cache) => cache.put(event.request, copy));
-          return response;
-        })
-        .catch(() => {
-          if (event.request.mode === "navigate") {
-            return caches.match("./").then((home) => home || caches.match("./index.html"));
-          }
-          return undefined;
-        });
+      return fetch(event.request).then((response) => {
+        if (!response || response.status !== 200 || response.type === "opaque") return response;
+        const copy = response.clone();
+        caches.open(CACHE_NAME).then((cache) => cache.put(event.request, copy));
+        return response;
+      });
     })
   );
 });

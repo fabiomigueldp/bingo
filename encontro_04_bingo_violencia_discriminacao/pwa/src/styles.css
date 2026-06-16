@@ -36,6 +36,7 @@
 html,
 body,
 #root {
+  height: 100%;
   min-height: 100%;
 }
 
@@ -59,15 +60,31 @@ button {
 
 .setup-screen {
   height: 100dvh;
+  min-height: 100svh;
   max-height: 100dvh;
   width: min(100%, 520px);
   margin: 0 auto;
   position: relative;
   overflow: hidden;
-  padding: max(18px, env(safe-area-inset-top)) 18px calc(96px + var(--safe-bottom));
+  display: grid;
+  grid-template-rows: minmax(0, 1fr) auto;
+  background: transparent;
+}
+
+.setup-content {
+  min-height: 0;
+  overflow-y: auto;
+  overscroll-behavior-y: contain;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+  padding: max(18px, env(safe-area-inset-top)) 18px 18px;
   display: grid;
   align-content: start;
   gap: 18px;
+}
+
+.setup-content::-webkit-scrollbar {
+  display: none;
 }
 
 .setup-screen.starting {
@@ -156,7 +173,7 @@ button {
 
 .board-grid {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 8px;
 }
 
@@ -229,15 +246,7 @@ button {
 
 .call-mode-picker {
   display: grid;
-  gap: 8px;
-  margin-top: 18px; /* Extra breathing room from the board picker */
-}
-
-.mode-head {
-  padding: 0 4px;
-  color: var(--muted);
-  font-size: 13px;
-  font-weight: 800;
+  margin-top: 8px;
 }
 
 .mode-options {
@@ -311,11 +320,8 @@ button {
 }
 
 .setup-footer {
-  position: fixed;
-  left: 50%;
-  bottom: 0;
-  width: min(100%, 520px);
-  transform: translateX(-50%);
+  position: relative;
+  width: 100%;
   padding: 18px 20px calc(18px + var(--safe-bottom));
   z-index: 5;
   backdrop-filter: blur(10px);
@@ -555,7 +561,6 @@ button {
   min-height: 0;
   display: grid;
   place-items: center;
-  perspective: 1100px;
   position: relative;
   padding: 8px 14px 14px;
   transition: padding 260ms cubic-bezier(0.22, 1, 0.36, 1);
@@ -572,7 +577,7 @@ button {
   height: min(72%, 604px);
   max-height: 604px;
   border-radius: 32px;
-  transform: translateY(12px) rotateX(2.5deg) rotateZ(-1deg);
+  transform: translateY(12px) rotateZ(-1deg);
   background:
     linear-gradient(180deg, oklch(99% 0.012 82), oklch(94.5% 0.016 76));
   border: 1px solid oklch(84% 0.02 75);
@@ -590,17 +595,17 @@ button {
   border-radius: 28px;
   border: 1px solid oklch(86% 0.02 75 / 0.72);
   background: oklch(97% 0.012 82 / 0.72);
-  transform: translate3d(0, 8px, -1px) rotateZ(0.8deg);
+  transform: translateY(8px) rotateZ(0.8deg);
 }
 
 .deck-shadow::after {
   inset: 13px;
-  transform: translate3d(0, 15px, -2px) rotateZ(-0.8deg);
+  transform: translateY(15px) rotateZ(-0.8deg);
   opacity: 0.58;
 }
 
 .deck-shadow.drawing {
-  transform: translateY(18px) rotateX(7deg) rotateZ(-2deg) scale(0.988);
+  transform: translateY(18px) rotateZ(-2deg) scale(0.988);
   box-shadow: 0 20px 34px oklch(28% 0.02 70 / 0.13);
 }
 
@@ -661,6 +666,7 @@ button {
   position: relative;
   width: min(100%, 390px);
   height: min(100%, 632px);
+  perspective: 1100px;
   transform-style: preserve-3d;
   pointer-events: none;
   z-index: 2;
@@ -780,7 +786,7 @@ button {
 .call-card h2 {
   margin: 8px 0 0;
   font-size: 34px;
-  line-height: 1.06;
+  line-height: 36px;
   letter-spacing: 0;
   font-weight: 760;
   color: var(--charcoal);
@@ -790,7 +796,7 @@ button {
 .card-section p {
   margin: 7px 0 0;
   font-size: 16px;
-  line-height: 1.46;
+  line-height: 24px;
   color: var(--ink);
 }
 
@@ -844,7 +850,7 @@ button {
   padding: 0 0 0 18px;
   color: var(--ink);
   font-size: 13.25px;
-  line-height: 1.46;
+  line-height: 19px;
 }
 
 .support-list li {
@@ -874,7 +880,7 @@ button {
   border: 1px solid color-mix(in oklch, var(--card-accent) 22%, var(--line));
   font-size: 14px;
   font-weight: 750;
-  line-height: 1.45;
+  line-height: 20px;
   color: color-mix(in oklch, var(--card-accent) 85%, var(--charcoal));
   box-shadow: inset 0 1px 0 oklch(100% 0 0 / 0.66);
 }
@@ -1607,7 +1613,6 @@ button {
 
 .history-row,
 .board-row,
-.material-row,
 .rules-list li {
   min-height: 62px;
   border: 1px solid color-mix(in oklch, var(--line) 82%, oklch(100% 0 0));
@@ -1621,61 +1626,53 @@ button {
 
 .materials-sheet,
 .rules-sheet {
-  max-height: min(70dvh, 520px);
+  max-height: min(76dvh, 560px);
 }
 
 .material-row {
   text-decoration: none;
   color: var(--ink);
   display: grid;
-  grid-template-columns: auto 1fr auto;
+  grid-template-columns: auto 1fr;
   align-items: center;
-  gap: 12px;
-  padding: 11px 12px;
+  gap: 16px;
+  padding: 14px 16px;
+  margin-bottom: 12px;
+  border-radius: 18px;
+  background: color-mix(in oklch, var(--line) 15%, var(--surface));
+  border: 1px solid color-mix(in oklch, var(--line) 40%, transparent);
+  box-shadow: 0 2px 8px color-mix(in oklch, var(--line) 15%, transparent);
   animation: sheet-row-in 240ms cubic-bezier(0.22, 1, 0.36, 1) backwards;
-  transition:
-    transform 120ms cubic-bezier(0.25, 0.46, 0.45, 0.94),
-    box-shadow 120ms cubic-bezier(0.25, 0.46, 0.45, 0.94),
-    border-color 180ms cubic-bezier(0.22, 1, 0.36, 1),
-    background 180ms cubic-bezier(0.22, 1, 0.36, 1);
+  transition: transform 150ms ease, background 150ms ease, box-shadow 150ms ease;
+}
+
+.materials-list .material-row:last-child {
+  margin-bottom: 0;
+}
+
+.material-row:hover {
+  background: color-mix(in oklch, var(--line) 25%, var(--surface));
 }
 
 .material-row:nth-child(2) {
   animation-delay: 18ms;
 }
 
-.material-row.recommended {
-  border-color: color-mix(in oklch, var(--gold) 42%, var(--line));
-  background:
-    linear-gradient(180deg, color-mix(in oklch, var(--gold) 8%, var(--surface)) 0%, color-mix(in oklch, var(--gold) 12%, var(--surface-soft)) 100%);
-}
-
-.material-row:hover {
-  border-color: color-mix(in oklch, var(--gold) 36%, var(--line));
-}
-
 .material-row:active {
-  transform: translateY(2px);
-  box-shadow:
-    inset 0 1px 0 oklch(100% 0 0 / 0.62),
-    0 1px 0 color-mix(in oklch, var(--gold) 18%, var(--line)),
-    0 3px 8px color-mix(in oklch, var(--gold) 6%, transparent);
+  transform: scale(0.97);
+  background: color-mix(in oklch, var(--line) 30%, var(--surface));
+  box-shadow: 0 1px 2px color-mix(in oklch, var(--line) 10%, transparent);
 }
 
 .material-icon {
-  width: 42px;
-  height: 42px;
+  width: 46px;
+  height: 46px;
   border-radius: 14px;
   display: grid;
   place-items: center;
-  color: var(--gold-deep);
-  background:
-    radial-gradient(circle at 32% 22%, oklch(100% 0 0 / 0.56), transparent 36%),
-    color-mix(in oklch, var(--gold) 13%, var(--surface));
-  border: 1px solid color-mix(in oklch, var(--gold) 25%, var(--line));
-  box-shadow:
-    inset 0 1px 0 oklch(100% 0 0 / 0.72),
-    0 1px 2px color-mix(in oklch, var(--gold) 8%, transparent);
+  color: var(--surface);
+  background: var(--ink);
+  box-shadow: inset 0 1.5px 1px oklch(100% 0 0 / 0.25);
 }
 
 .material-icon svg {
@@ -1690,29 +1687,18 @@ button {
 }
 
 .material-copy strong {
-  font-size: 16px;
-  font-weight: 900;
+  font-size: 16.5px;
+  font-weight: 850;
+  letter-spacing: -0.01em;
 }
 
 .material-copy small {
   color: var(--muted);
-  font-size: 12px;
-  font-weight: 760;
+  font-size: 13px;
+  font-weight: 650;
 }
 
-.material-mark {
-  min-height: 28px;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  padding: 0 10px;
-  border-radius: 999px;
-  background: color-mix(in oklch, var(--gold) 12%, var(--surface));
-  border: 1px solid color-mix(in oklch, var(--gold) 28%, var(--line));
-  color: var(--gold-deep);
-  font-size: 11px;
-  font-weight: 900;
-}
+
 
 .materials-note {
   margin: 11px 4px 0;
@@ -1724,30 +1710,28 @@ button {
 
 .rules-list {
   margin: 0;
-  padding: 2px 2px 6px;
+  padding: 4px 2px 10px;
   counter-reset: rules;
+  gap: 9px;
 }
 
 .rules-list li {
-  min-height: 58px;
+  min-height: 64px;
   list-style: none;
   counter-increment: rules;
   display: grid;
-  grid-template-columns: 34px 1fr;
+  grid-template-columns: 30px minmax(0, 1fr);
   align-items: center;
   gap: 12px;
-  padding: 10px 13px 10px 11px;
+  padding: 11px 14px 11px 12px;
   color: var(--ink);
-  font-size: 14px;
-  font-weight: 720;
-  line-height: 1.35;
   animation: sheet-row-in 240ms cubic-bezier(0.22, 1, 0.36, 1) backwards;
 }
 
 .rules-list li::before {
   content: counter(rules);
-  width: 32px;
-  height: 32px;
+  width: 28px;
+  height: 28px;
   border-radius: 999px;
   display: grid;
   place-items: center;
@@ -1760,6 +1744,27 @@ button {
   box-shadow:
     inset 0 1px 0 oklch(100% 0 0 / 0.18),
     0 2px 4px oklch(28% 0.02 70 / 0.08);
+}
+
+.rule-copy {
+  min-width: 0;
+  display: grid;
+  gap: 4px;
+}
+
+.rule-copy strong {
+  color: var(--charcoal);
+  font-size: 14.75px;
+  font-weight: 880;
+  line-height: 1.12;
+}
+
+.rule-copy small {
+  color: var(--muted);
+  font-size: 12.75px;
+  font-weight: 700;
+  line-height: 1.18;
+  white-space: nowrap;
 }
 
 .rules-list li:nth-child(2) {
@@ -1776,10 +1781,6 @@ button {
 
 .rules-list li:nth-child(5) {
   animation-delay: 72ms;
-}
-
-.rules-list li:nth-child(6) {
-  animation-delay: 90ms;
 }
 
 .history-row {
@@ -2689,8 +2690,8 @@ button {
 }
 
 @media (max-height: 720px) and (max-width: 520px) {
-  .setup-screen {
-    padding: max(10px, env(safe-area-inset-top)) 12px calc(82px + var(--safe-bottom));
+  .setup-content {
+    padding: max(10px, env(safe-area-inset-top)) 12px 10px;
     gap: 10px;
   }
 
@@ -2728,17 +2729,14 @@ button {
   }
 
   .board-button {
-    min-height: 40px;
-    border-radius: 12px;
-    font-size: 16px;
+    min-height: 44px;
+    border-radius: 13px;
+    font-size: 17px;
   }
 
   .call-mode-picker {
     gap: 6px;
-  }
-
-  .mode-head {
-    display: none;
+    margin-top: 0;
   }
 
   .mode-option {
@@ -2747,12 +2745,21 @@ button {
     font-size: 14px;
   }
 
+  .setup-secondary-actions {
+    gap: 8px;
+    margin-top: 0;
+  }
+
+  .setup-secondary-actions button {
+    min-height: 42px;
+  }
+
   .setup-footer {
     padding: 12px 14px calc(12px + var(--safe-bottom));
   }
 
   .primary-action {
-    min-height: 56px;
+    min-height: 54px;
   }
 }
 

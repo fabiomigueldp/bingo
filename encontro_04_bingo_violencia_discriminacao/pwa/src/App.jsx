@@ -175,76 +175,75 @@ function SetupScreen({ onStart }) {
 
   return (
     <main className={isStarting ? "setup-screen starting" : "setup-screen"}>
-      <section className="setup-hero" aria-labelledby="setup-title">
-        <h1 id="setup-title">Bingo</h1>
-        <p>Violência e discriminação</p>
-      </section>
+      <div className="setup-content">
+        <section className="setup-hero" aria-labelledby="setup-title">
+          <h1 id="setup-title">Bingo</h1>
+          <p>Violência e discriminação</p>
+        </section>
 
-      <section className="board-picker" aria-label="Cartelas da partida">
-        <div className="picker-head">
-          <span>{selected} cartelas</span>
-          <div className="picker-actions">
-            <button type="button" onClick={() => setSelection(data.boards.map((board) => board.number))}>
-              Todas
+        <section className="board-picker" aria-label="Cartelas da partida">
+          <div className="picker-head">
+            <span>{selected} cartelas</span>
+            <div className="picker-actions">
+              <button type="button" onClick={() => setSelection(data.boards.map((board) => board.number))}>
+                Todas
+              </button>
+              <button type="button" onClick={() => setSelection([])}>
+                Limpar
+              </button>
+            </div>
+          </div>
+
+          <div className="board-grid">
+            {data.boards.map((board) => {
+              const isSelected = selection.includes(board.number);
+              return (
+                <button
+                  type="button"
+                  key={board.number}
+                  className={isSelected ? "board-button selected" : "board-button"}
+                  onClick={() => toggle(board.number)}
+                  aria-pressed={isSelected}
+                >
+                  {board.number.toString().padStart(2, "0")}
+                </button>
+              );
+            })}
+          </div>
+        </section>
+
+        <section className="call-mode-picker" aria-label="Forma de chamada">
+          <div className="mode-options" role="group" aria-label="Escolher forma de chamada">
+            <button
+              type="button"
+              className={drawMode === DRAW_MODES.APP ? "mode-option selected" : "mode-option"}
+              onClick={() => setDrawMode(DRAW_MODES.APP)}
+              aria-pressed={drawMode === DRAW_MODES.APP}
+            >
+              <strong>App sorteia</strong>
             </button>
-            <button type="button" onClick={() => setSelection([])}>
-              Limpar
+            <button
+              type="button"
+              className={drawMode === DRAW_MODES.MANUAL ? "mode-option selected" : "mode-option"}
+              onClick={() => setDrawMode(DRAW_MODES.MANUAL)}
+              aria-pressed={drawMode === DRAW_MODES.MANUAL}
+            >
+              <strong>Globo físico</strong>
             </button>
           </div>
-        </div>
+        </section>
 
-        <div className="board-grid">
-          {data.boards.map((board) => {
-            const isSelected = selection.includes(board.number);
-            return (
-              <button
-                type="button"
-                key={board.number}
-                className={isSelected ? "board-button selected" : "board-button"}
-                onClick={() => toggle(board.number)}
-                aria-pressed={isSelected}
-              >
-                {board.number.toString().padStart(2, "0")}
-              </button>
-            );
-          })}
-        </div>
-      </section>
-
-      <section className="call-mode-picker" aria-label="Forma de chamada">
-        <div className="mode-head">
-          <span>Chamada</span>
-        </div>
-        <div className="mode-options" role="group" aria-label="Escolher forma de chamada">
-          <button
-            type="button"
-            className={drawMode === DRAW_MODES.APP ? "mode-option selected" : "mode-option"}
-            onClick={() => setDrawMode(DRAW_MODES.APP)}
-            aria-pressed={drawMode === DRAW_MODES.APP}
-          >
-            <strong>App sorteia</strong>
+        <nav className="setup-secondary-actions" aria-label="Materiais de apoio">
+          <button type="button" onClick={() => setSetupSheet("materials")}>
+            <Icon name="printer" />
+            <span>Imprimir</span>
           </button>
-          <button
-            type="button"
-            className={drawMode === DRAW_MODES.MANUAL ? "mode-option selected" : "mode-option"}
-            onClick={() => setDrawMode(DRAW_MODES.MANUAL)}
-            aria-pressed={drawMode === DRAW_MODES.MANUAL}
-          >
-            <strong>Globo físico</strong>
+          <button type="button" onClick={() => setSetupSheet("rules")}>
+            <Icon name="rules" />
+            <span>Regras</span>
           </button>
-        </div>
-      </section>
-
-      <nav className="setup-secondary-actions" aria-label="Materiais de apoio">
-        <button type="button" onClick={() => setSetupSheet("materials")}>
-          <Icon name="printer" />
-          <span>Imprimir</span>
-        </button>
-        <button type="button" onClick={() => setSetupSheet("rules")}>
-          <Icon name="rules" />
-          <span>Regras</span>
-        </button>
-      </nav>
+        </nav>
+      </div>
 
       <div className="setup-footer">
         <button
@@ -281,13 +280,26 @@ const MATERIAL_OPTIONS = [
 ];
 
 const RULES = [
-  "Escolha no app as cartelas que estão na mesa.",
-  "Sorteie uma carta no app ou uma bolinha no globo físico.",
-  "Leia em voz alta o código e o conceito sorteado.",
-  "As equipes marcam o conceito se ele estiver na cartela.",
-  "Explique o conceito antes da próxima chamada. Use o caso e os apoios do card.",
-  "Vence a equipe que fechar duas linhas na mesma cartela.",
-  "Para validar, a equipe explica pelo menos 3 conceitos de uma das linhas fechadas."
+  {
+    title: "Selecione cartelas",
+    detail: "Só as que estão em jogo."
+  },
+  {
+    title: "Sorteie e leia",
+    detail: "Código + conceito."
+  },
+  {
+    title: "Marquem",
+    detail: "Cada equipe marca se tiver."
+  },
+  {
+    title: "Explique",
+    detail: "Caso + apoios do card."
+  },
+  {
+    title: "Vitória: 2 linhas",
+    detail: "Explique 3 conceitos."
+  }
 ];
 
 function EmptyCard({ drawMode = DRAW_MODES.APP }) {
@@ -753,7 +765,6 @@ function MaterialsSheet({ onClose }) {
               <strong>{item.title}</strong>
               <small>{item.meta}</small>
             </span>
-            {item.recommended ? <span className="material-mark">essencial</span> : null}
           </a>
         ))}
       </div>
@@ -767,7 +778,12 @@ function RulesSheet({ onClose }) {
     <BottomSheet title="Regras" onClose={onClose} className="rules-sheet">
       <ol className="rules-list">
         {RULES.map((rule) => (
-          <li key={rule}>{rule}</li>
+          <li key={rule.title}>
+            <span className="rule-copy">
+              <strong>{rule.title}</strong>
+              <small>{rule.detail}</small>
+            </span>
+          </li>
         ))}
       </ol>
     </BottomSheet>
