@@ -87,6 +87,13 @@ function Icon({ name }) {
       </svg>
     );
   }
+  if (name === "chevron") {
+    return (
+      <svg {...common}>
+        <path d="m8 10 4 4 4-4" stroke="currentColor" strokeWidth="1.9" strokeLinecap="round" strokeLinejoin="round" />
+      </svg>
+    );
+  }
   if (name === "lightbulb") {
     return (
       <svg {...common} viewBox="0 0 24 24">
@@ -138,6 +145,12 @@ function renderRich(text) {
     if (index % 2) return <strong key={`${part}-${index}`}>{part}</strong>;
     return <span key={`${part}-${index}`}>{part}</span>;
   });
+}
+
+function lineTone(line) {
+  if (line.kind === "horizontal") return line.label;
+  if (line.kind === "vertical") return line.label;
+  return line.label.replace("Diagonal ", "");
 }
 
 function SetupScreen({ onStart }) {
@@ -408,9 +421,13 @@ function TopBar({ game, currentCard, onOpenBoards }) {
           {currentCard ? ` · ${currentCard.code}` : ""}
         </div>
       </div>
-      <button className="icon-button board-status" type="button" onClick={onOpenBoards} aria-label="Cartelas em jogo">
+      <button
+        className="icon-button board-status"
+        type="button"
+        onClick={onOpenBoards}
+        aria-label={`${game.activeBoardNumbers.length} cartelas em jogo`}
+      >
         <Icon name="grid" />
-        <span>{game.activeBoardNumbers.length}</span>
       </button>
       <div className="progress-track" aria-hidden="true">
         <span style={{ transform: `scaleX(${progress})` }} />
@@ -794,9 +811,14 @@ function MiniBoard({ board, drawnIds, highlightLineId, compact = false }) {
   const marked = new Set([...drawnIds, "FREE"]);
   const highlight = highlightLineId ? lineDefinitions.find((line) => line.id === highlightLineId) : null;
   const highlightedCells = new Set((highlight?.cells || []).map(([row, col]) => `${row}-${col}`));
+  const markedCount = board.grid.flat().filter((cell) => marked.has(cell.id)).length;
 
   return (
-    <div className={compact ? "mini-board compact" : "mini-board"} aria-label={`Cartela ${board.number}`}>
+    <div
+      className={compact ? "mini-board compact" : "mini-board"}
+      role="img"
+      aria-label={`Cartela ${board.number}, ${markedCount} de 25 casas marcadas`}
+    >
       {board.grid.map((row, rowIndex) =>
         row.map((cell, colIndex) => {
           const key = `${rowIndex}-${colIndex}`;
@@ -807,7 +829,7 @@ function MiniBoard({ board, drawnIds, highlightLineId, compact = false }) {
               key={`${cell.id}-${key}`}
               className={`${isMarked ? "marked" : ""} ${isHighlighted ? "highlighted" : ""}`}
               title={cell.label}
-              aria-label={cell.label}
+              aria-hidden="true"
             />
           );
         })
@@ -884,11 +906,9 @@ function AlertSheet({ game, alerts, onClose, onConfer }) {
             <span className="alert-board-copy">
               <strong>Cartela {board.number.toString().padStart(2, "0")}</strong>
               <small>{lines.length} linhas completas</small>
-              <span className="alert-lines">
-                {lines.slice(0, 2).map((line) => (
-                  <span key={line.id}>{line.label}</span>
-                ))}
-                {lines.length > 2 ? <span>+{lines.length - 2}</span> : null}
+              <span className="alert-lines-text">
+                {lines.slice(0, 2).map(lineTone).join(" · ")}
+                {lines.length > 2 ? ` · +${lines.length - 2}` : ""}
               </span>
             </span>
             <Icon name="check" />
@@ -905,16 +925,73 @@ function AlertSheet({ game, alerts, onClose, onConfer }) {
   );
 }
 
+function ConceptDisclosure({ cell, isOpen, onToggle }) {
+  const card = cell.id === "FREE" ? null : cardById[cell.id];
+  const accent = card ? COLUMN_COLORS[card.column] : "var(--gold)";
+
+  if (!card) {
+    return (
+      <div className="concept-item free" style={{ "--concept-accent": accent }}>
+        <div className="concept-summary static">
+          <span className="concept-code">Livre</span>
+          <strong>{cell.label}</strong>
+        </div>
+      </div>
+    );
+  }
+
+  return (
+    <div className={isOpen ? "concept-item open" : "concept-item"} style={{ "--concept-accent": accent }}>
+      <button className="concept-summary" type="button" aria-expanded={isOpen} onClick={onToggle}>
+        <span className="concept-code">{card.code}</span>
+        <strong>{card.label}</strong>
+        <span className="concept-cue" aria-hidden="true">
+          <Icon name="chevron" />
+        </span>
+      </button>
+
+      {isOpen ? (
+        <div className="concept-detail">
+          <div className="concept-detail-section">
+            <span className="concept-detail-label">Caso</span>
+            <p>{card.case}</p>
+          </div>
+          <div className="concept-detail-section">
+            <span className="concept-detail-label">Explicação</span>
+            <p>{renderRich(card.explanation)}</p>
+          </div>
+          <ol className="concept-points">
+            {card.readingPoints.map((point) => (
+              <li key={point.title}>
+                <strong>{point.title}:</strong> {point.body}
+              </li>
+            ))}
+          </ol>
+          {card.conferenceQuestion ? (
+            <div className="concept-question">{card.conferenceQuestion}</div>
+          ) : null}
+        </div>
+      ) : null}
+    </div>
+  );
+}
+
 function ConferenceSheet({ game, boardNumber, onClose, onValidated }) {
   const board = boardByNumber[boardNumber];
   const completedLines = getCompletedLines(board, game.drawnIds);
   const [selectedLineId, setSelectedLineId] = useState(completedLines[0]?.id);
+  const [openConceptId, setOpenConceptId] = useState(null);
   const selectedLine = completedLines.find((line) => line.id === selectedLineId) || completedLines[0];
   const cells = selectedLine?.cells || [];
 
   useEffect(() => {
     setSelectedLineId(completedLines[0]?.id);
+    setOpenConceptId(null);
   }, [boardNumber]);
+
+  useEffect(() => {
+    setOpenConceptId(null);
+  }, [selectedLineId]);
 
   return (
     <BottomSheet title={`Cartela ${boardNumber.toString().padStart(2, "0")}`} onClose={onClose} className="conference-sheet">
@@ -927,6 +1004,7 @@ function ConferenceSheet({ game, boardNumber, onClose, onValidated }) {
               key={line.id}
               className={line.id === selectedLine?.id ? "selected" : ""}
               onClick={() => setSelectedLineId(line.id)}
+              aria-pressed={line.id === selectedLine?.id}
             >
               <span>{visibleLineType(line.kind)}</span>
               <strong>{line.label}</strong>
@@ -937,10 +1015,12 @@ function ConferenceSheet({ game, boardNumber, onClose, onValidated }) {
 
       <div className="concept-checklist">
         {cells.map((cell) => (
-          <div className={cell.id === "FREE" ? "concept-item free" : "concept-item"} key={`${selectedLine?.id}-${cell.id}`}>
-            <span>{cell.id === "FREE" ? "Livre" : cell.id}</span>
-            <strong>{cell.label}</strong>
-          </div>
+          <ConceptDisclosure
+            cell={cell}
+            isOpen={openConceptId === cell.id}
+            key={`${selectedLine?.id}-${cell.id}`}
+            onToggle={() => setOpenConceptId((current) => (current === cell.id ? null : cell.id))}
+          />
         ))}
       </div>
 

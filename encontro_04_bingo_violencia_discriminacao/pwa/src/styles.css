@@ -517,27 +517,6 @@ button {
     inset 0 1px 0 oklch(100% 0 0 / 0.7);
 }
 
-.board-status {
-  position: relative;
-}
-
-.board-status span {
-  position: absolute;
-  right: -2px;
-  bottom: -1px;
-  min-width: 18px;
-  height: 18px;
-  display: grid;
-  place-items: center;
-  border-radius: 999px;
-  background: var(--gold-deep);
-  color: var(--surface);
-  border: 2px solid var(--paper);
-  font-size: 10px;
-  font-weight: 800;
-  box-shadow: 0 1px 3px oklch(0% 0 0 / 0.15);
-}
-
 .progress-track {
   grid-column: 1 / -1;
   height: 4px;
@@ -1604,6 +1583,11 @@ button {
   scrollbar-width: none;
 }
 
+.boards-list {
+  align-content: start;
+  grid-auto-rows: minmax(62px, auto);
+}
+
 .history-list::-webkit-scrollbar,
 .boards-list::-webkit-scrollbar,
 .materials-list::-webkit-scrollbar,
@@ -2058,20 +2042,36 @@ button {
 .board-row {
   width: 100%;
   display: grid;
-  grid-template-columns: auto 1fr auto;
+  grid-template-columns: 52px minmax(0, 1fr) auto;
   align-items: center;
   gap: 12px;
-  padding: 10px 12px;
+  min-block-size: 62px;
+  padding: 4px 12px;
   text-align: left;
   color: var(--ink);
   opacity: 1;
   cursor: default;
+  line-height: 1.15;
   animation: sheet-row-in 240ms cubic-bezier(0.22, 1, 0.36, 1) backwards;
   transition:
     transform 120ms cubic-bezier(0.25, 0.46, 0.45, 0.94),
     box-shadow 120ms cubic-bezier(0.25, 0.46, 0.45, 0.94),
     border-color 180ms cubic-bezier(0.22, 1, 0.36, 1),
     background 180ms cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.board-row > span {
+  min-width: 0;
+  display: grid;
+  align-content: center;
+}
+
+.board-row strong,
+.board-row small {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .board-row:disabled {
@@ -2099,9 +2099,16 @@ button {
     0 3px 8px color-mix(in oklch, var(--gold) 7%, transparent);
 }
 
+.board-row.ready:focus-visible {
+  outline: 3px solid color-mix(in oklch, var(--gold) 34%, transparent);
+  outline-offset: 2px;
+}
+
 .board-row > svg {
   width: 24px;
   height: 24px;
+  justify-self: end;
+  flex: 0 0 auto;
   padding: 4px;
   border-radius: 999px;
   background: color-mix(in oklch, var(--gold) 16%, var(--surface));
@@ -2120,12 +2127,20 @@ button {
 }
 
 .mini-board {
-  width: 152px;
-  aspect-ratio: 1;
+  --mini-size: 152px;
+  --mini-dot: 22px;
+  --mini-gap: 5px;
+  inline-size: var(--mini-size);
+  block-size: var(--mini-size);
+  min-inline-size: var(--mini-size);
+  min-block-size: var(--mini-size);
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
-  gap: 4px;
-  padding: 6px;
+  grid-template: repeat(5, var(--mini-dot)) / repeat(5, var(--mini-dot));
+  place-content: center;
+  place-items: center;
+  gap: var(--mini-gap);
+  padding: 0;
+  overflow: hidden;
   border-radius: 16px;
   border: 1px solid color-mix(in oklch, var(--line) 80%, oklch(100% 0 0));
   background:
@@ -2133,16 +2148,25 @@ button {
   box-shadow:
     inset 0 1px 0 oklch(100% 0 0 / 0.76),
     0 1px 2px oklch(28% 0.02 70 / 0.05);
+  line-height: 0;
 }
 
 .mini-board.compact {
-  width: 54px;
-  border-radius: 11px;
-  gap: 2px;
-  padding: 4px;
+  --mini-size: 52px;
+  --mini-dot: 7px;
+  --mini-gap: 2px;
+  border-radius: 12px;
+  align-self: center;
+  justify-self: center;
+  flex: 0 0 var(--mini-size);
 }
 
 .mini-board span {
+  display: block;
+  inline-size: 100%;
+  block-size: 100%;
+  min-inline-size: 0;
+  min-block-size: 0;
   border-radius: 999px;
   background:
     radial-gradient(circle at 34% 28%, oklch(100% 0 0 / 0.70), transparent 36%),
@@ -2252,24 +2276,14 @@ button {
   font-weight: 780;
 }
 
-.alert-lines {
-  display: flex;
-  gap: 6px;
-  flex-wrap: wrap;
-  margin-top: 2px;
-}
-
-.alert-lines span {
-  min-height: 26px;
-  display: inline-flex;
-  align-items: center;
-  padding: 0 9px;
-  border-radius: 999px;
-  border: 1px solid color-mix(in oklch, var(--gold) 24%, var(--line));
-  background: color-mix(in oklch, var(--gold) 7%, var(--surface));
-  color: color-mix(in oklch, var(--ink) 88%, var(--gold-deep));
-  font-size: 11px;
-  font-weight: 850;
+.alert-lines-text {
+  display: block;
+  margin-top: 1px;
+  color: color-mix(in oklch, var(--ink) 76%, var(--gold-deep));
+  font-size: 12px;
+  font-weight: 820;
+  overflow: hidden;
+  text-overflow: ellipsis;
   white-space: nowrap;
 }
 
@@ -2290,28 +2304,41 @@ button {
 .conference-grid {
   display: grid;
   grid-template-columns: auto 1fr;
-  gap: 16px;
+  gap: 14px;
   align-items: start;
 }
 
 .line-tabs {
   display: grid;
-  gap: 8px;
+  gap: 7px;
 }
 
 .line-tabs button {
-  min-height: 54px;
-  border-radius: 15px;
-  border: 1px solid var(--line);
-  background: var(--surface-soft);
+  min-height: 50px;
+  border-radius: 14px;
+  border: 1px solid color-mix(in oklch, var(--line) 82%, oklch(100% 0 0));
+  background:
+    linear-gradient(180deg, oklch(98.8% 0.011 82), oklch(95.8% 0.012 80));
   text-align: left;
-  padding: 8px 12px;
+  padding: 9px 12px;
   color: var(--ink);
+  box-shadow:
+    inset 0 1px 0 oklch(100% 0 0 / 0.66),
+    0 1px 2px oklch(28% 0.02 70 / 0.035);
+  transition:
+    border-color 160ms cubic-bezier(0.22, 1, 0.36, 1),
+    background 160ms cubic-bezier(0.22, 1, 0.36, 1),
+    transform 120ms cubic-bezier(0.25, 0.46, 0.45, 0.94);
 }
 
 .line-tabs button.selected {
-  border-color: var(--gold);
-  background: color-mix(in oklch, var(--gold) 10%, var(--surface));
+  border-color: color-mix(in oklch, var(--gold) 58%, var(--line));
+  background:
+    linear-gradient(180deg, color-mix(in oklch, var(--gold) 13%, var(--surface)), color-mix(in oklch, var(--gold) 7%, var(--surface-soft)));
+}
+
+.line-tabs button:active {
+  transform: translateY(1px);
 }
 
 .line-tabs span {
@@ -2319,12 +2346,14 @@ button {
   color: var(--muted);
   font-size: 11px;
   font-weight: 850;
+  line-height: 1;
 }
 
 .line-tabs strong {
   display: block;
-  margin-top: 3px;
+  margin-top: 4px;
   font-size: 14px;
+  line-height: 1.15;
 }
 
 .concept-checklist {
@@ -2334,35 +2363,159 @@ button {
 }
 
 .concept-item {
+  overflow: hidden;
+  border: 1px solid color-mix(in oklch, var(--line) 82%, oklch(100% 0 0));
+  border-radius: 18px;
+  background:
+    linear-gradient(180deg, oklch(99% 0.011 82), oklch(96.8% 0.012 80));
+  box-shadow:
+    0 1px 2px oklch(28% 0.02 70 / 0.04),
+    inset 0 1px 0 oklch(100% 0 0 / 0.72);
+  transition:
+    border-color 180ms cubic-bezier(0.22, 1, 0.36, 1),
+    background 180ms cubic-bezier(0.22, 1, 0.36, 1),
+    box-shadow 180ms cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.concept-item.open {
+  border-color: color-mix(in oklch, var(--concept-accent) 34%, var(--line));
+  background:
+    linear-gradient(180deg, color-mix(in oklch, var(--concept-accent) 5%, var(--surface)), oklch(97% 0.012 80));
+  box-shadow:
+    0 8px 18px color-mix(in oklch, var(--concept-accent) 6%, transparent),
+    inset 0 1px 0 oklch(100% 0 0 / 0.72);
+}
+
+.concept-summary {
+  width: 100%;
   min-height: 56px;
   display: grid;
-  grid-template-columns: 54px 1fr;
+  grid-template-columns: 48px minmax(0, 1fr) 24px;
   align-items: center;
   gap: 10px;
-  border: 1px solid var(--line);
-  border-radius: 16px;
-  background: oklch(98.5% 0.01 82);
+  border: 0;
+  background: transparent;
+  color: var(--ink);
+  text-align: left;
   padding: 8px 12px;
 }
 
-.concept-item span {
+.concept-summary.static {
+  grid-template-columns: 48px minmax(0, 1fr);
+}
+
+.concept-code {
   width: 42px;
   height: 34px;
   display: grid;
   place-items: center;
   border-radius: 10px;
-  background: var(--charcoal);
+  background:
+    radial-gradient(circle at 30% 20%, oklch(100% 0 0 / 0.18), transparent 34%),
+    linear-gradient(180deg, color-mix(in oklch, var(--concept-accent) 68%, var(--charcoal)), color-mix(in oklch, var(--concept-accent) 26%, var(--charcoal)));
   color: var(--surface);
   font-size: 12px;
   font-weight: 900;
+  box-shadow:
+    inset 0 1px 0 oklch(100% 0 0 / 0.22),
+    0 2px 0 color-mix(in oklch, var(--concept-accent) 24%, oklch(17% 0.012 65));
 }
 
-.concept-item.free span {
-  background: var(--gold);
+.concept-item.free .concept-code {
+  background:
+    radial-gradient(circle at 30% 20%, oklch(100% 0 0 / 0.24), transparent 34%),
+    linear-gradient(180deg, color-mix(in oklch, var(--gold) 82%, oklch(100% 0 0)), var(--gold));
+  color: var(--surface);
 }
 
-.concept-item strong {
+.concept-summary strong {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
   font-size: 15px;
+  font-weight: 900;
+}
+
+.concept-cue {
+  width: 24px;
+  height: 24px;
+  display: grid;
+  place-items: center;
+  color: color-mix(in oklch, var(--concept-accent) 62%, var(--muted));
+  transition: transform 180ms cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.concept-cue svg {
+  width: 18px;
+  height: 18px;
+}
+
+.concept-item.open .concept-cue {
+  transform: rotate(180deg);
+}
+
+.concept-detail {
+  display: grid;
+  gap: 12px;
+  padding: 1px 14px 14px 70px;
+  animation: concept-open 180ms cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+.concept-detail-label {
+  display: block;
+  color: color-mix(in oklch, var(--concept-accent) 72%, var(--ink));
+  font-size: 11px;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.concept-detail-section p {
+  margin: 5px 0 0;
+  color: var(--ink);
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.concept-detail-section strong {
+  font-weight: 850;
+}
+
+.concept-points {
+  margin: 0;
+  padding: 0 0 0 18px;
+  color: var(--ink);
+  font-size: 13px;
+  line-height: 18px;
+}
+
+.concept-points li {
+  margin-bottom: 7px;
+}
+
+.concept-points li:last-child {
+  margin-bottom: 0;
+}
+
+.concept-points li::marker {
+  color: var(--concept-accent);
+  font-weight: 850;
+}
+
+.concept-points strong {
+  font-weight: 850;
+  color: var(--charcoal);
+}
+
+.concept-question {
+  border-radius: 14px;
+  border: 1px solid color-mix(in oklch, var(--concept-accent) 16%, var(--line));
+  background: color-mix(in oklch, var(--concept-accent) 6%, var(--surface));
+  color: color-mix(in oklch, var(--concept-accent) 72%, var(--charcoal));
+  padding: 11px 12px;
+  font-size: 13px;
+  font-weight: 780;
+  line-height: 18px;
 }
 
 .toast {
@@ -2604,6 +2757,17 @@ button {
   from {
     opacity: 0;
     transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes concept-open {
+  from {
+    opacity: 0;
+    transform: translateY(-4px);
   }
   to {
     opacity: 1;
