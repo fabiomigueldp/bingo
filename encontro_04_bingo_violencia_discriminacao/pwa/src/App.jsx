@@ -451,6 +451,7 @@ function ManualCallControls({ game, onUndo, onCall, onHistory, onKeyboardOpenCha
   const numbers = useMemo(() => Array.from({ length: 15 }, (_, index) => (index + 1).toString().padStart(2, "0")), []);
   const currentCode = game.drawnIds.length ? cardById[game.drawnIds.at(-1)]?.code || "" : "";
   const displayCode = pendingManualCode || activeColumn || lastCode || "...";
+  const codeState = pendingManualCode ? "confirming" : activeColumn ? "selecting" : lastCode ? "registered" : "idle";
   const ballState = pendingManualCode ? "committing" : activeColumn ? "selecting" : lastCode ? "called" : "idle";
   const ballColumn = activeColumn || (pendingManualCode ? pendingManualCode[0] : lastCode ? lastCode[0] : "");
   const ballAccentColor = ballColumn ? COLUMN_COLORS[ballColumn] : "oklch(92% 0.015 80)";
@@ -564,17 +565,17 @@ function ManualCallControls({ game, onUndo, onCall, onHistory, onKeyboardOpenCha
 
     scheduleManualCall(() => {
       setActiveColumn("");
-    }, 330);
+    }, 460);
 
     scheduleManualCall(() => {
       onCall(card.id);
-    }, 390);
+    }, 430);
 
     scheduleManualCall(() => {
       setPendingManualCode("");
       setPressedNumber("");
       setMotionPhase("idle");
-    }, 540);
+    }, 620);
   }
 
   return (
@@ -594,7 +595,7 @@ function ManualCallControls({ game, onUndo, onCall, onHistory, onKeyboardOpenCha
             className={`manual-ball ${ballState}`}
             style={{ "--ball-accent": ballAccentColor }}
           >
-            <strong key={displayCode}>{displayCode}</strong>
+            <strong className={`manual-code ${codeState}`}>{displayCode}</strong>
           </div>
         </div>
 
@@ -1417,7 +1418,6 @@ function GameScreen({ game, setGame, onReset }) {
       <TopBar game={game} currentCard={currentCard} onOpenBoards={() => setSheet("boards")} />
 
       <section className="card-stage" aria-live="polite">
-        <div className={flight ? "deck-shadow drawing" : "deck-shadow"} aria-hidden="true" />
         {flight ? (
           <CardFlight
             exitingCard={flight.exitingCard}

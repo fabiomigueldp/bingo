@@ -548,7 +548,7 @@ button {
 }
 
 .game-screen.manual-mode {
-  --manual-rest-space: calc(206px + var(--safe-bottom));
+  --manual-rest-space: calc(232px + var(--safe-bottom));
   --manual-stage-lift: 0px;
   --manual-stage-scale: 0.74;
 }
@@ -567,44 +567,6 @@ button {
   transform: translate3d(0, calc(0px - var(--manual-stage-lift)), 0) scale(var(--manual-stage-scale));
 }
 
-.deck-shadow {
-  position: absolute;
-  width: min(88%, 380px);
-  height: min(72%, 604px);
-  max-height: 604px;
-  border-radius: 32px;
-  transform: translateY(12px) rotateZ(-1deg);
-  background:
-    linear-gradient(180deg, oklch(99% 0.012 82), oklch(94.5% 0.016 76));
-  border: 1px solid oklch(84% 0.02 75);
-  box-shadow:
-    0 18px 30px oklch(28% 0.02 70 / 0.11),
-    0 2px 4px oklch(28% 0.02 70 / 0.045);
-  transition: transform 260ms cubic-bezier(0.22, 1, 0.36, 1);
-  will-change: transform;
-}
-
-.deck-shadow::before,
-.deck-shadow::after {
-  content: "";
-  position: absolute;
-  inset: 7px;
-  border-radius: 28px;
-  border: 1px solid oklch(86% 0.02 75 / 0.72);
-  background: oklch(97% 0.012 82 / 0.72);
-  transform: translateY(8px) rotateZ(0.8deg);
-}
-
-.deck-shadow::after {
-  inset: 13px;
-  transform: translateY(15px) rotateZ(-0.8deg);
-  opacity: 0.58;
-}
-
-.deck-shadow.drawing {
-  transform: translateY(18px) rotateZ(-2deg) scale(0.988);
-}
-
 .call-card {
   width: min(100%, 390px);
   height: min(100%, 632px);
@@ -617,10 +579,7 @@ button {
     linear-gradient(180deg, oklch(98.8% 0.012 82) 0%, oklch(97.2% 0.014 80) 100%);
   border: 1px solid oklch(82% 0.025 76);
   color: var(--ink);
-  box-shadow:
-    0 18px 32px oklch(28% 0.02 70 / 0.13),
-    0 3px 8px oklch(28% 0.02 70 / 0.07),
-    inset 0 1px 0 oklch(100% 0 0 / 0.86);
+  box-shadow: none;
   position: relative;
   scrollbar-width: none;
 }
@@ -632,11 +591,7 @@ button {
 .card-front {
   padding: 22px 22px 20px;
   border-top: 0;
-  box-shadow:
-    0 18px 32px oklch(28% 0.02 70 / 0.13),
-    0 3px 8px oklch(28% 0.02 70 / 0.07),
-    inset 0 1px 0 oklch(100% 0 0 / 0.86),
-    inset 0 9px 24px -20px color-mix(in oklch, var(--card-accent) 24%, transparent);
+  box-shadow: none;
 }
 
 .card-front::before {
@@ -647,9 +602,7 @@ button {
   border-radius: 31px 31px 0 0;
   background:
     linear-gradient(90deg, color-mix(in oklch, var(--card-accent) 78%, oklch(100% 0 0)) 0%, var(--card-accent) 52%, color-mix(in oklch, var(--card-accent) 76%, var(--ink)) 100%);
-  box-shadow:
-    inset 0 1px 0 oklch(100% 0 0 / 0.28),
-    0 3px 8px color-mix(in oklch, var(--card-accent) 9%, transparent);
+  box-shadow: none;
   pointer-events: none;
   z-index: 2;
 }
@@ -697,11 +650,7 @@ button {
 }
 
 .card-flight .card-front {
-  box-shadow:
-    0 14px 26px oklch(28% 0.02 70 / 0.12),
-    0 2px 6px oklch(28% 0.02 70 / 0.055),
-    inset 0 1px 0 oklch(100% 0 0 / 0.86),
-    inset 0 9px 24px -20px color-mix(in oklch, var(--card-accent) 22%, transparent);
+  box-shadow: none;
 }
 
 .card-flight.preparing .exit-card {
@@ -760,11 +709,8 @@ button {
   font-size: 22px;
   font-weight: 850;
   letter-spacing: 0;
-  box-shadow: 
-    0 4px 0 color-mix(in oklch, var(--card-accent) 72%, oklch(24% 0.018 65)),
-    0 10px 18px color-mix(in oklch, var(--card-accent) 20%, transparent),
-    inset 0 1.5px 1px oklch(100% 0 0 / 0.35);
-  text-shadow: 0 1px 1px oklch(0% 0 0 / 0.20);
+  box-shadow: none;
+  text-shadow: none;
 }
 
 .column-label,
@@ -834,9 +780,7 @@ button {
     linear-gradient(160deg, color-mix(in oklch, var(--card-accent) 5%, var(--surface)), color-mix(in oklch, var(--card-accent) 2%, var(--surface-soft)));
   border: 1px solid color-mix(in oklch, var(--card-accent) 14%, var(--line));
   padding: 16px;
-  box-shadow: 
-    0 8px 20px color-mix(in oklch, var(--card-accent) 4%, transparent),
-    inset 0 1px 0 oklch(100% 0 0 / 0.78);
+  box-shadow: none;
 }
 
 .support-head {
@@ -897,7 +841,7 @@ button {
   font-weight: 750;
   line-height: 20px;
   color: color-mix(in oklch, var(--card-accent) 85%, var(--charcoal));
-  box-shadow: inset 0 1px 0 oklch(100% 0 0 / 0.66);
+  box-shadow: none;
 }
 
 .card-foot {
@@ -971,11 +915,8 @@ button {
   place-items: center;
   border-radius: 12px;
   background: var(--charcoal);
-  box-shadow: 
-    inset 0 2px 2px color-mix(in oklch, var(--surface) 35%, transparent),
-    inset 0 -3px 0 color-mix(in oklch, var(--ink) 25%, transparent),
-    0 4px 6px color-mix(in oklch, var(--ink) 12%, transparent);
-  text-shadow: 0 1px 2px color-mix(in oklch, var(--ink) 40%, transparent);
+  box-shadow: none;
+  text-shadow: none;
 }
 
 .back-symbol span:nth-child(1) { background: var(--col-b); }
@@ -1136,41 +1077,45 @@ button {
   grid-template-columns: 68px 1fr 68px;
   align-items: center;
   gap: 11px;
+  position: relative;
+  z-index: 2;
+  overflow: visible;
 }
 
 .manual-ball-wrap {
-  min-height: 92px;
+  min-height: 98px;
   display: grid;
   place-items: center;
   position: relative;
   isolation: isolate;
-  contain: paint;
+  overflow: visible;
 }
 
 .manual-ball-wrap::after {
   content: "";
   position: absolute;
-  bottom: 4px;
-  width: 68px;
-  height: 12px;
+  bottom: 7px;
+  width: 76px;
+  height: 15px;
   border-radius: 50%;
-  background: radial-gradient(ellipse at center, oklch(15% 0.015 65 / 0.32), transparent 70%);
-  transform: translate3d(0, 0, 0) scaleX(0.86);
-  opacity: 0.82;
+  background: radial-gradient(ellipse at center, oklch(15% 0.015 65 / 0.26), transparent 72%);
+  transform: translate3d(0, 0, 0) scaleX(0.84);
+  opacity: 0.76;
   transition:
     transform 220ms var(--ease-out-quint),
     opacity 180ms var(--ease-out-quint);
   will-change: transform, opacity;
+  z-index: 0;
 }
 
 .manual-controls.expanded .manual-ball-wrap::after {
-  opacity: 0.92;
-  transform: translate3d(0, 2px, 0) scaleX(1);
+  opacity: 0.84;
+  transform: translate3d(0, 3px, 0) scaleX(0.98);
 }
 
 .manual-controls.committing .manual-ball-wrap::after {
-  opacity: 0.74;
-  transform: translate3d(0, -1px, 0) scaleX(0.72);
+  opacity: 0.7;
+  transform: translate3d(0, 1px, 0) scaleX(0.76);
 }
 
 .manual-ball {
@@ -1183,21 +1128,20 @@ button {
   position: relative;
   z-index: 1;
   border-radius: 50%;
-  background:
-    radial-gradient(circle at 28% 28%,
-      color-mix(in oklch, var(--ball-accent) 85%, oklch(100% 0 0)) 0%,
-      var(--ball-accent) 48%,
-      color-mix(in oklch, var(--ball-accent) 55%, oklch(14% 0.02 65)) 100%
-    );
+  background-color: var(--ball-accent);
+  background-image:
+    radial-gradient(circle at 28% 24%, oklch(100% 0 0 / 0.68) 0%, oklch(100% 0 0 / 0.24) 18%, transparent 36%),
+    radial-gradient(circle at 72% 78%, oklch(13% 0.018 65 / 0.34) 0%, transparent 52%),
+    linear-gradient(145deg, oklch(100% 0 0 / 0.18), transparent 48%);
   box-shadow:
-    inset -10px -12px 20px oklch(20% 0.015 65 / 0.38),
-    inset 8px 8px 16px oklch(100% 0 0 / 0.48),
-    0 12px 20px oklch(20% 0.015 65 / 0.22);
+    inset -10px -12px 20px oklch(16% 0.014 65 / 0.34),
+    inset 8px 8px 16px oklch(100% 0 0 / 0.42),
+    0 5px 10px oklch(20% 0.015 65 / 0.12);
   transform: translate3d(0, 0, 0) scale(1);
-  animation: manual-ball-arrive 260ms var(--ease-out-quint) both;
   transition:
     transform 190ms var(--ease-out-quint),
-    opacity 180ms var(--ease-out-quint);
+    opacity 180ms var(--ease-out-quint),
+    background-color 190ms var(--ease-out-quint);
   backface-visibility: hidden;
   -webkit-backface-visibility: hidden;
   contain: paint;
@@ -1223,7 +1167,7 @@ button {
   position: absolute;
   inset: 17%;
   border-radius: 50%;
-  background: #ffffff;
+  background: oklch(99.5% 0.004 82);
   box-shadow:
     inset 1px 2px 4px oklch(15% 0.015 65 / 0.18),
     0 1.5px 3px oklch(15% 0.015 65 / 0.14);
@@ -1240,15 +1184,18 @@ button {
   z-index: 3;
 }
 
-.manual-ball strong {
+.manual-code {
   font-size: 28px;
   line-height: 1.05;
   font-weight: 900;
   color: color-mix(in oklch, var(--ball-accent) 30%, oklch(18% 0.015 65));
   letter-spacing: -0.02em;
   z-index: 3;
-  animation: manual-code-rise 160ms var(--ease-out-quart) both;
-  will-change: transform, opacity;
+  transform: translate3d(0, 0, 0) scale(1);
+  transition:
+    transform 160ms var(--ease-out-quart),
+    color 180ms var(--ease-out-quint),
+    opacity 130ms var(--ease-out-quint);
 }
 
 .manual-ball.selecting {
@@ -1263,11 +1210,17 @@ button {
   animation: manual-ball-stamp 260ms var(--ease-out-expo) both;
 }
 
+.manual-code.confirming {
+  animation: manual-code-confirm 180ms var(--ease-out-quart) both;
+}
+
 .manual-pad {
   display: grid;
   gap: 0;
   padding-bottom: 5px;
   contain: layout paint style;
+  position: relative;
+  z-index: 1;
 }
 
 .manual-controls.expanded .manual-pad {
@@ -1806,13 +1759,18 @@ button {
 .boards-list,
 .materials-list,
 .rules-list {
-  display: grid;
   gap: 8px;
 }
 
 .history-list {
-  align-content: start;
-  grid-auto-rows: minmax(48px, max-content);
+  display: flex;
+  flex-direction: column;
+}
+
+.boards-list,
+.materials-list,
+.rules-list {
+  display: grid;
 }
 
 .boards-list {
@@ -2014,11 +1972,13 @@ button {
 }
 
 .history-row {
+  width: 100%;
   min-height: 48px;
   min-block-size: 48px;
+  flex: 0 0 auto;
   overflow: hidden;
   display: block;
-  align-self: start;
+  align-self: stretch;
   padding: 0;
   border-radius: 15px;
   animation: sheet-row-in 240ms cubic-bezier(0.22, 1, 0.36, 1) backwards;
@@ -2129,15 +2089,14 @@ button {
 }
 
 .history-detail {
-  max-block-size: min(58dvh, 500px);
-  overflow-y: auto;
-  overscroll-behavior: auto;
+  max-block-size: none;
+  overflow: visible;
+  overscroll-behavior: contain;
   -webkit-overflow-scrolling: touch;
   display: grid;
   gap: 10px;
-  padding: 0 12px 14px 64px;
+  padding: 0 12px 14px;
   scrollbar-width: none;
-  touch-action: pan-y;
   animation: concept-open 180ms cubic-bezier(0.22, 1, 0.36, 1) both;
 }
 
@@ -3044,28 +3003,6 @@ button {
   }
 }
 
-@keyframes manual-ball-arrive {
-  from {
-    opacity: 0;
-    transform: translate3d(0, 10px, 0) scale(0.92);
-  }
-  to {
-    opacity: 1;
-    transform: translate3d(0, 0, 0) scale(1);
-  }
-}
-
-@keyframes manual-code-rise {
-  from {
-    opacity: 0;
-    transform: translate3d(0, 5px, 0) scale(0.96);
-  }
-  to {
-    opacity: 1;
-    transform: translate3d(0, 0, 0) scale(1);
-  }
-}
-
 @keyframes manual-ball-stamp {
   0% {
     transform: translate3d(0, -5px, 0) scale(1.035);
@@ -3074,7 +3011,22 @@ button {
     transform: translate3d(0, -8px, 0) scale(1.065);
   }
   100% {
-    transform: translate3d(0, -2px, 0) scale(1.018);
+    transform: translate3d(0, 0, 0) scale(1);
+  }
+}
+
+@keyframes manual-code-confirm {
+  0% {
+    opacity: 0.72;
+    transform: translate3d(0, 4px, 0) scale(0.96);
+  }
+  58% {
+    opacity: 1;
+    transform: translate3d(0, -1px, 0) scale(1.035);
+  }
+  100% {
+    opacity: 1;
+    transform: translate3d(0, 0, 0) scale(1);
   }
 }
 
@@ -3229,7 +3181,7 @@ button {
   }
 
   .game-screen.manual-mode {
-    --manual-rest-space: calc(184px + var(--safe-bottom));
+    --manual-rest-space: calc(202px + var(--safe-bottom));
     --manual-stage-lift: 0px;
     --manual-stage-scale: 0.66;
   }
@@ -3240,14 +3192,14 @@ button {
   }
 
   .manual-ball-wrap {
-    min-height: 78px;
+    min-height: 84px;
   }
 
   .manual-ball {
     width: 74px;
   }
 
-  .manual-ball strong {
+  .manual-code {
     font-size: 21px;
   }
 
@@ -3283,20 +3235,20 @@ button {
   }
 
   .game-screen.manual-mode {
-    --manual-rest-space: calc(190px + var(--safe-bottom));
+    --manual-rest-space: calc(222px + var(--safe-bottom));
     --manual-stage-lift: 0px;
     --manual-stage-scale: 0.66;
   }
 
   .manual-ball-wrap {
-    min-height: 82px;
+    min-height: 88px;
   }
 
   .manual-ball {
     width: 78px;
   }
 
-  .manual-ball strong {
+  .manual-code {
     font-size: 23px;
   }
 
