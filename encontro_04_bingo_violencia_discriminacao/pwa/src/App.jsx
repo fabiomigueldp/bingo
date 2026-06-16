@@ -432,7 +432,7 @@ function BottomControls({ game, onUndo, onDraw, onHistory, busy = false }) {
   );
 }
 
-function ManualCallControls({ game, onUndo, onCall, onHistory, busy = false }) {
+function ManualCallControls({ game, onUndo, onCall, onHistory, onKeyboardOpenChange, busy = false }) {
   const [activeColumn, setActiveColumn] = useState("");
   const [pendingManualCode, setPendingManualCode] = useState("");
   const [motionPhase, setMotionPhase] = useState("idle");
@@ -456,6 +456,7 @@ function ManualCallControls({ game, onUndo, onCall, onHistory, busy = false }) {
   const ballAccentColor = ballColumn ? COLUMN_COLORS[ballColumn] : "oklch(92% 0.015 80)";
   const locked = busy || Boolean(pendingManualCode);
   const activeColumnIndex = COLUMN_ORDER.indexOf(activeColumn);
+  const keyboardVisuallyOpen = Boolean(activeColumn && motionPhase !== "closing");
   const controlsClass = [
     "manual-controls",
     activeColumn ? "expanded" : "",
@@ -488,10 +489,21 @@ function ManualCallControls({ game, onUndo, onCall, onHistory, busy = false }) {
     setLastCode(currentCode);
     if (!currentCode) {
       setActiveColumn("");
+      onKeyboardOpenChange?.(false);
       setMotionPhase("idle");
       setPressedNumber("");
     }
-  }, [currentCode]);
+  }, [currentCode, onKeyboardOpenChange]);
+
+  useEffect(() => {
+    onKeyboardOpenChange?.(keyboardVisuallyOpen);
+  }, [keyboardVisuallyOpen, onKeyboardOpenChange]);
+
+  useEffect(() => {
+    return () => {
+      onKeyboardOpenChange?.(false);
+    };
+  }, [onKeyboardOpenChange]);
 
   useEffect(() => {
     return () => {
@@ -516,6 +528,7 @@ function ManualCallControls({ game, onUndo, onCall, onHistory, busy = false }) {
     if (locked) return;
     setPressedNumber("");
     const nextColumn = activeColumn === column ? "" : column;
+    onKeyboardOpenChange?.(Boolean(nextColumn));
     setActiveColumn(nextColumn);
     setMotionPhase(nextColumn ? "selecting" : "idle");
   }
@@ -536,6 +549,7 @@ function ManualCallControls({ game, onUndo, onCall, onHistory, busy = false }) {
     const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
     if (reduceMotion) {
       setActiveColumn("");
+      onKeyboardOpenChange?.(false);
       onCall(card.id);
       setPendingManualCode("");
       setPressedNumber("");
@@ -544,16 +558,23 @@ function ManualCallControls({ game, onUndo, onCall, onHistory, busy = false }) {
     }
 
     scheduleManualCall(() => {
+      onKeyboardOpenChange?.(false);
       setMotionPhase("closing");
-      onCall(card.id);
-    }, 210);
+    }, 180);
 
     scheduleManualCall(() => {
       setActiveColumn("");
+    }, 330);
+
+    scheduleManualCall(() => {
+      onCall(card.id);
+    }, 390);
+
+    scheduleManualCall(() => {
       setPendingManualCode("");
       setPressedNumber("");
       setMotionPhase("idle");
-    }, 440);
+    }, 540);
   }
 
   return (
@@ -1262,6 +1283,7 @@ function GameScreen({ game, setGame, onReset }) {
   const [toast, setToast] = useState("");
   const [flight, setFlight] = useState(null);
   const [showConfirmReset, setShowConfirmReset] = useState(false);
+  const [manualKeyboardOpen, setManualKeyboardOpen] = useState(false);
   const flightTimers = useRef([]);
   const flightFrames = useRef([]);
   const drawMode = game.drawMode || DRAW_MODES.APP;
@@ -1273,6 +1295,12 @@ function GameScreen({ game, setGame, onReset }) {
   }, [game.alertQueue]);
 
   const viewportClass = currentCard ? "playing" : "waiting";
+  const screenClass = [
+    "game-screen",
+    viewportClass,
+    drawMode === DRAW_MODES.MANUAL ? "manual-mode" : "",
+    manualKeyboardOpen ? "manual-keyboard-open" : ""
+  ].filter(Boolean).join(" ");
 
   useEffect(() => {
     return () => {
@@ -1280,6 +1308,12 @@ function GameScreen({ game, setGame, onReset }) {
       flightFrames.current.forEach((frame) => window.cancelAnimationFrame(frame));
     };
   }, []);
+
+  useEffect(() => {
+    if (drawMode !== DRAW_MODES.MANUAL) {
+      setManualKeyboardOpen(false);
+    }
+  }, [drawMode]);
 
   function presentCard(nextCard, nextDrawCount, commitGame) {
     if (!nextCard) return;
@@ -1379,7 +1413,7 @@ function GameScreen({ game, setGame, onReset }) {
   const drawnCount = game.drawnIds.length;
 
   return (
-    <main className={`game-screen ${viewportClass}`}>
+    <main className={screenClass}>
       <TopBar game={game} currentCard={currentCard} onOpenBoards={() => setSheet("boards")} />
 
       <section className="card-stage" aria-live="polite">
@@ -1398,7 +1432,14 @@ function GameScreen({ game, setGame, onReset }) {
       </section>
 
       {drawMode === DRAW_MODES.MANUAL ? (
-        <ManualCallControls game={game} onUndo={undo} onCall={manualCall} onHistory={() => setSheet("history")} busy={Boolean(flight)} />
+        <ManualCallControls
+          game={game}
+          onUndo={undo}
+          onCall={manualCall}
+          onHistory={() => setSheet("history")}
+          onKeyboardOpenChange={setManualKeyboardOpen}
+          busy={Boolean(flight)}
+        />
       ) : (
         <BottomControls game={game} onUndo={undo} onDraw={draw} onHistory={() => setSheet("history")} busy={Boolean(flight)} />
       )}

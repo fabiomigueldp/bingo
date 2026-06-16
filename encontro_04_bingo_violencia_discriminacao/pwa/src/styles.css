@@ -547,6 +547,26 @@ button {
   padding: 8px 14px 14px;
 }
 
+.game-screen.manual-mode {
+  --manual-rest-space: calc(206px + var(--safe-bottom));
+  --manual-stage-lift: 0px;
+  --manual-stage-scale: 0.74;
+}
+
+.game-screen.manual-mode .card-stage {
+  padding-bottom: calc(var(--manual-rest-space) + 8px);
+  transform: translate3d(0, 0, 0) scale(1);
+  transform-origin: center top;
+  transition: transform 300ms var(--ease-out-expo);
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  will-change: transform;
+}
+
+.game-screen.manual-mode.manual-keyboard-open .card-stage {
+  transform: translate3d(0, calc(0px - var(--manual-stage-lift)), 0) scale(var(--manual-stage-scale));
+}
+
 .deck-shadow {
   position: absolute;
   width: min(88%, 380px);
@@ -1091,14 +1111,22 @@ button {
 }
 
 .manual-controls {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 5;
   width: 100%;
   padding: 12px 14px calc(32px + var(--safe-bottom));
   display: grid;
   gap: 10px;
   background: var(--paper);
   border-top: 1px solid var(--line);
-  flex-shrink: 0;
+  box-shadow: 0 -10px 22px oklch(28% 0.018 70 / 0.055);
   contain: layout paint style;
+  transform: translate3d(0, 0, 0);
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
   --manual-tray-height: 150px;
   --number-rise-delay: 0ms;
 }
@@ -1782,6 +1810,11 @@ button {
   gap: 8px;
 }
 
+.history-list {
+  align-content: start;
+  grid-auto-rows: minmax(48px, max-content);
+}
+
 .boards-list {
   align-content: start;
   grid-auto-rows: minmax(62px, auto);
@@ -1981,9 +2014,11 @@ button {
 }
 
 .history-row {
-  min-height: 0;
+  min-height: 48px;
+  min-block-size: 48px;
   overflow: hidden;
   display: block;
+  align-self: start;
   padding: 0;
   border-radius: 15px;
   animation: sheet-row-in 240ms cubic-bezier(0.22, 1, 0.36, 1) backwards;
@@ -1993,7 +2028,13 @@ button {
     box-shadow 180ms cubic-bezier(0.22, 1, 0.36, 1);
 }
 
+.history-row:not(.open) {
+  height: 48px;
+  block-size: 48px;
+}
+
 .history-row.open {
+  min-block-size: 48px;
   border-color: color-mix(in oklch, var(--row-accent) 28%, var(--line));
   background:
     linear-gradient(180deg, color-mix(in oklch, var(--row-accent) 5%, var(--surface)), oklch(97% 0.012 80));
@@ -2004,7 +2045,8 @@ button {
 
 .history-summary {
   width: 100%;
-  min-height: 50px;
+  block-size: 48px;
+  min-block-size: 48px;
   display: grid;
   grid-template-columns: auto minmax(0, 1fr) 22px;
   align-items: center;
@@ -2013,13 +2055,14 @@ button {
   background: transparent;
   color: var(--ink);
   text-align: left;
-  padding: 7px 10px;
+  padding: 6px 10px;
   touch-action: manipulation;
 }
 
 .history-row.open .history-summary {
-  min-height: 46px;
-  padding-block: 6px;
+  block-size: 46px;
+  min-block-size: 46px;
+  padding-block: 5px;
 }
 
 .history-row:nth-child(2),
@@ -2038,8 +2081,8 @@ button {
 }
 
 .history-code {
-  min-width: 44px;
-  height: 34px;
+  min-width: 40px;
+  height: 30px;
   display: grid;
   place-items: center;
   border-radius: 10px;
@@ -2048,7 +2091,7 @@ button {
     linear-gradient(180deg, color-mix(in oklch, var(--row-accent) 78%, oklch(100% 0 0)) 0%, var(--row-accent) 100%);
   color: var(--surface);
   font-family: Georgia, Cambria, "Times New Roman", serif;
-  font-size: 15.5px;
+  font-size: 14.5px;
   font-weight: 800;
   text-shadow: 0 1px 1px oklch(0% 0 0 / 0.20);
   box-shadow:
@@ -2086,7 +2129,7 @@ button {
 }
 
 .history-detail {
-  max-block-size: min(54dvh, 470px);
+  max-block-size: min(58dvh, 500px);
   overflow-y: auto;
   overscroll-behavior: auto;
   -webkit-overflow-scrolling: touch;
@@ -3185,6 +3228,12 @@ button {
     --manual-tray-height: 126px;
   }
 
+  .game-screen.manual-mode {
+    --manual-rest-space: calc(184px + var(--safe-bottom));
+    --manual-stage-lift: 0px;
+    --manual-stage-scale: 0.66;
+  }
+
   .manual-control-head {
     grid-template-columns: 62px 1fr 62px;
     gap: 8px;
@@ -3231,6 +3280,12 @@ button {
 @media (max-height: 720px) and (max-width: 520px) {
   .manual-controls {
     --manual-tray-height: 132px;
+  }
+
+  .game-screen.manual-mode {
+    --manual-rest-space: calc(190px + var(--safe-bottom));
+    --manual-stage-lift: 0px;
+    --manual-stage-scale: 0.66;
   }
 
   .manual-ball-wrap {
