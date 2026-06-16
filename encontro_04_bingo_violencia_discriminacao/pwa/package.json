@@ -6,7 +6,7 @@
   "scripts": {
     "predev": "python scripts/generate-game-data.py",
     "dev": "vite --host 127.0.0.1",
-    "prebuild": "python scripts/generate-game-data.py && python scripts/generate-icons.py",
+    "prebuild": "python scripts/generate-game-data.py",
     "build": "vite build",
     "postbuild": "python scripts/generate-sw.py",
     "preview": "vite preview --host 127.0.0.1"
