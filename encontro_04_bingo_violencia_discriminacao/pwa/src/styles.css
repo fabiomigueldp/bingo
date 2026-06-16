@@ -1571,16 +1571,23 @@ button {
 .history-list,
 .boards-list,
 .materials-list,
-.rules-list {
+.rules-list,
+.conference-scroll {
   min-height: 0;
   flex: 1 1 auto;
-  display: grid;
-  gap: 8px;
   overflow-y: auto;
   overscroll-behavior: contain;
   -webkit-overflow-scrolling: touch;
   padding: 2px 2px 6px;
   scrollbar-width: none;
+}
+
+.history-list,
+.boards-list,
+.materials-list,
+.rules-list {
+  display: grid;
+  gap: 8px;
 }
 
 .boards-list {
@@ -1591,7 +1598,8 @@ button {
 .history-list::-webkit-scrollbar,
 .boards-list::-webkit-scrollbar,
 .materials-list::-webkit-scrollbar,
-.rules-list::-webkit-scrollbar {
+.rules-list::-webkit-scrollbar,
+.conference-scroll::-webkit-scrollbar {
   display: none;
 }
 
@@ -2288,6 +2296,7 @@ button {
 }
 
 .sheet-actions {
+  flex: 0 0 auto;
   display: grid;
   gap: 6px;
   margin-top: 16px;
@@ -2301,26 +2310,55 @@ button {
   font-weight: 850;
 }
 
+.conference-sheet {
+  height: min(90dvh, 840px);
+  max-height: min(90dvh, 840px);
+  padding-bottom: calc(8px + var(--safe-bottom));
+}
+
+.conference-sheet .sheet-head {
+  margin-bottom: 8px;
+}
+
+.conference-scroll {
+  flex: 1 1 0;
+  min-height: 292px;
+  margin: 0 -1px;
+  padding: 8px 1px 14px;
+  scroll-padding: 8px 0 22px;
+  touch-action: pan-y;
+}
+
 .conference-grid {
+  flex: 0 0 auto;
   display: grid;
   grid-template-columns: auto 1fr;
-  gap: 14px;
+  gap: 13px;
   align-items: start;
+  margin: 0;
+  padding: 1px 0 8px;
+}
+
+.conference-sheet .mini-board {
+  --mini-size: 136px;
+  --mini-dot: 19px;
+  --mini-gap: 4px;
 }
 
 .line-tabs {
   display: grid;
-  gap: 7px;
+  gap: 6px;
+  align-content: start;
 }
 
 .line-tabs button {
-  min-height: 50px;
+  min-height: 46px;
   border-radius: 14px;
   border: 1px solid color-mix(in oklch, var(--line) 82%, oklch(100% 0 0));
   background:
     linear-gradient(180deg, oklch(98.8% 0.011 82), oklch(95.8% 0.012 80));
   text-align: left;
-  padding: 9px 12px;
+  padding: 8px 12px;
   color: var(--ink);
   box-shadow:
     inset 0 1px 0 oklch(100% 0 0 / 0.66),
@@ -2359,11 +2397,16 @@ button {
 .concept-checklist {
   display: grid;
   gap: 8px;
-  margin-top: 18px;
+  margin-top: 0;
+}
+
+.conference-sheet .concept-checklist {
+  gap: 7px;
 }
 
 .concept-item {
   overflow: hidden;
+  scroll-margin: 12px;
   border: 1px solid color-mix(in oklch, var(--line) 82%, oklch(100% 0 0));
   border-radius: 18px;
   background:
@@ -2398,6 +2441,17 @@ button {
   color: var(--ink);
   text-align: left;
   padding: 8px 12px;
+  touch-action: manipulation;
+}
+
+.conference-sheet .concept-summary {
+  min-height: 52px;
+  padding-block: 7px;
+}
+
+.conference-sheet .concept-code {
+  width: 40px;
+  height: 32px;
 }
 
 .concept-summary.static {
@@ -2460,6 +2514,13 @@ button {
   gap: 12px;
   padding: 1px 14px 14px 70px;
   animation: concept-open 180ms cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+.conference-actions {
+  margin: 6px -2px 0;
+  padding: 8px 0 0;
+  background:
+    linear-gradient(180deg, oklch(98.5% 0.012 82 / 0), oklch(97% 0.014 80) 42%);
 }
 
 .concept-detail-label {
@@ -2924,6 +2985,37 @@ button {
 
   .primary-action {
     min-height: 54px;
+  }
+
+  .conference-sheet {
+    height: min(92dvh, 700px);
+    max-height: min(92dvh, 700px);
+  }
+
+  .conference-scroll {
+    min-height: 220px;
+    padding-top: 7px;
+    padding-bottom: 12px;
+  }
+
+  .conference-sheet .mini-board {
+    --mini-size: 124px;
+    --mini-dot: 17px;
+    --mini-gap: 4px;
+  }
+
+  .conference-grid {
+    gap: 12px;
+    padding-bottom: 7px;
+  }
+
+  .line-tabs button {
+    min-height: 42px;
+    padding-block: 7px;
+  }
+
+  .conference-sheet .concept-summary {
+    min-height: 50px;
   }
 }
 

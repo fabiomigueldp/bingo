@@ -606,7 +606,7 @@ function BottomSheet({ title, children, onClose, className = "" }) {
       startTime: performance.now(),
       active: false,
       pointerId,
-      scrollEl: target.closest(".history-list, .boards-list")
+      scrollEl: target.closest(".history-list, .boards-list, .materials-list, .rules-list, .conference-scroll")
     };
     return true;
   }
@@ -931,7 +931,7 @@ function ConceptDisclosure({ cell, isOpen, onToggle }) {
 
   if (!card) {
     return (
-      <div className="concept-item free" style={{ "--concept-accent": accent }}>
+      <div className="concept-item free" data-concept-id={cell.id} style={{ "--concept-accent": accent }}>
         <div className="concept-summary static">
           <span className="concept-code">Livre</span>
           <strong>{cell.label}</strong>
@@ -941,7 +941,11 @@ function ConceptDisclosure({ cell, isOpen, onToggle }) {
   }
 
   return (
-    <div className={isOpen ? "concept-item open" : "concept-item"} style={{ "--concept-accent": accent }}>
+    <div
+      className={isOpen ? "concept-item open" : "concept-item"}
+      data-concept-id={cell.id}
+      style={{ "--concept-accent": accent }}
+    >
       <button className="concept-summary" type="button" aria-expanded={isOpen} onClick={onToggle}>
         <span className="concept-code">{card.code}</span>
         <strong>{card.label}</strong>
@@ -981,6 +985,7 @@ function ConferenceSheet({ game, boardNumber, onClose, onValidated }) {
   const completedLines = getCompletedLines(board, game.drawnIds);
   const [selectedLineId, setSelectedLineId] = useState(completedLines[0]?.id);
   const [openConceptId, setOpenConceptId] = useState(null);
+  const scrollRef = useRef(null);
   const selectedLine = completedLines.find((line) => line.id === selectedLineId) || completedLines[0];
   const cells = selectedLine?.cells || [];
 
@@ -992,6 +997,34 @@ function ConferenceSheet({ game, boardNumber, onClose, onValidated }) {
   useEffect(() => {
     setOpenConceptId(null);
   }, [selectedLineId]);
+
+  useEffect(() => {
+    if (!openConceptId) return undefined;
+    const scrollEl = scrollRef.current;
+    if (!scrollEl) return undefined;
+
+    const frame = window.requestAnimationFrame(() => {
+      const item = scrollEl.querySelector(`[data-concept-id="${openConceptId}"]`);
+      if (!item) return;
+
+      const scrollRect = scrollEl.getBoundingClientRect();
+      const itemRect = item.getBoundingClientRect();
+      const topRoom = 12;
+      const bottomRoom = 18;
+      const overflowTop = scrollRect.top + topRoom - itemRect.top;
+      const overflowBottom = itemRect.bottom - (scrollRect.bottom - bottomRoom);
+      const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+      const behavior = reduceMotion ? "auto" : "smooth";
+
+      if (overflowTop > 0) {
+        scrollEl.scrollBy({ top: -overflowTop, behavior });
+      } else if (overflowBottom > 0) {
+        scrollEl.scrollBy({ top: itemRect.top - scrollRect.top - topRoom, behavior });
+      }
+    });
+
+    return () => window.cancelAnimationFrame(frame);
+  }, [openConceptId]);
 
   return (
     <BottomSheet title={`Cartela ${boardNumber.toString().padStart(2, "0")}`} onClose={onClose} className="conference-sheet">
@@ -1013,18 +1046,20 @@ function ConferenceSheet({ game, boardNumber, onClose, onValidated }) {
         </div>
       </div>
 
-      <div className="concept-checklist">
-        {cells.map((cell) => (
-          <ConceptDisclosure
-            cell={cell}
-            isOpen={openConceptId === cell.id}
-            key={`${selectedLine?.id}-${cell.id}`}
-            onToggle={() => setOpenConceptId((current) => (current === cell.id ? null : cell.id))}
-          />
-        ))}
+      <div className="conference-scroll" ref={scrollRef}>
+        <div className="concept-checklist">
+          {cells.map((cell) => (
+            <ConceptDisclosure
+              cell={cell}
+              isOpen={openConceptId === cell.id}
+              key={`${selectedLine?.id}-${cell.id}`}
+              onToggle={() => setOpenConceptId((current) => (current === cell.id ? null : cell.id))}
+            />
+          ))}
+        </div>
       </div>
 
-      <div className="sheet-actions">
+      <div className="sheet-actions conference-actions">
         <button className="primary-action" type="button" onClick={() => onValidated(boardNumber, selectedLine?.id)}>
           Vitória validada
         </button>
