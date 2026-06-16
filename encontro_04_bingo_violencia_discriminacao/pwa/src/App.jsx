@@ -46,33 +46,6 @@ function Icon({ name }) {
       </svg>
     );
   }
-  if (name === "spark") {
-    return (
-      <svg {...common} viewBox="0 0 24 24">
-        {/* Main curved star */}
-        <path 
-          d="M12 3 Q12 12 21 12 Q12 12 12 21 Q12 12 3 12 Q12 12 12 3 Z" 
-          fill="currentColor"
-        />
-        {/* Secondary medium curved star */}
-        <path 
-          d="M18.5 5.5 Q18.5 7 20 7 Q18.5 7 18.5 8.5 Q18.5 7 17 7 Q18.5 7 18.5 5.5 Z" 
-          fill="currentColor"
-          opacity="0.85"
-        />
-        {/* Tertiary small curved star */}
-        <path 
-          d="M6.5 15.5 Q6.5 17 8 17 Q6.5 17 6.5 18.5 Q6.5 17 5 17 Q6.5 17 6.5 15.5 Z" 
-          fill="currentColor"
-          opacity="0.7"
-        />
-        {/* Floating stardust dots */}
-        <circle cx="8" cy="6" r="0.75" fill="currentColor" opacity="0.6" />
-        <circle cx="16" cy="16" r="0.75" fill="currentColor" opacity="0.8" />
-        <circle cx="5" cy="9" r="0.5" fill="currentColor" opacity="0.5" />
-      </svg>
-    );
-  }
   if (name === "x") {
     return (
       <svg {...common}>
@@ -400,16 +373,14 @@ function CallCard({ card, drawCount, drawMode }) {
   );
 }
 
-function CardFlight({ exitingCard, enteringCard, drawCount, phase }) {
+function CardFlight({ exitingCard, enteringCard, drawCount, phase, drawMode }) {
   return (
-    <div className={`card-flight ${phase}`} aria-hidden={phase === "dealing"}>
-      {exitingCard && phase === "dealing" ? (
-        <div className="flight-card exit-card">
-          <CallCard card={exitingCard} drawCount={`exit-${drawCount}`} />
-        </div>
-      ) : null}
+    <div className={`card-flight ${phase}`} aria-hidden="true">
+      <div className="flight-card exit-card">
+        <CallCard card={exitingCard} drawCount={`exit-${drawCount}`} drawMode={drawMode} />
+      </div>
       <div className="flight-card enter-card">
-        <CallCard card={enteringCard} drawCount={`enter-${drawCount}`} />
+        <CallCard card={enteringCard} drawCount={`enter-${drawCount}`} drawMode={drawMode} />
       </div>
     </div>
   );
@@ -1126,6 +1097,7 @@ function GameScreen({ game, setGame, onReset }) {
   const [flight, setFlight] = useState(null);
   const [showConfirmReset, setShowConfirmReset] = useState(false);
   const flightTimers = useRef([]);
+  const flightFrames = useRef([]);
   const drawMode = game.drawMode || DRAW_MODES.APP;
   const currentCard = game.drawnIds.length ? cardById[game.drawnIds.at(-1)] : null;
   const currentAlertBatch = useMemo(() => {
@@ -1139,6 +1111,7 @@ function GameScreen({ game, setGame, onReset }) {
   useEffect(() => {
     return () => {
       flightTimers.current.forEach((timer) => window.clearTimeout(timer));
+      flightFrames.current.forEach((frame) => window.cancelAnimationFrame(frame));
     };
   }, []);
 
@@ -1152,24 +1125,42 @@ function GameScreen({ game, setGame, onReset }) {
       return;
     }
 
+    flightTimers.current.forEach((timer) => window.clearTimeout(timer));
+    flightFrames.current.forEach((frame) => window.cancelAnimationFrame(frame));
+    flightTimers.current = [];
+    flightFrames.current = [];
+
     setFlight({
-      phase: "dealing",
+      phase: "preparing",
       exitingCard: currentCard,
       enteringCard: nextCard,
       drawCount: nextDrawCount
     });
 
-    flightTimers.current.forEach((timer) => window.clearTimeout(timer));
-    flightTimers.current = [];
+    const startDealing = () => {
+      flightFrames.current = [];
+      setFlight((current) =>
+        current?.drawCount === nextDrawCount
+          ? {
+              ...current,
+              phase: "dealing"
+            }
+          : current
+      );
 
-    flightTimers.current.push(window.setTimeout(() => {
-      setGame(commitGame);
-    }, 560));
+      flightTimers.current.push(window.setTimeout(() => {
+        setGame(commitGame);
+        setFlight(null);
+        flightTimers.current = [];
+      }, 560));
+    };
 
-    flightTimers.current.push(window.setTimeout(() => {
-      setFlight(null);
-      flightTimers.current = [];
-    }, 640));
+    const firstFrame = window.requestAnimationFrame(() => {
+      const secondFrame = window.requestAnimationFrame(startDealing);
+      flightFrames.current.push(secondFrame);
+    });
+
+    flightFrames.current.push(firstFrame);
   }
 
   function draw() {
@@ -1233,6 +1224,7 @@ function GameScreen({ game, setGame, onReset }) {
             enteringCard={flight.enteringCard}
             drawCount={flight.drawCount}
             phase={flight.phase}
+            drawMode={drawMode}
           />
         ) : (
           <CallCard card={currentCard} drawCount={drawnCount} drawMode={drawMode} />
