@@ -115,7 +115,15 @@ function renderRich(text) {
 function SetupScreen({ onStart }) {
   const [selection, setSelection] = useState([]);
   const [drawMode, setDrawMode] = useState(DRAW_MODES.APP);
+  const [isStarting, setIsStarting] = useState(false);
+  const startTimer = useRef(null);
   const selected = selection.length;
+
+  useEffect(() => {
+    return () => {
+      if (startTimer.current) window.clearTimeout(startTimer.current);
+    };
+  }, []);
 
   function toggle(number) {
     setSelection((current) =>
@@ -123,8 +131,21 @@ function SetupScreen({ onStart }) {
     );
   }
 
+  function startGame() {
+    if (!selected || isStarting) return;
+
+    const selectedBoards = [...selection];
+    const selectedMode = drawMode;
+    const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    setIsStarting(true);
+
+    startTimer.current = window.setTimeout(() => {
+      onStart(selectedBoards, selectedMode);
+    }, reduceMotion ? 0 : 180);
+  }
+
   return (
-    <main className="setup-screen">
+    <main className={isStarting ? "setup-screen starting" : "setup-screen"}>
       <section className="setup-hero" aria-labelledby="setup-title">
         <h1 id="setup-title">Bingo</h1>
         <p>Violência e discriminação</p>
@@ -186,7 +207,13 @@ function SetupScreen({ onStart }) {
       </section>
 
       <div className="setup-footer">
-        <button className="primary-action" type="button" disabled={!selected} onClick={() => onStart(selection, drawMode)}>
+        <button
+          className={`primary-action${selected ? " ready" : ""}${isStarting ? " starting" : ""}`}
+          type="button"
+          disabled={!selected}
+          aria-busy={isStarting}
+          onClick={startGame}
+        >
           Iniciar jogo
         </button>
       </div>
@@ -321,7 +348,6 @@ function BottomControls({ game, onUndo, onDraw, onHistory, busy = false }) {
         <span>Voltar</span>
       </button>
       <button className={busy ? "draw-button dealing" : "draw-button"} type="button" onClick={onDraw} disabled={finished || busy}>
-        <Icon name="spark" />
         <span>{hasDrawn ? (finished ? "Baralho completo" : "Próxima carta") : "Sortear carta"}</span>
       </button>
       <button className="tool-button" type="button" onClick={onHistory} disabled={!hasDrawn || busy}>
@@ -334,6 +360,12 @@ function BottomControls({ game, onUndo, onDraw, onHistory, busy = false }) {
 
 function ManualCallControls({ game, onUndo, onCall, onHistory, busy = false }) {
   const [activeColumn, setActiveColumn] = useState("");
+  const lastColumnRef = useRef("");
+  if (activeColumn && activeColumn !== lastColumnRef.current) {
+    lastColumnRef.current = activeColumn;
+  }
+  const renderColumn = activeColumn || lastColumnRef.current;
+  
   const [lastCode, setLastCode] = useState("");
   const [pulseKey, setPulseKey] = useState(0);
   const hasDrawn = game.drawnIds.length > 0;
@@ -420,18 +452,20 @@ function ManualCallControls({ game, onUndo, onCall, onHistory, busy = false }) {
         </div>
 
         <div className="manual-numbers-shell" aria-hidden={!activeColumn}>
-          <div key={activeColumn || "closed"} className="manual-numbers" aria-label="Número da bolinha">
+          <div className="manual-numbers" aria-label="Número da bolinha">
             {numbers.map((number) => {
-              const card = activeColumn ? cardByCode[`${activeColumn}${number}`] : null;
+              const card = renderColumn ? cardByCode[`${renderColumn}${number}`] : null;
               const used = card ? drawnSet.has(card.id) : false;
+              // Provide a fallback disabled state if no active column
+              const isActuallyDisabled = busy || !activeColumn || used;
               return (
                 <button
                   type="button"
                   key={number}
                   className={used ? "manual-number used" : "manual-number"}
                   onClick={() => submitNumber(number)}
-                  disabled={busy || !activeColumn || used}
-                  aria-label={activeColumn ? `${activeColumn}${number}` : `Número ${number}`}
+                  disabled={isActuallyDisabled}
+                  aria-label={renderColumn ? `${renderColumn}${number}` : `Número ${number}`}
                 >
                   {number}
                 </button>
@@ -445,14 +479,170 @@ function ManualCallControls({ game, onUndo, onCall, onHistory, busy = false }) {
 }
 
 function BottomSheet({ title, children, onClose, className = "" }) {
+  const [closing, setClosing] = useState(false);
+  const [drag, setDrag] = useState(0);
+  const [dragging, setDragging] = useState(false);
+  const gesture = useRef(null);
+  const closeTimer = useRef(null);
+  const suppressClick = useRef(false);
+
+  function closeSheet(resetDrag = true) {
+    if (closing) return;
+    const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    if (reduceMotion) {
+      onClose();
+      return;
+    }
+    setClosing(true);
+    if (resetDrag) setDrag(0);
+    closeTimer.current = window.setTimeout(onClose, 180);
+  }
+
+  function startGesture(clientY, target, pointerId = null) {
+    if (closing) return false;
+    if (target.closest("button:not(:disabled), a, input, textarea, select")) return false;
+
+    gesture.current = {
+      startY: clientY,
+      lastY: clientY,
+      startTime: performance.now(),
+      active: false,
+      pointerId,
+      scrollEl: target.closest(".history-list, .boards-list")
+    };
+    return true;
+  }
+
+  function moveGesture(clientY, event) {
+    const current = gesture.current;
+    if (!current) return;
+
+    const delta = clientY - current.startY;
+    current.lastY = clientY;
+
+    if (delta <= 0) {
+      if (current.active) {
+        setDrag(0);
+        if (event?.cancelable !== false) event?.preventDefault?.();
+      }
+      return;
+    }
+
+    if (current.scrollEl && current.scrollEl.scrollTop > 1) return;
+
+    if (delta > 6 || current.active) {
+      current.active = true;
+      suppressClick.current = delta > 10;
+      setDragging(true);
+      setDrag(Math.min(delta, 190));
+      if (event?.cancelable !== false) event?.preventDefault?.();
+    }
+  }
+
+  function endGesture() {
+    const current = gesture.current;
+    if (!current) return;
+
+    const elapsed = Math.max(performance.now() - current.startTime, 1);
+    const travel = Math.max(0, current.lastY - current.startY);
+    const velocity = travel / elapsed;
+    const shouldClose = current.active && (travel > 56 || (travel > 28 && velocity > 0.42));
+
+    gesture.current = null;
+    setDragging(false);
+
+    if (shouldClose) {
+      closeSheet(false);
+    } else {
+      setDrag(0);
+    }
+  }
+
+  function beginTouch(event) {
+    if (event.touches.length !== 1) return;
+    startGesture(event.touches[0].clientY, event.target);
+  }
+
+  function moveTouch(event) {
+    if (event.touches.length !== 1) return;
+    moveGesture(event.touches[0].clientY, event);
+  }
+
+  function beginPointer(event) {
+    if (event.pointerType === "touch") return;
+    if (startGesture(event.clientY, event.target, event.pointerId)) {
+      event.currentTarget.setPointerCapture?.(event.pointerId);
+    }
+  }
+
+  function movePointer(event) {
+    if (event.pointerType === "touch") return;
+    moveGesture(event.clientY, event);
+  }
+
+  function endPointer(event) {
+    if (event.pointerType === "touch") return;
+    endGesture();
+  }
+
+  function beginMouse(event) {
+    if (event.button !== 0) return;
+    startGesture(event.clientY, event.target);
+  }
+
+  function moveMouse(event) {
+    moveGesture(event.clientY, event);
+  }
+
+  function endMouse() {
+    endGesture();
+  }
+
+  function captureClick(event) {
+    if (!suppressClick.current) return;
+    suppressClick.current = false;
+    event.preventDefault();
+    event.stopPropagation();
+  }
+
+  useEffect(() => {
+    function onKeyDown(event) {
+      if (event.key === "Escape") closeSheet();
+    }
+    window.addEventListener("keydown", onKeyDown);
+    return () => {
+      window.removeEventListener("keydown", onKeyDown);
+      if (closeTimer.current) window.clearTimeout(closeTimer.current);
+    };
+  }, []);
+
   return (
-    <div className="sheet-layer" role="presentation">
-      <button className="sheet-backdrop" type="button" aria-label="Fechar" onClick={onClose} />
-      <section className={`bottom-sheet ${className}`} role="dialog" aria-modal="true" aria-label={title}>
+    <div className={closing ? "sheet-layer closing" : "sheet-layer"} role="presentation">
+      <button className="sheet-backdrop" type="button" aria-label="Fechar" onClick={closeSheet} />
+      <section
+        className={`bottom-sheet ${dragging ? "dragging" : ""} ${className}`}
+        role="dialog"
+        aria-modal="true"
+        aria-label={title}
+        style={{ "--sheet-drag": `${drag}px` }}
+        onClickCapture={captureClick}
+        onTouchStart={beginTouch}
+        onTouchMove={moveTouch}
+        onTouchEnd={endGesture}
+        onTouchCancel={endGesture}
+        onPointerDown={beginPointer}
+        onPointerMove={movePointer}
+        onPointerUp={endPointer}
+        onPointerCancel={endPointer}
+        onMouseDown={beginMouse}
+        onMouseMove={moveMouse}
+        onMouseUp={endMouse}
+        onMouseLeave={endMouse}
+      >
         <div className="grabber" aria-hidden="true" />
         <header className="sheet-head">
           <h2>{title}</h2>
-          <button className="icon-button" type="button" onClick={onClose} aria-label="Fechar">
+          <button className="icon-button" type="button" onClick={closeSheet} aria-label="Fechar">
             <Icon name="x" />
           </button>
         </header>
@@ -652,9 +842,27 @@ function Toast({ message }) {
   return <div className="toast">{message}</div>;
 }
 
-function ConfirmDialog({ title, message, confirmLabel, cancelLabel, onConfirm, onCancel }) {
+function ConfirmDialog({ isOpen, title, message, confirmLabel, cancelLabel, onConfirm, onCancel }) {
+  const [shouldRender, setShouldRender] = useState(isOpen);
+  const [isClosing, setIsClosing] = useState(false);
+
+  useEffect(() => {
+    if (isOpen) {
+      setShouldRender(true);
+      setIsClosing(false);
+    } else if (shouldRender) {
+      setIsClosing(true);
+      const timer = setTimeout(() => {
+        setShouldRender(false);
+      }, 400); // match CSS animation duration
+      return () => clearTimeout(timer);
+    }
+  }, [isOpen, shouldRender]);
+
+  if (!shouldRender) return null;
+
   return (
-    <div className="dialog-layer" role="presentation">
+    <div className={`dialog-layer ${isClosing ? "closing" : ""}`} role="presentation">
       <button className="dialog-backdrop" type="button" aria-label="Cancelar" onClick={onCancel} />
       <section className="confirm-dialog" role="dialog" aria-modal="true" aria-label={title}>
         <h2 className="dialog-title">{title}</h2>
@@ -805,20 +1013,22 @@ function GameScreen({ game, setGame, onReset }) {
       ) : null}
       <Toast message={toast} />
       
-      {showConfirmReset ? (
-        <ConfirmDialog
-          title="Novo jogo?"
-          message="Todo o progresso do jogo atual será perdido. Deseja mesmo reiniciar?"
-          confirmLabel="Sim, reiniciar"
-          cancelLabel="Cancelar"
-          onConfirm={() => {
+      <ConfirmDialog
+        isOpen={showConfirmReset}
+        title="Novo jogo?"
+        message="Todo o progresso do jogo atual será perdido. Deseja mesmo reiniciar?"
+        confirmLabel="Sim, reiniciar"
+        cancelLabel="Cancelar"
+        onConfirm={() => {
+          setShowConfirmReset(false);
+          // Wait for modal exit animation to start before resetting the board
+          setTimeout(() => {
             onReset();
-            setShowConfirmReset(false);
             setSheet(null);
-          }}
-          onCancel={() => setShowConfirmReset(false)}
-        />
-      ) : null}
+          }, 300);
+        }}
+        onCancel={() => setShowConfirmReset(false)}
+      />
     </main>
   );
 }
