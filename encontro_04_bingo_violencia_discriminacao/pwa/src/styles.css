@@ -50,8 +50,9 @@ body {
   position: fixed;
   inset: 0;
   margin: 0;
+  background-color: var(--paper);
   background:
-    linear-gradient(180deg, oklch(98% 0.01 80), var(--paper) 30%, oklch(94.5% 0.016 76)),
+    linear-gradient(180deg, var(--paper) 0, var(--paper) 120px, oklch(94.5% 0.016 76) 100%),
     var(--paper);
   -webkit-font-smoothing: antialiased;
   -webkit-text-size-adjust: 100%;
@@ -62,6 +63,7 @@ body {
 #root {
   position: fixed;
   inset: 0;
+  background: var(--paper);
 }
 
 button,
@@ -86,7 +88,7 @@ button {
   touch-action: none;
   display: grid;
   grid-template-rows: minmax(0, 1fr) auto;
-  background: transparent;
+  background: var(--paper);
 }
 
 .setup-content {
@@ -130,6 +132,7 @@ button {
   touch-action: none;
   display: flex;
   flex-direction: column;
+  background: var(--paper);
 }
 
 .setup-hero {
@@ -3393,8 +3396,9 @@ button {
 
 @media (min-width: 760px) {
   body {
+    background-color: var(--paper);
     background:
-      radial-gradient(circle at 50% 0, oklch(99% 0.01 82), transparent 42%),
+      linear-gradient(180deg, var(--paper) 0, var(--paper) 132px, transparent 320px),
       linear-gradient(180deg, oklch(96.5% 0.014 78), oklch(92.5% 0.017 76));
   }
 
