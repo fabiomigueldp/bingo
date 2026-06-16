@@ -1,0 +1,1919 @@
+{
+  "title": "Chamadas — Bingo Violência e discriminação",
+  "meeting": "Encontro 04 — Violência e discriminação",
+  "source_terms": "data/termos.json",
+  "method": {
+    "read_order": [
+      "call_label",
+      "case",
+      "reading_points"
+    ],
+    "rule": "A cada carta, anuncie código e conceito, leia o caso e explique brevemente a relação usando a Leitura do caso. Depois as equipes marcam o código, se estiver na cartela.",
+    "conference_rule": "Ao fechar duas linhas válidas, horizontais, verticais ou diagonais, a equipe escolhe uma dessas linhas completas, explica pelo menos três conceitos da linha escolhida e liga pelo menos um deles a Gn 1,27, Mt 25,40 ou CEC 1931-1940. As duas linhas podem se cruzar. O centro livre já conta como casa marcada para completar linhas, mas não conta como um dos três conceitos explicados."
+  },
+  "cards": [
+    {
+      "id": "B01",
+      "term_id": "B01",
+      "call_label": "B01 - Imagem de Deus",
+      "case": "No grupo, alguém diz que um colega 'não serve para nada' porque sempre atrapalha os trabalhos e jogos.",
+      "conference_question": "O que muda quando a pessoa é vista antes de tudo como imagem de Deus, e não como utilidade para o grupo?",
+      "anchors": [
+        "Gn 1,26-27",
+        "CEC 1934"
+      ],
+      "facilitator_note": "Conduzir para a dignidade anterior ao desempenho, popularidade ou eficiência.",
+      "reading_points": [
+        {
+          "title": "Valor antes da utilidade",
+          "body": "A pessoa não vale pelo quanto ajuda, rende ou facilita a vida do grupo."
+        },
+        {
+          "title": "Desempenho não define dignidade",
+          "body": "Atrapalhar ou ter limites não autoriza desprezo."
+        },
+        {
+          "title": "Primeiro olhar cristão",
+          "body": "Antes de avaliar eficiência, a fé reconhece uma criatura amada por Deus."
+        }
+      ]
+    },
+    {
+      "id": "B02",
+      "term_id": "B02",
+      "call_label": "B02 - Igual dignidade",
+      "case": "Dois colegas cometem o mesmo erro. O popular recebe risada e desculpa; o quieto recebe desprezo e isolamento.",
+      "conference_question": "Por que a dignidade não muda conforme simpatia, status ou fama?",
+      "anchors": [
+        "CEC 1934",
+        "CEC 1935"
+      ],
+      "facilitator_note": "Ajudar a separar valor pessoal de posição social dentro do grupo.",
+      "reading_points": [
+        {
+          "title": "Dois pesos e duas medidas",
+          "body": "O grupo trata o mesmo erro de forma diferente conforme popularidade."
+        },
+        {
+          "title": "Status não muda valor",
+          "body": "Ser aceito ou quieto não aumenta nem diminui dignidade."
+        },
+        {
+          "title": "Justiça exige coerência",
+          "body": "A resposta ao erro precisa ser proporcional, não guiada por simpatia."
+        }
+      ]
+    },
+    {
+      "id": "B03",
+      "term_id": "B03",
+      "call_label": "B03 - Direitos fundamentais",
+      "case": "Um grupo diz que certo colega pode até ficar na sala, mas não deve falar, escolher equipe ou participar das decisões.",
+      "conference_question": "Quando uma exclusão atinge direitos básicos de participação e respeito?",
+      "anchors": [
+        "CEC 1935"
+      ],
+      "facilitator_note": "Mostrar que a pessoa não pode ser tolerada como presença muda e inferior.",
+      "reading_points": [
+        {
+          "title": "Participação negada",
+          "body": "A pessoa é tolerada fisicamente, mas impedida de exercer voz e escolha."
+        },
+        {
+          "title": "Exclusão com aparência de ordem",
+          "body": "O grupo finge permitir presença enquanto retira direitos básicos."
+        },
+        {
+          "title": "Dignidade tem consequências",
+          "body": "Respeito real inclui escuta, participação e tratamento justo."
+        }
+      ]
+    },
+    {
+      "id": "B04",
+      "term_id": "B04",
+      "call_label": "B04 - Outro eu",
+      "case": "Antes de postar uma montagem ridicularizando alguém, o grupo só pergunta se vai render risada.",
+      "conference_question": "O que significa olhar o outro como 'outro eu' antes de agir?",
+      "anchors": [
+        "CEC 1931"
+      ],
+      "facilitator_note": "Trabalhar a passagem de objeto de riso para pessoa concreta.",
+      "reading_points": [
+        {
+          "title": "A pessoa virou meio",
+          "body": "O colega não é considerado como alguém que pode se ferir, se envergonhar ou sofrer exposição."
+        },
+        {
+          "title": "Critério errado",
+          "body": "A pergunta do grupo é se rende risada, quando deveria ser se respeita a pessoa."
+        },
+        {
+          "title": "O erro começa antes do post",
+          "body": "A violência nasce quando alguém é medido pelo entretenimento que pode gerar."
+        }
+      ]
+    },
+    {
+      "id": "B05",
+      "term_id": "B05",
+      "call_label": "B05 - Cristo no pequeno",
+      "case": "Um colega mais frágil vira alvo porque quase nunca reage e parece não ter quem o defenda.",
+      "conference_question": "Como Mt 25,40 muda a forma de ver quem o grupo trata como pequeno?",
+      "anchors": [
+        "Mt 25,40",
+        "CEC 1932"
+      ],
+      "facilitator_note": "Evitar sentimentalismo; ligar o cuidado do pequeno ao encontro com Cristo.",
+      "reading_points": [
+        {
+          "title": "Alvo fácil",
+          "body": "A fragilidade da pessoa é usada como motivo para atacar, não para proteger."
+        },
+        {
+          "title": "Cristo se identifica com o pequeno",
+          "body": "O desprezado não é invisível para Deus; nele Cristo pede resposta concreta."
+        },
+        {
+          "title": "Defesa sem espetáculo",
+          "body": "Cuidar do pequeno não é pena pública, mas reconhecimento de dignidade."
+        }
+      ]
+    },
+    {
+      "id": "B06",
+      "term_id": "B06",
+      "call_label": "B06 - Caridade social",
+      "case": "A turma até fala de respeito individual, mas aceita uma cultura de apelidos, exclusões e humilhações.",
+      "conference_question": "Por que a caridade precisa aparecer também no jeito como o grupo funciona?",
+      "anchors": [
+        "CEC 1939"
+      ],
+      "facilitator_note": "Mostrar que caridade não é só sentimento privado; também molda ambientes.",
+      "reading_points": [
+        {
+          "title": "Cultura do grupo",
+          "body": "Não basta indivíduos falarem de respeito se o ambiente normaliza humilhação."
+        },
+        {
+          "title": "Caridade estruturada",
+          "body": "A caridade também aparece nas regras, hábitos e limites do grupo."
+        },
+        {
+          "title": "Ambiente que normaliza o erro",
+          "body": "Apelidos e exclusões repetidos criam uma cultura que forma ou deforma consciências."
+        }
+      ]
+    },
+    {
+      "id": "B07",
+      "term_id": "B07",
+      "call_label": "B07 - Solidariedade",
+      "case": "Todos percebem que uma pessoa está sempre ficando com a pior parte, mas cada um pensa: 'pelo menos não sou eu'.",
+      "conference_question": "Qual é a diferença entre sentir pena e assumir responsabilidade pelo bem do outro?",
+      "anchors": [
+        "CEC 1939",
+        "CEC 1940"
+      ],
+      "facilitator_note": "Levar do sentimento passivo para responsabilidade concreta.",
+      "reading_points": [
+        {
+          "title": "Pena passiva",
+          "body": "Todos percebem a injustiça, mas se aliviam por não serem o alvo."
+        },
+        {
+          "title": "Responsabilidade compartilhada",
+          "body": "Solidariedade começa quando alguém assume parte do cuidado pelo outro."
+        },
+        {
+          "title": "Omissão confortável",
+          "body": "A frase \"pelo menos não sou eu\" revela medo e falta de compromisso."
+        }
+      ]
+    },
+    {
+      "id": "B08",
+      "term_id": "B08",
+      "call_label": "B08 - Justiça social",
+      "case": "Uma atividade exige dinheiro, transporte e material caro. Quem não consegue acompanhar passa a ser tratado como desinteressado.",
+      "conference_question": "Quando uma desigualdade prática cria exclusão injusta?",
+      "anchors": [
+        "CEC 1938"
+      ],
+      "facilitator_note": "Ligar dignidade a condições reais, sem transformar a pessoa pobre em objeto de pena.",
+      "reading_points": [
+        {
+          "title": "Barreira invisível",
+          "body": "A atividade parece neutra, mas exige recursos que nem todos possuem."
+        },
+        {
+          "title": "Pobreza vira julgamento",
+          "body": "Quem não acompanha é lido como desinteressado, não como alguém com limite real."
+        },
+        {
+          "title": "Justiça olha condições",
+          "body": "Dignidade pede adaptar meios para não excluir injustamente."
+        }
+      ]
+    },
+    {
+      "id": "B09",
+      "term_id": "B09",
+      "call_label": "B09 - Paz concreta",
+      "case": "A sala fica quieta depois de ameaças veladas. Ninguém briga em público, mas muitos estão com medo.",
+      "conference_question": "Por que silêncio imposto pelo medo não é paz?",
+      "anchors": [
+        "CEC 1938",
+        "CEC 1940"
+      ],
+      "facilitator_note": "Distinguir paz de controle, medo ou simples ausência de barulho.",
+      "reading_points": [
+        {
+          "title": "Silêncio não é paz",
+          "body": "A ausência de briga pode ser resultado de medo, não de justiça."
+        },
+        {
+          "title": "Ameaça organiza o ambiente",
+          "body": "Quando todos se calam por temor, a ordem aparente esconde violência."
+        },
+        {
+          "title": "Paz exige segurança",
+          "body": "Paz concreta permite falar, corrigir e conviver sem intimidação."
+        }
+      ]
+    },
+    {
+      "id": "B10",
+      "term_id": "B10",
+      "call_label": "B10 - Diferença legítima",
+      "case": "Num trabalho, tarefas diferentes são dadas conforme habilidade e disponibilidade. Alguém reclama que qualquer diferença de tratamento é discriminação.",
+      "conference_question": "Como reconhecer diferenças reais sem transformar ninguém em inferior?",
+      "anchors": [
+        "CEC 1936",
+        "CEC 1937"
+      ],
+      "facilitator_note": "Evitar simplismo: diferença pode servir a colaboração ou virar injustiça.",
+      "reading_points": [
+        {
+          "title": "Diferença pode servir",
+          "body": "Tarefas diferentes podem organizar melhor o trabalho sem diminuir ninguém."
+        },
+        {
+          "title": "Nem tudo é discriminação",
+          "body": "A injustiça aparece quando a diferença vira desprezo ou perda de direitos."
+        },
+        {
+          "title": "Critério é finalidade",
+          "body": "A pergunta é se a diferença serve ao bem comum ou cria inferiorização."
+        }
+      ]
+    },
+    {
+      "id": "B11",
+      "term_id": "B11",
+      "call_label": "B11 - Discriminação injusta",
+      "case": "Um colega é rejeitado antes de falar qualquer coisa, só por sua origem, cor, religião ou condição social.",
+      "conference_question": "O que torna esse tratamento contrário ao plano de Deus?",
+      "anchors": [
+        "CEC 1935"
+      ],
+      "facilitator_note": "Nomear a discriminação como ferida na dignidade e nos direitos fundamentais.",
+      "reading_points": [
+        {
+          "title": "Julgamento antes da pessoa",
+          "body": "A pessoa é rejeitada por uma marca social antes de ser ouvida."
+        },
+        {
+          "title": "Inferiorização direta",
+          "body": "Origem, cor, religião ou classe são usadas como motivo de menor valor."
+        },
+        {
+          "title": "Contrário ao plano de Deus",
+          "body": "A discriminação injusta nega a igual dignidade ensinada pelo Catecismo."
+        }
+      ]
+    },
+    {
+      "id": "B12",
+      "term_id": "B12",
+      "call_label": "B12 - Amor ao inimigo",
+      "case": "Alguém que antes humilhava os outros agora virou alvo de humilhação coletiva. Muitos dizem que agora é justo.",
+      "conference_question": "Como rejeitar o mal que a pessoa fez sem passar a odiar a pessoa?",
+      "anchors": [
+        "CEC 1933"
+      ],
+      "facilitator_note": "Trabalhar firmeza contra o mal sem vingança contra a pessoa.",
+      "reading_points": [
+        {
+          "title": "Vingança parece justiça",
+          "body": "O grupo usa o erro anterior da pessoa para autorizar nova humilhação."
+        },
+        {
+          "title": "Separar a pessoa do mal praticado",
+          "body": "O mal praticado deve ser rejeitado sem reduzir a pessoa ao erro que cometeu."
+        },
+        {
+          "title": "Exigência cristã dura",
+          "body": "Amar o inimigo não é passar pano; é impedir que a correção vire ódio."
+        }
+      ]
+    },
+    {
+      "id": "B13",
+      "term_id": "B13",
+      "call_label": "B13 - Perdão cristão",
+      "case": "Depois de uma ofensa pública, o agressor diz 'desculpa' em particular e espera que tudo acabe sem reparar nada.",
+      "conference_question": "Por que perdão não elimina automaticamente verdade, reparação e responsabilidade?",
+      "anchors": [
+        "CEC 1933"
+      ],
+      "facilitator_note": "Evitar tanto vingança quanto impunidade disfarçada de perdão.",
+      "reading_points": [
+        {
+          "title": "Desculpa insuficiente",
+          "body": "Um pedido privado não repara automaticamente uma ofensa feita em público."
+        },
+        {
+          "title": "Perdão não apaga verdade",
+          "body": "Perdoar não significa negar o que aconteceu nem dispensar reparação."
+        },
+        {
+          "title": "Responsabilidade concreta",
+          "body": "O agressor precisa nomear o dano e mudar a conduta."
+        }
+      ]
+    },
+    {
+      "id": "B14",
+      "term_id": "B14",
+      "call_label": "B14 - Bem comum",
+      "case": "Para proteger a imagem da turma, alguns querem abafar uma injustiça real sofrida por uma pessoa.",
+      "conference_question": "O bem do grupo pode ser construído sacrificando a dignidade de alguém?",
+      "anchors": [
+        "CEC 1938",
+        "CEC 1940"
+      ],
+      "facilitator_note": "Mostrar que bem comum não é conveniência da maioria.",
+      "reading_points": [
+        {
+          "title": "Imagem do grupo acima da pessoa",
+          "body": "O grupo quer preservar reputação abafando uma injustiça real."
+        },
+        {
+          "title": "Bem comum falsificado",
+          "body": "Conveniência da maioria não é bem comum quando sacrifica uma pessoa."
+        },
+        {
+          "title": "Comunidade justa",
+          "body": "A paz do grupo precisa nascer da verdade e da reparação."
+        }
+      ]
+    },
+    {
+      "id": "B15",
+      "term_id": "B15",
+      "call_label": "B15 - Pessoa acima do grupo",
+      "case": "O grupo decide que uma pessoa deve ser afastada porque 'estraga o clima', mesmo sem tentar resolver nada com justiça.",
+      "conference_question": "Quando o grupo passa a se proteger esmagando uma pessoa?",
+      "anchors": [
+        "CEC 1931",
+        "CEC 1935"
+      ],
+      "facilitator_note": "Trabalhar o limite moral da pressão coletiva.",
+      "reading_points": [
+        {
+          "title": "Pessoa tratada como obstáculo",
+          "body": "O grupo quer remover alguém para manter conforto e clima."
+        },
+        {
+          "title": "Pressão coletiva",
+          "body": "A maioria pode esmagar uma pessoa sem se perceber violenta."
+        },
+        {
+          "title": "Dignidade limita o grupo",
+          "body": "Nenhum grupo tem direito de descartar alguém sem justiça e caridade."
+        }
+      ]
+    },
+    {
+      "id": "I01",
+      "term_id": "I01",
+      "call_label": "I01 - Racismo",
+      "case": "Um colega recebe comentários sobre cabelo, cor da pele e o 'lugar de onde veio', sempre em tom de piada.",
+      "conference_question": "Por que isso não é detalhe de humor, mas inferiorização da pessoa?",
+      "anchors": [
+        "CEC 1935"
+      ],
+      "facilitator_note": "Nomear racismo sem abrir interrogatório sobre casos pessoais.",
+      "reading_points": [
+        {
+          "title": "Piada racializada",
+          "body": "Cabelo, cor e origem viram material de comentário repetido."
+        },
+        {
+          "title": "Humor como máscara",
+          "body": "A forma de piada esconde inferiorização real."
+        },
+        {
+          "title": "Dignidade ferida",
+          "body": "Racismo reduz a pessoa a traços usados para desprezo."
+        }
+      ]
+    },
+    {
+      "id": "I02",
+      "term_id": "I02",
+      "call_label": "I02 - Preconceito social",
+      "case": "Alguém é julgado pela roupa simples, pelo bairro onde mora e pelo trabalho dos pais.",
+      "conference_question": "Como a condição social vira motivo de desprezo?",
+      "anchors": [
+        "CEC 1935",
+        "CEC 1938"
+      ],
+      "facilitator_note": "Evitar pena superficial; focar na dignidade e nas desigualdades injustas.",
+      "reading_points": [
+        {
+          "title": "Sinais de pobreza viram marca",
+          "body": "Roupa, bairro e trabalho dos pais são usados para classificar valor."
+        },
+        {
+          "title": "Desprezo social",
+          "body": "A pessoa é lida pela condição econômica, não por quem é."
+        },
+        {
+          "title": "Desigualdade amplificada",
+          "body": "A ferida social cresce quando vira humilhação no grupo."
+        }
+      ]
+    },
+    {
+      "id": "I03",
+      "term_id": "I03",
+      "call_label": "I03 - Preconceito religioso",
+      "case": "Um colega é tratado como estranho porque reza, vai à Missa ou não participa de certas brincadeiras por causa da fé.",
+      "conference_question": "Como ridicularizar a fé de alguém fere sua dignidade?",
+      "anchors": [
+        "CEC 1935"
+      ],
+      "facilitator_note": "Lembrar que respeito não exige concordar com tudo, mas impede desprezo.",
+      "reading_points": [
+        {
+          "title": "Fé como motivo de estranheza",
+          "body": "A prática religiosa vira etiqueta para isolar ou ridicularizar."
+        },
+        {
+          "title": "Respeito sem concordismo",
+          "body": "Não é preciso concordar com tudo para impedir desprezo."
+        },
+        {
+          "title": "Liberdade interior",
+          "body": "A pessoa precisa poder viver a fé sem ser diminuída."
+        }
+      ]
+    },
+    {
+      "id": "I04",
+      "term_id": "I04",
+      "call_label": "I04 - Xenofobia",
+      "case": "Um aluno novo de outra região é imitado pelo sotaque antes mesmo de ser conhecido pelo nome.",
+      "conference_question": "Quando origem, sotaque ou cultura viram motivo de inferiorização?",
+      "anchors": [
+        "CEC 1935"
+      ],
+      "facilitator_note": "Usar exemplo amplo: região, país, cultura, migração.",
+      "reading_points": [
+        {
+          "title": "Origem antes do nome",
+          "body": "O sotaque aparece antes da pessoa ser conhecida."
+        },
+        {
+          "title": "Imitação como domínio",
+          "body": "Repetir o jeito de falar pode virar controle e humilhação."
+        },
+        {
+          "title": "Cultura não diminui valor",
+          "body": "Região, país ou história familiar não autorizam inferiorização."
+        }
+      ]
+    },
+    {
+      "id": "I05",
+      "term_id": "I05",
+      "call_label": "I05 - Capacitismo",
+      "case": "Uma pessoa com dificuldade de fala ou aprendizagem é tratada como se não tivesse opinião própria.",
+      "conference_question": "Por que uma limitação não diminui inteligência, dignidade ou direito de participar?",
+      "anchors": [
+        "CEC 1931",
+        "CEC 1935"
+      ],
+      "facilitator_note": "Explicar pelo caso, sem depender do termo técnico.",
+      "reading_points": [
+        {
+          "title": "Limitação vira silenciamento",
+          "body": "Uma dificuldade específica é usada para negar opinião própria."
+        },
+        {
+          "title": "Capacidade reduzida ao defeito",
+          "body": "A pessoa inteira é interpretada pela limitação visível."
+        },
+        {
+          "title": "Participação digna",
+          "body": "Respeitar inclui adaptar escuta e tempo quando necessário."
+        }
+      ]
+    },
+    {
+      "id": "I06",
+      "term_id": "I06",
+      "call_label": "I06 - Machismo",
+      "case": "Meninas são interrompidas em decisões do grupo porque 'menino entende melhor disso'.",
+      "conference_question": "Quando uma diferença entre homem e mulher é usada para inferiorizar?",
+      "anchors": [
+        "CEC 1934",
+        "CEC 1935"
+      ],
+      "facilitator_note": "Manter foco na igual dignidade e evitar disputa ideológica lateral.",
+      "reading_points": [
+        {
+          "title": "Competência presumida pelo sexo",
+          "body": "Meninos são considerados mais aptos antes de qualquer argumento."
+        },
+        {
+          "title": "Interrupção como domínio",
+          "body": "Cortar a fala comunica que a contribuição da menina vale menos."
+        },
+        {
+          "title": "Igual dignidade",
+          "body": "Diferenças reais nunca autorizam inferioridade pessoal."
+        }
+      ]
+    },
+    {
+      "id": "I07",
+      "term_id": "I07",
+      "call_label": "I07 - Apelido degradante",
+      "case": "Um apelido baseado no corpo ou numa dificuldade pega tanto que quase ninguém chama a pessoa pelo nome.",
+      "conference_question": "O que acontece quando o apelido substitui o nome e reduz a pessoa a uma marca?",
+      "anchors": [
+        "CEC 1931"
+      ],
+      "facilitator_note": "Levar a turma a perceber a diferença entre intimidade e degradação.",
+      "reading_points": [
+        {
+          "title": "Nome substituído por marca",
+          "body": "O apelido apaga o nome e fixa a pessoa num defeito ou fragilidade."
+        },
+        {
+          "title": "Identidade deformada",
+          "body": "O grupo passa a enxergar a pessoa pela humilhação."
+        },
+        {
+          "title": "Intimidade ou crueldade",
+          "body": "A diferença está em consentimento, respeito e efeito produzido."
+        }
+      ]
+    },
+    {
+      "id": "I08",
+      "term_id": "I08",
+      "call_label": "I08 - Humilhação pública",
+      "case": "Um erro pequeno é transformado em cena diante de todos para que a pessoa fique envergonhada.",
+      "conference_question": "Por que a exposição pública aumenta o dano moral?",
+      "anchors": [
+        "CEC 1931",
+        "Mt 25,40"
+      ],
+      "facilitator_note": "Focar no uso do grupo como plateia de diminuição.",
+      "reading_points": [
+        {
+          "title": "Erro transformado em cena",
+          "body": "O foco deixa de ser corrigir e passa a expor."
+        },
+        {
+          "title": "Plateia aumenta a ferida",
+          "body": "A vergonha pública multiplica o dano moral."
+        },
+        {
+          "title": "Grupo como arma",
+          "body": "A presença dos outros é usada para diminuir a pessoa."
+        }
+      ]
+    },
+    {
+      "id": "I09",
+      "term_id": "I09",
+      "call_label": "I09 - Ameaça",
+      "case": "Alguém diz: 'Se você contar, vai ser pior', e usa medo para controlar o silêncio de outro.",
+      "conference_question": "Por que usar medo para calar alguém é uma forma de violência?",
+      "anchors": [
+        "CEC 1931"
+      ],
+      "facilitator_note": "Indicar que ameaça exige proteção e encaminhamento responsável.",
+      "reading_points": [
+        {
+          "title": "Medo como controle",
+          "body": "A frase impede a pessoa de buscar ajuda."
+        },
+        {
+          "title": "Silêncio forçado",
+          "body": "Não é segredo livre; é obediência por intimidação."
+        },
+        {
+          "title": "Exige proteção",
+          "body": "Ameaça muda o nível do caso e pede encaminhamento responsável."
+        }
+      ]
+    },
+    {
+      "id": "I10",
+      "term_id": "I10",
+      "call_label": "I10 - Agressão física",
+      "case": "Empurrões e tapas são tratados como brincadeira, mas sempre recaem sobre a mesma pessoa.",
+      "conference_question": "Quando contato físico deixa de ser brincadeira e passa a agressão?",
+      "anchors": [
+        "CEC 1931"
+      ],
+      "facilitator_note": "Valorizar integridade corporal e repetição do alvo.",
+      "reading_points": [
+        {
+          "title": "Corpo como alvo",
+          "body": "Empurrões e tapas invadem a integridade da pessoa."
+        },
+        {
+          "title": "Repetição revela abuso",
+          "body": "Se sempre recai no mesmo alvo, não é brincadeira neutra."
+        },
+        {
+          "title": "Agressão minimizada",
+          "body": "Chamar de brincadeira pode esconder violência física."
+        }
+      ]
+    },
+    {
+      "id": "I11",
+      "term_id": "I11",
+      "call_label": "I11 - Isolamento deliberado",
+      "case": "Um grupo combina responder seco, não convidar e deixar uma pessoa sempre por último.",
+      "conference_question": "Como a exclusão combinada comunica que alguém vale menos?",
+      "anchors": [
+        "CEC 1931",
+        "CEC 1939"
+      ],
+      "facilitator_note": "Mostrar que silêncio e estratégia também podem ferir.",
+      "reading_points": [
+        {
+          "title": "Exclusão planejada",
+          "body": "O isolamento não acontece por acaso; é combinado ou mantido."
+        },
+        {
+          "title": "Silêncio que comunica rejeição",
+          "body": "Responder seco e deixar por último vira mensagem de menor valor."
+        },
+        {
+          "title": "Ferida sem grito",
+          "body": "Nem toda violência é barulhenta; algumas operam pela retirada de lugar."
+        }
+      ]
+    },
+    {
+      "id": "I12",
+      "term_id": "I12",
+      "call_label": "I12 - Boato",
+      "case": "Uma história sem prova começa com 'me disseram' e logo vira certeza contra alguém.",
+      "conference_question": "Por que espalhar incerteza como se fosse verdade fere a reputação?",
+      "anchors": [
+        "CEC 1931"
+      ],
+      "facilitator_note": "Conectar boato a dano real, não só a conversa inocente.",
+      "reading_points": [
+        {
+          "title": "Incerteza vendida como fato",
+          "body": "O \"me disseram\" vira certeza contra alguém."
+        },
+        {
+          "title": "Reputação vulnerável",
+          "body": "Mesmo sem prova, a imagem da pessoa já é danificada."
+        },
+        {
+          "title": "Fala irresponsável",
+          "body": "A curiosidade do grupo pesa menos que a honra do outro."
+        }
+      ]
+    },
+    {
+      "id": "I13",
+      "term_id": "I13",
+      "call_label": "I13 - Exposição de imagem",
+      "case": "Um print privado ou foto constrangedora é usado para controlar, envergonhar ou pressionar alguém.",
+      "conference_question": "Por que imagem e intimidade não podem virar arma de grupo?",
+      "anchors": [
+        "CEC 1931"
+      ],
+      "facilitator_note": "Diferenciar preservar prova de espalhar exposição.",
+      "reading_points": [
+        {
+          "title": "Imagem como poder",
+          "body": "Foto ou print vira instrumento de controle."
+        },
+        {
+          "title": "Privado vira arma",
+          "body": "Algo retirado do contexto passa a servir para vergonha ou pressão."
+        },
+        {
+          "title": "Dano ampliado",
+          "body": "O digital espalha rapidamente uma exposição difícil de recolher."
+        }
+      ]
+    },
+    {
+      "id": "I14",
+      "term_id": "I14",
+      "call_label": "I14 - Cyberbullying",
+      "case": "Nos comentários e mensagens, a mesma pessoa recebe ataques repetidos, apelidos e provocações.",
+      "conference_question": "O que torna a violência digital também real?",
+      "anchors": [
+        "CEC 1931",
+        "CEC 1935"
+      ],
+      "facilitator_note": "Destacar repetição, público ampliado e permanência do dano.",
+      "reading_points": [
+        {
+          "title": "Violência repetida",
+          "body": "Não é comentário isolado; há ataques constantes."
+        },
+        {
+          "title": "Ambiente digital é real",
+          "body": "A tela não diminui a dor nem a responsabilidade."
+        },
+        {
+          "title": "Público ampliado",
+          "body": "Comentários e mensagens podem perseguir a pessoa além do lugar físico."
+        }
+      ]
+    },
+    {
+      "id": "I15",
+      "term_id": "I15",
+      "call_label": "I15 - Chantagem emocional",
+      "case": "Alguém diz: 'Se você for amigo de verdade, faz isso por mim', mesmo sabendo que a pessoa não quer.",
+      "conference_question": "Quando afeto e amizade viram instrumento de controle?",
+      "anchors": [
+        "CEC 1931"
+      ],
+      "facilitator_note": "Trabalhar manipulação sem dramatizar relações comuns de amizade.",
+      "reading_points": [
+        {
+          "title": "Afeto usado como ferramenta",
+          "body": "A amizade vira argumento para forçar uma decisão."
+        },
+        {
+          "title": "Culpa como controle",
+          "body": "A pessoa é pressionada a fazer o que não quer para provar lealdade."
+        },
+        {
+          "title": "Amor não manipula",
+          "body": "Relação verdadeira respeita liberdade e consciência."
+        }
+      ]
+    },
+    {
+      "id": "N01",
+      "term_id": "N01",
+      "call_label": "N01 - Era brincadeira",
+      "case": "Depois de envergonhar alguém, o grupo diz que a pessoa ficou brava porque não sabe brincar.",
+      "conference_question": "Quem decide se foi brincadeira: quem riu ou quem foi diminuído?",
+      "anchors": [
+        "CEC 1931"
+      ],
+      "facilitator_note": "Ajudar a avaliar efeito, repetição e posição de quem virou alvo.",
+      "reading_points": [
+        {
+          "title": "Desloca a culpa",
+          "body": "A pessoa ferida é acusada de não saber brincar."
+        },
+        {
+          "title": "Efeito ignorado",
+          "body": "A intenção de divertir é usada para apagar a vergonha causada."
+        },
+        {
+          "title": "Sinal de abuso",
+          "body": "Quando o pedido para parar é ignorado, a brincadeira perde legitimidade."
+        }
+      ]
+    },
+    {
+      "id": "N02",
+      "term_id": "N02",
+      "call_label": "N02 - Todo mundo riu",
+      "case": "A defesa do grupo é simples: 'se todo mundo riu, então não foi grave'.",
+      "conference_question": "A risada da maioria torna uma ação justa?",
+      "anchors": [
+        "CEC 1931",
+        "CEC 1939"
+      ],
+      "facilitator_note": "Separar popularidade do ato e bondade moral.",
+      "reading_points": [
+        {
+          "title": "Maioria como desculpa",
+          "body": "A risada coletiva vira falso critério moral."
+        },
+        {
+          "title": "Plateia não absolve",
+          "body": "Muita gente rindo pode significar cumplicidade, não inocência."
+        },
+        {
+          "title": "Justiça não depende de aplauso",
+          "body": "O bem da pessoa vale mais que a aprovação do grupo."
+        }
+      ]
+    },
+    {
+      "id": "N03",
+      "term_id": "N03",
+      "call_label": "N03 - Ele mereceu",
+      "case": "Como a pessoa é difícil de conviver, alguns dizem que humilhá-la é apenas consequência.",
+      "conference_question": "O erro ou defeito de alguém autoriza crueldade?",
+      "anchors": [
+        "CEC 1933"
+      ],
+      "facilitator_note": "Conduzir para responsabilidade sem perda da dignidade da pessoa.",
+      "reading_points": [
+        {
+          "title": "Antipatia vira permissão",
+          "body": "O fato de alguém ser difícil é usado para autorizar crueldade."
+        },
+        {
+          "title": "Erro não apaga dignidade",
+          "body": "Uma pessoa pode precisar de correção sem merecer humilhação."
+        },
+        {
+          "title": "Vingança disfarçada",
+          "body": "A frase \"mereceu\" costuma esconder prazer em punir."
+        }
+      ]
+    },
+    {
+      "id": "N04",
+      "term_id": "N04",
+      "call_label": "N04 - Só repassei",
+      "case": "Um vídeo humilhante circula. Quem enviou diz: 'Eu não gravei, só encaminhei'.",
+      "conference_question": "Por que repassar também participa da violência?",
+      "anchors": [
+        "CEC 1931"
+      ],
+      "facilitator_note": "Trabalhar cooperação com o dano, mesmo sem autoria original.",
+      "reading_points": [
+        {
+          "title": "Cooperação com o dano",
+          "body": "Quem repassa aumenta o alcance da humilhação."
+        },
+        {
+          "title": "Neutralidade falsa",
+          "body": "Não ter gravado não torna inocente o ato de circular."
+        },
+        {
+          "title": "Corrente de violência",
+          "body": "A agressão digital depende de muitos pequenos repasses."
+        }
+      ]
+    },
+    {
+      "id": "N05",
+      "term_id": "N05",
+      "call_label": "N05 - É só meme",
+      "case": "Uma montagem usa aparência, origem ou religião de alguém como piada, mas é defendida como meme.",
+      "conference_question": "Quando o formato de meme esconde desprezo real?",
+      "anchors": [
+        "CEC 1931"
+      ],
+      "facilitator_note": "Não demonizar humor; avaliar alvo, conteúdo e efeito.",
+      "reading_points": [
+        {
+          "title": "Formato não inocenta",
+          "body": "Ser meme não muda o conteúdo moral da piada."
+        },
+        {
+          "title": "Desprezo embalado",
+          "body": "A estética engraçada pode esconder discriminação ou crueldade."
+        },
+        {
+          "title": "Alvo importa",
+          "body": "A pergunta central é quem está pagando o preço da risada."
+        }
+      ]
+    },
+    {
+      "id": "N06",
+      "term_id": "N06",
+      "call_label": "N06 - Não é comigo",
+      "case": "Alguém presencia uma injustiça clara, mas diz que não vai se envolver porque não é problema seu.",
+      "conference_question": "Quando ficar de fora vira abandono de quem precisava de ajuda?",
+      "anchors": [
+        "CEC 1932",
+        "Mt 25,40"
+      ],
+      "facilitator_note": "Distinguir prudência de omissão que abandona.",
+      "reading_points": [
+        {
+          "title": "Omissão com nome bonito",
+          "body": "A pessoa chama de neutralidade aquilo que é abandono."
+        },
+        {
+          "title": "Próximo concreto",
+          "body": "Mt 25 chama a ver quem precisa de ajuda, não apenas quem nos convém."
+        },
+        {
+          "title": "Prudência não é fuga",
+          "body": "Não se envolver pode ser errado quando alguém está sendo ferido."
+        }
+      ]
+    },
+    {
+      "id": "N07",
+      "term_id": "N07",
+      "call_label": "N07 - Foi sem querer",
+      "case": "Depois de ferir alguém, a pessoa insiste que não teve intenção e por isso não precisa consertar nada.",
+      "conference_question": "Mesmo sem má intenção, que responsabilidade existe pelo dano causado?",
+      "anchors": [
+        "CEC 1931"
+      ],
+      "facilitator_note": "Separar culpa subjetiva, dano objetivo e reparação.",
+      "reading_points": [
+        {
+          "title": "Intenção não resolve tudo",
+          "body": "Mesmo sem querer, pode haver dano real."
+        },
+        {
+          "title": "Reparação necessária",
+          "body": "A resposta deve olhar o que foi causado, não só o que se pretendia."
+        },
+        {
+          "title": "Responsabilidade madura",
+          "body": "Assumir consequências é diferente de confessar má intenção."
+        }
+      ]
+    },
+    {
+      "id": "N08",
+      "term_id": "N08",
+      "call_label": "N08 - Minha opinião",
+      "case": "Uma fala que diminui um grupo inteiro é defendida com: 'é só minha opinião'.",
+      "conference_question": "Uma opinião pode justificar mentira, desprezo ou desumanização?",
+      "anchors": [
+        "CEC 1931",
+        "CEC 1935"
+      ],
+      "facilitator_note": "Não negar liberdade de expressão; mostrar responsabilidade moral da fala.",
+      "reading_points": [
+        {
+          "title": "Opinião como escudo",
+          "body": "A pessoa usa liberdade de fala para evitar responsabilidade."
+        },
+        {
+          "title": "Limite moral da fala",
+          "body": "Opinar não autoriza mentira, desprezo ou desumanização."
+        },
+        {
+          "title": "Pessoa acima da tese",
+          "body": "Discutir ideias não permite diminuir pessoas ou grupos."
+        }
+      ]
+    },
+    {
+      "id": "N09",
+      "term_id": "N09",
+      "call_label": "N09 - Liberdade sem caridade",
+      "case": "Alguém diz que pode falar qualquer coisa porque é livre, mesmo vendo que sua fala fere e inferioriza.",
+      "conference_question": "Como a liberdade se perde quando se separa da caridade?",
+      "anchors": [
+        "CEC 1931",
+        "CEC 1939"
+      ],
+      "facilitator_note": "Conectar liberdade cristã a responsabilidade pelo outro.",
+      "reading_points": [
+        {
+          "title": "Liberdade isolada",
+          "body": "A pessoa separa escolha pessoal do impacto sobre o outro."
+        },
+        {
+          "title": "Caridade orienta liberdade",
+          "body": "Ser livre não é fazer qualquer coisa sem considerar dignidade."
+        },
+        {
+          "title": "Responsabilidade cristã",
+          "body": "A fala livre deve permanecer ligada a verdade e caridade."
+        }
+      ]
+    },
+    {
+      "id": "N10",
+      "term_id": "N10",
+      "call_label": "N10 - Revanche",
+      "case": "Para punir uma humilhação, o grupo decide humilhar de volta quem começou.",
+      "conference_question": "Por que repetir o mal não corrige o mal?",
+      "anchors": [
+        "CEC 1933"
+      ],
+      "facilitator_note": "Levar a alternativa: defender, limitar e reparar sem vingança.",
+      "reading_points": [
+        {
+          "title": "Punição espelhada",
+          "body": "O grupo tenta corrigir humilhando de volta."
+        },
+        {
+          "title": "Mal repetido",
+          "body": "A revanche conserva a lógica da violência."
+        },
+        {
+          "title": "Justiça perde forma",
+          "body": "Sem limite e reparação, a resposta vira novo ataque."
+        }
+      ]
+    },
+    {
+      "id": "N11",
+      "term_id": "N11",
+      "call_label": "N11 - Panelinha",
+      "case": "Um grupo só se sente forte quando decide quem pode entrar, quem fica por perto e quem será ignorado.",
+      "conference_question": "Quando pertencimento vira instrumento de exclusão?",
+      "anchors": [
+        "CEC 1939"
+      ],
+      "facilitator_note": "Distinguir amizade real de controle social.",
+      "reading_points": [
+        {
+          "title": "Grupo como fronteira",
+          "body": "A panelinha define quem tem valor por estar dentro ou fora."
+        },
+        {
+          "title": "Pertencimento usado para poder",
+          "body": "A amizade vira moeda de status e controle."
+        },
+        {
+          "title": "Exclusão como identidade",
+          "body": "O grupo se fortalece diminuindo quem não pertence."
+        }
+      ]
+    },
+    {
+      "id": "N12",
+      "term_id": "N12",
+      "call_label": "N12 - Anonimato",
+      "case": "Um perfil sem nome manda ataques e ameaças para alguém, contando que ninguém descubra o autor.",
+      "conference_question": "Por que esconder autoria não diminui a responsabilidade moral?",
+      "anchors": [
+        "CEC 1931"
+      ],
+      "facilitator_note": "Apontar que anonimato pode ampliar covardia e dano.",
+      "reading_points": [
+        {
+          "title": "Covardia protegida",
+          "body": "O anonimato permite atacar sem rosto e sem consequência imediata."
+        },
+        {
+          "title": "Responsabilidade permanece",
+          "body": "Esconder autoria não muda a gravidade do ato."
+        },
+        {
+          "title": "Medo aumentado",
+          "body": "A vítima sofre mais quando não sabe de onde vem a agressão."
+        }
+      ]
+    },
+    {
+      "id": "N13",
+      "term_id": "N13",
+      "call_label": "N13 - Culpar a vítima",
+      "case": "Depois de uma agressão, alguns perguntam primeiro o que a pessoa fez para provocar aquilo.",
+      "conference_question": "Quando buscar contexto vira transferir culpa para quem sofreu?",
+      "anchors": [
+        "CEC 1931",
+        "Mt 25,40"
+      ],
+      "facilitator_note": "Permitir análise dos fatos sem inverter responsabilidade.",
+      "reading_points": [
+        {
+          "title": "Pergunta invertida",
+          "body": "Antes de reconhecer a agressão, o grupo procura culpa em quem sofreu."
+        },
+        {
+          "title": "Contexto mal usado",
+          "body": "Entender fatos não pode virar desculpa para transferir responsabilidade."
+        },
+        {
+          "title": "Pequeno desprotegido",
+          "body": "Quem sofreu precisa primeiro ser acolhido e protegido com justiça."
+        }
+      ]
+    },
+    {
+      "id": "N14",
+      "term_id": "N14",
+      "call_label": "N14 - Minimizar a dor",
+      "case": "A pessoa atingida diz que sofreu, e o grupo responde: 'você está exagerando'.",
+      "conference_question": "Por que diminuir a dor do outro pode manter a injustiça?",
+      "anchors": [
+        "CEC 1931"
+      ],
+      "facilitator_note": "Ensinar escuta sem transformar todo desconforto em acusação automática.",
+      "reading_points": [
+        {
+          "title": "Dor desautorizada",
+          "body": "O grupo decide que o sofrimento do outro não é válido."
+        },
+        {
+          "title": "Problema mantido",
+          "body": "Minimizar evita reparação e permite repetição."
+        },
+        {
+          "title": "Escuta necessária",
+          "body": "Levar a dor a sério não significa aceitar qualquer acusação sem discernimento."
+        }
+      ]
+    },
+    {
+      "id": "N15",
+      "term_id": "N15",
+      "call_label": "N15 - Pressão do grupo",
+      "case": "Alguém sabe que uma atitude é errada, mas participa para não virar o próximo alvo.",
+      "conference_question": "Como o medo de perder lugar no grupo empurra para o erro?",
+      "anchors": [
+        "CEC 1939"
+      ],
+      "facilitator_note": "Trabalhar coragem moral sem acusar adolescentes concretos.",
+      "reading_points": [
+        {
+          "title": "Medo de ser o próximo",
+          "body": "A pessoa participa do erro para preservar lugar no grupo."
+        },
+        {
+          "title": "Cumplicidade por insegurança",
+          "body": "A pressão social transforma medo em colaboração."
+        },
+        {
+          "title": "Coragem moral",
+          "body": "O discípulo precisa aprender a perder aprovação para não aderir ao mal."
+        }
+      ]
+    },
+    {
+      "id": "G01",
+      "term_id": "G01",
+      "call_label": "G01 - Brincadeira ou humilhação",
+      "case": "A mesma piada sempre recai sobre uma pessoa, e ela já pediu para parar.",
+      "conference_question": "Quais sinais mostram que deixou de ser brincadeira?",
+      "anchors": [
+        "CEC 1931"
+      ],
+      "facilitator_note": "Sinais: alvo fixo, repetição, vergonha, pedido ignorado, desigualdade.",
+      "reading_points": [
+        {
+          "title": "Alvo fixo",
+          "body": "A piada sempre cai sobre a mesma pessoa."
+        },
+        {
+          "title": "Pedido ignorado",
+          "body": "Quando a pessoa pede para parar e o grupo continua, muda a natureza do ato."
+        },
+        {
+          "title": "Humor sem comunhão",
+          "body": "A brincadeira deixa de aproximar e passa a diminuir."
+        }
+      ]
+    },
+    {
+      "id": "G02",
+      "term_id": "G02",
+      "call_label": "G02 - Conflito ou violência",
+      "case": "Dois colegas discordam forte. Depois, um deles passa a intimidar, perseguir e isolar o outro.",
+      "conference_question": "Em que ponto um conflito comum vira violência?",
+      "anchors": [
+        "CEC 1931"
+      ],
+      "facilitator_note": "Distinguir discordância recíproca de abuso, repetição e medo.",
+      "reading_points": [
+        {
+          "title": "Discordância inicial",
+          "body": "Nem todo conflito é violência; discordar pode ser normal."
+        },
+        {
+          "title": "Escalada abusiva",
+          "body": "Perseguir, intimidar e isolar muda o tipo de problema."
+        },
+        {
+          "title": "Medo como sinal",
+          "body": "Quando um lado passa a agir por medo, a relação perdeu equilíbrio."
+        }
+      ]
+    },
+    {
+      "id": "G03",
+      "term_id": "G03",
+      "call_label": "G03 - Diferença ou inferiorização",
+      "case": "Uma diferença real é mencionada, mas depois vira motivo para não escutar a pessoa.",
+      "conference_question": "Como reconhecer diferenças sem diminuir o valor de alguém?",
+      "anchors": [
+        "CEC 1935",
+        "CEC 1936"
+      ],
+      "facilitator_note": "Evitar negar diferenças; o erro é transformá-las em inferioridade.",
+      "reading_points": [
+        {
+          "title": "Diferença reconhecida",
+          "body": "A diferença em si não é o problema."
+        },
+        {
+          "title": "Escuta negada",
+          "body": "A injustiça aparece quando a diferença vira razão para não ouvir."
+        },
+        {
+          "title": "Valor preservado",
+          "body": "Discernir é reconhecer a diferença sem diminuir a dignidade."
+        }
+      ]
+    },
+    {
+      "id": "G04",
+      "term_id": "G04",
+      "call_label": "G04 - Crítica ou ataque",
+      "case": "Uma correção que poderia ser sobre uma atitude vira ataque ao caráter inteiro da pessoa.",
+      "conference_question": "Como corrigir um comportamento sem destruir a pessoa?",
+      "anchors": [
+        "CEC 1931"
+      ],
+      "facilitator_note": "Focar em ato concreto, verdade e proporção.",
+      "reading_points": [
+        {
+          "title": "Foco deslocado",
+          "body": "A correção sai do comportamento e ataca a pessoa inteira."
+        },
+        {
+          "title": "Crítica que poderia ajudar",
+          "body": "Um erro concreto pode e deve ser corrigido com proporção."
+        },
+        {
+          "title": "Ataque destrutivo",
+          "body": "Quando a reputação e o caráter inteiro viram alvo, deixa de ser correção."
+        }
+      ]
+    },
+    {
+      "id": "G05",
+      "term_id": "G05",
+      "call_label": "G05 - Verdade ou boato",
+      "case": "Uma informação pode até ser verdadeira, mas ninguém verificou e muitos já estão repassando.",
+      "conference_question": "O que precisa ser verificado antes de falar de alguém?",
+      "anchors": [
+        "CEC 1931"
+      ],
+      "facilitator_note": "Trabalhar verdade, necessidade e caridade como filtros.",
+      "reading_points": [
+        {
+          "title": "Verdade incompleta",
+          "body": "Algo pode parecer verdadeiro e ainda assim estar sem verificação suficiente."
+        },
+        {
+          "title": "Necessidade da fala",
+          "body": "Nem tudo que se sabe precisa ser espalhado."
+        },
+        {
+          "title": "Caridade como filtro",
+          "body": "A verdade deve ser dita do modo e a quem realmente serve ao bem."
+        }
+      ]
+    },
+    {
+      "id": "G06",
+      "term_id": "G06",
+      "call_label": "G06 - Humor ou desprezo",
+      "case": "A turma chama de humor, mas a piada só funciona porque alguém é tratado como inferior.",
+      "conference_question": "Como perceber quando o riso virou desprezo?",
+      "anchors": [
+        "CEC 1931"
+      ],
+      "facilitator_note": "Avaliar quem paga o preço da risada.",
+      "reading_points": [
+        {
+          "title": "Riso com custo",
+          "body": "A piada depende de alguém ocupar lugar inferior."
+        },
+        {
+          "title": "Desprezo mascarado",
+          "body": "O humor é usado para tornar aceitável o que seria crueldade direta."
+        },
+        {
+          "title": "Critério do alvo",
+          "body": "Importa perceber quem é diminuído para que outros se divirtam."
+        }
+      ]
+    },
+    {
+      "id": "G07",
+      "term_id": "G07",
+      "call_label": "G07 - Perdão ou impunidade",
+      "case": "Depois de uma agressão, alguns dizem que, por serem cristãos, todos devem esquecer imediatamente.",
+      "conference_question": "Qual a diferença entre perdoar e fingir que nada aconteceu?",
+      "anchors": [
+        "CEC 1933"
+      ],
+      "facilitator_note": "Reforçar que perdão não dispensa verdade, proteção e reparação.",
+      "reading_points": [
+        {
+          "title": "Cristianismo mal usado",
+          "body": "O perdão é usado para encerrar a conversa sem enfrentar o dano."
+        },
+        {
+          "title": "Memória moral",
+          "body": "Perdoar não é fingir que nada aconteceu."
+        },
+        {
+          "title": "Proteção continua",
+          "body": "Pode haver perdão e, ao mesmo tempo, limite, reparação e consequência."
+        }
+      ]
+    },
+    {
+      "id": "G08",
+      "term_id": "G08",
+      "call_label": "G08 - Defesa ou vingança",
+      "case": "Para defender uma pessoa humilhada, alguns querem expor segredos de quem humilhou.",
+      "conference_question": "Como defender sem usar a mesma arma da violência?",
+      "anchors": [
+        "CEC 1933"
+      ],
+      "facilitator_note": "Levar a alternativas firmes: limite, prova, autoridade, reparação.",
+      "reading_points": [
+        {
+          "title": "Boa intenção em risco",
+          "body": "Defender alguém é correto, mas o meio escolhido pode repetir violência."
+        },
+        {
+          "title": "Segredo como arma",
+          "body": "Expor quem errou pode virar nova humilhação."
+        },
+        {
+          "title": "Defesa justa",
+          "body": "Proteger exige limite e verdade sem vingança."
+        }
+      ]
+    },
+    {
+      "id": "G09",
+      "term_id": "G09",
+      "call_label": "G09 - Firmeza ou agressão",
+      "case": "Alguém tenta parar uma injustiça, mas começa a xingar e ameaçar quem errou.",
+      "conference_question": "Como ser firme sem perder a caridade?",
+      "anchors": [
+        "CEC 1931",
+        "CEC 1933"
+      ],
+      "facilitator_note": "Firmeza nomeia o erro; agressão humilha a pessoa.",
+      "reading_points": [
+        {
+          "title": "Intervenção necessária",
+          "body": "Alguém percebe uma injustiça e tenta parar."
+        },
+        {
+          "title": "Forma agressiva",
+          "body": "Xingamento e ameaça corrompem uma causa justa."
+        },
+        {
+          "title": "Firmeza com caridade",
+          "body": "A resposta deve nomear o erro sem humilhar a pessoa."
+        }
+      ]
+    },
+    {
+      "id": "G10",
+      "term_id": "G10",
+      "call_label": "G10 - Privado ou exposição",
+      "case": "Um erro privado é levado ao grupo inteiro, mesmo sem necessidade de proteger ninguém.",
+      "conference_question": "Quando expor o erro dos outros vira humilhação em vez de justiça?",
+      "anchors": [
+        "CEC 1931"
+      ],
+      "facilitator_note": "Tratar com discrição não é esconder agressão; é evitar plateia desnecessária enquanto se busca proteção e justiça.",
+      "reading_points": [
+        {
+          "title": "Erro privado",
+          "body": "Nem todo erro precisa virar assunto de grupo."
+        },
+        {
+          "title": "Exposição desnecessária",
+          "body": "Levar ao público pode aumentar vergonha sem proteger ninguém."
+        },
+        {
+          "title": "Prudência concreta",
+          "body": "Discernir quem precisa saber é parte da caridade."
+        }
+      ]
+    },
+    {
+      "id": "G11",
+      "term_id": "G11",
+      "call_label": "G11 - Limite ou exclusão",
+      "case": "Uma pessoa precisa parar de agredir, mas o grupo quer bani-la para sempre de qualquer convivência.",
+      "conference_question": "Como impor limite sem transformar limite em descarte da pessoa?",
+      "anchors": [
+        "CEC 1931",
+        "CEC 1935"
+      ],
+      "facilitator_note": "Mostrar que limite protege; exclusão injusta pode virar nova violência.",
+      "reading_points": [
+        {
+          "title": "Limite necessário",
+          "body": "A agressão precisa parar e pode exigir regra clara."
+        },
+        {
+          "title": "Exclusão total",
+          "body": "Banir para sempre pode virar descarte da pessoa."
+        },
+        {
+          "title": "Proteção sem descarte",
+          "body": "A convivência pode precisar de limites, tempos e condições de retorno."
+        }
+      ]
+    },
+    {
+      "id": "G12",
+      "term_id": "G12",
+      "call_label": "G12 - Prudência ou omissão",
+      "case": "Alguém diz que vai esperar para não piorar, mas nunca toma nenhuma atitude diante da injustiça.",
+      "conference_question": "Quando prudência vira desculpa para abandono?",
+      "anchors": [
+        "CEC 1932"
+      ],
+      "facilitator_note": "Prudência escolhe modo e momento; omissão foge do bem devido.",
+      "reading_points": [
+        {
+          "title": "Espera indefinida",
+          "body": "A pessoa chama de prudência uma decisão de nunca agir."
+        },
+        {
+          "title": "Medo disfarçado",
+          "body": "Evitar piorar pode esconder fuga de responsabilidade."
+        },
+        {
+          "title": "Prudência verdadeira",
+          "body": "Escolhe modo, pessoa e momento adequados para proteger."
+        }
+      ]
+    },
+    {
+      "id": "G13",
+      "term_id": "G13",
+      "call_label": "G13 - Autoridade ou abuso",
+      "case": "Quem lidera um grupo usa sua posição para constranger, mandar calar e escolher alvos.",
+      "conference_question": "Quando liderança deixa de servir e passa a dominar?",
+      "anchors": [
+        "CEC 1931"
+      ],
+      "facilitator_note": "Apontar que autoridade justa protege e ordena, não humilha.",
+      "reading_points": [
+        {
+          "title": "Força mal usada",
+          "body": "Liderança, idade ou status passam a constranger."
+        },
+        {
+          "title": "Serviço invertido",
+          "body": "Autoridade existe para ordenar e proteger, não para escolher alvos."
+        },
+        {
+          "title": "Abuso reconhecível",
+          "body": "Mandar calar para humilhar revela dominação, não cuidado."
+        }
+      ]
+    },
+    {
+      "id": "G14",
+      "term_id": "G14",
+      "call_label": "G14 - Pertencimento ou panelinha",
+      "case": "Um grupo de amigos só reforça sua união quando marca quem não pertence.",
+      "conference_question": "Qual a diferença entre amizade forte e grupo que precisa excluir?",
+      "anchors": [
+        "CEC 1939"
+      ],
+      "facilitator_note": "Valorizar amizade sem aceitar exclusão como identidade.",
+      "reading_points": [
+        {
+          "title": "Amizade forte não exclui por sistema",
+          "body": "Ter grupo de amigos é natural; precisar excluir para existir é problema."
+        },
+        {
+          "title": "Fronteira de status",
+          "body": "O grupo define valor por pertencer ou não."
+        },
+        {
+          "title": "Comunhão ou controle",
+          "body": "A amizade verdadeira não depende de diminuir quem está fora."
+        }
+      ]
+    },
+    {
+      "id": "G15",
+      "term_id": "G15",
+      "call_label": "G15 - Justiça ou linchamento",
+      "case": "Depois de um erro real, todos querem expor a pessoa, comentar, zombar e fazer ela pagar em público.",
+      "conference_question": "Como buscar responsabilidade sem virar linchamento?",
+      "anchors": [
+        "CEC 1933",
+        "CEC 1938"
+      ],
+      "facilitator_note": "Separar consequência justa de prazer coletivo na queda do outro.",
+      "reading_points": [
+        {
+          "title": "Erro real existe",
+          "body": "O caso não nega que a pessoa possa ter errado."
+        },
+        {
+          "title": "Resposta coletiva deformada",
+          "body": "Exposição, zombaria e prazer na queda transformam justiça em linchamento."
+        },
+        {
+          "title": "Responsabilidade proporcional",
+          "body": "Justiça busca reparação e limite, não destruição pública."
+        }
+      ]
+    },
+    {
+      "id": "O01",
+      "term_id": "O01",
+      "call_label": "O01 - Limite claro",
+      "case": "Uma piada ofensiva começa de novo. Alguém precisa interromper sem fazer discurso nem humilhar.",
+      "conference_question": "Como nomear o erro de modo direto e proporcional?",
+      "anchors": [
+        "CEC 1931"
+      ],
+      "facilitator_note": "Exemplo de fórmula: 'Para. Isso está humilhando, não é brincadeira'.",
+      "reading_points": [
+        {
+          "title": "Interrupção curta",
+          "body": "A frase precisa parar o ato sem virar discurso."
+        },
+        {
+          "title": "Erro nomeado",
+          "body": "Dizer \"isso humilha\" é mais claro que apenas reclamar."
+        },
+        {
+          "title": "Sem humilhar de volta",
+          "body": "O limite claro corrige a ação sem esmagar quem errou."
+        }
+      ]
+    },
+    {
+      "id": "O02",
+      "term_id": "O02",
+      "call_label": "O02 - Corte de circulação",
+      "case": "Um print ofensivo chega ao grupo. A decisão imediata é repassar, apagar ou interromper a corrente.",
+      "conference_question": "O que significa cortar a circulação do dano?",
+      "anchors": [
+        "CEC 1931"
+      ],
+      "facilitator_note": "Diferenciar não repassar de apagar prova quando há risco sério.",
+      "reading_points": [
+        {
+          "title": "Primeira decisão prática",
+          "body": "Ao receber o print, a pessoa escolhe alimentar ou interromper o dano."
+        },
+        {
+          "title": "Corrente quebrada",
+          "body": "Não repassar reduz alcance e plateia."
+        },
+        {
+          "title": "Cuidado com prova",
+          "body": "Cortar circulação não é apagar evidência quando há risco sério."
+        }
+      ]
+    },
+    {
+      "id": "O03",
+      "term_id": "O03",
+      "call_label": "O03 - Prova preservada",
+      "case": "Há ameaça por mensagem. Espalhar o print piora; apagar tudo também pode impedir proteção.",
+      "conference_question": "Como guardar prova sem transformar prova em nova exposição?",
+      "anchors": [
+        "CEC 1931"
+      ],
+      "facilitator_note": "Quando houver ameaça ou exposição, não repassar. Encaminhar a um adulto responsável ou à coordenação para preservar evidência do modo correto e seguro.",
+      "reading_points": [
+        {
+          "title": "Proteger sem espalhar",
+          "body": "A prova não deve circular no grupo; precisa ser encaminhada com segurança."
+        },
+        {
+          "title": "Ameaça muda o caso",
+          "body": "Quando há risco, apagar tudo pode impedir proteção."
+        },
+        {
+          "title": "Caminho responsável",
+          "body": "Evidência deve ir a um adulto responsável ou à coordenação, não a curiosos."
+        }
+      ]
+    },
+    {
+      "id": "O04",
+      "term_id": "O04",
+      "call_label": "O04 - Apoio discreto",
+      "case": "Depois de uma humilhação, a pessoa sai quieta. Fazer cena pode expor ainda mais.",
+      "conference_question": "Como apoiar sem transformar a dor do outro em espetáculo?",
+      "anchors": [
+        "CEC 1932",
+        "Mt 25,40"
+      ],
+      "facilitator_note": "Sugerir aproximação simples, escuta e oferta de ajuda concreta.",
+      "reading_points": [
+        {
+          "title": "Dor sem espetáculo",
+          "body": "A pessoa ferida não precisa virar cena pública."
+        },
+        {
+          "title": "Aproximação simples",
+          "body": "Apoio pode ser discreto: perguntar, escutar, acompanhar."
+        },
+        {
+          "title": "Mt 25 concreto",
+          "body": "Cristo no pequeno pede cuidado real, não performance."
+        }
+      ]
+    },
+    {
+      "id": "O05",
+      "term_id": "O05",
+      "call_label": "O05 - Testemunho verdadeiro",
+      "case": "Um adulto pergunta o que aconteceu. Quem viu pode esconder, exagerar ou falar com precisão.",
+      "conference_question": "Por que testemunhar bem exige verdade sem aumento nem proteção injusta?",
+      "anchors": [
+        "CEC 1931"
+      ],
+      "facilitator_note": "Trabalhar responsabilidade de quem viu.",
+      "reading_points": [
+        {
+          "title": "Quem viu tem dever",
+          "body": "A testemunha participa da busca da verdade."
+        },
+        {
+          "title": "Sem exagero",
+          "body": "Aumentar fatos também é injusto."
+        },
+        {
+          "title": "Sem proteção injusta",
+          "body": "Esconder o que viu pode manter a agressão."
+        }
+      ]
+    },
+    {
+      "id": "O06",
+      "term_id": "O06",
+      "call_label": "O06 - Encaminhamento responsável",
+      "case": "A situação envolve ameaça, medo ou repetição. Resolver sozinho pode piorar.",
+      "conference_question": "Quem precisa saber para proteger, e quem não precisa saber?",
+      "anchors": [
+        "CEC 1932"
+      ],
+      "facilitator_note": "Conduzir para adulto responsável, coordenação ou família, sem fofoca.",
+      "reading_points": [
+        {
+          "title": "Caso sério não se resolve sozinho",
+          "body": "Ameaça, medo e repetição pedem proteção adequada."
+        },
+        {
+          "title": "Sigilo com responsabilidade",
+          "body": "Nem todos precisam saber; alguém responsável precisa."
+        },
+        {
+          "title": "Encaminhar não é fofocar",
+          "body": "O critério é proteger e decidir, não espalhar."
+        }
+      ]
+    },
+    {
+      "id": "O07",
+      "term_id": "O07",
+      "call_label": "O07 - Reparação pública",
+      "case": "A mentira foi espalhada no grupo inteiro, mas a correção foi feita só no privado.",
+      "conference_question": "Quando o dano público exige reparação pública?",
+      "anchors": [
+        "CEC 1931",
+        "CEC 1939"
+      ],
+      "facilitator_note": "Reparação deve alcançar quem recebeu a falsa versão.",
+      "reading_points": [
+        {
+          "title": "Dano público",
+          "body": "A mentira atingiu o grupo inteiro."
+        },
+        {
+          "title": "Correção proporcional",
+          "body": "Reparar só em privado não alcança quem recebeu a mentira."
+        },
+        {
+          "title": "Restaurar justiça",
+          "body": "A verdade precisa percorrer o caminho do dano."
+        }
+      ]
+    },
+    {
+      "id": "O08",
+      "term_id": "O08",
+      "call_label": "O08 - Pedido concreto de perdão",
+      "case": "Depois de ofender, alguém manda apenas 'foi mal' e continua fazendo a mesma coisa.",
+      "conference_question": "O que torna um pedido de perdão concreto e responsável?",
+      "anchors": [
+        "CEC 1933"
+      ],
+      "facilitator_note": "Elementos: nomear dano, assumir, reparar, mudar atitude.",
+      "reading_points": [
+        {
+          "title": "Pedido genérico",
+          "body": "\"Foi mal\" não nomeia o que aconteceu."
+        },
+        {
+          "title": "Sem mudança não basta",
+          "body": "Continuar o mesmo comportamento esvazia o pedido."
+        },
+        {
+          "title": "Perdão concreto",
+          "body": "Assumir, reparar e mudar tornam o pedido responsável."
+        }
+      ]
+    },
+    {
+      "id": "O09",
+      "term_id": "O09",
+      "call_label": "O09 - Restituir reputação",
+      "case": "Depois que se descobre que um boato era falso, muitos querem apenas deixar quieto.",
+      "conference_question": "Como devolver a reputação de alguém depois de uma mentira?",
+      "anchors": [
+        "CEC 1931"
+      ],
+      "facilitator_note": "A reparação precisa percorrer o caminho da difamação.",
+      "reading_points": [
+        {
+          "title": "Boato não some sozinho",
+          "body": "Mesmo depois da descoberta, a reputação segue ferida."
+        },
+        {
+          "title": "Reparação ativa",
+          "body": "Deixar quieto preserva a injustiça."
+        },
+        {
+          "title": "Caminho inverso",
+          "body": "Quem recebeu mentira precisa receber correção."
+        }
+      ]
+    },
+    {
+      "id": "O10",
+      "term_id": "O10",
+      "call_label": "O10 - Reentrada no grupo",
+      "case": "Uma pessoa isolada tenta voltar a conviver, mas todos a tratam como se estivesse em teste permanente.",
+      "conference_question": "Que condições tornam possível voltar ao grupo sem humilhação?",
+      "anchors": [
+        "CEC 1939"
+      ],
+      "facilitator_note": "Reentrada não é fingir que nada houve; é reconstruir convivência com limites.",
+      "reading_points": [
+        {
+          "title": "Retorno condicionado pelo respeito",
+          "body": "Voltar ao grupo não pode significar humilhação permanente."
+        },
+        {
+          "title": "Memória sem marca eterna",
+          "body": "O passado pode exigir limite, mas não rótulo definitivo."
+        },
+        {
+          "title": "Reconstruir convivência",
+          "body": "Reentrada pede condições, cuidado e responsabilidades claras."
+        }
+      ]
+    },
+    {
+      "id": "O11",
+      "term_id": "O11",
+      "call_label": "O11 - Recusar plateia",
+      "case": "Quem agride busca risada, curtida, comentário e atenção do grupo.",
+      "conference_question": "Como a plateia alimenta ou enfraquece a violência?",
+      "anchors": [
+        "CEC 1931",
+        "CEC 1932"
+      ],
+      "facilitator_note": "Mostrar que não rir, não curtir e não repassar já altera a dinâmica.",
+      "reading_points": [
+        {
+          "title": "Agressor busca público",
+          "body": "Riso, curtida e comentário são combustível."
+        },
+        {
+          "title": "Plateia participa",
+          "body": "Quem assiste e alimenta também influencia a violência."
+        },
+        {
+          "title": "Retirar palco",
+          "body": "Não rir, não curtir e não repassar enfraquece o ato."
+        }
+      ]
+    },
+    {
+      "id": "O12",
+      "term_id": "O12",
+      "call_label": "O12 - Mediação segura",
+      "case": "Duas pessoas precisam conversar, mas há medo, raiva acumulada e risco de nova agressão.",
+      "conference_question": "Quando uma conversa precisa de presença adequada para ser segura?",
+      "anchors": [
+        "CEC 1931"
+      ],
+      "facilitator_note": "Mediação não é empurrar vítima para confronto; é criar condição justa.",
+      "reading_points": [
+        {
+          "title": "Conversa pode ser insegura",
+          "body": "Medo, raiva e desigualdade de força mudam o modo de resolver."
+        },
+        {
+          "title": "Mediação protege",
+          "body": "Presença adequada impede nova agressão e organiza a fala."
+        },
+        {
+          "title": "Não forçar vítima",
+          "body": "Mediar não é obrigar a pessoa ferida a enfrentar sozinha."
+        }
+      ]
+    },
+    {
+      "id": "O13",
+      "term_id": "O13",
+      "call_label": "O13 - Proteger sem atacar",
+      "case": "Ao defender alguém, o grupo começa a desumanizar quem errou.",
+      "conference_question": "Como proteger a pessoa ferida sem destruir a pessoa que errou?",
+      "anchors": [
+        "CEC 1933"
+      ],
+      "facilitator_note": "Ligar diretamente ao amor ao inimigo e à rejeição do mal, sem ódio à pessoa.",
+      "reading_points": [
+        {
+          "title": "Defesa pode se corromper",
+          "body": "O grupo quer proteger, mas começa a desumanizar quem errou."
+        },
+        {
+          "title": "Pessoa que errou continua pessoa",
+          "body": "A dignidade não desaparece por causa do erro."
+        },
+        {
+          "title": "Mal rejeitado, pessoa preservada",
+          "body": "A resposta cristã combate o mal sem destruir o agressor."
+        }
+      ]
+    },
+    {
+      "id": "O14",
+      "term_id": "O14",
+      "call_label": "O14 - Acordo de convivência",
+      "case": "Depois de vários conflitos, todos dizem que vão melhorar, mas nenhuma regra concreta muda.",
+      "conference_question": "Que tipo de acordo impede a repetição do dano?",
+      "anchors": [
+        "CEC 1939",
+        "CEC 1940"
+      ],
+      "facilitator_note": "Buscar regra simples, verificável e proporcional.",
+      "reading_points": [
+        {
+          "title": "Promessa vaga",
+          "body": "Dizer que vai melhorar não muda a dinâmica do grupo."
+        },
+        {
+          "title": "Regra verificável",
+          "body": "Acordo bom define comportamento concreto e observável."
+        },
+        {
+          "title": "Prevenção da repetição",
+          "body": "Convivência justa precisa de regras claras que protejam as pessoas."
+        }
+      ]
+    },
+    {
+      "id": "O15",
+      "term_id": "O15",
+      "call_label": "O15 - Consequência proporcional",
+      "case": "Depois de uma ofensa real, uns querem não fazer nada; outros querem punição humilhante.",
+      "conference_question": "Como responsabilizar sem impunidade e sem vingança?",
+      "anchors": [
+        "CEC 1933",
+        "CEC 1938"
+      ],
+      "facilitator_note": "Concluir com equilíbrio: verdade, proteção, reparação e proporção.",
+      "reading_points": [
+        {
+          "title": "Dois extremos",
+          "body": "Não fazer nada mantém impunidade; punição humilhante vira vingança."
+        },
+        {
+          "title": "Proporção moral",
+          "body": "A consequência precisa corresponder ao dano e proteger o bem."
+        },
+        {
+          "title": "Responsabilizar com justiça",
+          "body": "Verdade, proteção, reparação e medida justa andam juntas."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Bingo">
+  <rect width="512" height="512" rx="112" fill="#f4efe7"/>
+  <rect x="116" y="94" width="280" height="324" rx="34" fill="#fffaf1" stroke="#b99546" stroke-width="12"/>
+  <rect x="144" y="126" width="224" height="64" rx="18" fill="#2d2a26"/>
+  <circle cx="178" cy="236" r="17" fill="#b99546"/>
+  <circle cx="256" cy="236" r="17" fill="#a84f3d"/>
+  <circle cx="334" cy="236" r="17" fill="#6e536f"/>
+  <circle cx="178" cy="308" r="17" fill="#2f6e70"/>
+  <circle cx="256" cy="308" r="17" fill="#64703c"/>
+  <circle cx="334" cy="308" r="17" fill="#b99546"/>
+  <path d="M170 362h172" stroke="#2d2a26" stroke-width="18" stroke-linecap="round"/>
+  <path d="M181 155h150" stroke="#fffaf1" stroke-width="18" stroke-linecap="round"/>
+</svg>
