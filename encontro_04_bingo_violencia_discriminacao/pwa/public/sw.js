@@ -1,4 +1,4 @@
-const CACHE_NAME = "bingo-pwa-v2";
+const CACHE_NAME = "bingo-pwa-v3";
 const APP_SHELL = [
   "./",
   "./index.html",
@@ -6,7 +6,9 @@ const APP_SHELL = [
   "./icon.svg",
   "./icons/icon-192.png",
   "./icons/icon-512.png",
-  "./icons/apple-touch-icon.png"
+  "./icons/apple-touch-icon.png",
+  "./materials/cartelas_bingo_24_a4.pdf",
+  "./materials/kit_impressao_bingo_violencia_discriminacao.pdf"
 ];
 
 self.addEventListener("install", (event) => {

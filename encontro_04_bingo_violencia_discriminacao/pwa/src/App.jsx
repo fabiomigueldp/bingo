@@ -102,6 +102,34 @@ function Icon({ name }) {
       </svg>
     );
   }
+  if (name === "printer") {
+    return (
+      <svg {...common}>
+        <path d="M7 8V4.8h10V8" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" />
+        <path d="M7 17H5.6A2.6 2.6 0 0 1 3 14.4v-3.8A2.6 2.6 0 0 1 5.6 8h12.8a2.6 2.6 0 0 1 2.6 2.6v3.8a2.6 2.6 0 0 1-2.6 2.6H17" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" />
+        <path d="M7.5 14h9v6h-9z" stroke="currentColor" strokeWidth="1.8" strokeLinejoin="round" />
+        <path d="M17.5 11.2h.1" stroke="currentColor" strokeWidth="3" strokeLinecap="round" />
+      </svg>
+    );
+  }
+  if (name === "rules") {
+    return (
+      <svg {...common}>
+        <path d="M7 4.5h10A2.5 2.5 0 0 1 19.5 7v12.5H8A3.5 3.5 0 0 1 4.5 16V7A2.5 2.5 0 0 1 7 4.5Z" stroke="currentColor" strokeWidth="1.8" strokeLinejoin="round" />
+        <path d="M8 16h11.5" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" />
+        <path d="M9 8.5h6M9 11.5h5" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" />
+      </svg>
+    );
+  }
+  if (name === "download") {
+    return (
+      <svg {...common}>
+        <path d="M12 4v9" stroke="currentColor" strokeWidth="1.9" strokeLinecap="round" />
+        <path d="m8 10 4 4 4-4" stroke="currentColor" strokeWidth="1.9" strokeLinecap="round" strokeLinejoin="round" />
+        <path d="M5 19h14" stroke="currentColor" strokeWidth="1.9" strokeLinecap="round" />
+      </svg>
+    );
+  }
   return null;
 }
 
@@ -116,6 +144,7 @@ function SetupScreen({ onStart }) {
   const [selection, setSelection] = useState([]);
   const [drawMode, setDrawMode] = useState(DRAW_MODES.APP);
   const [isStarting, setIsStarting] = useState(false);
+  const [setupSheet, setSetupSheet] = useState(null);
   const startTimer = useRef(null);
   const selected = selection.length;
 
@@ -206,6 +235,17 @@ function SetupScreen({ onStart }) {
         </div>
       </section>
 
+      <nav className="setup-secondary-actions" aria-label="Materiais de apoio">
+        <button type="button" onClick={() => setSetupSheet("materials")}>
+          <Icon name="printer" />
+          <span>Imprimir</span>
+        </button>
+        <button type="button" onClick={() => setSetupSheet("rules")}>
+          <Icon name="rules" />
+          <span>Regras</span>
+        </button>
+      </nav>
+
       <div className="setup-footer">
         <button
           className={`primary-action${selected ? " ready" : ""}${isStarting ? " starting" : ""}`}
@@ -217,9 +257,38 @@ function SetupScreen({ onStart }) {
           Iniciar jogo
         </button>
       </div>
+
+      {setupSheet === "materials" ? <MaterialsSheet onClose={() => setSetupSheet(null)} /> : null}
+      {setupSheet === "rules" ? <RulesSheet onClose={() => setSetupSheet(null)} /> : null}
     </main>
   );
 }
+
+const MATERIAL_OPTIONS = [
+  {
+    title: "Cartelas",
+    meta: "24 cartelas em A4",
+    href: "./materials/cartelas_bingo_24_a4.pdf",
+    fileName: "cartelas_bingo_24_a4.pdf",
+    recommended: true
+  },
+  {
+    title: "Kit completo",
+    meta: "guia, cartas e controles",
+    href: "./materials/kit_impressao_bingo_violencia_discriminacao.pdf",
+    fileName: "kit_impressao_bingo_violencia_discriminacao.pdf"
+  }
+];
+
+const RULES = [
+  "Escolha no app as cartelas que estão na mesa.",
+  "Sorteie uma carta no app ou uma bolinha no globo físico.",
+  "Leia em voz alta o código e o conceito sorteado.",
+  "As equipes marcam o conceito se ele estiver na cartela.",
+  "Explique o conceito antes da próxima chamada. Use o caso e os apoios do card.",
+  "Vence a equipe que fechar duas linhas na mesma cartela.",
+  "Para validar, a equipe explica pelo menos 3 conceitos de uma das linhas fechadas."
+];
 
 function EmptyCard({ drawMode = DRAW_MODES.APP }) {
   const manualMode = drawMode === DRAW_MODES.MANUAL;
@@ -671,6 +740,40 @@ function HistorySheet({ game, onClose, onNewGame }) {
   );
 }
 
+function MaterialsSheet({ onClose }) {
+  return (
+    <BottomSheet title="Imprimir" onClose={onClose} className="materials-sheet">
+      <div className="materials-list">
+        {MATERIAL_OPTIONS.map((item) => (
+          <a className={item.recommended ? "material-row recommended" : "material-row"} href={item.href} download={item.fileName} key={item.href}>
+            <span className="material-icon">
+              <Icon name="download" />
+            </span>
+            <span className="material-copy">
+              <strong>{item.title}</strong>
+              <small>{item.meta}</small>
+            </span>
+            {item.recommended ? <span className="material-mark">essencial</span> : null}
+          </a>
+        ))}
+      </div>
+      <p className="materials-note">Com o app, normalmente basta imprimir as cartelas.</p>
+    </BottomSheet>
+  );
+}
+
+function RulesSheet({ onClose }) {
+  return (
+    <BottomSheet title="Regras" onClose={onClose} className="rules-sheet">
+      <ol className="rules-list">
+        {RULES.map((rule) => (
+          <li key={rule}>{rule}</li>
+        ))}
+      </ol>
+    </BottomSheet>
+  );
+}
+
 function MiniBoard({ board, drawnIds, highlightLineId, compact = false }) {
   const marked = new Set([...drawnIds, "FREE"]);
   const highlight = highlightLineId ? lineDefinitions.find((line) => line.id === highlightLineId) : null;
@@ -903,16 +1006,13 @@ function GameScreen({ game, setGame, onReset }) {
     };
   }, []);
 
-  function draw() {
-    if (flight || game.deck.length === 0) return;
+  function presentCard(nextCard, nextDrawCount, commitGame) {
+    if (!nextCard) return;
 
-    const nextId = game.deck[0];
-    const nextCard = cardById[nextId];
-    const nextDrawCount = game.drawnIds.length + 1;
     const shouldAnimate = !window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 
     if (!shouldAnimate) {
-      setGame((current) => drawNext(current));
+      setGame(commitGame);
       return;
     }
 
@@ -927,7 +1027,7 @@ function GameScreen({ game, setGame, onReset }) {
     flightTimers.current = [];
 
     flightTimers.current.push(window.setTimeout(() => {
-      setGame((current) => drawNext(current));
+      setGame(commitGame);
     }, 560));
 
     flightTimers.current.push(window.setTimeout(() => {
@@ -936,9 +1036,20 @@ function GameScreen({ game, setGame, onReset }) {
     }, 640));
   }
 
+  function draw() {
+    if (flight || game.deck.length === 0) return;
+
+    const nextId = game.deck[0];
+    const nextCard = cardById[nextId];
+    const nextDrawCount = game.drawnIds.length + 1;
+    presentCard(nextCard, nextDrawCount, (current) => drawNext(current));
+  }
+
   function manualCall(cardId) {
     if (flight) return;
-    setGame((current) => drawCardById(current, cardId));
+    const nextCard = cardById[cardId];
+    const nextDrawCount = game.drawnIds.length + 1;
+    presentCard(nextCard, nextDrawCount, (current) => drawCardById(current, cardId));
   }
 
   function undo() {
