@@ -102,7 +102,6 @@ button {
 
 .setup-hero h1,
 .app-title,
-.call-card h2,
 .alert-sheet h3 {
   font-family: Georgia, Cambria, "Times New Roman", serif;
 }
@@ -555,11 +554,11 @@ button {
 }
 
 .card-front {
-  padding: 26px 24px 20px;
-  border-left: 8px solid var(--card-accent);
+  padding: 28px 24px 24px;
+  border-top: 6px solid var(--card-accent);
   box-shadow: 
     var(--shadow-card),
-    inset 10px 0 28px -10px color-mix(in oklch, var(--card-accent) 20%, transparent);
+    inset 0 12px 32px -12px color-mix(in oklch, var(--card-accent) 30%, transparent);
 }
 
 .card-sheen {
@@ -637,18 +636,21 @@ button {
 }
 
 .code-chip {
-  min-width: 72px;
-  min-height: 54px;
-  display: inline-grid;
-  place-items: center;
-  padding: 0 16px;
-  border-radius: 14px;
+  min-width: auto;
+  min-height: 48px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 18px;
+  border-radius: 999px;
   background: var(--card-accent);
   color: var(--surface);
-  font-family: Georgia, Cambria, "Times New Roman", serif;
-  font-size: 25px;
-  font-weight: 700;
-  box-shadow: 0 10px 22px color-mix(in oklch, var(--card-accent) 28%, transparent);
+  font-size: 22px;
+  font-weight: 850;
+  letter-spacing: 0.02em;
+  box-shadow: 
+    0 8px 16px color-mix(in oklch, var(--card-accent) 35%, transparent),
+    inset 0 1.5px 1px oklch(100% 0 0 / 0.35);
 }
 
 .column-label,
@@ -671,18 +673,19 @@ button {
 }
 
 .call-card h2 {
-  margin: 8px 0 0;
-  font-size: 42px;
-  line-height: 0.98;
-  letter-spacing: 0;
-  font-weight: 700;
+  margin: 10px 0 0;
+  font-size: 38px;
+  line-height: 1.05;
+  letter-spacing: -0.01em;
+  font-weight: 850;
+  color: var(--charcoal);
 }
 
 .card-section p {
-  margin: 9px 0 0;
-  font-family: Georgia, Cambria, "Times New Roman", serif;
-  font-size: 19px;
-  line-height: 1.48;
+  margin: 8px 0 0;
+  font-size: 17.5px;
+  line-height: 1.5;
+  color: var(--ink);
 }
 
 .card-section strong {
@@ -690,18 +693,21 @@ button {
 }
 
 .card-rule {
-  height: 1px;
-  margin: 26px 0 0;
-  background: linear-gradient(90deg, transparent, var(--card-accent), transparent);
+  height: 2px;
+  margin: 24px 0 0;
+  border-radius: 999px;
+  background: color-mix(in oklch, var(--card-accent) 15%, transparent);
 }
 
 .support-section {
-  margin-top: 24px;
-  border-radius: 20px;
-  background: color-mix(in oklch, var(--card-accent) 5%, var(--surface-soft));
+  margin-top: 28px;
+  border-radius: 24px;
+  background: linear-gradient(160deg, color-mix(in oklch, var(--card-accent) 6%, var(--surface)), color-mix(in oklch, var(--card-accent) 2%, var(--surface-soft)));
   border: 1px solid color-mix(in oklch, var(--card-accent) 15%, var(--line));
-  padding: 18px;
-  box-shadow: 0 4px 12px color-mix(in oklch, var(--card-accent) 4%, transparent);
+  padding: 20px;
+  box-shadow: 
+    0 8px 24px color-mix(in oklch, var(--card-accent) 5%, transparent),
+    inset 0 1px 0 oklch(100% 0 0);
 }
 
 .support-head {
@@ -752,15 +758,15 @@ button {
 }
 
 .conference-question {
-  margin: 14px 0 0;
-  padding: 12px 14px;
-  border-radius: 12px;
-  background: color-mix(in oklch, var(--card-accent) 6%, var(--surface));
-  border: 1px solid color-mix(in oklch, var(--card-accent) 20%, var(--line));
-  font-size: 13.5px;
-  line-height: 1.4;
-  font-style: italic;
-  color: var(--ink);
+  margin: 16px 0 0;
+  padding: 14px 16px;
+  border-radius: 16px;
+  background: color-mix(in oklch, var(--card-accent) 10%, var(--surface));
+  border: 1px solid color-mix(in oklch, var(--card-accent) 25%, var(--line));
+  font-size: 14px;
+  font-weight: 750;
+  line-height: 1.45;
+  color: color-mix(in oklch, var(--card-accent) 85%, var(--charcoal));
 }
 
 .card-foot {
