@@ -153,6 +153,11 @@ function lineTone(line) {
   return line.label.replace("Diagonal ", "");
 }
 
+function lineTabLabel(line) {
+  if (line.kind === "diagonal") return line.label.replace("Diagonal ", "");
+  return line.label;
+}
+
 function SetupScreen({ onStart }) {
   const [selection, setSelection] = useState([]);
   const [drawMode, setDrawMode] = useState(DRAW_MODES.APP);
@@ -1040,7 +1045,7 @@ function ConferenceSheet({ game, boardNumber, onClose, onValidated }) {
               aria-pressed={line.id === selectedLine?.id}
             >
               <span>{visibleLineType(line.kind)}</span>
-              <strong>{line.label}</strong>
+              <strong>{lineTabLabel(line)}</strong>
             </button>
           ))}
         </div>
