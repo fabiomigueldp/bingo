@@ -562,7 +562,7 @@ function ManualCallControls({ game, onUndo, onCall, onHistory, onKeyboardOpenCha
 
     scheduleManualCall(() => {
       setActiveColumn("");
-    }, 360);
+    }, 430);
 
     scheduleManualCall(() => {
       onCall(card.id);
@@ -572,7 +572,7 @@ function ManualCallControls({ game, onUndo, onCall, onHistory, onKeyboardOpenCha
       setPendingManualCode("");
       setPressedNumber("");
       setMotionPhase("idle");
-    }, 500);
+    }, 520);
   }
 
   return (

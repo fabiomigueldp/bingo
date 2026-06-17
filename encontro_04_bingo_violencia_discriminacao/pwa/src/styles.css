@@ -605,7 +605,7 @@ button {
   padding-bottom: calc(var(--manual-rest-space) + 8px);
   transform: translate3d(0, 0, 0) scale(1);
   transform-origin: center top;
-  transition: transform 300ms var(--ease-out-expo);
+  transition: transform 420ms var(--ease-out-expo);
   backface-visibility: hidden;
   -webkit-backface-visibility: hidden;
   will-change: transform;
@@ -1405,7 +1405,7 @@ button {
   transform-origin: center bottom;
   pointer-events: none;
   transition:
-    grid-template-rows 260ms var(--ease-out-expo),
+    grid-template-rows 320ms var(--ease-out-expo),
     opacity 180ms var(--ease-out-quint),
     transform 260ms var(--ease-out-expo);
   contain: layout paint style;
