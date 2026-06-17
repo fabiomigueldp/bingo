@@ -1336,7 +1336,7 @@ function ConfirmDialog({ isOpen, title, message, confirmLabel, cancelLabel, onCo
       setIsClosing(true);
       const timer = setTimeout(() => {
         setShouldRender(false);
-      }, 400); // match CSS animation duration
+      }, 200);
       return () => clearTimeout(timer);
     }
   }, [isOpen, shouldRender]);
