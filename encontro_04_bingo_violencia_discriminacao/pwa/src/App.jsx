@@ -457,7 +457,6 @@ function ManualCallControls({ game, onUndo, onCall, onHistory, onKeyboardOpenCha
   const ballColumn = activeColumn || (pendingManualCode ? pendingManualCode[0] : lastCode ? lastCode[0] : "");
   const ballAccentColor = ballColumn ? COLUMN_COLORS[ballColumn] : "oklch(92% 0.015 80)";
   const locked = busy || Boolean(pendingManualCode);
-  const activeColumnIndex = COLUMN_ORDER.indexOf(activeColumn);
   const keyboardVisuallyOpen = Boolean(activeColumn && motionPhase !== "closing");
   const controlsClass = [
     "manual-controls",
@@ -494,7 +493,7 @@ function ManualCallControls({ game, onUndo, onCall, onHistory, onKeyboardOpenCha
       setMotionPhase("idle");
       setPressedNumber("");
     }
-  }, [currentCode, onKeyboardOpenChange]);
+  }, [currentCode]);
 
   useLayoutEffect(() => {
     onKeyboardOpenChange?.(keyboardVisuallyOpen);
@@ -527,10 +526,16 @@ function ManualCallControls({ game, onUndo, onCall, onHistory, onKeyboardOpenCha
 
   function chooseColumn(column) {
     if (locked) return;
+    clearManualCallTimers();
     setPressedNumber("");
     const nextColumn = activeColumn === column ? "" : column;
     setActiveColumn(nextColumn);
     setMotionPhase(nextColumn ? "selecting" : "idle");
+    if (nextColumn) {
+      scheduleManualCall(() => {
+        setMotionPhase("idle");
+      }, 240);
+    }
   }
 
   function submitNumber(number) {
@@ -610,13 +615,16 @@ function ManualCallControls({ game, onUndo, onCall, onHistory, onKeyboardOpenCha
         <div
           className={activeColumn ? "manual-columns has-selection" : "manual-columns"}
           aria-label="Letra da bolinha"
-          data-selected-index={activeColumnIndex >= 0 ? activeColumnIndex : undefined}
         >
           {COLUMN_ORDER.map((column) => (
             <button
               type="button"
               key={column}
-              className={activeColumn === column ? "manual-column selected" : "manual-column"}
+              className={[
+                "manual-column",
+                activeColumn === column ? "selected" : "",
+                !availableColumns[column] ? "exhausted" : ""
+              ].filter(Boolean).join(" ")}
               onClick={() => chooseColumn(column)}
               disabled={locked || finished || !availableColumns[column]}
               aria-pressed={activeColumn === column}

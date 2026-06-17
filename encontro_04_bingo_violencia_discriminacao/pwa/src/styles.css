@@ -1219,7 +1219,6 @@ button {
   transition:
     transform 220ms var(--ease-out-quint),
     opacity 180ms var(--ease-out-quint);
-  will-change: transform, opacity;
   z-index: 0;
 }
 
@@ -1231,6 +1230,11 @@ button {
 .manual-controls.committing .manual-ball-wrap::after {
   opacity: 0.7;
   transform: translate3d(0, 1px, 0) scaleX(0.76);
+}
+
+.manual-controls.expanded .manual-ball-wrap::after,
+.manual-controls.committing .manual-ball-wrap::after {
+  will-change: transform, opacity;
 }
 
 .manual-ball {
@@ -1263,7 +1267,6 @@ button {
   backface-visibility: hidden;
   -webkit-backface-visibility: hidden;
   contain: paint;
-  will-change: transform;
 }
 
 .manual-ball::before {
@@ -1309,6 +1312,7 @@ button {
 
 .manual-ball.selecting {
   transform: translate3d(0, -5px, 0) scale(1.035);
+  will-change: transform;
 }
 
 .manual-ball.called {
@@ -1317,6 +1321,7 @@ button {
 
 .manual-ball.committing {
   animation: manual-ball-stamp 260ms var(--ease-out-expo) both;
+  will-change: transform;
 }
 
 .manual-code.confirming {
@@ -1352,46 +1357,6 @@ button {
   overflow: visible;
 }
 
-.manual-columns.has-selection::before {
-  content: "";
-  position: absolute;
-  top: -2px;
-  bottom: 12px;
-  left: 0;
-  width: calc((100% - 28px) / 5);
-  border-radius: 14px;
-  background:
-    radial-gradient(ellipse at 32% 12%, oklch(100% 0 0 / 0.42), transparent 44%),
-    color-mix(in oklch, var(--pad-accent) 20%, transparent);
-  box-shadow:
-    0 8px 18px color-mix(in oklch, var(--pad-accent) 14%, transparent),
-    inset 0 1px 0 oklch(100% 0 0 / 0.34);
-  opacity: 1;
-  pointer-events: none;
-  transform: translate3d(0, 0, 0);
-  transition:
-    transform 210ms var(--ease-out-expo),
-    opacity 150ms var(--ease-out-quint);
-  will-change: transform, opacity;
-  z-index: 0;
-}
-
-.manual-columns[data-selected-index="1"]::before {
-  transform: translate3d(calc(100% + 7px), 0, 0);
-}
-
-.manual-columns[data-selected-index="2"]::before {
-  transform: translate3d(calc(200% + 14px), 0, 0);
-}
-
-.manual-columns[data-selected-index="3"]::before {
-  transform: translate3d(calc(300% + 21px), 0, 0);
-}
-
-.manual-columns[data-selected-index="4"]::before {
-  transform: translate3d(calc(400% + 28px), 0, 0);
-}
-
 .manual-numbers-shell {
   grid-row: 1;
   display: grid;
@@ -1408,7 +1373,6 @@ button {
     grid-template-rows 320ms var(--ease-out-expo),
     transform 260ms var(--ease-out-expo);
   contain: layout paint style;
-  will-change: transform;
 }
 
 .manual-numbers-shell::before {
@@ -1456,6 +1420,11 @@ button {
   visibility: visible;
   transform: translate3d(0, 16px, 0) scale(0.985);
   pointer-events: none;
+  will-change: transform;
+}
+
+.manual-controls.motion-selecting .manual-numbers-shell {
+  will-change: transform;
 }
 
 .manual-controls.motion-closing .manual-numbers-shell::before {
@@ -1476,7 +1445,6 @@ button {
     transform 240ms var(--ease-out-expo);
   backface-visibility: hidden;
   -webkit-backface-visibility: hidden;
-  will-change: transform, opacity;
 }
 
 .manual-number {
@@ -1536,6 +1504,11 @@ button {
 .manual-controls.motion-closing .manual-numbers {
   opacity: 0;
   transform: translate3d(0, 10px, 0) scale(0.99);
+  will-change: transform, opacity;
+}
+
+.manual-controls.motion-selecting .manual-numbers {
+  will-change: transform, opacity;
 }
 
 .manual-number:active {
@@ -1657,9 +1630,21 @@ button {
   content: none;
 }
 
-.manual-columns.has-selection .manual-column:not(.selected) {
-  opacity: 1;
-  transform: translateY(0) scale(1);
+.manual-column.exhausted {
+  cursor: not-allowed;
+  background: linear-gradient(180deg,
+    color-mix(in oklch, var(--col-key) 10%, var(--surface)) 0%,
+    color-mix(in oklch, var(--col-key) 4%, var(--surface-soft)) 100%
+  );
+  color: color-mix(in oklch, var(--col-key) 28%, var(--muted));
+  text-shadow: 0 1px 1px color-mix(in oklch, var(--col-key) 10%, oklch(100% 0 0 / 0.62));
+  transform: translateY(2px) scaleX(0.998) scaleY(0.995);
+  box-shadow:
+    inset 0 2px 2px color-mix(in oklch, var(--col-key) 10%, oklch(100% 0 0 / 0.46)),
+    inset 0 -1px 2px color-mix(in oklch, var(--col-key) 8%, oklch(20% 0.014 65 / 0.18)),
+    0 2px 0 color-mix(in oklch, var(--col-key) 14%, oklch(18% 0.014 65 / 0.18)),
+    0 3px 6px color-mix(in oklch, var(--col-key) 6%, oklch(18% 0.014 65 / 0.1));
+  filter: saturate(0.64);
 }
 
 .manual-number:disabled {
