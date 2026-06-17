@@ -1,4 +1,4 @@
-import { memo, useEffect, useLayoutEffect, useMemo, useRef, useState } from "react";
+import { memo, useCallback, useEffect, useLayoutEffect, useMemo, useRef, useState } from "react";
 import data, {
   COLUMN_COLORS,
   COLUMN_ORDER,
@@ -138,6 +138,11 @@ function SetupScreen({ onStart }) {
   const [setupSheet, setSetupSheet] = useState(null);
   const startTimer = useRef(null);
   const selected = selection.length;
+  const closeSetupSheet = useCallback(() => setSetupSheet(null), []);
+  const selectAllBoards = useCallback(() => setSelection(data.boards.map((board) => board.number)), []);
+  const clearSelection = useCallback(() => setSelection([]), []);
+  const openMaterials = useCallback(() => setSetupSheet("materials"), []);
+  const openRules = useCallback(() => setSetupSheet("rules"), []);
 
   useEffect(() => {
     return () => {
@@ -176,10 +181,10 @@ function SetupScreen({ onStart }) {
           <div className="picker-head">
             <span>{selected} cartelas</span>
             <div className="picker-actions">
-              <button type="button" onClick={() => setSelection(data.boards.map((board) => board.number))}>
+              <button type="button" onClick={selectAllBoards}>
                 Todas
               </button>
-              <button type="button" onClick={() => setSelection([])}>
+              <button type="button" onClick={clearSelection}>
                 Limpar
               </button>
             </div>
@@ -225,11 +230,11 @@ function SetupScreen({ onStart }) {
         </section>
 
         <nav className="setup-secondary-actions" aria-label="Materiais de apoio">
-          <button type="button" onClick={() => setSetupSheet("materials")}>
+          <button type="button" onClick={openMaterials}>
             <Icon name="printer" />
             <span>Imprimir</span>
           </button>
-          <button type="button" onClick={() => setSetupSheet("rules")}>
+          <button type="button" onClick={openRules}>
             <Icon name="rules" />
             <span>Regras</span>
           </button>
@@ -248,8 +253,8 @@ function SetupScreen({ onStart }) {
         </button>
       </div>
 
-      {setupSheet === "materials" ? <MaterialsSheet onClose={() => setSetupSheet(null)} /> : null}
-      {setupSheet === "rules" ? <RulesSheet onClose={() => setSetupSheet(null)} /> : null}
+      {setupSheet === "materials" ? <MemoMaterialsSheet onClose={closeSetupSheet} /> : null}
+      {setupSheet === "rules" ? <MemoRulesSheet onClose={closeSetupSheet} /> : null}
     </main>
   );
 }
@@ -919,6 +924,8 @@ function HistorySheet({ game, onClose, onNewGame }) {
   );
 }
 
+const MemoHistorySheet = memo(HistorySheet);
+
 async function fetchMaterialBlob(href) {
   const response = await fetch(href, { cache: "force-cache" });
   if (!response.ok) throw new Error(`HTTP ${response.status}`);
@@ -1010,6 +1017,8 @@ function MaterialsSheet({ onClose }) {
   );
 }
 
+const MemoMaterialsSheet = memo(MaterialsSheet);
+
 function RulesSheet({ onClose }) {
   return (
     <BottomSheet title="Regras" onClose={onClose} className="rules-sheet">
@@ -1026,6 +1035,8 @@ function RulesSheet({ onClose }) {
     </BottomSheet>
   );
 }
+
+const MemoRulesSheet = memo(RulesSheet);
 
 function lineCountLabel(count) {
   if (count === 0) return "Nenhuma linha completa";
@@ -1099,6 +1110,8 @@ function BoardsSheet({ game, onClose, onConfer }) {
   );
 }
 
+const MemoBoardsSheet = memo(BoardsSheet);
+
 function AlertSheet({ game, alerts, onClose, onConfer }) {
   const isMultiple = alerts.length > 1;
   const rows = alerts.map((alert) => {
@@ -1154,6 +1167,8 @@ function AlertSheet({ game, alerts, onClose, onConfer }) {
     </BottomSheet>
   );
 }
+
+const MemoAlertSheet = memo(AlertSheet);
 
 function ConceptDisclosure({ cell, isOpen, onToggle }) {
   const card = cell.id === "FREE" ? null : cardById[cell.id];
@@ -1212,7 +1227,7 @@ function ConceptDisclosure({ cell, isOpen, onToggle }) {
 
 function ConferenceSheet({ game, boardNumber, onClose, onValidated }) {
   const board = boardByNumber[boardNumber];
-  const completedLines = getCompletedLines(board, game.drawnIds);
+  const completedLines = useMemo(() => getCompletedLines(board, game.drawnIds), [board, game.drawnIds]);
   const [selectedLineId, setSelectedLineId] = useState(completedLines[0]?.id);
   const [openConceptId, setOpenConceptId] = useState(null);
   const scrollRef = useRef(null);
@@ -1319,6 +1334,8 @@ function ConferenceSheet({ game, boardNumber, onClose, onValidated }) {
   );
 }
 
+const MemoConferenceSheet = memo(ConferenceSheet);
+
 function Toast({ message }) {
   if (!message) return null;
   return <div className="toast">{message}</div>;
@@ -1362,6 +1379,8 @@ function ConfirmDialog({ isOpen, title, message, confirmLabel, cancelLabel, onCo
   );
 }
 
+const MemoConfirmDialog = memo(ConfirmDialog);
+
 function GameScreen({ game, setGame, onReset }) {
   const [sheet, setSheet] = useState(null);
   const [conferenceBoard, setConferenceBoard] = useState(null);
@@ -1400,7 +1419,14 @@ function GameScreen({ game, setGame, onReset }) {
     }
   }, [drawMode]);
 
-  function presentCard(nextCard, nextDrawCount, commitGame) {
+  const closeSheet = useCallback(() => setSheet(null), []);
+  const closeConference = useCallback(() => setConferenceBoard(null), []);
+  const closeConfirmReset = useCallback(() => setShowConfirmReset(false), []);
+  const openBoardsSheet = useCallback(() => setSheet("boards"), []);
+  const openHistorySheet = useCallback(() => setSheet("history"), []);
+  const reportManualKeyboardOpen = useCallback((isOpen) => setManualKeyboardOpen(isOpen), []);
+
+  const presentCard = useCallback((nextCard, nextDrawCount, commitGame) => {
     if (!nextCard) return;
 
     const shouldAnimate = !window.matchMedia("(prefers-reduced-motion: reduce)").matches;
@@ -1446,60 +1472,69 @@ function GameScreen({ game, setGame, onReset }) {
     });
 
     flightFrames.current.push(firstFrame);
-  }
+  }, [currentCard, setGame]);
 
-  function draw() {
+  const draw = useCallback(() => {
     if (flight || game.deck.length === 0) return;
 
     const nextId = game.deck[0];
     const nextCard = cardById[nextId];
     const nextDrawCount = game.drawnIds.length + 1;
     presentCard(nextCard, nextDrawCount, (current) => drawNext(current));
-  }
+  }, [flight, game.deck, game.drawnIds.length, presentCard]);
 
-  function manualCall(cardId) {
+  const manualCall = useCallback((cardId) => {
     if (flight) return;
     const nextCard = cardById[cardId];
     const nextDrawCount = game.drawnIds.length + 1;
     presentCard(nextCard, nextDrawCount, (current) => drawCardById(current, cardId));
-  }
+  }, [flight, game.drawnIds.length, presentCard]);
 
-  function undo() {
+  const undo = useCallback(() => {
     if (flight) return;
     setGame((current) => undoLastDraw(current));
-  }
+  }, [flight, setGame]);
 
-  function closeAlert() {
+  const closeAlert = useCallback(() => {
     const drawIndex = currentAlertBatch[0]?.drawIndex;
     if (typeof drawIndex === "number") {
       setGame((current) => dismissAlertBatch(current, drawIndex));
     }
-  }
+  }, [currentAlertBatch, setGame]);
 
-  function openConference(boardNumber, alertDrawIndex) {
+  const openConference = useCallback((boardNumber, alertDrawIndex) => {
     setConferenceBoard(boardNumber);
     setSheet(null);
     if (typeof alertDrawIndex === "number") {
       setGame((current) => dismissBoardAlert(current, boardNumber, alertDrawIndex));
     }
-  }
+  }, [setGame]);
 
-  function validated(boardNumber, lineId) {
+  const validated = useCallback((boardNumber, lineId) => {
     setGame((current) => recordValidatedWin(current, boardNumber, lineId));
     setConferenceBoard(null);
     setToast(`Cartela ${boardNumber.toString().padStart(2, "0")} validada`);
     window.setTimeout(() => setToast(""), 2200);
-  }
+  }, [setGame]);
 
-  function newGame() {
+  const newGame = useCallback(() => {
     setShowConfirmReset(true);
-  }
+  }, []);
+
+  const confirmReset = useCallback(() => {
+    setShowConfirmReset(false);
+    // Wait for modal exit animation to start before resetting the board
+    setTimeout(() => {
+      onReset();
+      setSheet(null);
+    }, 300);
+  }, [onReset]);
 
   const drawnCount = game.drawnIds.length;
 
   return (
     <main className={screenClass}>
-      <TopBar game={game} currentCard={currentCard} onOpenBoards={() => setSheet("boards")} />
+      <TopBar game={game} currentCard={currentCard} onOpenBoards={openBoardsSheet} />
 
       <section className="card-stage" aria-live="polite">
         {flight ? (
@@ -1520,44 +1555,37 @@ function GameScreen({ game, setGame, onReset }) {
           game={game}
           onUndo={undo}
           onCall={manualCall}
-          onHistory={() => setSheet("history")}
-          onKeyboardOpenChange={setManualKeyboardOpen}
+          onHistory={openHistorySheet}
+          onKeyboardOpenChange={reportManualKeyboardOpen}
           busy={Boolean(flight)}
         />
       ) : (
-        <BottomControls game={game} onUndo={undo} onDraw={draw} onHistory={() => setSheet("history")} busy={Boolean(flight)} />
+        <BottomControls game={game} onUndo={undo} onDraw={draw} onHistory={openHistorySheet} busy={Boolean(flight)} />
       )}
 
-      {sheet === "history" ? <HistorySheet game={game} onClose={() => setSheet(null)} onNewGame={newGame} /> : null}
-      {sheet === "boards" ? <BoardsSheet game={game} onClose={() => setSheet(null)} onConfer={openConference} /> : null}
+      {sheet === "history" ? <MemoHistorySheet game={game} onClose={closeSheet} onNewGame={newGame} /> : null}
+      {sheet === "boards" ? <MemoBoardsSheet game={game} onClose={closeSheet} onConfer={openConference} /> : null}
       {currentAlertBatch.length > 0 && !conferenceBoard && !flight ? (
-        <AlertSheet game={game} alerts={currentAlertBatch} onClose={closeAlert} onConfer={openConference} />
+        <MemoAlertSheet game={game} alerts={currentAlertBatch} onClose={closeAlert} onConfer={openConference} />
       ) : null}
       {conferenceBoard ? (
-        <ConferenceSheet
+        <MemoConferenceSheet
           game={game}
           boardNumber={conferenceBoard}
-          onClose={() => setConferenceBoard(null)}
+          onClose={closeConference}
           onValidated={validated}
         />
       ) : null}
       <Toast message={toast} />
       
-      <ConfirmDialog
+      <MemoConfirmDialog
         isOpen={showConfirmReset}
         title="Novo jogo?"
         message="Todo o progresso do jogo atual será perdido. Deseja mesmo reiniciar?"
         confirmLabel="Sim, reiniciar"
         cancelLabel="Cancelar"
-        onConfirm={() => {
-          setShowConfirmReset(false);
-          // Wait for modal exit animation to start before resetting the board
-          setTimeout(() => {
-            onReset();
-            setSheet(null);
-          }, 300);
-        }}
-        onCancel={() => setShowConfirmReset(false)}
+        onConfirm={confirmReset}
+        onCancel={closeConfirmReset}
       />
     </main>
   );

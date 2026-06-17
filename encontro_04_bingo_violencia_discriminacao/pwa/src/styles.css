@@ -177,11 +177,13 @@ button {
 }
 
 .board-picker {
-  background: oklch(99% 0.01 84 / 0.72);
-  border: 1px solid var(--line);
+  background: color-mix(in oklch, var(--surface) 72%, var(--paper));
+  border: 1px solid color-mix(in oklch, var(--line) 88%, var(--ink) 4%);
   border-radius: var(--radius-xl);
   padding: 14px;
-  box-shadow: 0 1px 0 oklch(100% 0 0 / 0.65) inset;
+  box-shadow:
+    inset 0 1px 0 color-mix(in oklch, var(--surface) 82%, oklch(100% 0 0 / 0.28)),
+    0 1px 0 oklch(28% 0.02 70 / 0.035);
 }
 
 .picker-head {
@@ -201,14 +203,34 @@ button {
 }
 
 .picker-actions button {
-  border: 1px solid var(--line);
-  background: var(--surface);
+  border: 1px solid color-mix(in oklch, var(--line) 84%, var(--ink) 6%);
+  background: linear-gradient(180deg, var(--surface) 0%, color-mix(in oklch, var(--surface-soft) 88%, var(--paper)) 100%);
   color: var(--ink);
   border-radius: 999px;
   min-height: 34px;
   padding: 0 12px;
   font-size: 13px;
   font-weight: 700;
+  transform: translateY(0);
+  box-shadow:
+    inset 0 1px 0 color-mix(in oklch, var(--surface) 84%, oklch(100% 0 0 / 0.22)),
+    inset 0 -1px 1px oklch(22% 0.014 65 / 0.08),
+    0 2px 0 color-mix(in oklch, var(--line) 84%, var(--ink) 10%),
+    0 3px 3px oklch(28% 0.02 70 / 0.045);
+  transition:
+    transform 120ms cubic-bezier(0.25, 0.46, 0.45, 0.94),
+    box-shadow 120ms cubic-bezier(0.25, 0.46, 0.45, 0.94),
+    border-color 160ms var(--ease-out-quint),
+    background 160ms var(--ease-out-quint);
+}
+
+.picker-actions button:active {
+  transform: translateY(2px) scaleX(0.998) scaleY(0.99);
+  box-shadow:
+    inset 0 1px 0 oklch(100% 0 0 / 0.20),
+    inset 0 -1px 1px oklch(22% 0.014 65 / 0.09),
+    0 1px 0 color-mix(in oklch, var(--line) 80%, var(--ink) 12%),
+    0 2px 2px oklch(28% 0.02 70 / 0.035);
 }
 
 .board-grid {
@@ -219,28 +241,33 @@ button {
 
 .board-button, .mode-option {
   position: relative;
-  border-radius: 14px;
-  background: linear-gradient(180deg, var(--surface) 0%, var(--surface-soft) 100%);
-  border: 1px solid color-mix(in oklch, var(--line) 76%, oklch(100% 0 0));
+  --setup-key-top: color-mix(in oklch, var(--surface) 90%, var(--paper));
+  --setup-key-bottom: color-mix(in oklch, var(--surface-soft) 88%, var(--paper-deep));
+  --setup-key-side: color-mix(in oklch, var(--line) 78%, var(--ink) 14%);
+  --setup-key-side-pressed: color-mix(in oklch, var(--line) 68%, var(--ink) 20%);
+  border-radius: 13px;
+  background: linear-gradient(180deg, var(--setup-key-top) 0%, var(--setup-key-bottom) 100%);
+  border: 1px solid color-mix(in oklch, var(--line) 82%, var(--ink) 5%);
   color: var(--ink);
   font-weight: 750;
   cursor: pointer;
   overflow: hidden;
 
   transform: translateY(0);
+  transform-origin: 50% 78%;
   box-shadow: 
-    inset 0 2px 2px oklch(100% 0 0 / 0.58),
-    inset 0 -1px 2px oklch(20% 0.014 65 / 0.12),
-    0 4px 0 color-mix(in oklch, var(--line) 86%, var(--ink) 12%),
-    0 5px 8px oklch(28% 0.02 70 / 0.08);
+    inset 0 1px 0 color-mix(in oklch, var(--surface) 86%, oklch(100% 0 0 / 0.18)),
+    inset 0 -1px 1px oklch(22% 0.014 65 / 0.12),
+    0 5px 0 var(--setup-key-side),
+    0 6px 4px oklch(28% 0.02 70 / 0.058);
+  text-shadow: none;
 
   transition: 
     transform 120ms cubic-bezier(0.25, 0.46, 0.45, 0.94), 
-    border-color 150ms ease, 
-    background 150ms ease, 
-    color 150ms ease, 
-    box-shadow 120ms cubic-bezier(0.25, 0.46, 0.45, 0.94),
-    filter 200ms ease;
+    border-color 160ms var(--ease-out-quint), 
+    background 160ms var(--ease-out-quint), 
+    color 160ms var(--ease-out-quint), 
+    box-shadow 120ms cubic-bezier(0.25, 0.46, 0.45, 0.94);
 }
 
 .board-button {
@@ -249,37 +276,39 @@ button {
 }
 
 .board-button:not(.selected):hover, .mode-option:not(.selected):hover {
-  filter: brightness(1.03);
+  border-color: color-mix(in oklch, var(--line) 68%, var(--ink) 12%);
+  background: linear-gradient(180deg,
+    color-mix(in oklch, var(--surface) 96%, var(--paper)) 0%,
+    color-mix(in oklch, var(--surface-soft) 92%, var(--paper-deep)) 100%
+  );
   box-shadow: 
-    inset 0 1.5px 1px oklch(100% 0 0), 
-    inset 0 -1px 2px oklch(0% 0 0 / 0.04), 
-    0 5px 0 color-mix(in oklch, var(--line) 90%, var(--ink) 10%), 
-    0 7px 12px oklch(0% 0 0 / 0.15); 
+    inset 0 1px 0 color-mix(in oklch, var(--surface) 88%, oklch(100% 0 0 / 0.20)),
+    inset 0 -1px 1px oklch(22% 0.014 65 / 0.11),
+    0 5px 0 color-mix(in oklch, var(--setup-key-side) 86%, var(--ink) 6%),
+    0 7px 5px oklch(28% 0.02 70 / 0.07);
 }
 
 .board-button:not(.selected):active, .mode-option:not(.selected):active {
   transform: translateY(3px) scaleX(0.998) scaleY(0.99);
-  filter: brightness(0.96);
   box-shadow: 
-    inset 0 2px 2px oklch(100% 0 0 / 0.42),
-    inset 0 -1px 1px oklch(100% 0 0 / 0.14),
-    0 1px 0 color-mix(in oklch, var(--line) 82%, var(--ink) 14%),
-    0 2px 5px oklch(28% 0.02 70 / 0.05);
+    inset 0 1px 0 oklch(100% 0 0 / 0.16),
+    inset 0 -1px 1px oklch(22% 0.014 65 / 0.09),
+    0 2px 0 var(--setup-key-side-pressed),
+    0 3px 3px oklch(28% 0.02 70 / 0.035);
 }
 
 .board-button.selected, .mode-option.selected {
-  background: linear-gradient(180deg,
-    color-mix(in oklch, var(--charcoal) 88%, var(--paper-deep)) 0%,
-    color-mix(in oklch, var(--charcoal) 96%, oklch(12% 0.01 65)) 100%
-  );
+  background: linear-gradient(180deg, color-mix(in oklch, var(--charcoal) 90%, var(--paper-deep)) 0%, var(--charcoal) 100%);
   color: color-mix(in oklch, var(--surface) 92%, var(--paper-deep));
-  border-color: color-mix(in oklch, var(--charcoal) 70%, var(--line));
+  border-color: color-mix(in oklch, var(--charcoal) 78%, var(--line));
   transform: translateY(3px) scaleX(0.998) scaleY(0.99);
   box-shadow: 
-    inset 0 2px 2px oklch(100% 0 0 / 0.12),
-    inset 0 -1px 1px oklch(0% 0 0 / 0.28),
-    0 1px 0 color-mix(in oklch, var(--charcoal) 52%, var(--line)),
-    0 2px 5px oklch(20% 0.014 65 / 0.12);
+    inset 0 1px 0 oklch(100% 0 0 / 0.06),
+    inset 0 2px 3px oklch(12% 0.01 65 / 0.20),
+    inset 0 -1px 1px oklch(100% 0 0 / 0.05),
+    0 2px 0 color-mix(in oklch, var(--charcoal) 62%, var(--line)),
+    0 3px 3px oklch(20% 0.014 65 / 0.08);
+  text-shadow: none;
 }
 
 .call-mode-picker {
@@ -362,9 +391,9 @@ button {
   width: 100%;
   padding: 18px 20px calc(18px + var(--safe-bottom));
   z-index: 5;
-  backdrop-filter: blur(10px);
-  -webkit-backdrop-filter: blur(10px);
-  background: linear-gradient(180deg, oklch(96.5% 0.014 78 / 0.15) 0%, oklch(96.5% 0.014 78 / 0.90) 40%, var(--paper) 100%);
+  backdrop-filter: none;
+  -webkit-backdrop-filter: none;
+  background: linear-gradient(180deg, oklch(96.5% 0.014 78 / 0) 0%, oklch(96.5% 0.014 78 / 0.92) 42%, var(--paper) 100%);
   border-top: 1px solid oklch(100% 0 0 / 0.06);
 }
 
@@ -750,14 +779,15 @@ button {
   justify-content: center;
   padding: 0 16px;
   border-radius: 15px;
-  background:
-    radial-gradient(circle at 30% 18%, oklch(100% 0 0 / 0.30), transparent 32%),
-    linear-gradient(180deg, color-mix(in oklch, var(--card-accent) 78%, oklch(100% 0 0)) 0%, var(--card-accent) 100%);
+  background: linear-gradient(180deg, color-mix(in oklch, var(--card-accent) 72%, var(--surface)) 0%, var(--card-accent) 100%);
   color: var(--surface);
   font-size: 22px;
   font-weight: 850;
   letter-spacing: 0;
-  box-shadow: none;
+  box-shadow:
+    inset 0 1px 0 oklch(100% 0 0 / 0.10),
+    inset 0 -1px 0 color-mix(in oklch, var(--card-accent) 76%, oklch(16% 0.014 65 / 0.22)),
+    0 2px 0 color-mix(in oklch, var(--card-accent) 66%, oklch(22% 0.014 65));
   text-shadow: none;
 }
 
@@ -919,40 +949,8 @@ button {
   gap: 24px;
   overflow: hidden;
   background:
-    /* Soft top-left highlight */
-    radial-gradient(circle at 18% 18%, oklch(100% 0 0 / 0.5), transparent 28%),
-    /* Edge fade to contain the sunburst */
-    radial-gradient(circle at 50% 46%, transparent 0 42%, oklch(98% 0.012 82 / 0.72) 72%),
-    /* Center glow, restrained so the printed rays stay visible */
-    radial-gradient(circle at 50% 46%, oklch(99% 0.01 82 / 0.55) 0%, transparent 30%),
-    /* Colorful sunburst using BINGO colors */
-    repeating-conic-gradient(from 0deg at 50% 46%,
-      color-mix(in oklch, var(--col-b) 40%, transparent) 0deg 10deg,
-      transparent 10deg 20deg,
-      color-mix(in oklch, var(--col-i) 40%, transparent) 20deg 30deg,
-      transparent 30deg 40deg,
-      color-mix(in oklch, var(--col-n) 36%, transparent) 40deg 50deg,
-      transparent 50deg 60deg,
-      color-mix(in oklch, var(--col-g) 36%, transparent) 60deg 70deg,
-      transparent 70deg 80deg,
-      color-mix(in oklch, var(--col-o) 36%, transparent) 80deg 90deg,
-      transparent 90deg 100deg
-    ),
-    /* Secondary thinner offset rays for depth */
-    repeating-conic-gradient(from 10deg at 50% 46%,
-      transparent 0deg 14deg,
-      color-mix(in oklch, var(--col-b) 10%, transparent) 14deg 16deg,
-      transparent 16deg 30deg,
-      color-mix(in oklch, var(--col-i) 10%, transparent) 30deg 32deg,
-      transparent 32deg 46deg,
-      color-mix(in oklch, var(--col-n) 9%, transparent) 46deg 48deg,
-      transparent 48deg 62deg,
-      color-mix(in oklch, var(--col-g) 9%, transparent) 62deg 64deg,
-      transparent 64deg 78deg,
-      color-mix(in oklch, var(--col-o) 9%, transparent) 78deg 80deg,
-      transparent 80deg 94deg
-    ),
-    /* Warm paper base */
+    repeating-linear-gradient(90deg, color-mix(in oklch, var(--line) 20%, transparent) 0 1px, transparent 1px 22px),
+    repeating-linear-gradient(0deg, color-mix(in oklch, var(--line) 14%, transparent) 0 1px, transparent 1px 22px),
     linear-gradient(180deg, oklch(98.6% 0.012 82) 0%, oklch(96.2% 0.014 80) 100%);
   animation: waiting-card 900ms cubic-bezier(0.22, 1, 0.36, 1) both;
 }
@@ -1016,10 +1014,7 @@ button {
 }
 .back-symbol span:nth-child(3) {
   --tile-color: var(--col-n);
-  background:
-    radial-gradient(circle at 50% 50%, oklch(100% 0 0 / 0.14) 0%, transparent 25%),
-    var(--tile-color);
-  background-size: 12px 12px, 100% 100%;
+  background: var(--tile-color);
 }
 .back-symbol span:nth-child(4) {
   --tile-color: var(--col-g);
@@ -1029,10 +1024,7 @@ button {
 }
 .back-symbol span:nth-child(5) {
   --tile-color: var(--col-o);
-  background:
-    radial-gradient(circle at 50% 50%, oklch(100% 0 0 / 0.16) 0%, transparent 30%),
-    var(--tile-color);
-  background-size: 14px 14px, 100% 100%;
+  background: var(--tile-color);
 }
 
 /* Missing screws - cover specific screws with empty holes */
@@ -1574,7 +1566,7 @@ button {
     0 5px 0 color-mix(in oklch, var(--col-key) 34%, oklch(18% 0.014 65 / 0.24)),
     0 6px 10px color-mix(in oklch, var(--col-key) 18%, oklch(18% 0.014 65 / 0.16));
   
-  text-shadow: 0 1px 1px color-mix(in oklch, var(--col-key) 18%, oklch(100% 0 0 / 0.72));
+  text-shadow: none;
   
   transition: 
     transform 120ms cubic-bezier(0.25, 0.46, 0.45, 0.94),
@@ -1612,7 +1604,7 @@ button {
     color-mix(in oklch, var(--col-key) 14%, var(--surface)) 100%
   );
   color: color-mix(in oklch, var(--col-key) 82%, var(--ink));
-  text-shadow: 0 1px 1px color-mix(in oklch, var(--col-key) 18%, oklch(100% 0 0 / 0.58));
+  text-shadow: none;
   transform: translateY(3px) scaleX(0.998) scaleY(0.99);
   z-index: 2;
   box-shadow:
@@ -1637,14 +1629,13 @@ button {
     color-mix(in oklch, var(--col-key) 4%, var(--surface-soft)) 100%
   );
   color: color-mix(in oklch, var(--col-key) 28%, var(--muted));
-  text-shadow: 0 1px 1px color-mix(in oklch, var(--col-key) 10%, oklch(100% 0 0 / 0.62));
+  text-shadow: none;
   transform: translateY(2px) scaleX(0.998) scaleY(0.995);
   box-shadow:
     inset 0 2px 2px color-mix(in oklch, var(--col-key) 10%, oklch(100% 0 0 / 0.46)),
     inset 0 -1px 2px color-mix(in oklch, var(--col-key) 8%, oklch(20% 0.014 65 / 0.18)),
     0 2px 0 color-mix(in oklch, var(--col-key) 14%, oklch(18% 0.014 65 / 0.18)),
     0 3px 6px color-mix(in oklch, var(--col-key) 6%, oklch(18% 0.014 65 / 0.1));
-  filter: saturate(0.64);
 }
 
 .manual-number:disabled {
@@ -1733,9 +1724,9 @@ button {
   border: 0;
   width: 100%;
   height: 100%;
-  background: oklch(18% 0.012 65 / 0.38);
-  backdrop-filter: blur(5px);
-  -webkit-backdrop-filter: blur(5px);
+  background: oklch(18% 0.012 65 / 0.34);
+  backdrop-filter: none;
+  -webkit-backdrop-filter: none;
   animation: sheet-backdrop-in 220ms cubic-bezier(0.22, 1, 0.36, 1) backwards;
   touch-action: none;
 }
@@ -1759,8 +1750,8 @@ button {
   border-bottom: 0;
   padding: 8px 14px calc(14px + var(--safe-bottom));
   box-shadow:
-    0 -24px 70px oklch(20% 0.02 60 / 0.24),
-    0 -1px 0 oklch(100% 0 0 / 0.72) inset;
+    0 -14px 28px oklch(20% 0.02 60 / 0.16),
+    0 -1px 0 oklch(100% 0 0 / 0.34) inset;
   transform: translateY(var(--sheet-drag, 0px));
   animation: sheet-up 260ms cubic-bezier(0.16, 1, 0.3, 1) backwards;
   transition: transform 220ms cubic-bezier(0.22, 1, 0.36, 1);
@@ -1797,7 +1788,9 @@ button {
   height: 5px;
   border-radius: 999px;
   background: oklch(76% 0.018 76);
-  box-shadow: 0 1px 0 oklch(100% 0 0 / 0.84) inset;
+  box-shadow:
+    inset 0 1px 0 oklch(100% 0 0 / 0.22),
+    inset 0 -1px 0 oklch(24% 0.014 65 / 0.12);
 }
 
 .sheet-head {
@@ -1900,8 +1893,10 @@ button {
   background:
     linear-gradient(180deg, oklch(99% 0.01 82) 0%, oklch(96.8% 0.012 80) 100%);
   box-shadow:
-    0 1px 2px oklch(28% 0.02 70 / 0.045),
-    inset 0 1px 0 oklch(100% 0 0 / 0.75);
+    inset 0 1px 0 oklch(100% 0 0 / 0.28),
+    inset 0 -1px 0 oklch(24% 0.014 65 / 0.055),
+    0 2px 0 color-mix(in oklch, var(--line) 72%, var(--ink) 8%),
+    0 3px 4px oklch(28% 0.02 70 / 0.045);
 }
 
 .materials-sheet,
@@ -1932,9 +1927,12 @@ button {
   padding: 14px 16px;
   margin-bottom: 12px;
   border-radius: 18px;
-  background: color-mix(in oklch, var(--line) 15%, var(--surface));
-  border: 1px solid color-mix(in oklch, var(--line) 40%, transparent);
-  box-shadow: 0 2px 8px color-mix(in oklch, var(--line) 15%, transparent);
+  background: linear-gradient(180deg, color-mix(in oklch, var(--surface) 94%, var(--paper)), color-mix(in oklch, var(--surface-soft) 86%, var(--paper)));
+  border: 1px solid color-mix(in oklch, var(--line) 76%, var(--ink) 5%);
+  box-shadow:
+    inset 0 1px 0 oklch(100% 0 0 / 0.24),
+    0 3px 0 color-mix(in oklch, var(--line) 76%, var(--ink) 10%),
+    0 4px 5px oklch(28% 0.02 70 / 0.045);
   animation: sheet-row-in 240ms cubic-bezier(0.22, 1, 0.36, 1) backwards;
   transition: transform 150ms ease, background 150ms ease, box-shadow 150ms ease;
 }
@@ -1944,7 +1942,7 @@ button {
 }
 
 .material-row:hover {
-  background: color-mix(in oklch, var(--line) 25%, var(--surface));
+  background: linear-gradient(180deg, var(--surface), color-mix(in oklch, var(--surface-soft) 92%, var(--paper)));
 }
 
 .material-row:nth-child(2) {
@@ -1954,7 +1952,7 @@ button {
 button.material-row {
   width: 100%;
   border: 0;
-  background: color-mix(in oklch, var(--line) 15%, var(--surface));
+  background: linear-gradient(180deg, color-mix(in oklch, var(--surface) 94%, var(--paper)), color-mix(in oklch, var(--surface-soft) 86%, var(--paper)));
   font: inherit;
   text-align: left;
   cursor: pointer;
@@ -1968,8 +1966,11 @@ button.material-row[aria-busy="true"] {
 
 .material-row:active {
   transform: translateY(2px) scaleX(0.998) scaleY(0.99);
-  background: color-mix(in oklch, var(--line) 30%, var(--surface));
-  box-shadow: 0 1px 2px color-mix(in oklch, var(--line) 10%, transparent);
+  background: linear-gradient(180deg, color-mix(in oklch, var(--surface-soft) 94%, var(--paper)), color-mix(in oklch, var(--surface-soft) 88%, var(--paper-deep)));
+  box-shadow:
+    inset 0 1px 0 oklch(100% 0 0 / 0.16),
+    0 1px 0 color-mix(in oklch, var(--line) 72%, var(--ink) 10%),
+    0 2px 3px oklch(28% 0.02 70 / 0.032);
 }
 
 .material-icon {
@@ -1979,8 +1980,11 @@ button.material-row[aria-busy="true"] {
   display: grid;
   place-items: center;
   color: var(--surface);
-  background: var(--ink);
-  box-shadow: inset 0 1.5px 1px oklch(100% 0 0 / 0.25);
+  background: linear-gradient(180deg, color-mix(in oklch, var(--charcoal) 88%, var(--paper-deep)), var(--charcoal));
+  box-shadow:
+    inset 0 1px 0 oklch(100% 0 0 / 0.06),
+    inset 0 -1px 0 oklch(10% 0.01 65 / 0.28),
+    0 2px 0 color-mix(in oklch, var(--charcoal) 62%, var(--line));
 }
 
 .material-icon svg {
@@ -2055,18 +2059,18 @@ button.material-row[aria-busy="true"] .material-icon svg {
   content: counter(rules);
   width: 28px;
   height: 28px;
-  border-radius: 999px;
+  border-radius: 9px;
   display: grid;
   place-items: center;
-  background:
-    radial-gradient(circle at 35% 24%, oklch(100% 0 0 / 0.46), transparent 36%),
-    var(--charcoal);
+  background: linear-gradient(180deg, color-mix(in oklch, var(--charcoal) 88%, var(--paper-deep)), var(--charcoal));
   color: var(--surface);
   font-size: 12px;
   font-weight: 900;
   box-shadow:
-    inset 0 1px 0 oklch(100% 0 0 / 0.18),
-    0 2px 4px oklch(28% 0.02 70 / 0.08);
+    inset 0 1px 0 oklch(100% 0 0 / 0.06),
+    inset 0 -1px 0 oklch(10% 0.01 65 / 0.22),
+    0 2px 0 color-mix(in oklch, var(--charcoal) 62%, var(--line)),
+    0 3px 3px oklch(28% 0.02 70 / 0.05);
 }
 
 .rule-copy {
@@ -2134,8 +2138,10 @@ button.material-row[aria-busy="true"] .material-icon svg {
   background:
     linear-gradient(180deg, color-mix(in oklch, var(--row-accent) 5%, var(--surface)), oklch(97% 0.012 80));
   box-shadow:
-    0 8px 18px color-mix(in oklch, var(--row-accent) 5%, transparent),
-    inset 0 1px 0 oklch(100% 0 0 / 0.72);
+    inset 0 1px 0 oklch(100% 0 0 / 0.22),
+    inset 0 -1px 0 color-mix(in oklch, var(--row-accent) 8%, oklch(24% 0.014 65 / 0.08)),
+    0 2px 0 color-mix(in oklch, var(--row-accent) 14%, var(--line)),
+    0 4px 5px color-mix(in oklch, var(--row-accent) 5%, oklch(28% 0.02 70 / 0.035));
 }
 
 .history-summary {
@@ -2181,18 +2187,17 @@ button.material-row[aria-busy="true"] .material-icon svg {
   display: grid;
   place-items: center;
   border-radius: 10px;
-  background:
-    radial-gradient(circle at 32% 22%, oklch(100% 0 0 / 0.30), transparent 34%),
-    linear-gradient(180deg, color-mix(in oklch, var(--row-accent) 78%, oklch(100% 0 0)) 0%, var(--row-accent) 100%);
+  background: linear-gradient(180deg, color-mix(in oklch, var(--row-accent) 78%, var(--surface)) 0%, var(--row-accent) 100%);
   color: var(--surface);
   font-family: Georgia, Cambria, "Times New Roman", serif;
   font-size: 14.5px;
   font-weight: 800;
-  text-shadow: 0 1px 1px oklch(0% 0 0 / 0.20);
+  text-shadow: none;
   box-shadow:
-    inset 0 1px 1px oklch(100% 0 0 / 0.28),
+    inset 0 1px 0 oklch(100% 0 0 / 0.14),
+    inset 0 -1px 0 color-mix(in oklch, var(--row-accent) 76%, oklch(15% 0.014 65 / 0.28)),
     0 2px 0 color-mix(in oklch, var(--row-accent) 72%, oklch(22% 0.02 65)),
-    0 5px 10px color-mix(in oklch, var(--row-accent) 20%, transparent);
+    0 3px 3px color-mix(in oklch, var(--row-accent) 14%, oklch(28% 0.02 70 / 0.04));
 }
 
 .history-label {
@@ -2352,21 +2357,21 @@ button.material-row[aria-busy="true"] .material-icon svg {
 }
 
 @keyframes dialog-fade-in {
-  from { opacity: 0; backdrop-filter: blur(0px); -webkit-backdrop-filter: blur(0px); }
-  100% { opacity: 1; backdrop-filter: blur(4px); -webkit-backdrop-filter: blur(4px); }
+  from { opacity: 0; }
+  100% { opacity: 1; }
 }
 
 @keyframes dialog-fade-out {
-  0% { opacity: 1; backdrop-filter: blur(4px); -webkit-backdrop-filter: blur(4px); }
-  100% { opacity: 0; backdrop-filter: blur(0px); -webkit-backdrop-filter: blur(0px); }
+  0% { opacity: 1; }
+  100% { opacity: 0; }
 }
 
 .dialog-backdrop {
   position: absolute;
   inset: 0;
-  background: oklch(18% 0.014 65 / 0.34);
-  backdrop-filter: blur(4px);
-  -webkit-backdrop-filter: blur(4px);
+  background: oklch(18% 0.014 65 / 0.32);
+  backdrop-filter: none;
+  -webkit-backdrop-filter: none;
   border: 0;
   width: 100%;
   height: 100%;
@@ -2391,9 +2396,9 @@ button.material-row[aria-busy="true"] .material-icon svg {
   text-align: center;
   border: 1px solid color-mix(in oklch, var(--line) 82%, oklch(100% 0 0));
   box-shadow: 
-    0 24px 60px oklch(0% 0 0 / 0.16),
-    0 4px 12px oklch(0% 0 0 / 0.04),
-    inset 0 1px 0 oklch(100% 0 0 / 0.85);
+    0 14px 28px oklch(18% 0.014 65 / 0.14),
+    0 3px 0 color-mix(in oklch, var(--line) 72%, var(--ink) 10%),
+    inset 0 1px 0 oklch(100% 0 0 / 0.28);
   transform-origin: center bottom;
   animation: dialog-pop 260ms var(--ease-out-expo) both;
 }
@@ -2461,7 +2466,8 @@ button.material-row[aria-busy="true"] .material-icon svg {
   transition: 
     transform 120ms cubic-bezier(0.25, 0.46, 0.45, 0.94), 
     box-shadow 120ms cubic-bezier(0.25, 0.46, 0.45, 0.94),
-    filter 200ms ease;
+    background 160ms var(--ease-out-quint),
+    border-color 160ms var(--ease-out-quint);
 }
 
 .dialog-btn-cancel {
@@ -2470,49 +2476,49 @@ button.material-row[aria-busy="true"] .material-icon svg {
   border: 1px solid color-mix(in oklch, var(--line) 82%, oklch(100% 0 0));
   font-weight: 750;
   box-shadow: 
-    inset 0 2px 2px oklch(100% 0 0 / 0.58),
-    inset 0 -1px 2px oklch(20% 0.014 65 / 0.12),
+    inset 0 1px 0 oklch(100% 0 0 / 0.22),
+    inset 0 -1px 1px oklch(20% 0.014 65 / 0.12),
     0 4px 0 color-mix(in oklch, var(--line) 84%, var(--ink) 12%),
-    0 5px 7px oklch(28% 0.02 70 / 0.08);
+    0 5px 4px oklch(28% 0.02 70 / 0.055);
 }
 
 .dialog-btn-cancel:hover {
-  filter: brightness(1.03);
+  border-color: color-mix(in oklch, var(--line) 68%, var(--ink) 12%);
+  background: linear-gradient(180deg, var(--surface) 0%, color-mix(in oklch, var(--surface-soft) 92%, var(--paper-deep)) 100%);
 }
 
 .dialog-btn-cancel:active {
   transform: translateY(3px) scaleX(0.998) scaleY(0.99);
-  filter: brightness(0.96);
   box-shadow: 
-    inset 0 2px 2px oklch(100% 0 0 / 0.42),
-    inset 0 -1px 1px oklch(100% 0 0 / 0.14),
+    inset 0 1px 0 oklch(100% 0 0 / 0.16),
+    inset 0 -1px 1px oklch(20% 0.014 65 / 0.10),
     0 1px 0 color-mix(in oklch, var(--line) 82%, var(--ink) 14%),
-    0 2px 5px oklch(28% 0.02 70 / 0.05);
+    0 2px 3px oklch(28% 0.02 70 / 0.04);
 }
 
 .dialog-btn-danger {
-  background: linear-gradient(180deg, color-mix(in oklch, var(--danger) 85%, oklch(100% 0 0)) 0%, var(--danger) 100%);
+  background: linear-gradient(180deg, color-mix(in oklch, var(--danger) 72%, var(--surface)) 0%, var(--danger) 100%);
   color: var(--surface);
-  border: 1px solid color-mix(in oklch, var(--danger) 80%, oklch(0% 0 0));
+  border: 1px solid color-mix(in oklch, var(--danger) 72%, var(--ink));
   font-weight: 800;
-  text-shadow: 0 1px 1px oklch(0% 0 0 / 0.25);
+  text-shadow: none;
   box-shadow: 
-    inset 0 1.5px 1px oklch(100% 0 0 / 0.35),
-    0 4px 0 color-mix(in oklch, var(--danger) 60%, oklch(0% 0 0)),
-    0 5px 8px oklch(0% 0 0 / 0.15);
+    inset 0 1px 0 oklch(100% 0 0 / 0.10),
+    inset 0 -1px 0 color-mix(in oklch, var(--danger) 70%, oklch(13% 0.01 65 / 0.26)),
+    0 4px 0 color-mix(in oklch, var(--danger) 58%, var(--ink)),
+    0 5px 4px oklch(18% 0.014 65 / 0.10);
 }
 
 .dialog-btn-danger:hover {
-  filter: brightness(1.08) saturate(1.05);
+  background: linear-gradient(180deg, color-mix(in oklch, var(--danger) 76%, var(--surface)) 0%, var(--danger) 100%);
 }
 
 .dialog-btn-danger:active {
   transform: translateY(3px) scaleX(0.998) scaleY(0.99);
-  filter: brightness(0.92);
   box-shadow: 
-    inset 0 1.5px 1px oklch(100% 0 0 / 0.35),
-    0 0 0 color-mix(in oklch, var(--danger) 60%, oklch(0% 0 0)),
-    0 1px 2px oklch(0% 0 0 / 0.1);
+    inset 0 1px 0 oklch(100% 0 0 / 0.07),
+    0 1px 0 color-mix(in oklch, var(--danger) 65%, var(--ink)),
+    0 2px 3px oklch(18% 0.014 65 / 0.07);
 }
 
 .board-row {
@@ -2562,17 +2568,18 @@ button.material-row[aria-busy="true"] .material-icon svg {
   background:
     linear-gradient(180deg, color-mix(in oklch, var(--ready) 8%, var(--surface)) 0%, color-mix(in oklch, var(--ready) 13%, var(--surface-soft)) 100%);
   box-shadow:
-    inset 0 1px 0 oklch(100% 0 0 / 0.72),
+    inset 0 1px 0 oklch(100% 0 0 / 0.22),
+    inset 0 -1px 0 color-mix(in oklch, var(--ready) 8%, oklch(24% 0.014 65 / 0.08)),
     0 2px 0 color-mix(in oklch, var(--ready) 24%, var(--line)),
-    0 7px 14px color-mix(in oklch, var(--ready) 8%, transparent);
+    0 4px 5px color-mix(in oklch, var(--ready) 5%, oklch(28% 0.02 70 / 0.035));
 }
 
 .board-row.ready:active {
   transform: translateY(2px) scaleX(0.998) scaleY(0.99);
   box-shadow:
-    inset 0 1px 0 oklch(100% 0 0 / 0.62),
+    inset 0 1px 0 oklch(100% 0 0 / 0.16),
     0 1px 0 color-mix(in oklch, var(--ready) 24%, var(--line)),
-    0 3px 8px color-mix(in oklch, var(--ready) 6%, transparent);
+    0 2px 3px color-mix(in oklch, var(--ready) 4%, oklch(28% 0.02 70 / 0.03));
 }
 
 .board-row.ready:focus-visible {
@@ -2586,12 +2593,13 @@ button.material-row[aria-busy="true"] .material-icon svg {
   justify-self: end;
   flex: 0 0 auto;
   padding: 4px;
-  border-radius: 999px;
+  border-radius: 8px;
   background: color-mix(in oklch, var(--ready) 16%, var(--surface));
   color: var(--ready-deep);
   box-shadow:
-    inset 0 1px 0 oklch(100% 0 0 / 0.70),
-    0 1px 2px color-mix(in oklch, var(--ready) 10%, transparent);
+    inset 0 1px 0 oklch(100% 0 0 / 0.20),
+    inset 0 -1px 0 color-mix(in oklch, var(--ready) 8%, oklch(24% 0.014 65 / 0.08)),
+    0 1px 0 color-mix(in oklch, var(--ready) 14%, var(--line));
 }
 
 .board-row small {
@@ -2622,8 +2630,9 @@ button.material-row[aria-busy="true"] .material-icon svg {
   background:
     linear-gradient(180deg, oklch(96.5% 0.012 80) 0%, oklch(92.5% 0.015 78) 100%);
   box-shadow:
-    inset 0 1px 0 oklch(100% 0 0 / 0.76),
-    0 1px 2px oklch(28% 0.02 70 / 0.05);
+    inset 0 1px 0 oklch(100% 0 0 / 0.24),
+    inset 0 -1px 0 oklch(24% 0.014 65 / 0.06),
+    0 2px 0 color-mix(in oklch, var(--line) 72%, var(--ink) 8%);
   line-height: 0;
 }
 
@@ -2643,26 +2652,25 @@ button.material-row[aria-busy="true"] .material-icon svg {
   block-size: 100%;
   min-inline-size: 0;
   min-block-size: 0;
-  border-radius: 999px;
-  background:
-    radial-gradient(circle at 34% 28%, oklch(100% 0 0 / 0.70), transparent 36%),
-    oklch(84% 0.014 76);
+  border-radius: 5px;
+  background: oklch(82% 0.014 76);
   border: 1px solid oklch(76% 0.018 76);
-  box-shadow: inset 0 -1px 1px oklch(45% 0.018 76 / 0.10);
+  box-shadow:
+    inset 0 1px 0 oklch(100% 0 0 / 0.14),
+    inset 0 -1px 0 oklch(45% 0.018 76 / 0.12);
 }
 
 .mini-board span.marked {
-  background:
-    radial-gradient(circle at 34% 25%, oklch(100% 0 0 / 0.26), transparent 35%),
-    linear-gradient(180deg, color-mix(in oklch, var(--stamp) 86%, oklch(100% 0 0)) 0%, var(--stamp) 100%);
+  background: var(--stamp);
   border-color: var(--stamp-deep);
   box-shadow:
-    inset 0 1px 0 oklch(100% 0 0 / 0.16),
-    0 1px 2px color-mix(in oklch, var(--stamp) 18%, transparent);
+    inset 0 1px 0 oklch(100% 0 0 / 0.10),
+    inset 0 -1px 0 color-mix(in oklch, var(--stamp-deep) 74%, oklch(12% 0.01 65 / 0.20)),
+    0 1px 0 color-mix(in oklch, var(--stamp-deep) 72%, var(--line));
 }
 
 .mini-board span.highlighted {
-  outline: 3px solid color-mix(in oklch, var(--stamp) 34%, transparent);
+  outline: 2px solid color-mix(in oklch, var(--stamp) 54%, var(--line));
   outline-offset: 1px;
 }
 
@@ -2708,9 +2716,10 @@ button.material-row[aria-busy="true"] .material-icon svg {
   color: var(--ink);
   text-align: left;
   box-shadow:
-    inset 0 1px 0 oklch(100% 0 0 / 0.72),
+    inset 0 1px 0 oklch(100% 0 0 / 0.24),
+    inset 0 -1px 0 color-mix(in oklch, var(--ready) 8%, oklch(24% 0.014 65 / 0.08)),
     0 2px 0 color-mix(in oklch, var(--ready) 18%, var(--line)),
-    0 5px 10px color-mix(in oklch, var(--ready) 7%, transparent);
+    0 4px 5px color-mix(in oklch, var(--ready) 5%, oklch(28% 0.02 70 / 0.035));
   transition:
     transform 180ms cubic-bezier(0.22, 1, 0.36, 1),
     border-color 180ms,
@@ -2720,9 +2729,9 @@ button.material-row[aria-busy="true"] .material-icon svg {
 .alert-board-button:active {
   transform: translateY(2px) scaleX(0.998) scaleY(0.99);
   box-shadow:
-    inset 0 1px 0 oklch(100% 0 0 / 0.62),
+    inset 0 1px 0 oklch(100% 0 0 / 0.18),
     0 1px 0 color-mix(in oklch, var(--ready) 18%, var(--line)),
-    0 2px 6px color-mix(in oklch, var(--ready) 6%, transparent);
+    0 2px 3px color-mix(in oklch, var(--ready) 4%, oklch(28% 0.02 70 / 0.03));
 }
 
 .alert-board-button:not(:disabled):hover {
@@ -2819,7 +2828,7 @@ button.material-row[aria-busy="true"] .material-icon svg {
   bottom: 0;
   z-index: 1;
   height: 38px;
-  background: linear-gradient(0deg, var(--surface) 0%, color-mix(in oklch, var(--surface) 72%, transparent) 56%, transparent 100%);
+  background: linear-gradient(0deg, var(--surface) 0%, color-mix(in oklch, var(--surface) 80%, transparent) 62%, transparent 100%);
   pointer-events: none;
 }
 
@@ -2848,15 +2857,16 @@ button.material-row[aria-busy="true"] .material-icon svg {
 .line-tabs button {
   min-height: 46px;
   border-radius: 14px;
-  border: 1px solid color-mix(in oklch, var(--line) 82%, oklch(100% 0 0));
-  background:
-    linear-gradient(180deg, oklch(98.8% 0.011 82), oklch(95.8% 0.012 80));
+  border: 1px solid color-mix(in oklch, var(--line) 82%, var(--ink) 5%);
+  background: color-mix(in oklch, var(--surface) 84%, var(--paper));
   text-align: left;
   padding: 8px 12px;
   color: var(--ink);
   box-shadow:
-    inset 0 1px 0 oklch(100% 0 0 / 0.66),
-    0 1px 2px oklch(28% 0.02 70 / 0.035);
+    inset 0 1px 0 oklch(100% 0 0 / 0.22),
+    inset 0 -1px 0 oklch(24% 0.014 65 / 0.055),
+    0 3px 0 color-mix(in oklch, var(--line) 72%, var(--ink) 10%),
+    0 4px 3px oklch(28% 0.02 70 / 0.035);
   transition:
     border-color 160ms cubic-bezier(0.22, 1, 0.36, 1),
     background 160ms cubic-bezier(0.22, 1, 0.36, 1),
@@ -2864,16 +2874,23 @@ button.material-row[aria-busy="true"] .material-icon svg {
 }
 
 .line-tabs button.selected {
-  border-color: color-mix(in oklch, var(--ink) 28%, var(--line));
-  background:
-    linear-gradient(180deg, color-mix(in oklch, var(--surface) 76%, var(--paper-deep)), var(--paper-deep));
+  border-color: color-mix(in oklch, var(--charcoal) 50%, var(--line));
+  background: color-mix(in oklch, var(--charcoal) 92%, var(--paper-deep));
+  color: color-mix(in oklch, var(--surface) 92%, var(--paper-deep));
+  transform: translateY(2px) scaleX(0.998) scaleY(0.99);
   box-shadow:
-    inset 0 2px 3px oklch(24% 0.014 65 / 0.08),
-    0 1px 0 color-mix(in oklch, var(--line) 72%, transparent);
+    inset 0 1px 0 oklch(100% 0 0 / 0.06),
+    inset 0 2px 3px oklch(12% 0.01 65 / 0.18),
+    0 1px 0 color-mix(in oklch, var(--charcoal) 62%, var(--line)),
+    0 2px 2px oklch(20% 0.014 65 / 0.06);
 }
 
 .line-tabs button:active {
   transform: translateY(2px) scaleX(0.998) scaleY(0.99);
+  box-shadow:
+    inset 0 1px 0 oklch(100% 0 0 / 0.16),
+    0 1px 0 color-mix(in oklch, var(--line) 72%, var(--ink) 10%),
+    0 2px 2px oklch(28% 0.02 70 / 0.025);
 }
 
 .line-tabs span {
@@ -2908,13 +2925,14 @@ button.material-row[aria-busy="true"] .material-icon svg {
 .concept-item {
   overflow: hidden;
   scroll-margin: 12px;
-  border: 1px solid color-mix(in oklch, var(--line) 82%, oklch(100% 0 0));
+  border: 1px solid color-mix(in oklch, var(--line) 82%, var(--ink) 5%);
   border-radius: 18px;
-  background:
-    linear-gradient(180deg, oklch(99% 0.011 82), oklch(96.8% 0.012 80));
+  background: color-mix(in oklch, var(--surface) 84%, var(--paper));
   box-shadow:
-    0 1px 2px oklch(28% 0.02 70 / 0.04),
-    inset 0 1px 0 oklch(100% 0 0 / 0.72);
+    inset 0 1px 0 oklch(100% 0 0 / 0.24),
+    inset 0 -1px 0 oklch(24% 0.014 65 / 0.055),
+    0 2px 0 color-mix(in oklch, var(--line) 72%, var(--ink) 8%),
+    0 3px 4px oklch(28% 0.02 70 / 0.035);
   transition:
     border-color 180ms cubic-bezier(0.22, 1, 0.36, 1),
     background 180ms cubic-bezier(0.22, 1, 0.36, 1),
@@ -2922,12 +2940,13 @@ button.material-row[aria-busy="true"] .material-icon svg {
 }
 
 .concept-item.open {
-  border-color: color-mix(in oklch, var(--concept-accent) 34%, var(--line));
-  background:
-    linear-gradient(180deg, color-mix(in oklch, var(--concept-accent) 5%, var(--surface)), oklch(97% 0.012 80));
+  border-color: color-mix(in oklch, var(--charcoal) 26%, var(--line));
+  background: color-mix(in oklch, var(--surface) 76%, var(--paper-deep));
   box-shadow:
-    0 8px 18px color-mix(in oklch, var(--concept-accent) 6%, transparent),
-    inset 0 1px 0 oklch(100% 0 0 / 0.72);
+    inset 0 1px 0 oklch(100% 0 0 / 0.20),
+    inset 0 -1px 0 oklch(24% 0.014 65 / 0.075),
+    0 2px 0 color-mix(in oklch, var(--line) 70%, var(--ink) 10%),
+    0 4px 4px oklch(28% 0.02 70 / 0.035);
 }
 
 .concept-summary {
@@ -2965,21 +2984,18 @@ button.material-row[aria-busy="true"] .material-icon svg {
   display: grid;
   place-items: center;
   border-radius: 10px;
-  background:
-    radial-gradient(circle at 30% 20%, oklch(100% 0 0 / 0.18), transparent 34%),
-    linear-gradient(180deg, color-mix(in oklch, var(--concept-accent) 68%, var(--charcoal)), color-mix(in oklch, var(--concept-accent) 26%, var(--charcoal)));
+  background: color-mix(in oklch, var(--concept-accent) 58%, var(--charcoal));
   color: var(--surface);
   font-size: 12px;
   font-weight: 900;
   box-shadow:
-    inset 0 1px 0 oklch(100% 0 0 / 0.22),
+    inset 0 1px 0 oklch(100% 0 0 / 0.08),
+    inset 0 -1px 0 color-mix(in oklch, var(--concept-accent) 20%, oklch(12% 0.01 65 / 0.28)),
     0 2px 0 color-mix(in oklch, var(--concept-accent) 24%, oklch(17% 0.012 65));
 }
 
 .concept-item.free .concept-code {
-  background:
-    radial-gradient(circle at 30% 20%, oklch(100% 0 0 / 0.22), transparent 34%),
-    linear-gradient(180deg, color-mix(in oklch, var(--free) 82%, oklch(100% 0 0)), var(--free));
+  background: color-mix(in oklch, var(--free) 68%, var(--charcoal));
   color: var(--surface);
 }
 
@@ -3021,13 +3037,46 @@ button.material-row[aria-busy="true"] .material-icon svg {
   margin: 10px -2px 0;
   padding: 10px 0 0;
   border-top: 1px solid color-mix(in oklch, var(--line) 58%, transparent);
-  background:
-    linear-gradient(180deg, oklch(98.5% 0.012 82 / 0), oklch(97% 0.014 80) 42%);
+  background: transparent;
+}
+
+.conference-actions .primary-action {
+  background: var(--ready);
+  border: 1px solid color-mix(in oklch, var(--ready) 72%, var(--ink));
+  color: var(--surface);
+  box-shadow:
+    inset 0 1px 0 oklch(100% 0 0 / 0.08),
+    inset 0 -1px 0 color-mix(in oklch, var(--ready-deep) 72%, oklch(13% 0.01 65 / 0.22)),
+    0 5px 0 var(--ready-deep),
+    0 6px 5px oklch(18% 0.014 65 / 0.10);
+  text-shadow: none;
+}
+
+.conference-actions .primary-action::before {
+  content: none;
+}
+
+.conference-actions .primary-action:not(:disabled):hover {
+  background: color-mix(in oklch, var(--ready) 92%, var(--surface));
+  filter: none;
+  box-shadow:
+    inset 0 1px 0 oklch(100% 0 0 / 0.10),
+    inset 0 -1px 0 color-mix(in oklch, var(--ready-deep) 72%, oklch(13% 0.01 65 / 0.22)),
+    0 5px 0 var(--ready-deep),
+    0 7px 5px oklch(18% 0.014 65 / 0.11);
+}
+
+.conference-actions .primary-action:not(:disabled):active {
+  transform: translateY(3px) scaleX(0.998) scaleY(0.99);
+  box-shadow:
+    inset 0 1px 0 oklch(100% 0 0 / 0.07),
+    0 2px 0 color-mix(in oklch, var(--ready-deep) 86%, var(--ink)),
+    0 3px 3px oklch(18% 0.014 65 / 0.07);
 }
 
 .concept-detail-label {
   display: block;
-  color: color-mix(in oklch, var(--concept-accent) 72%, var(--ink));
+  color: color-mix(in oklch, var(--concept-accent) 52%, var(--charcoal));
   font-size: 11px;
   font-weight: 900;
   text-transform: uppercase;
@@ -3072,13 +3121,16 @@ button.material-row[aria-busy="true"] .material-icon svg {
 
 .concept-question {
   border-radius: 14px;
-  border: 1px solid color-mix(in oklch, var(--concept-accent) 16%, var(--line));
-  background: color-mix(in oklch, var(--concept-accent) 6%, var(--surface));
-  color: color-mix(in oklch, var(--concept-accent) 72%, var(--charcoal));
+  border: 1px solid color-mix(in oklch, var(--line) 82%, var(--ink) 5%);
+  background: color-mix(in oklch, var(--surface) 80%, var(--paper-deep));
+  color: var(--charcoal);
   padding: 11px 12px;
   font-size: 13px;
   font-weight: 780;
   line-height: 18px;
+  box-shadow:
+    inset 0 1px 0 oklch(100% 0 0 / 0.18),
+    0 1px 0 color-mix(in oklch, var(--line) 70%, var(--ink) 8%);
 }
 
 .toast {
@@ -3155,17 +3207,14 @@ button.material-row[aria-busy="true"] .material-icon svg {
   0% {
     opacity: 0.64;
     transform: translateY(4px) scale(0.992);
-    filter: saturate(0.75);
   }
   58% {
     opacity: 1;
     transform: translateY(-1px) scale(1.006);
-    filter: saturate(1.04);
   }
   100% {
     opacity: 1;
     transform: translateY(0) scale(1);
-    filter: saturate(1);
   }
 }
 
@@ -3265,26 +3314,18 @@ button.material-row[aria-busy="true"] .material-icon svg {
 @keyframes sheet-backdrop-in {
   from {
     opacity: 0;
-    backdrop-filter: blur(0);
-    -webkit-backdrop-filter: blur(0);
   }
   to {
     opacity: 1;
-    backdrop-filter: blur(5px);
-    -webkit-backdrop-filter: blur(5px);
   }
 }
 
 @keyframes sheet-backdrop-out {
   from {
     opacity: 1;
-    backdrop-filter: blur(5px);
-    -webkit-backdrop-filter: blur(5px);
   }
   to {
     opacity: 0;
-    backdrop-filter: blur(0);
-    -webkit-backdrop-filter: blur(0);
   }
 }
 
