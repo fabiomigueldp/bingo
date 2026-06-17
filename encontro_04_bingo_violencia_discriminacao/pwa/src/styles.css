@@ -9,8 +9,13 @@
   --faint: oklch(78% 0.02 75);
   --line: oklch(86% 0.025 75);
   --charcoal: oklch(22% 0.015 65);
-  --gold: oklch(64% 0.12 82);
-  --gold-deep: oklch(54% 0.13 78);
+  --stamp: oklch(33% 0.19 263);
+  --stamp-deep: oklch(24% 0.16 262);
+  --ready: oklch(49% 0.13 162);
+  --ready-deep: oklch(38% 0.12 160);
+  --free: oklch(52% 0.05 228);
+  --free-deep: oklch(42% 0.052 228);
+  --card-back: oklch(20% 0.05 30);
   --draw-face-top: oklch(60.6% 0.199 28.4);
   --draw-face-bottom: oklch(52.4% 0.171 29.3);
   --draw-face-hover-top: oklch(62.5% 0.202 32.5);
@@ -341,9 +346,9 @@ button {
 }
 
 .setup-secondary-actions button:hover {
-  border-color: color-mix(in oklch, var(--gold) 24%, var(--line));
+  border-color: color-mix(in oklch, var(--muted) 42%, var(--line));
   background:
-    linear-gradient(180deg, oklch(99.4% 0.012 82 / 0.88), color-mix(in oklch, var(--gold) 5%, var(--surface-soft)));
+    linear-gradient(180deg, color-mix(in oklch, var(--surface) 84%, var(--paper-deep)), var(--paper-deep));
 }
 
 .setup-secondary-actions button:active {
@@ -920,19 +925,19 @@ button {
     radial-gradient(circle at 18% 18%, oklch(100% 0 0 / 0.5), transparent 28%),
     /* Edge fade to contain the sunburst */
     radial-gradient(circle at 50% 46%, transparent 0 42%, oklch(98% 0.012 82 / 0.72) 72%),
-    /* Large centered warm glow */
-    radial-gradient(circle at 50% 46%, oklch(99% 0.01 82 / 0.92) 0%, transparent 46%),
+    /* Center glow, restrained so the printed rays stay visible */
+    radial-gradient(circle at 50% 46%, oklch(99% 0.01 82 / 0.55) 0%, transparent 30%),
     /* Colorful sunburst using BINGO colors */
     repeating-conic-gradient(from 0deg at 50% 46%,
-      color-mix(in oklch, var(--col-b) 22%, transparent) 0deg 10deg,
+      color-mix(in oklch, var(--col-b) 40%, transparent) 0deg 10deg,
       transparent 10deg 20deg,
-      color-mix(in oklch, var(--col-i) 22%, transparent) 20deg 30deg,
+      color-mix(in oklch, var(--col-i) 40%, transparent) 20deg 30deg,
       transparent 30deg 40deg,
-      color-mix(in oklch, var(--col-n) 20%, transparent) 40deg 50deg,
+      color-mix(in oklch, var(--col-n) 36%, transparent) 40deg 50deg,
       transparent 50deg 60deg,
-      color-mix(in oklch, var(--col-g) 20%, transparent) 60deg 70deg,
+      color-mix(in oklch, var(--col-g) 36%, transparent) 60deg 70deg,
       transparent 70deg 80deg,
-      color-mix(in oklch, var(--col-o) 20%, transparent) 80deg 90deg,
+      color-mix(in oklch, var(--col-o) 36%, transparent) 80deg 90deg,
       transparent 90deg 100deg
     ),
     /* Secondary thinner offset rays for depth */
@@ -952,31 +957,6 @@ button {
     /* Warm paper base */
     linear-gradient(180deg, oklch(98.6% 0.012 82) 0%, oklch(96.2% 0.014 80) 100%);
   animation: waiting-card 900ms cubic-bezier(0.22, 1, 0.36, 1) both;
-}
-
-/* Elegant frame */
-.card-back::before {
-  content: "";
-  position: absolute;
-  inset: 22px;
-  border-radius: 24px;
-  border: 1.5px solid color-mix(in oklch, var(--gold) 42%, var(--line));
-  pointer-events: none;
-}
-
-/* Refined corner ornaments - small diamonds */
-.card-back::after {
-  content: "";
-  position: absolute;
-  inset: 26px;
-  border-radius: 18px;
-  background:
-    linear-gradient(45deg, var(--gold) 0%, var(--gold) 100%) 0 0 / 6px 6px no-repeat,
-    linear-gradient(45deg, var(--gold) 0%, var(--gold) 100%) 100% 0 / 6px 6px no-repeat,
-    linear-gradient(45deg, var(--gold) 0%, var(--gold) 100%) 0 100% / 6px 6px no-repeat,
-    linear-gradient(45deg, var(--gold) 0%, var(--gold) 100%) 100% 100% / 6px 6px no-repeat;
-  opacity: 0.8;
-  pointer-events: none;
 }
 
 .back-symbol {
@@ -1083,29 +1063,6 @@ button {
 .back-symbol span:nth-child(3)::after { top: 4px; right: 4px; }
 /* O - missing bottom-left screw */
 .back-symbol span:nth-child(5)::after { bottom: 4px; left: 4px; }
-
-.back-title {
-  font-family: Georgia, Cambria, "Times New Roman", serif;
-  font-size: 34px;
-  font-weight: 700;
-  text-align: center;
-  line-height: 1.15;
-  color: var(--charcoal);
-  letter-spacing: -0.01em;
-  margin-top: 4px;
-  position: relative;
-  z-index: 1;
-}
-
-.back-subtitle {
-  color: var(--muted);
-  font-size: 15px;
-  font-weight: 650;
-  text-align: center;
-  margin-top: -8px;
-  position: relative;
-  z-index: 1;
-}
 
 .bottom-controls {
   position: static;
@@ -2645,25 +2602,25 @@ button.material-row[aria-busy="true"] .material-icon svg {
 
 .board-row.ready {
   cursor: pointer;
-  border-color: color-mix(in oklch, var(--gold) 46%, var(--line));
+  border-color: color-mix(in oklch, var(--ready) 42%, var(--line));
   background:
-    linear-gradient(180deg, color-mix(in oklch, var(--gold) 10%, var(--surface)) 0%, color-mix(in oklch, var(--gold) 14%, var(--surface-soft)) 100%);
+    linear-gradient(180deg, color-mix(in oklch, var(--ready) 8%, var(--surface)) 0%, color-mix(in oklch, var(--ready) 13%, var(--surface-soft)) 100%);
   box-shadow:
     inset 0 1px 0 oklch(100% 0 0 / 0.72),
-    0 2px 0 color-mix(in oklch, var(--gold) 26%, var(--line)),
-    0 7px 14px color-mix(in oklch, var(--gold) 9%, transparent);
+    0 2px 0 color-mix(in oklch, var(--ready) 24%, var(--line)),
+    0 7px 14px color-mix(in oklch, var(--ready) 8%, transparent);
 }
 
 .board-row.ready:active {
   transform: translateY(2px);
   box-shadow:
     inset 0 1px 0 oklch(100% 0 0 / 0.62),
-    0 1px 0 color-mix(in oklch, var(--gold) 26%, var(--line)),
-    0 3px 8px color-mix(in oklch, var(--gold) 7%, transparent);
+    0 1px 0 color-mix(in oklch, var(--ready) 24%, var(--line)),
+    0 3px 8px color-mix(in oklch, var(--ready) 6%, transparent);
 }
 
 .board-row.ready:focus-visible {
-  outline: 3px solid color-mix(in oklch, var(--gold) 34%, transparent);
+  outline: 3px solid color-mix(in oklch, var(--ready) 34%, transparent);
   outline-offset: 2px;
 }
 
@@ -2674,11 +2631,11 @@ button.material-row[aria-busy="true"] .material-icon svg {
   flex: 0 0 auto;
   padding: 4px;
   border-radius: 999px;
-  background: color-mix(in oklch, var(--gold) 16%, var(--surface));
-  color: var(--gold-deep);
+  background: color-mix(in oklch, var(--ready) 16%, var(--surface));
+  color: var(--ready-deep);
   box-shadow:
     inset 0 1px 0 oklch(100% 0 0 / 0.70),
-    0 1px 2px color-mix(in oklch, var(--gold) 10%, transparent);
+    0 1px 2px color-mix(in oklch, var(--ready) 10%, transparent);
 }
 
 .board-row small {
@@ -2740,16 +2697,16 @@ button.material-row[aria-busy="true"] .material-icon svg {
 
 .mini-board span.marked {
   background:
-    radial-gradient(circle at 34% 25%, oklch(100% 0 0 / 0.42), transparent 35%),
-    linear-gradient(180deg, color-mix(in oklch, var(--gold) 76%, oklch(100% 0 0)) 0%, var(--gold) 100%);
-  border-color: var(--gold-deep);
+    radial-gradient(circle at 34% 25%, oklch(100% 0 0 / 0.26), transparent 35%),
+    linear-gradient(180deg, color-mix(in oklch, var(--stamp) 86%, oklch(100% 0 0)) 0%, var(--stamp) 100%);
+  border-color: var(--stamp-deep);
   box-shadow:
-    inset 0 1px 0 oklch(100% 0 0 / 0.24),
-    0 1px 2px color-mix(in oklch, var(--gold) 20%, transparent);
+    inset 0 1px 0 oklch(100% 0 0 / 0.16),
+    0 1px 2px color-mix(in oklch, var(--stamp) 18%, transparent);
 }
 
 .mini-board span.highlighted {
-  outline: 3px solid oklch(62% 0.12 82 / 0.32);
+  outline: 3px solid color-mix(in oklch, var(--stamp) 34%, transparent);
   outline-offset: 1px;
 }
 
@@ -2789,9 +2746,9 @@ button.material-row[aria-busy="true"] .material-icon svg {
   gap: 12px;
   padding: 12px;
   border-radius: 22px;
-  border: 1px solid color-mix(in oklch, var(--gold) 34%, var(--line));
+  border: 1px solid color-mix(in oklch, var(--ready) 34%, var(--line));
   background:
-    linear-gradient(180deg, oklch(99% 0.012 84), color-mix(in oklch, var(--gold) 7%, var(--surface)));
+    linear-gradient(180deg, oklch(99% 0.012 84), color-mix(in oklch, var(--ready) 7%, var(--surface)));
   color: var(--ink);
   text-align: left;
   box-shadow: 0 1px 0 oklch(100% 0 0 / 0.72) inset;
@@ -2806,20 +2763,20 @@ button.material-row[aria-busy="true"] .material-icon svg {
 }
 
 .alert-board-button:not(:disabled):hover {
-  border-color: color-mix(in oklch, var(--gold) 56%, var(--line));
+  border-color: color-mix(in oklch, var(--ready) 56%, var(--line));
   background:
-    linear-gradient(180deg, oklch(99.4% 0.012 84), color-mix(in oklch, var(--gold) 10%, var(--surface)));
+    linear-gradient(180deg, oklch(99.4% 0.012 84), color-mix(in oklch, var(--ready) 10%, var(--surface)));
 }
 
 .alert-board-button:focus-visible {
-  outline: 3px solid color-mix(in oklch, var(--gold) 34%, transparent);
+  outline: 3px solid color-mix(in oklch, var(--ready) 34%, transparent);
   outline-offset: 2px;
 }
 
 .alert-board-button > svg {
   width: 20px;
   height: 20px;
-  color: var(--gold-deep);
+  color: var(--ready-deep);
 }
 
 .alert-board-copy {
@@ -2842,7 +2799,7 @@ button.material-row[aria-busy="true"] .material-icon svg {
 .alert-lines-text {
   display: block;
   margin-top: 1px;
-  color: color-mix(in oklch, var(--ink) 76%, var(--gold-deep));
+  color: color-mix(in oklch, var(--ink) 76%, var(--ready-deep));
   font-size: 12px;
   font-weight: 820;
   overflow: hidden;
@@ -2861,7 +2818,7 @@ button.material-row[aria-busy="true"] .material-icon svg {
   min-height: 48px;
   border: 0;
   background: transparent;
-  color: var(--gold-deep);
+  color: color-mix(in oklch, var(--ink) 86%, var(--muted));
   font-weight: 850;
 }
 
@@ -2944,9 +2901,10 @@ button.material-row[aria-busy="true"] .material-icon svg {
 }
 
 .line-tabs button.selected {
-  border-color: color-mix(in oklch, var(--gold) 58%, var(--line));
+  border-color: color-mix(in oklch, var(--ink) 28%, var(--line));
+  border-left: 3px solid var(--ink);
   background:
-    linear-gradient(180deg, color-mix(in oklch, var(--gold) 13%, var(--surface)), color-mix(in oklch, var(--gold) 7%, var(--surface-soft)));
+    linear-gradient(180deg, color-mix(in oklch, var(--surface) 76%, var(--paper-deep)), var(--paper-deep));
 }
 
 .line-tabs button:active {
@@ -3055,8 +3013,8 @@ button.material-row[aria-busy="true"] .material-icon svg {
 
 .concept-item.free .concept-code {
   background:
-    radial-gradient(circle at 30% 20%, oklch(100% 0 0 / 0.24), transparent 34%),
-    linear-gradient(180deg, color-mix(in oklch, var(--gold) 82%, oklch(100% 0 0)), var(--gold));
+    radial-gradient(circle at 30% 20%, oklch(100% 0 0 / 0.22), transparent 34%),
+    linear-gradient(180deg, color-mix(in oklch, var(--free) 82%, oklch(100% 0 0)), var(--free));
   color: var(--surface);
 }
 
@@ -3411,14 +3369,6 @@ button.material-row[aria-busy="true"] .material-icon svg {
 
   .back-symbol span {
     border-width: 2.5px;
-  }
-
-  .back-title {
-    font-size: 30px;
-  }
-
-  .back-subtitle {
-    font-size: 14px;
   }
 
   .call-card h2 {

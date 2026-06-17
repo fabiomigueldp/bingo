@@ -304,8 +304,6 @@ function EmptyCard({ drawMode = DRAW_MODES.APP }) {
         <span>G</span>
         <span>O</span>
       </div>
-      <div className="back-title">{manualMode ? "Aguardando bolinha" : "Baralho pronto"}</div>
-      <div className="back-subtitle">{manualMode ? "registre o código sorteado" : "75 cartas de chamada"}</div>
     </article>
   );
 }
@@ -1146,7 +1144,7 @@ function AlertSheet({ game, alerts, onClose, onConfer }) {
 
 function ConceptDisclosure({ cell, isOpen, onToggle }) {
   const card = cell.id === "FREE" ? null : cardById[cell.id];
-  const accent = card ? COLUMN_COLORS[card.column] : "var(--gold)";
+  const accent = card ? COLUMN_COLORS[card.column] : "var(--free)";
 
   if (!card) {
     return (
