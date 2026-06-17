@@ -7,7 +7,6 @@ function installIOSViewportGuards() {
   const scrollableSelector = [
     ".setup-content",
     ".call-card",
-    ".history-detail",
     ".history-list",
     ".boards-list",
     ".materials-list",

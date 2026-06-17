@@ -663,6 +663,7 @@ function BottomSheet({ title, children, onClose, className = "" }) {
   const closeTimer = useRef(null);
   const suppressClick = useRef(false);
   const interactiveSelector = "button:not(:disabled), a, input, textarea, select";
+  const dragHandleSelector = ".grabber, .sheet-head";
 
   function closeSheet(resetDrag = true) {
     if (closing) return;
@@ -676,31 +677,44 @@ function BottomSheet({ title, children, onClose, className = "" }) {
     closeTimer.current = window.setTimeout(onClose, 180);
   }
 
-  function startGesture(clientY, target, pointerId = null) {
+  function startGesture(clientX, clientY, target, pointerId = null) {
     if (closing) return false;
     if (target.closest(interactiveSelector)) return false;
-    const scrollEl = target.closest(".history-detail, .history-list, .boards-list, .materials-list, .rules-list, .conference-scroll");
+    if (!target.closest(dragHandleSelector)) return false;
 
     gesture.current = {
+      startX: clientX,
       startY: clientY,
+      lastX: clientX,
       lastY: clientY,
       startTime: performance.now(),
       active: false,
       pointerId,
-      scrollEl,
-      parentScrollEl: scrollEl?.classList?.contains("history-detail") ? scrollEl.closest(".history-list") : null
+      locked: false
     };
     return true;
   }
 
-  function moveGesture(clientY, event) {
+  function moveGesture(clientX, clientY, event) {
     const current = gesture.current;
     if (!current) return;
 
-    const delta = clientY - current.startY;
+    const deltaX = clientX - current.startX;
+    const deltaY = clientY - current.startY;
+    const absX = Math.abs(deltaX);
+    const absY = Math.abs(deltaY);
+    current.lastX = clientX;
     current.lastY = clientY;
 
-    if (delta <= 0) {
+    if (!current.locked && Math.max(absX, absY) > 10) {
+      current.locked = true;
+      if (absX > absY * 1.15) {
+        gesture.current = null;
+        return;
+      }
+    }
+
+    if (deltaY <= 0) {
       if (current.active) {
         setDrag(0);
         if (event?.cancelable !== false) event?.preventDefault?.();
@@ -708,14 +722,11 @@ function BottomSheet({ title, children, onClose, className = "" }) {
       return;
     }
 
-    if (current.scrollEl && current.scrollEl.scrollTop > 1) return;
-    if (current.parentScrollEl && current.parentScrollEl.scrollTop > 1) return;
-
-    if (delta > 6 || current.active) {
+    if (deltaY > 18 || current.active) {
       current.active = true;
-      suppressClick.current = delta > 10;
+      suppressClick.current = deltaY > 12;
       setDragging(true);
-      setDrag(Math.min(delta, 190));
+      setDrag(Math.min(deltaY, 190));
       if (event?.cancelable !== false) event?.preventDefault?.();
     }
   }
@@ -727,7 +738,7 @@ function BottomSheet({ title, children, onClose, className = "" }) {
     const elapsed = Math.max(performance.now() - current.startTime, 1);
     const travel = Math.max(0, current.lastY - current.startY);
     const velocity = travel / elapsed;
-    const shouldClose = current.active && (travel > 56 || (travel > 28 && velocity > 0.42));
+    const shouldClose = current.active && (travel > 72 || (travel > 40 && velocity > 0.5));
 
     gesture.current = null;
     setDragging(false);
@@ -741,41 +752,28 @@ function BottomSheet({ title, children, onClose, className = "" }) {
 
   function beginTouch(event) {
     if (event.touches.length !== 1) return;
-    startGesture(event.touches[0].clientY, event.target);
+    startGesture(event.touches[0].clientX, event.touches[0].clientY, event.target);
   }
 
   function moveTouch(event) {
     if (event.touches.length !== 1) return;
-    moveGesture(event.touches[0].clientY, event);
+    moveGesture(event.touches[0].clientX, event.touches[0].clientY, event);
   }
 
   function beginPointer(event) {
     if (event.pointerType === "touch") return;
-    if (startGesture(event.clientY, event.target, event.pointerId)) {
+    if (startGesture(event.clientX, event.clientY, event.target, event.pointerId)) {
       event.currentTarget.setPointerCapture?.(event.pointerId);
     }
   }
 
   function movePointer(event) {
     if (event.pointerType === "touch") return;
-    moveGesture(event.clientY, event);
+    moveGesture(event.clientX, event.clientY, event);
   }
 
   function endPointer(event) {
     if (event.pointerType === "touch") return;
-    endGesture();
-  }
-
-  function beginMouse(event) {
-    if (event.button !== 0) return;
-    startGesture(event.clientY, event.target);
-  }
-
-  function moveMouse(event) {
-    moveGesture(event.clientY, event);
-  }
-
-  function endMouse() {
     endGesture();
   }
 
@@ -816,10 +814,6 @@ function BottomSheet({ title, children, onClose, className = "" }) {
         onPointerMove={movePointer}
         onPointerUp={endPointer}
         onPointerCancel={endPointer}
-        onMouseDown={beginMouse}
-        onMouseMove={moveMouse}
-        onMouseUp={endMouse}
-        onMouseLeave={endMouse}
       >
         <div className="grabber" aria-hidden="true" />
         <header className="sheet-head">
@@ -896,8 +890,8 @@ function HistorySheet({ game, onClose, onNewGame }) {
 
       const scrollRect = scrollEl.getBoundingClientRect();
       const itemRect = item.getBoundingClientRect();
-      const topRoom = 10;
-      const bottomRoom = 16;
+      const topRoom = 14;
+      const bottomRoom = 72;
       const overflowTop = scrollRect.top + topRoom - itemRect.top;
       const overflowBottom = itemRect.bottom - (scrollRect.bottom - bottomRoom);
       const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
@@ -906,7 +900,7 @@ function HistorySheet({ game, onClose, onNewGame }) {
       if (overflowTop > 0) {
         scrollEl.scrollBy({ top: -overflowTop, behavior });
       } else if (overflowBottom > 0) {
-        scrollEl.scrollBy({ top: itemRect.top - scrollRect.top - topRoom, behavior });
+        scrollEl.scrollBy({ top: overflowBottom, behavior });
       }
     });
 
@@ -915,16 +909,19 @@ function HistorySheet({ game, onClose, onNewGame }) {
 
   return (
     <BottomSheet title="Chamadas" onClose={onClose} className="history-sheet">
-      <div className="history-list" ref={scrollRef}>
-        {cards.map((card) => (
-          <HistoryDisclosure
-            card={card}
-            historyKey={card.id}
-            isOpen={openHistoryId === card.id}
-            key={card.id}
-            onToggle={() => setOpenHistoryId((current) => (current === card.id ? null : card.id))}
-          />
-        ))}
+      <div className="history-list-shell">
+        <div className="history-list" ref={scrollRef}>
+          {cards.map((card) => (
+            <HistoryDisclosure
+              card={card}
+              historyKey={card.id}
+              isOpen={openHistoryId === card.id}
+              key={card.id}
+              onToggle={() => setOpenHistoryId((current) => (current === card.id ? null : card.id))}
+            />
+          ))}
+          <div className="history-list-footer" aria-hidden="true" />
+        </div>
       </div>
       <button className="quiet-danger" type="button" onClick={onNewGame}>
         Novo jogo
@@ -971,17 +968,26 @@ function RulesSheet({ onClose }) {
   );
 }
 
-function MiniBoard({ board, drawnIds, highlightLineId, compact = false }) {
+function lineCountLabel(count) {
+  if (count === 0) return "Nenhuma linha completa";
+  if (count === 1) return "1 linha completa";
+  return `${count} linhas completas`;
+}
+
+function MiniBoard({ board, drawnIds, highlightLineId, compact = false, decorative = false }) {
   const marked = new Set([...drawnIds, "FREE"]);
   const highlight = highlightLineId ? lineDefinitions.find((line) => line.id === highlightLineId) : null;
   const highlightedCells = new Set((highlight?.cells || []).map(([row, col]) => `${row}-${col}`));
   const markedCount = board.grid.flat().filter((cell) => marked.has(cell.id)).length;
+  const boardLabel = board.number.toString().padStart(2, "0");
+  const accessibilityProps = decorative
+    ? { "aria-hidden": "true" }
+    : { role: "img", "aria-label": `Cartela ${boardLabel}, ${markedCount} de 25 casas marcadas` };
 
   return (
     <div
       className={compact ? "mini-board compact" : "mini-board"}
-      role="img"
-      aria-label={`Cartela ${board.number}, ${markedCount} de 25 casas marcadas`}
+      {...accessibilityProps}
     >
       {board.grid.map((row, rowIndex) =>
         row.map((cell, colIndex) => {
@@ -991,7 +997,7 @@ function MiniBoard({ board, drawnIds, highlightLineId, compact = false }) {
           return (
             <span
               key={`${cell.id}-${key}`}
-              className={`${isMarked ? "marked" : ""} ${isHighlighted ? "highlighted" : ""}`}
+              className={[isMarked && "marked", isHighlighted && "highlighted"].filter(Boolean).join(" ")}
               title={cell.label}
               aria-hidden="true"
             />
@@ -1018,12 +1024,13 @@ function BoardsSheet({ game, onClose, onConfer }) {
             className={progress.ready ? "board-row ready" : "board-row"}
             key={board.number}
             onClick={() => progress.ready && onConfer(board.number)}
-            disabled={!progress.ready}
+            aria-disabled={!progress.ready}
+            tabIndex={progress.ready ? undefined : -1}
           >
-            <MiniBoard board={board} drawnIds={game.drawnIds} compact />
+            <MiniBoard board={board} drawnIds={game.drawnIds} compact decorative />
             <span>
               <strong>Cartela {board.number.toString().padStart(2, "0")}</strong>
-              <small>{progress.completedLines.length} linhas completas</small>
+              <small>{lineCountLabel(progress.completedLines.length)}</small>
             </span>
             {progress.ready ? <Icon name="check" /> : null}
           </button>
@@ -1053,7 +1060,7 @@ function AlertSheet({ game, alerts, onClose, onConfer }) {
           <p>
             {isMultiple
               ? "Escolha uma cartela para conferir primeiro."
-              : `${rows[0].lines.length} linhas completas para conferir.`}
+              : `${lineCountLabel(rows[0].lines.length)} para conferir.`}
           </p>
         </div>
       </div>
@@ -1066,10 +1073,10 @@ function AlertSheet({ game, alerts, onClose, onConfer }) {
             key={alert.id}
             onClick={() => onConfer(board.number, alert.drawIndex)}
           >
-            <MiniBoard board={board} drawnIds={game.drawnIds} compact />
+            <MiniBoard board={board} drawnIds={game.drawnIds} compact decorative />
             <span className="alert-board-copy">
               <strong>Cartela {board.number.toString().padStart(2, "0")}</strong>
-              <small>{lines.length} linhas completas</small>
+              <small>{lineCountLabel(lines.length)}</small>
               <span className="alert-lines-text">
                 {lines.slice(0, 2).map(lineTone).join(" · ")}
                 {lines.length > 2 ? ` · +${lines.length - 2}` : ""}
@@ -1174,7 +1181,7 @@ function ConferenceSheet({ game, boardNumber, onClose, onValidated }) {
       const scrollRect = scrollEl.getBoundingClientRect();
       const itemRect = item.getBoundingClientRect();
       const topRoom = 12;
-      const bottomRoom = 18;
+      const bottomRoom = 60;
       const overflowTop = scrollRect.top + topRoom - itemRect.top;
       const overflowBottom = itemRect.bottom - (scrollRect.bottom - bottomRoom);
       const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
@@ -1183,7 +1190,7 @@ function ConferenceSheet({ game, boardNumber, onClose, onValidated }) {
       if (overflowTop > 0) {
         scrollEl.scrollBy({ top: -overflowTop, behavior });
       } else if (overflowBottom > 0) {
-        scrollEl.scrollBy({ top: itemRect.top - scrollRect.top - topRoom, behavior });
+        scrollEl.scrollBy({ top: overflowBottom, behavior });
       }
     });
 
