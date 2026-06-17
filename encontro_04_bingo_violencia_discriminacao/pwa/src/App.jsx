@@ -517,7 +517,7 @@ function ManualCallControls({ game, onUndo, onCall, onHistory, onKeyboardOpenCha
   function scheduleManualCall(callback, delay) {
     const timer = window.setTimeout(() => {
       manualCallTimers.current = manualCallTimers.current.filter((item) => item !== timer);
-      callback();
+      window.requestAnimationFrame(callback);
     }, delay);
     manualCallTimers.current.push(timer);
   }
@@ -562,17 +562,17 @@ function ManualCallControls({ game, onUndo, onCall, onHistory, onKeyboardOpenCha
 
     scheduleManualCall(() => {
       setActiveColumn("");
-    }, 430);
+    }, 520);
 
     scheduleManualCall(() => {
       onCall(card.id);
-    }, 300);
+    }, 560);
 
     scheduleManualCall(() => {
       setPendingManualCode("");
       setPressedNumber("");
       setMotionPhase("idle");
-    }, 520);
+    }, 700);
   }
 
   return (
