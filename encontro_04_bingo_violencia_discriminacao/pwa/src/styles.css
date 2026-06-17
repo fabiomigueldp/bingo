@@ -995,12 +995,6 @@ button {
   inset: 0;
   border-radius: inherit;
   background:
-    /* screw slots */
-    linear-gradient(45deg, transparent 44%, oklch(0% 0 0 / 0.22) 45%, oklch(0% 0 0 / 0.22) 55%, transparent 56%) 8px 8px / 6px 6px no-repeat,
-    linear-gradient(-45deg, transparent 44%, oklch(0% 0 0 / 0.22) 45%, oklch(0% 0 0 / 0.22) 55%, transparent 56%) calc(100% - 8px) 8px / 6px 6px no-repeat,
-    linear-gradient(45deg, transparent 44%, oklch(0% 0 0 / 0.22) 45%, oklch(0% 0 0 / 0.22) 55%, transparent 56%) 8px calc(100% - 8px) / 6px 6px no-repeat,
-    linear-gradient(-45deg, transparent 44%, oklch(0% 0 0 / 0.22) 45%, oklch(0% 0 0 / 0.22) 55%, transparent 56%) calc(100% - 8px) calc(100% - 8px) / 6px 6px no-repeat,
-    /* screw heads */
     radial-gradient(circle at 8px 8px, var(--screw-color) 0 3px, transparent 4px),
     radial-gradient(circle at calc(100% - 8px) 8px, var(--screw-color) 0 3px, transparent 4px),
     radial-gradient(circle at 8px calc(100% - 8px), var(--screw-color) 0 3px, transparent 4px),
