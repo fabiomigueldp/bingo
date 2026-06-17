@@ -731,7 +731,7 @@ function BottomSheet({ title, children, onClose, className = "" }) {
     }
   }
 
-  function endGesture() {
+  function endGesture(event) {
     const current = gesture.current;
     if (!current) return;
 
@@ -742,6 +742,11 @@ function BottomSheet({ title, children, onClose, className = "" }) {
 
     gesture.current = null;
     setDragging(false);
+    suppressClick.current = false;
+
+    if (event?.currentTarget?.releasePointerCapture && current.pointerId != null) {
+      event.currentTarget.releasePointerCapture(current.pointerId);
+    }
 
     if (shouldClose) {
       closeSheet(false);
@@ -750,31 +755,18 @@ function BottomSheet({ title, children, onClose, className = "" }) {
     }
   }
 
-  function beginTouch(event) {
-    if (event.touches.length !== 1) return;
-    startGesture(event.touches[0].clientX, event.touches[0].clientY, event.target);
-  }
-
-  function moveTouch(event) {
-    if (event.touches.length !== 1) return;
-    moveGesture(event.touches[0].clientX, event.touches[0].clientY, event);
-  }
-
   function beginPointer(event) {
-    if (event.pointerType === "touch") return;
     if (startGesture(event.clientX, event.clientY, event.target, event.pointerId)) {
       event.currentTarget.setPointerCapture?.(event.pointerId);
     }
   }
 
   function movePointer(event) {
-    if (event.pointerType === "touch") return;
     moveGesture(event.clientX, event.clientY, event);
   }
 
   function endPointer(event) {
-    if (event.pointerType === "touch") return;
-    endGesture();
+    endGesture(event);
   }
 
   function captureClick(event) {
@@ -806,10 +798,6 @@ function BottomSheet({ title, children, onClose, className = "" }) {
         aria-label={title}
         style={{ "--sheet-drag": `${drag}px` }}
         onClickCapture={captureClick}
-        onTouchStart={beginTouch}
-        onTouchMove={moveTouch}
-        onTouchEnd={endGesture}
-        onTouchCancel={endGesture}
         onPointerDown={beginPointer}
         onPointerMove={movePointer}
         onPointerUp={endPointer}
@@ -884,27 +872,18 @@ function HistorySheet({ game, onClose, onNewGame }) {
     const scrollEl = scrollRef.current;
     if (!scrollEl) return undefined;
 
-    const frame = window.requestAnimationFrame(() => {
+    const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    const behavior = reduceMotion ? "auto" : "smooth";
+
+    // Aguarda a animação de expansão do item terminar antes de rolar.
+    // Rolar durante o layout shift no iOS PWA costuma travar o scroll.
+    const timer = window.setTimeout(() => {
       const item = scrollEl.querySelector(`[data-history-id="${openHistoryId}"]`);
       if (!item) return;
+      item.scrollIntoView({ block: "nearest", behavior });
+    }, 200);
 
-      const scrollRect = scrollEl.getBoundingClientRect();
-      const itemRect = item.getBoundingClientRect();
-      const topRoom = 14;
-      const bottomRoom = 72;
-      const overflowTop = scrollRect.top + topRoom - itemRect.top;
-      const overflowBottom = itemRect.bottom - (scrollRect.bottom - bottomRoom);
-      const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-      const behavior = reduceMotion ? "auto" : "smooth";
-
-      if (overflowTop > 0) {
-        scrollEl.scrollBy({ top: -overflowTop, behavior });
-      } else if (overflowBottom > 0) {
-        scrollEl.scrollBy({ top: overflowBottom, behavior });
-      }
-    });
-
-    return () => window.cancelAnimationFrame(frame);
+    return () => window.clearTimeout(timer);
   }, [openHistoryId]);
 
   return (
@@ -930,20 +909,90 @@ function HistorySheet({ game, onClose, onNewGame }) {
   );
 }
 
+async function fetchMaterialBlob(href) {
+  const response = await fetch(href, { cache: "force-cache" });
+  if (!response.ok) throw new Error(`HTTP ${response.status}`);
+  return response.blob();
+}
+
+function canShareFile(file) {
+  return typeof navigator.canShare === "function" && navigator.canShare({ files: [file] });
+}
+
+async function shareOrDownloadPDF(href, fileName, title, meta) {
+  let blob;
+  try {
+    blob = await fetchMaterialBlob(href);
+  } catch {
+    // Se não conseguir ler do cache/offline, tenta abrir o link direto.
+    window.open(href, "_blank");
+    return;
+  }
+
+  const file = new File([blob], fileName, { type: "application/pdf" });
+
+  // iOS PWA e Android abrem o share sheet nativo com "Salvar em Arquivos", Imprimir, etc.
+  if (canShareFile(file)) {
+    try {
+      await navigator.share({ files: [file], title, text: meta });
+      return;
+    } catch (shareError) {
+      // Usuário cancelou ou share falhou — prossegue para o fallback.
+      if (shareError?.name === "AbortError") return;
+    }
+  }
+
+  // Fallback para desktop/navegadores que não suportam share de arquivos.
+  const objectUrl = URL.createObjectURL(blob);
+  const link = document.createElement("a");
+  link.href = objectUrl;
+  link.download = fileName;
+  link.style.display = "none";
+  document.body.appendChild(link);
+  link.click();
+  document.body.removeChild(link);
+  window.setTimeout(() => URL.revokeObjectURL(objectUrl), 2000);
+}
+
+function MaterialRow({ item }) {
+  const [busy, setBusy] = useState(false);
+
+  async function handleClick(event) {
+    event.preventDefault();
+    if (busy) return;
+    setBusy(true);
+    try {
+      await shareOrDownloadPDF(item.href, item.fileName, item.title, item.meta);
+    } finally {
+      setBusy(false);
+    }
+  }
+
+  return (
+    <button
+      type="button"
+      className={item.recommended ? "material-row recommended" : "material-row"}
+      onClick={handleClick}
+      disabled={busy}
+      aria-busy={busy}
+    >
+      <span className="material-icon">
+        <Icon name="download" />
+      </span>
+      <span className="material-copy">
+        <strong>{item.title}</strong>
+        <small>{busy ? "Preparando arquivo…" : item.meta}</small>
+      </span>
+    </button>
+  );
+}
+
 function MaterialsSheet({ onClose }) {
   return (
     <BottomSheet title="Imprimir" onClose={onClose} className="materials-sheet">
       <div className="materials-list">
         {MATERIAL_OPTIONS.map((item) => (
-          <a className={item.recommended ? "material-row recommended" : "material-row"} href={item.href} download={item.fileName} key={item.href}>
-            <span className="material-icon">
-              <Icon name="download" />
-            </span>
-            <span className="material-copy">
-              <strong>{item.title}</strong>
-              <small>{item.meta}</small>
-            </span>
-          </a>
+          <MaterialRow item={item} key={item.href} />
         ))}
       </div>
       <p className="materials-note">Com o app, normalmente basta imprimir as cartelas.</p>

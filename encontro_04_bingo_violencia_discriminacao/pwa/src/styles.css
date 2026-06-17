@@ -1712,12 +1712,12 @@ button {
   animation: sheet-up 260ms cubic-bezier(0.16, 1, 0.3, 1) backwards;
   transition: transform 220ms cubic-bezier(0.22, 1, 0.36, 1);
   touch-action: auto;
-  will-change: transform;
 }
 
 .bottom-sheet.dragging {
   animation: none;
   transition: none;
+  will-change: transform;
 }
 
 .sheet-layer.closing .bottom-sheet {
@@ -1898,6 +1898,21 @@ button {
   animation-delay: 18ms;
 }
 
+button.material-row {
+  width: 100%;
+  border: 0;
+  background: color-mix(in oklch, var(--line) 15%, var(--surface));
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+
+button.material-row:disabled,
+button.material-row[aria-busy="true"] {
+  opacity: 0.72;
+  cursor: wait;
+}
+
 .material-row:active {
   transform: scale(0.97);
   background: color-mix(in oklch, var(--line) 30%, var(--surface));
@@ -1918,6 +1933,21 @@ button {
 .material-icon svg {
   width: 19px;
   height: 19px;
+}
+
+button.material-row[aria-busy="true"] .material-icon svg {
+  animation: material-busy 1.2s ease-in-out infinite;
+}
+
+@keyframes material-busy {
+  0%, 100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+  50% {
+    transform: translateY(3px);
+    opacity: 0.55;
+  }
 }
 
 .material-copy {

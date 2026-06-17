@@ -40,7 +40,7 @@ def main() -> None:
         raise SystemExit("dist does not exist. Run vite build before generate-sw.py.")
 
     precache = collect_precache()
-    sw = f"""const CACHE_NAME = "bingo-pwa-v3";
+    sw = f"""const CACHE_NAME = "bingo-pwa-v4";
 const APP_SHELL = {json.dumps(precache, indent=2)};
 
 self.addEventListener("install", (event) => {{
