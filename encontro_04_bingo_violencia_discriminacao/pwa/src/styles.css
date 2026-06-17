@@ -11,6 +11,17 @@
   --charcoal: oklch(22% 0.015 65);
   --gold: oklch(64% 0.12 82);
   --gold-deep: oklch(54% 0.13 78);
+  --draw-face-top: oklch(60.6% 0.199 28.4);
+  --draw-face-bottom: oklch(52.4% 0.171 29.3);
+  --draw-face-hover-top: oklch(62.5% 0.202 32.5);
+  --draw-face-hover-bottom: oklch(54.2% 0.178 29.5);
+  --draw-side: oklch(39.1% 0.124 30);
+  --draw-side-hover: oklch(41.5% 0.132 30);
+  --draw-side-pressed: oklch(35.8% 0.112 30);
+  --draw-inner-shadow: oklch(32% 0.105 30);
+  --draw-glow: oklch(45% 0.145 30);
+  --progress-track: oklch(89.5% 0.022 48);
+  --progress-fill: oklch(55.5% 0.164 29);
   --col-b: oklch(62% 0.112 82);
   --col-i: oklch(52% 0.115 38);
   --col-n: oklch(47% 0.08 330);
@@ -361,7 +372,7 @@ button {
   border: 0;
   border-radius: 999px;
   color: var(--surface);
-  background: linear-gradient(180deg, oklch(70% 0.13 85) 0%, oklch(56% 0.13 76) 100%);
+  background: linear-gradient(180deg, var(--draw-face-top) 0%, var(--draw-face-bottom) 100%);
   font-size: 16px;
   font-weight: 850;
   letter-spacing: 0.02em;
@@ -372,9 +383,9 @@ button {
   transform-origin: 50% 78%;
   box-shadow: 
     inset 0 2px 2px oklch(100% 0 0 / 0.45), /* Specular top highlight */
-    inset 0 -1px 2px oklch(42% 0.12 76 / 0.20),
-    0 5px 0 oklch(44% 0.13 76), /* 3D side body */
-    0 6px 12px oklch(44% 0.13 76 / 0.22); /* Ambient drop shadow */
+    inset 0 -1px 2px color-mix(in oklch, var(--draw-inner-shadow) 72%, transparent),
+    0 5px 0 var(--draw-side), /* 3D side body */
+    0 6px 12px color-mix(in oklch, var(--draw-glow) 28%, transparent); /* Ambient drop shadow */
   
   /* Deeply etched text shadow */
   text-shadow: 0 1px 1px oklch(0% 0 0 / 0.25);
@@ -419,11 +430,12 @@ button {
 .primary-action:not(:disabled):hover,
 .draw-button:not(:disabled):hover {
   filter: brightness(1.08) saturate(1.05);
+  background: linear-gradient(180deg, var(--draw-face-hover-top) 0%, var(--draw-face-hover-bottom) 100%);
   box-shadow: 
     inset 0 2px 2px oklch(100% 0 0 / 0.55),
-    inset 0 -1px 2px oklch(42% 0.12 76 / 0.18),
-    0 5px 0 oklch(46% 0.13 76),
-    0 8px 16px oklch(44% 0.13 76 / 0.28);
+    inset 0 -1px 2px color-mix(in oklch, var(--draw-inner-shadow) 66%, transparent),
+    0 5px 0 var(--draw-side-hover),
+    0 8px 16px color-mix(in oklch, var(--draw-glow) 34%, transparent);
 }
 
 .primary-action:not(:disabled):hover::before,
@@ -454,8 +466,8 @@ button {
   box-shadow: 
     inset 0 2px 2px oklch(100% 0 0 / 0.40),
     inset 0 -1px 1px oklch(100% 0 0 / 0.14),
-    0 2px 0 oklch(42% 0.13 76),
-    0 3px 7px oklch(44% 0.13 76 / 0.20);
+    0 2px 0 var(--draw-side-pressed),
+    0 3px 7px color-mix(in oklch, var(--draw-glow) 26%, transparent);
 }
 
 .primary-action.ready {
@@ -546,16 +558,24 @@ button {
   grid-column: 1 / -1;
   height: 4px;
   border-radius: 999px;
-  background: oklch(88% 0.018 76);
+  background:
+    linear-gradient(180deg, oklch(100% 0 0 / 0.35), transparent 65%),
+    var(--progress-track);
   overflow: hidden;
+  box-shadow:
+    inset 0 1px 1px oklch(28% 0.02 70 / 0.08),
+    0 1px 0 oklch(100% 0 0 / 0.55);
 }
 
 .progress-track span {
   display: block;
   height: 100%;
   border-radius: inherit;
-  background: var(--gold);
+  background: linear-gradient(90deg, var(--draw-side) 0%, var(--progress-fill) 42%, var(--draw-face-top) 100%);
   transform-origin: left;
+  box-shadow:
+    0 0 10px color-mix(in oklch, var(--draw-glow) 22%, transparent),
+    inset 0 1px 0 oklch(100% 0 0 / 0.28);
   transition: transform 280ms cubic-bezier(0.22, 1, 0.36, 1);
 }
 
@@ -889,84 +909,201 @@ button {
 }
 
 .card-back {
-  padding: 30px;
+  padding: 34px;
   display: grid;
   place-items: center;
   align-content: center;
-  gap: 18px;
+  gap: 24px;
   overflow: hidden;
   background:
-    linear-gradient(140deg, oklch(100% 0 0 / 0.72), transparent 44%),
-    repeating-linear-gradient(45deg, oklch(93% 0.02 78 / 0.32) 0 1px, transparent 1px 12px),
-    var(--surface);
+    /* Soft top-left highlight */
+    radial-gradient(circle at 18% 18%, oklch(100% 0 0 / 0.5), transparent 28%),
+    /* Edge fade to contain the sunburst */
+    radial-gradient(circle at 50% 46%, transparent 0 42%, oklch(98% 0.012 82 / 0.72) 72%),
+    /* Large centered warm glow */
+    radial-gradient(circle at 50% 46%, oklch(99% 0.01 82 / 0.92) 0%, transparent 46%),
+    /* Colorful sunburst using BINGO colors */
+    repeating-conic-gradient(from 0deg at 50% 46%,
+      color-mix(in oklch, var(--col-b) 22%, transparent) 0deg 10deg,
+      transparent 10deg 20deg,
+      color-mix(in oklch, var(--col-i) 22%, transparent) 20deg 30deg,
+      transparent 30deg 40deg,
+      color-mix(in oklch, var(--col-n) 20%, transparent) 40deg 50deg,
+      transparent 50deg 60deg,
+      color-mix(in oklch, var(--col-g) 20%, transparent) 60deg 70deg,
+      transparent 70deg 80deg,
+      color-mix(in oklch, var(--col-o) 20%, transparent) 80deg 90deg,
+      transparent 90deg 100deg
+    ),
+    /* Secondary thinner offset rays for depth */
+    repeating-conic-gradient(from 10deg at 50% 46%,
+      transparent 0deg 14deg,
+      color-mix(in oklch, var(--col-b) 10%, transparent) 14deg 16deg,
+      transparent 16deg 30deg,
+      color-mix(in oklch, var(--col-i) 10%, transparent) 30deg 32deg,
+      transparent 32deg 46deg,
+      color-mix(in oklch, var(--col-n) 9%, transparent) 46deg 48deg,
+      transparent 48deg 62deg,
+      color-mix(in oklch, var(--col-g) 9%, transparent) 62deg 64deg,
+      transparent 64deg 78deg,
+      color-mix(in oklch, var(--col-o) 9%, transparent) 78deg 80deg,
+      transparent 80deg 94deg
+    ),
+    /* Warm paper base */
+    linear-gradient(180deg, oklch(98.6% 0.012 82) 0%, oklch(96.2% 0.014 80) 100%);
   animation: waiting-card 900ms cubic-bezier(0.22, 1, 0.36, 1) both;
 }
 
-.card-back::before,
+/* Elegant frame */
+.card-back::before {
+  content: "";
+  position: absolute;
+  inset: 22px;
+  border-radius: 24px;
+  border: 1.5px solid color-mix(in oklch, var(--gold) 42%, var(--line));
+  pointer-events: none;
+}
+
+/* Refined corner ornaments - small diamonds */
 .card-back::after {
   content: "";
   position: absolute;
-  inset: 18px;
-  border: 1px solid var(--line);
-  border-radius: 22px;
-}
-
-.card-back::after {
-  inset: 32px;
-  border-color: color-mix(in oklch, var(--gold) 48%, var(--line));
-}
-
-.back-line {
-  width: 100px;
-  height: 3px;
-  border-radius: 999px;
-  background: linear-gradient(90deg, transparent, var(--gold), transparent);
+  inset: 26px;
+  border-radius: 18px;
+  background:
+    linear-gradient(45deg, var(--gold) 0%, var(--gold) 100%) 0 0 / 6px 6px no-repeat,
+    linear-gradient(45deg, var(--gold) 0%, var(--gold) 100%) 100% 0 / 6px 6px no-repeat,
+    linear-gradient(45deg, var(--gold) 0%, var(--gold) 100%) 0 100% / 6px 6px no-repeat,
+    linear-gradient(45deg, var(--gold) 0%, var(--gold) 100%) 100% 100% / 6px 6px no-repeat;
+  opacity: 0.8;
+  pointer-events: none;
 }
 
 .back-symbol {
+  --back-symbol-gap: clamp(6px, 2.2vw, 9px);
+  --back-tile-width: clamp(44px, calc((100vw - 130px) / 5), 56px);
   display: flex;
-  gap: 8px;
+  justify-content: center;
+  gap: var(--back-symbol-gap);
+  width: 100%;
+  max-width: calc((var(--back-tile-width) * 5) + (var(--back-symbol-gap) * 4));
   font-family: Georgia, Cambria, "Times New Roman", serif;
-  font-size: 26px;
+  font-size: clamp(25px, calc(var(--back-tile-width) * 0.54), 30px);
   font-weight: 800;
   color: var(--surface);
-  margin-top: 10px;
+  position: relative;
+  z-index: 1;
 }
 
 .back-symbol span {
-  width: 46px;
-  height: 54px;
+  --tile-color: var(--charcoal);
+  --screw-color: oklch(96% 0 0);
+  width: var(--back-tile-width);
+  height: calc(var(--back-tile-width) * 1.14);
   display: grid;
   place-items: center;
-  border-radius: 12px;
-  background: var(--charcoal);
-  box-shadow: none;
-  text-shadow: none;
+  border-radius: clamp(13px, calc(var(--back-tile-width) * 0.29), 16px);
+  background: var(--tile-color);
+  border: 3px solid oklch(100% 0 0 / 0.28);
+  position: relative;
 }
 
-.back-symbol span:nth-child(1) { background: var(--col-b); }
-.back-symbol span:nth-child(2) { background: var(--col-i); }
-.back-symbol span:nth-child(3) { background: var(--col-n); }
-.back-symbol span:nth-child(4) { background: var(--col-g); }
-.back-symbol span:nth-child(5) { background: var(--col-o); }
+/* Screws in all 4 corners */
+.back-symbol span::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  background:
+    /* screw slots */
+    linear-gradient(45deg, transparent 44%, oklch(0% 0 0 / 0.22) 45%, oklch(0% 0 0 / 0.22) 55%, transparent 56%) 8px 8px / 6px 6px no-repeat,
+    linear-gradient(-45deg, transparent 44%, oklch(0% 0 0 / 0.22) 45%, oklch(0% 0 0 / 0.22) 55%, transparent 56%) calc(100% - 8px) 8px / 6px 6px no-repeat,
+    linear-gradient(45deg, transparent 44%, oklch(0% 0 0 / 0.22) 45%, oklch(0% 0 0 / 0.22) 55%, transparent 56%) 8px calc(100% - 8px) / 6px 6px no-repeat,
+    linear-gradient(-45deg, transparent 44%, oklch(0% 0 0 / 0.22) 45%, oklch(0% 0 0 / 0.22) 55%, transparent 56%) calc(100% - 8px) calc(100% - 8px) / 6px 6px no-repeat,
+    /* screw heads */
+    radial-gradient(circle at 8px 8px, var(--screw-color) 0 3px, transparent 4px),
+    radial-gradient(circle at calc(100% - 8px) 8px, var(--screw-color) 0 3px, transparent 4px),
+    radial-gradient(circle at 8px calc(100% - 8px), var(--screw-color) 0 3px, transparent 4px),
+    radial-gradient(circle at calc(100% - 8px) calc(100% - 8px), var(--screw-color) 0 3px, transparent 4px);
+  z-index: 2;
+  pointer-events: none;
+}
+
+/* Fun patterns inside tiles */
+.back-symbol span:nth-child(1) {
+  --tile-color: var(--col-b);
+  background:
+    repeating-linear-gradient(45deg, transparent 0 8px, oklch(100% 0 0 / 0.12) 8px 16px),
+    var(--tile-color);
+}
+.back-symbol span:nth-child(2) {
+  --tile-color: var(--col-i);
+  background:
+    repeating-linear-gradient(0deg, transparent 0 7px, oklch(100% 0 0 / 0.12) 7px 14px),
+    var(--tile-color);
+}
+.back-symbol span:nth-child(3) {
+  --tile-color: var(--col-n);
+  background:
+    radial-gradient(circle at 50% 50%, oklch(100% 0 0 / 0.14) 0%, transparent 25%),
+    var(--tile-color);
+  background-size: 12px 12px, 100% 100%;
+}
+.back-symbol span:nth-child(4) {
+  --tile-color: var(--col-g);
+  background:
+    repeating-linear-gradient(90deg, transparent 0 7px, oklch(100% 0 0 / 0.12) 7px 14px),
+    var(--tile-color);
+}
+.back-symbol span:nth-child(5) {
+  --tile-color: var(--col-o);
+  background:
+    radial-gradient(circle at 50% 50%, oklch(100% 0 0 / 0.16) 0%, transparent 30%),
+    var(--tile-color);
+  background-size: 14px 14px, 100% 100%;
+}
+
+/* Missing screws - cover specific screws with empty holes */
+.back-symbol span:nth-child(1)::after,
+.back-symbol span:nth-child(3)::after,
+.back-symbol span:nth-child(5)::after {
+  content: "";
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: oklch(0% 0 0 / 0.18);
+  z-index: 3;
+  pointer-events: none;
+}
+
+/* B - missing bottom-right screw */
+.back-symbol span:nth-child(1)::after { bottom: 4px; right: 4px; }
+/* N - missing top-right screw */
+.back-symbol span:nth-child(3)::after { top: 4px; right: 4px; }
+/* O - missing bottom-left screw */
+.back-symbol span:nth-child(5)::after { bottom: 4px; left: 4px; }
 
 .back-title {
   font-family: Georgia, Cambria, "Times New Roman", serif;
-  font-size: 32px;
+  font-size: 34px;
   font-weight: 700;
   text-align: center;
   line-height: 1.15;
-  color: var(--ink);
-  margin-top: 8px;
+  color: var(--charcoal);
+  letter-spacing: -0.01em;
+  margin-top: 4px;
+  position: relative;
   z-index: 1;
 }
 
 .back-subtitle {
   color: var(--muted);
-  font-size: 16px;
-  font-weight: 600;
+  font-size: 15px;
+  font-weight: 650;
   text-align: center;
-  margin-top: -6px;
+  margin-top: -8px;
+  position: relative;
   z-index: 1;
 }
 
@@ -1063,14 +1200,14 @@ button {
 .draw-button.dealing:disabled {
   opacity: 1 !important;
   cursor: wait;
-  background: linear-gradient(180deg, oklch(70% 0.13 85) 0%, oklch(56% 0.13 76) 100%) !important;
+  background: linear-gradient(180deg, var(--draw-face-top) 0%, var(--draw-face-bottom) 100%) !important;
   background-size: auto !important;
   animation: none !important;
   box-shadow: 
     inset 0 2px 2px oklch(100% 0 0 / 0.40),
     inset 0 -1px 1px oklch(100% 0 0 / 0.14),
-    0 2px 0 oklch(42% 0.13 76),
-    0 3px 7px oklch(44% 0.13 76 / 0.20) !important;
+    0 2px 0 var(--draw-side-pressed),
+    0 3px 7px color-mix(in oklch, var(--draw-glow) 26%, transparent) !important;
   color: var(--surface) !important;
   border: 0 !important;
   transform: translateY(3px) scaleX(0.998) scaleY(0.99) !important;
@@ -3262,6 +3399,28 @@ button.material-row[aria-busy="true"] .material-icon svg {
 }
 
 @media (max-width: 374px) {
+  .card-back {
+    padding: 28px;
+    gap: 20px;
+  }
+
+  .back-symbol {
+    --back-symbol-gap: 7px;
+    --back-tile-width: clamp(42px, calc((100vw - 116px) / 5), 46px);
+  }
+
+  .back-symbol span {
+    border-width: 2.5px;
+  }
+
+  .back-title {
+    font-size: 30px;
+  }
+
+  .back-subtitle {
+    font-size: 14px;
+  }
+
   .call-card h2 {
     font-size: 36px;
   }

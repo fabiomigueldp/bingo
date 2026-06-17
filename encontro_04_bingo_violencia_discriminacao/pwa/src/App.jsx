@@ -297,7 +297,6 @@ function EmptyCard({ drawMode = DRAW_MODES.APP }) {
   const manualMode = drawMode === DRAW_MODES.MANUAL;
   return (
     <article className="call-card card-back" aria-label={manualMode ? "Aguardando bolinha" : "Baralho pronto"}>
-      <div className="back-line" />
       <div className="back-symbol">
         <span>B</span>
         <span>I</span>
