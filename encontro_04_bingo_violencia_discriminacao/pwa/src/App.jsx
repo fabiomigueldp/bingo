@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useRef, useState } from "react";
+import { memo, useEffect, useLayoutEffect, useMemo, useRef, useState } from "react";
 import data, {
   COLUMN_COLORS,
   COLUMN_ORDER,
@@ -370,18 +370,22 @@ function CallCard({ card, drawCount, drawMode }) {
   );
 }
 
+const MemoCallCard = memo(CallCard);
+
 function CardFlight({ exitingCard, enteringCard, drawCount, phase, drawMode }) {
   return (
     <div className={`card-flight ${phase}`} aria-hidden="true">
       <div className="flight-card exit-card">
-        <CallCard card={exitingCard} drawCount={`exit-${drawCount}`} drawMode={drawMode} />
+        <MemoCallCard card={exitingCard} drawCount={`exit-${drawCount}`} drawMode={drawMode} />
       </div>
       <div className="flight-card enter-card">
-        <CallCard card={enteringCard} drawCount={`enter-${drawCount}`} drawMode={drawMode} />
+        <MemoCallCard card={enteringCard} drawCount={`enter-${drawCount}`} drawMode={drawMode} />
       </div>
     </div>
   );
 }
+
+const MemoCardFlight = memo(CardFlight);
 
 function TopBar({ game, currentCard, onOpenBoards }) {
   const progress = game.drawnIds.length / data.cards.length;
@@ -487,13 +491,12 @@ function ManualCallControls({ game, onUndo, onCall, onHistory, onKeyboardOpenCha
     setLastCode(currentCode);
     if (!currentCode) {
       setActiveColumn("");
-      onKeyboardOpenChange?.(false);
       setMotionPhase("idle");
       setPressedNumber("");
     }
   }, [currentCode, onKeyboardOpenChange]);
 
-  useEffect(() => {
+  useLayoutEffect(() => {
     onKeyboardOpenChange?.(keyboardVisuallyOpen);
   }, [keyboardVisuallyOpen, onKeyboardOpenChange]);
 
@@ -526,7 +529,6 @@ function ManualCallControls({ game, onUndo, onCall, onHistory, onKeyboardOpenCha
     if (locked) return;
     setPressedNumber("");
     const nextColumn = activeColumn === column ? "" : column;
-    onKeyboardOpenChange?.(Boolean(nextColumn));
     setActiveColumn(nextColumn);
     setMotionPhase(nextColumn ? "selecting" : "idle");
   }
@@ -547,7 +549,6 @@ function ManualCallControls({ game, onUndo, onCall, onHistory, onKeyboardOpenCha
     const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
     if (reduceMotion) {
       setActiveColumn("");
-      onKeyboardOpenChange?.(false);
       onCall(card.id);
       setPendingManualCode("");
       setPressedNumber("");
@@ -556,7 +557,6 @@ function ManualCallControls({ game, onUndo, onCall, onHistory, onKeyboardOpenCha
     }
 
     scheduleManualCall(() => {
-      onKeyboardOpenChange?.(false);
       setMotionPhase("closing");
     }, 150);
 
@@ -651,6 +651,11 @@ function ManualCallControls({ game, onUndo, onCall, onHistory, onKeyboardOpenCha
     </nav>
   );
 }
+
+const MemoManualCallControls = memo(
+  ManualCallControls,
+  (previous, next) => previous.game === next.game && previous.busy === next.busy
+);
 
 function BottomSheet({ title, children, onClose, className = "" }) {
   const [closing, setClosing] = useState(false);
@@ -1490,7 +1495,7 @@ function GameScreen({ game, setGame, onReset }) {
 
       <section className="card-stage" aria-live="polite">
         {flight ? (
-          <CardFlight
+          <MemoCardFlight
             exitingCard={flight.exitingCard}
             enteringCard={flight.enteringCard}
             drawCount={flight.drawCount}
@@ -1498,12 +1503,12 @@ function GameScreen({ game, setGame, onReset }) {
             drawMode={drawMode}
           />
         ) : (
-          <CallCard card={currentCard} drawCount={drawnCount} drawMode={drawMode} />
+          <MemoCallCard card={currentCard} drawCount={drawnCount} drawMode={drawMode} />
         )}
       </section>
 
       {drawMode === DRAW_MODES.MANUAL ? (
-        <ManualCallControls
+        <MemoManualCallControls
           game={game}
           onUndo={undo}
           onCall={manualCall}
