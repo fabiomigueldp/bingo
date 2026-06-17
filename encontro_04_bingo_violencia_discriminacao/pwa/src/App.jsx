@@ -1159,6 +1159,8 @@ function ConferenceSheet({ game, boardNumber, onClose, onValidated }) {
   const scrollRef = useRef(null);
   const selectedLine = completedLines.find((line) => line.id === selectedLineId) || completedLines[0];
   const cells = selectedLine?.cells || [];
+  const selectedLineLabel = selectedLine ? `${visibleLineType(selectedLine.kind)} ${lineTabLabel(selectedLine)}` : "linha completa";
+  const boardLabel = boardNumber.toString().padStart(2, "0");
 
   useEffect(() => {
     setSelectedLineId(completedLines[0]?.id);
@@ -1198,17 +1200,19 @@ function ConferenceSheet({ game, boardNumber, onClose, onValidated }) {
   }, [openConceptId]);
 
   return (
-    <BottomSheet title={`Cartela ${boardNumber.toString().padStart(2, "0")}`} onClose={onClose} className="conference-sheet">
+    <BottomSheet title={`Cartela ${boardLabel}`} onClose={onClose} className="conference-sheet">
       <div className="conference-grid">
         <MiniBoard board={board} drawnIds={game.drawnIds} highlightLineId={selectedLine?.id} />
-        <div className="line-tabs" role="list" aria-label="Linhas completas">
+        <div className="line-tabs" role="tablist" aria-label="Linhas completas">
           {completedLines.map((line) => (
             <button
               type="button"
               key={line.id}
+              role="tab"
               className={line.id === selectedLine?.id ? "selected" : ""}
               onClick={() => setSelectedLineId(line.id)}
-              aria-pressed={line.id === selectedLine?.id}
+              aria-selected={line.id === selectedLine?.id}
+              aria-controls="conference-line-details"
             >
               <span>{visibleLineType(line.kind)}</span>
               <strong>{lineTabLabel(line)}</strong>
@@ -1217,21 +1221,35 @@ function ConferenceSheet({ game, boardNumber, onClose, onValidated }) {
         </div>
       </div>
 
-      <div className="conference-scroll" ref={scrollRef}>
-        <div className="concept-checklist">
-          {cells.map((cell) => (
-            <ConceptDisclosure
-              cell={cell}
-              isOpen={openConceptId === cell.id}
-              key={`${selectedLine?.id}-${cell.id}`}
-              onToggle={() => setOpenConceptId((current) => (current === cell.id ? null : cell.id))}
-            />
-          ))}
+      <div className="conference-scroll-shell">
+        <div
+          className="conference-scroll"
+          ref={scrollRef}
+          id="conference-line-details"
+          role="tabpanel"
+          aria-label={`Conceitos da ${selectedLineLabel}`}
+        >
+          <div className="concept-checklist">
+            {cells.map((cell) => (
+              <ConceptDisclosure
+                cell={cell}
+                isOpen={openConceptId === cell.id}
+                key={`${selectedLine?.id}-${cell.id}`}
+                onToggle={() => setOpenConceptId((current) => (current === cell.id ? null : cell.id))}
+              />
+            ))}
+            <div className="conference-scroll-footer" aria-hidden="true" />
+          </div>
         </div>
       </div>
 
       <div className="sheet-actions conference-actions">
-        <button className="primary-action" type="button" onClick={() => onValidated(boardNumber, selectedLine?.id)}>
+        <button
+          className="primary-action"
+          type="button"
+          onClick={() => onValidated(boardNumber, selectedLine?.id)}
+          aria-label={`Validar vitória da cartela ${boardLabel}, ${selectedLineLabel}`}
+        >
           Vitória validada
         </button>
         <button className="text-action" type="button" onClick={onClose}>

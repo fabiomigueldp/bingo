@@ -2708,12 +2708,32 @@ button {
 }
 
 .conference-scroll {
-  flex: 1 1 0;
-  min-height: 292px;
+  flex: 1 1 auto;
+  height: 100%;
+  min-height: 0;
   margin: 0 -1px;
-  padding: 8px 1px 14px;
-  scroll-padding: 8px 0 22px;
+  padding: 8px 1px 12px;
+  scroll-padding: 12px 0 72px;
   touch-action: pan-y;
+}
+
+.conference-scroll-shell {
+  position: relative;
+  min-height: 0;
+  flex: 1 1 0;
+  display: flex;
+}
+
+.conference-scroll-shell::after {
+  content: "";
+  position: absolute;
+  left: -1px;
+  right: -1px;
+  bottom: 0;
+  z-index: 1;
+  height: 38px;
+  background: linear-gradient(0deg, var(--surface) 0%, color-mix(in oklch, var(--surface) 72%, transparent) 56%, transparent 100%);
+  pointer-events: none;
 }
 
 .conference-grid {
@@ -2789,6 +2809,10 @@ button {
 
 .conference-sheet .concept-checklist {
   gap: 7px;
+}
+
+.conference-scroll-footer {
+  height: 58px;
 }
 
 .concept-item {
@@ -2904,8 +2928,9 @@ button {
 }
 
 .conference-actions {
-  margin: 6px -2px 0;
-  padding: 8px 0 0;
+  margin: 10px -2px 0;
+  padding: 10px 0 0;
+  border-top: 1px solid color-mix(in oklch, var(--line) 58%, transparent);
   background:
     linear-gradient(180deg, oklch(98.5% 0.012 82 / 0), oklch(97% 0.014 80) 42%);
 }
@@ -3382,11 +3407,13 @@ button {
 
   .conference-sheet {
     height: min(92dvh, 700px);
-    max-height: min(92dvh, 700px);
+  }
+
+  .conference-scroll-shell {
+    min-height: 220px;
   }
 
   .conference-scroll {
-    min-height: 220px;
     padding-top: 7px;
     padding-bottom: 12px;
   }
