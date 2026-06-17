@@ -1499,9 +1499,14 @@ button {
   overflow: hidden;
   position: relative;
   z-index: 1;
-  transform: translate3d(0, 0, 0);
+  opacity: 0;
+  transform: translate3d(0, 8px, 0) scale(0.99);
+  transition:
+    opacity 170ms var(--ease-out-quint),
+    transform 240ms var(--ease-out-expo);
   backface-visibility: hidden;
   -webkit-backface-visibility: hidden;
+  will-change: transform, opacity;
 }
 
 .manual-number {
@@ -1521,8 +1526,8 @@ button {
     inset 0 -1px 2px color-mix(in oklch, var(--pad-accent) 12%, oklch(20% 0.014 65 / 0.18)),
     0 4px 0 color-mix(in oklch, var(--pad-accent) 24%, oklch(18% 0.014 65 / 0.22)),
     0 6px 9px color-mix(in oklch, var(--pad-accent) 10%, oklch(18% 0.014 65 / 0.12));
-  opacity: 0;
-  transform: translate3d(0, 10px, 0) scale(0.985);
+  opacity: 1;
+  transform: translate3d(0, 8px, 0) scale(0.985);
   cursor: pointer;
   -webkit-appearance: none;
   appearance: none;
@@ -1530,21 +1535,23 @@ button {
   contain: paint;
   transition:
     transform 160ms var(--ease-out-quart),
-    color 180ms,
-    opacity 160ms var(--ease-out-quint);
+    color 180ms;
   transition-delay: 0ms;
   will-change: transform, opacity;
 }
 
 .manual-controls.expanded .manual-number {
-  opacity: 1;
   transform: translate3d(0, 0, 0) scale(1);
   transition-delay: var(--number-rise-delay);
 }
 
+.manual-controls.expanded .manual-numbers {
+  opacity: 1;
+  transform: translate3d(0, 0, 0) scale(1);
+}
+
 .manual-controls:not(.expanded) .manual-number {
-  opacity: 0 !important;
-  transform: translate3d(0, 12px, 0) scale(0.98) !important;
+  transform: translate3d(0, 8px, 0) scale(0.985) !important;
   animation: none !important;
 }
 
@@ -1554,9 +1561,13 @@ button {
 }
 
 .manual-controls.motion-closing .manual-number {
-  opacity: 0 !important;
-  transform: translate3d(0, 14px, 0) scale(0.976) !important;
+  transform: translate3d(0, 8px, 0) scale(0.985) !important;
   animation: none !important;
+}
+
+.manual-controls.motion-closing .manual-numbers {
+  opacity: 0;
+  transform: translate3d(0, 10px, 0) scale(0.99);
 }
 
 .manual-number:active {
