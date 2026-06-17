@@ -558,21 +558,21 @@ function ManualCallControls({ game, onUndo, onCall, onHistory, onKeyboardOpenCha
     scheduleManualCall(() => {
       onKeyboardOpenChange?.(false);
       setMotionPhase("closing");
-    }, 180);
+    }, 150);
 
     scheduleManualCall(() => {
       setActiveColumn("");
-    }, 460);
+    }, 360);
 
     scheduleManualCall(() => {
       onCall(card.id);
-    }, 430);
+    }, 300);
 
     scheduleManualCall(() => {
       setPendingManualCode("");
       setPressedNumber("");
       setMotionPhase("idle");
-    }, 620);
+    }, 500);
   }
 
   return (
