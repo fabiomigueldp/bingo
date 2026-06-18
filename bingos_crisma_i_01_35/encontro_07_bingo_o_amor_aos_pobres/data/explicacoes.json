@@ -1,0 +1,308 @@
+{
+  "title": "Carta de explicações rápidas — Bingo O amor aos pobres",
+  "meeting": "Encontro 07 — O amor aos pobres",
+  "source_calls": "data/chamadas.json",
+  "purpose": "Explicações breves para o condutor usar durante a chamada de cada carta.",
+  "entries": [
+    {
+      "id": "B01",
+      "explanation": "O ponto central é **Cristo no pequeno**. Em Mt 25, Jesus se identifica com quem tem fome, sede, doença, prisão e abandono. A ajuda cristã não trata o pobre como objeto de serviço, mas como pessoa em quem Cristo nos visita."
+    },
+    {
+      "id": "B02",
+      "explanation": "A **opção preferencial** não é ódio aos ricos nem moda social. É prioridade evangélica diante de quem sofre maior vulnerabilidade. A Igreja reconhece nos pobres uma urgência que pede atenção, recursos e conversão."
+    },
+    {
+      "id": "B03",
+      "explanation": "A **dignidade** não depende de dinheiro, aparência, saúde ou utilidade. O pobre pode estar ferido, mas não deixa de ser pessoa amada por Deus. A caridade começa quando o tratamos como alguém, e não como incômodo."
+    },
+    {
+      "id": "B04",
+      "explanation": "O **destino dos bens** ensina que os bens da criação devem servir a todos. A propriedade é real, mas não é licença para desperdício egoísta. Quando falta o necessário ao pobre, o uso dos bens precisa ser examinado diante de Deus."
+    },
+    {
+      "id": "B05",
+      "explanation": "A **justiça** vem antes da aparência de generosidade. Não se chama de dom aquilo que já era devido ao pobre ou ao trabalhador. A caridade verdadeira não encobre dívida, salário retido ou direito negado."
+    },
+    {
+      "id": "B06",
+      "explanation": "A **caridade teologal** é mais que simpatia. Ela ama o próximo por amor de Deus, inclusive quando a pessoa incomoda ou não retribui. Isso não elimina limites, mas impede desprezo e indiferença."
+    },
+    {
+      "id": "B07",
+      "explanation": "As **obras corporais** respondem a necessidades do corpo. Dar comida, água, roupa, abrigo, visita e sepultura digna não é detalhe opcional. Em Mt 25, Jesus liga essas obras ao reconhecimento dos seus discípulos."
+    },
+    {
+      "id": "B08",
+      "explanation": "A **misericórdia espiritual** cuida da alma ferida. Ensinar, aconselhar, consolar, corrigir, perdoar e rezar também são obras de misericórdia. Elas não substituem o pão, mas alcançam pobrezas que o dinheiro sozinho não cura."
+    },
+    {
+      "id": "B09",
+      "explanation": "A **esmola** é bíblica e legítima quando feita com caridade e respeito. Ela não deve humilhar nem servir para aparecer. Também não substitui a justiça quando há salário, dívida ou direito a ser cumprido."
+    },
+    {
+      "id": "B10",
+      "explanation": "A **pobreza de Cristo** corrige uma fé confortável. Jesus não apenas falou dos pobres; Ele assumiu pobreza, fragilidade e humilhação. Quem honra Cristo deve reconhecer os pobres reais, não apenas símbolos religiosos."
+    },
+    {
+      "id": "B11",
+      "explanation": "A **avareza** fecha o coração diante da necessidade alheia. O problema não é possuir bens honestos, mas amar a riqueza de modo desordenado. Quando o lucro nasce da miséria ou da exploração, há pecado contra a justiça."
+    },
+    {
+      "id": "B12",
+      "explanation": "O **trabalho** tem sentido pessoal, familiar e social. O Catecismo lembra que trabalhamos também para poder partilhar com quem tem necessidade. O ganho cristão não deve terminar apenas no próprio consumo."
+    },
+    {
+      "id": "B13",
+      "explanation": "A **solidariedade cristã** reconhece que a dor do outro me diz respeito. Não é opinião distante sobre pobreza. É vínculo concreto que pergunta o que posso fazer, apoiar, corrigir ou sustentar."
+    },
+    {
+      "id": "B14",
+      "explanation": "O **salário justo** é questão grave diante de Deus. A Escritura diz que o salário retido clama ao Senhor. Explorar trabalhador pobre não é esperteza, é injustiça que fere a vida concreta de uma família."
+    },
+    {
+      "id": "B15",
+      "explanation": "A **miséria humana** revela a condição ferida do homem e a necessidade de salvação. Cristo se compadece dessa miséria e a assume. Por isso a Igreja deve aliviar, defender e libertar os pobres, não apenas comentar seu sofrimento."
+    },
+    {
+      "id": "I01",
+      "explanation": "A **fome invisível** aparece quando a necessidade se esconde por vergonha. Nem todo pobre pede em voz alta. A caridade educa o olhar para perceber sinais e oferecer ajuda discreta, sem invasão."
+    },
+    {
+      "id": "I02",
+      "explanation": "O **remédio negado** mostra como pobreza e doença se agravam mutuamente. Quando falta dinheiro para tratamento, a pessoa não sofre só uma despesa, mas risco real à vida. A resposta cristã busca ajuda concreta e encaminhamento sério."
+    },
+    {
+      "id": "I03",
+      "explanation": "O **aluguel impossível** mostra escolhas que a pobreza impõe. Moradia, comida e remédio não são luxos concorrendo entre si. O discernimento cristão evita julgamento rápido e procura proteger a família vulnerável."
+    },
+    {
+      "id": "I04",
+      "explanation": "O **morador de rua** costuma ser visto como incômodo urbano. A fé exige reconhecer primeiro a pessoa, sem negar dificuldades de convivência e segurança. O cristão não resolve tudo, mas não aceita humilhação como resposta."
+    },
+    {
+      "id": "I05",
+      "explanation": "O **idoso esquecido** revela pobreza afetiva e prática. Pagar contas não substitui presença, escuta e cuidado. A misericórdia cristã visita, verifica necessidades e protege a dignidade de quem envelhece."
+    },
+    {
+      "id": "I06",
+      "explanation": "O **preso abandonado** não deixa de ter dignidade por causa do crime. Justiça e misericórdia não são inimigas. Visitar, oferecer palavra e favorecer conversão não é negar responsabilidade, mas reconhecer a pessoa diante de Cristo."
+    },
+    {
+      "id": "I07",
+      "explanation": "O **migrante sem rede** sofre várias pobrezas ao mesmo tempo. Pode faltar idioma, documento, trabalho justo, moradia e proteção. A caridade cristã cria ponte concreta, sem exploração e sem fechamento do coração."
+    },
+    {
+      "id": "I08",
+      "explanation": "O **trabalhador explorado** mostra necessidade usada contra a pessoa. Aceitar por fome não torna justa uma condição abusiva. O amor aos pobres inclui salário devido, descanso, segurança e respeito."
+    },
+    {
+      "id": "I09",
+      "explanation": "A **criança sem cuidado** exige proteção especial. A pobreza pode expor crianças a riscos sem que a família seja simplesmente má. A resposta cristã busca apoio e encaminhamento, não condenação apressada."
+    },
+    {
+      "id": "I10",
+      "explanation": "A **doença sem visita** junta dor física e solidão. Visitar o enfermo é obra de misericórdia porque leva presença, cuidado e defesa da dignidade. A visita cristã deve ser respeitosa e útil."
+    },
+    {
+      "id": "I11",
+      "explanation": "O **luto sem sepultura** fere a dignidade de quem morreu e de quem ficou. A Igreja reconhece sepultar os mortos como obra de misericórdia corporal. Mesmo na pobreza, a morte pede respeito, oração e memória."
+    },
+    {
+      "id": "I12",
+      "explanation": "A **dívida que aprisiona** usa a necessidade como corrente. Juros abusivos e ameaças não são ajuda, mas opressão. A resposta cristã procura libertar, orientar e impedir que a pobreza vire lucro injusto."
+    },
+    {
+      "id": "I13",
+      "explanation": "O **vício e miséria** pedem discernimento firme. Há dignidade, doença, responsabilidade, risco e exploração misturados. A caridade não despreza a pessoa, mas também não age com ingenuidade."
+    },
+    {
+      "id": "I14",
+      "explanation": "A **solidão cultural** limita defesa e participação. Quem não entende contrato, linguagem ou informação fica mais vulnerável. Ensinar e aconselhar podem ser obras espirituais com consequência material muito concreta."
+    },
+    {
+      "id": "I15",
+      "explanation": "A **fé sem acesso** mostra pobreza religiosa e cultural. Distância, vergonha e falta de formação podem afastar alguém dos sacramentos sem rejeição consciente de Deus. Evangelizar os pobres exige proximidade paciente."
+    },
+    {
+      "id": "N01",
+      "explanation": "A **culpa do pobre** é uma mentira simplificadora. Ela transforma miséria em acusação total contra a vítima. O cristão discerne responsabilidades reais, mas não apaga doença, injustiça, abandono e fragilidade."
+    },
+    {
+      "id": "N02",
+      "explanation": "O **mérito sem próximo** usa esforço pessoal como desculpa para fechar o coração. O sucesso honesto pode ser bom, mas não autoriza desprezo. A parábola do samaritano pergunta quem se fez próximo do ferido."
+    },
+    {
+      "id": "N03",
+      "explanation": "Dizer que **esmola resolve tudo** reduz a caridade. A esmola pode ser boa, mas não substitui justiça, vínculo e responsabilidade. O pobre precisa de socorro concreto e também de dignidade protegida."
+    },
+    {
+      "id": "N04",
+      "explanation": "A **política do descarte** aparece quando frágeis são tratados como peso. Idosos, doentes, presos e pobres não perdem dignidade por dependerem de outros. A resposta cristã busca cuidado real, não desaparecimento do incômodo."
+    },
+    {
+      "id": "N05",
+      "explanation": "O **medo como desculpa** usa risco para justificar abandono total. Prudência é necessária, mas prudência verdadeira age de modo seguro. Omissão não fica boa só porque recebeu um nome respeitável."
+    },
+    {
+      "id": "N06",
+      "explanation": "A **riqueza como absolvição** confunde sucesso com virtude. Dinheiro não purifica lucro injusto nem exploração. O Evangelho exige examinar origem, uso e finalidade dos bens."
+    },
+    {
+      "id": "N07",
+      "explanation": "**Caridade sem justiça** é aparência de bondade. Doar publicamente não compensa salário injusto, direito negado ou dívida escondida. Primeiro se cumpre o devido; depois se oferece o dom verdadeiro."
+    },
+    {
+      "id": "N08",
+      "explanation": "**Justiça sem caridade** perde o modo cristão de agir. Uma causa justa pode ser defendida com mentira, insulto e humilhação, e isso também fere a dignidade. A fé exige firmeza com verdade e caridade."
+    },
+    {
+      "id": "N09",
+      "explanation": "**Espiritualizar a fome** é fugir do concreto com linguagem religiosa. A oração é necessária, mas não substitui pão quando há pão para partilhar. Tiago é claro contra palavras piedosas sem ajuda real."
+    },
+    {
+      "id": "N10",
+      "explanation": "A **distância confortável** transforma pobres em tema de conversa. A pessoa discute números, causas e culpados, mas evita qualquer decisão. O cristão deixa a realidade tocar a consciência e pergunta pela obra possível."
+    },
+    {
+      "id": "N11",
+      "explanation": "O **merecimento seletivo** estreita a misericórdia. A ajuda não deve ser prêmio só para pobres agradáveis, limpos ou obedientes. A prudência decide o modo de ajudar, não autoriza humilhação."
+    },
+    {
+      "id": "N12",
+      "explanation": "Ver **pobres como ameaça** antes de vê-los como pessoas é deformação do olhar. Pode haver questões reais de convivência e segurança, mas isso não permite desumanizar famílias inteiras. O cristão discerne sem preconceito."
+    },
+    {
+      "id": "N13",
+      "explanation": "Dizer que **trabalho basta** pode ser falso e cruel. O trabalho é digno, mas doença, exploração, desemprego e falta de formação podem bloquear uma pessoa. A resposta cristã valoriza o trabalho sem desprezar o ferido."
+    },
+    {
+      "id": "N14",
+      "explanation": "A **assistência humilhante** usa a pobreza para domínio ou autopromoção. Ajudar não dá direito de expor vergonha, rosto e história alheia. A caridade preserva a dignidade de quem recebe."
+    },
+    {
+      "id": "N15",
+      "explanation": "**Sempre foi assim** é frase de rendição moral. A permanência da pobreza não torna a injustiça aceitável. Dt 15 reconhece a presença dos pobres e manda abrir a mão, não cruzar os braços."
+    },
+    {
+      "id": "G01",
+      "explanation": "Distinguir **pessoa e condição** impede reduzir alguém à pobreza, ao vício ou ao crime. A condição pode exigir correção, tratamento ou limite. A pessoa, porém, conserva dignidade e possibilidade de ser alcançada pela graça."
+    },
+    {
+      "id": "G02",
+      "explanation": "**Pobreza e miséria** não são a mesma coisa. Simplicidade escolhida pode ser virtude, mas privação do necessário fere a vida. A pobreza evangélica deve libertar o coração para combater a miséria real."
+    },
+    {
+      "id": "G03",
+      "explanation": "**Esmola e caridade** se relacionam, mas não se confundem. A esmola é gesto concreto de partilha. A caridade é virtude mais profunda, que ordena intenção, respeito, justiça e perseverança."
+    },
+    {
+      "id": "G04",
+      "explanation": "**Caridade e justiça** não competem. A caridade socorre com amor; a justiça dá o que é devido. Uma ajuda que encobre injustiça precisa ser purificada pela verdade e pela reparação."
+    },
+    {
+      "id": "G05",
+      "explanation": "**Prudência e omissão** precisam ser distinguidas. Prudência reconhece risco e escolhe meio adequado. Omissão evita todo compromisso e depois usa linguagem respeitável para esconder abandono."
+    },
+    {
+      "id": "G06",
+      "explanation": "**Ajuda e dependência** não são iguais. A ajuda verdadeira busca socorrer e fortalecer a pessoa. Quando a doação vira controle, ameaça ou domínio, a dignidade do pobre é ferida."
+    },
+    {
+      "id": "G07",
+      "explanation": "**Proximidade e risco** devem caminhar juntas. A caridade não foge do pobre, mas também não age de modo imprudente. Aproximar-se cristãmente pode significar chamar serviço competente e acompanhar com segurança."
+    },
+    {
+      "id": "G08",
+      "explanation": "**Urgência e estrutura** são dois níveis de resposta. Quem tem fome precisa comer hoje. Mas se a causa continua produzindo vítimas, a justiça pede trabalho mais longo e responsável."
+    },
+    {
+      "id": "G09",
+      "explanation": "**Preferência e exclusão** não são a mesma coisa. A Igreja tem amor preferencial pelos pobres, mas não prega ódio contra quem possui bens. Todos são chamados à conversão, à justiça e à caridade."
+    },
+    {
+      "id": "G10",
+      "explanation": "**Necessário e supérfluo** ajudam a examinar o uso dos bens. Nem todo conforto é pecado, mas o excesso fechado ao pobre revela desordem. A fé pergunta se meu consumo me torna indiferente ao indispensável do outro."
+    },
+    {
+      "id": "G11",
+      "explanation": "**Compaixão e vaidade** podem parecer iguais por fora. A compaixão busca o bem do pobre. A vaidade usa a necessidade alheia para imagem, aplauso ou superioridade moral."
+    },
+    {
+      "id": "G12",
+      "explanation": "**Denúncia e ideologia** precisam ser separadas. Denunciar exploração é exigência de justiça. Manipular dados ou usar os pobres como peça de disputa trai a verdade e não serve ao bem deles."
+    },
+    {
+      "id": "G13",
+      "explanation": "**Perdão e reparação** não se anulam. O perdão cristão liberta do ódio, mas não transforma dano material em nada. Quem roubou, explorou ou enganou deve reparar quando possível."
+    },
+    {
+      "id": "G14",
+      "explanation": "**Vulnerável e culpado** exige leitura madura. Um ato pode ser errado e, ao mesmo tempo, a pessoa pode estar ferida por fome, doença ou abandono. A resposta cristã evita dureza cega e relativização do mal."
+    },
+    {
+      "id": "G15",
+      "explanation": "**Oração e passividade** não são a mesma coisa. Rezar pelos pobres é necessário e cristão. Mas usar a oração para substituir uma obra possível é fuga da caridade concreta."
+    },
+    {
+      "id": "O01",
+      "explanation": "**Dar alimento real** responde à fome com o que a fome pede. Palavra respeitosa é boa, mas não alimenta sozinha. Quando há possibilidade de partilhar comida, a misericórdia precisa tomar forma concreta."
+    },
+    {
+      "id": "O02",
+      "explanation": "**Partilhar o necessário** começa por rever o próprio excesso. O Evangelho pergunta o que fazemos com a segunda túnica quando alguém não tem nenhuma. A partilha cristã deve ser limpa, útil e respeitosa."
+    },
+    {
+      "id": "O03",
+      "explanation": "**Encaminhar com cuidado** reconhece limites reais. Ninguém precisa prometer resolver sozinho o que exige serviço, documento, médico ou autoridade competente. A caridade pode ser ponte responsável até a ajuda adequada."
+    },
+    {
+      "id": "O04",
+      "explanation": "**Visitar sem invadir** une presença e respeito. O doente, idoso ou solitário não deve ser tratado como curiosidade. A visita cristã escuta, ajuda no possível e protege a intimidade da pessoa."
+    },
+    {
+      "id": "O05",
+      "explanation": "**Escutar antes de julgar** é ato de discernimento. A primeira impressão pode esconder doença, luto, exploração ou obrigação familiar pesada. Ouvir não é aprovar tudo; é buscar resposta mais justa."
+    },
+    {
+      "id": "O06",
+      "explanation": "**Pagar salário justo** é amor concreto. O salário sustenta comida, aluguel e remédio de uma família. Reter ou atrasar o que é devido fere a justiça e clama diante de Deus."
+    },
+    {
+      "id": "O07",
+      "explanation": "**Recusar exploração** pode exigir perder vantagem. Quando se conhece abuso contra trabalhadores pobres, continuar financiando o ganho injusto pesa moralmente. A renúncia concreta protege a consciência e a dignidade dos explorados."
+    },
+    {
+      "id": "O08",
+      "explanation": "**Reparar a omissão** transforma culpa em conversão. Reconhecer que se virou as costas ao pobre não basta. É preciso pedir perdão quando convém e assumir ajuda proporcional e possível."
+    },
+    {
+      "id": "O09",
+      "explanation": "**Proteger a dignidade** é parte da ajuda. O pobre não precisa pagar pela cesta com exposição de rosto, endereço ou vergonha. A caridade presta contas sem transformar necessidade em espetáculo."
+    },
+    {
+      "id": "O10",
+      "explanation": "**Acompanhar o doente** exige continuidade. Às vezes a maior ajuda é transporte, presença, compreensão da receita ou apoio a quem cuida. Visitar o enfermo em Mt 25 pede cuidado real, não gesto vazio."
+    },
+    {
+      "id": "O11",
+      "explanation": "**Defender sem humilhar** é firmeza cristã. O pobre injustiçado precisa de proteção, não de espetáculo. A correção deve buscar verdade, reparação e limite, sem insulto nem vingança."
+    },
+    {
+      "id": "O12",
+      "explanation": "**Organizar a partilha** torna a caridade mais fiel. Boa vontade sem ordem pode desperdiçar alimentos, repetir doações e esquecer necessidades. Lista, escala e prestação simples de contas servem aos pobres."
+    },
+    {
+      "id": "O13",
+      "explanation": "**Rezar e agir** mantém a fé inteira. A oração apresenta os pobres a Deus e purifica a intenção. A ação concreta obedece ao Cristo que diz: tive fome e me destes de comer."
+    },
+    {
+      "id": "O14",
+      "explanation": "**Formar consciência** evita caridade cega ou preconceituosa. Mt 25 e o Catecismo ensinam o modo cristão de ver os pobres. Quem se forma ajuda melhor e corrige falsas narrativas."
+    },
+    {
+      "id": "O15",
+      "explanation": "**Cobrar justiça legítima** é parte do amor aos pobres. Há sofrimentos que exigem documento, denúncia, protocolo e cobrança pública responsável. O cristão pode ser firme sem mentira, manipulação ou violência."
+    }
+  ]
+}

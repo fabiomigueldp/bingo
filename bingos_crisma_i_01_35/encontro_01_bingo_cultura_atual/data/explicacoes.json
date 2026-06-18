@@ -1,0 +1,308 @@
+{
+  "title": "Carta de explicações rápidas — Bingo Cultura atual",
+  "meeting": "Encontro 01 — Cultura atual",
+  "source_calls": "data/chamadas.json",
+  "purpose": "Explicações breves para o condutor usar durante a chamada de cada carta.",
+  "entries": [
+    {
+      "id": "B01",
+      "explanation": "A cultura atual muitas vezes transforma a verdade em preferência. A fé cristã afirma que **Cristo** é a Verdade, não uma opinião entre outras. Isso não autoriza arrogância, mas exige humildade para submeter a vida ao que Deus revela."
+    },
+    {
+      "id": "B02",
+      "explanation": "Jesus liga liberdade a permanência na sua **Palavra**. Quem vive mudando conforme a pressão do ambiente não está mais livre por isso. A Palavra forma critério, purifica o juízo e liberta da confusão."
+    },
+    {
+      "id": "B03",
+      "explanation": "A **consciência** não é um sentimento qualquer de tranquilidade. Ela precisa ser formada pela verdade, pela Palavra, pela oração e pelo ensinamento da Igreja. Sem formação, a pessoa chama de consciência aquilo que pode ser medo, orgulho ou conveniência."
+    },
+    {
+      "id": "B04",
+      "explanation": "A liberdade cristã não é fazer qualquer coisa. Segundo o Catecismo, a pessoa se torna mais livre quando pratica o **bem**. Escolher o mal não aumenta liberdade; cria servidão interior."
+    },
+    {
+      "id": "B05",
+      "explanation": "A **lei moral** não existe para sufocar a pessoa. Ela educa a liberdade para reconhecer o bem e resistir à desordem. Sem essa formação, a pessoa fica entregue ao impulso e à pressão social."
+    },
+    {
+      "id": "B06",
+      "explanation": "A pessoa humana não vale por aparência, utilidade ou sucesso. Sua **dignidade** é anterior a qualquer função social. Por isso, ninguém pode ser tratado como objeto de consumo, descarte ou manipulação."
+    },
+    {
+      "id": "B07",
+      "explanation": "A **pureza do coração** ordena o olhar e o desejo. Ela não nega o corpo nem demoniza o desejo humano. Ela impede que o outro seja visto como objeto de prazer ou curiosidade."
+    },
+    {
+      "id": "B08",
+      "explanation": "A **veracidade** exige retidão no falar e no agir. Não basta evitar uma frase falsa se a intenção é enganar. A palavra cristã deve ser simples, honesta e livre de duplicidade."
+    },
+    {
+      "id": "B09",
+      "explanation": "A mentira não fere apenas uma relação particular. Ela destrói a **confiança** que permite a vida comum. A verdade é uma exigência de justiça porque o outro tem direito ao que é verdadeiro."
+    },
+    {
+      "id": "B10",
+      "explanation": "Ser discípulo de Cristo exige **coerência**. Não basta usar linguagem religiosa se os atos permanecem na mentira. Viver na verdade é deixar que Cristo alcance decisões, contratos, palavras e costumes."
+    },
+    {
+      "id": "B11",
+      "explanation": "O Evangelho não é inimigo da cultura. A **Boa Nova** purifica o que está ferido, eleva o que é bom e restaura o que foi deformado pelo pecado. O cristão discerne a cultura, não a idolatra."
+    },
+    {
+      "id": "B12",
+      "explanation": "O pecado raramente aparece dizendo que é destruição. Ele se apresenta como vantagem, prazer, liberdade ou necessidade. Reconhecer a **sedução do pecado** ajuda a não confundir atração com bem."
+    },
+    {
+      "id": "B13",
+      "explanation": "A fé católica não despreza a razão. A busca da **verdade** exige pensar, ouvir, examinar e corrigir opiniões. A fé ilumina a razão para que ela não seja escrava do gosto pessoal."
+    },
+    {
+      "id": "B14",
+      "explanation": "A **modéstia** não é vergonha do corpo. Ela protege a intimidade e recusa transformar a pessoa em vitrine. O corpo participa da dignidade da pessoa inteira."
+    },
+    {
+      "id": "B15",
+      "explanation": "Não há comunhão cristã sólida sustentada por mentira. A **verdade** pode exigir desconforto, correção e reparação. A unidade que encobre o mal é aparência, não comunhão em Cristo."
+    },
+    {
+      "id": "I01",
+      "explanation": "A verdade sob medida parece respeitosa, mas destrói o critério comum do bem. Quando cada um fabrica sua própria verdade moral, contratos, promessas e deveres ficam frágeis. Cristo chama a pessoa a aderir à **verdade**, não à conveniência."
+    },
+    {
+      "id": "I02",
+      "explanation": "Consumir intimidade alheia fere a pessoa mesmo quando parece apenas curiosidade. O olhar se acostuma a tratar dor, corpo e vida privada como espetáculo. A pureza cristã exige recusar esse tipo de **consumo**."
+    },
+    {
+      "id": "I03",
+      "explanation": "Opinião pública sem responsabilidade pode destruir reputações e provocar danos reais. A liberdade de falar não elimina o dever da **veracidade**. Antes de acusar, é preciso buscar fatos, justiça e proporção."
+    },
+    {
+      "id": "I04",
+      "explanation": "A vaidade digital treina a pessoa a medir valor por reação externa. Isso enfraquece a percepção da própria dignidade. A fé recorda que a pessoa vale antes de qualquer **aprovação** recebida."
+    },
+    {
+      "id": "I05",
+      "explanation": "Nem todo humor é inocente. Quando a graça depende de reduzir alguém a vergonha pública, há degradação. A fala cristã respeita a **dignidade** e não coopera com humilhação."
+    },
+    {
+      "id": "I06",
+      "explanation": "Permissividade não é verdadeira educação. Abandonar alguém à própria confusão não forma liberdade. A consciência precisa de **limites**, critérios e ensinamento respeitoso da verdade."
+    },
+    {
+      "id": "I07",
+      "explanation": "O trabalho também é lugar de vida moral. Resultado, lucro e contrato não justificam mentira. A **consciência** deve julgar decisões profissionais com o mesmo compromisso com verdade e justiça."
+    },
+    {
+      "id": "I08",
+      "explanation": "O individualismo chama dever de obstáculo. Mas vínculos familiares e responsabilidades concretas fazem parte da vida moral. A liberdade cristã não abandona o próximo quando ele se torna custoso."
+    },
+    {
+      "id": "I09",
+      "explanation": "Reduzir a fé a gosto privado evita a conversão da vida real. Cristo não é uma preferência íntima sem consequências. O discípulo vive a **verdade** também nas decisões públicas e concretas."
+    },
+    {
+      "id": "I10",
+      "explanation": "A mentira útil continua sendo mentira. Ela pode trazer lucro, evitar constrangimento ou preservar imagem, mas fere a confiança. A **veracidade** não permite usar o outro por meio de engano."
+    },
+    {
+      "id": "I11",
+      "explanation": "Cuidar do corpo é bom; vender o corpo como vitrine é outra coisa. A exposição pode transformar a pessoa em produto de desejo e mercado. A **modéstia** protege a pessoa inteira."
+    },
+    {
+      "id": "I12",
+      "explanation": "A indiferença ao próximo é individualismo em forma prática. O outro deixa de ser alguém confiado à nossa caridade e vira problema privado. A liberdade cristã se realiza no **serviço**, não no isolamento."
+    },
+    {
+      "id": "I13",
+      "explanation": "O linchamento digital mistura indignação com punição sem justiça. A exposição coletiva pode ferir mais do que corrigir. A verdade cristã exige **proporção**, apuração e respeito à pessoa."
+    },
+    {
+      "id": "I14",
+      "explanation": "Prazer e intensidade não bastam para definir o bem. Uma relação pode parecer viva e ainda assim ser marcada por mentira, manipulação e pecado. A liberdade precisa escolher o **bem objetivo**."
+    },
+    {
+      "id": "I15",
+      "explanation": "O silêncio pode ser prudente, mas também pode ser conveniente e culpável. Quando a omissão protege mentira ou injustiça, ela coopera com o dano. A resposta cristã busca modo seguro e verdadeiro de agir."
+    },
+    {
+      "id": "N01",
+      "explanation": "A frase verdade para mim seduz porque parece respeitar a pessoa. O problema aparece quando ela recusa a realidade, a razão e Deus como critérios. A dignidade humana exige procurar a **verdade**, não apenas defender preferências."
+    },
+    {
+      "id": "N02",
+      "explanation": "A falsa autonomia coloca o eu no centro e chama dever de prisão. Mas liberdade sem responsabilidade se torna egoísmo. A liberdade cristã reconhece **vínculos** reais com Deus, família e próximo."
+    },
+    {
+      "id": "N03",
+      "explanation": "A ilusão de controle aparece quando a pessoa nega o domínio que o hábito já exerce. Segredo, repetição e prejuízo concreto são sinais sérios. A verdade abre caminho para ajuda, renúncia e recuperação da **liberdade**."
+    },
+    {
+      "id": "N04",
+      "explanation": "Todo mundo faz não é argumento moral. A maioria pode estar acostumada ao erro. A consciência formada resiste à **normalização** quando o costume contradiz a verdade e a justiça."
+    },
+    {
+      "id": "N05",
+      "explanation": "Só não julgue pode esconder medo da correção. Julgamento arrogante é pecado, mas correção verdadeira pode ser caridade. Quando há dano real, a **verdade** não pode ser calada por comodidade."
+    },
+    {
+      "id": "N06",
+      "explanation": "A ausência de vítima visível não torna o ato inocente. Muitos males ferem o coração, os costumes e a dignidade sem aparecer imediatamente. A moral cristã julga também o dano escondido e a **deformação** interior."
+    },
+    {
+      "id": "N07",
+      "explanation": "A vida privada importa moralmente. Intimidade legítima deve ser protegida, mas segredo não pode servir para esconder pecado ou abuso. O discípulo é chamado à **unidade de vida** diante de Deus."
+    },
+    {
+      "id": "N08",
+      "explanation": "Nem todo desejo é direito. O desejo pode ser real e ainda precisar de limite, renúncia e ordenação. A liberdade cristã aprende a submeter o desejo ao **bem**."
+    },
+    {
+      "id": "N09",
+      "explanation": "Opinião basta é uma forma de preguiça diante da verdade. Quem julga fatos graves sem buscar informação pode cometer injustiça. A consciência formada exige **humildade** para aprender e corrigir-se."
+    },
+    {
+      "id": "N10",
+      "explanation": "Amor sem verdade abandona a pessoa dentro do erro. Aprovar tudo pode parecer acolhedor, mas nem sempre busca o bem real. A caridade cristã une **acolhida** e chamado à conversão."
+    },
+    {
+      "id": "N11",
+      "explanation": "Liberdade sem lei parece emancipação, mas pode virar escravidão do pecado. A lei moral educa a liberdade para o bem. Chamar todo limite de opressão impede a pessoa de crescer em **domínio de si**."
+    },
+    {
+      "id": "N12",
+      "explanation": "Sinceridade brutal usa a verdade como arma. Nem tudo que é verdadeiro deve ser dito em qualquer lugar, de qualquer modo e com qualquer intenção. A veracidade cristã exige **discrição** e caridade."
+    },
+    {
+      "id": "N13",
+      "explanation": "Fé sem exigência transforma religião em conforto sem conversão. A oração verdadeira deve conduzir à verdade da vida. Cristo purifica costumes, palavras e decisões concretas."
+    },
+    {
+      "id": "N14",
+      "explanation": "Cultura inevitável é conformismo moral. O cristão não precisa aceitar todo costume dominante como destino. A Boa Nova de Cristo purifica e eleva a **cultura** por dentro."
+    },
+    {
+      "id": "N15",
+      "explanation": "Modéstia ultrapassada é uma narrativa que ridiculariza o pudor. O problema não é o corpo, mas sua transformação em espetáculo e mercadoria. A modéstia protege a **intimidade** e a dignidade."
+    },
+    {
+      "id": "G01",
+      "explanation": "A distinção entre pessoa e ato é indispensável. A pessoa conserva dignidade mesmo quando pratica o mal. O ato errado deve ser julgado com verdade, sem transformar o pecador em objeto de desprezo."
+    },
+    {
+      "id": "G02",
+      "explanation": "Consciência não é capricho com nome religioso. A consciência formada procura o bem verdadeiro e aceita ser corrigida. Preferência pessoal, medo ou conveniência não bastam para justificar uma escolha."
+    },
+    {
+      "id": "G03",
+      "explanation": "Impulsos podem ser fortes e reais. Mesmo assim, eles não definem automaticamente o que deve ser feito. A liberdade cresce quando a pessoa treina **domínio de si** e escolhe o bem."
+    },
+    {
+      "id": "G04",
+      "explanation": "Desejar algo não prova que aquilo seja bom. O desejo precisa ser julgado à luz da verdade, da justiça e da dignidade. A vida cristã educa o desejo em vez de obedecer a ele cegamente."
+    },
+    {
+      "id": "G05",
+      "explanation": "Acolher uma pessoa é reconhecer sua dignidade. Aprovar tudo o que ela faz é outra coisa. A caridade cristã sabe receber, escutar e também chamar ao **bem**."
+    },
+    {
+      "id": "G06",
+      "explanation": "A verdade não deve ser usada para humilhar. Existe diferença entre corrigir um erro e expor alguém para vencer ou ferir. A fala cristã precisa de finalidade justa, modo adequado e **discrição**."
+    },
+    {
+      "id": "G07",
+      "explanation": "Prudência não é desculpa para calar sempre. Às vezes é preciso escolher o tempo, o modo e o caminho seguro para agir. Mas quando o silêncio protege injustiça, ele se torna **omissão**."
+    },
+    {
+      "id": "G08",
+      "explanation": "Opiniões podem variar, mas fatos e verdades morais não dependem do gosto de cada um. Interpretar não é fabricar realidade. A razão formada pela fé procura a **verdade** antes de defender posição."
+    },
+    {
+      "id": "G09",
+      "explanation": "Tolerância é conviver com respeito. Relativismo é negar que exista verdade objetiva. O cristão deve ser paciente com pessoas e firme diante do **bem** e do mal."
+    },
+    {
+      "id": "G10",
+      "explanation": "A intimidade legítima deve ser guardada. Mas segredo usado para esconder abuso, mentira ou exploração não é proteção; é encobrimento. O discernimento cristão distingue **privacidade** de cumplicidade."
+    },
+    {
+      "id": "G11",
+      "explanation": "A cultura traz valores e também feridas. O Evangelho permite reconhecer o bem sem aprovar costumes desordenados. O cristão discerne, purifica e eleva a cultura em Cristo."
+    },
+    {
+      "id": "G12",
+      "explanation": "Autoridade legítima serve ao bem e à verdade. Quando alguém usa cargo para manipular consciências ou proteger fraude, há abuso. A obediência cristã nunca exige cumplicidade com o **mal**."
+    },
+    {
+      "id": "G13",
+      "explanation": "Misericórdia não é fingir que o pecado não existe. Ela olha o pecador com esperança e chama à conversão. Banalizar o pecado impede reparação e enfraquece a **verdade** que liberta."
+    },
+    {
+      "id": "G14",
+      "explanation": "Informação necessária respeita a verdade e as pessoas. Voyeurismo consome intimidade, dor ou pecado como espetáculo. A pureza cristã também educa o modo de receber notícias e imagens."
+    },
+    {
+      "id": "G15",
+      "explanation": "Autenticidade não é licença para permanecer bruto, orgulhoso ou desordenado. Ser verdadeiro sobre si inclui reconhecer o que precisa ser educado. A **virtude** forma a pessoa sem transformá-la em máscara."
+    },
+    {
+      "id": "O01",
+      "explanation": "Examinar a consciência é olhar a vida diante de Deus. Não basta sensação geral de estar bem ou mal. É preciso rever atos concretos, reconhecer faltas e assumir passos reais de **conversão**."
+    },
+    {
+      "id": "O02",
+      "explanation": "Permanecer na Palavra exige regularidade e obediência. A Palavra de Cristo forma critérios que resistem à confusão cultural. Quem escuta e pratica aprende a viver a **verdade** que liberta."
+    },
+    {
+      "id": "O03",
+      "explanation": "Nomear o erro é necessário quando o bem exige clareza. A fala deve atingir o ato, não destruir a pessoa. Firmeza cristã une **verdade** e caridade."
+    },
+    {
+      "id": "O04",
+      "explanation": "Recusar circulação é cortar uma cadeia de dano. Quem repassa conteúdo humilhante, falso ou impuro participa de seu alcance. Apagar, não enviar e orientar ajuda são respostas concretas."
+    },
+    {
+      "id": "O05",
+      "explanation": "Guardar o olhar é uma renúncia prática. Certos conteúdos treinam o coração para consumir pessoas, corpos e sofrimento. A pureza cristã age antes que o desejo desordenado se torne hábito."
+    },
+    {
+      "id": "O06",
+      "explanation": "Pedir conselho é reconhecer limite diante de uma decisão confusa. Para receber ajuda verdadeira, é preciso contar os fatos sem manipular a história. O conselho maduro ajuda a formar a **consciência**."
+    },
+    {
+      "id": "O07",
+      "explanation": "A mentira pede reparação. Não basta sentir culpa se a falsidade continua circulando. Corrigir publicamente quando o dano foi público é ato de **justiça** e veracidade."
+    },
+    {
+      "id": "O08",
+      "explanation": "Limitar consumo não é medo da tecnologia. É recuperar governo da atenção, do desejo e do tempo. Horários, filtros e escolhas de conteúdo ajudam a formar a **liberdade**."
+    },
+    {
+      "id": "O09",
+      "explanation": "Formar critérios exige estudo, escuta e humildade. A pessoa não busca apenas frases para confirmar o que já pensa. Ela confronta sua opinião com a **verdade**, a razão e o ensinamento da Igreja."
+    },
+    {
+      "id": "O10",
+      "explanation": "Testemunhar sem atacar é falar a verdade sem transformar o outro em inimigo. O cristão não deve esconder Cristo por medo, nem usar Cristo como arma. Clareza e caridade pertencem ao mesmo **testemunho**."
+    },
+    {
+      "id": "O11",
+      "explanation": "Romper ocasião de pecado é atitude honesta diante da própria fraqueza. Não basta prometer força quando o caminho da queda continua aberto. Cortar acesso, mudar rotina e prestar contas ajuda a recuperar **liberdade**."
+    },
+    {
+      "id": "O12",
+      "explanation": "Proteger o íntimo é guardar a dignidade própria e alheia. Nem toda curiosidade merece resposta. A modéstia cristã recusa exposição indevida, fofoca e consumo da vida privada."
+    },
+    {
+      "id": "O13",
+      "explanation": "Corrigir com caridade exige tempo, modo e intenção reta. A verdade deve ser dita para ajudar a pessoa a voltar ao bem, não para vencê-la. Correção fraterna une **firmeza** e misericórdia."
+    },
+    {
+      "id": "O14",
+      "explanation": "Assumir deveres combate o individualismo em atos concretos. Liberdade não é fugir de vínculos quando eles custam. O cristão transforma liberdade em **serviço**, justiça e cuidado real."
+    },
+    {
+      "id": "O15",
+      "explanation": "Buscar os sacramentos é levar a conversão à graça de Cristo. A confissão exige verdade sobre o pecado e desejo real de mudança. A misericórdia de Deus fortalece reparação, recomeço e vida na **verdade**."
+    }
+  ]
+}

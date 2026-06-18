@@ -1,0 +1,1966 @@
+{
+  "title": "Chamadas — Bingo O suicídio",
+  "meeting": "Encontro 23 — O suicídio",
+  "source_terms": "data/termos.json",
+  "method": {
+    "read_order": [
+      "call_label",
+      "case",
+      "reading_points"
+    ],
+    "rule": "A cada carta, anuncie código e conceito, leia o caso e explique brevemente a relação usando a Leitura do caso. Depois as equipes marcam o código, se estiver na cartela.",
+    "conference_rule": "Ao fechar duas linhas válidas, horizontais, verticais ou diagonais, a equipe escolhe uma dessas linhas completas, explica pelo menos três conceitos da linha escolhida e liga pelo menos um deles à base bíblica ou doutrinal do encontro. As duas linhas podem se cruzar. O centro livre já conta como casa marcada para completar linhas, mas não conta como um dos três conceitos explicados."
+  },
+  "cards": [
+    {
+      "id": "B01",
+      "term_id": "B01",
+      "call_label": "B01 - Vida como dom",
+      "case": "Um homem recebe um diagnóstico difícil e começa a dizer que a vida dele agora não serve para nada, como se o valor dela dependesse apenas da saúde.",
+      "conference_question": "Por que chamar a vida de dom muda o modo de olhar para a doença e para o sofrimento?",
+      "anchors": [
+        "CEC 2280",
+        "Gn 1,27"
+      ],
+      "facilitator_note": "Conduza sem negar a dureza da doença; destaque que o valor da vida vem antes da utilidade.",
+      "reading_points": [
+        {
+          "title": "Valor recebido",
+          "body": "A vida não nasce do desempenho da pessoa, mas é recebida de Deus como bem confiado."
+        },
+        {
+          "title": "Erro de medida",
+          "body": "Medir a vida pela saúde ou produtividade transforma a pessoa em coisa útil ou inútil."
+        },
+        {
+          "title": "Resposta cristã",
+          "body": "A fé chama a cuidar da vida ferida, não a descartá-la quando ela se torna pesada."
+        }
+      ]
+    },
+    {
+      "id": "B02",
+      "term_id": "B02",
+      "call_label": "B02 - Administradores da vida",
+      "case": "Depois de uma separação, uma mulher diz que ninguém pode opinar sobre o que ela faz com a própria vida, porque ela não deve satisfação a ninguém.",
+      "conference_question": "Como distinguir responsabilidade pela própria vida de posse absoluta sobre ela?",
+      "anchors": [
+        "CEC 2280",
+        "1Cor 6,19-20"
+      ],
+      "facilitator_note": "Evite tom de controle sobre a pessoa; mostre que responsabilidade inclui limites diante de Deus.",
+      "reading_points": [
+        {
+          "title": "Liberdade limitada",
+          "body": "A pessoa decide muitas coisas, mas não é dona absoluta da própria existência."
+        },
+        {
+          "title": "Prestação a Deus",
+          "body": "Ser administrador significa cuidar do que foi confiado, não destruir o que não se criou."
+        },
+        {
+          "title": "Cuidado devido",
+          "body": "A resposta cristã é proteger a vida, buscar ajuda e reconhecer os vínculos que permanecem."
+        }
+      ]
+    },
+    {
+      "id": "B03",
+      "term_id": "B03",
+      "call_label": "B03 - Senhorio de Deus",
+      "case": "Um paciente cansado de sofrer afirma que, se Deus existe, Ele não deveria impedir sua decisão de acabar com tudo.",
+      "conference_question": "O que significa afirmar o senhorio de Deus sem transformar Deus em acusador cruel de quem sofre?",
+      "anchors": [
+        "CEC 2280",
+        "Rm 14,7-8"
+      ],
+      "facilitator_note": "Una verdade e misericórdia: Deus é Senhor da vida e se aproxima do abatido.",
+      "reading_points": [
+        {
+          "title": "Senhor da vida",
+          "body": "Deus não é obstáculo ao bem da pessoa, mas a origem e o fim da vida."
+        },
+        {
+          "title": "Dor real",
+          "body": "O sofrimento pode confundir o juízo, mas não muda a verdade sobre a vida."
+        },
+        {
+          "title": "Entrega correta",
+          "body": "Reconhecer Deus como Senhor leva a pedir socorro, graça e cuidado concreto."
+        }
+      ]
+    },
+    {
+      "id": "B04",
+      "term_id": "B04",
+      "call_label": "B04 - Dignidade inviolável",
+      "case": "Um empresário falido evita sair de casa porque acredita que todos só o verão como fracassado e indigno de respeito.",
+      "conference_question": "Que critério cristão impede que fracasso, doença ou vergonha definam a dignidade de uma pessoa?",
+      "anchors": [
+        "CEC 2258",
+        "Gn 1,27"
+      ],
+      "facilitator_note": "Mostre que dignidade não é reputação social nem sucesso econômico.",
+      "reading_points": [
+        {
+          "title": "Identidade ferida",
+          "body": "A falência machuca, mas não apaga a pessoa diante de Deus."
+        },
+        {
+          "title": "Falsa definição",
+          "body": "A vergonha tenta reduzir a identidade ao pior momento da história."
+        },
+        {
+          "title": "Imagem de Deus",
+          "body": "A dignidade permanece porque a pessoa é imagem de Deus, não porque venceu ou perdeu."
+        }
+      ]
+    },
+    {
+      "id": "B05",
+      "term_id": "B05",
+      "call_label": "B05 - Justo amor de si",
+      "case": "Um rapaz evita procurar atendimento porque diz que merece sofrer sozinho pelo mal que fez à família.",
+      "conference_question": "Por que o justo amor de si não é egoísmo, mas parte da responsabilidade moral?",
+      "anchors": [
+        "CEC 2281",
+        "Mt 22,39"
+      ],
+      "facilitator_note": "Não minimize a culpa real; destaque que penitência não é autodestruição.",
+      "reading_points": [
+        {
+          "title": "Culpa sem cuidado",
+          "body": "Ele confunde reconhecer o erro com negar a si mesmo o cuidado necessário."
+        },
+        {
+          "title": "Amor ordenado",
+          "body": "O justo amor de si protege a vida para que a pessoa possa converter-se e reparar."
+        },
+        {
+          "title": "Caminho cristão",
+          "body": "Buscar ajuda, confessar e reparar é mais verdadeiro do que se abandonar ao desespero."
+        }
+      ]
+    },
+    {
+      "id": "B06",
+      "term_id": "B06",
+      "call_label": "B06 - Vínculos de solidariedade",
+      "case": "Um pai desempregado pensa que sua família ficaria melhor sem ele, porque já não consegue sustentar a casa como antes.",
+      "conference_question": "Como os vínculos de solidariedade desmentem a ideia de que a vida de alguém deixou de importar?",
+      "anchors": [
+        "CEC 2281",
+        "1Cor 12,26"
+      ],
+      "facilitator_note": "Fale da dor econômica sem reduzir a pessoa à função de provedor.",
+      "reading_points": [
+        {
+          "title": "Vínculo real",
+          "body": "A família não se liga a ele apenas pelo dinheiro que ele traz."
+        },
+        {
+          "title": "Mentira do descarte",
+          "body": "O desespero transforma dificuldade em falsa conclusão de inutilidade."
+        },
+        {
+          "title": "Solidariedade cristã",
+          "body": "Quando um membro sofre, os outros são chamados a carregar o peso com ele."
+        }
+      ]
+    },
+    {
+      "id": "B07",
+      "term_id": "B07",
+      "call_label": "B07 - Deus perto do abatido",
+      "case": "Uma senhora que perdeu o filho não consegue rezar como antes e diz que Deus deve estar longe porque ela só sente vazio.",
+      "conference_question": "O que muda quando a fé afirma que Deus está perto do coração abatido, mesmo quando a pessoa não sente consolo?",
+      "anchors": [
+        "Sl 33(34),19",
+        "Mt 11,28"
+      ],
+      "facilitator_note": "Não transforme ausência de consolo sensível em falta de fé.",
+      "reading_points": [
+        {
+          "title": "Coração ferido",
+          "body": "A dor pode deixar a oração seca, confusa e quase sem palavras."
+        },
+        {
+          "title": "Presença não sentida",
+          "body": "A proximidade de Deus não depende de a pessoa perceber alívio imediato."
+        },
+        {
+          "title": "Promessa bíblica",
+          "body": "O Senhor se aproxima dos contritos e chama os aflitos a Ele."
+        }
+      ]
+    },
+    {
+      "id": "B08",
+      "term_id": "B08",
+      "call_label": "B08 - Cristo alivia o fardo",
+      "case": "Um trabalhador esgotado entra no ônibus todos os dias pensando que não aguenta mais carregar a casa, as dívidas e a própria tristeza.",
+      "conference_question": "Como Cristo alivia o fardo sem prometer uma fuga mágica das responsabilidades?",
+      "anchors": [
+        "Mt 11,28",
+        "Jo 10,10"
+      ],
+      "facilitator_note": "Evite dizer que basta rezar; ligue Cristo a descanso, graça e caminhos concretos.",
+      "reading_points": [
+        {
+          "title": "Fardo acumulado",
+          "body": "O peso não é imaginário; envolve trabalho, dinheiro, família e tristeza."
+        },
+        {
+          "title": "Alívio verdadeiro",
+          "body": "Cristo não despreza o fardo, mas chama a pessoa a não carregá-lo sem Ele."
+        },
+        {
+          "title": "Graça encarnada",
+          "body": "O alívio pode vir pela oração, pela comunidade, pelo tratamento e por decisões prudentes."
+        }
+      ]
+    },
+    {
+      "id": "B09",
+      "term_id": "B09",
+      "call_label": "B09 - Esperança da salvação",
+      "case": "No velório de uma pessoa que se matou, alguém afirma com certeza que não há mais nada a rezar por ela.",
+      "conference_question": "Por que a esperança da salvação não nega a gravidade do suicídio, mas recusa o desespero sobre a pessoa?",
+      "anchors": [
+        "CEC 2283",
+        "Rm 8,38-39"
+      ],
+      "facilitator_note": "Corrija a afirmação sem discutir o destino eterno de ninguém.",
+      "reading_points": [
+        {
+          "title": "Juízo indevido",
+          "body": "A pessoa fala como se conhecesse o julgamento final que pertence a Deus."
+        },
+        {
+          "title": "Gravidade e esperança",
+          "body": "A Igreja mantém a gravidade do ato e, ao mesmo tempo, manda não desesperar da salvação."
+        },
+        {
+          "title": "Confiança cristã",
+          "body": "Rezamos porque confiamos a pessoa à misericórdia de Deus, que conhece caminhos escondidos."
+        }
+      ]
+    },
+    {
+      "id": "B10",
+      "term_id": "B10",
+      "call_label": "B10 - Oração pelos que morreram",
+      "case": "Uma família evita pedir Missa por um parente que se matou, com medo de que a comunidade aponte o dedo.",
+      "conference_question": "O que a oração da Igreja pelos mortos ensina sobre misericórdia, verdade e esperança?",
+      "anchors": [
+        "CEC 2283",
+        "Rm 8,38-39"
+      ],
+      "facilitator_note": "Afirme com clareza que a Igreja ora por essas pessoas e ampara os familiares.",
+      "reading_points": [
+        {
+          "title": "Medo de julgamento",
+          "body": "A família sofre duas vezes quando a dor vem acompanhada de vergonha pública."
+        },
+        {
+          "title": "Oração da Igreja",
+          "body": "O Catecismo ensina que a Igreja ora pelas pessoas que atentaram contra a própria vida."
+        },
+        {
+          "title": "Esperança concreta",
+          "body": "Pedir Missa e rezar é entregar a pessoa a Deus, não declarar que o ato foi bom."
+        }
+      ]
+    },
+    {
+      "id": "B11",
+      "term_id": "B11",
+      "call_label": "B11 - Responsabilidade diminuída",
+      "case": "Após meses de depressão severa, uma pessoa se mata, e alguns conhecidos discutem como se fosse possível medir de fora toda a liberdade dela.",
+      "conference_question": "Como distinguir a gravidade objetiva do ato da possível diminuição da responsabilidade subjetiva?",
+      "anchors": [
+        "CEC 2282",
+        "CEC 1735"
+      ],
+      "facilitator_note": "Não transforme a explicação em absolvição automática nem em condenação automática.",
+      "reading_points": [
+        {
+          "title": "Limite do olhar externo",
+          "body": "Quem está de fora não consegue medir com precisão a liberdade interior da pessoa."
+        },
+        {
+          "title": "Culpa diminuída",
+          "body": "Sofrimento psíquico grave, angústia e medo podem reduzir a responsabilidade."
+        },
+        {
+          "title": "Juízo de Deus",
+          "body": "A Igreja nomeia o mal objetivo e entrega a pessoa à misericórdia do Senhor."
+        }
+      ]
+    },
+    {
+      "id": "B12",
+      "term_id": "B12",
+      "call_label": "B12 - Gravidade objetiva",
+      "case": "Uma série apresenta o suicídio de um personagem como resposta compreensível e quase justa diante de uma traição.",
+      "conference_question": "Por que a compaixão por quem sofre não permite apresentar o suicídio como solução moralmente aceitável?",
+      "anchors": [
+        "CEC 2281",
+        "CEC 2280"
+      ],
+      "facilitator_note": "Evite sensacionalismo; foque no critério objetivo da moral cristã.",
+      "reading_points": [
+        {
+          "title": "Narrativa sedutora",
+          "body": "A história usa uma dor real para tornar a autodestruição compreensível como saída."
+        },
+        {
+          "title": "Mal objetivo",
+          "body": "O suicídio contradiz o amor a si, ao próximo e a Deus, mesmo quando há grande sofrimento."
+        },
+        {
+          "title": "Outra resposta",
+          "body": "A fé pede cuidado e socorro, não aprovação de uma saída que destrói a vida."
+        }
+      ]
+    },
+    {
+      "id": "B13",
+      "term_id": "B13",
+      "call_label": "B13 - Graça na provação",
+      "case": "Um jovem adulto em crise diz que lutar mais um dia não faz sentido, porque nada dentro dele parece forte o bastante.",
+      "conference_question": "Como a graça na provação ajuda sem negar a necessidade de ajuda humana concreta?",
+      "anchors": [
+        "Mt 11,28",
+        "Gl 6,2"
+      ],
+      "facilitator_note": "Aponte que a graça não elimina a fragilidade, mas sustenta a pessoa por meios reais.",
+      "reading_points": [
+        {
+          "title": "Força esgotada",
+          "body": "A pessoa não está fingindo fraqueza; ela se sente sem recurso interior."
+        },
+        {
+          "title": "Graça que sustenta",
+          "body": "A fé não exige que a pessoa se salve sozinha pela própria força."
+        },
+        {
+          "title": "Meios de Deus",
+          "body": "Deus pode sustentar por oração, sacramentos, presença, tratamento e ajuda responsável."
+        }
+      ]
+    },
+    {
+      "id": "B14",
+      "term_id": "B14",
+      "call_label": "B14 - Escândalo dos vulneráveis",
+      "case": "Depois da morte de uma pessoa conhecida, perfis nas redes publicam edições bonitas, frases de admiração e detalhes que atraem curiosidade.",
+      "conference_question": "Como falar de uma morte por suicídio sem produzir escândalo para pessoas vulneráveis?",
+      "anchors": [
+        "CEC 2282",
+        "Mt 18,6"
+      ],
+      "facilitator_note": "Não descreva métodos nem detalhes; ensine discrição e responsabilidade.",
+      "reading_points": [
+        {
+          "title": "Efeito de imitação",
+          "body": "A exposição bonita ou detalhada pode atingir pessoas frágeis em momento de risco."
+        },
+        {
+          "title": "Escândalo moral",
+          "body": "Transformar o suicídio em exemplo ou espetáculo aumenta a gravidade do dano."
+        },
+        {
+          "title": "Discrição caridosa",
+          "body": "O caminho cristão preserva a pessoa, protege os vulneráveis e reza sem romantizar."
+        }
+      ]
+    },
+    {
+      "id": "B15",
+      "term_id": "B15",
+      "call_label": "B15 - Caridade que vigia",
+      "case": "Um vizinho nota que uma senhora antes comunicativa deixou de abrir a janela, faltar ao mercado e atender telefonemas.",
+      "conference_question": "Como a caridade que vigia se distingue de curiosidade invasiva ou controle da vida alheia?",
+      "anchors": [
+        "CEC 1822",
+        "1Ts 5,14"
+      ],
+      "facilitator_note": "Mostre que vigilância cristã é atenção responsável aos sinais de sofrimento.",
+      "reading_points": [
+        {
+          "title": "Sinal discreto",
+          "body": "A mudança de rotina pode revelar sofrimento que a pessoa não consegue nomear."
+        },
+        {
+          "title": "Caridade atenta",
+          "body": "Amar não é apenas sentir pena, mas perceber e aproximar-se com respeito."
+        },
+        {
+          "title": "Ação proporcional",
+          "body": "Um contato simples, uma visita segura ou aviso a familiares pode ser resposta necessária."
+        }
+      ]
+    },
+    {
+      "id": "I01",
+      "term_id": "I01",
+      "call_label": "I01 - Pensamento suicida",
+      "case": "Um homem confessa ao irmão que, nos últimos dias, a ideia de morrer aparece toda vez que ele fica sozinho.",
+      "conference_question": "Por que esse tipo de fala deve ser tratado como sinal sério, mesmo sem gesto externo visível?",
+      "anchors": [
+        "CEC 2282",
+        "Sl 33(34),19"
+      ],
+      "facilitator_note": "Evite dramatizar com detalhes; ensine que falar de risco pede escuta e encaminhamento.",
+      "reading_points": [
+        {
+          "title": "Sinal interior",
+          "body": "O risco pode aparecer primeiro como pensamento repetido e sofrimento silencioso."
+        },
+        {
+          "title": "Não minimizar",
+          "body": "Dizer que é apenas drama pode deixar a pessoa mais isolada."
+        },
+        {
+          "title": "Cuidado imediato",
+          "body": "A resposta cristã une presença, aviso responsável e busca de ajuda adequada."
+        }
+      ]
+    },
+    {
+      "id": "I02",
+      "term_id": "I02",
+      "call_label": "I02 - Autolesão",
+      "case": "Uma mãe percebe ferimentos repetidos no filho e ele responde que não quer morrer, só precisa sentir alguma coisa para aliviar a pressão.",
+      "conference_question": "Como distinguir autolesão de tentativa de suicídio sem deixar de reconhecer a gravidade do sinal?",
+      "anchors": [
+        "CEC 2280",
+        "1Cor 6,19-20"
+      ],
+      "facilitator_note": "Não peça relatos pessoais; destaque que qualquer autolesão exige cuidado adulto e profissional.",
+      "reading_points": [
+        {
+          "title": "Sofrimento visível",
+          "body": "A ferida no corpo revela uma dor que não está encontrando caminho bom."
+        },
+        {
+          "title": "Distinção necessária",
+          "body": "Nem toda autolesão é tentativa de suicídio, mas toda autolesão é sinal grave."
+        },
+        {
+          "title": "Cuidado do corpo",
+          "body": "O corpo confiado por Deus deve ser protegido e levado a tratamento."
+        }
+      ]
+    },
+    {
+      "id": "I03",
+      "term_id": "I03",
+      "call_label": "I03 - Luto por suicídio",
+      "case": "Depois do enterro do irmão, uma mulher alterna silêncio, raiva e culpa, e evita encontrar parentes porque teme perguntas.",
+      "conference_question": "Que tipo de cuidado respeita o luto por suicídio sem alimentar culpa nem curiosidade?",
+      "anchors": [
+        "CEC 2283",
+        "Rm 12,15"
+      ],
+      "facilitator_note": "Oriente a não investigar detalhes; o foco é presença, oração e apoio prático.",
+      "reading_points": [
+        {
+          "title": "Luto complexo",
+          "body": "A morte por suicídio costuma deixar perguntas duras e sentimentos misturados."
+        },
+        {
+          "title": "Risco de acusação",
+          "body": "Perguntas curiosas e julgamentos rápidos aumentam a ferida dos sobreviventes."
+        },
+        {
+          "title": "Chorar com quem chora",
+          "body": "A resposta cristã oferece presença, oração e ajuda concreta sem invadir."
+        }
+      ]
+    },
+    {
+      "id": "I04",
+      "term_id": "I04",
+      "call_label": "I04 - Depressão grave",
+      "case": "Uma profissional competente passa semanas sem conseguir levantar, perde o apetite e começa a dizer que seria melhor desaparecer.",
+      "conference_question": "Por que reconhecer a depressão grave ajuda a julgar a situação com mais precisão moral e pastoral?",
+      "anchors": [
+        "CEC 2282",
+        "CEC 1735"
+      ],
+      "facilitator_note": "Não reduza depressão a tristeza comum; indique seriedade e necessidade de tratamento.",
+      "reading_points": [
+        {
+          "title": "Doença séria",
+          "body": "A depressão grave pode atingir energia, esperança, julgamento e capacidade de reação."
+        },
+        {
+          "title": "Responsabilidade afetada",
+          "body": "O Catecismo reconhece que distúrbios psíquicos graves podem diminuir a culpa."
+        },
+        {
+          "title": "Ajuda adequada",
+          "body": "A resposta deve incluir cuidado espiritual, familiar e profissional."
+        }
+      ]
+    },
+    {
+      "id": "I05",
+      "term_id": "I05",
+      "call_label": "I05 - Angústia intensa",
+      "case": "Durante uma crise, uma pessoa respira com dificuldade, diz que não suporta mais o aperto por dentro e pede para sumir.",
+      "conference_question": "Como responder à angústia intensa sem tratá-la como exagero nem confundi-la com decisão livre e tranquila?",
+      "anchors": [
+        "CEC 2282",
+        "Mt 11,28"
+      ],
+      "facilitator_note": "Ensine presença calma e busca de ajuda; não transforme a cena em discussão teórica.",
+      "reading_points": [
+        {
+          "title": "Crise real",
+          "body": "A angústia pode fechar o horizonte e fazer a pessoa falar a partir do desespero."
+        },
+        {
+          "title": "Liberdade pressionada",
+          "body": "Medo grave e sofrimento intenso podem diminuir a capacidade de consentir claramente."
+        },
+        {
+          "title": "Cristo e cuidado",
+          "body": "A pessoa aflita deve ser conduzida a descanso, proteção e ajuda concreta."
+        }
+      ]
+    },
+    {
+      "id": "I06",
+      "term_id": "I06",
+      "call_label": "I06 - Dependência química",
+      "case": "Após recaídas e dívidas, um homem dependente de álcool diz que já destruiu tudo e que não existe volta possível.",
+      "conference_question": "Como a dependência química pode aumentar o risco sem apagar a dignidade e a necessidade de tratamento?",
+      "anchors": [
+        "CEC 1735",
+        "Gl 6,2"
+      ],
+      "facilitator_note": "Evite tratar dependência como simples falta de vergonha; fale de responsabilidade e tratamento.",
+      "reading_points": [
+        {
+          "title": "Ciclo destrutivo",
+          "body": "A dependência pode produzir culpa, perda de vínculos e sensação de prisão."
+        },
+        {
+          "title": "Liberdade ferida",
+          "body": "O vício afeta o juízo e a força de decisão, sem eliminar toda responsabilidade."
+        },
+        {
+          "title": "Peso compartilhado",
+          "body": "Carregar o fardo do outro inclui tratamento, limites e acompanhamento sério."
+        }
+      ]
+    },
+    {
+      "id": "I07",
+      "term_id": "I07",
+      "call_label": "I07 - Dor sem trégua",
+      "case": "Uma paciente com dor crônica passa noites sem dormir e começa a pedir que parem de mantê-la viva a qualquer custo.",
+      "conference_question": "Que distinções ajudam a cuidar de uma dor sem trégua sem aprovar a eliminação da pessoa que sofre?",
+      "anchors": [
+        "CEC 2279",
+        "Mt 25,35-40"
+      ],
+      "facilitator_note": "Diferencie alívio proporcional, cuidados paliativos e rejeição da vida.",
+      "reading_points": [
+        {
+          "title": "Dor contínua",
+          "body": "O sofrimento físico persistente pode desgastar a esperança e a paciência."
+        },
+        {
+          "title": "Cuidar sem matar",
+          "body": "Aliviar a dor é dever; eliminar a pessoa não é resposta moral."
+        },
+        {
+          "title": "Cristo no enfermo",
+          "body": "A fé reconhece Cristo no doente e exige presença, cuidado e tratamento proporcional."
+        }
+      ]
+    },
+    {
+      "id": "I08",
+      "term_id": "I08",
+      "call_label": "I08 - Ruína financeira",
+      "case": "Depois de perder a empresa, um homem esconde as contas da esposa e passa a repetir que sua família só herdará problemas.",
+      "conference_question": "Como a ruína financeira pode deformar a percepção de valor pessoal, e que critério cristão corrige isso?",
+      "anchors": [
+        "B04",
+        "Sl 33(34),19"
+      ],
+      "facilitator_note": "Mostre que dívida e responsabilidade econômica não autorizam desespero sobre a própria vida.",
+      "reading_points": [
+        {
+          "title": "Vergonha econômica",
+          "body": "A perda financeira pode parecer perda total de identidade e respeito."
+        },
+        {
+          "title": "Mentira do prejuízo",
+          "body": "Ele começa a se enxergar como dano para a família, não como pessoa ferida."
+        },
+        {
+          "title": "Dignidade preservada",
+          "body": "A vida continua valendo diante de Deus mesmo quando há ruína material."
+        }
+      ]
+    },
+    {
+      "id": "I09",
+      "term_id": "I09",
+      "call_label": "I09 - Vergonha pública",
+      "case": "Após uma exposição humilhante na internet, uma jovem adulta apaga contatos e diz que nunca mais poderá encarar ninguém.",
+      "conference_question": "Por que a vergonha pública precisa de proteção e reparação, e não de abandono da pessoa à própria culpa?",
+      "anchors": [
+        "B04",
+        "Ef 4,29"
+      ],
+      "facilitator_note": "Não pergunte detalhes da exposição; foque na dignidade e no corte da humilhação.",
+      "reading_points": [
+        {
+          "title": "Olhar social",
+          "body": "A exposição faz a pessoa sentir que todos a reduziram ao episódio."
+        },
+        {
+          "title": "Palavra que fere",
+          "body": "Comentários e compartilhamentos podem aumentar o risco e a humilhação."
+        },
+        {
+          "title": "Proteção da dignidade",
+          "body": "A resposta cristã corta a exposição, ampara a pessoa e busca reparação justa."
+        }
+      ]
+    },
+    {
+      "id": "I10",
+      "term_id": "I10",
+      "call_label": "I10 - Isolamento silencioso",
+      "case": "Um funcionário que sempre almoçava com os colegas passa a comer sozinho, evita mensagens e entrega tudo sem conversar.",
+      "conference_question": "Como perceber o isolamento silencioso sem invadir a pessoa nem ignorar um possível sinal de risco?",
+      "anchors": [
+        "1Ts 5,14",
+        "B15"
+      ],
+      "facilitator_note": "Mostre respostas simples e proporcionais: aproximação respeitosa e atenção a sinais acumulados.",
+      "reading_points": [
+        {
+          "title": "Mudança de padrão",
+          "body": "O isolamento chama atenção porque rompe uma rotina conhecida."
+        },
+        {
+          "title": "Sinal ambíguo",
+          "body": "Nem todo silêncio é risco, mas mudanças graves não devem ser desprezadas."
+        },
+        {
+          "title": "Aproximação prudente",
+          "body": "A caridade pergunta, oferece presença e procura ajuda se surgirem sinais mais sérios."
+        }
+      ]
+    },
+    {
+      "id": "I11",
+      "term_id": "I11",
+      "call_label": "I11 - Fala de despedida",
+      "case": "Uma pessoa começa a doar objetos importantes e envia mensagens agradecendo por tudo, como se estivesse encerrando relações.",
+      "conference_question": "Que critério ajuda a levar uma fala de despedida a sério sem criar pânico desordenado?",
+      "anchors": [
+        "Pr 18,21",
+        "O03"
+      ],
+      "facilitator_note": "Diga que sinais de despedida pedem conversa e aviso responsável, não interpretação solitária.",
+      "reading_points": [
+        {
+          "title": "Gestos de encerramento",
+          "body": "Doações e mensagens finais podem indicar que a pessoa está se despedindo."
+        },
+        {
+          "title": "Não adivinhar sozinho",
+          "body": "O risco não deve ser interpretado em segredo por quem não tem responsabilidade suficiente."
+        },
+        {
+          "title": "Aviso necessário",
+          "body": "A resposta é perguntar com clareza e acionar responsáveis ou ajuda adequada."
+        }
+      ]
+    },
+    {
+      "id": "I12",
+      "term_id": "I12",
+      "call_label": "I12 - Humilhação persistente",
+      "case": "Em uma oficina, o mesmo aprendiz é insultado todo dia diante dos outros, e o chefe diz que pressão forma caráter.",
+      "conference_question": "Por que a humilhação persistente não pode ser tratada como brincadeira ou método de formação?",
+      "anchors": [
+        "Ef 4,29",
+        "Mt 18,6"
+      ],
+      "facilitator_note": "Aponte o abuso de poder e a responsabilidade dos que assistem.",
+      "reading_points": [
+        {
+          "title": "Ataque repetido",
+          "body": "A agressão constante corrói a pessoa e normaliza a crueldade no ambiente."
+        },
+        {
+          "title": "Falsa formação",
+          "body": "Pressão que humilha não educa; ela destrói a dignidade e aumenta a vulnerabilidade."
+        },
+        {
+          "title": "Palavra que edifica",
+          "body": "A fé exige correção justa, não insulto como ferramenta de domínio."
+        }
+      ]
+    },
+    {
+      "id": "I13",
+      "term_id": "I13",
+      "call_label": "I13 - Abuso e medo grave",
+      "case": "Uma vítima de violência doméstica vive sob ameaça constante e diz que não vê saída segura para si nem para os filhos.",
+      "conference_question": "Como o medo grave muda o modo de compreender a liberdade e a responsabilidade da pessoa em sofrimento?",
+      "anchors": [
+        "CEC 2282",
+        "CEC 1735"
+      ],
+      "facilitator_note": "Não peça detalhes; destaque proteção, autoridade competente e diminuição possível da responsabilidade.",
+      "reading_points": [
+        {
+          "title": "Ameaça contínua",
+          "body": "A pessoa vive sob pressão real, não apenas sob tristeza passageira."
+        },
+        {
+          "title": "Liberdade comprimida",
+          "body": "Medo grave pode reduzir muito a capacidade de pensar e decidir com clareza."
+        },
+        {
+          "title": "Proteção urgente",
+          "body": "A resposta moral é proteger a vítima e buscar ajuda competente."
+        }
+      ]
+    },
+    {
+      "id": "I14",
+      "term_id": "I14",
+      "call_label": "I14 - Idoso abandonado",
+      "case": "Um idoso passa semanas sem visita, come mal e diz ao agente de saúde que sua vida já não faz falta a ninguém.",
+      "conference_question": "Como o abandono pode ferir a esperança de uma pessoa sem diminuir sua dignidade diante de Deus?",
+      "anchors": [
+        "Mt 25,35-40",
+        "B06"
+      ],
+      "facilitator_note": "Ligue abandono a pecado de omissão e a respostas comunitárias proporcionais.",
+      "reading_points": [
+        {
+          "title": "Ausência que pesa",
+          "body": "A falta de presença concreta faz a pessoa sentir-se descartada."
+        },
+        {
+          "title": "Dignidade intacta",
+          "body": "A velhice e a dependência não diminuem o valor da vida."
+        },
+        {
+          "title": "Cristo no pequeno",
+          "body": "Servir quem está abandonado é responder ao próprio Cristo no necessitado."
+        }
+      ]
+    },
+    {
+      "id": "I15",
+      "term_id": "I15",
+      "call_label": "I15 - Exaustão profissional",
+      "case": "Uma enfermeira em plantões sucessivos começa a errar coisas simples, chora no banheiro e diz que não consegue mais voltar para casa nem para o trabalho.",
+      "conference_question": "Como a exaustão profissional pode se tornar risco grave, e que respostas não devem ser adiadas?",
+      "anchors": [
+        "Mt 11,28",
+        "CEC 2282"
+      ],
+      "facilitator_note": "Evite glorificar esgotamento; destaque descanso, limites e atendimento.",
+      "reading_points": [
+        {
+          "title": "Corpo no limite",
+          "body": "A exaustão afeta pensamento, emoção, sono e capacidade de decisão."
+        },
+        {
+          "title": "Risco escondido",
+          "body": "Quem cuida de outros também pode entrar em sofrimento grave e silenciado."
+        },
+        {
+          "title": "Fardo partilhado",
+          "body": "Cristo chama os cansados, e a resposta inclui descanso, apoio e tratamento."
+        }
+      ]
+    },
+    {
+      "id": "N01",
+      "term_id": "N01",
+      "call_label": "N01 - Falsa autonomia",
+      "case": "Ao ser procurado por familiares, um homem responde que eles não têm nada a ver com sua decisão, porque a vida é dele.",
+      "conference_question": "Como desmontar a falsa autonomia sem negar que a pessoa tem responsabilidade real por sua vida?",
+      "anchors": [
+        "CEC 2280",
+        "B02"
+      ],
+      "facilitator_note": "Mostre que autonomia humana existe dentro da verdade sobre Deus e os vínculos.",
+      "reading_points": [
+        {
+          "title": "Frase sedutora",
+          "body": "A fala parece defender liberdade, mas transforma a vida em propriedade absoluta."
+        },
+        {
+          "title": "Vínculos ignorados",
+          "body": "A pessoa esquece Deus, a família e as obrigações de solidariedade."
+        },
+        {
+          "title": "Liberdade responsável",
+          "body": "A liberdade cristã cuida do dom recebido e aceita ajuda quando a vida está ameaçada."
+        }
+      ]
+    },
+    {
+      "id": "N02",
+      "term_id": "N02",
+      "call_label": "N02 - Saída única",
+      "case": "Depois de uma sequência de perdas, uma pessoa repete que só existe uma maneira de acabar com a dor.",
+      "conference_question": "Que critérios ajudam a mostrar que o desespero estreita a visão e esconde saídas reais?",
+      "anchors": [
+        "Mt 11,28",
+        "Sl 33(34),19"
+      ],
+      "facilitator_note": "Não discuta como se fosse debate lógico frio; aponte presença e ajuda imediata.",
+      "reading_points": [
+        {
+          "title": "Visão estreita",
+          "body": "O sofrimento faz a pessoa enxergar apenas uma saída, como se o futuro estivesse fechado."
+        },
+        {
+          "title": "Mentira do desespero",
+          "body": "Sentir que não há saída não prova que não há saída."
+        },
+        {
+          "title": "Abertura cristã",
+          "body": "Cristo chama o aflito e a comunidade deve abrir caminhos de cuidado."
+        }
+      ]
+    },
+    {
+      "id": "N03",
+      "term_id": "N03",
+      "call_label": "N03 - Mentira de ser peso",
+      "case": "Uma mulher em tratamento diz à irmã que todos estariam livres se não precisassem acompanhá-la a consultas.",
+      "conference_question": "Como responder à mentira de ser peso sem negar que cuidar de alguém realmente exige esforço?",
+      "anchors": [
+        "B04",
+        "1Cor 12,26"
+      ],
+      "facilitator_note": "Reconheça o cansaço dos cuidadores sem transformar a pessoa doente em problema.",
+      "reading_points": [
+        {
+          "title": "Dependência dolorosa",
+          "body": "Precisar de ajuda pode ferir o orgulho e gerar vergonha."
+        },
+        {
+          "title": "Conclusão falsa",
+          "body": "Ser cuidado não significa valer menos nem atrapalhar a existência dos outros."
+        },
+        {
+          "title": "Corpo solidário",
+          "body": "Na visão cristã, quando um membro sofre, os outros não o descartam."
+        }
+      ]
+    },
+    {
+      "id": "N04",
+      "term_id": "N04",
+      "call_label": "N04 - Romantização da morte",
+      "case": "Um filme termina com a morte voluntária do protagonista embalada como gesto belo, livre e inesquecível.",
+      "conference_question": "Por que romantizar a morte voluntária é moralmente perigoso, especialmente para os vulneráveis?",
+      "anchors": [
+        "CEC 2281",
+        "CEC 2282"
+      ],
+      "facilitator_note": "Critique a narrativa, não pessoas concretas; evite detalhes e frases de impacto.",
+      "reading_points": [
+        {
+          "title": "Beleza enganosa",
+          "body": "A estética pode encobrir a destruição real da vida."
+        },
+        {
+          "title": "Escândalo possível",
+          "body": "Apresentar o suicídio como admirável pode ferir quem está fragilizado."
+        },
+        {
+          "title": "Verdade moral",
+          "body": "A fé não nega a dor do personagem, mas recusa chamar o mal de belo."
+        }
+      ]
+    },
+    {
+      "id": "N05",
+      "term_id": "N05",
+      "call_label": "N05 - Vingança pela dor",
+      "case": "Depois de uma traição, uma pessoa escreve mensagens para garantir que o outro carregue culpa pelo que ela pretende fazer.",
+      "conference_question": "Como distinguir dor legítima de usar a própria destruição como vingança contra outra pessoa?",
+      "anchors": [
+        "CEC 2281",
+        "Pr 18,21"
+      ],
+      "facilitator_note": "Não detalhe o conteúdo das mensagens; destaque risco, manipulação e necessidade de intervenção.",
+      "reading_points": [
+        {
+          "title": "Dor convertida em arma",
+          "body": "A pessoa tenta fazer do próprio sofrimento uma punição para o outro."
+        },
+        {
+          "title": "Injustiça dupla",
+          "body": "A vingança não repara a ferida e ainda ameaça a vida."
+        },
+        {
+          "title": "Resposta necessária",
+          "body": "É preciso proteger a pessoa em risco e impedir que a culpa seja usada como prisão."
+        }
+      ]
+    },
+    {
+      "id": "N06",
+      "term_id": "N06",
+      "call_label": "N06 - Vergonha sem volta",
+      "case": "Após ser preso por um erro grave, um homem afirma que sua história acabou e que nunca poderá ser mais do que aquilo.",
+      "conference_question": "Por que a fé cristã permite nomear um erro grave sem concluir que não há possibilidade de conversão?",
+      "anchors": [
+        "Lc 15,20",
+        "B09"
+      ],
+      "facilitator_note": "Não alivie a gravidade do erro; destaque arrependimento, justiça e esperança.",
+      "reading_points": [
+        {
+          "title": "Erro real",
+          "body": "O mal cometido pode ter consequências graves e exigir reparação."
+        },
+        {
+          "title": "Identidade reduzida",
+          "body": "A vergonha tenta transformar o ato em definição total da pessoa."
+        },
+        {
+          "title": "Recomeço possível",
+          "body": "Deus chama à conversão e não autoriza o desespero sobre a própria história."
+        }
+      ]
+    },
+    {
+      "id": "N07",
+      "term_id": "N07",
+      "call_label": "N07 - Fé sem tratamento",
+      "case": "Uma família retira o acompanhamento médico de um parente em crise porque ouviu que remédio e terapia demonstram falta de fé.",
+      "conference_question": "Como mostrar que oração e tratamento não são inimigos, mas podem cooperar no cuidado da pessoa?",
+      "anchors": [
+        "Tg 5,14-15",
+        "Eclo 38,1-2"
+      ],
+      "facilitator_note": "Corrija com firmeza; essa narrativa pode colocar vidas em risco.",
+      "reading_points": [
+        {
+          "title": "Oposição falsa",
+          "body": "A família coloca fé e tratamento como se um anulasse o outro."
+        },
+        {
+          "title": "Perigo concreto",
+          "body": "Retirar cuidado adequado em crise pode aumentar o risco."
+        },
+        {
+          "title": "Providência e meios",
+          "body": "Deus pode agir pela oração, pelos sacramentos e também pelos profissionais de saúde."
+        }
+      ]
+    },
+    {
+      "id": "N08",
+      "term_id": "N08",
+      "call_label": "N08 - Condenação apressada",
+      "case": "Num almoço de família, alguém declara que uma pessoa que se matou está certamente perdida e que rezar por ela seria inútil.",
+      "conference_question": "Que ensinamento do Catecismo corrige a condenação apressada sem negar a gravidade do suicídio?",
+      "anchors": [
+        "CEC 2283",
+        "CEC 2282"
+      ],
+      "facilitator_note": "Peça precisão doutrinal: gravidade objetiva, culpa possível diminuída e oração da Igreja.",
+      "reading_points": [
+        {
+          "title": "Certeza indevida",
+          "body": "A fala assume um lugar de juízo que pertence a Deus."
+        },
+        {
+          "title": "Doutrina completa",
+          "body": "O Catecismo fala da gravidade do ato e da possibilidade de responsabilidade diminuída."
+        },
+        {
+          "title": "Oração esperançosa",
+          "body": "A Igreja não desespera da salvação e reza por quem atentou contra a própria vida."
+        }
+      ]
+    },
+    {
+      "id": "N09",
+      "term_id": "N09",
+      "call_label": "N09 - Silêncio protetor",
+      "case": "Uma pessoa recebe uma mensagem de risco de um amigo e decide não contar a ninguém para não trair a confiança dele.",
+      "conference_question": "Quando guardar segredo deixa de ser lealdade e passa a ser omissão perigosa?",
+      "anchors": [
+        "O03",
+        "1Ts 5,14"
+      ],
+      "facilitator_note": "Ensine que risco de vida quebra a lógica do segredo privado.",
+      "reading_points": [
+        {
+          "title": "Lealdade confundida",
+          "body": "A pessoa pensa estar protegendo o amigo ao carregar sozinha um sinal grave."
+        },
+        {
+          "title": "Omissão arriscada",
+          "body": "Quando há risco de vida, segredo absoluto pode impedir socorro necessário."
+        },
+        {
+          "title": "Proteção verdadeira",
+          "body": "Avisar responsáveis é ato de caridade, não traição."
+        }
+      ]
+    },
+    {
+      "id": "N10",
+      "term_id": "N10",
+      "call_label": "N10 - Prova de amor falsa",
+      "case": "Ao ser deixado, alguém ameaça morrer se a outra pessoa não voltar imediatamente para o relacionamento.",
+      "conference_question": "Como responder a uma ameaça séria sem aceitar a chantagem como prova de amor?",
+      "anchors": [
+        "G11",
+        "CEC 2281"
+      ],
+      "facilitator_note": "Diferencie proteção da pessoa em risco e submissão ao controle afetivo.",
+      "reading_points": [
+        {
+          "title": "Risco e pressão",
+          "body": "A ameaça pode indicar risco real e, ao mesmo tempo, funcionar como manipulação."
+        },
+        {
+          "title": "Amor distorcido",
+          "body": "Amor verdadeiro não exige que alguém fique preso pelo medo da morte do outro."
+        },
+        {
+          "title": "Resposta dupla",
+          "body": "É preciso chamar ajuda responsável e manter limites justos."
+        }
+      ]
+    },
+    {
+      "id": "N11",
+      "term_id": "N11",
+      "call_label": "N11 - Desprezo da doença",
+      "case": "Um parente vê sinais claros de depressão e diz que isso é falta de serviço, falta de oração e vontade de chamar atenção.",
+      "conference_question": "Por que desprezar a doença psíquica pode ser moralmente grave e pastoralmente perigoso?",
+      "anchors": [
+        "CEC 2282",
+        "Eclo 38,1-2"
+      ],
+      "facilitator_note": "Corrija expressões como frescura sem humilhar quem as disse; forme o critério.",
+      "reading_points": [
+        {
+          "title": "Redução cruel",
+          "body": "A fala diminui um sofrimento sério como se fosse simples má vontade."
+        },
+        {
+          "title": "Risco aumentado",
+          "body": "Desprezar a doença pode calar a pessoa e atrasar ajuda."
+        },
+        {
+          "title": "Cuidado cristão",
+          "body": "A fé reconhece sofrimento psíquico e valoriza meios legítimos de cuidado."
+        }
+      ]
+    },
+    {
+      "id": "N12",
+      "term_id": "N12",
+      "call_label": "N12 - Coragem invertida",
+      "case": "Em uma conversa, alguém diz que quem tira a própria vida foi forte por ter ido até o fim da própria decisão.",
+      "conference_question": "Como distinguir coragem verdadeira de uma narrativa que chama autodestruição de força?",
+      "anchors": [
+        "CEC 2281",
+        "B13"
+      ],
+      "facilitator_note": "Evite linguagem de choque; explique virtude como perseverança no bem.",
+      "reading_points": [
+        {
+          "title": "Nome trocado",
+          "body": "A fala chama de coragem aquilo que destrói a vida."
+        },
+        {
+          "title": "Virtude real",
+          "body": "Coragem não é fazer qualquer decisão difícil, mas perseverar no bem apesar do medo."
+        },
+        {
+          "title": "Ajuda como força",
+          "body": "Pedir socorro e atravessar a crise também são atos de coragem ordenada."
+        }
+      ]
+    },
+    {
+      "id": "N13",
+      "term_id": "N13",
+      "call_label": "N13 - Exposição do sofrimento",
+      "case": "Após uma tentativa de suicídio, pessoas compartilham mensagens, especulações e detalhes da crise em grupos de conversa.",
+      "conference_question": "Por que a exposição do sofrimento fere a pessoa e pode colocar outros vulneráveis em risco?",
+      "anchors": [
+        "CEC 2282",
+        "Ef 4,29"
+      ],
+      "facilitator_note": "Oriente a cortar circulação, não repetir detalhes e proteger a família.",
+      "reading_points": [
+        {
+          "title": "Curiosidade nociva",
+          "body": "A crise vira assunto de circulação, não ocasião de cuidado."
+        },
+        {
+          "title": "Dano ampliado",
+          "body": "Comentários e detalhes podem humilhar a pessoa e atingir outros fragilizados."
+        },
+        {
+          "title": "Palavra responsável",
+          "body": "A caridade preserva, silencia o boato e encaminha ajuda."
+        }
+      ]
+    },
+    {
+      "id": "N14",
+      "term_id": "N14",
+      "call_label": "N14 - Culpa total dos vivos",
+      "case": "Depois do suicídio de um filho, parentes acusam a mãe de não ter percebido tudo e falam como se ela tivesse causado sozinha a morte.",
+      "conference_question": "Como distinguir responsabilidade por cuidados possíveis de colocar culpa total sobre quem ficou?",
+      "anchors": [
+        "CEC 2282",
+        "G10"
+      ],
+      "facilitator_note": "Proteja enlutados de acusação simplista; reconheça que sinais podem existir, mas nem tudo é controlável.",
+      "reading_points": [
+        {
+          "title": "Acusação devastadora",
+          "body": "A família enlutada recebe uma culpa que pode se tornar insuportável."
+        },
+        {
+          "title": "Causalidade simplificada",
+          "body": "O suicídio envolve sofrimento, liberdade ferida e fatores que não cabem em uma culpa única."
+        },
+        {
+          "title": "Luto com misericórdia",
+          "body": "A resposta cristã ampara, reza e evita julgamentos que ferem os sobreviventes."
+        }
+      ]
+    },
+    {
+      "id": "N15",
+      "term_id": "N15",
+      "call_label": "N15 - Desespero como verdade",
+      "case": "Uma pessoa em crise diz que sente claramente que nunca será amada, nunca será perdoada e nunca terá paz.",
+      "conference_question": "Como confrontar o desespero sem desprezar o que a pessoa está sentindo?",
+      "anchors": [
+        "Sl 33(34),19",
+        "Mt 11,28"
+      ],
+      "facilitator_note": "Diferencie validar a dor de confirmar conclusões falsas do desespero.",
+      "reading_points": [
+        {
+          "title": "Sentimento intenso",
+          "body": "A pessoa realmente sente abandono, culpa e falta de futuro."
+        },
+        {
+          "title": "Conclusão falsa",
+          "body": "A intensidade do sentimento não garante que ele diga a verdade sobre a realidade."
+        },
+        {
+          "title": "Verdade maior",
+          "body": "A fé anuncia que Deus se aproxima do abatido e abre caminhos de ajuda."
+        }
+      ]
+    },
+    {
+      "id": "G01",
+      "term_id": "G01",
+      "call_label": "G01 - Ato e pessoa",
+      "case": "Num debate, alguns querem chamar o suicídio de escolha legítima, enquanto outros querem falar da pessoa morta apenas como pecadora.",
+      "conference_question": "Como distinguir o ato e a pessoa ajuda a evitar tanto aprovação do suicídio quanto desprezo pelo suicida?",
+      "anchors": [
+        "CEC 2281",
+        "CEC 2283"
+      ],
+      "facilitator_note": "Mostre as duas verdades: ato objetivamente grave e pessoa confiada à misericórdia.",
+      "reading_points": [
+        {
+          "title": "Dois erros",
+          "body": "Um lado apaga a gravidade do ato; o outro reduz a pessoa ao ato."
+        },
+        {
+          "title": "Distinção moral",
+          "body": "Julgar a ação como má não autoriza tratar a pessoa sem dignidade."
+        },
+        {
+          "title": "Misericórdia verdadeira",
+          "body": "A Igreja condena o suicídio e reza pela pessoa que morreu."
+        }
+      ]
+    },
+    {
+      "id": "G02",
+      "term_id": "G02",
+      "call_label": "G02 - Culpa e responsabilidade",
+      "case": "Um conhecido diz que não há diferença entre alguém agir com plena lucidez e alguém agir no meio de surto, pânico ou depressão severa.",
+      "conference_question": "Por que a moral cristã distingue culpa objetiva e responsabilidade subjetiva?",
+      "anchors": [
+        "CEC 2282",
+        "CEC 1735"
+      ],
+      "facilitator_note": "Use a distinção sem transformar sofrimento em licença moral.",
+      "reading_points": [
+        {
+          "title": "Igualar situações",
+          "body": "A fala trata contextos muito diferentes como se fossem moralmente idênticos."
+        },
+        {
+          "title": "Responsabilidade concreta",
+          "body": "Culpa subjetiva depende também de liberdade, lucidez, medo e condições psíquicas."
+        },
+        {
+          "title": "Juízo prudente",
+          "body": "A Igreja nomeia o mal objetivo e reconhece fatores que podem diminuir responsabilidade."
+        }
+      ]
+    },
+    {
+      "id": "G03",
+      "term_id": "G03",
+      "call_label": "G03 - Impulso e consentimento",
+      "case": "Uma pessoa conta que, em certos momentos, pensamentos destrutivos aparecem de repente e a assustam, mesmo sem ela querer segui-los.",
+      "conference_question": "Como distinguir sofrer um impulso de consentir nele, e que resposta essa distinção exige?",
+      "anchors": [
+        "CEC 1735",
+        "O02"
+      ],
+      "facilitator_note": "Alivie culpa indevida, mas indique ajuda imediata quando há risco.",
+      "reading_points": [
+        {
+          "title": "Pensamento intruso",
+          "body": "Nem todo pensamento que surge corresponde a uma decisão querida."
+        },
+        {
+          "title": "Liberdade em luta",
+          "body": "O impulso pode assustar e pressionar, sem ser consentimento pleno."
+        },
+        {
+          "title": "Proteção urgente",
+          "body": "Justamente por ser grave, a pessoa não deve ficar sozinha nem esconder o risco."
+        }
+      ]
+    },
+    {
+      "id": "G04",
+      "term_id": "G04",
+      "call_label": "G04 - Sofrimento e pecado",
+      "case": "Ao ouvir alguém falar em suicídio, uma pessoa responde apenas que isso é pecado e encerra a conversa.",
+      "conference_question": "Como nomear o pecado sem deixar de acolher o sofrimento que está por trás da fala?",
+      "anchors": [
+        "CEC 2281",
+        "Sl 33(34),19"
+      ],
+      "facilitator_note": "Mostre que verdade sem cuidado pode virar dureza, mas cuidado sem verdade vira confusão.",
+      "reading_points": [
+        {
+          "title": "Verdade incompleta",
+          "body": "A frase afirma um dado moral, mas ignora a pessoa em sofrimento."
+        },
+        {
+          "title": "Dor acolhida",
+          "body": "O sofrimento precisa ser ouvido e protegido, não usado como desculpa para aprovar o mal."
+        },
+        {
+          "title": "Resposta íntegra",
+          "body": "A fé une verdade sobre a vida e proximidade com o coração abatido."
+        }
+      ]
+    },
+    {
+      "id": "G05",
+      "term_id": "G05",
+      "call_label": "G05 - Compaixão e relativização",
+      "case": "Para não machucar a família, alguém diz que o suicídio foi apenas uma escolha pessoal e que ninguém deve falar em gravidade.",
+      "conference_question": "Como ser compassivo sem relativizar a gravidade moral do suicídio?",
+      "anchors": [
+        "CEC 2281",
+        "CEC 2283"
+      ],
+      "facilitator_note": "Evite linguagem fria; explique que compaixão não exige falsificar a verdade.",
+      "reading_points": [
+        {
+          "title": "Intenção de aliviar",
+          "body": "A pessoa quer evitar mais dor, mas acaba apagando o critério moral."
+        },
+        {
+          "title": "Relativização",
+          "body": "Chamar o suicídio de simples escolha pessoal enfraquece a proteção da vida."
+        },
+        {
+          "title": "Compaixão verdadeira",
+          "body": "A Igreja chora, reza e acolhe sem chamar o mal de bem."
+        }
+      ]
+    },
+    {
+      "id": "G06",
+      "term_id": "G06",
+      "call_label": "G06 - Acolhida e aprovação",
+      "case": "Uma amiga escuta uma pessoa em crise e, para não contrariá-la, concorda quando ela diz que morrer seria a única solução digna.",
+      "conference_question": "Como acolher a pessoa sem aprovar uma conclusão que aumenta o risco?",
+      "anchors": [
+        "B15",
+        "O08"
+      ],
+      "facilitator_note": "Ensine frases firmes e cuidadosas: ouvir, validar a dor e negar a solução mortal.",
+      "reading_points": [
+        {
+          "title": "Medo de contrariar",
+          "body": "A amiga confunde acolher com confirmar tudo que a pessoa diz."
+        },
+        {
+          "title": "Aprovação perigosa",
+          "body": "Concordar com a saída mortal pode reforçar o desespero."
+        },
+        {
+          "title": "Acolhida firme",
+          "body": "A resposta correta escuta a dor e diz com clareza que a vida precisa ser protegida."
+        }
+      ]
+    },
+    {
+      "id": "G07",
+      "term_id": "G07",
+      "call_label": "G07 - Sigilo e proteção",
+      "case": "Um jovem pede segredo absoluto depois de revelar pensamentos suicidas e diz que nunca mais falará com quem contar a alguém.",
+      "conference_question": "Por que o risco de vida muda o peso moral do segredo pedido?",
+      "anchors": [
+        "O03",
+        "CEC 2281"
+      ],
+      "facilitator_note": "Seja claro: promessa de segredo absoluto não deve ser feita em situação de risco.",
+      "reading_points": [
+        {
+          "title": "Pedido difícil",
+          "body": "O segredo parece condição para manter a confiança da pessoa em crise."
+        },
+        {
+          "title": "Prioridade da vida",
+          "body": "Quando há risco de morte, proteger a vida pesa mais do que manter segredo."
+        },
+        {
+          "title": "Comunicação responsável",
+          "body": "É preciso avisar quem pode agir e explicar que isso é cuidado, não traição."
+        }
+      ]
+    },
+    {
+      "id": "G08",
+      "term_id": "G08",
+      "call_label": "G08 - Prudência e omissão",
+      "case": "Um gerente percebe sinais preocupantes em uma funcionária, mas decide esperar semanas para não se meter em assunto pessoal.",
+      "conference_question": "Como distinguir prudência de omissão quando há sinais sérios de sofrimento?",
+      "anchors": [
+        "CEC 1806",
+        "Lc 10,33-35"
+      ],
+      "facilitator_note": "Mostre que prudência escolhe o meio adequado; não é desculpa para paralisia.",
+      "reading_points": [
+        {
+          "title": "Medo de invadir",
+          "body": "O gerente teme ultrapassar limites reais de privacidade."
+        },
+        {
+          "title": "Omissão disfarçada",
+          "body": "Esperar sem fazer nada pode abandonar alguém em risco."
+        },
+        {
+          "title": "Prudência ativa",
+          "body": "A resposta proporcional é abordar com respeito e encaminhar ajuda adequada."
+        }
+      ]
+    },
+    {
+      "id": "G09",
+      "term_id": "G09",
+      "call_label": "G09 - Oração e tratamento",
+      "case": "Um homem piedoso suspende o atendimento psicológico porque acredita que continuar em terapia significa não confiar em Deus.",
+      "conference_question": "Como a distinção entre oração e tratamento corrige uma falsa oposição entre fé e cuidado profissional?",
+      "anchors": [
+        "Tg 5,14-15",
+        "Eclo 38,1-2"
+      ],
+      "facilitator_note": "Valorize a oração e corrija a recusa dos meios humanos legítimos.",
+      "reading_points": [
+        {
+          "title": "Falsa concorrência",
+          "body": "Ele coloca terapia e confiança em Deus como se fossem rivais."
+        },
+        {
+          "title": "Meios legítimos",
+          "body": "Profissionais de saúde podem ser instrumentos concretos de cuidado."
+        },
+        {
+          "title": "Fé encarnada",
+          "body": "O cristão reza, busca os sacramentos e aceita tratamento proporcional."
+        }
+      ]
+    },
+    {
+      "id": "G10",
+      "term_id": "G10",
+      "call_label": "G10 - Luto e acusação",
+      "case": "Em uma conversa após o enterro, parentes começam a listar quem deveria ter visto sinais e impedido a morte.",
+      "conference_question": "Como falar de responsabilidades possíveis sem transformar o luto em tribunal contra os sobreviventes?",
+      "anchors": [
+        "Rm 12,15",
+        "CEC 2282"
+      ],
+      "facilitator_note": "Reconheça que revisão pode ser necessária, mas não no tom de acusação devastadora.",
+      "reading_points": [
+        {
+          "title": "Busca de causa",
+          "body": "No choque do luto, as pessoas tentam encontrar alguém para explicar o inexplicável."
+        },
+        {
+          "title": "Acusação simplista",
+          "body": "Reduzir tudo a uma culpa dos vivos ignora sofrimento psíquico, liberdade ferida e limites humanos."
+        },
+        {
+          "title": "Luto cristão",
+          "body": "A resposta é chorar com quem chora, rezar e aprender sem destruir os enlutados."
+        }
+      ]
+    },
+    {
+      "id": "G11",
+      "term_id": "G11",
+      "call_label": "G11 - Alerta e chantagem",
+      "case": "Em um conflito familiar, uma pessoa ameaça se matar se os outros não fizerem exatamente o que ela quer.",
+      "conference_question": "Como agir quando uma fala pode ser ao mesmo tempo alerta de risco e chantagem emocional?",
+      "anchors": [
+        "I11",
+        "O03"
+      ],
+      "facilitator_note": "Ensine a tratar o risco como sério sem ceder a exigências injustas.",
+      "reading_points": [
+        {
+          "title": "Ambiguidade grave",
+          "body": "A fala pode revelar sofrimento real e também ser usada para controlar os outros."
+        },
+        {
+          "title": "Dois erros",
+          "body": "Ignorar o risco é perigoso; ceder à chantagem também não é amor."
+        },
+        {
+          "title": "Limite com proteção",
+          "body": "A resposta é acionar ajuda responsável e manter limites justos."
+        }
+      ]
+    },
+    {
+      "id": "G12",
+      "term_id": "G12",
+      "call_label": "G12 - Cuidado e controle",
+      "case": "Depois de uma crise, familiares passam a vigiar cada mensagem, impedir toda saída e decidir tudo pela pessoa sem orientação profissional.",
+      "conference_question": "Como distinguir cuidado necessário de controle que sufoca e pode piorar a situação?",
+      "anchors": [
+        "B15",
+        "O06"
+      ],
+      "facilitator_note": "Mostre que proteção deve ser proporcional, orientada e respeitosa.",
+      "reading_points": [
+        {
+          "title": "Medo compreensível",
+          "body": "A família teme uma nova crise e tenta impedir qualquer risco."
+        },
+        {
+          "title": "Controle excessivo",
+          "body": "Dominar todos os movimentos pode humilhar e isolar ainda mais."
+        },
+        {
+          "title": "Cuidado orientado",
+          "body": "A proteção precisa de responsáveis, tratamento e medidas proporcionais."
+        }
+      ]
+    },
+    {
+      "id": "G13",
+      "term_id": "G13",
+      "call_label": "G13 - Fardo e dignidade",
+      "case": "Um paciente dependente de cuidados diários pede desculpa o tempo todo por dar trabalho e começa a se chamar de peso morto.",
+      "conference_question": "Como reconhecer o peso real do cuidado sem aceitar que a pessoa dependente perdeu dignidade?",
+      "anchors": [
+        "B04",
+        "Gl 6,2"
+      ],
+      "facilitator_note": "Use linguagem cuidadosa; não negue o cansaço dos cuidadores, mas corrija a conclusão falsa.",
+      "reading_points": [
+        {
+          "title": "Dependência real",
+          "body": "Cuidar exige tempo, força e organização de quem está ao redor."
+        },
+        {
+          "title": "Valor não medido",
+          "body": "Precisar de cuidado não transforma a pessoa em peso sem valor."
+        },
+        {
+          "title": "Fardos partilhados",
+          "body": "A caridade cristã carrega o fardo sem negar a dignidade de quem sofre."
+        }
+      ]
+    },
+    {
+      "id": "G14",
+      "term_id": "G14",
+      "call_label": "G14 - Tratamento e obstinação",
+      "case": "Uma família discute se deve manter procedimentos extremamente pesados em um doente terminal, enquanto todos temem que qualquer suspensão seja suicídio.",
+      "conference_question": "Como distinguir suicídio ou eutanásia de uma decisão proporcional sobre tratamentos excessivos?",
+      "anchors": [
+        "CEC 2278",
+        "CEC 2279"
+      ],
+      "facilitator_note": "Não entre em casuística médica detalhada; explique o princípio de proporcionalidade e cuidado devido.",
+      "reading_points": [
+        {
+          "title": "Medo moral",
+          "body": "A família teme abandonar o doente ou cometer um mal grave."
+        },
+        {
+          "title": "Distinção necessária",
+          "body": "Recusar tratamento desproporcional não é o mesmo que querer matar ou matar-se."
+        },
+        {
+          "title": "Cuidado mantido",
+          "body": "Mesmo sem obstinação terapêutica, permanecem alimentação, alívio, presença e cuidados proporcionais."
+        }
+      ]
+    },
+    {
+      "id": "G15",
+      "term_id": "G15",
+      "call_label": "G15 - Esperança e certeza",
+      "case": "Depois de uma morte por suicídio, um grupo discute como se pudesse declarar com certeza absoluta o destino eterno da pessoa.",
+      "conference_question": "Como distinguir esperança cristã de certeza indevida sobre o juízo de Deus?",
+      "anchors": [
+        "CEC 2283",
+        "Rm 8,38-39"
+      ],
+      "facilitator_note": "Mantenha sobriedade: nem desespero, nem declaração fácil de certeza.",
+      "reading_points": [
+        {
+          "title": "Juízo fechado",
+          "body": "O grupo fala de algo que ultrapassa o conhecimento humano."
+        },
+        {
+          "title": "Esperança fundada",
+          "body": "A Igreja ensina que não se deve desesperar da salvação dessas pessoas."
+        },
+        {
+          "title": "Humildade diante de Deus",
+          "body": "A resposta é rezar, confiar na misericórdia e evitar certezas que não possuímos."
+        }
+      ]
+    },
+    {
+      "id": "O01",
+      "term_id": "O01",
+      "call_label": "O01 - Perguntar com clareza",
+      "case": "Um amigo percebe falas de morte repetidas e, em vez de rodear o assunto, pergunta com calma se a pessoa está pensando em tirar a própria vida.",
+      "conference_question": "Por que perguntar com clareza pode proteger mais do que fingir que não se entendeu o sinal?",
+      "anchors": [
+        "Pr 18,21",
+        "B15"
+      ],
+      "facilitator_note": "Ensine que a pergunta deve ser direta, sem acusação e seguida de ajuda responsável.",
+      "reading_points": [
+        {
+          "title": "Pergunta direta",
+          "body": "A clareza tira o assunto do escuro e permite avaliar risco real."
+        },
+        {
+          "title": "Sem acusar",
+          "body": "A pergunta deve ser calma e respeitosa, não cobrança nem susto."
+        },
+        {
+          "title": "Próximo passo",
+          "body": "Se houver risco, a pessoa não deve ser deixada sozinha e responsáveis devem ser avisados."
+        }
+      ]
+    },
+    {
+      "id": "O02",
+      "term_id": "O02",
+      "call_label": "O02 - Permanecer junto",
+      "case": "Após uma ligação preocupante, um irmão vai até a casa da pessoa e fica com ela enquanto chama ajuda da família.",
+      "conference_question": "Como permanecer junto protege sem transformar quem ajuda em único responsável pela crise?",
+      "anchors": [
+        "Lc 10,33-35",
+        "Gl 6,2"
+      ],
+      "facilitator_note": "Mostre presença segura e acionamento de rede; ninguém deve carregar sozinho.",
+      "reading_points": [
+        {
+          "title": "Presença imediata",
+          "body": "Ficar junto reduz o isolamento em um momento de risco."
+        },
+        {
+          "title": "Limite de quem ajuda",
+          "body": "A presença não substitui família, profissionais ou emergência quando necessários."
+        },
+        {
+          "title": "Caridade concreta",
+          "body": "Como o samaritano, a ajuda cristã se aproxima e providencia cuidado."
+        }
+      ]
+    },
+    {
+      "id": "O03",
+      "term_id": "O03",
+      "call_label": "O03 - Avisar responsável",
+      "case": "Uma jovem recebe pedido de segredo sobre uma crise grave, mas procura a mãe da pessoa e explica que não pode guardar aquilo sozinha.",
+      "conference_question": "Por que avisar um responsável pode ser ato de lealdade mais profundo do que manter segredo?",
+      "anchors": [
+        "G07",
+        "CEC 2281"
+      ],
+      "facilitator_note": "Destaque que a vida tem prioridade sobre a promessa de segredo.",
+      "reading_points": [
+        {
+          "title": "Segredo pesado",
+          "body": "A pessoa que ouviu o relato não tem condições de responder sozinha."
+        },
+        {
+          "title": "Lealdade verdadeira",
+          "body": "Proteger a vida vale mais do que preservar uma aparência de confiança."
+        },
+        {
+          "title": "Rede responsável",
+          "body": "Pais, responsáveis ou autoridades adequadas precisam ser acionados quando há risco."
+        }
+      ]
+    },
+    {
+      "id": "O04",
+      "term_id": "O04",
+      "call_label": "O04 - Acionar emergência",
+      "case": "Ao perceber risco imediato, uma família interrompe a discussão, chama atendimento de urgência e permanece com a pessoa até a ajuda chegar.",
+      "conference_question": "O que mostra que uma situação passou de conversa difícil para urgência que exige acionar ajuda externa?",
+      "anchors": [
+        "Lc 10,33-35",
+        "CEC 2447"
+      ],
+      "facilitator_note": "Oriente a não resolver risco imediato apenas com conversa ou oração.",
+      "reading_points": [
+        {
+          "title": "Risco imediato",
+          "body": "A situação exige segurança antes de qualquer explicação longa."
+        },
+        {
+          "title": "Ajuda competente",
+          "body": "Serviços de urgência existem para situações que a família não deve enfrentar sozinha."
+        },
+        {
+          "title": "Cuidado ordenado",
+          "body": "A caridade age com rapidez, presença e encaminhamento adequado."
+        }
+      ]
+    },
+    {
+      "id": "O05",
+      "term_id": "O05",
+      "call_label": "O05 - Reduzir riscos imediatos",
+      "case": "Com orientação de um responsável, a família afasta discretamente aquilo que poderia aumentar o perigo durante a crise.",
+      "conference_question": "Como reduzir riscos imediatos sem expor, humilhar ou tratar a pessoa como inimiga?",
+      "anchors": [
+        "O02",
+        "CEC 2280"
+      ],
+      "facilitator_note": "Não mencione métodos específicos; fale de segurança ambiental e ajuda responsável.",
+      "reading_points": [
+        {
+          "title": "Medida concreta",
+          "body": "Alguns cuidados práticos diminuem o perigo enquanto a crise é atendida."
+        },
+        {
+          "title": "Sem espetáculo",
+          "body": "A proteção deve ser discreta, respeitosa e sem humilhação pública."
+        },
+        {
+          "title": "Vida preservada",
+          "body": "Cuidar do dom da vida inclui reduzir riscos enquanto se busca tratamento."
+        }
+      ]
+    },
+    {
+      "id": "O06",
+      "term_id": "O06",
+      "call_label": "O06 - Encaminhar ao tratamento",
+      "case": "Depois de escutar sinais graves, um tio ajuda a marcar atendimento e combina com a família quem levará a pessoa à consulta.",
+      "conference_question": "Por que encaminhar ao tratamento é mais responsável do que apenas dar conselhos bem-intencionados?",
+      "anchors": [
+        "Eclo 38,1-2",
+        "Tg 5,14-15"
+      ],
+      "facilitator_note": "Mostre que encaminhamento deve ser real, com pessoa, lugar e próximo passo.",
+      "reading_points": [
+        {
+          "title": "Passo verificável",
+          "body": "A ajuda deixa de ser frase e vira ação concreta."
+        },
+        {
+          "title": "Competência necessária",
+          "body": "Sofrimento grave precisa de avaliação e acompanhamento adequados."
+        },
+        {
+          "title": "Fé e meios humanos",
+          "body": "A caridade usa os recursos legítimos que Deus permite para cuidar da vida."
+        }
+      ]
+    },
+    {
+      "id": "O07",
+      "term_id": "O07",
+      "call_label": "O07 - Acompanhar passos reais",
+      "case": "Uma amiga não fica apenas dizendo que está disponível; ela confirma se a consulta aconteceu e combina uma ligação no dia seguinte.",
+      "conference_question": "Como transformar preocupação em acompanhamento real sem assumir controle total da vida da pessoa?",
+      "anchors": [
+        "Lc 10,33-35",
+        "B15"
+      ],
+      "facilitator_note": "Enfatize constância proporcionada, rede de apoio e limites.",
+      "reading_points": [
+        {
+          "title": "Mais que intenção",
+          "body": "A frase genérica de disponibilidade pode não bastar em crise séria."
+        },
+        {
+          "title": "Constância concreta",
+          "body": "Confirmar passos ajuda a pessoa a não cair novamente no isolamento."
+        },
+        {
+          "title": "Acompanhamento com limite",
+          "body": "A ajuda deve integrar responsáveis e profissionais, sem virar dependência exclusiva."
+        }
+      ]
+    },
+    {
+      "id": "O08",
+      "term_id": "O08",
+      "call_label": "O08 - Falar sem julgamento",
+      "case": "Ao ouvir uma confissão de sofrimento, uma pessoa responde: 'Eu não vou te humilhar; isso é sério e vamos buscar ajuda agora'.",
+      "conference_question": "Que palavras ajudam a unir verdade, calma e proteção numa conversa sobre risco de suicídio?",
+      "anchors": [
+        "Ef 4,29",
+        "G06"
+      ],
+      "facilitator_note": "Modele fala simples: acolhe, nomeia seriedade e encaminha.",
+      "reading_points": [
+        {
+          "title": "Palavra segura",
+          "body": "A resposta não acusa nem minimiza; ela cria espaço para cuidado."
+        },
+        {
+          "title": "Verdade com calma",
+          "body": "Dizer que é sério evita fingir normalidade diante do risco."
+        },
+        {
+          "title": "Encaminhamento",
+          "body": "A conversa deve levar a ajuda concreta, não parar no desabafo."
+        }
+      ]
+    },
+    {
+      "id": "O09",
+      "term_id": "O09",
+      "call_label": "O09 - Combinar segurança",
+      "case": "Após atendimento inicial, a família combina quem ficará por perto, quais contatos serão acionados e como a pessoa pedirá ajuda se a crise voltar.",
+      "conference_question": "Por que combinar segurança ajuda mais do que confiar apenas na boa vontade do momento?",
+      "anchors": [
+        "O03",
+        "O06"
+      ],
+      "facilitator_note": "Fale de passos simples e responsáveis; não crie manual técnico detalhado.",
+      "reading_points": [
+        {
+          "title": "Crise previsível",
+          "body": "A crise pode voltar, e a pessoa precisa saber o que fazer antes do pior momento."
+        },
+        {
+          "title": "Rede clara",
+          "body": "Definir contatos e presença evita improviso solitário."
+        },
+        {
+          "title": "Proteção ordenada",
+          "body": "A segurança combina cuidado familiar, tratamento e decisões práticas."
+        }
+      ]
+    },
+    {
+      "id": "O10",
+      "term_id": "O10",
+      "call_label": "O10 - Rezar e sustentar",
+      "case": "Um grupo de familiares reza por uma pessoa em crise, mas também organiza visitas, transporte ao atendimento e refeições para a semana.",
+      "conference_question": "Como rezar e sustentar evita tanto a passividade religiosa quanto a confiança só nas próprias forças?",
+      "anchors": [
+        "Mt 11,28",
+        "G09"
+      ],
+      "facilitator_note": "Mostre que oração verdadeira não substitui a caridade concreta.",
+      "reading_points": [
+        {
+          "title": "Oração encarnada",
+          "body": "A família leva o fardo a Cristo sem abandonar as tarefas necessárias."
+        },
+        {
+          "title": "Contra a passividade",
+          "body": "Rezar não autoriza deixar a pessoa sem visita, cuidado ou tratamento."
+        },
+        {
+          "title": "Sustento integral",
+          "body": "A fé une graça, presença e serviços concretos."
+        }
+      ]
+    },
+    {
+      "id": "O11",
+      "term_id": "O11",
+      "call_label": "O11 - Buscar os sacramentos",
+      "case": "Uma pessoa em depressão procura o padre para confessar pecados antigos e receber orientação, enquanto mantém o tratamento médico.",
+      "conference_question": "Como buscar os sacramentos pode fortalecer a pessoa sem substituir o cuidado clínico necessário?",
+      "anchors": [
+        "Tg 5,14-15",
+        "B13"
+      ],
+      "facilitator_note": "Evite apresentar sacramentos como solução automática; são graça real dentro de cuidado integral.",
+      "reading_points": [
+        {
+          "title": "Culpa apresentada a Deus",
+          "body": "A pessoa leva feridas e pecados à graça, em vez de se fechar na acusação interior."
+        },
+        {
+          "title": "Cuidado integral",
+          "body": "A vida espiritual e o tratamento não competem quando ambos são vividos corretamente."
+        },
+        {
+          "title": "Graça que sustenta",
+          "body": "Os sacramentos fortalecem a esperança e ajudam a pessoa a perseverar no bem."
+        }
+      ]
+    },
+    {
+      "id": "O12",
+      "term_id": "O12",
+      "call_label": "O12 - Amparar enlutados",
+      "case": "Após uma morte por suicídio, vizinhos levam comida, evitam perguntas invasivas e se oferecem para acompanhar a família na Missa de sétimo dia.",
+      "conference_question": "Que atitudes amparam enlutados sem transformar a dor deles em assunto público?",
+      "anchors": [
+        "Rm 12,15",
+        "CEC 2283"
+      ],
+      "facilitator_note": "Valorize gestos simples: comida, presença, oração e respeito ao silêncio.",
+      "reading_points": [
+        {
+          "title": "Ajuda prática",
+          "body": "O luto pesado torna tarefas simples difíceis; servir concretamente alivia a família."
+        },
+        {
+          "title": "Discrição",
+          "body": "Não perguntar detalhes preserva os enlutados de nova ferida."
+        },
+        {
+          "title": "Oração da Igreja",
+          "body": "Acompanhar na oração expressa esperança e misericórdia."
+        }
+      ]
+    },
+    {
+      "id": "O13",
+      "term_id": "O13",
+      "call_label": "O13 - Cortar exposição",
+      "case": "Ao receber prints sobre uma tentativa de suicídio, alguém apaga o material, pede que parem de circular e avisa uma pessoa responsável.",
+      "conference_question": "Por que cortar a exposição é uma resposta concreta de proteção da pessoa e dos vulneráveis?",
+      "anchors": [
+        "CEC 2282",
+        "Ef 4,29"
+      ],
+      "facilitator_note": "Não repita detalhes; ensine interrupção da circulação e comunicação responsável.",
+      "reading_points": [
+        {
+          "title": "Interromper dano",
+          "body": "Apagar e não repassar corta a ampliação da humilhação."
+        },
+        {
+          "title": "Proteger vulneráveis",
+          "body": "Detalhes de crise podem atingir pessoas em sofrimento e aumentar risco."
+        },
+        {
+          "title": "Caridade prudente",
+          "body": "A resposta une silêncio sobre detalhes e aviso a quem pode ajudar."
+        }
+      ]
+    },
+    {
+      "id": "O14",
+      "term_id": "O14",
+      "call_label": "O14 - Reparar vínculos",
+      "case": "Após perceber que tratou o irmão doente com dureza, um homem pede perdão, reorganiza visitas e assume parte do cuidado semanal.",
+      "conference_question": "Como a reparação de vínculos passa de sentimento de culpa para decisão concreta de caridade?",
+      "anchors": [
+        "Mt 5,23-24",
+        "Gl 6,2"
+      ],
+      "facilitator_note": "Diferencie culpa paralisante de responsabilidade que muda atitudes.",
+      "reading_points": [
+        {
+          "title": "Erro reconhecido",
+          "body": "A pessoa admite que sua dureza aumentou o isolamento do irmão."
+        },
+        {
+          "title": "Reparação concreta",
+          "body": "Pedir perdão é acompanhado por presença e partilha real de cuidado."
+        },
+        {
+          "title": "Caridade restaurada",
+          "body": "A fé chama a reconciliar e carregar o fardo do outro com atos."
+        }
+      ]
+    },
+    {
+      "id": "O15",
+      "term_id": "O15",
+      "call_label": "O15 - Observar sinais",
+      "case": "Uma equipe de trabalho percebe que um colega mudou o humor, passou a se despedir com frequência e deixou de cuidar da aparência.",
+      "conference_question": "Como observar sinais ajuda a agir cedo sem transformar toda tristeza em diagnóstico?",
+      "anchors": [
+        "B15",
+        "1Ts 5,14"
+      ],
+      "facilitator_note": "Ensine observação de conjunto, não paranoia; sinais acumulados pedem aproximação.",
+      "reading_points": [
+        {
+          "title": "Conjunto de sinais",
+          "body": "Mudanças repetidas e despedidas merecem atenção maior do que um dia ruim isolado."
+        },
+        {
+          "title": "Sem diagnóstico apressado",
+          "body": "Observar não significa rotular, mas aproximar-se com responsabilidade."
+        },
+        {
+          "title": "Caridade vigilante",
+          "body": "A atenção cristã abre conversa e aciona ajuda quando necessário."
+        }
+      ]
+    }
+  ]
+}

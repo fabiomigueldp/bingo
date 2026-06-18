@@ -1,0 +1,1970 @@
+{
+  "title": "Chamadas — Bingo Namoro",
+  "meeting": "Encontro 19 — Namoro",
+  "source_terms": "data/termos.json",
+  "method": {
+    "read_order": [
+      "call_label",
+      "case",
+      "reading_points"
+    ],
+    "rule": "A cada carta, anuncie código e conceito, leia o caso e explique brevemente a relação usando a Leitura do caso. Depois as equipes marcam o código, se estiver na cartela.",
+    "conference_rule": "Ao fechar duas linhas válidas, horizontais, verticais ou diagonais, a equipe escolhe uma dessas linhas completas, explica pelo menos três conceitos da linha escolhida e liga pelo menos um deles à base bíblica ou doutrinal do encontro. As duas linhas podem se cruzar. O centro livre já conta como casa marcada para completar linhas, mas não conta como um dos três conceitos explicados."
+  },
+  "cards": [
+    {
+      "id": "B01",
+      "term_id": "B01",
+      "call_label": "B01 - Vontade de Deus",
+      "case": "Um casal decide que a fé só entra em assuntos de igreja, e que o namoro pertence a uma área separada da vida.",
+      "conference_question": "O que muda quando o namoro é visto como parte da santificação, e não como uma área separada da fé?",
+      "anchors": [
+        "1Ts 4,3-7",
+        "CEC §2520"
+      ],
+      "facilitator_note": "Mostre que santidade alcança corpo, afetos, decisões e futuro.",
+      "reading_points": [
+        {
+          "title": "Separação falsa",
+          "body": "O caso separa Deus de uma decisão que envolve corpo, afetos e futuro."
+        },
+        {
+          "title": "Critério cristão",
+          "body": "1Ts 4 ensina que a vontade de Deus é a santificação também nesta matéria."
+        },
+        {
+          "title": "Namoro discernido",
+          "body": "O namoro deve ser lido como caminho de santidade, não como território sem Deus."
+        }
+      ]
+    },
+    {
+      "id": "B02",
+      "term_id": "B02",
+      "call_label": "B02 - Tempo de conhecimento",
+      "case": "Duas pessoas começam a sair e, em poucas semanas, já falam como se a relação fosse definitiva, mas evitam conversar sobre fé, caráter, família e projeto de vida.",
+      "conference_question": "Como distinguir entusiasmo inicial de verdadeiro conhecimento da pessoa?",
+      "anchors": [
+        "CEC §2350",
+        "Eclo 6,14-17"
+      ],
+      "facilitator_note": "Valorize o namoro como discernimento, sem tratá-lo como casamento antecipado.",
+      "reading_points": [
+        {
+          "title": "Pressa afetiva",
+          "body": "O caso mostra compromisso emocional antes de conhecimento real."
+        },
+        {
+          "title": "Conhecer de verdade",
+          "body": "Namoro sério procura conhecer caráter, valores, fé e responsabilidades."
+        },
+        {
+          "title": "Discernimento",
+          "body": "O tempo de conhecimento protege de promessas grandes sem base concreta."
+        }
+      ]
+    },
+    {
+      "id": "B03",
+      "term_id": "B03",
+      "call_label": "B03 - Castidade no namoro",
+      "case": "Um casal gosta um do outro, mas percebe que a relação fica cada vez mais guiada pelo desejo físico e cada vez menos por conversa, serviço, oração e respeito.",
+      "conference_question": "Por que a castidade não é negação do amor, mas integração do amor?",
+      "anchors": [
+        "CEC §2337",
+        "CEC §2350",
+        "CEC §2520"
+      ],
+      "facilitator_note": "Explique castidade como integração da pessoa, não como simples lista de proibições.",
+      "reading_points": [
+        {
+          "title": "Desejo desordenado",
+          "body": "O caso mostra o desejo físico ocupando o lugar do conhecimento e da liberdade."
+        },
+        {
+          "title": "Integração",
+          "body": "A castidade une corpo, afeto e razão para que o amor não seja reduzido ao impulso."
+        },
+        {
+          "title": "Amor protegido",
+          "body": "No namoro, a castidade protege o caminho de discernimento e respeito mútuo."
+        }
+      ]
+    },
+    {
+      "id": "B04",
+      "term_id": "B04",
+      "call_label": "B04 - Continência",
+      "case": "No noivado, um casal diz que já está quase casado e por isso não vê problema em antecipar gestos próprios do matrimônio.",
+      "conference_question": "Por que estar a caminho do casamento não torna presente aquilo que ainda pertence ao casamento?",
+      "anchors": [
+        "CEC §2350",
+        "Hb 13,4"
+      ],
+      "facilitator_note": "Evite tom punitivo; destaque o sentido de reservar, esperar e receber o outro de Deus.",
+      "reading_points": [
+        {
+          "title": "Antecipação",
+          "body": "O caso trata como já assumido um compromisso que ainda não foi selado."
+        },
+        {
+          "title": "Tempo próprio",
+          "body": "A continência reconhece que há manifestações reservadas ao amor conjugal."
+        },
+        {
+          "title": "Fidelidade aprendida",
+          "body": "Esperar educa a liberdade e prepara uma entrega responsável no matrimônio."
+        }
+      ]
+    },
+    {
+      "id": "B05",
+      "term_id": "B05",
+      "call_label": "B05 - Respeito mútuo",
+      "case": "Alguém insiste em encontros, mensagens e cobranças mesmo depois de ouvir um limite claro, alegando que quem ama não desiste.",
+      "conference_question": "Quando a insistência deixa de ser cuidado e passa a desrespeitar a liberdade do outro?",
+      "anchors": [
+        "CEC §2350",
+        "Gn 1,27",
+        "1Cor 13,4-7"
+      ],
+      "facilitator_note": "Mostre que amor cristão não atropela liberdade nem consciência.",
+      "reading_points": [
+        {
+          "title": "Limite ignorado",
+          "body": "O caso mostra uma vontade tentando passar por cima da liberdade do outro."
+        },
+        {
+          "title": "Pessoa, não posse",
+          "body": "Respeitar é reconhecer o outro como pessoa diante de Deus, não como conquista."
+        },
+        {
+          "title": "Amor paciente",
+          "body": "O amor verdadeiro busca o bem do outro e aceita limites justos."
+        }
+      ]
+    },
+    {
+      "id": "B06",
+      "term_id": "B06",
+      "call_label": "B06 - Aprender fidelidade",
+      "case": "Um casal mantém o namoro, mas cada um conserva conversas ambíguas com outras pessoas para ter uma saída caso a relação não dê certo.",
+      "conference_question": "Como a fidelidade começa a ser aprendida antes do casamento?",
+      "anchors": [
+        "CEC §2350",
+        "Tb 8,4-8"
+      ],
+      "facilitator_note": "Ligue fidelidade a pequenos hábitos de verdade, constância e lealdade.",
+      "reading_points": [
+        {
+          "title": "Reserva desleal",
+          "body": "O caso mostra uma relação mantida com portas ocultas para outra possibilidade."
+        },
+        {
+          "title": "Aprendizagem",
+          "body": "A fidelidade é formada por escolhas concretas de verdade e lealdade."
+        },
+        {
+          "title": "Esperança cristã",
+          "body": "O namoro cristão ensina a receber o outro de Deus sem duplicidade."
+        }
+      ]
+    },
+    {
+      "id": "B07",
+      "term_id": "B07",
+      "call_label": "B07 - Corpo e santidade",
+      "case": "Depois de uma discussão sobre limites, alguém responde que Deus se importa com a alma, mas não com o que o corpo faz.",
+      "conference_question": "Por que a fé cristã não separa o corpo da santidade?",
+      "anchors": [
+        "1Ts 4,3-7",
+        "1Cor 6,19-20"
+      ],
+      "facilitator_note": "Afirme a unidade da pessoa sem moralismo corporalista.",
+      "reading_points": [
+        {
+          "title": "Divisão errada",
+          "body": "O caso separa corpo e alma como se o corpo fosse moralmente neutro."
+        },
+        {
+          "title": "Chamado integral",
+          "body": "A Escritura pede que o corpo seja vivido santa e honestamente."
+        },
+        {
+          "title": "Vocação do corpo",
+          "body": "O corpo participa do amor, da responsabilidade e da santificação."
+        }
+      ]
+    },
+    {
+      "id": "B08",
+      "term_id": "B08",
+      "call_label": "B08 - Pureza de coração",
+      "case": "Uma pessoa mantém uma relação pública correta, mas alimenta intenções escondidas, manipulações e planos que nunca diria com clareza.",
+      "conference_question": "Por que a pureza cristã envolve intenção e não apenas comportamento visível?",
+      "anchors": [
+        "Mt 5,8",
+        "CEC §2520"
+      ],
+      "facilitator_note": "Trate pureza como unidade interior diante de Deus, não como aparência social.",
+      "reading_points": [
+        {
+          "title": "Duplicidade",
+          "body": "O caso mostra aparência correta com intenção interior desordenada."
+        },
+        {
+          "title": "Coração íntegro",
+          "body": "Pureza de coração é buscar o fim verdadeiro sem engano interior."
+        },
+        {
+          "title": "Diante de Deus",
+          "body": "O namoro cristão precisa de verdade no interior, não só de boa imagem."
+        }
+      ]
+    },
+    {
+      "id": "B09",
+      "term_id": "B09",
+      "call_label": "B09 - Pureza do olhar",
+      "case": "Um rapaz diz que não traiu ninguém, mas consome imagens e vídeos que ensinam a ver o corpo como produto e alimentam fantasias impuras.",
+      "conference_question": "Como o olhar pode deformar o modo de amar mesmo antes de qualquer gesto externo?",
+      "anchors": [
+        "Mt 5,27-30",
+        "CEC §2520"
+      ],
+      "facilitator_note": "Fale com seriedade sobre pornografia e imaginação, sem descrição indevida.",
+      "reading_points": [
+        {
+          "title": "Consumo do corpo",
+          "body": "O caso mostra o outro sendo reduzido a imagem de prazer."
+        },
+        {
+          "title": "Olhar formativo",
+          "body": "O que a pessoa olha educa ou deforma desejo, imaginação e expectativa."
+        },
+        {
+          "title": "Pureza concreta",
+          "body": "A pureza do olhar exige disciplina e recusa do que desvia dos mandamentos."
+        }
+      ]
+    },
+    {
+      "id": "B10",
+      "term_id": "B10",
+      "call_label": "B10 - Liberdade interior",
+      "case": "Alguém percebe que sempre repete os mesmos erros no namoro e diz que é impossível agir diferente quando a emoção vem forte.",
+      "conference_question": "Como distinguir liberdade cristã de simples obediência ao impulso?",
+      "anchors": [
+        "CEC §2342",
+        "Gl 5,13"
+      ],
+      "facilitator_note": "Mostre que liberdade cresce com graça, virtude, treino e decisões concretas.",
+      "reading_points": [
+        {
+          "title": "Impulso dominante",
+          "body": "O caso apresenta a emoção como se ela anulasse a responsabilidade."
+        },
+        {
+          "title": "Domínio de si",
+          "body": "A liberdade interior se forma quando a pessoa aprende a escolher o bem."
+        },
+        {
+          "title": "Caminho gradual",
+          "body": "A maturidade exige combate, ajuda e perseverança, não fatalismo."
+        }
+      ]
+    },
+    {
+      "id": "B11",
+      "term_id": "B11",
+      "call_label": "B11 - Dignidade da pessoa",
+      "case": "Depois de terminar, alguém trata a ex-namorada como troféu antigo em conversas, expondo detalhes para se valorizar diante dos outros.",
+      "conference_question": "Por que a dignidade da pessoa continua exigindo respeito mesmo depois do fim da relação?",
+      "anchors": [
+        "Gn 1,27",
+        "1Ts 4,6"
+      ],
+      "facilitator_note": "Nomeie a instrumentalização sem transformar o caso em curiosidade.",
+      "reading_points": [
+        {
+          "title": "Uso da pessoa",
+          "body": "O caso transforma uma relação em material de status e humilhação."
+        },
+        {
+          "title": "Dignidade permanente",
+          "body": "A pessoa não perde dignidade porque a relação acabou ou porque houve conflito."
+        },
+        {
+          "title": "Justiça no afeto",
+          "body": "1Ts 4 proíbe oprimir ou defraudar o irmão também nesta matéria."
+        }
+      ]
+    },
+    {
+      "id": "B12",
+      "term_id": "B12",
+      "call_label": "B12 - Fim do matrimônio",
+      "case": "Um casal quer morar junto para testar se funciona, mas evita falar de aliança definitiva, filhos, fé, responsabilidades e compromisso público.",
+      "conference_question": "Por que testar convivência não equivale a assumir o sentido cristão do matrimônio?",
+      "anchors": [
+        "CEC §1601",
+        "Mt 19,4-6",
+        "CEC §2390"
+      ],
+      "facilitator_note": "Diferencie convivência provisória de aliança matrimonial sem caricaturar situações complexas.",
+      "reading_points": [
+        {
+          "title": "Teste sem aliança",
+          "body": "O caso quer benefícios de vida conjugal sem assumir compromisso público e definitivo."
+        },
+        {
+          "title": "Sentido do matrimônio",
+          "body": "O matrimônio é aliança estável, fiel e aberta às responsabilidades próprias."
+        },
+        {
+          "title": "Discernir antes",
+          "body": "O namoro existe para conhecer e discernir, não para substituir o casamento."
+        }
+      ]
+    },
+    {
+      "id": "B13",
+      "term_id": "B13",
+      "call_label": "B13 - Amor responsável",
+      "case": "Uma pessoa sabe que o namoro está machucando os dois, mas mantém a relação por medo de ficar só e por comodidade emocional.",
+      "conference_question": "Por que buscar o bem real do outro pode exigir uma decisão difícil?",
+      "anchors": [
+        "1Cor 13,4-7",
+        "Ef 5,25"
+      ],
+      "facilitator_note": "Mostre que amor responsável não é apego nem autoproteção disfarçada.",
+      "reading_points": [
+        {
+          "title": "Apego cômodo",
+          "body": "O caso mantém uma relação ferida por medo e conveniência."
+        },
+        {
+          "title": "Bem real",
+          "body": "Amar não é preservar qualquer vínculo, mas buscar o bem verdadeiro."
+        },
+        {
+          "title": "Responsabilidade",
+          "body": "O amor cristão assume consequências e não usa o outro para evitar solidão."
+        }
+      ]
+    },
+    {
+      "id": "B14",
+      "term_id": "B14",
+      "call_label": "B14 - Graça e combate",
+      "case": "Depois de várias quedas nos mesmos limites, alguém desiste e diz que pureza é para pessoas muito fortes, não para gente comum.",
+      "conference_question": "Como evitar tanto a presunção quanto o desânimo na luta pela pureza?",
+      "anchors": [
+        "CEC §2345",
+        "CEC §2520"
+      ],
+      "facilitator_note": "Una exigência moral e confiança na graça, sem normalizar a queda.",
+      "reading_points": [
+        {
+          "title": "Desânimo",
+          "body": "O caso transforma quedas repetidas em desistência da conversão."
+        },
+        {
+          "title": "Graça necessária",
+          "body": "A castidade é virtude e dom de Deus, não conquista isolada do orgulho."
+        },
+        {
+          "title": "Combate concreto",
+          "body": "A resposta passa por oração, sacramentos, vigilância e mudança de hábitos."
+        }
+      ]
+    },
+    {
+      "id": "B15",
+      "term_id": "B15",
+      "call_label": "B15 - Deus no meio",
+      "case": "Um casal fala muito de futuro, viagens e aparência da festa, mas nunca pergunta como a relação os aproxima de Deus e da vida de fé.",
+      "conference_question": "Como Deus fica realmente no meio do namoro, e não apenas no discurso?",
+      "anchors": [
+        "1Ts 4,3-7",
+        "Tb 8,4-8"
+      ],
+      "facilitator_note": "Evite romantizar oração; mostre fé vivida em escolhas e virtudes.",
+      "reading_points": [
+        {
+          "title": "Futuro sem Deus",
+          "body": "O caso planeja muitas coisas, mas não discerne a relação diante de Deus."
+        },
+        {
+          "title": "Fé concreta",
+          "body": "Deus no meio aparece em oração, sacramentos, virtudes e decisões morais."
+        },
+        {
+          "title": "Crescimento comum",
+          "body": "Um namoro cristão ajuda ambos a serem melhores discípulos de Cristo."
+        }
+      ]
+    },
+    {
+      "id": "I01",
+      "term_id": "I01",
+      "call_label": "I01 - Relação descartável",
+      "case": "Depois de algumas semanas de envolvimento, uma pessoa encerra tudo por mensagem curta e bloqueia a outra, como se nada tivesse significado.",
+      "conference_question": "Que sinais mostram que uma relação está tratando a pessoa como descartável?",
+      "anchors": [
+        "B11",
+        "CEC §2390"
+      ],
+      "facilitator_note": "Fale de responsabilidade afetiva sem transformar todo término em culpa.",
+      "reading_points": [
+        {
+          "title": "Descarte",
+          "body": "O caso trata vínculo, palavra e ferida como coisas sem peso moral."
+        },
+        {
+          "title": "Dignidade ferida",
+          "body": "Mesmo quando a relação não deve continuar, a pessoa não pode ser descartada."
+        },
+        {
+          "title": "Resposta justa",
+          "body": "Encerrar com verdade e respeito faz parte do amor responsável."
+        }
+      ]
+    },
+    {
+      "id": "I02",
+      "term_id": "I02",
+      "call_label": "I02 - Pressão por intimidade",
+      "case": "Em um namoro, um dos dois insiste em avançar na intimidade física e usa silêncio, irritação e ameaça de término quando o outro resiste.",
+      "conference_question": "Por que pressão emocional torna moralmente mais grave uma escolha sobre intimidade?",
+      "anchors": [
+        "B04",
+        "1Ts 4,6"
+      ],
+      "facilitator_note": "Nomeie manipulação e pressão; não coloque a responsabilidade sobre quem resiste.",
+      "reading_points": [
+        {
+          "title": "Pressão",
+          "body": "O caso usa medo e culpa para empurrar o outro além do limite."
+        },
+        {
+          "title": "Defraudar o irmão",
+          "body": "1Ts 4 condena oprimir ou enganar o outro nesta matéria."
+        },
+        {
+          "title": "Limite legítimo",
+          "body": "A castidade exige respeitar a consciência e o corpo do outro."
+        }
+      ]
+    },
+    {
+      "id": "I03",
+      "term_id": "I03",
+      "call_label": "I03 - Ciúme vigilante",
+      "case": "Uma pessoa exige senha do celular, localização em tempo real e explicação de cada contato, dizendo que isso evita traição.",
+      "conference_question": "Como distinguir confiança responsável de vigilância possessiva?",
+      "anchors": [
+        "B05",
+        "G03"
+      ],
+      "facilitator_note": "Mostre que controle não é remédio para insegurança.",
+      "reading_points": [
+        {
+          "title": "Vigilância",
+          "body": "O caso transforma namoro em fiscalização permanente."
+        },
+        {
+          "title": "Amor e posse",
+          "body": "O amor constrói confiança; a posse tenta dominar a liberdade do outro."
+        },
+        {
+          "title": "Limite saudável",
+          "body": "Desconfiança crônica precisa de verdade, maturidade e às vezes distância."
+        }
+      ]
+    },
+    {
+      "id": "I04",
+      "term_id": "I04",
+      "call_label": "I04 - Segredo imposto",
+      "case": "Alguém pede que o relacionamento continue escondido de todos, inclusive de quem poderia orientar, porque assim ninguém atrapalha.",
+      "conference_question": "Quando o segredo protege a intimidade e quando encobre uma relação desordenada?",
+      "anchors": [
+        "B08",
+        "Pr 4,23"
+      ],
+      "facilitator_note": "Diferencie discrição legítima de segredo que foge da responsabilidade.",
+      "reading_points": [
+        {
+          "title": "Isolamento",
+          "body": "O caso cria um segredo que impede luz, conselho e responsabilidade."
+        },
+        {
+          "title": "Pureza interior",
+          "body": "A pureza de coração não precisa esconder o essencial para continuar agindo."
+        },
+        {
+          "title": "Prudência",
+          "body": "Relações sérias suportam alguma forma proporcional de verdade e acompanhamento."
+        }
+      ]
+    },
+    {
+      "id": "I05",
+      "term_id": "I05",
+      "call_label": "I05 - Exposição do namoro",
+      "case": "Depois de uma briga, alguém publica indiretas, fotos antigas e detalhes do relacionamento para receber apoio e provocar vergonha.",
+      "conference_question": "Por que expor detalhes do namoro pode transformar dor em injustiça contra o outro?",
+      "anchors": [
+        "B09",
+        "G08"
+      ],
+      "facilitator_note": "Evite entrar em fofoca; conduza para intimidade, pudor e reparação.",
+      "reading_points": [
+        {
+          "title": "Dor exposta",
+          "body": "O caso usa a visibilidade pública para pressionar e ferir."
+        },
+        {
+          "title": "Intimidade",
+          "body": "Nem tudo que é verdadeiro deve ser publicado ou transformado em prova social."
+        },
+        {
+          "title": "Pudor e justiça",
+          "body": "Guardar a intimidade protege a dignidade mesmo em conflito."
+        }
+      ]
+    },
+    {
+      "id": "I06",
+      "term_id": "I06",
+      "call_label": "I06 - Dependência afetiva",
+      "case": "Uma pessoa deixa oração, família, estudos, trabalho e amizades porque toda decisão passa pelo humor do namorado.",
+      "conference_question": "Que sinais indicam que o namoro deixou de ser amor e virou dependência afetiva?",
+      "anchors": [
+        "B10",
+        "G06"
+      ],
+      "facilitator_note": "Não ridicularize a carência; indique perda de liberdade e necessidade de ajuda.",
+      "reading_points": [
+        {
+          "title": "Centro absoluto",
+          "body": "O caso coloca o relacionamento no lugar de eixo total da vida."
+        },
+        {
+          "title": "Liberdade ferida",
+          "body": "A dependência reduz a capacidade de escolher o bem com serenidade."
+        },
+        {
+          "title": "Reordenação",
+          "body": "O amor precisa caber numa vida ordenada diante de Deus."
+        }
+      ]
+    },
+    {
+      "id": "I07",
+      "term_id": "I07",
+      "call_label": "I07 - Briga recorrente",
+      "case": "O casal alterna ofensas graves, pedidos de perdão apressados e novas explosões, sem buscar ajuda nem mudar hábitos.",
+      "conference_question": "Como distinguir conflito normal de uma dinâmica que já fere a dignidade e a segurança?",
+      "anchors": [
+        "B13",
+        "G09"
+      ],
+      "facilitator_note": "Nomeie ofensa e risco sem incentivar exposição pública da situação.",
+      "reading_points": [
+        {
+          "title": "Ciclo",
+          "body": "O caso mostra repetição de ferida, desculpa e retorno sem conversão real."
+        },
+        {
+          "title": "Amor responsável",
+          "body": "Pedir perdão não apaga a necessidade de mudança concreta e proteção."
+        },
+        {
+          "title": "Discernir segurança",
+          "body": "Quando há ameaça, humilhação ou manipulação, continuar pode não ser prudente."
+        }
+      ]
+    },
+    {
+      "id": "I08",
+      "term_id": "I08",
+      "call_label": "I08 - Diferença de fé",
+      "case": "Uma pessoa quer viver a fé e os sacramentos, mas o namorado ridiculariza a prática religiosa e pressiona para abandonar limites morais.",
+      "conference_question": "Que diferença existe entre respeitar alguém de outra fé e aceitar desprezo pela própria fé?",
+      "anchors": [
+        "B15",
+        "2Cor 6,14"
+      ],
+      "facilitator_note": "Não simplifique a questão a rótulos; avalie frutos concretos na fé e na liberdade.",
+      "reading_points": [
+        {
+          "title": "Tensão real",
+          "body": "O caso envolve valores de fé e prática moral, não apenas gosto pessoal."
+        },
+        {
+          "title": "Respeito exigido",
+          "body": "Diferença de fé não autoriza desprezo, pressão ou zombaria."
+        },
+        {
+          "title": "Discernimento",
+          "body": "O namoro precisa ajudar a caminhar com Deus, não afastar dele."
+        }
+      ]
+    },
+    {
+      "id": "I09",
+      "term_id": "I09",
+      "call_label": "I09 - Projetos conflitantes",
+      "case": "Um quer casamento aberto à vida e vida de fé; o outro rejeita casamento, filhos e qualquer compromisso religioso, mas ambos evitam tocar no assunto.",
+      "conference_question": "Por que projetos de vida incompatíveis não devem ser escondidos pela paixão?",
+      "anchors": [
+        "B02",
+        "B12"
+      ],
+      "facilitator_note": "Mostre que discernir projeto não é calcular tudo, mas não negar o essencial.",
+      "reading_points": [
+        {
+          "title": "Assunto evitado",
+          "body": "O caso esconde diferenças que tocarão o futuro da relação."
+        },
+        {
+          "title": "Conhecimento profundo",
+          "body": "Namoro sério inclui falar de fé, família, filhos, trabalho e responsabilidades."
+        },
+        {
+          "title": "Verdade antes",
+          "body": "Ignorar incompatibilidades graves adia uma dor e enfraquece a liberdade."
+        }
+      ]
+    },
+    {
+      "id": "I10",
+      "term_id": "I10",
+      "call_label": "I10 - Namoro precoce",
+      "case": "Duas pessoas muito imaturas assumem namoro por pressão social, mas não conseguem lidar com ciúme, limites, cobrança, tempo e responsabilidade.",
+      "conference_question": "Por que esperar pode ser uma escolha madura, e não falta de coragem?",
+      "anchors": [
+        "B02",
+        "CEC §2342"
+      ],
+      "facilitator_note": "Afirme que nem toda idade ou fase pede namoro; esperar também educa o amor.",
+      "reading_points": [
+        {
+          "title": "Imaturidade",
+          "body": "O caso mostra compromisso assumido sem recursos para sustentá-lo com equilíbrio."
+        },
+        {
+          "title": "Tempo necessário",
+          "body": "O namoro pede liberdade, responsabilidade e capacidade de discernimento."
+        },
+        {
+          "title": "Espera prudente",
+          "body": "Adiar pode proteger a pessoa e preparar um amor mais sólido."
+        }
+      ]
+    },
+    {
+      "id": "I11",
+      "term_id": "I11",
+      "call_label": "I11 - Ficar sem compromisso",
+      "case": "Em uma festa, duas pessoas se envolvem sabendo que no dia seguinte agirão como se nada tivesse acontecido.",
+      "conference_question": "Que responsabilidade existe mesmo quando ninguém assumiu compromisso formal?",
+      "anchors": [
+        "B02",
+        "CEC §2390"
+      ],
+      "facilitator_note": "Não trate a situação como brincadeira leve; foque em dignidade e responsabilidade.",
+      "reading_points": [
+        {
+          "title": "Vínculo negado",
+          "body": "O caso cria envolvimento real e depois finge que não há consequência."
+        },
+        {
+          "title": "Pessoa inteira",
+          "body": "Afeto e corpo não são coisas descartáveis separadas da dignidade."
+        },
+        {
+          "title": "Responsabilidade",
+          "body": "O cristão não usa o outro para prazer momentâneo ou afirmação social."
+        }
+      ]
+    },
+    {
+      "id": "I12",
+      "term_id": "I12",
+      "call_label": "I12 - Isolamento da família",
+      "case": "O namorado convence a pessoa a mentir em casa, afastar-se de irmãos e desconfiar de qualquer conselho familiar.",
+      "conference_question": "Como distinguir privacidade legítima de isolamento perigoso no namoro?",
+      "anchors": [
+        "B13",
+        "O13"
+      ],
+      "facilitator_note": "Reconheça que famílias podem ter limites, mas destaque o risco de isolamento manipulador.",
+      "reading_points": [
+        {
+          "title": "Corte de vínculos",
+          "body": "O caso usa o namoro para afastar a pessoa de relações que poderiam protegê-la."
+        },
+        {
+          "title": "Sinal de alerta",
+          "body": "Quem ama não precisa destruir toda referência externa para manter controle."
+        },
+        {
+          "title": "Acompanhamento",
+          "body": "Conselho prudente e presença familiar podem ajudar a discernir com liberdade."
+        }
+      ]
+    },
+    {
+      "id": "I13",
+      "term_id": "I13",
+      "call_label": "I13 - Conversas ambíguas",
+      "case": "Uma pessoa namora, mas mantém mensagens insinuantes com alguém do trabalho e apaga as conversas antes de chegar em casa.",
+      "conference_question": "Por que apagar e esconder pode revelar que a conversa já perdeu a retidão?",
+      "anchors": [
+        "B08",
+        "Mt 5,37"
+      ],
+      "facilitator_note": "Mostre que ambiguidade alimentada também é matéria de discernimento moral.",
+      "reading_points": [
+        {
+          "title": "Duplo jogo",
+          "body": "O caso mistura insinuação, segredo e aparência de normalidade."
+        },
+        {
+          "title": "Intenção impura",
+          "body": "Mesmo sem gesto físico, a intenção pode ferir fidelidade e verdade."
+        },
+        {
+          "title": "Simplicidade",
+          "body": "A pureza de intenção pede uma palavra limpa e uma conduta sem duplicidade."
+        }
+      ]
+    },
+    {
+      "id": "I14",
+      "term_id": "I14",
+      "call_label": "I14 - Corpo como prova",
+      "case": "Depois de meses de namoro, uma pessoa diz que precisa de uma demonstração física para ter certeza de que é amada.",
+      "conference_question": "Por que exigir o corpo como prova contradiz o respeito cristão?",
+      "anchors": [
+        "B07",
+        "B11"
+      ],
+      "facilitator_note": "Deixe claro que amor não se mede pela entrega pressionada do corpo.",
+      "reading_points": [
+        {
+          "title": "Exigência",
+          "body": "O caso transforma o corpo em moeda de garantia afetiva."
+        },
+        {
+          "title": "Dignidade",
+          "body": "O corpo não é prova a ser entregue sob pressão, mas parte da pessoa."
+        },
+        {
+          "title": "Castidade",
+          "body": "O amor cristão respeita o tempo próprio da entrega conjugal."
+        }
+      ]
+    },
+    {
+      "id": "I15",
+      "term_id": "I15",
+      "call_label": "I15 - Noivado improvisado",
+      "case": "A família pressiona por noivado porque o casal já namora há anos, embora eles nunca tenham conversado seriamente sobre casamento, fé e responsabilidades.",
+      "conference_question": "Por que tempo de namoro sozinho não basta para justificar o noivado?",
+      "anchors": [
+        "B12",
+        "G12"
+      ],
+      "facilitator_note": "Mostre que noivado não é prêmio por duração, mas passo público com direção matrimonial.",
+      "reading_points": [
+        {
+          "title": "Pressão externa",
+          "body": "O caso avança para o noivado por costume e cobrança, não por discernimento."
+        },
+        {
+          "title": "Compromisso público",
+          "body": "Noivado aponta para o matrimônio e exige clareza sobre o essencial."
+        },
+        {
+          "title": "Preparo",
+          "body": "Antes de assumir um passo maior, é preciso conversar, rezar e discernir."
+        }
+      ]
+    },
+    {
+      "id": "N01",
+      "term_id": "N01",
+      "call_label": "N01 - Pressão do costume",
+      "case": "Em uma roda de conversa, alguém diz que não vale a pena levar castidade a sério, porque hoje ninguém vive assim.",
+      "conference_question": "Por que a frequência de uma prática não prova que ela é boa?",
+      "anchors": [
+        "Rm 12,2",
+        "B01"
+      ],
+      "facilitator_note": "Desmonte o argumento do costume sem atacar pessoas.",
+      "reading_points": [
+        {
+          "title": "Maioria como critério",
+          "body": "O caso usa o comportamento comum como medida da moralidade."
+        },
+        {
+          "title": "Conversão da mente",
+          "body": "A fé cristã não se conforma automaticamente ao padrão do ambiente."
+        },
+        {
+          "title": "Santidade",
+          "body": "A vontade de Deus continua sendo critério mesmo quando parece contracultural."
+        }
+      ]
+    },
+    {
+      "id": "N02",
+      "term_id": "N02",
+      "call_label": "N02 - Prova de amor",
+      "case": "Uma pessoa diz que, se o namoro é sério, a outra deve ceder a uma intimidade que ela já afirmou não querer.",
+      "conference_question": "Como responder à falsa ideia de que amor precisa ser provado pela cedência do corpo?",
+      "anchors": [
+        "B05",
+        "1Ts 4,6"
+      ],
+      "facilitator_note": "Nomeie a manipulação com clareza e proteja a consciência de quem recebe pressão.",
+      "reading_points": [
+        {
+          "title": "Manipulação",
+          "body": "O caso usa a palavra amor para arrancar uma cedência."
+        },
+        {
+          "title": "Respeito",
+          "body": "Amor verdadeiro não oprime nem defrauda o outro."
+        },
+        {
+          "title": "Prova real",
+          "body": "A prova de amor está no respeito, na paciência e na fidelidade ao bem."
+        }
+      ]
+    },
+    {
+      "id": "N03",
+      "term_id": "N03",
+      "call_label": "N03 - Afeto sem compromisso",
+      "case": "Duas pessoas se envolvem intensamente e dizem que não precisam pensar em consequência, porque o sentimento do momento é verdadeiro.",
+      "conference_question": "Por que sentimento verdadeiro ainda precisa de direção moral e compromisso proporcional?",
+      "anchors": [
+        "B13",
+        "1Cor 13,4-7"
+      ],
+      "facilitator_note": "Não negue o sentimento; mostre que ele precisa ser ordenado.",
+      "reading_points": [
+        {
+          "title": "Sentimento isolado",
+          "body": "O caso usa a intensidade afetiva para dispensar responsabilidade."
+        },
+        {
+          "title": "Amor paciente",
+          "body": "O amor cristão não se reduz ao que se sente no momento."
+        },
+        {
+          "title": "Consequência",
+          "body": "Afeto real deve ser vivido com verdade, limite e cuidado com o outro."
+        }
+      ]
+    },
+    {
+      "id": "N04",
+      "term_id": "N04",
+      "call_label": "N04 - Falsa autonomia",
+      "case": "Alguém rejeita qualquer orientação sobre namoro dizendo que ninguém tem direito de falar de sua vida, nem a família, nem a Igreja, nem Deus.",
+      "conference_question": "Como distinguir liberdade pessoal de recusa orgulhosa da verdade?",
+      "anchors": [
+        "B10",
+        "1Cor 6,19-20"
+      ],
+      "facilitator_note": "Afirme responsabilidade pessoal sem transformar consciência em isolamento absoluto.",
+      "reading_points": [
+        {
+          "title": "Autonomia fechada",
+          "body": "O caso transforma liberdade em recusa de qualquer luz externa."
+        },
+        {
+          "title": "Pertencimento a Deus",
+          "body": "A fé recorda que a pessoa inteira pertence a Deus e é chamada ao bem."
+        },
+        {
+          "title": "Liberdade verdadeira",
+          "body": "Ser livre é poder escolher o bem, não blindar-se contra a verdade."
+        }
+      ]
+    },
+    {
+      "id": "N05",
+      "term_id": "N05",
+      "call_label": "N05 - Ciúme como cuidado",
+      "case": "Uma mulher deixa de visitar parentes porque o namorado diz que sente ciúme e que esse controle é apenas medo de perdê-la.",
+      "conference_question": "Que critério ajuda a perceber quando o ciúme virou posse?",
+      "anchors": [
+        "G03",
+        "B05"
+      ],
+      "facilitator_note": "Mostre que insegurança não autoriza domínio sobre a vida do outro.",
+      "reading_points": [
+        {
+          "title": "Controle disfarçado",
+          "body": "O caso chama domínio de cuidado afetivo."
+        },
+        {
+          "title": "Amor e posse",
+          "body": "Amar não é fechar a vida do outro para acalmar insegurança própria."
+        },
+        {
+          "title": "Liberdade",
+          "body": "O respeito mútuo exige vínculos bons, confiança e limites claros."
+        }
+      ]
+    },
+    {
+      "id": "N06",
+      "term_id": "N06",
+      "call_label": "N06 - Aceitar tudo",
+      "case": "Depois de uma atitude humilhante, alguém diz que quem ama de verdade deve aceitar a pessoa como ela é e não cobrar mudança.",
+      "conference_question": "Como acolher a pessoa sem aprovar atitudes que ferem o amor?",
+      "anchors": [
+        "G04",
+        "B13"
+      ],
+      "facilitator_note": "Diferencie misericórdia de permissividade.",
+      "reading_points": [
+        {
+          "title": "Acolhida distorcida",
+          "body": "O caso usa aceitação para impedir correção e mudança."
+        },
+        {
+          "title": "Verdade do amor",
+          "body": "Amar alguém inclui desejar que ela se converta do que fere."
+        },
+        {
+          "title": "Limite bom",
+          "body": "Acolher a pessoa não exige tolerar humilhação ou pecado."
+        }
+      ]
+    },
+    {
+      "id": "N07",
+      "term_id": "N07",
+      "call_label": "N07 - Sexo como requisito",
+      "case": "Um casal escuta repetidamente que, se não tiver relação sexual antes do casamento, o namoro é estranho e sem futuro.",
+      "conference_question": "Por que a continência pode revelar mais amor, e não menos amor?",
+      "anchors": [
+        "CEC §2350",
+        "B04"
+      ],
+      "facilitator_note": "Apresente a doutrina com clareza, sem vergonha do ensinamento da Igreja.",
+      "reading_points": [
+        {
+          "title": "Normalização",
+          "body": "O caso transforma relação sexual em requisito cultural do namoro."
+        },
+        {
+          "title": "Sentido do corpo",
+          "body": "A Igreja ensina reservar ao casamento as expressões próprias do amor conjugal."
+        },
+        {
+          "title": "Fidelidade aprendida",
+          "body": "A continência educa respeito mútuo, domínio de si e esperança."
+        }
+      ]
+    },
+    {
+      "id": "N08",
+      "term_id": "N08",
+      "call_label": "N08 - Ilusão de controle",
+      "case": "Um casal combina ficar sozinho sempre tarde da noite, mesmo sabendo que esse contexto costuma levá-los aos mesmos pecados.",
+      "conference_question": "Por que evitar ocasião de pecado não é fraqueza, mas prudência?",
+      "anchors": [
+        "B14",
+        "Mt 5,27-30"
+      ],
+      "facilitator_note": "Mostre que prudência concreta é parte do combate espiritual.",
+      "reading_points": [
+        {
+          "title": "Risco previsível",
+          "body": "O caso repete condições que já levaram à queda."
+        },
+        {
+          "title": "Presunção",
+          "body": "A ilusão está em confiar apenas na força do momento."
+        },
+        {
+          "title": "Combate",
+          "body": "A graça pede cooperação concreta, inclusive afastar ocasiões de pecado."
+        }
+      ]
+    },
+    {
+      "id": "N09",
+      "term_id": "N09",
+      "call_label": "N09 - Privado sem lei",
+      "case": "Alguém afirma que, se ninguém ficou sabendo e os dois concordaram, Deus não tem nada a ver com o que aconteceu.",
+      "conference_question": "Por que o consentimento e o segredo não bastam para tornar uma ação moralmente boa?",
+      "anchors": [
+        "B08",
+        "Lc 12,2"
+      ],
+      "facilitator_note": "Explique que moralidade não depende apenas de publicidade ou escândalo externo.",
+      "reading_points": [
+        {
+          "title": "Segredo moralizado",
+          "body": "O caso trata o privado como se estivesse fora da verdade."
+        },
+        {
+          "title": "Diante de Deus",
+          "body": "O coração e os atos ocultos também pertencem à vida moral."
+        },
+        {
+          "title": "Bem objetivo",
+          "body": "Consentimento não muda por si só o sentido do corpo, da castidade e da dignidade."
+        }
+      ]
+    },
+    {
+      "id": "N10",
+      "term_id": "N10",
+      "call_label": "N10 - Paixão soberana",
+      "case": "Depois de agir mal, alguém diz que não teve escolha porque estava apaixonado e a paixão foi mais forte.",
+      "conference_question": "Como reconhecer a força da paixão sem entregar a ela o governo da consciência?",
+      "anchors": [
+        "B10",
+        "CEC §2342"
+      ],
+      "facilitator_note": "Evite negar a intensidade emocional; mostre que ela precisa de domínio e graça.",
+      "reading_points": [
+        {
+          "title": "Paixão absolvida",
+          "body": "O caso usa emoção intensa para dispensar responsabilidade."
+        },
+        {
+          "title": "Domínio de si",
+          "body": "A maturidade cristã aprende a ordenar impulsos ao bem."
+        },
+        {
+          "title": "Responsabilidade",
+          "body": "A paixão não justifica usar o outro nem quebrar limites morais."
+        }
+      ]
+    },
+    {
+      "id": "N11",
+      "term_id": "N11",
+      "call_label": "N11 - Casamento como remédio",
+      "case": "Familiares sugerem casamento rápido porque o casal briga muito, vive desordem e talvez se acalme quando casar.",
+      "conference_question": "Por que casamento não deve ser usado para encobrir desordem já visível no namoro?",
+      "anchors": [
+        "B12",
+        "G11"
+      ],
+      "facilitator_note": "Diga que o matrimônio é vocação e aliança, não fuga de problemas não convertidos.",
+      "reading_points": [
+        {
+          "title": "Remédio falso",
+          "body": "O caso empurra para compromisso maior sem enfrentar a raiz do problema."
+        },
+        {
+          "title": "Aliança séria",
+          "body": "O casamento exige liberdade, discernimento e responsabilidade, não improviso."
+        },
+        {
+          "title": "Conversão antes",
+          "body": "Feridas graves precisam de verdade e mudança antes de passos definitivos."
+        }
+      ]
+    },
+    {
+      "id": "N12",
+      "term_id": "N12",
+      "call_label": "N12 - Dano invisível",
+      "case": "Após terminar vários relacionamentos de modo frio e confuso, alguém diz que não feriu ninguém porque nunca houve agressão física.",
+      "conference_question": "Que tipos de dano moral e afetivo podem existir mesmo sem violência física?",
+      "anchors": [
+        "B11",
+        "Pr 4,23"
+      ],
+      "facilitator_note": "Reconheça a gravidade de feridas afetivas sem dramatizar além do caso.",
+      "reading_points": [
+        {
+          "title": "Ferida negada",
+          "body": "O caso mede dano apenas por marca física ou prova visível."
+        },
+        {
+          "title": "Coração ferido",
+          "body": "Confusão, uso, mentira e descarte também ferem a pessoa."
+        },
+        {
+          "title": "Responsabilidade",
+          "body": "A dignidade exige cuidado com consequências afetivas, morais e espirituais."
+        }
+      ]
+    },
+    {
+      "id": "N13",
+      "term_id": "N13",
+      "call_label": "N13 - Deus como desculpa",
+      "case": "Um casal decide continuar em pecado deliberado e diz que Deus é misericordioso, então não há motivo para mudar agora.",
+      "conference_question": "Como distinguir confiança na misericórdia de uso da misericórdia como desculpa para não converter-se?",
+      "anchors": [
+        "B01",
+        "Rm 6,1-2"
+      ],
+      "facilitator_note": "Una misericórdia e conversão; evite tanto dureza quanto banalização.",
+      "reading_points": [
+        {
+          "title": "Misericórdia usada",
+          "body": "O caso invoca Deus para justificar permanência deliberada no erro."
+        },
+        {
+          "title": "Chamado à conversão",
+          "body": "A misericórdia perdoa e levanta, mas não chama o pecado de bem."
+        },
+        {
+          "title": "Santificação",
+          "body": "A vontade de Deus é conduzir à santidade, não acomodar a impureza."
+        }
+      ]
+    },
+    {
+      "id": "N14",
+      "term_id": "N14",
+      "call_label": "N14 - Metade salvadora",
+      "case": "Uma pessoa diz que sem o namoro não é ninguém e aceita humilhações porque acredita que aquela relação é sua única chance de sentido.",
+      "conference_question": "Por que colocar no outro a salvação da própria vida destrói a liberdade do amor?",
+      "anchors": [
+        "B15",
+        "G03"
+      ],
+      "facilitator_note": "Trate carência com respeito, mas denuncie idolatria afetiva e perda de liberdade.",
+      "reading_points": [
+        {
+          "title": "Absolutização",
+          "body": "O caso coloca uma pessoa no lugar que pertence a Deus."
+        },
+        {
+          "title": "Dependência",
+          "body": "Quando o outro vira salvador, a pessoa aceita o que fere sua dignidade."
+        },
+        {
+          "title": "Deus no centro",
+          "body": "O amor humano precisa ser vivido diante de Deus, não como substituto de Deus."
+        }
+      ]
+    },
+    {
+      "id": "N15",
+      "term_id": "N15",
+      "call_label": "N15 - Imagem sem consequência",
+      "case": "Alguém pede fotos íntimas prometendo apagar depois, como se a imagem não envolvesse corpo, confiança e risco.",
+      "conference_question": "Por que uma imagem íntima envolve dignidade e responsabilidade, mesmo antes de ser divulgada?",
+      "anchors": [
+        "B09",
+        "G08"
+      ],
+      "facilitator_note": "Se houver exposição real, oriente proteção e ajuda adulta; não faça curiosidade sobre detalhes.",
+      "reading_points": [
+        {
+          "title": "Falsa leveza",
+          "body": "O caso trata uma imagem íntima como objeto sem peso moral."
+        },
+        {
+          "title": "Corpo presente",
+          "body": "A imagem toca a dignidade do corpo e a intimidade da pessoa."
+        },
+        {
+          "title": "Risco real",
+          "body": "Guardar a intimidade exige dizer não, apagar, não repassar e buscar ajuda se houver ameaça."
+        }
+      ]
+    },
+    {
+      "id": "G01",
+      "term_id": "G01",
+      "call_label": "G01 - Pessoa e ato",
+      "case": "Ao saber de uma queda moral no namoro, alguns querem ridicularizar a pessoa, enquanto outros dizem que não se pode avaliar nada.",
+      "conference_question": "Como corrigir um ato sem humilhar a pessoa nem negar a verdade moral?",
+      "anchors": [
+        "Gn 1,27",
+        "B11"
+      ],
+      "facilitator_note": "Ensine a manter juntos dignidade da pessoa e verdade sobre os atos.",
+      "reading_points": [
+        {
+          "title": "Dois erros",
+          "body": "O caso oscila entre humilhar a pessoa e negar a gravidade do ato."
+        },
+        {
+          "title": "Dignidade inviolável",
+          "body": "A pessoa continua imagem de Deus e não pode ser reduzida à queda."
+        },
+        {
+          "title": "Verdade moral",
+          "body": "Reconhecer dignidade não impede chamar o pecado pelo nome."
+        }
+      ]
+    },
+    {
+      "id": "G02",
+      "term_id": "G02",
+      "call_label": "G02 - Desejo e bem",
+      "case": "Alguém sente forte atração por uma pessoa comprometida e conclui que, por ser um sentimento intenso, deve ser vivido.",
+      "conference_question": "Por que um desejo real ainda precisa ser julgado pelo bem objetivo?",
+      "anchors": [
+        "B10",
+        "CEC §2520"
+      ],
+      "facilitator_note": "Não trate desejo como pecado automático; foque no discernimento e na escolha.",
+      "reading_points": [
+        {
+          "title": "Desejo intenso",
+          "body": "O caso confunde força do desejo com autorização moral."
+        },
+        {
+          "title": "Bem objetivo",
+          "body": "Nem todo desejo aponta para algo justo, fiel ou santo."
+        },
+        {
+          "title": "Educação interior",
+          "body": "A castidade ordena o desejo para que ele sirva ao amor verdadeiro."
+        }
+      ]
+    },
+    {
+      "id": "G03",
+      "term_id": "G03",
+      "call_label": "G03 - Amor e posse",
+      "case": "Uma pessoa diz que ama tanto que não suporta ver o outro com amigos, família ou atividades sem sua presença.",
+      "conference_question": "Que diferença há entre querer proximidade e querer possuir a vida do outro?",
+      "anchors": [
+        "1Cor 13,4-7",
+        "B05"
+      ],
+      "facilitator_note": "Mostre que amor cresce com liberdade responsável, não com domínio.",
+      "reading_points": [
+        {
+          "title": "Apego controlador",
+          "body": "O caso apresenta posse como se fosse intensidade de amor."
+        },
+        {
+          "title": "Bem do outro",
+          "body": "Amar deseja que o outro cresça, não que viva fechado no medo."
+        },
+        {
+          "title": "Liberdade",
+          "body": "A proximidade sadia respeita vínculos, vocação e consciência."
+        }
+      ]
+    },
+    {
+      "id": "G04",
+      "term_id": "G04",
+      "call_label": "G04 - Acolhida e aprovação",
+      "case": "Uma jovem procura ajuda após viver um namoro desordenado; uma pessoa quer condená-la, outra diz que nada precisa mudar.",
+      "conference_question": "Como acolher alguém ferido sem negar a necessidade de conversão?",
+      "anchors": [
+        "Jo 8,11",
+        "B13"
+      ],
+      "facilitator_note": "Use tom pastoral: verdade sem humilhação, misericórdia sem relativização.",
+      "reading_points": [
+        {
+          "title": "Extremos",
+          "body": "O caso mostra dureza sem misericórdia e acolhida sem verdade."
+        },
+        {
+          "title": "Acolher a pessoa",
+          "body": "A pessoa ferida precisa ser recebida com respeito e cuidado."
+        },
+        {
+          "title": "Chamar ao bem",
+          "body": "Aprovar o erro não ajuda; a misericórdia verdadeira abre caminho de conversão."
+        }
+      ]
+    },
+    {
+      "id": "G05",
+      "term_id": "G05",
+      "call_label": "G05 - Prudência e medo",
+      "case": "Um casal percebe riscos concretos de queda, mas evita combinar limites porque teme parecer desconfiado ou pouco apaixonado.",
+      "conference_question": "Como distinguir prudência que protege o amor de medo que evita conversar com verdade?",
+      "anchors": [
+        "Pr 4,23",
+        "B10"
+      ],
+      "facilitator_note": "Mostre que prudência não mata o amor; ela protege o que é bom.",
+      "reading_points": [
+        {
+          "title": "Risco sem nome",
+          "body": "O caso evita falar de limites por medo de desconforto."
+        },
+        {
+          "title": "Prudência",
+          "body": "A prudência escolhe meios concretos para proteger o bem."
+        },
+        {
+          "title": "Coragem da verdade",
+          "body": "Falar de limites com respeito é maturidade, não frieza."
+        }
+      ]
+    },
+    {
+      "id": "G06",
+      "term_id": "G06",
+      "call_label": "G06 - Liberdade e impulso",
+      "case": "Depois de uma noite de mensagens provocativas, alguém diz que não era livre para parar, porque a conversa já tinha começado.",
+      "conference_question": "Em que momento a liberdade precisa interromper um impulso antes que ele governe a pessoa?",
+      "anchors": [
+        "CEC §2342",
+        "B10"
+      ],
+      "facilitator_note": "Destaque pequenas decisões antes da queda, não apenas o erro final.",
+      "reading_points": [
+        {
+          "title": "Encadeamento",
+          "body": "O caso mostra como uma sequência alimentada reduz a liberdade prática."
+        },
+        {
+          "title": "Impulso",
+          "body": "O impulso ganha força quando é alimentado sem vigilância."
+        },
+        {
+          "title": "Liberdade treinada",
+          "body": "Parar cedo, cortar a conversa e mudar o contexto são atos de liberdade."
+        }
+      ]
+    },
+    {
+      "id": "G07",
+      "term_id": "G07",
+      "call_label": "G07 - Ternura e uso do corpo",
+      "case": "Um casal confunde carinho com gestos cada vez mais intensos, até que o contato deixa de expressar cuidado e passa a provocar queda.",
+      "conference_question": "Que critério ajuda a distinguir ternura respeitosa de uso do corpo?",
+      "anchors": [
+        "CEC §2350",
+        "B07"
+      ],
+      "facilitator_note": "Não entre em lista detalhada; fale de sentido, limite e frutos.",
+      "reading_points": [
+        {
+          "title": "Escalada",
+          "body": "O caso mostra gestos que começam como carinho e passam a alimentar desordem."
+        },
+        {
+          "title": "Sentido da ternura",
+          "body": "A ternura cuida do outro; o uso do corpo busca satisfação sem respeitar o tempo."
+        },
+        {
+          "title": "Castidade prática",
+          "body": "No namoro, os gestos precisam servir ao respeito e à liberdade."
+        }
+      ]
+    },
+    {
+      "id": "G08",
+      "term_id": "G08",
+      "call_label": "G08 - Intimidade e exposição",
+      "case": "Depois do término, alguém pensa em divulgar conversas privadas para provar que sofreu e ganhar razão diante dos outros.",
+      "conference_question": "Quando buscar justiça vira exposição indevida da intimidade?",
+      "anchors": [
+        "B09",
+        "CEC §2520"
+      ],
+      "facilitator_note": "Diferencie procurar ajuda legítima de publicar intimidade para vencer disputa.",
+      "reading_points": [
+        {
+          "title": "Busca de razão",
+          "body": "O caso quer transformar conversas íntimas em arma pública."
+        },
+        {
+          "title": "Pudor",
+          "body": "A intimidade deve ser guardada mesmo quando há dor ou conflito."
+        },
+        {
+          "title": "Ajuda correta",
+          "body": "Quem precisa de justiça deve procurar pessoas responsáveis, não plateia."
+        }
+      ]
+    },
+    {
+      "id": "G09",
+      "term_id": "G09",
+      "call_label": "G09 - Perdão e retorno inseguro",
+      "case": "Após ameaças e humilhações, a pessoa perdoa, mas todos a pressionam a voltar imediatamente para provar que perdoou de verdade.",
+      "conference_question": "Por que perdoar não obriga a retomar uma relação insegura?",
+      "anchors": [
+        "B13",
+        "O08"
+      ],
+      "facilitator_note": "Trate com cuidado situações de abuso; indique proteção e ajuda responsável.",
+      "reading_points": [
+        {
+          "title": "Pressão indevida",
+          "body": "O caso confunde perdão com retorno automático ao risco."
+        },
+        {
+          "title": "Perdão verdadeiro",
+          "body": "Perdoar é renunciar à vingança e desejar conversão, não negar perigo."
+        },
+        {
+          "title": "Proteção",
+          "body": "Quando há ameaça ou manipulação, distância pode ser necessária e justa."
+        }
+      ]
+    },
+    {
+      "id": "G10",
+      "term_id": "G10",
+      "call_label": "G10 - Espera e fuga",
+      "case": "Uma pessoa diz que prefere esperar para namorar por falta de maturidade; outra evita qualquer compromisso sério porque quer manter todas as opções abertas.",
+      "conference_question": "Como distinguir espera prudente de fuga egoísta do compromisso?",
+      "anchors": [
+        "B02",
+        "B12"
+      ],
+      "facilitator_note": "Mostre que esperar pode ser virtude, mas também pode haver fuga quando há medo de doar-se.",
+      "reading_points": [
+        {
+          "title": "Duas esperas",
+          "body": "O caso apresenta uma espera por maturidade e uma fuga por comodidade."
+        },
+        {
+          "title": "Prudência",
+          "body": "Esperar é bom quando protege a liberdade e prepara responsabilidade."
+        },
+        {
+          "title": "Vocação",
+          "body": "Fugir sempre de compromisso pode impedir o discernimento do amor e da vocação."
+        }
+      ]
+    },
+    {
+      "id": "G11",
+      "term_id": "G11",
+      "call_label": "G11 - Namoro e casamento",
+      "case": "Um casal de namorados exige direitos de vida conjugal, mas evita qualquer conversa sobre compromisso público e definitivo.",
+      "conference_question": "Por que namoro e casamento têm exigências e sinais diferentes?",
+      "anchors": [
+        "B02",
+        "B12",
+        "CEC §1601"
+      ],
+      "facilitator_note": "Explique diferença de estado de vida, não apenas diferença de intensidade afetiva.",
+      "reading_points": [
+        {
+          "title": "Confusão de estados",
+          "body": "O caso quer viver sinais de casamento sem assumir a aliança matrimonial."
+        },
+        {
+          "title": "Namoro discerne",
+          "body": "O namoro existe para conhecer e discernir, ainda sem compromisso definitivo."
+        },
+        {
+          "title": "Casamento sela",
+          "body": "O matrimônio é compromisso público e próprio da entrega conjugal."
+        }
+      ]
+    },
+    {
+      "id": "G12",
+      "term_id": "G12",
+      "call_label": "G12 - Noivado e namoro",
+      "case": "Depois de colocar alianças, um casal continua vivendo como se o noivado fosse apenas uma versão mais bonita do namoro, sem preparação nem data séria.",
+      "conference_question": "O que muda moralmente quando o namoro se torna noivado?",
+      "anchors": [
+        "B12",
+        "CEC §2350"
+      ],
+      "facilitator_note": "Mostre que noivado aumenta seriedade e preparação, não libera intimidade conjugal.",
+      "reading_points": [
+        {
+          "title": "Símbolo vazio",
+          "body": "O caso usa sinal público sem assumir seu sentido."
+        },
+        {
+          "title": "Direção matrimonial",
+          "body": "Noivado aponta concretamente para o matrimônio e pede preparação."
+        },
+        {
+          "title": "Continência permanece",
+          "body": "Mesmo no noivado, a castidade reserva ao casamento a entrega conjugal."
+        }
+      ]
+    },
+    {
+      "id": "G13",
+      "term_id": "G13",
+      "call_label": "G13 - Culpa e responsabilidade",
+      "case": "Diante de um pecado no namoro, alguém quer dizer que todos têm a mesma culpa; outro quer dizer que ninguém tem culpa porque havia emoção e pressão.",
+      "conference_question": "Como distinguir gravidade objetiva do ato e responsabilidade concreta de cada pessoa?",
+      "anchors": [
+        "CEC §2351",
+        "G01"
+      ],
+      "facilitator_note": "Evite julgamento precipitado de consciências, mas não apague a gravidade moral.",
+      "reading_points": [
+        {
+          "title": "Generalização",
+          "body": "O caso iguala situações diferentes ou desculpa tudo pela emoção."
+        },
+        {
+          "title": "Ato objetivo",
+          "body": "Alguns atos têm gravidade moral independentemente da intenção declarada."
+        },
+        {
+          "title": "Responsabilidade pessoal",
+          "body": "Pressão, ignorância e liberdade concreta importam para orientar conversão e ajuda."
+        }
+      ]
+    },
+    {
+      "id": "G14",
+      "term_id": "G14",
+      "call_label": "G14 - Limite e rejeição",
+      "case": "Uma pessoa põe limite a uma conversa impura, e a outra responde que foi rejeitada e humilhada.",
+      "conference_question": "Como pôr limite sem desprezar a pessoa, e como receber limite sem manipular?",
+      "anchors": [
+        "B05",
+        "G04"
+      ],
+      "facilitator_note": "Mostre que limite justo protege ambos e não precisa ser agressivo.",
+      "reading_points": [
+        {
+          "title": "Limite interpretado",
+          "body": "O caso transforma uma recusa moral em ofensa pessoal."
+        },
+        {
+          "title": "Pessoa e conduta",
+          "body": "Rejeitar uma proposta errada não é rejeitar a dignidade de quem propôs."
+        },
+        {
+          "title": "Clareza respeitosa",
+          "body": "O limite deve ser firme, limpo e sem humilhação."
+        }
+      ]
+    },
+    {
+      "id": "G15",
+      "term_id": "G15",
+      "call_label": "G15 - Oração e passividade",
+      "case": "Um casal reza pedindo castidade, mas mantém os mesmos encontros isolados, os mesmos conteúdos e as mesmas conversas que os levam à queda.",
+      "conference_question": "Por que oração verdadeira precisa vir acompanhada de decisões concretas?",
+      "anchors": [
+        "B14",
+        "O03"
+      ],
+      "facilitator_note": "Não diminua a oração; mostre que ela deve gerar cooperação com a graça.",
+      "reading_points": [
+        {
+          "title": "Oração isolada",
+          "body": "O caso pede ajuda de Deus sem mudar ocasiões previsíveis de pecado."
+        },
+        {
+          "title": "Cooperação",
+          "body": "A graça não dispensa responsabilidade, vigilância e escolha de meios."
+        },
+        {
+          "title": "Fruto concreto",
+          "body": "Rezar deve levar a limites, confissão, ajuda e hábitos novos."
+        }
+      ]
+    },
+    {
+      "id": "O01",
+      "term_id": "O01",
+      "call_label": "O01 - Definir limites",
+      "case": "Antes de uma viagem, um casal conversa e combina horários, hospedagem separada, limites de intimidade e como agir se a pressão aparecer.",
+      "conference_question": "Por que limites definidos antes da tentação são mais livres que decisões improvisadas no calor do momento?",
+      "anchors": [
+        "B04",
+        "G05"
+      ],
+      "facilitator_note": "Apresente limites como ato de maturidade, não como desconfiança automática.",
+      "reading_points": [
+        {
+          "title": "Prevenção",
+          "body": "O caso antecipa riscos concretos antes que eles dominem a decisão."
+        },
+        {
+          "title": "Prudência",
+          "body": "Definir limites é escolher meios proporcionais para proteger o amor."
+        },
+        {
+          "title": "Continência",
+          "body": "A castidade se torna praticável quando há acordos claros e honestos."
+        }
+      ]
+    },
+    {
+      "id": "O02",
+      "term_id": "O02",
+      "call_label": "O02 - Conversa honesta",
+      "case": "Ao perceber que espera casamento e filhos, enquanto a outra pessoa rejeita isso, alguém decide conversar com clareza em vez de manter o namoro por medo.",
+      "conference_question": "Que assuntos precisam aparecer numa conversa honesta sobre o futuro do namoro?",
+      "anchors": [
+        "B02",
+        "Mt 5,37"
+      ],
+      "facilitator_note": "Mostre que falar com verdade evita enganar o outro e enganar-se.",
+      "reading_points": [
+        {
+          "title": "Verdade necessária",
+          "body": "O caso traz à luz uma diferença que não pode ficar escondida."
+        },
+        {
+          "title": "Conhecimento real",
+          "body": "Namoro sério exige falar de fé, família, vocação e responsabilidades."
+        },
+        {
+          "title": "Palavra limpa",
+          "body": "A conversa honesta respeita o outro porque não alimenta ilusão."
+        }
+      ]
+    },
+    {
+      "id": "O03",
+      "term_id": "O03",
+      "call_label": "O03 - Cortar ocasião",
+      "case": "Após reconhecer um padrão de quedas, o casal decide não ficar sozinho em certos horários, muda hábitos digitais e combina encerrar conversas quando ficarem provocativas.",
+      "conference_question": "Como cortar ocasião de pecado sem cair em medo exagerado nem presunção?",
+      "anchors": [
+        "Mt 5,27-30",
+        "B14"
+      ],
+      "facilitator_note": "Valorize decisões práticas e proporcionais; não reduza tudo a força de vontade.",
+      "reading_points": [
+        {
+          "title": "Padrão reconhecido",
+          "body": "O caso identifica condições concretas que favorecem a queda."
+        },
+        {
+          "title": "Corte prudente",
+          "body": "Afastar ocasião previsível é ato de liberdade, não covardia."
+        },
+        {
+          "title": "Graça cooperada",
+          "body": "A pessoa pede ajuda a Deus e muda os meios concretos."
+        }
+      ]
+    },
+    {
+      "id": "O04",
+      "term_id": "O04",
+      "call_label": "O04 - Pedir ajuda madura",
+      "case": "Uma jovem percebe que o namoro está controlador e procura uma adulta prudente da família para conversar antes de tomar decisões sozinha.",
+      "conference_question": "Quando pedir ajuda deixa de ser exposição indevida e se torna proteção necessária?",
+      "anchors": [
+        "Pr 11,14",
+        "B10"
+      ],
+      "facilitator_note": "Indique ajuda responsável; não incentive confidências públicas ou curiosidade.",
+      "reading_points": [
+        {
+          "title": "Sinal de risco",
+          "body": "O caso percebe perda de liberdade e busca luz fora da pressão do namoro."
+        },
+        {
+          "title": "Ajuda prudente",
+          "body": "Pedir conselho a pessoa madura pode proteger de decisões isoladas."
+        },
+        {
+          "title": "Liberdade assistida",
+          "body": "A orientação correta ajuda a discernir sem manipular nem substituir a consciência."
+        }
+      ]
+    },
+    {
+      "id": "O05",
+      "term_id": "O05",
+      "call_label": "O05 - Rezar juntos",
+      "case": "Um casal decide ler um trecho da Palavra antes de conversar sobre limites, e também retoma a participação sacramental em vez de tratar fé como enfeite.",
+      "conference_question": "Como a oração conjunta pode ordenar o namoro sem servir de máscara para desordens?",
+      "anchors": [
+        "B15",
+        "Tb 8,4-8"
+      ],
+      "facilitator_note": "Evite romantizar; oração deve conduzir a conversão, limites e virtudes.",
+      "reading_points": [
+        {
+          "title": "Deus presente",
+          "body": "O caso coloca a fé dentro de uma decisão concreta do namoro."
+        },
+        {
+          "title": "Oração ordenadora",
+          "body": "Rezar juntos ajuda a buscar a vontade de Deus, não apenas conforto emocional."
+        },
+        {
+          "title": "Fruto moral",
+          "body": "A oração verdadeira deve aparecer em limites, sacramentos e crescimento na virtude."
+        }
+      ]
+    },
+    {
+      "id": "O06",
+      "term_id": "O06",
+      "call_label": "O06 - Guardar o corpo",
+      "case": "Um casal escolhe formas de carinho que não os arrastem para a queda e recusa situações em que o corpo seria usado como prova de amor.",
+      "conference_question": "Que decisões concretas ajudam a guardar o corpo sem desprezar a ternura?",
+      "anchors": [
+        "B07",
+        "1Cor 6,19-20"
+      ],
+      "facilitator_note": "Fale de guarda do corpo como respeito, não como medo do corpo.",
+      "reading_points": [
+        {
+          "title": "Escolha dos gestos",
+          "body": "O caso reconhece que nem todo gesto convém ao tempo do namoro."
+        },
+        {
+          "title": "Corpo santo",
+          "body": "O corpo pertence à pessoa inteira e à vocação cristã."
+        },
+        {
+          "title": "Ternura ordenada",
+          "body": "Guardar o corpo permite carinho com respeito e liberdade."
+        }
+      ]
+    },
+    {
+      "id": "O07",
+      "term_id": "O07",
+      "call_label": "O07 - Reparar exposição",
+      "case": "Depois de receber uma imagem íntima de terceiros, alguém apaga, não repassa, avisa a pessoa exposta e procura ajuda responsável.",
+      "conference_question": "Por que reparar exposição exige mais do que simplesmente não comentar?",
+      "anchors": [
+        "G08",
+        "B11"
+      ],
+      "facilitator_note": "Se a situação envolver crime ou ameaça, destaque proteção e encaminhamento a responsáveis competentes.",
+      "reading_points": [
+        {
+          "title": "Corrente interrompida",
+          "body": "O caso corta a circulação do dano em vez de participar dele."
+        },
+        {
+          "title": "Dignidade protegida",
+          "body": "A pessoa exposta não deve virar assunto, prova ou entretenimento."
+        },
+        {
+          "title": "Reparação",
+          "body": "Apagar, não repassar, avisar e buscar ajuda são respostas proporcionais."
+        }
+      ]
+    },
+    {
+      "id": "O08",
+      "term_id": "O08",
+      "call_label": "O08 - Terminar com justiça",
+      "case": "Percebendo que o namoro não deve continuar, uma pessoa marca conversa clara, evita humilhação pública e não usa segredos do outro como arma.",
+      "conference_question": "Como terminar um namoro com verdade sem vingança nem crueldade?",
+      "anchors": [
+        "B13",
+        "G09"
+      ],
+      "facilitator_note": "Mostre que término também é matéria de caridade, justiça e prudência.",
+      "reading_points": [
+        {
+          "title": "Fim necessário",
+          "body": "O caso reconhece que continuar pode ser errado ou imprudente."
+        },
+        {
+          "title": "Modo justo",
+          "body": "A verdade deve ser dita sem exposição, ameaça ou manipulação."
+        },
+        {
+          "title": "Caridade no fim",
+          "body": "Mesmo encerrando, é preciso preservar a dignidade do outro."
+        }
+      ]
+    },
+    {
+      "id": "O09",
+      "term_id": "O09",
+      "call_label": "O09 - Acompanhar ferida",
+      "case": "Uma pessoa ferida por manipulação no namoro procura alguém de confiança, recebe escuta sem curiosidade e é orientada a buscar apoio adequado.",
+      "conference_question": "Como acolher uma ferida afetiva sem transformar a dor em fofoca ou espetáculo?",
+      "anchors": [
+        "G04",
+        "B11"
+      ],
+      "facilitator_note": "Conduza para escuta, proteção e encaminhamento, não para exposição de experiências pessoais.",
+      "reading_points": [
+        {
+          "title": "Escuta respeitosa",
+          "body": "O caso acolhe a pessoa sem explorar detalhes por curiosidade."
+        },
+        {
+          "title": "Verdade e proteção",
+          "body": "A ferida precisa de cuidado real e orientação, não de frases vazias."
+        },
+        {
+          "title": "Dignidade",
+          "body": "Acompanhamento cristão une compaixão, prudência e busca do bem."
+        }
+      ]
+    },
+    {
+      "id": "O10",
+      "term_id": "O10",
+      "call_label": "O10 - Examinar o namoro",
+      "case": "Depois de alguns meses, o casal decide avaliar se a relação os tornou mais honestos, castos, pacientes, próximos de Deus e livres para fazer o bem.",
+      "conference_question": "Que frutos ajudam a examinar se um namoro está ordenado?",
+      "anchors": [
+        "B02",
+        "B15"
+      ],
+      "facilitator_note": "Ensine a avaliar frutos concretos, não apenas intensidade emocional.",
+      "reading_points": [
+        {
+          "title": "Exame de frutos",
+          "body": "O caso pergunta pelo que o namoro produz na vida moral e espiritual."
+        },
+        {
+          "title": "Critérios",
+          "body": "Honestidade, castidade, paciência, fé e liberdade são sinais importantes."
+        },
+        {
+          "title": "Discernimento contínuo",
+          "body": "Namoro é tempo de conhecimento que precisa ser revisto diante de Deus."
+        }
+      ]
+    },
+    {
+      "id": "O11",
+      "term_id": "O11",
+      "call_label": "O11 - Procurar confissão",
+      "case": "Depois de reconhecer pecado no namoro, alguém decide não justificar tudo e procura o sacramento da reconciliação com propósito concreto de mudança.",
+      "conference_question": "Por que confissão verdadeira inclui arrependimento e propósito, não apenas alívio emocional?",
+      "anchors": [
+        "B14",
+        "Jo 20,22-23"
+      ],
+      "facilitator_note": "Fale da confissão com esperança e seriedade, sem expor pecados pessoais da turma.",
+      "reading_points": [
+        {
+          "title": "Pecado reconhecido",
+          "body": "O caso abandona a desculpa e chama o erro pelo nome."
+        },
+        {
+          "title": "Graça sacramental",
+          "body": "A reconciliação oferece perdão e força para recomeçar."
+        },
+        {
+          "title": "Propósito",
+          "body": "A confissão pede decisão concreta contra as ocasiões e hábitos de pecado."
+        }
+      ]
+    },
+    {
+      "id": "O12",
+      "term_id": "O12",
+      "call_label": "O12 - Esperar com maturidade",
+      "case": "Uma pessoa percebe que ainda não tem estabilidade emocional nem liberdade para namorar e decide esperar, sem brincar com afetos alheios.",
+      "conference_question": "Como esperar pode preparar melhor a pessoa para amar?",
+      "anchors": [
+        "G10",
+        "CEC §2342"
+      ],
+      "facilitator_note": "Valorize a espera como formação, não como fracasso afetivo.",
+      "reading_points": [
+        {
+          "title": "Autoconhecimento",
+          "body": "O caso reconhece limites pessoais antes de assumir compromisso."
+        },
+        {
+          "title": "Maturidade",
+          "body": "Esperar pode evitar dependência, confusão e uso do outro."
+        },
+        {
+          "title": "Preparação",
+          "body": "A espera cristã forma liberdade, virtude e capacidade de doação."
+        }
+      ]
+    },
+    {
+      "id": "O13",
+      "term_id": "O13",
+      "call_label": "O13 - Envolver a família",
+      "case": "Sem transformar o namoro em espetáculo, o casal permite que as famílias conheçam a relação e escuta conselhos quando surgem sinais de alerta.",
+      "conference_question": "Como envolver a família de modo proporcional, sem invasão nem isolamento?",
+      "anchors": [
+        "I12",
+        "Pr 11,14"
+      ],
+      "facilitator_note": "Reconheça realidades familiares difíceis, mas afirme a importância de adultos responsáveis.",
+      "reading_points": [
+        {
+          "title": "Luz proporcional",
+          "body": "O caso não expõe tudo, mas também não vive a relação como segredo fechado."
+        },
+        {
+          "title": "Conselho",
+          "body": "Adultos prudentes podem perceber riscos que a paixão não vê."
+        },
+        {
+          "title": "Proteção",
+          "body": "Acompanhamento familiar ajuda a preservar liberdade, verdade e segurança."
+        }
+      ]
+    },
+    {
+      "id": "O14",
+      "term_id": "O14",
+      "call_label": "O14 - Formar o olhar",
+      "case": "Alguém percebe que a pornografia está deformando suas expectativas sobre namoro e decide cortar o acesso, procurar ajuda e substituir hábitos digitais.",
+      "conference_question": "Por que formar o olhar exige cortar conteúdo e também construir hábitos novos?",
+      "anchors": [
+        "B09",
+        "CEC §2520"
+      ],
+      "facilitator_note": "Fale com sobriedade; aponte disciplina, ajuda e oração sem detalhes impróprios.",
+      "reading_points": [
+        {
+          "title": "Olhar deformado",
+          "body": "O caso reconhece que certas imagens mudam o modo de desejar e tratar o outro."
+        },
+        {
+          "title": "Corte necessário",
+          "body": "Não basta desejar pureza enquanto se alimenta a imaginação impura."
+        },
+        {
+          "title": "Hábito novo",
+          "body": "Formar o olhar pede disciplina, ajuda, oração e escolhas de conteúdo."
+        }
+      ]
+    },
+    {
+      "id": "O15",
+      "term_id": "O15",
+      "call_label": "O15 - Discernir vocação",
+      "case": "Antes de avançar no relacionamento, uma pessoa pergunta em oração se aquele namoro a ajuda a responder ao chamado de Deus ou apenas satisfaz o medo de ficar só.",
+      "conference_question": "Que perguntas ajudam a ligar namoro, vocação e vontade de Deus?",
+      "anchors": [
+        "B01",
+        "B12"
+      ],
+      "facilitator_note": "Mostre que vocação não é ideia distante; ela orienta escolhas afetivas concretas.",
+      "reading_points": [
+        {
+          "title": "Pergunta diante de Deus",
+          "body": "O caso leva o namoro para o discernimento da vocação."
+        },
+        {
+          "title": "Mais que carência",
+          "body": "O relacionamento não deve apenas aliviar medo, mas ajudar a responder ao bem."
+        },
+        {
+          "title": "Direção cristã",
+          "body": "Discernir vocação une oração, realidade, conselho e responsabilidade."
+        }
+      ]
+    }
+  ]
+}

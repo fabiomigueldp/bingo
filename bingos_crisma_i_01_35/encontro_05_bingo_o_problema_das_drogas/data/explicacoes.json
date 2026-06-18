@@ -1,0 +1,308 @@
+{
+  "title": "Carta de explicações rápidas — Bingo O problema das drogas",
+  "meeting": "Encontro 05 — O problema das drogas",
+  "source_calls": "data/chamadas.json",
+  "purpose": "Explicações breves para o condutor usar durante a chamada de cada carta.",
+  "entries": [
+    {
+      "id": "B01",
+      "explanation": "O erro é tratar o corpo como coisa disponível para qualquer uso. Para a fé, o corpo é **templo do Espírito** e pertence a Deus. Cuidar da saúde é uma resposta concreta ao dom recebido."
+    },
+    {
+      "id": "B02",
+      "explanation": "A vida não é posse absoluta nem material descartável. Ela é **dom de Deus**, confiado à nossa responsabilidade. Por isso, destruir-se pelo vício fere a gratidão e atinge também quem vive conosco."
+    },
+    {
+      "id": "B03",
+      "explanation": "Nem toda escolha é liberdade verdadeira. A droga promete autonomia, mas pode entregar **escravidão** e perda de domínio. A liberdade cristã escolhe o bem, mesmo quando o grupo pressiona."
+    },
+    {
+      "id": "B04",
+      "explanation": "A temperança não é medo da alegria. Ela é **governo dos desejos** para que o prazer não domine a pessoa. Quando o excesso destrói saúde e vínculos, já não serve ao bem."
+    },
+    {
+      "id": "B05",
+      "explanation": "A Igreja nomeia com clareza a gravidade do uso de drogas. Salvo indicação terapêutica estrita, ele é **falta grave** porque causa danos gravíssimos à saúde e à vida. A firmeza moral deve abrir caminho para ajuda e conversão."
+    },
+    {
+      "id": "B06",
+      "explanation": "O vício nunca fica isolado dentro do usuário. Ele atinge **família**, confiança, dinheiro, segurança e paz da casa. Proteger a família exige verdade, limites e cuidado proporcional."
+    },
+    {
+      "id": "B07",
+      "explanation": "As drogas não são apenas problema privado. O Catecismo lembra que a sociedade deve proteger as famílias desses perigos. A **proteção social** faz parte do bem comum e da defesa da vida."
+    },
+    {
+      "id": "B08",
+      "explanation": "A pessoa dependente não é o vício dela. O uso deve ser corrigido, mas a pessoa conserva **dignidade** e precisa de cura. Acolher de modo cristão é unir verdade, tratamento e esperança."
+    },
+    {
+      "id": "B09",
+      "explanation": "Quem facilita a circulação da droga participa do dano mesmo sem usar. Produção, tráfico e incentivo são **cooperação com o mal**. A consciência cristã precisa recusar pequenas ajudas que sustentam uma destruição maior."
+    },
+    {
+      "id": "B10",
+      "explanation": "Dizer a verdade não autoriza humilhar. Calar por medo de julgar também pode abandonar a pessoa ao mal. A resposta cristã é **verdade na caridade**, com clareza e respeito."
+    },
+    {
+      "id": "B11",
+      "explanation": "O vício pode ferir profundamente a liberdade. Cristo não chama ninguém a permanecer escravo. A **graça** sustenta recomeço real, com tratamento, oração, reconciliação e perseverança."
+    },
+    {
+      "id": "B12",
+      "explanation": "O corpo não é máquina de produção nem instrumento de fuga. Ele participa da **vocação** da pessoa. Cuidar dele é também cuidar da capacidade de amar, servir e glorificar a Deus."
+    },
+    {
+      "id": "B13",
+      "explanation": "Escândalo é levar outro ao mal ou facilitar sua queda. Quando alguém induz vulneráveis ao uso, aumenta a gravidade do dano. Proteger os pequenos exige cortar o **escândalo** e não normalizá-lo."
+    },
+    {
+      "id": "B14",
+      "explanation": "A consciência não nasce pronta para julgar tudo bem. Ela precisa ser **formada** pela verdade, pela fé e pela razão. Sem isso, a pessoa confunde moda, repetição e propaganda com bem moral."
+    },
+    {
+      "id": "B15",
+      "explanation": "A queda pode ser grave, mas não é a última palavra sobre a pessoa. A fé cristã anuncia **conversão** e recomeço. Esperança verdadeira inclui pedir ajuda, confessar quando cabível e reparar danos possíveis."
+    },
+    {
+      "id": "I01",
+      "explanation": "A oferta de droga muitas vezes vem misturada com pertencimento e pressão. O problema não é só a substância, mas a perda de **liberdade** diante do grupo. A resposta precisa ser clara antes que a pressão cresça."
+    },
+    {
+      "id": "I02",
+      "explanation": "Beber até apagar não é diversão inocente. É perda de **domínio de si** e exposição a riscos graves. A temperança protege a pessoa quando o ambiente chama excesso de alegria."
+    },
+    {
+      "id": "I03",
+      "explanation": "O cigarro eletrônico pode parecer leve por causa da forma como é vendido. A aparência não elimina o risco de **dependência** e dano à saúde. A consciência formada julga pelo efeito real, não pela embalagem."
+    },
+    {
+      "id": "I04",
+      "explanation": "Medicamento controlado não vira correto só porque tem aparência médica. Sem indicação e acompanhamento, pode ser **abuso** e fuga. O discernimento distingue tratamento legítimo de uso desordenado."
+    },
+    {
+      "id": "I05",
+      "explanation": "O tráfico destrói mais do que indivíduos isolados. Ele ocupa espaços, recruta vulneráveis e ameaça a **vida comunitária**. Por isso, proteger famílias e ambientes também é exigência moral."
+    },
+    {
+      "id": "I06",
+      "explanation": "Dívida e medo podem pressionar alguém a cooperar com o tráfico. Essa vulnerabilidade precisa ser reconhecida, mas não transforma o mal em bem. O correto é buscar **proteção** e saída segura."
+    },
+    {
+      "id": "I07",
+      "explanation": "O silêncio familiar pode nascer de medo e vergonha. Mas esconder sinais claros deixa a dependência crescer. A proteção verdadeira pede **ajuda prudente**, não aparência preservada a qualquer custo."
+    },
+    {
+      "id": "I08",
+      "explanation": "O uso na gestação envolve a saúde da mãe e da criança. A firmeza aqui não é humilhação; é defesa da **vida vulnerável**. A resposta adequada une cuidado médico, apoio e limite claro."
+    },
+    {
+      "id": "I09",
+      "explanation": "Direção sob efeito de substância coloca inocentes em perigo. A intenção de chegar em casa não remove o **risco objetivo**. Proteger a vida exige impedir a direção e buscar alternativa segura."
+    },
+    {
+      "id": "I10",
+      "explanation": "A aposta compulsiva segue a lógica da promessa fácil. Ela oferece ganho rápido e pode entregar **dívida**, mentira e escravidão. O discernimento olha os frutos concretos, não a propaganda."
+    },
+    {
+      "id": "I11",
+      "explanation": "Vender ou fornecer a menores explora vulnerabilidade. Quem lucra com isso participa de **escândalo** e dano. A responsabilidade moral aumenta quando a vítima é mais frágil."
+    },
+    {
+      "id": "I12",
+      "explanation": "Pressão injusta no trabalho é real e deve ser nomeada. Mas usar estimulante sem critério cria outro mal. A resposta cristã protege a **saúde** e também questiona condições abusivas."
+    },
+    {
+      "id": "I13",
+      "explanation": "Nem todo uso de substância é abuso. Quando há prescrição, dose e finalidade terapêutica, há **tratamento** responsável. A condenação moral recai sobre o uso destrutivo e sem indicação."
+    },
+    {
+      "id": "I14",
+      "explanation": "A dependência dentro de casa pode gerar medo, mentira e violência. A compaixão não exige aceitar ameaça. A família precisa de **limites** e rede de ajuda para proteger todos."
+    },
+    {
+      "id": "I15",
+      "explanation": "Overdose e intoxicação grave são emergências. Esconder a pessoa por medo de exposição pode custar uma vida. A prioridade moral é **socorro imediato**."
+    },
+    {
+      "id": "N01",
+      "explanation": "A frase 'eu controlo' pode esconder perda real de liberdade. Quando emprego, família e saúde já sofrem, o controle é **ilusão**. Reconhecer o problema é início de libertação, não vergonha final."
+    },
+    {
+      "id": "N02",
+      "explanation": "A falsa autonomia isola a pessoa de Deus e dos vínculos. A vida não é propriedade absoluta. A liberdade verdadeira assume **responsabilidade** diante do corpo, da família e da comunidade."
+    },
+    {
+      "id": "N03",
+      "explanation": "A maioria não define o bem. 'Todo mundo faz' é pressão social, não argumento moral. A consciência cristã precisa ser **formada** para resistir à normalização do erro."
+    },
+    {
+      "id": "N04",
+      "explanation": "Dizer 'só no fim de semana' minimiza o dano. Frequência não apaga perda de liberdade, risco e consequências. O critério é a **verdade dos frutos**, não o calendário."
+    },
+    {
+      "id": "N05",
+      "explanation": "A droga pode prometer alívio rápido para uma dor real. Mas a fuga que evita a ferida pode virar **prisão**. A resposta cristã busca cura verdadeira, não anestesia destrutiva."
+    },
+    {
+      "id": "N06",
+      "explanation": "Diversão obrigatória é quando o grupo exige excesso para chamar algo de alegria. Isso empobrece a liberdade e o prazer. A **temperança** permite celebrar sem se destruir."
+    },
+    {
+      "id": "N07",
+      "explanation": "Chamar uma substância de remédio não basta. Sem finalidade terapêutica e acompanhamento, o uso pode ser abuso. O critério é **tratamento real**, não o nome na caixa."
+    },
+    {
+      "id": "N08",
+      "explanation": "'Não prejudico ninguém' costuma apagar danos concretos. Família, dívidas, medo e mentira mostram que o vício se espalha. A responsabilidade moral inclui os **vínculos** feridos."
+    },
+    {
+      "id": "N09",
+      "explanation": "Feridas familiares podem ser reais e profundas. Mas usá-las para negar toda responsabilidade impede cura. O caminho cristão reconhece a dor e chama à **mudança** possível."
+    },
+    {
+      "id": "N10",
+      "explanation": "O tráfico tenta vender imagem de poder. A realidade é exploração, ameaça, morte e cooperação direta com o mal. O **glamour** precisa ser desmontado com fatos e juízo moral."
+    },
+    {
+      "id": "N11",
+      "explanation": "A vergonha pode prender a família no silêncio. Quando há risco grave, esconder o problema é perigoso. A caridade escolhe **socorro** acima da aparência."
+    },
+    {
+      "id": "N12",
+      "explanation": "Nem toda curiosidade deve ser obedecida. Experimentar o mal não é necessário para entendê-lo. A prudência protege a **liberdade** antes que o risco vire queda."
+    },
+    {
+      "id": "N13",
+      "explanation": "Nem tudo que a lei permite é moralmente bom. Legalidade civil e bondade moral não são a mesma coisa. A consciência cristã pergunta pelo **bem**, pela verdade e pelos frutos."
+    },
+    {
+      "id": "N14",
+      "explanation": "A mentira de que não há saída alimenta o desespero. Dependência pode ser grave, mas não fecha a pessoa à graça e ao tratamento. A esperança cristã sustenta **recomeços** reais."
+    },
+    {
+      "id": "N15",
+      "explanation": "Acolher não é aprovar o que destrói. Também não é rejeitar a pessoa por causa da queda. A **acolhida cristã** une misericórdia, verdade e limite."
+    },
+    {
+      "id": "G01",
+      "explanation": "É preciso distinguir pessoa e ato. O ato pode ser grave e exigir consequência, mas a pessoa não perde sua **dignidade**. Essa distinção impede tanto a banalização quanto a crueldade."
+    },
+    {
+      "id": "G02",
+      "explanation": "Uso terapêutico e abuso não são a mesma coisa. A moral cristã permite tratamento responsável e rejeita uso para intoxicação, fuga ou desempenho sem critério. A palavra-chave é **finalidade**."
+    },
+    {
+      "id": "G03",
+      "explanation": "Prazer imediato não é medida suficiente do bem. Algo pode agradar por instantes e destruir saúde, família e liberdade. A temperança julga o prazer dentro do **bem integral** da pessoa."
+    },
+    {
+      "id": "G04",
+      "explanation": "Impulso não é liberdade plena. A pessoa pode sentir vontade forte e ainda escolher meios de proteção. A liberdade cresce quando aprende a resistir ao **impulso** que escraviza."
+    },
+    {
+      "id": "G05",
+      "explanation": "O mal objetivo pode continuar grave mesmo quando a liberdade da pessoa está ferida. Dependência, medo e hábito podem diminuir imputabilidade. O discernimento une **verdade** sobre o dano e cuidado justo com a pessoa."
+    },
+    {
+      "id": "G06",
+      "explanation": "Acolhida sem limite pode virar conivência. Permitir o uso em nome do amor facilita a queda. A caridade verdadeira protege a pessoa com **limites** que servem à cura."
+    },
+    {
+      "id": "G07",
+      "explanation": "Prudência não é desculpa para não agir. Quando há risco grave, calar pode ser omissão. A **prudência** escolhe modo seguro, pessoa certa e ação proporcional."
+    },
+    {
+      "id": "G08",
+      "explanation": "Alguns segredos não devem ser guardados. Risco de morte, tráfico, violência ou dano grave exige proteção. O sigilo cede diante da **vida** e da segurança."
+    },
+    {
+      "id": "G09",
+      "explanation": "Ajudar não é controlar tudo nem encobrir tudo. Assumir a responsabilidade do outro pode alimentar dependência e mentira. A ajuda cristã combina **apoio** e limite."
+    },
+    {
+      "id": "G10",
+      "explanation": "A justiça protege e busca a verdade. A vingança humilha, fere e pode cometer novas injustiças. Combater o tráfico exige **justiça**, não crueldade."
+    },
+    {
+      "id": "G11",
+      "explanation": "Pobreza e falta de oportunidades aumentam vulnerabilidade. Isso deve mover compaixão e ação social. Mas vulnerabilidade não torna o tráfico **bem moral**."
+    },
+    {
+      "id": "G12",
+      "explanation": "Firmeza protege; dureza descarta. Limites são necessários quando há risco, mas humilhação e abandono podem agravar o mal. A resposta madura une **limite** e esperança."
+    },
+    {
+      "id": "G13",
+      "explanation": "Recaída é séria e não deve ser romantizada. Mas ela não prova que todo caminho acabou. A resposta correta é **retomar** tratamento, revisar riscos e recomeçar."
+    },
+    {
+      "id": "G14",
+      "explanation": "Curiosidade pode parecer neutra, mas certos ambientes já são ocasião perigosa. A prudência evita exposição desnecessária ao mal. Proteger-se do **risco** é sinal de liberdade, não fraqueza."
+    },
+    {
+      "id": "G15",
+      "explanation": "Dependência pede cura, mas cura não é desculpa automática. Quando houve dano, a pessoa deve assumir o que for possível. A recuperação inclui **responsabilidade** e reparação."
+    },
+    {
+      "id": "O01",
+      "explanation": "Recusar com clareza evita negociação perigosa. Não é preciso humilhar nem dar longa justificativa. Um **não** simples e firme pode proteger a liberdade."
+    },
+    {
+      "id": "O02",
+      "explanation": "Sair do ambiente pode ser a decisão mais prudente. Permanecer para provar força pode aumentar pressão e risco. Afastar-se da **ocasião** protege a escolha pelo bem."
+    },
+    {
+      "id": "O03",
+      "explanation": "Pedir ajuda adulta não é traição quando existe risco grave. Ninguém deve carregar sozinho ameaça de overdose, suicídio, tráfico ou violência. A **proteção** vem antes do medo de exposição."
+    },
+    {
+      "id": "O04",
+      "explanation": "Tratamento é passo concreto, não promessa vaga. Dependência precisa de cuidado médico, psicológico, espiritual e comunitário conforme o caso. Procurar **acompanhamento** é ato de humildade e coragem."
+    },
+    {
+      "id": "O05",
+      "explanation": "Em intoxicação grave, a primeira resposta é socorro. Medo de bronca, vergonha ou consequência não vale mais que a vida. Chamar **emergência** é caridade prática."
+    },
+    {
+      "id": "O06",
+      "explanation": "Cortar fornecimento impede cooperação com o mal. Comprar, guardar, transportar ou facilitar acesso sustenta o ciclo da droga. O limite protege a **consciência** e outras vidas."
+    },
+    {
+      "id": "O07",
+      "explanation": "Ajudar não significa entregar recursos que alimentem o vício. É possível cuidar da necessidade real sem financiar a dependência. A caridade precisa de **discernimento** concreto."
+    },
+    {
+      "id": "O08",
+      "explanation": "Conversa séria não precisa ser acusação. Fatos concretos, tom firme e proposta de ajuda abrem caminho melhor que insultos. A **verdade caridosa** nomeia o problema sem humilhar."
+    },
+    {
+      "id": "O09",
+      "explanation": "Limites em casa protegem todos os envolvidos. Regras sobre dinheiro, segurança e tratamento não são falta de amor. São **limites** proporcionais diante de dano real."
+    },
+    {
+      "id": "O10",
+      "explanation": "Denunciar tráfico pode ser dever de proteção. Deve ser feito por canal seguro e autoridade competente, não por vingança. O foco é **proteger vulneráveis** e o bem comum."
+    },
+    {
+      "id": "O11",
+      "explanation": "Acompanhar é caminhar junto, não substituir a pessoa. Quem ajuda também precisa de limites e rede. O cuidado cristão evita o **salvadorismo** e sustenta passos possíveis."
+    },
+    {
+      "id": "O12",
+      "explanation": "Confessar e recomeçar unem fé e vida concreta. O arrependimento precisa de decisões que reduzam risco e reparem danos. A **Reconciliação** abre caminho para mudança real."
+    },
+    {
+      "id": "O13",
+      "explanation": "Rotina alimenta ou enfraquece recaídas. Mudar caminho, contatos e hábitos pode proteger a liberdade. A conversão também passa por **decisões práticas** repetidas."
+    },
+    {
+      "id": "O14",
+      "explanation": "Reparar danos transforma arrependimento em responsabilidade. Pedir perdão não apaga automaticamente consequências. A **reparação** ajuda a reconstruir verdade e confiança com paciência."
+    },
+    {
+      "id": "O15",
+      "explanation": "Oração não substitui a ação necessária. Ela dá força para tratamento, limites, socorro e perseverança. Rezar com **compromisso** une graça de Deus e responsabilidade humana."
+    }
+  ]
+}

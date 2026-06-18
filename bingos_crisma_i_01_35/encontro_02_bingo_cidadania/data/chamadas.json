@@ -1,0 +1,1982 @@
+{
+  "title": "Chamadas — Bingo Cidadania",
+  "meeting": "Encontro 02 — Cidadania",
+  "source_terms": "data/termos.json",
+  "method": {
+    "read_order": [
+      "call_label",
+      "case",
+      "reading_points"
+    ],
+    "rule": "A cada carta, anuncie código e conceito, leia o caso e explique brevemente a relação usando a Leitura do caso. Depois as equipes marcam o código, se estiver na cartela.",
+    "conference_rule": "Ao fechar duas linhas válidas, horizontais, verticais ou diagonais, a equipe escolhe uma dessas linhas completas, explica pelo menos três conceitos da linha escolhida e liga pelo menos um deles à base bíblica ou doutrinal do encontro. As duas linhas podem se cruzar. O centro livre já conta como casa marcada para completar linhas, mas não conta como um dos três conceitos explicados."
+  },
+  "cards": [
+    {
+      "id": "B01",
+      "term_id": "B01",
+      "call_label": "B01 - Deus acima de César",
+      "case": "Um servidor público recebe ordem para esconder dados de uma contaminação local, porque divulgar o problema prejudicaria autoridades importantes.",
+      "conference_question": "Como distinguir obediência legítima à autoridade de submissão a uma ordem que fere a verdade e a dignidade das pessoas?",
+      "anchors": [
+        "Mt 22,15-21",
+        "At 5,29",
+        "CEC 1881"
+      ],
+      "facilitator_note": "Conduza sem anarquia e sem servilismo: autoridade legítima não é poder absoluto.",
+      "reading_points": [
+        {
+          "title": "Limite da autoridade",
+          "body": "O caso mostra uma ordem pública que exige ocultar a verdade e expõe pessoas a dano."
+        },
+        {
+          "title": "Critério cristão",
+          "body": "Dar a César o que é de César não significa entregar a César a consciência, a verdade e Deus."
+        },
+        {
+          "title": "Resposta moral",
+          "body": "O cidadão cristão respeita a autoridade, mas não coopera com mentira grave contra o bem comum."
+        }
+      ]
+    },
+    {
+      "id": "B02",
+      "term_id": "B02",
+      "call_label": "B02 - Pessoa no centro",
+      "case": "Uma empresa decide cortar equipamentos de segurança porque as multas possíveis custam menos do que a proteção dos trabalhadores.",
+      "conference_question": "Por que uma instituição trai seu fim quando calcula a vida das pessoas apenas como custo?",
+      "anchors": [
+        "CEC 1881",
+        "Gn 1,27"
+      ],
+      "facilitator_note": "Mostre que a instituição existe para servir pessoas, não para usar pessoas como peças.",
+      "reading_points": [
+        {
+          "title": "Inversão moral",
+          "body": "A decisão coloca o lucro e a planilha acima da integridade de trabalhadores concretos."
+        },
+        {
+          "title": "Fim das instituições",
+          "body": "O Catecismo ensina que a pessoa é princípio, sujeito e fim das instituições sociais."
+        },
+        {
+          "title": "Leitura cristã",
+          "body": "A justiça exige que regras, custos e metas estejam subordinados à dignidade humana."
+        }
+      ]
+    },
+    {
+      "id": "B03",
+      "term_id": "B03",
+      "call_label": "B03 - Ser social",
+      "case": "Depois de uma enchente, moradores percebem que ninguém sozinho consegue limpar ruas, acolher desalojados e cobrar providências.",
+      "conference_question": "O que esse caso mostra sobre a diferença entre autonomia pessoal e necessidade verdadeira de vida social?",
+      "anchors": [
+        "CEC 1879"
+      ],
+      "facilitator_note": "Evite reduzir vida social a conveniência; ela pertence à natureza humana.",
+      "reading_points": [
+        {
+          "title": "Necessidade real",
+          "body": "A crise revela limites individuais e a necessidade de cooperação organizada."
+        },
+        {
+          "title": "Natureza social",
+          "body": "A vida social não é enfeite; é caminho pelo qual a pessoa desenvolve capacidades e responde à vocação."
+        },
+        {
+          "title": "Responsabilidade comum",
+          "body": "A cidadania cristã reconhece que ninguém amadurece isolado nem resolve sozinho todos os males."
+        }
+      ]
+    },
+    {
+      "id": "B04",
+      "term_id": "B04",
+      "call_label": "B04 - Caridade social",
+      "case": "Uma família sem renda recebe cesta básica, mas continua presa a aluguel abusivo e falta de trabalho digno.",
+      "conference_question": "Como a caridade social amplia a ajuda imediata sem desprezar a necessidade concreta de quem sofre agora?",
+      "anchors": [
+        "CEC 1878",
+        "CEC 1889",
+        "Mc 12,28-31"
+      ],
+      "facilitator_note": "Mostre que caridade social une socorro concreto e compromisso com justiça.",
+      "reading_points": [
+        {
+          "title": "Ferida dupla",
+          "body": "A fome pede ajuda imediata, mas a situação também revela injustiças que continuam produzindo sofrimento."
+        },
+        {
+          "title": "Amor social",
+          "body": "O amor ao próximo não se limita ao gesto privado; ele alcança condições de vida, direitos e instituições."
+        },
+        {
+          "title": "Caminho cristão",
+          "body": "A caridade verdadeira socorre a pessoa e também busca que a sociedade favoreça o bem."
+        }
+      ]
+    },
+    {
+      "id": "B05",
+      "term_id": "B05",
+      "call_label": "B05 - Bem comum",
+      "case": "Um condomínio fecha uma passagem usada há anos por moradores de uma área sem transporte, apenas para valorizar seus imóveis.",
+      "conference_question": "Que critério ajuda a avaliar quando uma decisão privada atinge injustamente o bem comum?",
+      "anchors": [
+        "CEC 1881",
+        "CEC 1882"
+      ],
+      "facilitator_note": "Não negue propriedade privada; destaque seu impacto na vida comum.",
+      "reading_points": [
+        {
+          "title": "Interesse particular",
+          "body": "A decisão favorece um grupo, mas pesa sobre pessoas que dependem daquela passagem."
+        },
+        {
+          "title": "Condições comuns",
+          "body": "Bem comum envolve condições sociais que permitem às pessoas viver com dignidade."
+        },
+        {
+          "title": "Discernimento social",
+          "body": "Nem todo benefício privado é injusto, mas ele precisa ser avaliado quando prejudica direitos e necessidades reais."
+        }
+      ]
+    },
+    {
+      "id": "B06",
+      "term_id": "B06",
+      "call_label": "B06 - Dignidade inviolável",
+      "case": "Num hospital, alguém comenta que um paciente em estado grave 'já não vale o esforço' porque não trabalha e não reconhece ninguém.",
+      "conference_question": "O que muda quando a dignidade da pessoa não depende de produtividade, consciência ou utilidade?",
+      "anchors": [
+        "Gn 1,27",
+        "CEC 1881"
+      ],
+      "facilitator_note": "Nomeie a gravidade sem sensacionalismo: a pessoa não perde valor por fragilidade.",
+      "reading_points": [
+        {
+          "title": "Medida falsa",
+          "body": "A fala mede o valor do paciente pela utilidade e pela capacidade de resposta."
+        },
+        {
+          "title": "Imagem de Deus",
+          "body": "A dignidade humana vem de Deus e permanece mesmo na doença, dependência e fragilidade extrema."
+        },
+        {
+          "title": "Exigência moral",
+          "body": "Cuidado, respeito e proteção não são prêmio para quem produz, mas dever diante de toda pessoa."
+        }
+      ]
+    },
+    {
+      "id": "B07",
+      "term_id": "B07",
+      "call_label": "B07 - Respeito ao próximo",
+      "case": "Numa reunião de moradores, uma mulher discorda da proposta de segurança e passa a ser chamada de ignorante diante de todos.",
+      "conference_question": "Como discordar seriamente de uma ideia sem negar a dignidade de quem a apresentou?",
+      "anchors": [
+        "Mc 12,28-31",
+        "CEC 1889"
+      ],
+      "facilitator_note": "Diferencie crítica de desprezo; respeito não elimina conflito real.",
+      "reading_points": [
+        {
+          "title": "Conflito legítimo",
+          "body": "A reunião pode ter divergência real sobre segurança, dinheiro e prioridades."
+        },
+        {
+          "title": "Erro na forma",
+          "body": "A humilhação troca argumentos por ataque à pessoa."
+        },
+        {
+          "title": "Critério cristão",
+          "body": "O próximo deve ser tratado como pessoa digna, mesmo quando sua proposta precisa ser contestada."
+        }
+      ]
+    },
+    {
+      "id": "B08",
+      "term_id": "B08",
+      "call_label": "B08 - Tolerância sem relativismo",
+      "case": "Num trabalho, dois funcionários têm convicções religiosas opostas; um deles exige que o outro pare de expressar qualquer convicção para haver paz.",
+      "conference_question": "Por que tolerância cristã não é apagar a verdade nem obrigar todos a pensar do mesmo modo?",
+      "anchors": [
+        "Jo 8,32",
+        "CEC 1889"
+      ],
+      "facilitator_note": "Evite apresentar tolerância como fraqueza ou como relativismo.",
+      "reading_points": [
+        {
+          "title": "Convivência difícil",
+          "body": "A diferença de convicção exige paciência, respeito e limites justos."
+        },
+        {
+          "title": "Falso caminho",
+          "body": "Silenciar toda convicção não é diálogo; pode virar imposição disfarçada de paz."
+        },
+        {
+          "title": "Verdade e paz",
+          "body": "Tolerar é conviver sem violência e sem renunciar à busca da verdade."
+        }
+      ]
+    },
+    {
+      "id": "B09",
+      "term_id": "B09",
+      "call_label": "B09 - Verdade e amor",
+      "case": "Uma filha percebe que o pai está assinando um contrato abusivo; para não contrariá-lo, todos elogiam a decisão e escondem os riscos.",
+      "conference_question": "Quando o silêncio parece caridoso, que critério mostra se ele está servindo ao amor ou à mentira?",
+      "anchors": [
+        "CEC 1878",
+        "Ef 4,25"
+      ],
+      "facilitator_note": "Mostre que verdade e amor se exigem mutuamente.",
+      "reading_points": [
+        {
+          "title": "Silêncio perigoso",
+          "body": "A família evita desconforto, mas deixa alguém caminhar para um prejuízo grave."
+        },
+        {
+          "title": "Caridade verdadeira",
+          "body": "Amar não é confirmar tudo; é buscar o bem real da pessoa."
+        },
+        {
+          "title": "Verdade com forma",
+          "body": "A resposta cristã pede palavra verdadeira, dita com respeito e intenção de proteger."
+        }
+      ]
+    },
+    {
+      "id": "B10",
+      "term_id": "B10",
+      "call_label": "B10 - Participação responsável",
+      "case": "No bairro, quase ninguém comparece às reuniões sobre saneamento, mas todos reclamam quando a obra é mal planejada.",
+      "conference_question": "Por que reclamar de um problema comum não substitui participação responsável nas decisões possíveis?",
+      "anchors": [
+        "CEC 1882",
+        "Mt 5,13-16"
+      ],
+      "facilitator_note": "Evite transformar participação em militância partidária; fale de responsabilidade comum.",
+      "reading_points": [
+        {
+          "title": "Ausência concreta",
+          "body": "As pessoas sofrem o problema, mas abandonam espaços legítimos de participação."
+        },
+        {
+          "title": "Responsabilidade social",
+          "body": "A cidadania cristã não se reduz a opinião; ela inclui presença, trabalho e compromisso possível."
+        },
+        {
+          "title": "Sal da terra",
+          "body": "Ser luz no mundo implica entrar na vida comum com honestidade e serviço."
+        }
+      ]
+    },
+    {
+      "id": "B11",
+      "term_id": "B11",
+      "call_label": "B11 - Conversão do coração",
+      "case": "Uma repartição muda o sistema para impedir propina, mas alguns funcionários logo criam outro modo de cobrar favores por fora.",
+      "conference_question": "Por que melhorar regras é necessário, mas insuficiente quando o coração continua procurando vantagem injusta?",
+      "anchors": [
+        "CEC 1888",
+        "Mc 12,28-31"
+      ],
+      "facilitator_note": "Una conversão pessoal e saneamento institucional; não escolha apenas um lado.",
+      "reading_points": [
+        {
+          "title": "Estrutura corrigida",
+          "body": "A mudança do sistema tenta impedir uma prática injusta."
+        },
+        {
+          "title": "Coração não convertido",
+          "body": "O egoísmo encontra novo caminho quando a pessoa não quer abandonar o pecado."
+        },
+        {
+          "title": "Doutrina social",
+          "body": "O Catecismo pede conversão interior e também correção das condições que favorecem o mal."
+        }
+      ]
+    },
+    {
+      "id": "B12",
+      "term_id": "B12",
+      "call_label": "B12 - Justiça com caridade",
+      "case": "Um comerciante foi roubado e pede providência, mas parte dos vizinhos quer espancar qualquer suspeito antes de haver prova.",
+      "conference_question": "Como buscar justiça real sem perder a caridade nem cair na violência contra a pessoa acusada?",
+      "anchors": [
+        "CEC 1889",
+        "Tg 2,14-17"
+      ],
+      "facilitator_note": "Sustente a necessidade de justiça e recuse revanche violenta.",
+      "reading_points": [
+        {
+          "title": "Direito ferido",
+          "body": "O roubo exige investigação, proteção e reparação."
+        },
+        {
+          "title": "Risco moral",
+          "body": "A agressão contra suspeitos troca justiça por violência e pode atingir inocentes."
+        },
+        {
+          "title": "Caridade exigente",
+          "body": "A resposta cristã defende a vítima, respeita a verdade e recusa a vingança."
+        }
+      ]
+    },
+    {
+      "id": "B13",
+      "term_id": "B13",
+      "call_label": "B13 - Deveres temporais",
+      "case": "Um profissional usa serviços públicos todos os dias, mas declara renda falsa porque diz que o governo já desperdiça dinheiro demais.",
+      "conference_question": "Como reconhecer falhas reais da administração pública sem transformar isso em licença para desonestidade pessoal?",
+      "anchors": [
+        "Mt 22,15-21",
+        "Rm 13,1-7"
+      ],
+      "facilitator_note": "Não canonize o Estado; mostre o dever legítimo e a crítica honesta.",
+      "reading_points": [
+        {
+          "title": "Contradição prática",
+          "body": "A pessoa exige benefícios comuns, mas se recusa a cumprir um dever civil legítimo."
+        },
+        {
+          "title": "César e Deus",
+          "body": "Jesus reconhece deveres temporais, mas coloca tudo sob a verdade diante de Deus."
+        },
+        {
+          "title": "Consciência cidadã",
+          "body": "Corrupção pública não justifica corrupção privada."
+        }
+      ]
+    },
+    {
+      "id": "B14",
+      "term_id": "B14",
+      "call_label": "B14 - Graça contra extremos",
+      "case": "Diante de uma injustiça trabalhista, alguns querem ficar calados por medo; outros querem quebrar máquinas e ameaçar o dono.",
+      "conference_question": "Como a graça ajuda a encontrar o caminho estreito entre covardia diante do mal e violência que agrava o mal?",
+      "anchors": [
+        "CEC 1889",
+        "Rm 12,17-21"
+      ],
+      "facilitator_note": "Mostre que o Catecismo nomeia os dois riscos: ceder ao mal ou agravá-lo.",
+      "reading_points": [
+        {
+          "title": "Dois desvios",
+          "body": "O caso apresenta medo paralisante de um lado e reação violenta do outro."
+        },
+        {
+          "title": "Caminho estreito",
+          "body": "A caridade cristã não é covardia nem agressão travestida de justiça."
+        },
+        {
+          "title": "Auxílio da graça",
+          "body": "Discernir e sustentar a resposta justa exige conversão, coragem e domínio de si."
+        }
+      ]
+    },
+    {
+      "id": "B15",
+      "term_id": "B15",
+      "call_label": "B15 - Fraternidade em Deus",
+      "case": "Num abrigo, voluntários atendem pessoas de origens, crenças e histórias muito diferentes, sem escolher quem parece mais parecido com eles.",
+      "conference_question": "Por que a fraternidade cristã nasce do chamado comum a Deus e não apenas de afinidade, gosto ou semelhança social?",
+      "anchors": [
+        "CEC 1878",
+        "Mt 25,31-46"
+      ],
+      "facilitator_note": "Evite fraternidade vaga; ligue a Deus como fim comum de todos.",
+      "reading_points": [
+        {
+          "title": "Diferenças reais",
+          "body": "As pessoas atendidas não formam um grupo confortável ou homogêneo."
+        },
+        {
+          "title": "Fundamento maior",
+          "body": "O Catecismo ensina que todos são chamados ao mesmo fim, o próprio Deus."
+        },
+        {
+          "title": "Amor concreto",
+          "body": "A fraternidade em Deus se torna serviço real ao próximo, especialmente ao necessitado."
+        }
+      ]
+    },
+    {
+      "id": "I01",
+      "term_id": "I01",
+      "call_label": "I01 - Imposto sonegado",
+      "case": "Um pequeno empresário mantém parte das vendas sem nota e diz que isso não prejudica ninguém, porque ele trabalha muito.",
+      "conference_question": "Que relação existe entre honestidade nos deveres civis e responsabilidade pelo bem comum?",
+      "anchors": [
+        "Mt 22,15-21",
+        "B13"
+      ],
+      "facilitator_note": "Não trate todo imposto como justo em si; foque na mentira e na fuga de dever legítimo.",
+      "reading_points": [
+        {
+          "title": "Ato escondido",
+          "body": "A sonegação usa mentira para evitar uma obrigação pública."
+        },
+        {
+          "title": "Vítima invisível",
+          "body": "O dano não aparece em uma pessoa só, mas atinge a confiança e os serviços comuns."
+        },
+        {
+          "title": "Dever cristão",
+          "body": "Dar a César o devido inclui honestidade nas obrigações temporais legítimas."
+        }
+      ]
+    },
+    {
+      "id": "I02",
+      "term_id": "I02",
+      "call_label": "I02 - Fila furada",
+      "case": "Na unidade de saúde, uma pessoa chama um conhecido por uma porta lateral para ser atendida antes de idosos que esperavam havia horas.",
+      "conference_question": "Por que pequenas vantagens indevidas ferem a justiça mesmo quando parecem apenas esperteza cotidiana?",
+      "anchors": [
+        "B07",
+        "B05"
+      ],
+      "facilitator_note": "Mostre que cidadania também se prova no cotidiano comum.",
+      "reading_points": [
+        {
+          "title": "Ordem quebrada",
+          "body": "A fila organiza um direito comum quando muitos precisam do mesmo serviço."
+        },
+        {
+          "title": "Privilégio injusto",
+          "body": "A amizade é usada para passar à frente de pessoas com necessidade real."
+        },
+        {
+          "title": "Respeito concreto",
+          "body": "Respeitar o próximo inclui aceitar regras justas que protegem todos."
+        }
+      ]
+    },
+    {
+      "id": "I03",
+      "term_id": "I03",
+      "call_label": "I03 - Funcionário explorado",
+      "case": "Uma loja corta intervalos dos funcionários para vender mais em uma promoção de fim de semana.",
+      "conference_question": "Como a dignidade do trabalhador limita metas, lucro e pressão por resultado?",
+      "anchors": [
+        "CEC 1881",
+        "B02",
+        "B12"
+      ],
+      "facilitator_note": "Use o caso para mostrar instituição servindo à pessoa, não devorando a pessoa.",
+      "reading_points": [
+        {
+          "title": "Pressão econômica",
+          "body": "A promoção aumenta o ritmo de venda, mas o custo cai sobre o corpo e o descanso dos trabalhadores."
+        },
+        {
+          "title": "Pessoa antes da meta",
+          "body": "A empresa não pode tratar o funcionário como instrumento descartável de lucro."
+        },
+        {
+          "title": "Justiça concreta",
+          "body": "Caridade social exige condições de trabalho que respeitem a pessoa."
+        }
+      ]
+    },
+    {
+      "id": "I04",
+      "term_id": "I04",
+      "call_label": "I04 - Vizinho ignorado",
+      "case": "Um morador acamado passa dias sem conseguir comprar remédio; os vizinhos sabem, mas cada um espera que algum parente resolva.",
+      "conference_question": "Como reconhecer a diferença entre não poder resolver tudo e se omitir diante de uma necessidade próxima e concreta?",
+      "anchors": [
+        "Lc 10,25-37",
+        "B04"
+      ],
+      "facilitator_note": "Evite exigir heroísmo; mostre responsabilidade proporcional diante do próximo concreto.",
+      "reading_points": [
+        {
+          "title": "Necessidade visível",
+          "body": "A dor do vizinho não é distante nem desconhecida."
+        },
+        {
+          "title": "Omissão compartilhada",
+          "body": "Todos se protegem dizendo que a responsabilidade pertence a outro."
+        },
+        {
+          "title": "Próximo concreto",
+          "body": "A caridade cristã começa onde a necessidade real se torna conhecida e possível de socorrer."
+        }
+      ]
+    },
+    {
+      "id": "I05",
+      "term_id": "I05",
+      "call_label": "I05 - Mentira pública",
+      "case": "Durante uma disputa na cidade, uma montagem falsa circula atribuindo a um médico uma fala que ele nunca disse.",
+      "conference_question": "Por que divulgar mentira pública destrói mais do que a reputação de uma pessoa?",
+      "anchors": [
+        "Ef 4,25",
+        "B09"
+      ],
+      "facilitator_note": "Mostre que a verdade é condição da vida social, não detalhe opcional.",
+      "reading_points": [
+        {
+          "title": "Manipulação",
+          "body": "A montagem usa aparência de prova para dirigir a opinião das pessoas."
+        },
+        {
+          "title": "Dano social",
+          "body": "A mentira fere a vítima e envenena decisões comunitárias."
+        },
+        {
+          "title": "Verdade necessária",
+          "body": "A cidadania cristã exige responsabilidade com o que se afirma e repassa."
+        }
+      ]
+    },
+    {
+      "id": "I06",
+      "term_id": "I06",
+      "call_label": "I06 - Associação abandonada",
+      "case": "Uma associação de moradores tenta regularizar a água do bairro, mas quase todos deixam o trabalho para três pessoas cansadas.",
+      "conference_question": "Como a falta de participação enfraquece direitos que dependem de cooperação organizada?",
+      "anchors": [
+        "CEC 1882",
+        "B10"
+      ],
+      "facilitator_note": "Valorize associações legítimas sem idealizar toda organização.",
+      "reading_points": [
+        {
+          "title": "Peso desigual",
+          "body": "Um problema comum acaba carregado por poucos enquanto muitos apenas esperam resultado."
+        },
+        {
+          "title": "Vida associativa",
+          "body": "O Catecismo reconhece o valor de associações que permitem alcançar fins além da capacidade individual."
+        },
+        {
+          "title": "Responsabilidade possível",
+          "body": "Participar pode ser simples, mas precisa ser real e sustentado."
+        }
+      ]
+    },
+    {
+      "id": "I07",
+      "term_id": "I07",
+      "call_label": "I07 - Idoso descartado",
+      "case": "Uma família decide vender os bens de uma avó sem consultá-la, dizendo que ela 'não entende mais dessas coisas'.",
+      "conference_question": "Como proteger uma pessoa idosa sem apagar sua dignidade, sua voz e seus direitos?",
+      "anchors": [
+        "Gn 1,27",
+        "B06"
+      ],
+      "facilitator_note": "Diferencie cuidado real de controle desrespeitoso.",
+      "reading_points": [
+        {
+          "title": "Voz retirada",
+          "body": "A família usa fragilidade como motivo para excluir a avó de decisões que a atingem."
+        },
+        {
+          "title": "Dignidade permanente",
+          "body": "A idade e a limitação não apagam valor, história e direitos da pessoa."
+        },
+        {
+          "title": "Cuidado justo",
+          "body": "Proteger exige escutar, respeitar e agir no bem da pessoa, não tomar posse dela."
+        }
+      ]
+    },
+    {
+      "id": "I08",
+      "term_id": "I08",
+      "call_label": "I08 - Debate humilhante",
+      "case": "Num programa local, um convidado erra dados sobre moradia e o apresentador passa a imitá-lo com deboche em vez de corrigir a informação.",
+      "conference_question": "Quando corrigir um erro deixa de servir à verdade e passa a servir à humilhação?",
+      "anchors": [
+        "B07",
+        "B09"
+      ],
+      "facilitator_note": "Mostre que a verdade não precisa de desprezo para ser defendida.",
+      "reading_points": [
+        {
+          "title": "Erro real",
+          "body": "A informação incorreta precisa ser corrigida porque afeta um tema sério."
+        },
+        {
+          "title": "Forma injusta",
+          "body": "O deboche desloca o foco da verdade para a ridicularização da pessoa."
+        },
+        {
+          "title": "Diálogo cristão",
+          "body": "A correção deve unir firmeza, respeito e compromisso com o bem comum."
+        }
+      ]
+    },
+    {
+      "id": "I09",
+      "term_id": "I09",
+      "call_label": "I09 - Corrupção pequena",
+      "case": "Um fiscal aceita um presente caro para 'agilizar' um processo que deveria seguir a ordem normal.",
+      "conference_question": "Por que uma corrupção pequena na aparência corrói a confiança e a justiça da vida pública?",
+      "anchors": [
+        "B11",
+        "B12"
+      ],
+      "facilitator_note": "Destaque que tamanho financeiro não é o único critério moral.",
+      "reading_points": [
+        {
+          "title": "Vantagem indevida",
+          "body": "O presente compra tratamento especial dentro de um serviço que deveria ser justo."
+        },
+        {
+          "title": "Normalização do erro",
+          "body": "Chamado de favor, o ato esconde uma troca injusta."
+        },
+        {
+          "title": "Conversão necessária",
+          "body": "A vida pública melhora quando pessoas e estruturas recusam pequenos atalhos corruptos."
+        }
+      ]
+    },
+    {
+      "id": "I10",
+      "term_id": "I10",
+      "call_label": "I10 - Serviço público usado",
+      "case": "Um vereador manda uma equipe pública reformar primeiro a rua onde moram seus apoiadores, apesar de outra área estar em risco de desabamento.",
+      "conference_question": "Como distinguir serviço público verdadeiro de uso privado do poder comum?",
+      "anchors": [
+        "CEC 1881",
+        "B05"
+      ],
+      "facilitator_note": "Mantenha neutralidade partidária; o ponto é uso moral do cargo.",
+      "reading_points": [
+        {
+          "title": "Poder desviado",
+          "body": "O serviço comum é usado para premiar aliados em vez de responder à necessidade mais grave."
+        },
+        {
+          "title": "Fim público",
+          "body": "A autoridade existe para servir pessoas e o bem comum, não para comprar fidelidade."
+        },
+        {
+          "title": "Critério moral",
+          "body": "Prioridade justa considera risco, necessidade e direito, não conveniência política."
+        }
+      ]
+    },
+    {
+      "id": "I11",
+      "term_id": "I11",
+      "call_label": "I11 - Diferença religiosa",
+      "case": "Uma funcionária é ridicularizada no almoço porque faz uma breve oração antes de comer; outro colega, que não crê, também é tratado como inimigo.",
+      "conference_question": "Como o respeito religioso protege a pessoa sem exigir que todos concordem com a mesma fé?",
+      "anchors": [
+        "B07",
+        "B08"
+      ],
+      "facilitator_note": "Trate crentes e não crentes com o mesmo critério de dignidade.",
+      "reading_points": [
+        {
+          "title": "Dupla hostilidade",
+          "body": "A cena mostra desprezo tanto contra quem crê quanto contra quem não crê."
+        },
+        {
+          "title": "Respeito pessoal",
+          "body": "A dignidade da pessoa não depende de sua posição religiosa."
+        },
+        {
+          "title": "Tolerância cristã",
+          "body": "Conviver em paz não exige relativismo, mas exige recusar ridicularização e coerção."
+        }
+      ]
+    },
+    {
+      "id": "I12",
+      "term_id": "I12",
+      "call_label": "I12 - Moradia precária",
+      "case": "Depois de chuvas fortes, casas construídas em área sem drenagem desabam, e autoridades dizem que as famílias 'sabiam onde estavam morando'.",
+      "conference_question": "Como reconhecer responsabilidade pessoal sem usar isso para apagar injustiças estruturais e abandono público?",
+      "anchors": [
+        "B05",
+        "B12",
+        "Mt 25,31-46"
+      ],
+      "facilitator_note": "Evite resposta simplista: há escolhas pessoais e condições sociais injustas.",
+      "reading_points": [
+        {
+          "title": "Sofrimento concreto",
+          "body": "Famílias perdem casa e segurança em uma área já marcada por precariedade."
+        },
+        {
+          "title": "Culpa simplificada",
+          "body": "A frase transfere todo o peso às vítimas e ignora condições de moradia e planejamento."
+        },
+        {
+          "title": "Justiça social",
+          "body": "O bem comum exige olhar para responsabilidades pessoais e institucionais."
+        }
+      ]
+    },
+    {
+      "id": "I13",
+      "term_id": "I13",
+      "call_label": "I13 - Descarte no bairro",
+      "case": "Uma oficina joga óleo usado no bueiro à noite para economizar descarte, e depois todos reclamam do mau cheiro e dos alagamentos.",
+      "conference_question": "O que esse caso mostra sobre escolhas privadas que ferem a vida comum?",
+      "anchors": [
+        "B03",
+        "B10"
+      ],
+      "facilitator_note": "Use o exemplo como responsabilidade comunitária, sem desviar para debate ambiental amplo demais.",
+      "reading_points": [
+        {
+          "title": "Ato escondido",
+          "body": "A oficina evita um custo próprio e transfere o prejuízo ao bairro."
+        },
+        {
+          "title": "Impacto comum",
+          "body": "O descarte irregular atinge saúde, limpeza e segurança de muitos."
+        },
+        {
+          "title": "Cidadania concreta",
+          "body": "Ser social significa reconhecer que hábitos privados podem proteger ou ferir os outros."
+        }
+      ]
+    },
+    {
+      "id": "I14",
+      "term_id": "I14",
+      "call_label": "I14 - Medo de denunciar",
+      "case": "Funcionários sabem que um chefe desvia materiais da empresa, mas ninguém fala porque ele costuma perseguir quem o contraria.",
+      "conference_question": "Como agir contra uma injustiça grave sem confundir prudência com silêncio definitivo?",
+      "anchors": [
+        "CEC 1889",
+        "B14"
+      ],
+      "facilitator_note": "Não incentive exposição imprudente; fale de canais seguros, prova e proporcionalidade.",
+      "reading_points": [
+        {
+          "title": "Medo real",
+          "body": "A ameaça de retaliação torna a ação mais difícil e exige prudência."
+        },
+        {
+          "title": "Risco da omissão",
+          "body": "O silêncio permanente protege o desvio e aumenta o dano."
+        },
+        {
+          "title": "Caminho moral",
+          "body": "A resposta cristã procura modo seguro e verdadeiro de enfrentar o mal."
+        }
+      ]
+    },
+    {
+      "id": "I15",
+      "term_id": "I15",
+      "call_label": "I15 - Promessa vazia",
+      "case": "Um síndico promete prestar contas todo mês para vencer a eleição do prédio, mas depois evita reuniões e esconde recibos.",
+      "conference_question": "Por que compromissos públicos exigem verdade, prestação de contas e responsabilidade depois da promessa feita?",
+      "anchors": [
+        "Ef 4,25",
+        "B10"
+      ],
+      "facilitator_note": "Mostre o valor moral da palavra dada em qualquer nível de responsabilidade.",
+      "reading_points": [
+        {
+          "title": "Confiança usada",
+          "body": "A promessa convence pessoas a entregar responsabilidade a alguém."
+        },
+        {
+          "title": "Mentira prática",
+          "body": "Não cumprir e esconder recibos transforma a fala anterior em instrumento de manipulação."
+        },
+        {
+          "title": "Participação responsável",
+          "body": "A vida comum precisa de palavra verdadeira, controle justo e prestação de contas."
+        }
+      ]
+    },
+    {
+      "id": "N01",
+      "term_id": "N01",
+      "call_label": "N01 - Tudo é política",
+      "case": "Após uma campanha de doação de sangue, alguém diz que não vai participar porque toda iniciativa pública é apenas disputa ideológica.",
+      "conference_question": "Como perceber quando a leitura política de uma situação apaga deveres humanos e cristãos mais básicos?",
+      "anchors": [
+        "Mt 22,15-21",
+        "B01"
+      ],
+      "facilitator_note": "Não negue que há interesses políticos; critique a redução total da realidade a poder.",
+      "reading_points": [
+        {
+          "title": "Redução da realidade",
+          "body": "A pessoa lê até uma necessidade vital apenas como disputa de grupos."
+        },
+        {
+          "title": "Perda do próximo",
+          "body": "Quando tudo vira poder, a pessoa concreta que precisa de ajuda desaparece."
+        },
+        {
+          "title": "Critério cristão",
+          "body": "Deus está acima de César, e a caridade não pode ser sequestrada por ideologias."
+        }
+      ]
+    },
+    {
+      "id": "N02",
+      "term_id": "N02",
+      "call_label": "N02 - Nada é comigo",
+      "case": "Uma calçada quebrada derruba idosos com frequência; moradores dizem que o problema é só da prefeitura e nunca registram reclamação nem sinalizam o risco.",
+      "conference_question": "Como distinguir responsabilidade do poder público de responsabilidade proporcional dos cidadãos que conhecem o perigo?",
+      "anchors": [
+        "Lc 10,25-37",
+        "B04"
+      ],
+      "facilitator_note": "Mostre que cobrar o responsável não dispensa ações possíveis de proteção.",
+      "reading_points": [
+        {
+          "title": "Dever público",
+          "body": "A prefeitura tem responsabilidade real sobre a calçada."
+        },
+        {
+          "title": "Desculpa cômoda",
+          "body": "Os moradores usam a culpa do outro para não fazer nem o que está ao alcance."
+        },
+        {
+          "title": "Caridade próxima",
+          "body": "O próximo concreto pede ao menos aviso, cobrança e cuidado proporcional."
+        }
+      ]
+    },
+    {
+      "id": "N03",
+      "term_id": "N03",
+      "call_label": "N03 - Todo mundo faz",
+      "case": "Num setor de compras, funcionários recebem brindes caros de fornecedores e dizem que recusar seria ingenuidade, porque todos aceitam.",
+      "conference_question": "Por que a frequência de uma prática não transforma essa prática em moralmente correta?",
+      "anchors": [
+        "B11",
+        "B12"
+      ],
+      "facilitator_note": "Mostre que costume social pode anestesiar a consciência.",
+      "reading_points": [
+        {
+          "title": "Costume corrupto",
+          "body": "O grupo transforma benefício indevido em rotina esperada."
+        },
+        {
+          "title": "Consciência anestesiada",
+          "body": "A frase 'todo mundo faz' evita perguntar se o ato é justo."
+        },
+        {
+          "title": "Conversão concreta",
+          "body": "A resposta cristã começa quando alguém rompe a normalização do erro."
+        }
+      ]
+    },
+    {
+      "id": "N04",
+      "term_id": "N04",
+      "call_label": "N04 - Lei é sempre moral",
+      "case": "Uma empresa terceirizada paga o mínimo permitido, mas monta escalas que deixam trabalhadores exaustos e sem vida familiar.",
+      "conference_question": "Como avaliar uma prática que cumpre a lei, mas parece ferir a dignidade e o bem da pessoa?",
+      "anchors": [
+        "At 5,29",
+        "B01"
+      ],
+      "facilitator_note": "Não ensine desprezo à lei; ensine que legalidade não esgota a moralidade.",
+      "reading_points": [
+        {
+          "title": "Legalidade limitada",
+          "body": "A empresa pode cumprir uma exigência mínima e ainda produzir dano humano sério."
+        },
+        {
+          "title": "Critério superior",
+          "body": "A moral cristã pergunta se a prática serve à dignidade e à justiça, não só se evita punição."
+        },
+        {
+          "title": "Consciência formada",
+          "body": "O cidadão cristão respeita a lei justa, mas não confunde todo arranjo legal com bem moral."
+        }
+      ]
+    },
+    {
+      "id": "N05",
+      "term_id": "N05",
+      "call_label": "N05 - Minha opinião basta",
+      "case": "Um influenciador acusa uma ONG de roubo sem prova e responde às críticas dizendo que apenas expressou sua opinião.",
+      "conference_question": "Quando uma opinião se torna irresponsável porque ignora verdade, prova e consequências públicas?",
+      "anchors": [
+        "Jo 8,32",
+        "B09"
+      ],
+      "facilitator_note": "Diferencie liberdade de opinião de licença para caluniar ou manipular.",
+      "reading_points": [
+        {
+          "title": "Acusação grave",
+          "body": "A fala atinge reputações e pode prejudicar um serviço real."
+        },
+        {
+          "title": "Fuga da verdade",
+          "body": "Chamar de opinião não dispensa prova, justiça e responsabilidade."
+        },
+        {
+          "title": "Palavra cristã",
+          "body": "A verdade deve orientar a fala pública, especialmente quando há acusação contra alguém."
+        }
+      ]
+    },
+    {
+      "id": "N06",
+      "term_id": "N06",
+      "call_label": "N06 - Tolerar é concordar",
+      "case": "Numa família, um filho diz que os pais só o respeitam se aprovarem todas as suas escolhas sem poder questionar nada.",
+      "conference_question": "Como amar uma pessoa e manter diálogo real sem transformar respeito em aprovação automática?",
+      "anchors": [
+        "B08",
+        "B09"
+      ],
+      "facilitator_note": "Conduza com cuidado: amor à pessoa não exige aprovação de toda conduta.",
+      "reading_points": [
+        {
+          "title": "Pedido absoluto",
+          "body": "O respeito é apresentado como proibição de qualquer discordância."
+        },
+        {
+          "title": "Confusão moral",
+          "body": "Tolerar e amar não significam declarar boa toda decisão."
+        },
+        {
+          "title": "Amor verdadeiro",
+          "body": "A resposta cristã une acolhida da pessoa, diálogo paciente e fidelidade à verdade."
+        }
+      ]
+    },
+    {
+      "id": "N07",
+      "term_id": "N07",
+      "call_label": "N07 - Respeito é silêncio",
+      "case": "Uma enfermeira percebe erro na dose de um remédio, mas hesita em falar para não constranger o médico diante da equipe.",
+      "conference_question": "Como distinguir respeito pela pessoa de omissão diante de uma verdade necessária?",
+      "anchors": [
+        "Ef 4,25",
+        "B07"
+      ],
+      "facilitator_note": "Mostre que respeito pode exigir palavra firme, não humilhação.",
+      "reading_points": [
+        {
+          "title": "Risco concreto",
+          "body": "O silêncio pode atingir a saúde de um paciente."
+        },
+        {
+          "title": "Respeito mal entendido",
+          "body": "Evitar constrangimento não vale mais que proteger a vida e a verdade."
+        },
+        {
+          "title": "Fala correta",
+          "body": "A palavra respeitosa corrige o erro sem transformar o médico em alvo de desprezo."
+        }
+      ]
+    },
+    {
+      "id": "N08",
+      "term_id": "N08",
+      "call_label": "N08 - Os fins justificam",
+      "case": "Um grupo falsifica números de uma pesquisa para conseguir verba destinada a uma causa social que considera urgente.",
+      "conference_question": "Por que uma causa boa não autoriza mentira como meio de ação?",
+      "anchors": [
+        "Rm 12,17-21",
+        "CEC 1889"
+      ],
+      "facilitator_note": "Afirme a bondade possível da causa, mas recuse o meio injusto.",
+      "reading_points": [
+        {
+          "title": "Causa relevante",
+          "body": "A necessidade social pode ser real e urgente."
+        },
+        {
+          "title": "Meio corrompido",
+          "body": "A falsificação destrói a verdade e manipula decisões públicas."
+        },
+        {
+          "title": "Caridade íntegra",
+          "body": "O caminho cristão não combate o mal com meios que já carregam injustiça."
+        }
+      ]
+    },
+    {
+      "id": "N09",
+      "term_id": "N09",
+      "call_label": "N09 - Instituição acima de tudo",
+      "case": "Uma entidade descobre abuso cometido por um dirigente e tenta abafar o caso para preservar doadores e reputação.",
+      "conference_question": "Por que proteger a imagem de uma instituição nunca pode valer mais que a vítima, a verdade e a justiça?",
+      "anchors": [
+        "CEC 1881",
+        "B02"
+      ],
+      "facilitator_note": "Tema grave: fale com sobriedade, firmeza e centralidade da pessoa ferida.",
+      "reading_points": [
+        {
+          "title": "Vítima apagada",
+          "body": "A prioridade passa a ser a reputação, não a pessoa atingida."
+        },
+        {
+          "title": "Ordem invertida",
+          "body": "A instituição existe para servir pessoas; não pode sacrificá-las para se proteger."
+        },
+        {
+          "title": "Resposta justa",
+          "body": "Verdade, proteção, responsabilização e reparação são exigências da caridade social."
+        }
+      ]
+    },
+    {
+      "id": "N10",
+      "term_id": "N10",
+      "call_label": "N10 - Caridade sem justiça",
+      "case": "Uma fábrica doa alimentos no Natal, mas mantém trabalhadores sem equipamento adequado durante o ano.",
+      "conference_question": "Como distinguir ajuda generosa de gesto que encobre uma injustiça permanente?",
+      "anchors": [
+        "CEC 1888",
+        "CEC 1889",
+        "B12"
+      ],
+      "facilitator_note": "Não despreze a doação; mostre que ela não substitui justiça devida.",
+      "reading_points": [
+        {
+          "title": "Bem parcial",
+          "body": "A doação pode ajudar pessoas de modo real."
+        },
+        {
+          "title": "Injustiça mantida",
+          "body": "O gesto não corrige a exploração sofrida pelos próprios trabalhadores."
+        },
+        {
+          "title": "Caridade exigente",
+          "body": "A caridade social exige justiça nas condições de vida, não apenas ajuda ocasional."
+        }
+      ]
+    },
+    {
+      "id": "N11",
+      "term_id": "N11",
+      "call_label": "N11 - Justiça como vingança",
+      "case": "Depois de um assalto, moradores identificam um suspeito e divulgam endereço, foto da família e ameaças de morte.",
+      "conference_question": "Como a busca por justiça se corrompe quando passa a desejar destruição e humilhação?",
+      "anchors": [
+        "Rm 12,17-21",
+        "B14"
+      ],
+      "facilitator_note": "Defenda a vítima sem legitimar linchamento ou ameaça.",
+      "reading_points": [
+        {
+          "title": "Dor legítima",
+          "body": "O assalto gera medo, revolta e desejo de proteção."
+        },
+        {
+          "title": "Revanche injusta",
+          "body": "Expor familiares e ameaçar morte ultrapassa justiça e produz novo mal."
+        },
+        {
+          "title": "Caminho cristão",
+          "body": "A justiça deve buscar verdade, responsabilização e reparação sem perder a dignidade humana."
+        }
+      ]
+    },
+    {
+      "id": "N12",
+      "term_id": "N12",
+      "call_label": "N12 - Neutralidade cômoda",
+      "case": "Em uma comissão, todos sabem que uma proposta prejudica famílias pobres, mas alguns dizem que não vão se envolver para não se indispor.",
+      "conference_question": "Quando a neutralidade deixa de ser equilíbrio e se torna colaboração passiva com a injustiça?",
+      "anchors": [
+        "CEC 1889",
+        "I14"
+      ],
+      "facilitator_note": "Diferencie neutralidade honesta em caso incerto de omissão em caso claro.",
+      "reading_points": [
+        {
+          "title": "Injustiça conhecida",
+          "body": "As consequências negativas da proposta já são percebidas."
+        },
+        {
+          "title": "Silêncio conveniente",
+          "body": "A pessoa se protege do desconforto enquanto outros pagarão o preço."
+        },
+        {
+          "title": "Coragem prudente",
+          "body": "A caridade social pede modo responsável de falar e agir quando o bem comum está ferido."
+        }
+      ]
+    },
+    {
+      "id": "N13",
+      "term_id": "N13",
+      "call_label": "N13 - Privado sem impacto",
+      "case": "Um consumidor compra produtos roubados porque diz que sua escolha particular não muda nada na violência da cidade.",
+      "conference_question": "Como escolhas aparentemente privadas podem alimentar estruturas de injustiça e dano social?",
+      "anchors": [
+        "CEC 1879",
+        "B03"
+      ],
+      "facilitator_note": "Evite exagerar todo ato privado; destaque a cooperação concreta com o dano.",
+      "reading_points": [
+        {
+          "title": "Compra conveniente",
+          "body": "A pessoa busca vantagem ignorando a origem injusta do produto."
+        },
+        {
+          "title": "Impacto social",
+          "body": "A demanda por produto roubado ajuda a sustentar uma cadeia de violência."
+        },
+        {
+          "title": "Vida social",
+          "body": "Nossas escolhas formam a sociedade mais do que imaginamos."
+        }
+      ]
+    },
+    {
+      "id": "N14",
+      "term_id": "N14",
+      "call_label": "N14 - Poder merece privilégio",
+      "case": "Um diretor estaciona em vaga reservada para pessoas com deficiência e diz que sua agenda importante justifica a exceção.",
+      "conference_question": "Por que cargo e influência aumentam responsabilidade em vez de autorizar privilégios injustos?",
+      "anchors": [
+        "CEC 1881",
+        "I10"
+      ],
+      "facilitator_note": "Mostre que autoridade verdadeira serve e dá exemplo.",
+      "reading_points": [
+        {
+          "title": "Privilégio indevido",
+          "body": "A vaga existe para uma necessidade específica, não para conveniência de quem tem poder."
+        },
+        {
+          "title": "Cargo mal usado",
+          "body": "A importância da função é usada como desculpa para violar uma regra justa."
+        },
+        {
+          "title": "Serviço público",
+          "body": "Quanto maior a autoridade, maior o dever de servir ao bem comum com justiça."
+        }
+      ]
+    },
+    {
+      "id": "N15",
+      "term_id": "N15",
+      "call_label": "N15 - Só oração resolve",
+      "case": "Uma comunidade sabe que famílias passam fome na região; alguns propõem apenas rezar, recusando qualquer organização de ajuda ou cobrança por políticas básicas.",
+      "conference_question": "Como unir oração verdadeira e ação concreta sem cair em ativismo sem Deus nem passividade religiosa?",
+      "anchors": [
+        "CEC 1888",
+        "Tg 2,14-17"
+      ],
+      "facilitator_note": "Não diminua a oração; mostre que oração autêntica move à caridade e à justiça.",
+      "reading_points": [
+        {
+          "title": "Necessidade urgente",
+          "body": "A fome exige resposta concreta e não apenas palavras."
+        },
+        {
+          "title": "Desvio religioso",
+          "body": "Usar a oração para evitar deveres de caridade enfraquece a própria oração."
+        },
+        {
+          "title": "Fé viva",
+          "body": "A fé cristã reza, converte o coração e age conforme a justiça."
+        }
+      ]
+    },
+    {
+      "id": "G01",
+      "term_id": "G01",
+      "call_label": "G01 - Legal ou justo",
+      "case": "Um contrato permite multa altíssima por atraso de aluguel, e o proprietário aplica a multa integral a uma família que atrasou por internação grave.",
+      "conference_question": "Como distinguir o direito de exigir um contrato da necessidade de avaliar justiça, proporção e dignidade no caso concreto?",
+      "anchors": [
+        "At 5,29",
+        "B01",
+        "N04"
+      ],
+      "facilitator_note": "Não negue contratos; mostre que legalidade pede discernimento moral.",
+      "reading_points": [
+        {
+          "title": "Regra existente",
+          "body": "Há uma cláusula formalmente prevista no contrato."
+        },
+        {
+          "title": "Proporção moral",
+          "body": "A aplicação automática pode se tornar injusta diante de circunstâncias graves."
+        },
+        {
+          "title": "Discernimento cristão",
+          "body": "A justiça olha a norma, o fim da norma e a dignidade das pessoas atingidas."
+        }
+      ]
+    },
+    {
+      "id": "G02",
+      "term_id": "G02",
+      "call_label": "G02 - Pessoa ou cargo",
+      "case": "Um prefeito é vaiado por suspeitas de desvio; parte da multidão passa a insultar sua família e sua aparência.",
+      "conference_question": "Como criticar o uso de um cargo sem negar a dignidade da pessoa que ocupa esse cargo?",
+      "anchors": [
+        "CEC 1881",
+        "B02"
+      ],
+      "facilitator_note": "Mostre que responsabilização pública não autoriza desumanização.",
+      "reading_points": [
+        {
+          "title": "Cargo questionado",
+          "body": "A suspeita de desvio pode exigir cobrança pública e investigação."
+        },
+        {
+          "title": "Pessoa preservada",
+          "body": "Insultar família e aparência não esclarece os fatos nem serve à justiça."
+        },
+        {
+          "title": "Critério moral",
+          "body": "A pessoa mantém dignidade mesmo quando seus atos públicos devem ser julgados."
+        }
+      ]
+    },
+    {
+      "id": "G03",
+      "term_id": "G03",
+      "call_label": "G03 - Tolerar ou aprovar",
+      "case": "Um médico atende com respeito um paciente cujas escolhas morais desaprova, sem transformar o atendimento em julgamento nem fingir concordância.",
+      "conference_question": "O que esse caso ensina sobre acolher uma pessoa sem declarar boa toda escolha dela?",
+      "anchors": [
+        "B08",
+        "N06"
+      ],
+      "facilitator_note": "Use o caso para separar dignidade da pessoa e avaliação moral de escolhas.",
+      "reading_points": [
+        {
+          "title": "Atendimento devido",
+          "body": "O paciente deve ser tratado com competência, respeito e cuidado."
+        },
+        {
+          "title": "Não aprovação automática",
+          "body": "Respeitar a pessoa não obriga o médico a mudar sua convicção moral."
+        },
+        {
+          "title": "Tolerância cristã",
+          "body": "A convivência justa une respeito concreto e fidelidade à verdade."
+        }
+      ]
+    },
+    {
+      "id": "G04",
+      "term_id": "G04",
+      "call_label": "G04 - Discordar ou humilhar",
+      "case": "Durante uma audiência pública, uma proposta é fraca e mal informada; um participante corrige os dados e outro prefere ridicularizar quem falou.",
+      "conference_question": "Que sinais mostram se a discordância está servindo à verdade ou à humilhação?",
+      "anchors": [
+        "B07",
+        "I08"
+      ],
+      "facilitator_note": "Valorize debate forte e recuse desprezo pessoal.",
+      "reading_points": [
+        {
+          "title": "Erro discutível",
+          "body": "A proposta precisa ser examinada e talvez rejeitada."
+        },
+        {
+          "title": "Duas respostas",
+          "body": "Corrigir dados serve à verdade; ridicularizar serve ao orgulho e ao ataque."
+        },
+        {
+          "title": "Forma cristã",
+          "body": "A caridade não enfraquece argumentos; ela impede que o outro vire alvo de desprezo."
+        }
+      ]
+    },
+    {
+      "id": "G05",
+      "term_id": "G05",
+      "call_label": "G05 - Prudência ou omissão",
+      "case": "Uma testemunha de assédio no trabalho decide primeiro guardar mensagens e procurar o canal correto, em vez de expor tudo nas redes no mesmo dia.",
+      "conference_question": "Como reconhecer prudência verdadeira sem usá-la como desculpa para nunca agir?",
+      "anchors": [
+        "CEC 1889",
+        "I14",
+        "N12"
+      ],
+      "facilitator_note": "Mostre que prudência organiza a ação; não a cancela.",
+      "reading_points": [
+        {
+          "title": "Ação preparada",
+          "body": "A testemunha não ignora o mal, mas busca segurança, prova e caminho adequado."
+        },
+        {
+          "title": "Risco evitado",
+          "body": "A exposição impulsiva pode prejudicar vítima, prova e justiça."
+        },
+        {
+          "title": "Prudência ativa",
+          "body": "A prudência cristã escolhe o modo certo de agir contra o mal."
+        }
+      ]
+    },
+    {
+      "id": "G06",
+      "term_id": "G06",
+      "call_label": "G06 - Caridade ou conivência",
+      "case": "Um parente dirige alcoolizado com frequência; a família evita tocar no assunto para não magoá-lo.",
+      "conference_question": "Como amar uma pessoa que erra sem proteger o erro que ameaça ela e os outros?",
+      "anchors": [
+        "CEC 1889",
+        "N10"
+      ],
+      "facilitator_note": "Nomeie o risco real; caridade pode exigir limite firme.",
+      "reading_points": [
+        {
+          "title": "Perigo objetivo",
+          "body": "Dirigir alcoolizado coloca vidas em risco."
+        },
+        {
+          "title": "Falsa bondade",
+          "body": "Evitar conversa difícil pode proteger o hábito perigoso, não a pessoa."
+        },
+        {
+          "title": "Caridade firme",
+          "body": "Amar pode exigir impedir a direção, buscar ajuda e sustentar consequências."
+        }
+      ]
+    },
+    {
+      "id": "G07",
+      "term_id": "G07",
+      "call_label": "G07 - Justiça ou revanche",
+      "case": "Uma funcionária desviou dinheiro; a empresa precisa responsabilizá-la, mas alguns querem divulgar o caso com insultos para 'servir de exemplo'.",
+      "conference_question": "Como buscar reparação e consequência proporcional sem transformar justiça em espetáculo de punição?",
+      "anchors": [
+        "Rm 12,17-21",
+        "N11"
+      ],
+      "facilitator_note": "Mostre que consequência é necessária, mas humilhação não é virtude.",
+      "reading_points": [
+        {
+          "title": "Erro grave",
+          "body": "O desvio de dinheiro exige apuração, devolução e consequência."
+        },
+        {
+          "title": "Excesso punitivo",
+          "body": "A exposição humilhante acrescenta dano e pode servir à revanche."
+        },
+        {
+          "title": "Justiça cristã",
+          "body": "A resposta justa busca verdade, reparação e proteção sem negar a dignidade de quem errou."
+        }
+      ]
+    },
+    {
+      "id": "G08",
+      "term_id": "G08",
+      "call_label": "G08 - Dever civil ou idolatria",
+      "case": "Um grupo exige apoio incondicional a uma autoridade e acusa de traidor quem aponta erros comprovados de gestão.",
+      "conference_question": "Como cumprir deveres para com a sociedade sem transformar autoridade humana em absoluto?",
+      "anchors": [
+        "Mt 22,15-21",
+        "B13",
+        "B01"
+      ],
+      "facilitator_note": "Fale de autoridade em geral, sem entrar em disputa partidária.",
+      "reading_points": [
+        {
+          "title": "Lealdade distorcida",
+          "body": "A autoridade passa a ser tratada como intocável, acima da verdade."
+        },
+        {
+          "title": "Limite cristão",
+          "body": "César tem seu lugar, mas não ocupa o lugar de Deus nem da consciência reta."
+        },
+        {
+          "title": "Cidadania fiel",
+          "body": "O cristão pode obedecer, colaborar e criticar sem idolatrar o poder."
+        }
+      ]
+    },
+    {
+      "id": "G09",
+      "term_id": "G09",
+      "call_label": "G09 - Consciência ou capricho",
+      "case": "Uma pessoa se recusa a seguir uma regra de segurança no trabalho dizendo que sua consciência não aceita ordens.",
+      "conference_question": "Como distinguir consciência moral formada de simples vontade de não aceitar limites?",
+      "anchors": [
+        "Jo 8,32",
+        "B09"
+      ],
+      "facilitator_note": "Explique que consciência não é gosto instantâneo nem desobediência automática.",
+      "reading_points": [
+        {
+          "title": "Uso indevido",
+          "body": "A palavra consciência é usada para rejeitar uma regra que protege todos."
+        },
+        {
+          "title": "Formação necessária",
+          "body": "Consciência reta busca verdade, bem e responsabilidade, não apenas preferência pessoal."
+        },
+        {
+          "title": "Critério cristão",
+          "body": "Liberdade moral cresce quando se deixa formar pela verdade."
+        }
+      ]
+    },
+    {
+      "id": "G10",
+      "term_id": "G10",
+      "call_label": "G10 - Ajuda ou dependência",
+      "case": "Um benfeitor paga contas de uma família, mas exige decidir compras, visitas e rotina como condição para continuar ajudando.",
+      "conference_question": "Quando uma ajuda deixa de libertar e passa a dominar a pessoa ajudada?",
+      "anchors": [
+        "CEC 1882",
+        "B04"
+      ],
+      "facilitator_note": "Mostre que serviço cristão respeita liberdade e responsabilidade.",
+      "reading_points": [
+        {
+          "title": "Necessidade real",
+          "body": "A família pode precisar de socorro financeiro concreto."
+        },
+        {
+          "title": "Controle abusivo",
+          "body": "A ajuda vira instrumento para mandar na vida dos outros."
+        },
+        {
+          "title": "Serviço justo",
+          "body": "A caridade busca levantar a pessoa, não prendê-la em dependência humilhante."
+        }
+      ]
+    },
+    {
+      "id": "G11",
+      "term_id": "G11",
+      "call_label": "G11 - Estrutura ou coração",
+      "case": "Uma cidade cria atendimento transparente para vagas em creche, mas famílias continuam tentando furar a fila por conhecidos.",
+      "conference_question": "Por que justiça social precisa de regras melhores e também de pessoas dispostas a abandonar vantagens injustas?",
+      "anchors": [
+        "CEC 1888",
+        "B11"
+      ],
+      "facilitator_note": "Use o caso para unir reforma institucional e conversão pessoal.",
+      "reading_points": [
+        {
+          "title": "Estrutura melhor",
+          "body": "O sistema transparente tenta corrigir privilégios e injustiça."
+        },
+        {
+          "title": "Coração resistente",
+          "body": "A busca por conhecidos mostra que o egoísmo tenta contornar a regra justa."
+        },
+        {
+          "title": "Mudança completa",
+          "body": "O Catecismo pede conversão interior e saneamento das condições sociais."
+        }
+      ]
+    },
+    {
+      "id": "G12",
+      "term_id": "G12",
+      "call_label": "G12 - Unidade ou uniformidade",
+      "case": "Numa equipe de serviço, todos querem ajudar a mesma comunidade, mas alguns exigem que todo mundo tenha o mesmo estilo, vocabulário e preferência de trabalho.",
+      "conference_question": "Como distinguir unidade em torno do bem de exigência indevida de uniformidade?",
+      "anchors": [
+        "CEC 1878",
+        "CEC 1879"
+      ],
+      "facilitator_note": "Mostre que diversidade legítima não é desordem nem relativismo.",
+      "reading_points": [
+        {
+          "title": "Fim comum",
+          "body": "A equipe partilha uma missão concreta de serviço."
+        },
+        {
+          "title": "Exigência excessiva",
+          "body": "Transformar preferências em regra ameaça a colaboração."
+        },
+        {
+          "title": "Fraternidade madura",
+          "body": "A unidade cristã busca verdade e amor sem esmagar diferenças legítimas."
+        }
+      ]
+    },
+    {
+      "id": "G13",
+      "term_id": "G13",
+      "call_label": "G13 - Autoridade ou abuso",
+      "case": "Um chefe muda escalas de trabalho para punir quem questionou uma decisão insegura.",
+      "conference_question": "Que sinais indicam que a autoridade deixou de servir ao fim justo e passou a abusar da função?",
+      "anchors": [
+        "CEC 1881",
+        "G02"
+      ],
+      "facilitator_note": "Explique autoridade como serviço ordenado, não como controle pessoal.",
+      "reading_points": [
+        {
+          "title": "Função desviada",
+          "body": "A escala deixa de organizar o trabalho e vira instrumento de retaliação."
+        },
+        {
+          "title": "Abuso de poder",
+          "body": "O cargo é usado para calar uma preocupação legítima."
+        },
+        {
+          "title": "Critério institucional",
+          "body": "Autoridade justa serve à pessoa e ao bem comum; abuso protege vaidade e domínio."
+        }
+      ]
+    },
+    {
+      "id": "G14",
+      "term_id": "G14",
+      "call_label": "G14 - Opinião ou testemunho",
+      "case": "Num debate sobre atendimento a moradores de rua, uma pessoa repete frases prontas; outra fala do que viu servindo refeições e estudando o problema.",
+      "conference_question": "O que diferencia uma opinião solta de um testemunho responsável diante de um problema social?",
+      "anchors": [
+        "Ef 4,25",
+        "N05"
+      ],
+      "facilitator_note": "Não desvalorize opinião; mostre que fala pública exige formação e responsabilidade.",
+      "reading_points": [
+        {
+          "title": "Fala sem peso",
+          "body": "A frase pronta simplifica uma realidade complexa."
+        },
+        {
+          "title": "Testemunho responsável",
+          "body": "A outra fala nasce de contato concreto, estudo e compromisso com a verdade."
+        },
+        {
+          "title": "Palavra cristã",
+          "body": "Falar publicamente pede responsabilidade diante das pessoas atingidas pela nossa fala."
+        }
+      ]
+    },
+    {
+      "id": "G15",
+      "term_id": "G15",
+      "call_label": "G15 - Paz ou acomodação",
+      "case": "Para evitar conflito, uma família decide não tocar mais no abandono de uma criança por um responsável, embora o problema continue acontecendo.",
+      "conference_question": "Como distinguir paz verdadeira de acomodação que deixa a injustiça continuar ferindo?",
+      "anchors": [
+        "1Cor 14,33.40",
+        "CEC 1889"
+      ],
+      "facilitator_note": "Mostre que paz cristã não é aparência tranquila em cima de ferida aberta.",
+      "reading_points": [
+        {
+          "title": "Calma aparente",
+          "body": "O silêncio reduz brigas, mas não protege a criança."
+        },
+        {
+          "title": "Injustiça mantida",
+          "body": "Evitar conflito a qualquer custo pode abandonar quem precisa de defesa."
+        },
+        {
+          "title": "Paz justa",
+          "body": "A paz cristã busca ordem, verdade e proteção do vulnerável."
+        }
+      ]
+    },
+    {
+      "id": "O01",
+      "term_id": "O01",
+      "call_label": "O01 - Pagar o devido",
+      "case": "Um profissional regulariza notas antigas e passa a declarar corretamente seus serviços, mesmo perdendo parte do lucro imediato.",
+      "conference_question": "Como essa resposta corrige a lógica da esperteza e fortalece a responsabilidade pelo comum?",
+      "anchors": [
+        "Mt 22,15-21",
+        "B13",
+        "I01"
+      ],
+      "facilitator_note": "Mostre que honestidade civil tem custo real e valor moral.",
+      "reading_points": [
+        {
+          "title": "Decisão concreta",
+          "body": "A pessoa muda uma prática financeira escondida e assume um dever público."
+        },
+        {
+          "title": "Custo moral",
+          "body": "O lucro menor revela que a honestidade não é apenas discurso."
+        },
+        {
+          "title": "César devido",
+          "body": "Cumprir deveres legítimos faz parte da cidadania vivida diante de Deus."
+        }
+      ]
+    },
+    {
+      "id": "O02",
+      "term_id": "O02",
+      "call_label": "O02 - Falar com caridade",
+      "case": "Uma gerente chama um funcionário em particular, mostra dados do erro e explica a correção necessária sem sarcasmo nem exposição pública.",
+      "conference_question": "Quais elementos tornam essa fala verdadeira, firme e caridosa ao mesmo tempo?",
+      "anchors": [
+        "Ef 4,25",
+        "B09",
+        "G04"
+      ],
+      "facilitator_note": "Destaque forma, intenção e conteúdo da correção.",
+      "reading_points": [
+        {
+          "title": "Verdade nomeada",
+          "body": "O erro não é escondido nem tratado como irrelevante."
+        },
+        {
+          "title": "Forma respeitosa",
+          "body": "A conversa privada evita humilhação desnecessária."
+        },
+        {
+          "title": "Caridade prática",
+          "body": "Falar bem é buscar correção real sem ferir a dignidade da pessoa."
+        }
+      ]
+    },
+    {
+      "id": "O03",
+      "term_id": "O03",
+      "call_label": "O03 - Reparar o dano",
+      "case": "Depois de espalhar uma acusação falsa, um homem procura as pessoas que receberam a mensagem, corrige a informação e pede perdão ao atingido.",
+      "conference_question": "Por que arrependimento verdadeiro precisa buscar reparação proporcional ao dano causado?",
+      "anchors": [
+        "B12",
+        "G07"
+      ],
+      "facilitator_note": "Mostre que pedir perdão não dispensa corrigir o estrago possível.",
+      "reading_points": [
+        {
+          "title": "Dano espalhado",
+          "body": "A mentira não ficou só entre duas pessoas; ela circulou e feriu reputação."
+        },
+        {
+          "title": "Reparação proporcional",
+          "body": "Corrigir diante de quem recebeu a mentira responde ao alcance do dano."
+        },
+        {
+          "title": "Justiça com caridade",
+          "body": "A resposta cristã une perdão pedido, verdade restaurada e responsabilidade assumida."
+        }
+      ]
+    },
+    {
+      "id": "O04",
+      "term_id": "O04",
+      "call_label": "O04 - Proteger o vulnerável",
+      "case": "Uma vizinha percebe abandono de uma criança pequena e aciona o conselho tutelar, sem expor a criança nas redes.",
+      "conference_question": "Como proteger alguém vulnerável sem transformar sua dor em exposição pública?",
+      "anchors": [
+        "Mt 25,31-46",
+        "B06",
+        "I07"
+      ],
+      "facilitator_note": "Reforce encaminhamento responsável e proteção da vítima.",
+      "reading_points": [
+        {
+          "title": "Vulnerabilidade real",
+          "body": "A criança não tem condições de se proteger sozinha."
+        },
+        {
+          "title": "Canal adequado",
+          "body": "Acionar quem pode intervir protege melhor do que publicar a situação."
+        },
+        {
+          "title": "Dignidade preservada",
+          "body": "A caridade protege sem usar a imagem do vulnerável como espetáculo."
+        }
+      ]
+    },
+    {
+      "id": "O05",
+      "term_id": "O05",
+      "call_label": "O05 - Participar do comum",
+      "case": "Moradores se revezam para acompanhar reuniões sobre transporte e registrar demandas reais de idosos, trabalhadores e pessoas com deficiência.",
+      "conference_question": "Por que essa participação é mais sólida que reclamação isolada ou indignação passageira?",
+      "anchors": [
+        "CEC 1882",
+        "B10",
+        "I06"
+      ],
+      "facilitator_note": "Mostre participação concreta, possível e ordenada.",
+      "reading_points": [
+        {
+          "title": "Presença organizada",
+          "body": "Os moradores assumem tarefa possível e contínua."
+        },
+        {
+          "title": "Voz dos afetados",
+          "body": "As demandas partem de necessidades reais, não apenas de preferências pessoais."
+        },
+        {
+          "title": "Bem comum",
+          "body": "Participar do comum é servir para que condições sociais melhorem para todos."
+        }
+      ]
+    },
+    {
+      "id": "O06",
+      "term_id": "O06",
+      "call_label": "O06 - Verificar antes",
+      "case": "Antes de repassar denúncia contra uma creche, uma mãe procura a fonte, confirma datas e percebe que a foto era de outro país.",
+      "conference_question": "Como verificar antes de compartilhar protege a verdade e as pessoas envolvidas?",
+      "anchors": [
+        "Ef 4,25",
+        "I05",
+        "B09"
+      ],
+      "facilitator_note": "Não desestimule denúncias verdadeiras; ensine responsabilidade na circulação de informações.",
+      "reading_points": [
+        {
+          "title": "Pausa prudente",
+          "body": "A mãe não repassa a acusação no impulso."
+        },
+        {
+          "title": "Mentira evitada",
+          "body": "A verificação impede dano injusto à creche e à comunidade."
+        },
+        {
+          "title": "Verdade social",
+          "body": "A cidadania cristã cuida da palavra antes que ela gere injustiça."
+        }
+      ]
+    },
+    {
+      "id": "O07",
+      "term_id": "O07",
+      "call_label": "O07 - Recusar privilégio injusto",
+      "case": "Um paciente recusa ser passado à frente por conhecer alguém no hospital e pede que sigam a classificação de risco.",
+      "conference_question": "O que essa recusa ensina sobre justiça quando a vantagem indevida favorece a nós mesmos?",
+      "anchors": [
+        "B12",
+        "N14",
+        "I09"
+      ],
+      "facilitator_note": "Mostre que justiça é mais difícil quando o privilégio nos beneficia.",
+      "reading_points": [
+        {
+          "title": "Vantagem oferecida",
+          "body": "O privilégio aparece como favor pessoal, não como direito."
+        },
+        {
+          "title": "Regra justa",
+          "body": "A classificação de risco existe para proteger quem precisa mais."
+        },
+        {
+          "title": "Resposta íntegra",
+          "body": "Recusar vantagem indevida é praticar justiça quando ninguém obriga."
+        }
+      ]
+    },
+    {
+      "id": "O08",
+      "term_id": "O08",
+      "call_label": "O08 - Denunciar com prudência",
+      "case": "Um funcionário reúne documentos sobre desvio de verba e procura o canal interno e, se necessário, o órgão competente, sem publicar acusações sem prova.",
+      "conference_question": "Como denunciar com prudência evita tanto a covardia quanto a exposição injusta?",
+      "anchors": [
+        "CEC 1889",
+        "I14",
+        "G05"
+      ],
+      "facilitator_note": "Destaque prova, canal adequado, segurança e compromisso com a verdade.",
+      "reading_points": [
+        {
+          "title": "Mal enfrentado",
+          "body": "O funcionário não se acomoda diante do desvio."
+        },
+        {
+          "title": "Modo responsável",
+          "body": "A denúncia busca prova e autoridade competente, em vez de linchamento público."
+        },
+        {
+          "title": "Caridade corajosa",
+          "body": "A resposta cristã enfrenta o mal por caminhos que favorecem justiça real."
+        }
+      ]
+    },
+    {
+      "id": "O09",
+      "term_id": "O09",
+      "call_label": "O09 - Escutar antes de julgar",
+      "case": "Antes de demitir um cuidador acusado por um boato, a família ouve a pessoa atendida, verifica câmeras permitidas e consulta testemunhas.",
+      "conference_question": "Como a escuta responsável protege vítimas possíveis sem condenar alguém por rumor?",
+      "anchors": [
+        "B07",
+        "G04"
+      ],
+      "facilitator_note": "Mostre equilíbrio: escutar não é desacreditar vítima nem absolver sem apuração.",
+      "reading_points": [
+        {
+          "title": "Acusação séria",
+          "body": "O caso exige atenção porque pode haver pessoa vulnerável em risco."
+        },
+        {
+          "title": "Apuração justa",
+          "body": "A família procura fatos antes de concluir e agir definitivamente."
+        },
+        {
+          "title": "Respeito duplo",
+          "body": "A justiça cristã protege quem pode ter sofrido e não destrói alguém por boato."
+        }
+      ]
+    },
+    {
+      "id": "O10",
+      "term_id": "O10",
+      "call_label": "O10 - Servir sem dominar",
+      "case": "Uma voluntária ajuda uma família com compras, mas combina horários, pergunta necessidades reais e evita comentar a situação com terceiros.",
+      "conference_question": "Que atitudes mostram que o serviço respeita a liberdade e a dignidade de quem recebe ajuda?",
+      "anchors": [
+        "Gl 5,13",
+        "G10"
+      ],
+      "facilitator_note": "Destaque discrição, escuta e ausência de controle.",
+      "reading_points": [
+        {
+          "title": "Ajuda concreta",
+          "body": "A necessidade material é atendida de modo real."
+        },
+        {
+          "title": "Respeito prático",
+          "body": "A voluntária pergunta, combina e preserva a intimidade da família."
+        },
+        {
+          "title": "Serviço cristão",
+          "body": "Servir por amor não transforma o outro em dependente nem em vitrine de bondade."
+        }
+      ]
+    },
+    {
+      "id": "O11",
+      "term_id": "O11",
+      "call_label": "O11 - Corrigir a estrutura",
+      "case": "Depois de várias quedas no trabalho, funcionários pedem treinamento, troca de equipamento e registro formal de riscos, não apenas punição ao último acidentado.",
+      "conference_question": "Como corrigir estruturas evita reduzir um problema repetido à culpa de uma pessoa só?",
+      "anchors": [
+        "CEC 1888",
+        "G11"
+      ],
+      "facilitator_note": "Mostre que estruturas podem favorecer o bem ou criar ocasião de dano.",
+      "reading_points": [
+        {
+          "title": "Padrão repetido",
+          "body": "As quedas indicam problema maior que um descuido isolado."
+        },
+        {
+          "title": "Mudança concreta",
+          "body": "Treinamento e equipamento atacam condições que produzem o risco."
+        },
+        {
+          "title": "Justiça institucional",
+          "body": "O Catecismo pede saneamento das condições que favorecem o mal."
+        }
+      ]
+    },
+    {
+      "id": "O12",
+      "term_id": "O12",
+      "call_label": "O12 - Formar a consciência",
+      "case": "Antes de decidir sobre uma proposta moralmente difícil no trabalho, uma pessoa lê a doutrina, conversa com alguém prudente e examina seus próprios interesses.",
+      "conference_question": "Por que consciência formada exige verdade, conselho e exame sincero, não apenas sentir-se certo?",
+      "anchors": [
+        "Jo 8,32",
+        "G09"
+      ],
+      "facilitator_note": "Evite jargão; consciência precisa ser educada para julgar retamente.",
+      "reading_points": [
+        {
+          "title": "Decisão difícil",
+          "body": "A situação não é resolvida por impulso ou conveniência."
+        },
+        {
+          "title": "Busca de critério",
+          "body": "A pessoa procura verdade, orientação prudente e reconhecimento dos próprios interesses."
+        },
+        {
+          "title": "Liberdade madura",
+          "body": "A consciência cristã se forma para obedecer ao bem, não ao capricho."
+        }
+      ]
+    },
+    {
+      "id": "O13",
+      "term_id": "O13",
+      "call_label": "O13 - Orar e agir",
+      "case": "Uma comunidade reza por desempregados e também organiza orientação de currículos, escuta das famílias e encaminhamento para serviços disponíveis.",
+      "conference_question": "Como essa resposta une confiança em Deus e responsabilidade concreta diante da necessidade social?",
+      "anchors": [
+        "CEC 1888",
+        "Tg 2,14-17",
+        "N15"
+      ],
+      "facilitator_note": "Mostre uma ação proporcional; não prometa solução total do desemprego.",
+      "reading_points": [
+        {
+          "title": "Oração real",
+          "body": "A comunidade coloca a dor diante de Deus."
+        },
+        {
+          "title": "Ação possível",
+          "body": "A ajuda concreta não resolve tudo, mas responde a necessidades acessíveis."
+        },
+        {
+          "title": "Fé viva",
+          "body": "A oração cristã desperta conversão, serviço e busca de justiça."
+        }
+      ]
+    },
+    {
+      "id": "O14",
+      "term_id": "O14",
+      "call_label": "O14 - Assumir consequência",
+      "case": "Um motorista causa um acidente por mexer no celular; ele permanece no local, chama socorro, presta depoimento e assume os custos devidos.",
+      "conference_question": "Por que assumir consequência é parte da justiça, e não apenas medo de punição?",
+      "anchors": [
+        "B11",
+        "O03"
+      ],
+      "facilitator_note": "Mostre responsabilidade concreta depois do erro, sem apagar a gravidade do dano.",
+      "reading_points": [
+        {
+          "title": "Erro reconhecido",
+          "body": "O motorista não foge nem inventa desculpa para o acidente."
+        },
+        {
+          "title": "Consequência proporcional",
+          "body": "Chamar socorro, falar a verdade e reparar custos respondem ao dano causado."
+        },
+        {
+          "title": "Conversão prática",
+          "body": "Assumir responsabilidade é sinal concreto de consciência e justiça."
+        }
+      ]
+    },
+    {
+      "id": "O15",
+      "term_id": "O15",
+      "call_label": "O15 - Construir paz justa",
+      "case": "Após conflito entre vizinhos por barulho e ameaças, um mediador organiza conversa com regras, registro de acordos e compromisso de não intimidação.",
+      "conference_question": "Como uma paz justa enfrenta a ferida sem alimentar vingança nem fingir que nada aconteceu?",
+      "anchors": [
+        "1Cor 14,33.40",
+        "CEC 1889",
+        "G15"
+      ],
+      "facilitator_note": "Mostre paz como ordem na verdade, não silêncio forçado.",
+      "reading_points": [
+        {
+          "title": "Conflito real",
+          "body": "Há barulho, ameaça e medo; não basta pedir que todos esqueçam."
+        },
+        {
+          "title": "Ordem concreta",
+          "body": "Regras, registro e compromisso reduzem intimidação e tornam a conversa possível."
+        },
+        {
+          "title": "Paz cristã",
+          "body": "A paz justa une verdade, limite, reparação possível e recusa da vingança."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1133 @@
+{
+  "title": "Bingo — Namoro",
+  "meeting": "Encontro 19 — Namoro",
+  "meeting_label": "Encontro 19",
+  "output_slug": "bingo_namoro",
+  "core_message": "O namoro cristão é tempo sério de conhecimento, respeito e castidade, vivido diante de Deus para discernir um amor fiel, livre e responsável.",
+  "source_meeting_markdown": "projects/catequese/material_didatico/output/markdown/encontro_19.md",
+  "scripture": [
+    "1Ts 4,3-7",
+    "Gn 1,27",
+    "Mt 5,8",
+    "Mt 5,27-30",
+    "Mt 19,4-6",
+    "1Cor 6,19-20",
+    "1Cor 13,4-7",
+    "Ef 5,25",
+    "Tb 8,4-8",
+    "Ct 8,6-7",
+    "Pr 4,23",
+    "Eclo 6,14-17",
+    "Hb 13,4"
+  ],
+  "catechism": [
+    "CEC §1601",
+    "CEC §2337",
+    "CEC §2342",
+    "CEC §2345",
+    "CEC §2350",
+    "CEC §2351",
+    "CEC §2390",
+    "CEC §2391",
+    "CEC §2520"
+  ],
+  "card_model": {
+    "total_terms": 75,
+    "columns": 5,
+    "terms_per_column": 15,
+    "grid": "5x5",
+    "center": {
+      "label": "LIVRE / 1Ts 4,3-7",
+      "fixed": true,
+      "called": false
+    },
+    "recommended_win_condition": "duas_linhas"
+  },
+  "columns": [
+    {
+      "key": "B",
+      "title": "Base moral",
+      "function": "Fundamentos bíblicos e doutrinais para ler o tema.",
+      "short_function": "fundamento cristão do tema"
+    },
+    {
+      "key": "I",
+      "title": "Situações concretas",
+      "function": "Formas reais em que o tema aparece na vida concreta, em situações inteligíveis para a turma.",
+      "short_function": "situações concretas do tema"
+    },
+    {
+      "key": "N",
+      "title": "Narrativas falsas",
+      "function": "Desculpas, autoenganos e frases que desviam do bem.",
+      "short_function": "desculpas que normalizam o erro"
+    },
+    {
+      "key": "G",
+      "title": "Discernimentos",
+      "function": "Distinções morais que evitam respostas simplistas.",
+      "short_function": "distinções para discernir"
+    },
+    {
+      "key": "O",
+      "title": "Orientações de resposta",
+      "function": "Ações concretas, prudentes e proporcionais diante do problema.",
+      "short_function": "respostas proporcionais e prudentes"
+    }
+  ],
+  "terms": [
+    {
+      "id": "B01",
+      "column": "B",
+      "label": "Vontade de Deus",
+      "definition": "A vida afetiva também deve buscar a santificação, porque Deus chama a pessoa inteira à santidade.",
+      "anchors": [
+        "1Ts 4,3-7",
+        "CEC §2520"
+      ],
+      "tags": [
+        "santificação",
+        "discernimento"
+      ]
+    },
+    {
+      "id": "B02",
+      "column": "B",
+      "label": "Tempo de conhecimento",
+      "definition": "O namoro é um caminho sério de conhecimento mútuo, não casamento antecipado nem simples divertimento.",
+      "anchors": [
+        "CEC §2350",
+        "Eclo 6,14-17"
+      ],
+      "tags": [
+        "namoro",
+        "discernimento"
+      ]
+    },
+    {
+      "id": "B03",
+      "column": "B",
+      "label": "Castidade no namoro",
+      "definition": "A castidade integra corpo, desejo e amor para que a pessoa ame com coração reto e indiviso.",
+      "anchors": [
+        "CEC §2337",
+        "CEC §2350",
+        "CEC §2520"
+      ],
+      "tags": [
+        "castidade",
+        "integração"
+      ]
+    },
+    {
+      "id": "B04",
+      "column": "B",
+      "label": "Continência",
+      "definition": "A continência reserva ao matrimônio as expressões próprias do amor conjugal e educa a liberdade.",
+      "anchors": [
+        "CEC §2350",
+        "Hb 13,4"
+      ],
+      "tags": [
+        "continência",
+        "matrimônio"
+      ]
+    },
+    {
+      "id": "B05",
+      "column": "B",
+      "label": "Respeito mútuo",
+      "definition": "O amor verdadeiro reconhece o outro como pessoa recebida de Deus, não como objeto de prazer, controle ou afirmação.",
+      "anchors": [
+        "CEC §2350",
+        "Gn 1,27",
+        "1Cor 13,4-7"
+      ],
+      "tags": [
+        "respeito",
+        "dignidade"
+      ]
+    },
+    {
+      "id": "B06",
+      "column": "B",
+      "label": "Aprender fidelidade",
+      "definition": "O namoro educa para a fidelidade quando ensina constância, verdade, responsabilidade e esperança de receber o outro de Deus.",
+      "anchors": [
+        "CEC §2350",
+        "Tb 8,4-8"
+      ],
+      "tags": [
+        "fidelidade",
+        "esperança"
+      ]
+    },
+    {
+      "id": "B07",
+      "column": "B",
+      "label": "Corpo e santidade",
+      "definition": "O corpo participa da vocação cristã e deve ser vivido santa e honestamente, não separado da fé.",
+      "anchors": [
+        "1Ts 4,3-7",
+        "1Cor 6,19-20"
+      ],
+      "tags": [
+        "corpo",
+        "santidade"
+      ]
+    },
+    {
+      "id": "B08",
+      "column": "B",
+      "label": "Pureza de coração",
+      "definition": "A pureza de coração ordena intenção, afetos e escolhas para buscar a vontade de Deus sem duplicidade.",
+      "anchors": [
+        "Mt 5,8",
+        "CEC §2520"
+      ],
+      "tags": [
+        "pureza",
+        "intenção"
+      ]
+    },
+    {
+      "id": "B09",
+      "column": "B",
+      "label": "Pureza do olhar",
+      "definition": "O olhar cristão recusa transformar o outro em imagem de consumo e disciplina imaginação, desejo e curiosidade.",
+      "anchors": [
+        "Mt 5,27-30",
+        "CEC §2520"
+      ],
+      "tags": [
+        "olhar",
+        "imaginação"
+      ]
+    },
+    {
+      "id": "B10",
+      "column": "B",
+      "label": "Liberdade interior",
+      "definition": "A liberdade cristã não é obedecer ao impulso, mas escolher o bem com domínio de si e ajuda da graça.",
+      "anchors": [
+        "CEC §2342",
+        "Gl 5,13"
+      ],
+      "tags": [
+        "liberdade",
+        "domínio"
+      ]
+    },
+    {
+      "id": "B11",
+      "column": "B",
+      "label": "Dignidade da pessoa",
+      "definition": "Cada pessoa tem dignidade inviolável e não pode ser usada como meio de prazer, status, vingança ou carência.",
+      "anchors": [
+        "Gn 1,27",
+        "1Ts 4,6"
+      ],
+      "tags": [
+        "dignidade",
+        "pessoa"
+      ]
+    },
+    {
+      "id": "B12",
+      "column": "B",
+      "label": "Fim do matrimônio",
+      "definition": "O matrimônio é aliança pública e definitiva de amor fiel, aberta à vida e sustentada por responsabilidade.",
+      "anchors": [
+        "CEC §1601",
+        "Mt 19,4-6"
+      ],
+      "tags": [
+        "matrimônio",
+        "aliança"
+      ]
+    },
+    {
+      "id": "B13",
+      "column": "B",
+      "label": "Amor responsável",
+      "definition": "Amar exige buscar o bem real do outro, assumindo limites, consequências e verdade diante de Deus.",
+      "anchors": [
+        "1Cor 13,4-7",
+        "Ef 5,25"
+      ],
+      "tags": [
+        "amor",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "B14",
+      "column": "B",
+      "label": "Graça e combate",
+      "definition": "A luta pela pureza não depende só de força humana; requer graça, oração, virtude e perseverança.",
+      "anchors": [
+        "CEC §2345",
+        "CEC §2520"
+      ],
+      "tags": [
+        "graça",
+        "combate"
+      ]
+    },
+    {
+      "id": "B15",
+      "column": "B",
+      "label": "Deus no meio",
+      "definition": "Um namoro cristão abre espaço real para Deus por meio da oração, da fé vivida e do crescimento na virtude.",
+      "anchors": [
+        "1Ts 4,3-7",
+        "Tb 8,4-8"
+      ],
+      "tags": [
+        "oração",
+        "fé"
+      ]
+    },
+    {
+      "id": "I01",
+      "column": "I",
+      "label": "Relação descartável",
+      "definition": "Situação em que alguém é tratado como experiência passageira, sem cuidado com sua dignidade e suas feridas.",
+      "anchors": [
+        "B11",
+        "CEC §2390"
+      ],
+      "tags": [
+        "descarte",
+        "dignidade"
+      ]
+    },
+    {
+      "id": "I02",
+      "column": "I",
+      "label": "Pressão por intimidade",
+      "definition": "Quando uma pessoa tenta empurrar a outra a gestos íntimos que ela não quer ou não deve assumir.",
+      "anchors": [
+        "B04",
+        "1Ts 4,6"
+      ],
+      "tags": [
+        "pressão",
+        "limites"
+      ]
+    },
+    {
+      "id": "I03",
+      "column": "I",
+      "label": "Ciúme vigilante",
+      "definition": "Controle de mensagens, horários, roupas e contatos apresentado como prova de amor ou cuidado.",
+      "anchors": [
+        "B05",
+        "G03"
+      ],
+      "tags": [
+        "controle",
+        "ciúme"
+      ]
+    },
+    {
+      "id": "I04",
+      "column": "I",
+      "label": "Segredo imposto",
+      "definition": "Exigência de esconder o relacionamento, a conversa ou a intimidade para escapar de luz, conselho e responsabilidade.",
+      "anchors": [
+        "B08",
+        "Pr 4,23"
+      ],
+      "tags": [
+        "segredo",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "I05",
+      "column": "I",
+      "label": "Exposição do namoro",
+      "definition": "Uso de fotos, indiretas ou detalhes íntimos para buscar aprovação pública, provocar ciúme ou pressionar o outro.",
+      "anchors": [
+        "B09",
+        "G08"
+      ],
+      "tags": [
+        "exposição",
+        "intimidade"
+      ]
+    },
+    {
+      "id": "I06",
+      "column": "I",
+      "label": "Dependência afetiva",
+      "definition": "Quando o relacionamento vira centro absoluto da vida e a pessoa perde liberdade, oração, família, amizades e juízo.",
+      "anchors": [
+        "B10",
+        "G06"
+      ],
+      "tags": [
+        "dependência",
+        "liberdade"
+      ]
+    },
+    {
+      "id": "I07",
+      "column": "I",
+      "label": "Briga recorrente",
+      "definition": "Conflitos repetidos com ofensas, ameaças, manipulações ou reconciliações apressadas sem mudança real.",
+      "anchors": [
+        "B13",
+        "G09"
+      ],
+      "tags": [
+        "conflito",
+        "violência"
+      ]
+    },
+    {
+      "id": "I08",
+      "column": "I",
+      "label": "Diferença de fé",
+      "definition": "Situação em que o namoro toca práticas religiosas, valores morais e visão de vida de modos incompatíveis ou tensos.",
+      "anchors": [
+        "B15",
+        "2Cor 6,14"
+      ],
+      "tags": [
+        "fé",
+        "valores"
+      ]
+    },
+    {
+      "id": "I09",
+      "column": "I",
+      "label": "Projetos conflitantes",
+      "definition": "Quando os planos de vida, casamento, filhos, trabalho, fé ou lugar de morar caminham em direções incompatíveis.",
+      "anchors": [
+        "B02",
+        "B12"
+      ],
+      "tags": [
+        "projeto",
+        "discernimento"
+      ]
+    },
+    {
+      "id": "I10",
+      "column": "I",
+      "label": "Namoro precoce",
+      "definition": "Relação assumida antes de haver maturidade mínima para compromisso, limites, discernimento e responsabilidade.",
+      "anchors": [
+        "B02",
+        "CEC §2342"
+      ],
+      "tags": [
+        "maturidade",
+        "tempo"
+      ]
+    },
+    {
+      "id": "I11",
+      "column": "I",
+      "label": "Ficar sem compromisso",
+      "definition": "Envolvimento afetivo ou físico sem intenção de conhecer a pessoa com seriedade e sem responsabilidade pelas consequências.",
+      "anchors": [
+        "B02",
+        "CEC §2390"
+      ],
+      "tags": [
+        "ficar",
+        "compromisso"
+      ]
+    },
+    {
+      "id": "I12",
+      "column": "I",
+      "label": "Isolamento da família",
+      "definition": "Quando o relacionamento afasta a pessoa de vínculos bons, conselhos prudentes e convivência familiar necessária.",
+      "anchors": [
+        "B13",
+        "O13"
+      ],
+      "tags": [
+        "família",
+        "isolamento"
+      ]
+    },
+    {
+      "id": "I13",
+      "column": "I",
+      "label": "Conversas ambíguas",
+      "definition": "Mensagens, brincadeiras ou contatos mantidos em tom insinuante, duplicado e escondido, mesmo sem compromisso claro.",
+      "anchors": [
+        "B08",
+        "Mt 5,37"
+      ],
+      "tags": [
+        "ambiguidade",
+        "verdade"
+      ]
+    },
+    {
+      "id": "I14",
+      "column": "I",
+      "label": "Corpo como prova",
+      "definition": "Exigência de demonstração física para confirmar amor, lealdade, maturidade ou permanência no relacionamento.",
+      "anchors": [
+        "B07",
+        "B11"
+      ],
+      "tags": [
+        "corpo",
+        "pressão"
+      ]
+    },
+    {
+      "id": "I15",
+      "column": "I",
+      "label": "Noivado improvisado",
+      "definition": "Passo para o noivado sem discernimento sério, sem preparação e sem clareza sobre matrimônio, fé e responsabilidades.",
+      "anchors": [
+        "B12",
+        "G12"
+      ],
+      "tags": [
+        "noivado",
+        "preparo"
+      ]
+    },
+    {
+      "id": "N01",
+      "column": "N",
+      "label": "Pressão do costume",
+      "definition": "A desculpa de que uma prática se torna correta porque é comum ou socialmente esperada.",
+      "anchors": [
+        "Rm 12,2",
+        "B01"
+      ],
+      "tags": [
+        "costume",
+        "pressão"
+      ]
+    },
+    {
+      "id": "N02",
+      "column": "N",
+      "label": "Prova de amor",
+      "definition": "A mentira de que amar exige ceder o corpo, a consciência ou os limites ao desejo do outro.",
+      "anchors": [
+        "B05",
+        "1Ts 4,6"
+      ],
+      "tags": [
+        "manipulação",
+        "amor"
+      ]
+    },
+    {
+      "id": "N03",
+      "column": "N",
+      "label": "Afeto sem compromisso",
+      "definition": "A ideia de que sentimento intenso basta para justificar escolhas sem responsabilidade, verdade ou direção.",
+      "anchors": [
+        "B13",
+        "1Cor 13,4-7"
+      ],
+      "tags": [
+        "sentimento",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "N04",
+      "column": "N",
+      "label": "Falsa autonomia",
+      "definition": "A narrativa de que ninguém pode orientar a vida afetiva da pessoa, nem Deus, nem a verdade, nem a prudência.",
+      "anchors": [
+        "B10",
+        "1Cor 6,19-20"
+      ],
+      "tags": [
+        "autonomia",
+        "verdade"
+      ]
+    },
+    {
+      "id": "N05",
+      "column": "N",
+      "label": "Ciúme como cuidado",
+      "definition": "A tentativa de chamar controle, vigilância e posse de amor protetor.",
+      "anchors": [
+        "G03",
+        "B05"
+      ],
+      "tags": [
+        "ciúme",
+        "controle"
+      ]
+    },
+    {
+      "id": "N06",
+      "column": "N",
+      "label": "Aceitar tudo",
+      "definition": "A falsa exigência de que amar é aprovar tudo, suportar tudo e nunca pôr limite.",
+      "anchors": [
+        "G04",
+        "B13"
+      ],
+      "tags": [
+        "limite",
+        "aprovação"
+      ]
+    },
+    {
+      "id": "N07",
+      "column": "N",
+      "label": "Sexo como requisito",
+      "definition": "A mentira de que namoro sem relação sexual é incompleto, imaturo ou sem amor verdadeiro.",
+      "anchors": [
+        "CEC §2350",
+        "B04"
+      ],
+      "tags": [
+        "sexualidade",
+        "continência"
+      ]
+    },
+    {
+      "id": "N08",
+      "column": "N",
+      "label": "Ilusão de controle",
+      "definition": "O autoengano de brincar com ocasiões de pecado achando que a vontade sempre dominará o desejo.",
+      "anchors": [
+        "B14",
+        "Mt 5,27-30"
+      ],
+      "tags": [
+        "ocasião",
+        "autoengano"
+      ]
+    },
+    {
+      "id": "N09",
+      "column": "N",
+      "label": "Privado sem lei",
+      "definition": "A ideia de que aquilo que acontece em segredo deixa de ter valor moral e consequência espiritual.",
+      "anchors": [
+        "B08",
+        "Lc 12,2"
+      ],
+      "tags": [
+        "privado",
+        "moral"
+      ]
+    },
+    {
+      "id": "N10",
+      "column": "N",
+      "label": "Paixão soberana",
+      "definition": "A desculpa de que a força do desejo dispensa juízo, limite e responsabilidade.",
+      "anchors": [
+        "B10",
+        "CEC §2342"
+      ],
+      "tags": [
+        "paixão",
+        "impulso"
+      ]
+    },
+    {
+      "id": "N11",
+      "column": "N",
+      "label": "Casamento como remédio",
+      "definition": "A falsa solução de empurrar para o casamento um relacionamento desordenado, violento ou sem discernimento.",
+      "anchors": [
+        "B12",
+        "G11"
+      ],
+      "tags": [
+        "casamento",
+        "discernimento"
+      ]
+    },
+    {
+      "id": "N12",
+      "column": "N",
+      "label": "Dano invisível",
+      "definition": "A minimização de feridas afetivas, espirituais e morais porque não aparecem como agressão física imediata.",
+      "anchors": [
+        "B11",
+        "Pr 4,23"
+      ],
+      "tags": [
+        "ferida",
+        "minimização"
+      ]
+    },
+    {
+      "id": "N13",
+      "column": "N",
+      "label": "Deus como desculpa",
+      "definition": "Uso indevido da misericórdia de Deus para justificar permanência deliberada no erro sem conversão.",
+      "anchors": [
+        "B01",
+        "Rm 6,1-2"
+      ],
+      "tags": [
+        "misericórdia",
+        "conversão"
+      ]
+    },
+    {
+      "id": "N14",
+      "column": "N",
+      "label": "Metade salvadora",
+      "definition": "A crença de que outra pessoa resolverá o vazio interior e dará sentido absoluto à vida.",
+      "anchors": [
+        "B15",
+        "G03"
+      ],
+      "tags": [
+        "carência",
+        "idolatria"
+      ]
+    },
+    {
+      "id": "N15",
+      "column": "N",
+      "label": "Imagem sem consequência",
+      "definition": "A mentira de que fotos, vídeos e mensagens íntimas não envolvem corpo, dignidade, pecado e risco real.",
+      "anchors": [
+        "B09",
+        "G08"
+      ],
+      "tags": [
+        "imagem",
+        "exposição"
+      ]
+    },
+    {
+      "id": "G01",
+      "column": "G",
+      "label": "Pessoa e ato",
+      "definition": "Distinguir a dignidade inviolável da pessoa da avaliação moral de suas escolhas e atos.",
+      "anchors": [
+        "Gn 1,27",
+        "B11"
+      ],
+      "tags": [
+        "dignidade",
+        "ato"
+      ]
+    },
+    {
+      "id": "G02",
+      "column": "G",
+      "label": "Desejo e bem",
+      "definition": "Nem todo desejo sentido aponta para o bem real; o desejo precisa ser educado pela verdade e pela caridade.",
+      "anchors": [
+        "B10",
+        "CEC §2520"
+      ],
+      "tags": [
+        "desejo",
+        "bem"
+      ]
+    },
+    {
+      "id": "G03",
+      "column": "G",
+      "label": "Amor e posse",
+      "definition": "Amar busca o bem do outro; possuir reduz o outro a objeto de segurança, controle ou satisfação.",
+      "anchors": [
+        "1Cor 13,4-7",
+        "B05"
+      ],
+      "tags": [
+        "amor",
+        "posse"
+      ]
+    },
+    {
+      "id": "G04",
+      "column": "G",
+      "label": "Acolhida e aprovação",
+      "definition": "Acolher uma pessoa não significa aprovar todo comportamento nem abandonar a verdade sobre o bem.",
+      "anchors": [
+        "Jo 8,11",
+        "B13"
+      ],
+      "tags": [
+        "acolhida",
+        "verdade"
+      ]
+    },
+    {
+      "id": "G05",
+      "column": "G",
+      "label": "Prudência e medo",
+      "definition": "A prudência escolhe meios bons para proteger o amor; o medo paralisa ou foge da verdade.",
+      "anchors": [
+        "Pr 4,23",
+        "B10"
+      ],
+      "tags": [
+        "prudência",
+        "medo"
+      ]
+    },
+    {
+      "id": "G06",
+      "column": "G",
+      "label": "Liberdade e impulso",
+      "definition": "Liberdade é capacidade de escolher o bem, enquanto impulso é força interior que precisa ser governada.",
+      "anchors": [
+        "CEC §2342",
+        "B10"
+      ],
+      "tags": [
+        "liberdade",
+        "impulso"
+      ]
+    },
+    {
+      "id": "G07",
+      "column": "G",
+      "label": "Ternura e uso do corpo",
+      "definition": "A ternura expressa cuidado verdadeiro; o uso do corpo busca satisfação sem respeitar o tempo e o sentido do amor.",
+      "anchors": [
+        "CEC §2350",
+        "B07"
+      ],
+      "tags": [
+        "ternura",
+        "corpo"
+      ]
+    },
+    {
+      "id": "G08",
+      "column": "G",
+      "label": "Intimidade e exposição",
+      "definition": "A intimidade pede guarda e pudor; exposição transforma o que é delicado em objeto de consumo, pressão ou poder.",
+      "anchors": [
+        "B09",
+        "CEC §2520"
+      ],
+      "tags": [
+        "intimidade",
+        "pudor"
+      ]
+    },
+    {
+      "id": "G09",
+      "column": "G",
+      "label": "Perdão e retorno inseguro",
+      "definition": "Perdoar não obriga a voltar a uma relação perigosa, manipuladora ou sem mudança concreta.",
+      "anchors": [
+        "B13",
+        "O08"
+      ],
+      "tags": [
+        "perdão",
+        "segurança"
+      ]
+    },
+    {
+      "id": "G10",
+      "column": "G",
+      "label": "Espera e fuga",
+      "definition": "Esperar por maturidade é prudência; fugir sempre de compromisso sério pode ser imaturidade ou egoísmo.",
+      "anchors": [
+        "B02",
+        "B12"
+      ],
+      "tags": [
+        "espera",
+        "maturidade"
+      ]
+    },
+    {
+      "id": "G11",
+      "column": "G",
+      "label": "Namoro e casamento",
+      "definition": "Namoro discerne a possibilidade de uma aliança; casamento é compromisso público, definitivo e próprio da entrega conjugal.",
+      "anchors": [
+        "B02",
+        "B12",
+        "CEC §1601"
+      ],
+      "tags": [
+        "namoro",
+        "casamento"
+      ]
+    },
+    {
+      "id": "G12",
+      "column": "G",
+      "label": "Noivado e namoro",
+      "definition": "O noivado é passo público em direção ao matrimônio; não deve ser confundido com namoro indefinido ou improvisado.",
+      "anchors": [
+        "B12",
+        "CEC §2350"
+      ],
+      "tags": [
+        "noivado",
+        "compromisso"
+      ]
+    },
+    {
+      "id": "G13",
+      "column": "G",
+      "label": "Culpa e responsabilidade",
+      "definition": "Há diferença entre gravidade objetiva do ato e responsabilidade subjetiva da pessoa, sem negar a necessidade de conversão.",
+      "anchors": [
+        "CEC §2351",
+        "G01"
+      ],
+      "tags": [
+        "culpa",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "G14",
+      "column": "G",
+      "label": "Limite e rejeição",
+      "definition": "Pôr limite a uma conduta não é desprezar a pessoa; é proteger o bem e a verdade do amor.",
+      "anchors": [
+        "B05",
+        "G04"
+      ],
+      "tags": [
+        "limite",
+        "rejeição"
+      ]
+    },
+    {
+      "id": "G15",
+      "column": "G",
+      "label": "Oração e passividade",
+      "definition": "Rezar é indispensável, mas não substitui decisão concreta, limite, ajuda, confissão e mudança de hábitos.",
+      "anchors": [
+        "B14",
+        "O03"
+      ],
+      "tags": [
+        "oração",
+        "ação"
+      ]
+    },
+    {
+      "id": "O01",
+      "column": "O",
+      "label": "Definir limites",
+      "definition": "Conversar e estabelecer limites claros sobre intimidade, horários, ambientes, mensagens e atitudes antes da pressão chegar.",
+      "anchors": [
+        "B04",
+        "G05"
+      ],
+      "tags": [
+        "limites",
+        "prudência"
+      ]
+    },
+    {
+      "id": "O02",
+      "column": "O",
+      "label": "Conversa honesta",
+      "definition": "Falar com verdade sobre intenções, fé, dúvidas, feridas e expectativas, sem manipular nem esconder o essencial.",
+      "anchors": [
+        "B02",
+        "Mt 5,37"
+      ],
+      "tags": [
+        "verdade",
+        "diálogo"
+      ]
+    },
+    {
+      "id": "O03",
+      "column": "O",
+      "label": "Cortar ocasião",
+      "definition": "Afastar-se de ambientes, horários, conteúdos e conversas que tornam previsível a queda moral.",
+      "anchors": [
+        "Mt 5,27-30",
+        "B14"
+      ],
+      "tags": [
+        "ocasião",
+        "prudência"
+      ]
+    },
+    {
+      "id": "O04",
+      "column": "O",
+      "label": "Pedir ajuda madura",
+      "definition": "Procurar orientação de pais, responsáveis, diretor espiritual, sacerdote ou adulto prudente quando o namoro perde clareza.",
+      "anchors": [
+        "Pr 11,14",
+        "B10"
+      ],
+      "tags": [
+        "ajuda",
+        "orientação"
+      ]
+    },
+    {
+      "id": "O05",
+      "column": "O",
+      "label": "Rezar juntos",
+      "definition": "Colocar Deus no centro com oração simples, Palavra de Deus e vida sacramental, sem usar oração para encobrir desordem.",
+      "anchors": [
+        "B15",
+        "Tb 8,4-8"
+      ],
+      "tags": [
+        "oração",
+        "fé"
+      ]
+    },
+    {
+      "id": "O06",
+      "column": "O",
+      "label": "Guardar o corpo",
+      "definition": "Escolher gestos, ambientes e ritmos que respeitem o corpo como parte da vocação à santidade.",
+      "anchors": [
+        "B07",
+        "1Cor 6,19-20"
+      ],
+      "tags": [
+        "corpo",
+        "castidade"
+      ]
+    },
+    {
+      "id": "O07",
+      "column": "O",
+      "label": "Reparar exposição",
+      "definition": "Apagar, parar de repassar, pedir perdão e buscar ajuda quando a intimidade de alguém foi exposta ou ameaçada.",
+      "anchors": [
+        "G08",
+        "B11"
+      ],
+      "tags": [
+        "reparação",
+        "exposição"
+      ]
+    },
+    {
+      "id": "O08",
+      "column": "O",
+      "label": "Terminar com justiça",
+      "definition": "Encerrar um namoro sem humilhar, ameaçar, vingar-se ou manter falsas esperanças quando continuar seria errado.",
+      "anchors": [
+        "B13",
+        "G09"
+      ],
+      "tags": [
+        "término",
+        "justiça"
+      ]
+    },
+    {
+      "id": "O09",
+      "column": "O",
+      "label": "Acompanhar ferida",
+      "definition": "Acolher quem foi ferido com escuta, proteção, encaminhamento e verdade, sem curiosidade nem exposição.",
+      "anchors": [
+        "G04",
+        "B11"
+      ],
+      "tags": [
+        "acolhida",
+        "proteção"
+      ]
+    },
+    {
+      "id": "O10",
+      "column": "O",
+      "label": "Examinar o namoro",
+      "definition": "Avaliar periodicamente se o relacionamento aproxima de Deus, fortalece virtudes e respeita a liberdade de ambos.",
+      "anchors": [
+        "B02",
+        "B15"
+      ],
+      "tags": [
+        "exame",
+        "discernimento"
+      ]
+    },
+    {
+      "id": "O11",
+      "column": "O",
+      "label": "Procurar confissão",
+      "definition": "Quando houve pecado, buscar o sacramento da reconciliação com arrependimento, propósito concreto e confiança na graça.",
+      "anchors": [
+        "B14",
+        "Jo 20,22-23"
+      ],
+      "tags": [
+        "confissão",
+        "conversão"
+      ]
+    },
+    {
+      "id": "O12",
+      "column": "O",
+      "label": "Esperar com maturidade",
+      "definition": "Adiar namoro ou passos mais sérios quando falta idade, liberdade, estabilidade emocional ou clareza de projeto.",
+      "anchors": [
+        "G10",
+        "CEC §2342"
+      ],
+      "tags": [
+        "espera",
+        "maturidade"
+      ]
+    },
+    {
+      "id": "O13",
+      "column": "O",
+      "label": "Envolver a família",
+      "definition": "Não viver o namoro como ilha; abrir espaço para conhecimento, conselho e acompanhamento familiar proporcionais.",
+      "anchors": [
+        "I12",
+        "Pr 11,14"
+      ],
+      "tags": [
+        "família",
+        "conselho"
+      ]
+    },
+    {
+      "id": "O14",
+      "column": "O",
+      "label": "Formar o olhar",
+      "definition": "Cortar pornografia, curiosidade impura e consumo de imagens que deformam o modo de ver o corpo e o amor.",
+      "anchors": [
+        "B09",
+        "CEC §2520"
+      ],
+      "tags": [
+        "olhar",
+        "pureza"
+      ]
+    },
+    {
+      "id": "O15",
+      "column": "O",
+      "label": "Discernir vocação",
+      "definition": "Perguntar diante de Deus se o relacionamento ajuda a responder à própria vocação, não apenas ao desejo do momento.",
+      "anchors": [
+        "B01",
+        "B12"
+      ],
+      "tags": [
+        "vocação",
+        "discernimento"
+      ]
+    }
+  ]
+}

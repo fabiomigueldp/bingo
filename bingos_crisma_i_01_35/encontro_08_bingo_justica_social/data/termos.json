@@ -1,0 +1,1268 @@
+{
+  "title": "Bingo — Justiça social",
+  "meeting": "Encontro 08 — Justiça social",
+  "meeting_label": "Encontro 08",
+  "output_slug": "bingo_justica_social",
+  "core_message": "A justiça social nasce da dignidade dada por Deus a cada pessoa e se torna concreta em solidariedade, salário justo, defesa dos direitos e correção das desigualdades iníquas.",
+  "source_meeting_markdown": "projects/catequese/material_didatico/output/markdown/encontro_08.md",
+  "scripture": [
+    "Tg 5,1-6",
+    "Mt 25,31-46",
+    "Lc 10,25-37",
+    "Lv 19,13",
+    "Dt 24,14-15",
+    "Pr 31,8-9",
+    "Is 1,17",
+    "Am 5,24",
+    "At 2,44-45",
+    "1Jo 3,17"
+  ],
+  "catechism": [
+    "CEC 1928",
+    "CEC 1929",
+    "CEC 1930",
+    "CEC 1931",
+    "CEC 1938",
+    "CEC 1939",
+    "CEC 1940",
+    "CEC 1941",
+    "CEC 1869",
+    "CEC 2402-2406",
+    "CEC 2434",
+    "CEC 2443-2449"
+  ],
+  "card_model": {
+    "total_terms": 75,
+    "columns": 5,
+    "terms_per_column": 15,
+    "grid": "5x5",
+    "center": {
+      "label": "LIVRE / Tg 5,1-6",
+      "fixed": true,
+      "called": false
+    },
+    "recommended_win_condition": "duas_linhas"
+  },
+  "columns": [
+    {
+      "key": "B",
+      "title": "Base moral",
+      "function": "Fundamentos bíblicos e doutrinais para ler o tema.",
+      "short_function": "fundamento cristão do tema"
+    },
+    {
+      "key": "I",
+      "title": "Situações concretas",
+      "function": "Formas reais em que o tema aparece na vida concreta, em situações inteligíveis para a turma.",
+      "short_function": "situações concretas do tema"
+    },
+    {
+      "key": "N",
+      "title": "Narrativas falsas",
+      "function": "Desculpas, autoenganos e frases que desviam do bem.",
+      "short_function": "desculpas que normalizam o erro"
+    },
+    {
+      "key": "G",
+      "title": "Discernimentos",
+      "function": "Distinções morais que evitam respostas simplistas.",
+      "short_function": "distinções para discernir"
+    },
+    {
+      "key": "O",
+      "title": "Orientações de resposta",
+      "function": "Ações concretas, prudentes e proporcionais diante do problema.",
+      "short_function": "respostas proporcionais e prudentes"
+    }
+  ],
+  "terms": [
+    {
+      "id": "B01",
+      "column": "B",
+      "label": "Dignidade transcendente",
+      "definition": "A pessoa humana tem valor recebido de Deus, não depende de renda, força, utilidade, saúde, origem ou aprovação social.",
+      "anchors": [
+        "CEC 1929",
+        "Gn 1,27",
+        "Mt 25,40"
+      ],
+      "tags": [
+        "dignidade",
+        "pessoa",
+        "direitos"
+      ]
+    },
+    {
+      "id": "B02",
+      "column": "B",
+      "label": "Pessoa fim da sociedade",
+      "definition": "A sociedade existe para servir a pessoa e os grupos humanos, não para tratá-los como peça descartável de lucro, poder ou estatística.",
+      "anchors": [
+        "CEC 1929",
+        "Mt 20,25-28"
+      ],
+      "tags": [
+        "sociedade",
+        "bem comum",
+        "pessoa"
+      ]
+    },
+    {
+      "id": "B03",
+      "column": "B",
+      "label": "Bem comum",
+      "definition": "O bem comum reúne as condições sociais que permitem às pessoas e grupos alcançar dignamente sua vocação.",
+      "anchors": [
+        "CEC 1928",
+        "CEC 1906"
+      ],
+      "tags": [
+        "bem comum",
+        "sociedade",
+        "autoridade"
+      ]
+    },
+    {
+      "id": "B04",
+      "column": "B",
+      "label": "Direitos anteriores",
+      "definition": "Os direitos que brotam da dignidade humana são anteriores à decisão do Estado e dão limite moral às leis e autoridades.",
+      "anchors": [
+        "CEC 1930",
+        "Pr 31,8-9"
+      ],
+      "tags": [
+        "direitos",
+        "autoridade",
+        "dignidade"
+      ]
+    },
+    {
+      "id": "B05",
+      "column": "B",
+      "label": "Próximo como outro eu",
+      "definition": "A justiça cristã manda considerar a vida e os meios de sustento do outro com a seriedade com que se defenderia a própria vida.",
+      "anchors": [
+        "CEC 1931",
+        "Lc 10,25-37"
+      ],
+      "tags": [
+        "próximo",
+        "caridade",
+        "fraternidade"
+      ]
+    },
+    {
+      "id": "B06",
+      "column": "B",
+      "label": "Solidariedade cristã",
+      "definition": "Solidariedade é compromisso firme pelo bem do outro, especialmente dos frágeis, porque todos pertencem à mesma família humana redimida por Cristo.",
+      "anchors": [
+        "CEC 1939",
+        "CEC 1941",
+        "1Jo 3,17"
+      ],
+      "tags": [
+        "solidariedade",
+        "fraternidade",
+        "caridade social"
+      ]
+    },
+    {
+      "id": "B07",
+      "column": "B",
+      "label": "Salário que clama",
+      "definition": "O salário injusto ou retido não é detalhe administrativo; é pecado contra o trabalhador e sua família, ouvido por Deus.",
+      "anchors": [
+        "Tg 5,4",
+        "Lv 19,13",
+        "CEC 2434"
+      ],
+      "tags": [
+        "trabalho",
+        "salário",
+        "pecado"
+      ]
+    },
+    {
+      "id": "B08",
+      "column": "B",
+      "label": "Desigualdade iníqua",
+      "definition": "Nem toda diferença é injustiça, mas desigualdades excessivas que impedem vida digna contradizem o Evangelho e ferem a paz.",
+      "anchors": [
+        "CEC 1938",
+        "Am 5,24"
+      ],
+      "tags": [
+        "desigualdade",
+        "justiça",
+        "paz"
+      ]
+    },
+    {
+      "id": "B09",
+      "column": "B",
+      "label": "Caridade social",
+      "definition": "A caridade cristã também busca uma ordem social mais justa, e não apenas socorre casos isolados depois que o dano já ocorreu.",
+      "anchors": [
+        "CEC 1939",
+        "CEC 1940",
+        "Is 1,17"
+      ],
+      "tags": [
+        "caridade",
+        "ordem social",
+        "justiça"
+      ]
+    },
+    {
+      "id": "B10",
+      "column": "B",
+      "label": "Destino dos bens",
+      "definition": "Os bens da criação são destinados por Deus a todos; a propriedade privada é legítima, mas deve servir ao bem comum.",
+      "anchors": [
+        "CEC 2402-2406",
+        "At 2,44-45"
+      ],
+      "tags": [
+        "bens",
+        "propriedade",
+        "bem comum"
+      ]
+    },
+    {
+      "id": "B11",
+      "column": "B",
+      "label": "Opção pelos pobres",
+      "definition": "A Igreja reconhece nos pobres uma prioridade moral concreta, sem excluir ninguém, porque Cristo se identifica com os pequenos.",
+      "anchors": [
+        "CEC 2443-2449",
+        "Mt 25,31-46"
+      ],
+      "tags": [
+        "pobres",
+        "Cristo",
+        "prioridade moral"
+      ]
+    },
+    {
+      "id": "B12",
+      "column": "B",
+      "label": "Pecado social",
+      "definition": "O pecado pode marcar costumes, estruturas e instituições quando escolhas pessoais repetidas produzem situações injustas e duradouras.",
+      "anchors": [
+        "CEC 1869",
+        "Tg 5,1-6"
+      ],
+      "tags": [
+        "pecado",
+        "estrutura",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "B13",
+      "column": "B",
+      "label": "Paz com justiça",
+      "definition": "A paz verdadeira não é apenas ausência de conflito; ela exige condições justas, respeito à dignidade e resolução honesta das tensões.",
+      "anchors": [
+        "CEC 1938",
+        "CEC 1941",
+        "Is 32,17"
+      ],
+      "tags": [
+        "paz",
+        "justiça",
+        "reconciliação"
+      ]
+    },
+    {
+      "id": "B14",
+      "column": "B",
+      "label": "Autoridade como serviço",
+      "definition": "Toda autoridade tem legitimidade moral quando serve ao bem comum e respeita direitos, não quando se apoia apenas na força ou no favorecimento.",
+      "anchors": [
+        "CEC 1930",
+        "Mt 20,25-28"
+      ],
+      "tags": [
+        "autoridade",
+        "serviço",
+        "bem comum"
+      ]
+    },
+    {
+      "id": "B15",
+      "column": "B",
+      "label": "Conversão reparadora",
+      "definition": "A conversão cristã diante da injustiça não fica no arrependimento interior; ela busca reparar o dano possível e mudar práticas injustas.",
+      "anchors": [
+        "Lc 19,8",
+        "CEC 1931",
+        "Tg 5,4"
+      ],
+      "tags": [
+        "conversão",
+        "reparação",
+        "justiça"
+      ]
+    },
+    {
+      "id": "I01",
+      "column": "I",
+      "label": "Salário retido",
+      "definition": "Situação em que o trabalhador cumpre sua parte, mas o pagamento é atrasado, reduzido ou negado de modo injusto.",
+      "anchors": [
+        "Tg 5,4",
+        "Lv 19,13",
+        "B07"
+      ],
+      "tags": [
+        "trabalho",
+        "salário",
+        "exploração"
+      ]
+    },
+    {
+      "id": "I02",
+      "column": "I",
+      "label": "Trabalho infantil",
+      "definition": "Uso de crianças em trabalho que rouba estudo, descanso, saúde e desenvolvimento, muitas vezes escondido pela necessidade da família.",
+      "anchors": [
+        "Mt 18,6",
+        "CEC 1931",
+        "B11"
+      ],
+      "tags": [
+        "infância",
+        "trabalho",
+        "proteção"
+      ]
+    },
+    {
+      "id": "I03",
+      "column": "I",
+      "label": "Moradia insalubre",
+      "definition": "Habitação sem segurança, saneamento, ventilação ou espaço mínimo, que adoece famílias e impede vida digna.",
+      "anchors": [
+        "CEC 1931",
+        "CEC 1938",
+        "B08"
+      ],
+      "tags": [
+        "moradia",
+        "dignidade",
+        "saúde"
+      ]
+    },
+    {
+      "id": "I04",
+      "column": "I",
+      "label": "Saúde desigual",
+      "definition": "Acesso a tratamento, remédio ou atendimento definido mais pelo dinheiro e influência do que pela necessidade real da pessoa.",
+      "anchors": [
+        "CEC 1930",
+        "Mt 25,36",
+        "B04"
+      ],
+      "tags": [
+        "saúde",
+        "direitos",
+        "dignidade"
+      ]
+    },
+    {
+      "id": "I05",
+      "column": "I",
+      "label": "Educação negada",
+      "definition": "Falta de escola, transporte, professor ou condições mínimas que impede pessoas pobres de desenvolver suas capacidades.",
+      "anchors": [
+        "CEC 1928",
+        "CEC 1938",
+        "B03"
+      ],
+      "tags": [
+        "educação",
+        "oportunidade",
+        "desigualdade"
+      ]
+    },
+    {
+      "id": "I06",
+      "column": "I",
+      "label": "Contratação discriminatória",
+      "definition": "Recusa de trabalho por endereço, cor, deficiência, origem, idade ou condição social, mesmo quando a pessoa é capaz para a função.",
+      "anchors": [
+        "CEC 1930",
+        "CEC 1931",
+        "B01"
+      ],
+      "tags": [
+        "trabalho",
+        "discriminação",
+        "dignidade"
+      ]
+    },
+    {
+      "id": "I07",
+      "column": "I",
+      "label": "Transporte indigno",
+      "definition": "Serviço de transporte tratado como favor barato aos pobres, apesar de comprometer saúde, trabalho, estudo e segurança.",
+      "anchors": [
+        "CEC 1928",
+        "CEC 1931",
+        "B03"
+      ],
+      "tags": [
+        "transporte",
+        "cidade",
+        "bem comum"
+      ]
+    },
+    {
+      "id": "I08",
+      "column": "I",
+      "label": "Dívida abusiva",
+      "definition": "Crédito oferecido a quem está vulnerável com juros, multas e condições que prendem a pessoa em dependência crescente.",
+      "anchors": [
+        "Pr 22,22-23",
+        "CEC 2409",
+        "B05"
+      ],
+      "tags": [
+        "dinheiro",
+        "exploração",
+        "vulnerabilidade"
+      ]
+    },
+    {
+      "id": "I09",
+      "column": "I",
+      "label": "Lucro sobre vício",
+      "definition": "Negócio que cresce explorando dependência, desespero ou fraqueza moral de pessoas vulneráveis.",
+      "anchors": [
+        "CEC 1929",
+        "CEC 2409",
+        "B02"
+      ],
+      "tags": [
+        "lucro",
+        "vício",
+        "exploração"
+      ]
+    },
+    {
+      "id": "I10",
+      "column": "I",
+      "label": "Despejo sem amparo",
+      "definition": "Retirada de famílias de moradia precária sem escuta, prazo, alternativa mínima ou cuidado com crianças, idosos e doentes.",
+      "anchors": [
+        "CEC 1931",
+        "Pr 31,8-9",
+        "B05"
+      ],
+      "tags": [
+        "moradia",
+        "vulneráveis",
+        "direitos"
+      ]
+    },
+    {
+      "id": "I11",
+      "column": "I",
+      "label": "Terceirização exploratória",
+      "definition": "Uso de contratos indiretos para reduzir responsabilidade, pagar menos, negar descanso ou dificultar defesa dos trabalhadores.",
+      "anchors": [
+        "Tg 5,4",
+        "CEC 2434",
+        "B07"
+      ],
+      "tags": [
+        "trabalho",
+        "contrato",
+        "exploração"
+      ]
+    },
+    {
+      "id": "I12",
+      "column": "I",
+      "label": "Corrupção no serviço",
+      "definition": "Desvio, propina ou favorecimento que rouba recursos públicos e transforma direito dos pobres em favor negociado.",
+      "anchors": [
+        "CEC 1930",
+        "Ex 23,8",
+        "B14"
+      ],
+      "tags": [
+        "corrupção",
+        "serviço público",
+        "autoridade"
+      ]
+    },
+    {
+      "id": "I13",
+      "column": "I",
+      "label": "Compra por necessidade",
+      "definition": "Aproveitar o aperto de alguém para comprar bem essencial por valor humilhante ou impor condição injusta.",
+      "anchors": [
+        "Pr 22,22-23",
+        "CEC 1931",
+        "B05"
+      ],
+      "tags": [
+        "necessidade",
+        "dinheiro",
+        "abuso"
+      ]
+    },
+    {
+      "id": "I14",
+      "column": "I",
+      "label": "Descarte do idoso",
+      "definition": "Abandono de pessoas idosas quando deixam de produzir, consumir ou atender às conveniências da família e da sociedade.",
+      "anchors": [
+        "Lv 19,32",
+        "CEC 1931",
+        "B01"
+      ],
+      "tags": [
+        "idosos",
+        "abandono",
+        "dignidade"
+      ]
+    },
+    {
+      "id": "I15",
+      "column": "I",
+      "label": "Lixo na periferia",
+      "definition": "Concentrar aterros, esgoto, poluição e risco ambiental onde vivem pessoas com menor poder de defesa pública.",
+      "anchors": [
+        "CEC 1938",
+        "Gn 2,15",
+        "B08"
+      ],
+      "tags": [
+        "ambiente",
+        "periferia",
+        "injustiça"
+      ]
+    },
+    {
+      "id": "N01",
+      "column": "N",
+      "label": "Meritocracia cega",
+      "definition": "Narrativa que atribui todo resultado apenas ao esforço individual e apaga desigualdades reais de ponto de partida, direito e oportunidade.",
+      "anchors": [
+        "CEC 1938",
+        "B08",
+        "I05"
+      ],
+      "tags": [
+        "autoengano",
+        "desigualdade",
+        "mérito"
+      ]
+    },
+    {
+      "id": "N02",
+      "column": "N",
+      "label": "Culpa total do pobre",
+      "definition": "Desculpa que transforma toda pobreza em falha moral individual, ignorando injustiças, exploração, doença, abandono e falta de oportunidades.",
+      "anchors": [
+        "CEC 1931",
+        "Lc 10,25-37",
+        "B05"
+      ],
+      "tags": [
+        "culpa",
+        "pobreza",
+        "desculpa"
+      ]
+    },
+    {
+      "id": "N03",
+      "column": "N",
+      "label": "Riqueza sem dever",
+      "definition": "Engano que trata posse e renda como licença para ignorar o bem comum, os trabalhadores e os pobres.",
+      "anchors": [
+        "Tg 5,1-6",
+        "CEC 2402-2406",
+        "B10"
+      ],
+      "tags": [
+        "riqueza",
+        "responsabilidade",
+        "bem comum"
+      ]
+    },
+    {
+      "id": "N04",
+      "column": "N",
+      "label": "Caridade como sobra",
+      "definition": "Narrativa que reduz a caridade ao resto que não custa nada, enquanto preserva intactas práticas injustas.",
+      "anchors": [
+        "1Jo 3,17",
+        "CEC 1939",
+        "B09"
+      ],
+      "tags": [
+        "caridade",
+        "sobra",
+        "omissão"
+      ]
+    },
+    {
+      "id": "N05",
+      "column": "N",
+      "label": "Lei basta",
+      "definition": "Desculpa que confunde legalidade com justiça e dispensa a consciência moral diante de direitos violados.",
+      "anchors": [
+        "CEC 1930",
+        "At 5,29",
+        "B04"
+      ],
+      "tags": [
+        "lei",
+        "consciência",
+        "justiça"
+      ]
+    },
+    {
+      "id": "N06",
+      "column": "N",
+      "label": "Ideologia para calar",
+      "definition": "Estratégia de chamar toda denúncia social de ideologia para evitar exame moral de fatos concretos.",
+      "anchors": [
+        "Pr 31,8-9",
+        "CEC 1938",
+        "B08"
+      ],
+      "tags": [
+        "silenciamento",
+        "denúncia",
+        "justiça"
+      ]
+    },
+    {
+      "id": "N07",
+      "column": "N",
+      "label": "Mercado sem moral",
+      "definition": "Narrativa que trata contratos, preços e lucro como moralmente neutros, mesmo quando exploram necessidade e fragilidade.",
+      "anchors": [
+        "CEC 2409",
+        "CEC 2434",
+        "B07"
+      ],
+      "tags": [
+        "mercado",
+        "moral",
+        "exploração"
+      ]
+    },
+    {
+      "id": "N08",
+      "column": "N",
+      "label": "Estado salvador",
+      "definition": "Engano que joga toda responsabilidade social em uma autoridade central e dispensa família, comunidade, empresas e cidadãos de agir.",
+      "anchors": [
+        "CEC 1883",
+        "CEC 1941",
+        "B06"
+      ],
+      "tags": [
+        "estado",
+        "responsabilidade",
+        "solidariedade"
+      ]
+    },
+    {
+      "id": "N09",
+      "column": "N",
+      "label": "Piedade sem justiça",
+      "definition": "Autoengano religioso que multiplica palavras de fé enquanto aceita exploração, indiferença e dano concreto ao próximo.",
+      "anchors": [
+        "Tg 5,4",
+        "Is 1,17",
+        "B15"
+      ],
+      "tags": [
+        "fé",
+        "justiça",
+        "coerência"
+      ]
+    },
+    {
+      "id": "N10",
+      "column": "N",
+      "label": "Neutralidade confortável",
+      "definition": "Desculpa de quem se declara neutro para não se comprometer quando a omissão favorece o mais forte.",
+      "anchors": [
+        "Lc 10,31-32",
+        "CEC 1931",
+        "B05"
+      ],
+      "tags": [
+        "omissão",
+        "neutralidade",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "N11",
+      "column": "N",
+      "label": "Assistência que domina",
+      "definition": "Ajuda que cria dependência, exposição ou controle sobre o necessitado, em vez de respeitar sua dignidade e liberdade.",
+      "anchors": [
+        "CEC 1929",
+        "CEC 1931",
+        "B01"
+      ],
+      "tags": [
+        "assistência",
+        "dominação",
+        "dignidade"
+      ]
+    },
+    {
+      "id": "N12",
+      "column": "N",
+      "label": "Inveja travestida",
+      "definition": "Falsa justiça que transforma ressentimento em critério moral e trata todo rico como inimigo a ser vencido.",
+      "anchors": [
+        "Ex 20,17",
+        "CEC 2539",
+        "G01"
+      ],
+      "tags": [
+        "inveja",
+        "vingança",
+        "discernimento"
+      ]
+    },
+    {
+      "id": "N13",
+      "column": "N",
+      "label": "Pobreza romantizada",
+      "definition": "Narrativa que chama privação de simplicidade bonita e esconde fome, insegurança, doença e falta de direitos.",
+      "anchors": [
+        "CEC 1938",
+        "Mt 25,35-36",
+        "B11"
+      ],
+      "tags": [
+        "pobreza",
+        "romantização",
+        "dignidade"
+      ]
+    },
+    {
+      "id": "N14",
+      "column": "N",
+      "label": "Urgência seletiva",
+      "definition": "Desvio que só se escandaliza quando a injustiça atinge os próprios interesses, ignorando sofrimentos distantes ou sem prestígio.",
+      "anchors": [
+        "Lc 10,25-37",
+        "CEC 1931",
+        "B06"
+      ],
+      "tags": [
+        "indiferença",
+        "seletividade",
+        "próximo"
+      ]
+    },
+    {
+      "id": "N15",
+      "column": "N",
+      "label": "Jeitinho necessário",
+      "definition": "Desculpa que normaliza propina, favor indevido e fraude como se a injustiça do sistema autorizasse nova injustiça.",
+      "anchors": [
+        "Ex 23,8",
+        "CEC 2409",
+        "I12"
+      ],
+      "tags": [
+        "corrupção",
+        "fraude",
+        "desculpa"
+      ]
+    },
+    {
+      "id": "G01",
+      "column": "G",
+      "label": "Justiça ou vingança",
+      "definition": "Discernimento entre buscar reparação justa e usar a dor causada pela injustiça para humilhar, destruir ou desumanizar alguém.",
+      "anchors": [
+        "Rm 12,19",
+        "CEC 1931",
+        "N12"
+      ],
+      "tags": [
+        "justiça",
+        "vingança",
+        "reparação"
+      ]
+    },
+    {
+      "id": "G02",
+      "column": "G",
+      "label": "Diferença ou injustiça",
+      "definition": "Distinção entre diferenças naturais ou legítimas e desigualdades iníquas que negam condições básicas de vida digna.",
+      "anchors": [
+        "CEC 1938",
+        "B08"
+      ],
+      "tags": [
+        "desigualdade",
+        "discernimento",
+        "equidade"
+      ]
+    },
+    {
+      "id": "G03",
+      "column": "G",
+      "label": "Pessoa ou classe",
+      "definition": "Discernimento que impede julgar a pessoa inteira apenas por classe social, renda, cargo ou grupo a que pertence.",
+      "anchors": [
+        "CEC 1929",
+        "Tg 2,1-4",
+        "B01"
+      ],
+      "tags": [
+        "pessoa",
+        "classe",
+        "julgamento"
+      ]
+    },
+    {
+      "id": "G04",
+      "column": "G",
+      "label": "Caridade ou assistencialismo",
+      "definition": "Distinção entre ajuda que respeita e promove a pessoa e ajuda que apenas alivia a culpa, expõe ou mantém dependência.",
+      "anchors": [
+        "CEC 1939",
+        "CEC 1940",
+        "N11"
+      ],
+      "tags": [
+        "caridade",
+        "assistencialismo",
+        "dignidade"
+      ]
+    },
+    {
+      "id": "G05",
+      "column": "G",
+      "label": "Solidariedade ou controle",
+      "definition": "Distinção entre comprometer-se com o bem do outro e tomar a vida dele como objeto de comando, tutela ou posse.",
+      "anchors": [
+        "CEC 1929",
+        "CEC 1939",
+        "B06"
+      ],
+      "tags": [
+        "solidariedade",
+        "controle",
+        "liberdade"
+      ]
+    },
+    {
+      "id": "G06",
+      "column": "G",
+      "label": "Direito ou privilégio",
+      "definition": "Discernimento entre aquilo que é devido à pessoa por dignidade e aquilo que é vantagem reservada a poucos por poder ou influência.",
+      "anchors": [
+        "CEC 1930",
+        "B04",
+        "I04"
+      ],
+      "tags": [
+        "direitos",
+        "privilégio",
+        "justiça"
+      ]
+    },
+    {
+      "id": "G07",
+      "column": "G",
+      "label": "Autoridade ou abuso",
+      "definition": "Distinção entre autoridade que ordena para o bem comum e poder usado para intimidar, favorecer, explorar ou silenciar.",
+      "anchors": [
+        "CEC 1930",
+        "Mt 20,25-28",
+        "B14"
+      ],
+      "tags": [
+        "autoridade",
+        "abuso",
+        "bem comum"
+      ]
+    },
+    {
+      "id": "G08",
+      "column": "G",
+      "label": "Prudência ou omissão",
+      "definition": "Discernimento entre agir com cuidado real diante de riscos e usar a prudência como máscara para covardia ou conveniência.",
+      "anchors": [
+        "Mt 10,16",
+        "Pr 31,8-9",
+        "N10"
+      ],
+      "tags": [
+        "prudência",
+        "omissão",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "G09",
+      "column": "G",
+      "label": "Culpa pessoal ou estrutural",
+      "definition": "Distinção entre responsabilidade moral de pessoas concretas e injustiças sustentadas por regras, costumes e sistemas que ultrapassam um indivíduo.",
+      "anchors": [
+        "CEC 1869",
+        "B12"
+      ],
+      "tags": [
+        "culpa",
+        "estrutura",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "G10",
+      "column": "G",
+      "label": "Propriedade ou idolatria",
+      "definition": "Discernimento entre uso legítimo dos bens e apego que transforma propriedade em absoluto contra o pobre e o bem comum.",
+      "anchors": [
+        "CEC 2402-2406",
+        "Lc 12,16-21",
+        "B10"
+      ],
+      "tags": [
+        "propriedade",
+        "idolatria",
+        "bens"
+      ]
+    },
+    {
+      "id": "G11",
+      "column": "G",
+      "label": "Trabalho ou exploração",
+      "definition": "Distinção entre trabalho exigente, digno e remunerado de forma justa e exploração que consome a pessoa como instrumento de lucro.",
+      "anchors": [
+        "CEC 2434",
+        "Tg 5,4",
+        "B07"
+      ],
+      "tags": [
+        "trabalho",
+        "exploração",
+        "salário"
+      ]
+    },
+    {
+      "id": "G12",
+      "column": "G",
+      "label": "Paz ou silêncio imposto",
+      "definition": "Discernimento entre paz fundada na justiça e silêncio produzido por medo, ameaça, dependência ou repressão.",
+      "anchors": [
+        "CEC 1938",
+        "CEC 1941",
+        "B13"
+      ],
+      "tags": [
+        "paz",
+        "silêncio",
+        "conflito"
+      ]
+    },
+    {
+      "id": "G13",
+      "column": "G",
+      "label": "Denúncia ou humilhação",
+      "definition": "Distinção entre revelar uma injustiça para proteger e corrigir e expor pessoas para linchar, ridicularizar ou destruir reputações.",
+      "anchors": [
+        "Pr 31,8-9",
+        "Mt 18,15-17",
+        "G01"
+      ],
+      "tags": [
+        "denúncia",
+        "humilhação",
+        "correção"
+      ]
+    },
+    {
+      "id": "G14",
+      "column": "G",
+      "label": "Subsidiariedade ou abandono",
+      "definition": "Distinção entre respeitar a ação de famílias, comunidades e associações e largar os frágeis sem apoio quando precisam de proteção maior.",
+      "anchors": [
+        "CEC 1883",
+        "CEC 1941",
+        "N08"
+      ],
+      "tags": [
+        "subsidiariedade",
+        "apoio",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "G15",
+      "column": "G",
+      "label": "Misericórdia ou permissividade",
+      "definition": "Discernimento entre acolher o pecador com esperança de conversão e banalizar o mal sem reparar, corrigir ou proteger vítimas.",
+      "anchors": [
+        "Jo 8,11",
+        "Lc 19,8",
+        "B15"
+      ],
+      "tags": [
+        "misericórdia",
+        "correção",
+        "reparação"
+      ]
+    },
+    {
+      "id": "O01",
+      "column": "O",
+      "label": "Pagar o devido",
+      "definition": "Cumprir concretamente obrigações de salário, dívida justa, contrato e reparação, sem atrasar o que sustenta a vida do outro.",
+      "anchors": [
+        "Tg 5,4",
+        "Lv 19,13",
+        "B07"
+      ],
+      "tags": [
+        "salário",
+        "dever",
+        "reparação"
+      ]
+    },
+    {
+      "id": "O02",
+      "column": "O",
+      "label": "Restituir dano",
+      "definition": "Devolver, compensar ou reparar de modo proporcional quando alguém ou uma instituição causou prejuízo injusto.",
+      "anchors": [
+        "Lc 19,8",
+        "B15"
+      ],
+      "tags": [
+        "restituição",
+        "dano",
+        "justiça"
+      ]
+    },
+    {
+      "id": "O03",
+      "column": "O",
+      "label": "Denunciar com prova",
+      "definition": "Apresentar fatos, documentos e testemunhos a instâncias responsáveis, evitando boato, linchamento e exposição inútil.",
+      "anchors": [
+        "Pr 31,8-9",
+        "Mt 18,15-17",
+        "G13"
+      ],
+      "tags": [
+        "denúncia",
+        "prova",
+        "prudência"
+      ]
+    },
+    {
+      "id": "O04",
+      "column": "O",
+      "label": "Proteger o vulnerável",
+      "definition": "Agir para tirar a pessoa frágil de risco imediato, acionar proteção adequada e impedir que o mais forte continue abusando.",
+      "anchors": [
+        "Pr 31,8-9",
+        "Mt 25,40",
+        "B11"
+      ],
+      "tags": [
+        "proteção",
+        "vulnerável",
+        "ação"
+      ]
+    },
+    {
+      "id": "O05",
+      "column": "O",
+      "label": "Revisar consumo",
+      "definition": "Examinar escolhas de compra, preço e conveniência quando elas sustentam exploração, vício, desperdício ou trabalho indigno.",
+      "anchors": [
+        "CEC 2402-2406",
+        "B10",
+        "I09"
+      ],
+      "tags": [
+        "consumo",
+        "responsabilidade",
+        "bens"
+      ]
+    },
+    {
+      "id": "O06",
+      "column": "O",
+      "label": "Partilhar com critério",
+      "definition": "Ajudar com bens, tempo ou dinheiro de modo responsável, sem humilhar, manipular ou alimentar dependências destrutivas.",
+      "anchors": [
+        "1Jo 3,17",
+        "CEC 1939",
+        "G04"
+      ],
+      "tags": [
+        "partilha",
+        "critério",
+        "caridade"
+      ]
+    },
+    {
+      "id": "O07",
+      "column": "O",
+      "label": "Apoiar mediação",
+      "definition": "Buscar diálogo orientado, negociação honesta ou mediação competente quando há conflito social sem solução imediata.",
+      "anchors": [
+        "CEC 1940",
+        "Mt 5,9",
+        "B13"
+      ],
+      "tags": [
+        "mediação",
+        "conflito",
+        "paz"
+      ]
+    },
+    {
+      "id": "O08",
+      "column": "O",
+      "label": "Cobrar autoridade",
+      "definition": "Exigir de forma ordenada que autoridades cumpram seu dever por meios lícitos, públicos e proporcionais.",
+      "anchors": [
+        "CEC 1930",
+        "Pr 31,8-9",
+        "B14"
+      ],
+      "tags": [
+        "autoridade",
+        "direitos",
+        "bem comum"
+      ]
+    },
+    {
+      "id": "O09",
+      "column": "O",
+      "label": "Escutar o atingido",
+      "definition": "Antes de decidir por alguém, ouvir quem sofre a injustiça, reconhecer sua experiência e evitar soluções impostas de fora.",
+      "anchors": [
+        "CEC 1931",
+        "Lc 10,33-34",
+        "G05"
+      ],
+      "tags": [
+        "escuta",
+        "dignidade",
+        "solidariedade"
+      ]
+    },
+    {
+      "id": "O10",
+      "column": "O",
+      "label": "Recusar vantagem injusta",
+      "definition": "Não aceitar benefício, desconto, cargo, favorecimento ou lucro quando ele depende de exploração, fraude ou prejuízo alheio.",
+      "anchors": [
+        "Ex 23,8",
+        "CEC 2409",
+        "N15"
+      ],
+      "tags": [
+        "corrupção",
+        "renúncia",
+        "justiça"
+      ]
+    },
+    {
+      "id": "O11",
+      "column": "O",
+      "label": "Formar consciência",
+      "definition": "Estudar, conversar, rezar e confrontar fatos com a fé para não repetir slogans, preconceitos ou desculpas confortáveis.",
+      "anchors": [
+        "Rm 12,2",
+        "CEC 1783",
+        "N06"
+      ],
+      "tags": [
+        "consciência",
+        "formação",
+        "discernimento"
+      ]
+    },
+    {
+      "id": "O12",
+      "column": "O",
+      "label": "Servir sem dominar",
+      "definition": "Prestar ajuda mantendo discrição, respeito e liberdade da pessoa assistida, sem transformá-la em vitrine ou dependente.",
+      "anchors": [
+        "Mt 6,3-4",
+        "CEC 1929",
+        "N11"
+      ],
+      "tags": [
+        "serviço",
+        "dignidade",
+        "humildade"
+      ]
+    },
+    {
+      "id": "O13",
+      "column": "O",
+      "label": "Acompanhar encaminhamento",
+      "definition": "Não apenas indicar ajuda; acompanhar a pessoa vulnerável até serviço, responsável ou proteção adequada quando ela não consegue sozinha.",
+      "anchors": [
+        "Lc 10,34-35",
+        "CEC 1931",
+        "O04"
+      ],
+      "tags": [
+        "acompanhamento",
+        "proteção",
+        "próximo"
+      ]
+    },
+    {
+      "id": "O14",
+      "column": "O",
+      "label": "Corrigir contrato",
+      "definition": "Rever cláusulas, prazos e condições que transferem risco injusto ao mais fraco ou escondem exploração atrás de formalidade legal.",
+      "anchors": [
+        "CEC 2434",
+        "Tg 5,4",
+        "G11"
+      ],
+      "tags": [
+        "contrato",
+        "trabalho",
+        "justiça"
+      ]
+    },
+    {
+      "id": "O15",
+      "column": "O",
+      "label": "Rezar e agir",
+      "definition": "Unir oração, exame de consciência e ação concreta, para que a fé não vire desculpa para passividade diante da injustiça.",
+      "anchors": [
+        "Tg 2,15-17",
+        "Is 1,17",
+        "N09"
+      ],
+      "tags": [
+        "oração",
+        "ação",
+        "coerência"
+      ]
+    }
+  ]
+}

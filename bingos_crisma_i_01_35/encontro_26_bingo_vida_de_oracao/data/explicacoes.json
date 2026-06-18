@@ -1,0 +1,308 @@
+{
+  "title": "Carta de explicações rápidas — Bingo Vida de Oração",
+  "meeting": "Encontro 26 — Vida de Oração",
+  "source_calls": "data/chamadas.json",
+  "purpose": "Explicações breves para o condutor usar durante a chamada de cada carta.",
+  "entries": [
+    {
+      "id": "B01",
+      "explanation": "A oração é **relação viva** com Deus, não enfeite religioso. Sinais externos podem ajudar, mas não substituem o coração que fala, escuta e se entrega. O critério é perguntar se Deus entra na vida real ou fica só na superfície."
+    },
+    {
+      "id": "B02",
+      "explanation": "A **humildade** é o chão da oração. Quem reza apenas para se defender ainda não se colocou diante de Deus com verdade. O publicano ensina que reconhecer a própria miséria abre caminho para a misericórdia."
+    },
+    {
+      "id": "B03",
+      "explanation": "Ser **mendigo de Deus** não é desprezar o esforço humano. É reconhecer que ninguém se salva sozinho nem sabe sempre o que convém pedir. A oração coloca inteligência, força e limites diante da graça."
+    },
+    {
+      "id": "B04",
+      "explanation": "Jesus é o **modelo do orante**. Ele servia multidões, mas se retirava para rezar. Quem trabalha, lidera ou ajuda precisa permanecer ligado à fonte, senão o serviço seca ou se desordena."
+    },
+    {
+      "id": "B05",
+      "explanation": "A oração cristã busca a **vontade do Pai**. Ela não serve para conseguir aprovação divina para uma injustiça já escolhida. Rezar de verdade inclui aceitar que Deus corrija desejos e planos."
+    },
+    {
+      "id": "B06",
+      "explanation": "A oração é **comunhão com Cristo**. Essa comunhão não é isolada, porque Cristo une a pessoa ao Pai, ao Espírito e ao seu Corpo, que é a Igreja. Vida interior verdadeira abre para sacramentos e caridade."
+    },
+    {
+      "id": "B07",
+      "explanation": "O **Espírito Santo** sustenta a oração quando faltam palavras. Há dores em que a pessoa não sabe formular o pedido. Mesmo assim, permanecer diante de Deus com fé já é oração real."
+    },
+    {
+      "id": "B08",
+      "explanation": "A Escritura deve ser **Palavra rezada**. A Bíblia não é arma de discussão nem frase para confirmar vontade própria. Deus fala quando lemos, e respondemos quando rezamos com obediência."
+    },
+    {
+      "id": "B09",
+      "explanation": "A **oração vocal** é verdadeira quando a pessoa assume as palavras com fé. Orações aprendidas, salmos e fórmulas da Igreja podem sustentar o coração. O problema não é repetir, mas repetir sem presença interior."
+    },
+    {
+      "id": "B10",
+      "explanation": "A **meditação cristã** deixa a Palavra iluminar a vida. Ela não é curiosidade religiosa nem pensamento solto. Meditar é perguntar diante de Deus que conversão concreta aquela Palavra pede."
+    },
+    {
+      "id": "B11",
+      "explanation": "A **contemplação** é silêncio amoroso diante de Deus. Não é fuga, vazio ou desligamento da realidade. É permanecer na presença do Deus vivo com o coração recolhido."
+    },
+    {
+      "id": "B12",
+      "explanation": "A **memória do coração** lembra Deus ao longo do dia. Ela impede que a fé fique trancada em momentos isolados. Essa lembrança não dispensa horários de oração, mas prolonga a oração na vida."
+    },
+    {
+      "id": "B13",
+      "explanation": "Os **ritmos de oração** sustentam a fidelidade. Manhã, noite, refeições, domingo e ano litúrgico educam o coração. Sem tempos concretos, a oração costuma depender de sobra e emoção."
+    },
+    {
+      "id": "B14",
+      "explanation": "**Oração e vida** são inseparáveis. Rezar enquanto se conserva injustiça é contradição séria. A oração verdadeira move a pessoa para caridade, reparação e coerência."
+    },
+    {
+      "id": "B15",
+      "explanation": "A **perseverança da fé** continua rezando quando a resposta demora. Ela não nega a dor nem transforma Deus em devedor. Perseverar é pedir, agir corretamente e confiar no Pai."
+    },
+    {
+      "id": "I01",
+      "explanation": "A **fama sem recolhimento** mostra a vida dominada por demanda e visibilidade. Até coisas boas podem sufocar a oração quando viram centro. Jesus ensina que recolher-se diante do Pai é parte da missão."
+    },
+    {
+      "id": "I02",
+      "explanation": "A **agenda sem Deus** revela prioridades reais. Nem toda vida corrida é desculpa, mas toda oração precisa de algum tempo escolhido. Quem nunca separa tempo para Deus acaba deixando a fé na sobra."
+    },
+    {
+      "id": "I03",
+      "explanation": "O **pedido no desespero** pode ser começo de volta a Deus. O erro é tratar Deus apenas como emergência. A crise deve abrir relação, escuta e conversão, não só uma negociação por alívio."
+    },
+    {
+      "id": "I04",
+      "explanation": "A **reza de aparência** usa Deus para construir imagem. Ela pode parecer piedosa, mas nasce da soberba e do desprezo. A oração verdadeira não exalta a própria justiça; pede misericórdia."
+    },
+    {
+      "id": "I05",
+      "explanation": "A **Bíblia sem escuta** usa a Palavra sem obedecer a Deus. A pessoa procura confirmação, não conversão. A leitura cristã da Escritura precisa ser acompanhada de oração."
+    },
+    {
+      "id": "I06",
+      "explanation": "O **domingo esvaziado** mostra uma fé sem ritmo visível. Quando a Eucaristia é sempre a primeira coisa cortada, algo está desordenado. Santificar o domingo educa o tempo para Deus."
+    },
+    {
+      "id": "I07",
+      "explanation": "A **decisão sem oração** deixa escolhas graves sob impulso, medo ou vantagem. Rezar não substitui pensar, consultar e avaliar. Mas coloca a decisão diante da vontade do Pai."
+    },
+    {
+      "id": "I08",
+      "explanation": "O **luto sem esperança** fecha a dor como se a morte tivesse a última palavra. A oração cristã não nega o sofrimento. Ela entrega a perda a Deus e sustenta a esperança na vida eterna."
+    },
+    {
+      "id": "I09",
+      "explanation": "A **culpa não confessada** divide o coração. A pessoa tenta rezar sem deixar Deus tocar o pecado e o dano causado. A oração humilde pede misericórdia, verdade e reparação."
+    },
+    {
+      "id": "I10",
+      "explanation": "O **cansaço espiritual** não deve ser confundido automaticamente com perda de fé. Há aridez, desgaste e desânimo. A resposta é retomar ritmos simples e perseverar, não abandonar Deus."
+    },
+    {
+      "id": "I11",
+      "explanation": "O **ativismo seco** faz muito, mas vai perdendo caridade. Obras boas sem oração podem virar irritação, controle e vaidade. A oração sustenta o serviço para que ele permaneça unido a Cristo."
+    },
+    {
+      "id": "I12",
+      "explanation": "O **silêncio evitado** revela fuga interior. Barulho constante pode impedir consciência, arrependimento e escuta de Deus. O recolhimento cristão cria espaço para a verdade."
+    },
+    {
+      "id": "I13",
+      "explanation": "A **família sem bênção** vive dores e refeições sem apresentar nada a Deus. Uma oração simples não resolve magicamente conflitos. Mas abre um começo humilde de gratidão, perdão e presença do Pai."
+    },
+    {
+      "id": "I14",
+      "explanation": "A **dor que insiste** exige perseverança séria. Quando uma injustiça ou aflição demora, surgem ódio e desistência. A oração mantém a fé acesa e sustenta a busca reta por justiça."
+    },
+    {
+      "id": "I15",
+      "explanation": "A **gratidão esquecida** recebe bens e segue como se tudo fosse mérito próprio. A oração educa a memória para reconhecer Deus e as pessoas que ajudaram. Gratidão cristã pede resposta concreta."
+    },
+    {
+      "id": "N01",
+      "explanation": "**Rezar é sentir** é uma narrativa enganosa. Sentimentos podem ajudar, mas não medem a presença de Deus. A fidelidade aparece quando a pessoa continua rezando também sem consolação."
+    },
+    {
+      "id": "N02",
+      "explanation": "**Só rezo quando preciso** reduz Deus a socorro de emergência. Pedir na crise é legítimo, mas não basta. A oração cristã é relação contínua com o Pai, não uso ocasional de Deus."
+    },
+    {
+      "id": "N03",
+      "explanation": "**Deus já sabe** é verdade usada como desculpa. A oração não serve para informar Deus. Ela abre o coração, ensina confiança e permite que a graça ordene a pessoa por dentro."
+    },
+    {
+      "id": "N04",
+      "explanation": "**Não tenho tempo** muitas vezes esconde prioridade. Há situações reais de sobrecarga, mas a oração precisa de decisão concreta. Quem escolhe tempo para tudo menos para Deus mostra uma ordem interior."
+    },
+    {
+      "id": "N05",
+      "explanation": "**Deus falhou** é conclusão precipitada diante da frustração. Deus não é medido por cumprir exatamente o que foi pedido. A fé persevera, mesmo quando não entende o tempo e o modo da resposta."
+    },
+    {
+      "id": "N06",
+      "explanation": "**Oração mágica** transforma fé em técnica de controle. Fórmulas, correntes e promessas automáticas distorcem a oração. O cristão pede com humildade e confiança, sem tentar manipular Deus."
+    },
+    {
+      "id": "N07",
+      "explanation": "**Piedade de vitrine** usa o sagrado para construir imagem. O problema não é todo testemunho público, mas a autopromoção religiosa. A oração verdadeira produz humildade e caridade escondida."
+    },
+    {
+      "id": "N08",
+      "explanation": "**Autossuficiência** chama dependência de Deus de fraqueza. O esforço humano tem valor, mas não substitui a graça. Rezar reconhece que a vida e a salvação não cabem nas próprias forças."
+    },
+    {
+      "id": "N09",
+      "explanation": "**Bíblia sem oração** usa a Palavra sem escutar Deus. Citar versículos não basta quando o coração permanece duro. A Escritura deve ser lida como lugar de encontro, correção e resposta."
+    },
+    {
+      "id": "N10",
+      "explanation": "**Fé sem prática** separa a oração da justiça. A pessoa pode parecer piedosa e ainda conservar mentira ou abuso. O Catecismo ensina que oração e vida cristã procedem do mesmo amor."
+    },
+    {
+      "id": "N11",
+      "explanation": "**Barulho necessário** é a desculpa de quem foge do recolhimento. Nem todo som é problema, mas ruído constante pode bloquear a consciência. A oração pede espaço real para silêncio e presença de Deus."
+    },
+    {
+      "id": "N12",
+      "explanation": "**Culpa paralisante** confunde arrependimento com fuga. O pecado deve ser nomeado com seriedade, mas a pessoa não deve se esconder de Deus. A contrição leva à misericórdia e ao recomeço."
+    },
+    {
+      "id": "N13",
+      "explanation": "**Oração opcional** empobrece a fé cristã. Sem oração, a moral tende a virar esforço isolado ou aparência correta. A vida do coração novo precisa de relação viva com Deus."
+    },
+    {
+      "id": "N14",
+      "explanation": "**Comparação religiosa** desvia o olhar de Deus para a inferioridade do outro. Mesmo práticas reais podem alimentar soberba. A oração humilde examina o próprio coração diante do Pai."
+    },
+    {
+      "id": "N15",
+      "explanation": "**Controle de Deus** transforma oração em barganha. A pessoa promete, cobra e se revolta quando Deus não obedece ao plano dela. A oração cristã pede e se entrega à vontade do Pai."
+    },
+    {
+      "id": "G01",
+      "explanation": "**Rezar ou repetir** é uma distinção necessária. A oração vocal é boa e pertence à tradição da Igreja. Ela se esvazia quando as palavras seguem sem atenção, fé e presença interior."
+    },
+    {
+      "id": "G02",
+      "explanation": "**Insistência** não é teimosia. Jesus ensina a pedir com perseverança, mas não a impor uma única saída a Deus. A fé insiste porque confia, não porque controla."
+    },
+    {
+      "id": "G03",
+      "explanation": "**Pedido** e **vontade do Pai** precisam caminhar juntos. O cristão pode pedir bens concretos. Mas deve deixar Deus purificar desejos, intenções e caminhos injustos."
+    },
+    {
+      "id": "G04",
+      "explanation": "**Silêncio** não é automaticamente oração. Pode ser recolhimento diante de Deus ou fuga da vida e da ajuda necessária. O critério é se ele abre para verdade, caridade e presença de Deus."
+    },
+    {
+      "id": "G05",
+      "explanation": "**Emoção** e fidelidade não são a mesma coisa. Consolações podem ser dons reais, mas passam. A oração madura permanece quando há aridez e pouca sensação."
+    },
+    {
+      "id": "G06",
+      "explanation": "**Humildade** aproxima de Deus; vergonha fechada afasta. Reconhecer a própria miséria é bom quando leva ao pedido de misericórdia. Não é humildade concluir que Deus não quer receber o pecador."
+    },
+    {
+      "id": "G07",
+      "explanation": "**Confiança** não é cobrança. Pedir um bem é legítimo, mas Deus não vira devedor por nossas práticas religiosas. A oração perseverante confia no Pai sem negociar com Ele."
+    },
+    {
+      "id": "G08",
+      "explanation": "**Interioridade** cristã não é isolamento. A oração pessoal é indispensável, mas cresce no Corpo de Cristo. Quem usa a fé privada para fugir da Igreja e da caridade está distorcendo a vida espiritual."
+    },
+    {
+      "id": "G09",
+      "explanation": "**Oração** não é passividade. Entregar uma situação a Deus não dispensa o bem concreto possível. Quando há alguém vulnerável, a caridade pede oração e providência responsável."
+    },
+    {
+      "id": "G10",
+      "explanation": "**Culpa** e contrição têm frutos diferentes. A culpa pode paralisar e fechar a pessoa em si mesma. A contrição reconhece o pecado, pede misericórdia e começa a reparar."
+    },
+    {
+      "id": "G11",
+      "explanation": "**Devoção** e superstição podem usar objetos parecidos. A devoção se dirige a Deus com fé e humildade. A superstição procura garantia automática e controle religioso."
+    },
+    {
+      "id": "G12",
+      "explanation": "**Rotina** não é inimiga da oração. Um ritmo fiel educa o coração. O problema é o mecanicismo, quando a prática perde atenção, intenção e conversão."
+    },
+    {
+      "id": "G13",
+      "explanation": "**Discrição** não é omissão. A fé não precisa ser exibida, mas também não deve ser escondida por vergonha quando a verdade pede palavra. O testemunho cristão deve ser sóbrio, prudente e corajoso."
+    },
+    {
+      "id": "G14",
+      "explanation": "**Comunidade** corrige o intimismo. A oração pessoal não substitui a Eucaristia, os sacramentos e a Igreja. A comunhão com Cristo é pessoal, mas nunca fechada em si mesma."
+    },
+    {
+      "id": "G15",
+      "explanation": "**Contemplação** cristã não é vazio sem rosto. Ela é silêncio diante do Deus vivo, em amor e verdade. O recolhimento guarda a Palavra e permanece em comunhão com Deus."
+    },
+    {
+      "id": "O01",
+      "explanation": "**Marcar horário de oração** transforma desejo em decisão. Não basta dizer que vai rezar mais. Um tempo simples, possível e protegido educa o coração para a fidelidade."
+    },
+    {
+      "id": "O02",
+      "explanation": "**Rezar antes de decidir** coloca escolhas reais diante de Deus. Isso não dispensa prudência, informação e conselho. A oração purifica intenções e pede liberdade para obedecer ao bem."
+    },
+    {
+      "id": "O03",
+      "explanation": "**Ler a Palavra rezando** une escuta e resposta. A Bíblia não é apenas informação religiosa. Quando a leitura vira oração, a pessoa pergunta que conversão Deus pede."
+    },
+    {
+      "id": "O04",
+      "explanation": "**Pedir com humildade** é apresentar necessidades reais sem arrogância. O cristão pede trabalho, cura, força e luz. Mas pede também os bens convenientes e se dispõe a agir corretamente."
+    },
+    {
+      "id": "O05",
+      "explanation": "**Perseverar sem esmorecer** é continuar com fé quando a solução demora. Não é negar o sofrimento nem aceitar injustiça passivamente. É rezar, agir retamente e não deixar o ódio governar."
+    },
+    {
+      "id": "O06",
+      "explanation": "**Examinar a consciência** é rever a vida diante de Deus. Não é obsessão com culpa, mas verdade sobre pensamentos, palavras, atos e omissões. O exame deve levar a pedido de perdão e passo concreto."
+    },
+    {
+      "id": "O07",
+      "explanation": "**Confessar e recomeçar** vence a vergonha que prende. O pecado precisa ser nomeado, não disfarçado. A misericórdia recebida pede propósito sério e medidas concretas de mudança."
+    },
+    {
+      "id": "O08",
+      "explanation": "**Santificar o domingo** ordena o tempo em torno de Deus. A Eucaristia, o descanso e a caridade dão forma cristã ao dia. Isso corrige a redução do domingo a consumo ou produtividade."
+    },
+    {
+      "id": "O09",
+      "explanation": "**Unir oração e obra** impede duas distorções. A piedade sem caridade fica estéril, e o ativismo sem oração seca. A oração verdadeira amadurece em serviço concreto e prudente."
+    },
+    {
+      "id": "O10",
+      "explanation": "**Cortar distrações** é uma renúncia prática. A oração precisa de condições reais, não apenas boa intenção. Governar telas, ruídos e fugas ajuda a guardar o coração diante de Deus."
+    },
+    {
+      "id": "O11",
+      "explanation": "**Pedir ajuda espiritual** pode ser ato de humildade. Ninguém aprende a rezar sozinho em todos os momentos. Orientação segura ajuda quando há confusão, escrúpulo, aridez ou feridas graves."
+    },
+    {
+      "id": "O12",
+      "explanation": "**Rezar em família** não exige casa perfeita. Uma oração simples pode abrir espaço para perdão, gratidão e presença de Deus. Ela não encobre responsabilidades; ajuda a enfrentá-las diante do Pai."
+    },
+    {
+      "id": "O13",
+      "explanation": "**Guardar silêncio real** exige decisão concreta. Não é apenas ficar sem som, mas permanecer diante de Deus sem fugir. Esse silêncio ajuda a escutar a Palavra e a própria consciência."
+    },
+    {
+      "id": "O14",
+      "explanation": "**Agradecer concretamente** dá forma à memória. A pessoa nomeia os dons recebidos e reconhece Deus. A gratidão madura se transforma em serviço, reparação e generosidade."
+    },
+    {
+      "id": "O15",
+      "explanation": "**Rezar pelo inimigo** não é aprovar a injustiça. É pedir a Deus justiça, conversão e liberdade interior. A resposta cristã busca verdade e reparação sem alimentar vingança."
+    }
+  ]
+}

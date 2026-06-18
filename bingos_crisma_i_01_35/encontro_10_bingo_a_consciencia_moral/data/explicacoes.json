@@ -1,0 +1,308 @@
+{
+  "title": "Carta de explicações rápidas — Bingo A consciência moral",
+  "meeting": "Encontro 10 — A consciência moral",
+  "source_calls": "data/chamadas.json",
+  "purpose": "Explicações breves para o condutor usar durante a chamada de cada carta.",
+  "entries": [
+    {
+      "id": "B01",
+      "explanation": "A consciência é o **sacrário** onde a pessoa se reconhece diante de Deus. Ela não é só medo, pressão ou emoção. Quando acusa uma injustiça real, pede obediência ao bem."
+    },
+    {
+      "id": "B02",
+      "explanation": "A consciência moral é **juízo da razão** sobre um ato concreto. Ela pergunta se aquilo que vou fazer é bom ou mau. Não basta sentir paz; é preciso julgar pela verdade."
+    },
+    {
+      "id": "B03",
+      "explanation": "A lei moral não nasce da vontade de cada um. A consciência reconhece uma **lei inscrita por Deus** que chama ao bem. Por isso, irritação, interesse ou simpatia não decidem sozinhos."
+    },
+    {
+      "id": "B04",
+      "explanation": "Quando a pessoa reconhece claramente o bem, deve segui-lo. Agir contra o **bem conhecido** é ferir a própria consciência. A pressão e o ganho não tornam justo o que se sabe ser errado."
+    },
+    {
+      "id": "B05",
+      "explanation": "A consciência precisa ser **formada**. Ela pode errar por costume, ignorância ou mau exemplo. A formação corrige o olhar e ajuda a julgar com verdade."
+    },
+    {
+      "id": "B06",
+      "explanation": "A Palavra de Deus é **luz** para a consciência. Ela corrige reações, desejos e justificativas. O cristão confronta suas decisões com Cristo, não apenas com a própria vontade."
+    },
+    {
+      "id": "B07",
+      "explanation": "O **Magistério da Igreja** ajuda a consciência a não virar julgamento isolado. A pessoa continua responsável, mas não caminha sem guia. A verdade recebida de Cristo educa o discernimento."
+    },
+    {
+      "id": "B08",
+      "explanation": "O **exame de consciência** olha atos, omissões e intenções diante de Deus. Ele não serve para culpa vaga, mas para conversão concreta. Quem examina bem aprende a reparar e mudar."
+    },
+    {
+      "id": "B09",
+      "explanation": "A caridade é critério decisivo da consciência cristã. A liberdade não pode virar tropeço para o irmão. Em 1Cor 8, Paulo mostra que o amor pode exigir renúncia."
+    },
+    {
+      "id": "B10",
+      "explanation": "A liberdade cristã é **responsável**. Ela busca o bem e considera os efeitos dos próprios atos. Não é licença para ferir, confundir ou escandalizar."
+    },
+    {
+      "id": "B11",
+      "explanation": "O **escândalo moral** acontece quando o exemplo leva outro ao mal. Não é apenas alguém ficar irritado ou discordar. O risco é enfraquecer a consciência do irmão."
+    },
+    {
+      "id": "B12",
+      "explanation": "Ferir o irmão não é dano neutro. Paulo ensina que pecar contra a consciência do irmão é pecar contra **Cristo**. A fé impede tratar pessoas frágeis como números ou obstáculos."
+    },
+    {
+      "id": "B13",
+      "explanation": "A **regra de ouro** pergunta como eu deveria agir se estivesse no lugar do outro. Ela desmascara vantagens injustas. Não é sentimentalismo; é critério moral concreto."
+    },
+    {
+      "id": "B14",
+      "explanation": "A virtude é um **hábito bom** e firme. Ela nasce de escolhas repetidas que educam a liberdade. Quanto mais se pratica o bem, mais a consciência fica forte para novas decisões."
+    },
+    {
+      "id": "B15",
+      "explanation": "A conversão precisa da **graça** de Deus. Reconhecer o pecado não basta sem mudança real. A graça perdoa, cura e sustenta passos concretos de verdade."
+    },
+    {
+      "id": "I01",
+      "explanation": "No contrato fraudado, o erro está em esconder dano real. A assinatura não é moralmente limpa quando a verdade foi manipulada. A consciência exige transparência e justiça."
+    },
+    {
+      "id": "I02",
+      "explanation": "Quem repassa humilhação coopera com o dano. Não ter gravado não torna o ato neutro. A caridade cristã corta a circulação do que fere a dignidade do outro."
+    },
+    {
+      "id": "I03",
+      "explanation": "O atestado falso transforma ajuda aparente em mentira. O documento declara uma doença inexistente e fere a confiança social. A consciência deve recusar essa cooperação."
+    },
+    {
+      "id": "I04",
+      "explanation": "O silêncio pode se tornar **omissão** quando alguém possui informação necessária para proteger a vítima. Prudência não é fugir de todo custo. A resposta deve ser segura, verdadeira e proporcional."
+    },
+    {
+      "id": "I05",
+      "explanation": "A propina normalizada mostra a força do costume corrupto. O fato de muitos fazerem não muda a qualidade moral do ato. A consciência cristã não chama injustiça de atalho."
+    },
+    {
+      "id": "I06",
+      "explanation": "O abandono de idoso fere uma pessoa vulnerável em necessidades básicas. Dificuldades reais podem existir, mas não autorizam negligência total. A caridade precisa virar cuidado organizado e possível."
+    },
+    {
+      "id": "I07",
+      "explanation": "Mentir no currículo é obter confiança por falsidade. A intenção de aprender depois não apaga a mentira atual. A consciência exige verdade antes da vantagem."
+    },
+    {
+      "id": "I08",
+      "explanation": "Na venda ao vulnerável, a assinatura pode esconder uma liberdade enfraquecida. Pressa, confusão e comissão tornam o caso moralmente grave. A resposta cristã protege quem não consegue avaliar bem."
+    },
+    {
+      "id": "I09",
+      "explanation": "Expor o doente pode transformar sofrimento em instrumento de comoção. Pedir oração não autoriza violar intimidade. A dignidade permanece também quando a pessoa está inconsciente ou frágil."
+    },
+    {
+      "id": "I10",
+      "explanation": "A nota fiscal comprada é fraude, mesmo quando recebe nome técnico. Necessidade econômica não autoriza documento falso. A consciência julga o meio usado, não só o resultado desejado."
+    },
+    {
+      "id": "I11",
+      "explanation": "Encobrir o vício por vergonha não é amor. A aparência preservada pode deixar a destruição crescer. Caridade verdadeira combina acolhida, limite e encaminhamento adequado."
+    },
+    {
+      "id": "I12",
+      "explanation": "O dano ambiental oculto transfere prejuízo a pessoas que não escolheram o risco. Esconder o ato mostra que a consciência já reconhece algo errado. Economia não justifica dano injusto."
+    },
+    {
+      "id": "I13",
+      "explanation": "A ordem injusta no trabalho testa a consciência. O superior pode pressionar, mas não transforma mentira em dever. A obediência profissional tem limite moral."
+    },
+    {
+      "id": "I14",
+      "explanation": "A relação manipuladora usa linguagem de amor para controlar. Cuidado verdadeiro não exige posse, senha ou isolamento. A consciência deve reconhecer sinais de abuso e buscar proteção."
+    },
+    {
+      "id": "I15",
+      "explanation": "O exemplo que derruba torna o mal mais aceitável para outros. A incoerência pública pode ferir a confiança na fé e no bem. Quem influencia precisa viver liberdade com caridade."
+    },
+    {
+      "id": "N01",
+      "explanation": "A **falsa autonomia** faz da própria vontade a medida de tudo. Mas a consciência não cria o bem e o mal. Liberdade sem Deus, próximo e verdade vira injustiça."
+    },
+    {
+      "id": "N02",
+      "explanation": "Reduzir consciência a sentimento é perigoso. Uma pessoa pode estar tranquila e ainda agir mal. O critério cristão é o **juízo da razão** formado pela verdade."
+    },
+    {
+      "id": "N03",
+      "explanation": "A frase todo mundo faz tenta normalizar o erro. O costume coletivo pode deformar a consciência. Cada pessoa continua responsável pelo mal que aceita praticar."
+    },
+    {
+      "id": "N04",
+      "explanation": "Um fim bom não purifica um meio mau. Mentir, fraudar ou ferir não se tornam santos por servirem a uma boa causa. O Catecismo ensina que nunca se deve praticar o mal para obter o bem."
+    },
+    {
+      "id": "N05",
+      "explanation": "Nem tudo que é legalmente possível é moralmente justo. A consciência pergunta pelo bem verdadeiro, não só pela brecha permitida. A lei civil importa, mas não substitui a lei moral."
+    },
+    {
+      "id": "N06",
+      "explanation": "A desculpa **só obedeci ordens** tenta apagar a responsabilidade pessoal. Autoridade legítima não pode exigir mentira ou injustiça. A consciência deve reconhecer o limite da obediência."
+    },
+    {
+      "id": "N07",
+      "explanation": "Ninguém estar vendo não muda a verdade do ato. A consciência está diante de Deus, não apenas diante de câmeras. O mal escondido continua ferindo a pessoa que o escolhe."
+    },
+    {
+      "id": "N08",
+      "explanation": "A **culpa diluída** aparece quando muitos participam do mesmo mal. A multidão não apaga a escolha pessoal. Cooperar pouco ainda pode aumentar muito o dano."
+    },
+    {
+      "id": "N09",
+      "explanation": "Liberdade sem caridade despreza a fragilidade concreta do irmão. Em 1Cor 8, Paulo renuncia ao que poderia fazer para não derrubar outro. A liberdade cristã serve ao amor."
+    },
+    {
+      "id": "N10",
+      "explanation": "Culpa sem reparação pode virar fuga. Sentir-se mal não devolve o que foi roubado nem restaura a confiança ferida. A conversão busca reparar o dano possível."
+    },
+    {
+      "id": "N11",
+      "explanation": "O relativismo cômodo nega a verdade quando ela custa caro. Dizer que tudo é ponto de vista pode proteger vantagem e pecado. A verdade liberta, mas também exige conversão."
+    },
+    {
+      "id": "N12",
+      "explanation": "O hábito errado não é identidade definitiva. Dizer eu sou assim pode ser desculpa para não mudar. A formação da consciência educa a pessoa para hábitos virtuosos."
+    },
+    {
+      "id": "N13",
+      "explanation": "Conhecimento sem amor pode ferir consciências frágeis. Saber mais não dá direito de desprezar quem ainda discerne com dificuldade. A caridade deve governar o uso da liberdade."
+    },
+    {
+      "id": "N14",
+      "explanation": "Chamar covardia de prudência é autoengano. Prudência procura o modo certo de agir, não uma desculpa para abandonar quem sofre. A omissão também pode ferir a consciência."
+    },
+    {
+      "id": "N15",
+      "explanation": "O erro já cometido não autoriza continuar errando. O desânimo pode virar cumplicidade com o pecado. A graça de Deus abre caminho de verdade, reparação e recomeço."
+    },
+    {
+      "id": "G01",
+      "explanation": "É preciso distinguir **pessoa e ato**. O ato pode ser gravemente mau e exigir consequência. A dignidade da pessoa permanece e torna possível chamar à conversão."
+    },
+    {
+      "id": "G02",
+      "explanation": "Consciência não é capricho nem interesse próprio com nome religioso. Ela precisa julgar o ato pela verdade. Invocar paz interior não basta quando há injustiça objetiva."
+    },
+    {
+      "id": "G03",
+      "explanation": "A consciência deve ser seguida, mas pode errar. Quando o erro aparece, deve ser corrigido. Fidelidade à consciência inclui abertura à verdade que a forma melhor."
+    },
+    {
+      "id": "G04",
+      "explanation": "A **ignorância vencível** é aquela que a pessoa poderia superar. Quando alguém evita saber para não mudar, a ignorância não é desculpa limpa. Formar a consciência é dever grave."
+    },
+    {
+      "id": "G05",
+      "explanation": "A **ignorância invencível** pode retirar culpa pessoal. Mesmo assim, o mal objetivo continua precisando ser corrigido. Não imputar culpa não significa chamar desordem de bem."
+    },
+    {
+      "id": "G06",
+      "explanation": "Culpa e imputabilidade não são a mesma coisa. Um ato pode ser errado, mas a responsabilidade subjetiva pode ser diminuída por medo, coação ou ignorância real. O discernimento cristão evita julgamento simplista."
+    },
+    {
+      "id": "G07",
+      "explanation": "Liberdade não é obedecer ao primeiro impulso. A pessoa livre julga, domina-se e escolhe o bem. Paixão e raiva podem explicar uma reação, mas não a tornam justa."
+    },
+    {
+      "id": "G08",
+      "explanation": "Nem tudo que é lícito em tese convém em uma situação concreta. A caridade olha pessoas, efeitos e fragilidades reais. Esse é um ponto central de 1Cor 8."
+    },
+    {
+      "id": "G09",
+      "explanation": "Escândalo moral não é o mesmo que discordância. Às vezes o bem incomoda quem prefere o erro. Escandalizar é levar ao mal, não simplesmente desagradar por agir retamente."
+    },
+    {
+      "id": "G10",
+      "explanation": "Caridade não é conivência. Amar alguém não significa deixar o mal continuar sem limite. A caridade une paciência, verdade e proteção concreta."
+    },
+    {
+      "id": "G11",
+      "explanation": "Prudência não é omissão confortável. Ela procura o modo certo, o tempo certo e a proteção necessária para agir. Quando sabe o bem possível e foge dele, a pessoa fere a consciência."
+    },
+    {
+      "id": "G12",
+      "explanation": "A verdade deve servir à correção e ao bem. Quando é usada para humilhar, perde a caridade e pode virar violência moral. Falar a verdade exige modo justo."
+    },
+    {
+      "id": "G13",
+      "explanation": "Reparação não é vingança. A resposta justa procura restaurar o que foi ferido e impedir novo dano. Punição sem justiça pode apenas multiplicar a ferida."
+    },
+    {
+      "id": "G14",
+      "explanation": "Autoridade legítima serve ao bem. Quando usa medo, ameaça ou exploração, torna-se abuso. A consciência não deve obedecer cegamente ao que manda praticar o mal."
+    },
+    {
+      "id": "G15",
+      "explanation": "Misericórdia não banaliza o pecado. O perdão cristão chama à verdade, à reparação e à conversão. Tratar o mal como irrelevante não cura a vítima nem quem errou."
+    },
+    {
+      "id": "O01",
+      "explanation": "Parar antes do ato pode salvar a consciência de uma queda. A pausa abre espaço para a razão julgar intenção, meio e consequência. Nem toda reação sincera é uma ação justa."
+    },
+    {
+      "id": "O02",
+      "explanation": "Formar a consciência exige meios concretos. Palavra de Deus, Igreja, oração, conselho e virtude educam o juízo moral. Boa intenção sem formação pode errar gravemente."
+    },
+    {
+      "id": "O03",
+      "explanation": "Examinar o dia ajuda a sair da culpa vaga. A pessoa nomeia atos, omissões e intenções diante de Deus. Assim a consciência aponta reparação e mudança real."
+    },
+    {
+      "id": "O04",
+      "explanation": "Buscar bom conselho é ato de humildade e prudência. Decisões graves não devem ser tomadas só por medo, interesse ou confusão. Conselho bom aproxima da verdade e da responsabilidade."
+    },
+    {
+      "id": "O05",
+      "explanation": "Confrontar a decisão com a Palavra impede justificar o próprio desejo como se fosse vontade de Deus. A Escritura ilumina intenção e caminho. A Cruz corrige vingança, orgulho e mentira."
+    },
+    {
+      "id": "O06",
+      "explanation": "Recusar ordem injusta é obedecer primeiro ao bem. A autoridade não pode exigir fraude, mentira ou abuso. A recusa deve ser firme, prudente e acompanhada de meios responsáveis."
+    },
+    {
+      "id": "O07",
+      "explanation": "Reparar o dano é conversão concreta. Não basta dizer que errou quando a vítima continua prejudicada. A consciência busca restaurar verdade, bens, honra e confiança tanto quanto possível."
+    },
+    {
+      "id": "O08",
+      "explanation": "Confessar o pecado é entrar na verdade diante de Deus. Esconder a falta endurece a consciência. A graça perdoa e chama a abandonar desculpas."
+    },
+    {
+      "id": "O09",
+      "explanation": "Pedir perdão direto exige nomear a ofensa. Desculpas vagas protegem o orgulho e confundem a vítima. A palavra humilde abre caminho para reparação e reconciliação possível."
+    },
+    {
+      "id": "O10",
+      "explanation": "Cortar a ocasião é realismo espiritual. Quem cai repetidamente precisa mudar ambiente, acesso e rotina. A virtude se fortalece quando a pessoa deixa de alimentar a própria fraqueza."
+    },
+    {
+      "id": "O11",
+      "explanation": "Proteger o vulnerável é exigência da caridade e da justiça. A pessoa frágil não deve ser explorada em sua confusão ou dependência. A proteção deve ser proporcional e respeitar sua dignidade."
+    },
+    {
+      "id": "O12",
+      "explanation": "Renunciar por caridade é usar a liberdade como serviço. Algo lícito pode não convir diante da fragilidade do irmão. Em 1Cor 8, Paulo prefere abrir mão a causar queda."
+    },
+    {
+      "id": "O13",
+      "explanation": "Comunicar com verdade exige fatos, precisão e caridade. A denúncia do mal não autoriza mentira, exagero ou humilhação. A consciência fala para corrigir e proteger, não para destruir."
+    },
+    {
+      "id": "O14",
+      "explanation": "Assumir consequência mostra fidelidade ao bem conhecido. A fuga pode parecer fácil, mas enfraquece a consciência. Responsabilidade concreta repara o dano e educa a liberdade."
+    },
+    {
+      "id": "O15",
+      "explanation": "Sustentar hábito virtuoso é preparar a liberdade para o bem. Rotinas justas reduzem ocasiões de fraude, mentira e descuido. A consciência se fortalece por escolhas repetidas e verificáveis."
+    }
+  ]
+}

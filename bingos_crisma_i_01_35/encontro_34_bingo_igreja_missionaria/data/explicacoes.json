@@ -1,0 +1,308 @@
+{
+  "title": "Carta de explicações rápidas — Bingo Igreja missionária",
+  "meeting": "Encontro 34 — Igreja missionária",
+  "source_calls": "data/chamadas.json",
+  "purpose": "Explicações breves para o condutor usar durante a chamada de cada carta.",
+  "entries": [
+    {
+      "id": "B01",
+      "explanation": "Cristo ressuscitado não deixou à Igreja uma sugestão vaga, mas um **mandato missionário**. Ir, ensinar, batizar e formar discípulos pertencem à identidade da Igreja. A missão deve obedecer a Cristo, não ao gosto do momento."
+    },
+    {
+      "id": "B02",
+      "explanation": "A Igreja não é uma associação fechada para cuidar apenas dos seus. Ela é **enviada** por Cristo ao mundo. Uma comunidade organizada, mas sem saída missionária, precisa rever sua fidelidade ao Evangelho."
+    },
+    {
+      "id": "B03",
+      "explanation": "O Evangelho não é opinião privada nem enfeite religioso. Ele é **verdade salvadora** confiada à Igreja. Por isso deve ser anunciado com humildade, clareza e responsabilidade."
+    },
+    {
+      "id": "B04",
+      "explanation": "A missão nasce do **amor de Cristo**, não de vaidade nem de disputa. Quem evangeliza procura pessoas porque Cristo as ama. Esse amor dá força quando faltam aplausos ou reconhecimento."
+    },
+    {
+      "id": "B05",
+      "explanation": "Deus quer que todos cheguem à **salvação** e ao conhecimento da verdade. Por isso a Igreja não pode ser indiferente a quem não recebeu o Evangelho. A missão é universal porque o amor de Deus é universal."
+    },
+    {
+      "id": "B06",
+      "explanation": "A **catolicidade** da Igreja significa envio a todos os povos, não domínio de uma cultura sobre outra. A fé não pertence a um grupo local. Ela acolhe povos diversos na mesma verdade de Cristo."
+    },
+    {
+      "id": "B07",
+      "explanation": "A Igreja é **sinal e instrumento** da salvação de Deus. Suas obras não são apenas serviços úteis. Elas devem tornar visível a caridade de Cristo e apontar para a salvação integral."
+    },
+    {
+      "id": "B08",
+      "explanation": "O **testemunho de vida** dá credibilidade ao anúncio. A incoerência grave não destrói a verdade do Evangelho, mas escurece a sua recepção. Quem evangeliza precisa buscar conversão concreta."
+    },
+    {
+      "id": "B09",
+      "explanation": "A missão conduz à **Palavra e aos sacramentos**. A caridade concreta é necessária, mas não substitui Batismo, Eucaristia, oração e discipulado. O bem cristão é integral."
+    },
+    {
+      "id": "B10",
+      "explanation": "O **Batismo trinitário** não é costume social nem fotografia de família. Ele insere a pessoa na vida de Deus e na comunhão da Igreja. Por isso pede fé, formação e compromisso real."
+    },
+    {
+      "id": "B11",
+      "explanation": "Discipulado não é apenas gostar de Jesus. O **discípulo obediente** aprende a viver o que Cristo mandou. A missão deve formar pessoas para conversão concreta, não apenas para entusiasmo religioso."
+    },
+    {
+      "id": "B12",
+      "explanation": "Cristo prometeu permanecer com seus enviados todos os dias. A **presença de Cristo** sustenta a missão quando há rejeição, cansaço ou medo. O missionário não caminha apoiado só em sua força."
+    },
+    {
+      "id": "B13",
+      "explanation": "O **Espírito Santo** é quem dá força ao testemunho. Preparação humana é necessária, mas não substitui oração e docilidade à graça. Missão sem Espírito vira técnica religiosa."
+    },
+    {
+      "id": "B14",
+      "explanation": "A **caridade missionária** busca o bem integral da pessoa. Ela não separa corpo, alma, verdade, dignidade e salvação. Servir cristãmente é cuidar sem reduzir ninguém a problema ou número."
+    },
+    {
+      "id": "B15",
+      "explanation": "Quem anuncia também precisa ser evangelizado. A **conversão contínua** impede que a missão vire soberba religiosa. O missionário verdadeiro chama à mudança e aceita ser corrigido por Cristo."
+    },
+    {
+      "id": "I01",
+      "explanation": "Uma **comunidade fechada** pode ter muitas atividades e ainda assim esquecer a missão. O sinal de fechamento aparece quando os de fora deixam de importar. A resposta é retomar o envio aos afastados e feridos."
+    },
+    {
+      "id": "I02",
+      "explanation": "O **primeiro anúncio** apresenta Cristo de modo simples e verdadeiro. Não basta fazer o bem sem saber dizer de onde nasce essa caridade. Quando alguém pergunta, a missão pede palavra clara e humilde."
+    },
+    {
+      "id": "I03",
+      "explanation": "A fé também precisa ser transmitida dentro de casa. Uma **família sem fé** pode nascer de silêncio, vergonha ou comodismo. A resposta começa por oração, conversa honesta e pequenos passos de vida cristã."
+    },
+    {
+      "id": "I04",
+      "explanation": "A **hostilidade pública** tenta empurrar a fé para a invisibilidade. O cristão não deve responder com provocação nem com medo. A missão pede coragem prudente e testemunho sóbrio."
+    },
+    {
+      "id": "I05",
+      "explanation": "Encontrar uma **cultura diferente** exige respeito real. Evangelizar não é copiar costumes externos nem desprezar um povo. A mesma fé deve ser anunciada de modo compreensível e fiel."
+    },
+    {
+      "id": "I06",
+      "explanation": "A **fé escondida** aparece quando o cristão evita nomear Cristo mesmo diante de ocasião justa. Prudência não é vergonha. O testemunho pode ser discreto, mas não precisa negar sua fonte."
+    },
+    {
+      "id": "I07",
+      "explanation": "Uma **obra sem anúncio** pode prestar ajuda real e ainda perder parte da identidade cristã. O serviço da Igreja nasce de Cristo e aponta para Ele. Esconder essa fonte empobrece a missão."
+    },
+    {
+      "id": "I08",
+      "explanation": "O **convite negligenciado** parece educação, mas pode ser omissão. Algumas pessoas precisam que alguém abra uma porta concreta para oração, conversa ou comunidade. Convidar com respeito é ato de caridade."
+    },
+    {
+      "id": "I09",
+      "explanation": "A **escuta de feridas** é necessária quando alguém foi machucado por cristãos. Defender a Igreja sem ouvir pode aumentar a dor. A missão responde melhor quando reconhece o dano e aponta caminho de cura."
+    },
+    {
+      "id": "I10",
+      "explanation": "O **migrante sem comunidade** testa a catolicidade da Igreja. Acolher não é apenas simpatia, mas orientação concreta, presença e acesso à fé. A missão atravessa língua, costume e solidão."
+    },
+    {
+      "id": "I11",
+      "explanation": "O **doente isolado** não precisa apenas de tratamento médico. Ele pode precisar de oração, presença e sacramentos. Falsa delicadeza não deve privar alguém do cuidado espiritual que pediu."
+    },
+    {
+      "id": "I12",
+      "explanation": "O **trabalho explorado** fere a dignidade humana. A missão cristã não fecha os olhos para abuso, salário negado e ameaça. A caridade integral busca verdade, justiça e encaminhamento responsável."
+    },
+    {
+      "id": "I13",
+      "explanation": "As **redes sem verdade** transformam a fé em disputa de alcance. Conteúdo religioso sem caridade pode humilhar e deformar o Evangelho. A comunicação missionária exige precisão, mansidão e responsabilidade."
+    },
+    {
+      "id": "I14",
+      "explanation": "A **periferia esquecida** revela se a missão busca pessoas ou visibilidade. Ir apenas quando há divulgação não é caridade perseverante. A presença cristã precisa ser fiel, concreta e humilde."
+    },
+    {
+      "id": "I15",
+      "explanation": "A **missão entre presos** exige verdade e misericórdia. O crime cometido é grave e não deve ser apagado. Mas a pessoa continua tendo dignidade e pode receber Palavra, sacramento e chamado à conversão."
+    },
+    {
+      "id": "N01",
+      "explanation": "A **fé como clube** reduz a Igreja a espaço de conforto para os de dentro. Essa lógica esquece o envio de Cristo. A comunidade verdadeira cuida dos seus para poder também sair em missão."
+    },
+    {
+      "id": "N02",
+      "explanation": "A **missão como número** mede tudo por público, cadastro e foto. Esses dados podem ajudar, mas não provam conversão. O fruto missionário aparece em escuta, discipulado, sacramentos e vida transformada."
+    },
+    {
+      "id": "N03",
+      "explanation": "Dizer que **anunciar é impor** confunde proposta livre com coerção. O Evangelho deve ser anunciado sem manipular nem pressionar. Respeitar a liberdade não obriga a esconder Cristo."
+    },
+    {
+      "id": "N04",
+      "explanation": "**Cada um na sua** pode parecer respeito, mas muitas vezes é fuga. Quando alguém pede esperança, calar a fé pode negar um bem. O cristão oferece a verdade sem obrigar aceitação."
+    },
+    {
+      "id": "N05",
+      "explanation": "**Basta ser gentil** é uma redução da missão. Gentileza e ajuda material são necessárias, mas não substituem o anúncio de Cristo. Evangelizar inclui caridade, verdade, perdão e vida nova."
+    },
+    {
+      "id": "N06",
+      "explanation": "A frase **doutrina atrapalha** cria uma oposição falsa entre verdade e amor. A doutrina cristã protege o caminho da salvação. Sem ela, a missão vira mensagem vaga e incapaz de formar discípulos."
+    },
+    {
+      "id": "N07",
+      "explanation": "**Só especialistas** é desculpa para fugir da missão comum dos batizados. Padres, religiosos e formadores têm funções próprias, mas todo cristão deve testemunhar. Quem não sabe tudo ainda pode falar com humildade e buscar ajuda."
+    },
+    {
+      "id": "N08",
+      "explanation": "A **indiferença religiosa** usa a bondade de Deus contra a própria missão. Deus quer salvar e quer que todos conheçam a verdade. Sua misericórdia não torna inútil Cristo, a Igreja e os sacramentos."
+    },
+    {
+      "id": "N09",
+      "explanation": "O **medo de conflito** pode se disfarçar de paz. Nem toda discussão deve ser provocada, mas alguns silêncios protegem o erro. A caridade às vezes exige palavra firme e prudente."
+    },
+    {
+      "id": "N10",
+      "explanation": "A **fé só privada** separa artificialmente Cristo da vida concreta. A fé deve orientar trabalho, escolhas, consciência e responsabilidade pública. Isso não é impor, mas viver com coerência."
+    },
+    {
+      "id": "N11",
+      "explanation": "A **cultura absoluta** trata toda tradição como intocável. O Evangelho respeita povos concretos, mas não aprova violência ou humilhação. Nenhuma cultura fica acima da dignidade humana."
+    },
+    {
+      "id": "N12",
+      "explanation": "O **sucesso sem cruz** só aceita missão com aplauso e resultado rápido. O Evangelho pode encontrar resistência. Perseverar não é buscar sofrimento, mas permanecer fiel quando a resposta é difícil."
+    },
+    {
+      "id": "N13",
+      "explanation": "**Caridade sem Cristo** conserva ajuda material, mas esconde a fonte cristã. A Igreja serve porque Cristo amou primeiro. Nomear essa fonte com respeito não diminui a caridade."
+    },
+    {
+      "id": "N14",
+      "explanation": "**Verdade sem amor** usa conteúdo correto de modo errado. A humilhação não se torna santa porque cita uma verdade. A correção cristã busca conversão e preserva a dignidade."
+    },
+    {
+      "id": "N15",
+      "explanation": "**Depois eu falo** pode ser prudência, mas também pode ser fuga. Algumas oportunidades de anúncio e reconciliação passam. A resposta cristã discerne o momento e age com simplicidade."
+    },
+    {
+      "id": "G01",
+      "explanation": "**Proposta ou imposição** é uma distinção decisiva. Evangelizar é oferecer Cristo com clareza, não forçar consciência. O anúncio cristão respeita a liberdade sem esconder a verdade."
+    },
+    {
+      "id": "G02",
+      "explanation": "**Acolhida ou aprovação** evita dois erros. Rejeitar a pessoa fere sua dignidade; aprovar todo comportamento nega a conversão. A misericórdia cristã acolhe e chama a mudar de vida."
+    },
+    {
+      "id": "G03",
+      "explanation": "**Anúncio ou propaganda** distingue missão de técnica de venda. A Igreja não manipula desejos para ganhar adesões superficiais. Ela proclama Cristo para servir à salvação."
+    },
+    {
+      "id": "G04",
+      "explanation": "**Testemunho e palavra** devem andar juntos. A vida coerente prepara o coração de quem vê. Mas, quando a ocasião pede, é preciso também nomear Cristo e a esperança cristã."
+    },
+    {
+      "id": "G05",
+      "explanation": "**Diálogo e relativismo** não são a mesma coisa. Dialogar exige escuta e respeito. Relativizar é abandonar a verdade recebida, como se nada pudesse ser anunciado."
+    },
+    {
+      "id": "G06",
+      "explanation": "**Cultura e Evangelho** precisam ser discernidos. A missão respeita povos, línguas e histórias. Mas o Evangelho também purifica práticas que ferem a dignidade humana."
+    },
+    {
+      "id": "G07",
+      "explanation": "**Prudência e omissão** podem parecer iguais por fora. Prudência ajusta meios para proteger pessoas e continuar o bem. Omissão abandona a missão por medo, conforto ou falta de coragem."
+    },
+    {
+      "id": "G08",
+      "explanation": "**Firmeza e dureza** não se confundem. A firmeza diz a verdade necessária. A dureza usa a verdade para esmagar, humilhar ou se colocar acima do outro."
+    },
+    {
+      "id": "G09",
+      "explanation": "**Unidade e uniformidade** são coisas diferentes. A Igreja é una na fé, nos sacramentos e na comunhão. Essa unidade pode acolher expressões culturais legítimas sem perder a verdade."
+    },
+    {
+      "id": "G10",
+      "explanation": "**Missão e ativismo** se distinguem pela raiz. A missão nasce da união com Cristo e serve pessoas reais. O ativismo acumula tarefas, perde oração e transforma pessoas em agenda."
+    },
+    {
+      "id": "G11",
+      "explanation": "**Respeito e silêncio** precisam ser discernidos. Respeitar é levar a liberdade do outro a sério. Mas, quando alguém pergunta pela fé, o silêncio pode negar a razão da esperança."
+    },
+    {
+      "id": "G12",
+      "explanation": "**Misericórdia e banalização** não são a mesma coisa. Misericórdia oferece perdão e recomeço. Banalização trata pecado e dano como se não importassem."
+    },
+    {
+      "id": "G13",
+      "explanation": "**Pessoa e erro** devem ser distinguidos sem separar falsamente. O erro pode ser grave e exigir justiça. A pessoa, mesmo culpada, mantém dignidade e pode ser chamada à conversão."
+    },
+    {
+      "id": "G14",
+      "explanation": "**Fruto e sucesso** não têm a mesma medida. Sucesso costuma buscar visibilidade rápida. Fruto missionário pode ser discreto, mas aparece em fé, conversão, oração e perseverança."
+    },
+    {
+      "id": "G15",
+      "explanation": "**Perseguição e culpa** exigem exame honesto. Às vezes a rejeição vem da fidelidade ao Evangelho. Outras vezes vem de imprudência, arrogância ou falta de caridade no modo de anunciar."
+    },
+    {
+      "id": "O01",
+      "explanation": "**Fazer primeiro anúncio** é dizer o essencial de Cristo quando a ocasião aparece. Não é palestra nem pressão emocional. É uma palavra simples sobre sua morte, ressurreição, perdão e chamado à vida nova."
+    },
+    {
+      "id": "O02",
+      "explanation": "**Convidar com clareza** abre um caminho concreto. Convite vago raramente ajuda quem já demonstrou interesse. A resposta missionária indica um próximo passo e respeita a liberdade da pessoa."
+    },
+    {
+      "id": "O03",
+      "explanation": "**Escutar antes de falar** não é relativizar a verdade. É conhecer a ferida real antes de responder. Muitas defesas apressadas fecham a porta que a escuta poderia abrir."
+    },
+    {
+      "id": "O04",
+      "explanation": "**Rezar por nomes** torna a missão concreta diante de Deus. A oração genérica pode virar distância. Interceder por pessoas reais educa amor, memória e perseverança."
+    },
+    {
+      "id": "O05",
+      "explanation": "**Estudar a fé** é serviço missionário. Quem anuncia precisa conhecer o que transmite. Formação séria evita improviso confuso e ajuda a responder dúvidas com fidelidade."
+    },
+    {
+      "id": "O06",
+      "explanation": "**Assumir testemunho** é reconhecer que a fé orienta escolhas concretas. Isso deve ser feito com sobriedade, não com superioridade. A coerência cristã pode iluminar ambientes marcados por mentira ou injustiça."
+    },
+    {
+      "id": "O07",
+      "explanation": "**Servir nomeando Cristo** une caridade concreta e anúncio respeitoso. A ajuda não deve ser condicionada à adesão religiosa. Mas também não é preciso esconder que Cristo é a fonte do serviço cristão."
+    },
+    {
+      "id": "O08",
+      "explanation": "**Corrigir com caridade** exige nomear o erro e proteger o bem. Calar diante do dano não é misericórdia. Corrigir sem humilhar preserva a dignidade e abre caminho de conversão."
+    },
+    {
+      "id": "O09",
+      "explanation": "**Buscar acompanhamento** é atitude madura diante de conflitos missionários. Raiva, medo e cansaço podem deformar decisões. Uma orientação prudente ajuda a responder com verdade e caridade."
+    },
+    {
+      "id": "O10",
+      "explanation": "**Agir com a Igreja** protege a missão de isolamento e desordem. Envio, comunhão e prestação de contas não sufocam a iniciativa. Eles protegem missionários e pessoas vulneráveis."
+    },
+    {
+      "id": "O11",
+      "explanation": "**Sustentar missionários** também é participar da missão. Nem todos podem ir, mas muitos podem rezar, financiar, preparar e cuidar. A Igreja inteira é corresponsável pelo anúncio."
+    },
+    {
+      "id": "O12",
+      "explanation": "**Responder objeções** pede verdade e mansidão. A ironia pode ferir e fechar portas. O cristão deve dar razão da esperança com clareza, respeito e firmeza."
+    },
+    {
+      "id": "O13",
+      "explanation": "**Reparar escândalo** exige mais do que desculpa verbal. Quando houve dano, é preciso reconhecer, corrigir e reparar o possível. A credibilidade missionária passa por verdade e justiça."
+    },
+    {
+      "id": "O14",
+      "explanation": "**Perseverar na rejeição** não significa insistir de modo inconveniente. Significa respeitar recusas e continuar fiel por outros caminhos. Cristo permanece com os enviados também quando portas se fecham."
+    },
+    {
+      "id": "O15",
+      "explanation": "**Formar discípulos** é continuar depois do primeiro anúncio. A missão não termina quando alguém aparece uma vez. É preciso acompanhar, ensinar, inserir na vida sacramental e ajudar a observar o que Cristo mandou."
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "title": "Carta de explicações rápidas — Bingo O respeito à saúde",
+  "meeting": "Encontro 25 — O respeito à saúde",
+  "source_calls": "data/chamadas.json",
+  "purpose": "Explicações breves para o condutor usar durante a chamada de cada carta.",
+  "entries": [
+    {
+      "id": "B01",
+      "explanation": "O corpo não é coisa sem dono nem instrumento descartável. Em 1Cor 6,19-20, ele é **templo do Espírito Santo**. Por isso, cuidar da saúde é também uma forma de respeitar Deus."
+    },
+    {
+      "id": "B02",
+      "explanation": "A saúde é um **dom**, não um direito de usar o corpo de qualquer modo. O Catecismo ensina que vida e saúde física são bens preciosos dados por Deus. A resposta correta é cuidado responsável, prevenção possível e gratidão."
+    },
+    {
+      "id": "B03",
+      "explanation": "A pessoa não perde valor quando adoece, envelhece ou fica limitada. A dignidade vem de ser imagem de Deus, não de força, beleza ou utilidade. O cuidado cristão protege o corpo frágil sem desprezar a pessoa."
+    },
+    {
+      "id": "B04",
+      "explanation": "A **temperança** ordena os prazeres para que não dominem a pessoa. Ela não nega comida, bebida, descanso ou exercício. Ela coloca esses bens no lugar certo, a serviço da saúde e da liberdade."
+    },
+    {
+      "id": "B05",
+      "explanation": "O justo cuidado evita dois erros: abandonar o corpo ou idolatrá-lo. A fé cristã não despreza a matéria nem transforma aparência em absoluto. A medida é cuidar do corpo como dom recebido."
+    },
+    {
+      "id": "B06",
+      "explanation": "O alimento pede **gratidão** e responsabilidade. Comer sem medida e desperdiçar comida revelam desordem diante de um bem necessário. A resposta cristã inclui sobriedade, planejamento e partilha possível."
+    },
+    {
+      "id": "B07",
+      "explanation": "Liberdade não é fazer tudo que dá vontade. Quando substância, impulso ou hábito passam a mandar, a liberdade está ferida. A temperança ajuda a recuperar **domínio de si**."
+    },
+    {
+      "id": "B08",
+      "explanation": "A saúde tem dimensão pessoal e social. O Catecismo lembra que alimento, moradia, trabalho, ensino e assistência influenciam a saúde dos cidadãos. O **bem comum** exige condições reais para viver com dignidade."
+    },
+    {
+      "id": "B09",
+      "explanation": "O corpo é importante, mas não é absoluto. O Catecismo rejeita o **culto do corpo**, que sacrifica tudo à beleza, força ou sucesso esportivo. Honrar o corpo é diferente de adorá-lo."
+    },
+    {
+      "id": "B10",
+      "explanation": "O excesso pode ser pecado quando fere a saúde e coloca vidas em risco. Álcool, comida, fumo, medicamentos e velocidade exigem domínio moral. A culpa se agrava quando o dano alcança outras pessoas."
+    },
+    {
+      "id": "B11",
+      "explanation": "A **sobriedade** conserva lucidez e responsabilidade. Ela não é fraqueza nem falta de alegria. É força moral para não entregar decisões importantes à embriaguez, ao impulso ou à pressão social."
+    },
+    {
+      "id": "B12",
+      "explanation": "Cooperar com o mal é facilitar aquilo que destrói. Vender, indicar ou proteger acesso a drogas e substâncias nocivas torna a pessoa participante do dano. A fé exige cortar essa cooperação."
+    },
+    {
+      "id": "B13",
+      "explanation": "A vulnerabilidade faz parte da condição humana. Doença, dependência e sofrimento não autorizam desprezo nem mentira. A resposta cristã une **verdade**, compaixão, ajuda concreta e responsabilidade."
+    },
+    {
+      "id": "B14",
+      "explanation": "O corpo fragilizado não deve virar espetáculo. Pudor é proteção da dignidade, não vergonha do corpo. Fotografar, expor ou comentar sem necessidade pode ferir seriamente a pessoa."
+    },
+    {
+      "id": "B15",
+      "explanation": "Glorificar Deus no corpo significa ordenar o corpo ao amor e à vocação. Isso inclui descanso, sobriedade, cuidado médico e recusa do pecado. A fé alcança decisões concretas sobre o modo de viver."
+    },
+    {
+      "id": "I01",
+      "explanation": "Sono não é sobra sem importância. Quando a falta de descanso compromete lucidez e segurança, o descuido se torna moralmente sério. Rever rotina pode ser ato concreto de respeito à saúde."
+    },
+    {
+      "id": "I02",
+      "explanation": "Dieta extrema não é cuidado quando põe o corpo em perigo. A aparência não pode mandar mais que a vida. Em situações de risco ou sofrimento alimentar, a resposta exige ajuda responsável e acompanhamento."
+    },
+    {
+      "id": "I03",
+      "explanation": "Exercício físico é bom quando serve à saúde. Ele se desordena quando domina relações, descanso e juízo sobre o próprio valor. O critério cristão é a **medida**, não a obsessão."
+    },
+    {
+      "id": "I04",
+      "explanation": "Anabolizante oculto revela busca de resultado sem respeito ao corpo. Quando não há finalidade terapêutica e acompanhamento, o risco moral é sério. Aparência e performance não justificam dano à saúde."
+    },
+    {
+      "id": "I05",
+      "explanation": "O vape não fica moralmente neutro porque parece moderno ou comum. Uso habitual pode ferir saúde e liberdade. A temperança pede nomear o risco e cortar o hábito quando ele domina."
+    },
+    {
+      "id": "I06",
+      "explanation": "Bebida ao volante é risco grave, não detalhe social. A pessoa alcoolizada decide mal e expõe outros à morte ou ferimento. A resposta correta é impedir a condução e buscar alternativa segura."
+    },
+    {
+      "id": "I07",
+      "explanation": "Remédio sem prescrição pode parecer ajuda, mas pode causar dano. Medicamento exige finalidade, dose e orientação competente. A prudência cristã respeita o corpo e evita improviso perigoso."
+    },
+    {
+      "id": "I08",
+      "explanation": "Automedicação perigosa muitas vezes encobre um problema maior. Misturar remédios ou repetir receitas antigas pode agravar o dano. O cuidado correto busca causa, orientação e mudança de rotina."
+    },
+    {
+      "id": "I09",
+      "explanation": "Jejum por aparência não é penitência cristã. Quando a privação nasce de medo do corpo ou comparação, ela pode ferir saúde e dignidade. A disciplina verdadeira permanece ordenada ao bem."
+    },
+    {
+      "id": "I10",
+      "explanation": "Desperdiçar alimento revela falta de gratidão e medida. A comida é dom de Deus, fruto de trabalho humano e necessidade concreta. Reparar o hábito exige planejamento e responsabilidade."
+    },
+    {
+      "id": "I11",
+      "explanation": "Sedentarismo fechado reduz a vida a tela, cadeira e isolamento. O corpo precisa de movimento, ar, descanso e convivência. Cuidar da saúde não é culto fitness, mas respeito ordinário ao corpo."
+    },
+    {
+      "id": "I12",
+      "explanation": "Trabalho sem segurança fere a dignidade do trabalhador. Economia e pressa não justificam expor corpos a riscos evitáveis. A saúde no trabalho pertence ao **bem comum**."
+    },
+    {
+      "id": "I13",
+      "explanation": "Fila de tratamento mostra que saúde também depende de justiça social. O cuidado do corpo não é apenas esforço individual. A fé cristã pede atenção às condições concretas que permitem viver e tratar doenças."
+    },
+    {
+      "id": "I14",
+      "explanation": "O tráfico de drogas destrói saúde, liberdade e comunidade. O Catecismo chama essa prática de escandalosa e cooperação direta com o mal. A resposta precisa unir firmeza moral e prudência de segurança."
+    },
+    {
+      "id": "I15",
+      "explanation": "Expor o doente transforma fragilidade em conteúdo. Dor, acidente e enfermidade pedem socorro e reserva, não curiosidade pública. O respeito protege imagem, diagnóstico e intimidade."
+    },
+    {
+      "id": "N01",
+      "explanation": "A **ilusão de controle** aparece quando a fala nega fatos repetidos. Quem diz que para quando quiser, mas nunca consegue, precisa de verdade e ajuda. Nomear a dependência não é humilhar; é abrir caminho para cuidado."
+    },
+    {
+      "id": "N02",
+      "explanation": "A falsa autonomia usa 'é meu corpo' para fugir da responsabilidade. Mas o corpo é recebido de Deus e nossas escolhas atingem outras pessoas. Liberdade verdadeira assume vínculos, consequências e deveres."
+    },
+    {
+      "id": "N03",
+      "explanation": "O culto da aparência mede a pessoa pelo que se vê. Ele explora inseguranças e promete valor por meio de imagem. A fé corrige essa mentira afirmando uma dignidade mais profunda que o espelho."
+    },
+    {
+      "id": "N04",
+      "explanation": "Performance idolatrada sacrifica saúde, descanso e honestidade ao resultado. Quando vitória ou contrato valem mais que a pessoa, há desordem grave. O corpo deve ser respeitado mesmo sob pressão."
+    },
+    {
+      "id": "N05",
+      "explanation": "'Só desta vez' pode esconder risco grave. Uma única decisão alcoolizada, imprudente ou abusiva pode causar dano irreversível. A prudência cristã não negocia com perigo sério."
+    },
+    {
+      "id": "N06",
+      "explanation": "'Todo mundo usa' troca consciência por pertencimento. A frequência de um erro não o torna bom. A sobriedade dá força para recusar o que destrói saúde e liberdade."
+    },
+    {
+      "id": "N07",
+      "explanation": "Remédio não é inofensivo só porque tem embalagem, propaganda ou venda fácil. O abuso de medicamentos também fere a temperança. O critério é uso terapêutico, orientação competente e respeito ao corpo."
+    },
+    {
+      "id": "N08",
+      "explanation": "Beber muito não prova maturidade. Maturidade é domínio de si, lucidez e responsabilidade. A cultura que valoriza embriaguez confunde força com desordem."
+    },
+    {
+      "id": "N09",
+      "explanation": "Dor escondida cresce quando vergonha impede ajuda. Sofrimento alimentar ou físico não deve ser tratado como frescura nem como culpa simples. A resposta cristã é acolher, nomear o risco e encaminhar com seriedade."
+    },
+    {
+      "id": "N10",
+      "explanation": "O corpo descartável é uma mentira contra a fé. O corpo não é máquina de trabalho, prazer ou rendimento. Ele é dom confiado por Deus e precisa de limite, descanso e cuidado."
+    },
+    {
+      "id": "N11",
+      "explanation": "Magreza não é medida de valor humano. Quando peso, número ou roupa definem dignidade, a pessoa é reduzida ao corpo visto de fora. A saúde deve ser cuidada sem humilhação nem comparação."
+    },
+    {
+      "id": "N12",
+      "explanation": "Força não é dignidade. A lógica que só valoriza os fortes descarta doentes, idosos e limitados. A fé afirma dignidade igual nos corpos fortes e frágeis."
+    },
+    {
+      "id": "N13",
+      "explanation": "Velocidade sem culpa é imprudência mascarada de habilidade. Ninguém tem direito de impor risco aos outros por adrenalina. O Catecismo é firme ao condenar risco grave à própria segurança e à alheia."
+    },
+    {
+      "id": "N14",
+      "explanation": "O mercado não decide sozinho o que é moral. Lucro e procura não justificam vender aquilo que destrói saúde e liberdade. Quem facilita dano responde moralmente por sua cooperação."
+    },
+    {
+      "id": "N15",
+      "explanation": "A fé cristã não coloca espírito contra corpo. O corpo é templo do Espírito Santo e merece cuidado real. Oração, tratamento e prudência podem caminhar juntos."
+    },
+    {
+      "id": "G01",
+      "explanation": "Cuidar do corpo não é automaticamente vaidade. A diferença está na finalidade, na medida e nos frutos. O cuidado serve à saúde; a vaidade busca aprovação e superioridade."
+    },
+    {
+      "id": "G02",
+      "explanation": "Saúde é bem precioso, mas pode virar ídolo. Quando metas corporais exigem sacrificar tudo, a ordem dos bens foi invertida. A fé recoloca o corpo a serviço da vida e de Deus."
+    },
+    {
+      "id": "G03",
+      "explanation": "Prazer ordenado não é pecado. O problema nasce quando o prazer passa a dominar a razão e a vontade. A **temperança** preserva a alegria sem entregar a pessoa ao excesso."
+    },
+    {
+      "id": "G04",
+      "explanation": "Necessidade e excesso podem parecer parecidos por fora. O discernimento olha finalidade, medida, orientação e consequências. O mesmo bem pode curar quando usado corretamente e ferir quando abusado."
+    },
+    {
+      "id": "G05",
+      "explanation": "Terapia e abuso não são a mesma coisa. O uso terapêutico tem indicação, dose e finalidade de tratamento. O abuso busca fuga, prazer, rendimento ou controle sem respeito à saúde."
+    },
+    {
+      "id": "G06",
+      "explanation": "Descanso é dever quando recupera forças e respeita limites. Fuga é evitar de modo persistente responsabilidades necessárias. O cuidado cristão une repouso, verdade e retomada proporcional da vida."
+    },
+    {
+      "id": "G07",
+      "explanation": "Disciplina corporal pode ser virtude. Ela se torna obsessão quando traz medo, culpa desordenada e desprezo pelos limites. A medida cristã protege constância sem escravidão."
+    },
+    {
+      "id": "G08",
+      "explanation": "É preciso distinguir **ato** e pessoa. O ato injusto deve ser nomeado e corrigido. A pessoa, mesmo ferida pelo pecado ou vício, continua tendo dignidade e pode receber ajuda."
+    },
+    {
+      "id": "G09",
+      "explanation": "Nem toda culpa é simples de medir. Dependência, medo e transtorno podem diminuir a liberdade da pessoa. Isso não apaga a gravidade do problema, mas muda a forma de ajudar e corrigir."
+    },
+    {
+      "id": "G10",
+      "explanation": "Acolher não é aprovar tudo. Amar uma pessoa ferida pode exigir dizer não ao comportamento que a destrói. A caridade verdadeira une presença e limite."
+    },
+    {
+      "id": "G11",
+      "explanation": "Prudência não é desculpa para nunca agir. Ela busca meios seguros e proporcionais diante do risco. Omissão cômoda pode facilitar a continuidade do mal."
+    },
+    {
+      "id": "G12",
+      "explanation": "Liberdade sem responsabilidade vira agressão. Uma escolha que impõe risco grave aos outros não é liberdade verdadeira. O corpo próprio e a vida alheia precisam ser protegidos."
+    },
+    {
+      "id": "G13",
+      "explanation": "O corpo participa da identidade da pessoa, mas não esgota quem ela é. Doença, queda de cabelo, peso ou limitação não anulam a dignidade. A fé ajuda a cuidar do corpo sem reduzir a pessoa à aparência."
+    },
+    {
+      "id": "G14",
+      "explanation": "Ajudar alguém frágil não autoriza controlar tudo. Cuidado responsável respeita a liberdade possível e a intimidade da pessoa. O bom auxílio protege sem transformar o outro em objeto."
+    },
+    {
+      "id": "G15",
+      "explanation": "Cuidar da própria saúde é legítimo. Mas esse cuidado não pode ignorar necessidades alheias e o bem comum. O Catecismo pede equilíbrio entre responsabilidade pessoal e condições sociais de saúde."
+    },
+    {
+      "id": "O01",
+      "explanation": "Procurar atendimento é resposta prudente quando há sinal persistente ou risco sério. A internet não substitui avaliação competente. Cuidar do corpo inclui reconhecer limites e pedir ajuda profissional."
+    },
+    {
+      "id": "O02",
+      "explanation": "Pedir ajuda familiar rompe o isolamento. Problemas graves de saúde, vício ou sofrimento não devem ficar escondidos por vergonha. A ajuda deve ser discreta, responsável e orientada ao cuidado real."
+    },
+    {
+      "id": "O03",
+      "explanation": "Cortar substância exige ação concreta. Não basta desejar mudança enquanto os acessos continuam abertos. Remover ocasião, pedir apoio e buscar tratamento quando necessário ajuda a liberdade ferida."
+    },
+    {
+      "id": "O04",
+      "explanation": "Rever sono é decisão moral quando o cansaço destrói saúde e responsabilidade. Isso pede reorganizar horários, compromissos e hábitos. Descanso suficiente não é luxo; é cuidado devido ao corpo."
+    },
+    {
+      "id": "O05",
+      "explanation": "Organizar refeições é forma simples de temperança. Evita excesso, restrição desordenada, gasto inútil e desperdício. A medida deve ser possível, constante e sem obsessão."
+    },
+    {
+      "id": "O06",
+      "explanation": "Limitar telas à noite é um gesto concreto para proteger o sono. Muitas vezes a vontade precisa de um limite externo simples. O objetivo não é odiar tecnologia, mas recuperar domínio e descanso."
+    },
+    {
+      "id": "O07",
+      "explanation": "Recusar carona bêbada é ato claro de prudência. A vergonha social pesa menos que a vida. Quem recusa não exagera; protege a si mesmo, o motorista e os outros."
+    },
+    {
+      "id": "O08",
+      "explanation": "Não repassar oferta nociva corta a circulação do dano. Contatos de droga, anabolizante ou remédio irregular não devem ser tratados como informação neutra. A resposta cristã interrompe a cooperação."
+    },
+    {
+      "id": "O09",
+      "explanation": "Denunciar tráfico exige prudência e responsabilidade. Não se deve enfrentar diretamente nem transformar redes sociais em tribunal. Usar canais seguros pode proteger a comunidade sem cair em vingança."
+    },
+    {
+      "id": "O10",
+      "explanation": "Acompanhar o doente torna a caridade concreta. Levar a consulta, ajudar com remédio ou oferecer presença pode mudar uma situação real. A ajuda deve ser proporcional e fiel, não teatral."
+    },
+    {
+      "id": "O11",
+      "explanation": "Falar sobre saúde exige verdade e respeito. Comentários públicos, apelidos e piadas sobre o corpo ferem a dignidade. A correção cristã prefere reserva, clareza e caridade."
+    },
+    {
+      "id": "O12",
+      "explanation": "Buscar confissão é reconhecer diante de Deus pecados concretos contra a temperança e a vida. O sacramento não é fuga de responsabilidade. A graça recebida pede mudança real, reparação possível e vigilância."
+    },
+    {
+      "id": "O13",
+      "explanation": "Treino com medida aceita descanso, orientação e limites. Perder uma prova pode ser prudência, não fracasso. O corpo deve ser exercitado para a saúde, não sacrificado ao orgulho."
+    },
+    {
+      "id": "O14",
+      "explanation": "Reparar desperdício vai além de sentir culpa. É mudar compra, porção, armazenamento e destino da comida. A gratidão pelo alimento se prova em hábitos concretos."
+    },
+    {
+      "id": "O15",
+      "explanation": "O cuidador também tem corpo e limites. Cuidar sem descanso pode adoecer quem ajuda e prejudicar quem recebe cuidado. Organizar revezamento e repouso é caridade ordenada, não abandono."
+    }
+  ]
+}

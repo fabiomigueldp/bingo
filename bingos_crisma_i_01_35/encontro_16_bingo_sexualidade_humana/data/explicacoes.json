@@ -1,0 +1,308 @@
+{
+  "title": "Carta de explicações rápidas — Bingo Sexualidade humana",
+  "meeting": "Encontro 16 — Sexualidade humana",
+  "source_calls": "data/chamadas.json",
+  "purpose": "Explicações breves para o condutor usar durante a chamada de cada carta.",
+  "entries": [
+    {
+      "id": "B01",
+      "explanation": "A pessoa não vale pelo desejo que desperta nem pela aparência que exibe. Sua dignidade vem de ser **imagem de Deus**. Por isso, a sexualidade nunca pode transformar alguém em objeto de consumo."
+    },
+    {
+      "id": "B02",
+      "explanation": "O corpo não é uma peça separada da pessoa. Na fé cristã, existe **unidade corpo-alma**. O que se faz com o corpo toca a consciência, os vínculos e a história pessoal."
+    },
+    {
+      "id": "B03",
+      "explanation": "A sexualidade é **dom de Deus**, não sujeira nem licença sem critério. Um dom pode ser usado bem ou desordenado. A resposta cristã é integrá-lo no amor verdadeiro."
+    },
+    {
+      "id": "B04",
+      "explanation": "A sexualidade toca o **núcleo íntimo** da pessoa. Por isso, pede pudor, verdade e responsabilidade. Expor ou vender intimidade fere algo que deveria ser protegido."
+    },
+    {
+      "id": "B05",
+      "explanation": "A **castidade integral** não é só evitar atos externos. Ela ordena olhar, desejo, palavra, imaginação e escolhas. Seu objetivo é amar sem usar o outro."
+    },
+    {
+      "id": "B06",
+      "explanation": "O **domínio de si** é uma pedagogia da liberdade. A pessoa não é livre quando obedece a todo impulso. Ela se torna livre quando consegue escolher o bem com meios concretos."
+    },
+    {
+      "id": "B07",
+      "explanation": "A castidade é **escola de doação**. Ela não fecha a pessoa, mas educa para amar com respeito e fidelidade. O contrário é usar o outro enquanto ele serve."
+    },
+    {
+      "id": "B08",
+      "explanation": "Todo batizado é chamado à castidade, mas segundo seu **estado de vida**. Solteiros, noivos, casados e consagrados não vivem a mesma forma de entrega. A santidade é comum; a forma concreta varia."
+    },
+    {
+      "id": "B09",
+      "explanation": "O **amor conjugal** pede aliança, exclusividade e estabilidade. Não é simples convivência nem sentimento passageiro. A intimidade conjugal corresponde a uma entrega total assumida."
+    },
+    {
+      "id": "B10",
+      "explanation": "A sexualidade conjugal une **unidade e fecundidade**. O amor dos esposos e a abertura à vida pertencem ao mesmo dom. Separá-los artificialmente desordena o sentido do matrimônio."
+    },
+    {
+      "id": "B11",
+      "explanation": "A **fidelidade** protege a promessa conjugal. Ela não se limita a evitar um ato físico final. Também exige verdade no coração, nas conversas, nos limites e nas escolhas."
+    },
+    {
+      "id": "B12",
+      "explanation": "A **fecundidade** é dimensão do amor conjugal. Ela não significa irresponsabilidade nem imposição cega. Significa abertura responsável à vida e aos frutos do amor."
+    },
+    {
+      "id": "B13",
+      "explanation": "A **amizade casta** permite proximidade verdadeira sem posse. Nem todo afeto precisa virar erotização. A castidade purifica a amizade e a torna mais livre."
+    },
+    {
+      "id": "B14",
+      "explanation": "A **pureza de Cristo** alcança o olhar e o coração. Não é desprezo do corpo, mas modo santo de ver a pessoa inteira. Ela é virtude e também graça pedida a Deus."
+    },
+    {
+      "id": "B15",
+      "explanation": "A vida casta exige luta longa, queda e retomada. **Graça e recomeço** impedem tanto o desespero quanto a banalização do pecado. Recomeçar inclui confissão, meios concretos e perseverança."
+    },
+    {
+      "id": "I01",
+      "explanation": "A **exposição íntima** é violação da dignidade, não brincadeira nem vingança aceitável. A confiança passada não dá direito de humilhar alguém. A resposta é proteger a vítima e cortar a circulação."
+    },
+    {
+      "id": "I02",
+      "explanation": "A **pressão no namoro** usa afeto para quebrar a liberdade. Amor verdadeiro não exige prova sexual nem ameaça abandono. O limite dito com clareza deve ser respeitado."
+    },
+    {
+      "id": "I03",
+      "explanation": "A **pornografia** deseduca o olhar e transforma pessoas em objeto. Ela também alimenta um mercado de exploração real. A resposta passa por corte, ajuda e reconstrução do domínio de si."
+    },
+    {
+      "id": "I04",
+      "explanation": "A **conversa erotizada** parece pequena, mas pode preparar queda maior. Ela desloca afeto e cordialidade para excitação e ambiguidade. A castidade pede cortar a escalada antes que ela domine."
+    },
+    {
+      "id": "I05",
+      "explanation": "O **flerte comprometido** ameaça a fidelidade antes da traição consumada. O segredo e a ambiguidade já ferem a promessa. Quem quer proteger o vínculo corta a ocasião e escolhe transparência."
+    },
+    {
+      "id": "I06",
+      "explanation": "O **sexo sem promessa** usa linguagem de entrega total sem aliança correspondente. O corpo fala uma verdade que o compromisso precisa sustentar. A moral cristã chama a ordenar o vínculo ou viver a continência."
+    },
+    {
+      "id": "I07",
+      "explanation": "A **traição conjugal** é quebra grave da promessa. Crise, carência ou conflito não autorizam duplicidade. O caminho cristão exige verdade, ruptura do adultério e reparação possível."
+    },
+    {
+      "id": "I08",
+      "explanation": "A **relação descartável** usa a pessoa enquanto convém e depois foge da responsabilidade. Isso fere a dignidade e a confiança. A resposta é clareza, limite e recusa da ambiguidade."
+    },
+    {
+      "id": "I09",
+      "explanation": "Tratar o **filho como estorvo** reduz a vida a ameaça ao conforto. A fecundidade pede responsabilidade, mas não rejeição egoísta da vida. A resposta cristã une verdade, apoio e abertura responsável."
+    },
+    {
+      "id": "I10",
+      "explanation": "A **técnica sem vínculo** aparece quando a geração humana vira produção. A dor da infertilidade merece compaixão, mas a criança não é produto. Os meios usados também precisam respeitar a dignidade humana."
+    },
+    {
+      "id": "I11",
+      "explanation": "O **assédio no trabalho** usa poder profissional para constranger sexualmente. Não é paquera quando há ameaça, vantagem ou dependência. A resposta deve proteger a vítima e acionar canais competentes."
+    },
+    {
+      "id": "I12",
+      "explanation": "O **abuso de poder** desvia autoridade para dominar a intimidade de alguém. Segredo imposto, isolamento e medo são sinais graves. A resposta pede proteção rápida e denúncia adequada."
+    },
+    {
+      "id": "I13",
+      "explanation": "A **prostituição** envolve comércio do corpo e frequentemente exploração da vulnerabilidade. O pagamento não apaga a dignidade ferida. A resposta cristã combate quem compra, lucra e explora."
+    },
+    {
+      "id": "I14",
+      "explanation": "O **mercado pornográfico** lucra com degradação, vício e exposição. O consumo individual participa de um sistema maior. Cortar o consumo é recusar cooperação com esse dano."
+    },
+    {
+      "id": "I15",
+      "explanation": "A **ferida de abuso** pode atingir confiança, corpo, fé e vínculos. A vítima não deve ser culpada nem exposta. A resposta é proteção, escuta séria e acompanhamento competente."
+    },
+    {
+      "id": "N01",
+      "explanation": "A narrativa **só desejo basta** transforma impulso em lei moral. O desejo é real, mas precisa ser discernido. A liberdade cristã escolhe o bem, não apenas o que atrai no momento."
+    },
+    {
+      "id": "N02",
+      "explanation": "**Todo mundo faz** é pressão cultural, não argumento moral. A frequência de um erro não o transforma em bem. A castidade exige coragem de não seguir a multidão quando ela desordena."
+    },
+    {
+      "id": "N03",
+      "explanation": "**Prova de amor** é chantagem quando exige violar consciência ou limite. Amor verdadeiro não força entrega sexual. Quem ama respeita a liberdade e a dignidade do outro."
+    },
+    {
+      "id": "N04",
+      "explanation": "**Autonomia sem vínculo** ignora que escolhas sexuais atingem outras pessoas. Liberdade não é isolamento moral. O corpo, a intimidade e a palavra criam responsabilidades reais."
+    },
+    {
+      "id": "N05",
+      "explanation": "**Privado não fere** é autoengano quando o segredo alimenta vício, mentira ou infidelidade. Deus vê também o coração. O oculto precisa ser convertido, não apenas escondido."
+    },
+    {
+      "id": "N06",
+      "explanation": "A **ilusão de controle** aparece quando a pessoa diz que para quando quiser, mas já organiza a vida em torno do hábito. Isso revela liberdade enfraquecida. A resposta exige meios proporcionais e ajuda."
+    },
+    {
+      "id": "N07",
+      "explanation": "**Ciúme é amor** confunde cuidado com posse. Vigilância, controle e ameaça não são sinais de amor maduro. O amor busca o bem do outro sem torná-lo refém."
+    },
+    {
+      "id": "N08",
+      "explanation": "**Consentiu uma vez** não cria direito permanente sobre ninguém. A pessoa conserva liberdade e dignidade para dizer não. Usar o passado para pressionar é manipulação."
+    },
+    {
+      "id": "N09",
+      "explanation": "**Compromisso pesa** é desculpa para receber entrega sem assumir responsabilidade. O compromisso verdadeiro não é prisão quando corresponde ao amor. Sem promessa, certos sinais se tornam incoerentes."
+    },
+    {
+      "id": "N10",
+      "explanation": "**Prazer sem consequência** separa prazer de pessoa, vínculo e futuro. O prazer não é mau em si, mas precisa de sentido. Sem amor verdadeiro, ele pode virar consumo do outro."
+    },
+    {
+      "id": "N11",
+      "explanation": "**Fecundidade é defeito** vê a capacidade de gerar vida como inimiga. A fé ensina abertura responsável à vida, não irresponsabilidade. O casal deve cuidar da fertilidade sem negar seu sentido humano."
+    },
+    {
+      "id": "N12",
+      "explanation": "**Ninguém saberá** reduz a moral ao medo de ser descoberto. O mal continua sendo mal quando está escondido. A consciência, Deus e a vítima não desaparecem pela falta de testemunhas."
+    },
+    {
+      "id": "N13",
+      "explanation": "**Castidade é repressão** é caricatura. A castidade não odeia o corpo; ela integra a sexualidade na pessoa. Sua finalidade é liberdade para amar melhor."
+    },
+    {
+      "id": "N14",
+      "explanation": "**Queda definitiva** é mentira contra a esperança. O pecado precisa ser confessado, mas não define a pessoa inteira. Deus chama ao recomeço com verdade e graça."
+    },
+    {
+      "id": "N15",
+      "explanation": "**Aprovação obrigatória** exige concordância moral como preço da acolhida. A fé distingue pessoa e ato. Amar alguém não obriga a chamar de bom aquilo que fere a verdade."
+    },
+    {
+      "id": "G01",
+      "explanation": "**Pessoa e ato** é distinção essencial. A pessoa conserva dignidade mesmo quando peca. O ato, porém, pode e deve ser julgado moralmente com seriedade."
+    },
+    {
+      "id": "G02",
+      "explanation": "**Desejo e bem** não são a mesma coisa. Sentir algo não significa que agir segundo isso seja bom. O desejo precisa ser ordenado pela verdade, pela fidelidade e pela caridade."
+    },
+    {
+      "id": "G03",
+      "explanation": "**Consentimento e entrega** precisam ser distinguidos. Um sim pressionado, temeroso ou manipulado não expressa liberdade plena. A sexualidade pede entrega digna, não aceitação arrancada."
+    },
+    {
+      "id": "G04",
+      "explanation": "**Acolhida e aprovação** não são iguais. O cristão acolhe a pessoa porque ela tem dignidade. Isso não exige aprovar todo ato ou abandonar a verdade moral."
+    },
+    {
+      "id": "G05",
+      "explanation": "**Prudência e omissão** podem parecer parecidas, mas não são. Prudência organiza a ação correta. Omissão usa o medo do problema para deixar a vítima em risco."
+    },
+    {
+      "id": "G06",
+      "explanation": "**Liberdade e impulso** se opõem quando o impulso manda na pessoa. Fazer tudo o que se quer pode ser escravidão. A liberdade cristã é capacidade de escolher o bem."
+    },
+    {
+      "id": "G07",
+      "explanation": "**Culpa e responsabilidade** precisam caminhar juntas. Sentir remorso não basta quando houve dano real. A conversão procura reparar o que for possível, com prudência."
+    },
+    {
+      "id": "G08",
+      "explanation": "**Intimidade e exposição** não são a mesma realidade. Intimidade pede confiança, pudor e proteção. Exposição transforma a pessoa em objeto de olhar e comentário."
+    },
+    {
+      "id": "G09",
+      "explanation": "**Afeto e erotização** devem ser distinguidos. A amizade pode ter carinho, proximidade e confiança. Ela se desordena quando tudo vira insinuação, posse ou excitação."
+    },
+    {
+      "id": "G10",
+      "explanation": "**Amor e posse** seguem direções opostas. Amor busca o bem do outro. Posse controla, vigia e usa o medo para manter domínio."
+    },
+    {
+      "id": "G11",
+      "explanation": "**Prazer e sentido** precisam permanecer unidos. O prazer conjugal é bom quando integrado à doação mútua. Separado do amor, vira consumo ou alívio egoísta."
+    },
+    {
+      "id": "G12",
+      "explanation": "**Fertilidade e técnica** exigem discernimento. Sofrimento com infertilidade merece compaixão. Mas a técnica não pode transformar a criança em produto nem separar geração e doação conjugal."
+    },
+    {
+      "id": "G13",
+      "explanation": "**Queda e identidade** não são a mesma coisa. A queda deve ser reconhecida como pecado quando for pecado. Mas a pessoa não é reduzida ao seu pior ato."
+    },
+    {
+      "id": "G14",
+      "explanation": "**Segredo e proteção** precisam ser discernidos. Há confidencialidade legítima, mas há segredo que acoberta abuso. Quando alguém está em risco, contar a pessoa segura pode ser dever."
+    },
+    {
+      "id": "G15",
+      "explanation": "**Firmeza e dureza** não são iguais. A firmeza diz a verdade e chama à conversão. A dureza humilha, fecha portas e pode aumentar a ferida."
+    },
+    {
+      "id": "O01",
+      "explanation": "**Nomear o limite** é resposta concreta diante de pressão. Não é falta de caridade dizer não com clareza. Quando o limite é desrespeitado, medidas de proteção podem ser necessárias."
+    },
+    {
+      "id": "O02",
+      "explanation": "**Cortar circulação** impede cooperação com o dano. Quem repassa exposição íntima participa da humilhação. A resposta é apagar, não comentar detalhes, não enviar e buscar ajuda segura."
+    },
+    {
+      "id": "O03",
+      "explanation": "**Sair da ocasião** é prudência, não covardia. Quem conhece o próprio risco deve evitar o caminho que o enfraquece. A liberdade se protege também mudando ambiente, horário e companhia."
+    },
+    {
+      "id": "O04",
+      "explanation": "**Pedir ajuda confiável** rompe o isolamento. Algumas situações são graves demais para resolver sozinho. Ajuda boa protege, orienta e encaminha sem aumentar a exposição."
+    },
+    {
+      "id": "O05",
+      "explanation": "**Buscar confissão** é voltar a Deus com verdade. O sacramento não é humilhação, mas misericórdia que perdoa e fortalece. A confissão pede também propósito concreto de mudança."
+    },
+    {
+      "id": "O06",
+      "explanation": "**Reparar o dano** é parte da conversão. Não basta sentir culpa quando a ação feriu alguém. A reparação deve ser prudente, proporcional e sem nova exposição da vítima."
+    },
+    {
+      "id": "O07",
+      "explanation": "**Acompanhamento sério** é necessário quando há padrão repetido, vício ou ferida profunda. Conselho rápido nem sempre basta. O caminho pode exigir direção espiritual, terapia, família segura e perseverança."
+    },
+    {
+      "id": "O08",
+      "explanation": "**Reordenar hábitos** transforma luta moral em passos concretos. Cortar pornografia ou erotização exige mudar rotina, telas, horários e isolamento. A graça age também por meios práticos assumidos com humildade."
+    },
+    {
+      "id": "O09",
+      "explanation": "**Conversa no namoro** evita decisões tomadas no calor da pressão. Namoro casto precisa de limites claros e intenção honesta. Falar antes protege a liberdade dos dois."
+    },
+    {
+      "id": "O10",
+      "explanation": "**Respeitar o tempo** é viver sinais de acordo com o estado de vida. Noivado ainda não é matrimônio. Esperar pode ser ato de amor, verdade e liberdade."
+    },
+    {
+      "id": "O11",
+      "explanation": "**Proteger a vítima** vem antes de proteger reputações. Escuta sem curiosidade, segurança e encaminhamento são essenciais. A vítima não deve ser culpada nem exposta de novo."
+    },
+    {
+      "id": "O12",
+      "explanation": "**Denunciar abuso** é resposta necessária quando há risco grave, vulnerabilidade ou crime. Conversa privada com agressor pode aumentar o perigo. A proteção exige responsáveis e canais competentes."
+    },
+    {
+      "id": "O13",
+      "explanation": "**Cultivar amizade** ordena a afetividade sem negar o desejo de amar. Amizade casta não é relação menor. Ela ensina presença, cuidado, serviço e respeito sem posse."
+    },
+    {
+      "id": "O14",
+      "explanation": "**Discernir vocação** é perguntar como Deus chama a amar. Não basta fugir da solidão por relações improvisadas. O discernimento pede oração, conversa madura e decisões coerentes."
+    },
+    {
+      "id": "O15",
+      "explanation": "**Recomeçar na graça** une esperança e responsabilidade. Deus perdoa, mas o perdão não banaliza o pecado. Recomeçar exige confissão, meios concretos e perseverança humilde."
+    }
+  ]
+}

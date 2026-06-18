@@ -1,0 +1,1967 @@
+{
+  "title": "Chamadas — Bingo Pecados contra a castidade",
+  "meeting": "Encontro 18 — Pecados contra a castidade",
+  "source_terms": "data/termos.json",
+  "method": {
+    "read_order": [
+      "call_label",
+      "case",
+      "reading_points"
+    ],
+    "rule": "A cada carta, anuncie código e conceito, leia o caso e explique brevemente a relação usando a Leitura do caso. Depois as equipes marcam o código, se estiver na cartela.",
+    "conference_rule": "Ao fechar duas linhas válidas, horizontais, verticais ou diagonais, a equipe escolhe uma dessas linhas completas, explica pelo menos três conceitos da linha escolhida e liga pelo menos um deles à base bíblica ou doutrinal do encontro. As duas linhas podem se cruzar. O centro livre já conta como casa marcada para completar linhas, mas não conta como um dos três conceitos explicados."
+  },
+  "cards": [
+    {
+      "id": "B01",
+      "term_id": "B01",
+      "call_label": "B01 - Corpo templo",
+      "case": "Um profissional usa a própria imagem de modo cada vez mais sexualizado para manter seguidores e contratos, embora perceba que já não se apresenta como pessoa inteira.",
+      "conference_question": "Por que dizer que o corpo é templo muda o modo de julgar a exposição e o uso da própria imagem?",
+      "anchors": [
+        "1Cor 6,18-20",
+        "CEC 2355"
+      ],
+      "facilitator_note": "Conduza sem atacar aparência ou vaidade; o foco é o sentido moral do corpo diante de Deus.",
+      "reading_points": [
+        {
+          "title": "Uso do corpo",
+          "body": "A cena mostra o corpo sendo tratado como instrumento de aprovação, lucro e desejo."
+        },
+        {
+          "title": "Critério cristão",
+          "body": "São Paulo ensina que o corpo pertence a Deus e deve glorificá-lo, não ser reduzido a objeto."
+        },
+        {
+          "title": "Resposta adequada",
+          "body": "A castidade pede rever escolhas concretas de exposição, intenção e limites."
+        }
+      ]
+    },
+    {
+      "id": "B02",
+      "term_id": "B02",
+      "call_label": "B02 - Castidade",
+      "case": "Um casal de namorados decide não confundir carinho com posse e conversa sobre limites antes de viajar junto com outros amigos.",
+      "conference_question": "Como a castidade ordena afetos e escolhas sem negar o valor do amor humano?",
+      "anchors": [
+        "CEC 2337",
+        "CEC 2345"
+      ],
+      "facilitator_note": "Mostre que castidade não é medo do corpo, mas integração da sexualidade no amor verdadeiro.",
+      "reading_points": [
+        {
+          "title": "Afeto ordenado",
+          "body": "O caso não nega o carinho, mas reconhece que o amor precisa de forma e direção."
+        },
+        {
+          "title": "Virtude concreta",
+          "body": "Castidade é governar desejos e gestos para que não traiam a dignidade das pessoas."
+        },
+        {
+          "title": "Caminho cristão",
+          "body": "A virtude amadurece com decisão, graça e limites assumidos de modo responsável."
+        }
+      ]
+    },
+    {
+      "id": "B03",
+      "term_id": "B03",
+      "call_label": "B03 - Pureza do coração",
+      "case": "Num escritório, um funcionário comenta detalhes do corpo de uma cliente depois que ela sai, e outros riem como se fosse apenas conversa sem consequência.",
+      "conference_question": "Que diferença existe entre perceber a beleza de alguém e alimentar um olhar de cobiça?",
+      "anchors": [
+        "Mt 5,27-28",
+        "CEC 2520"
+      ],
+      "facilitator_note": "Evite transformar pureza em ingenuidade; trate o olhar como campo real de conversão.",
+      "reading_points": [
+        {
+          "title": "Olhar interior",
+          "body": "Antes de qualquer ato externo, o coração já pode usar o outro como objeto."
+        },
+        {
+          "title": "Palavra de Cristo",
+          "body": "Jesus vai à raiz do adultério ao falar do olhar que cobiça."
+        },
+        {
+          "title": "Educação do coração",
+          "body": "A resposta começa por corrigir pensamento, fala e imaginação alimentada."
+        }
+      ]
+    },
+    {
+      "id": "B04",
+      "term_id": "B04",
+      "call_label": "B04 - Luxúria",
+      "case": "Alguém mantém conversas eróticas com pessoas diferentes, sem querer vínculo algum, dizendo que só busca prazer e distração.",
+      "conference_question": "Por que a luxúria não é apenas desejo forte, mas desejo separado da verdade do amor?",
+      "anchors": [
+        "CEC 2351",
+        "Mt 5,27-28"
+      ],
+      "facilitator_note": "Nomeie a desordem sem curiosidade desnecessária; o ponto é separar prazer isolado e amor verdadeiro.",
+      "reading_points": [
+        {
+          "title": "Prazer isolado",
+          "body": "A cena mostra prazer sexual buscado por si mesmo, sem doação nem responsabilidade."
+        },
+        {
+          "title": "Desordem moral",
+          "body": "A luxúria desliga o prazer das finalidades do amor e da dignidade da pessoa."
+        },
+        {
+          "title": "Conversão necessária",
+          "body": "O caminho cristão exige ordenar desejo, imaginação, vínculos e escolhas."
+        }
+      ]
+    },
+    {
+      "id": "B05",
+      "term_id": "B05",
+      "call_label": "B05 - Finalidade do sexo",
+      "case": "Um casal trata a relação sexual como etapa comum de qualquer namoro, sem perguntar se existe compromisso definitivo, fidelidade pública ou abertura à vida.",
+      "conference_question": "Que critério ajuda a distinguir a visão cristã da sexualidade de uma visão apenas baseada em desejo e ocasião?",
+      "anchors": [
+        "CEC 2351",
+        "Ef 5,31-32"
+      ],
+      "facilitator_note": "Apresente a finalidade do sexo sem reduzir o tema a regra externa; fale de verdade da entrega.",
+      "reading_points": [
+        {
+          "title": "Entrega incompleta",
+          "body": "O gesto corporal promete uma totalidade que o vínculo ainda não assumiu."
+        },
+        {
+          "title": "Finalidade moral",
+          "body": "A sexualidade é ordenada à união dos esposos e à abertura ao dom da vida."
+        },
+        {
+          "title": "Verdade do amor",
+          "body": "A resposta é não separar corpo, compromisso, fidelidade e responsabilidade."
+        }
+      ]
+    },
+    {
+      "id": "B06",
+      "term_id": "B06",
+      "call_label": "B06 - Dignidade da pessoa",
+      "case": "Uma agência escolhe modelos apenas pelo apelo sexual da imagem e descarta quem não rende desejo suficiente para a campanha.",
+      "conference_question": "Como reconhecer quando alguém está sendo reduzido a objeto, mesmo sem violência física?",
+      "anchors": [
+        "Gn 1,27",
+        "CEC 2354",
+        "CEC 2355"
+      ],
+      "facilitator_note": "Mostre que dignidade não depende de utilidade, beleza, lucro ou desejo produzido.",
+      "reading_points": [
+        {
+          "title": "Redução da pessoa",
+          "body": "A pessoa é avaliada pelo desejo que provoca e pelo lucro que rende."
+        },
+        {
+          "title": "Imagem de Deus",
+          "body": "A dignidade humana vem de Deus e não pode ser comprada nem medida por aparência."
+        },
+        {
+          "title": "Leitura moral",
+          "body": "A castidade exige ver o outro como pessoa inteira, não como corpo consumível."
+        }
+      ]
+    },
+    {
+      "id": "B07",
+      "term_id": "B07",
+      "call_label": "B07 - Dom de si",
+      "case": "Um homem afirma que ama a noiva, mas pressiona para obter intimidade que ela já disse não querer antes do casamento.",
+      "conference_question": "Por que o dom de si exclui pressão, cobrança e uso do corpo do outro?",
+      "anchors": [
+        "Ef 5,31-32",
+        "CEC 2337"
+      ],
+      "facilitator_note": "Destaque que amor não é posse e não usa a fraqueza do outro como oportunidade.",
+      "reading_points": [
+        {
+          "title": "Amor contradito",
+          "body": "A palavra amor perde verdade quando tenta vencer a consciência do outro."
+        },
+        {
+          "title": "Doação real",
+          "body": "Dom de si exige respeito, fidelidade e busca do bem da pessoa amada."
+        },
+        {
+          "title": "Resposta moral",
+          "body": "O limite casto protege a liberdade e impede que o afeto vire uso."
+        }
+      ]
+    },
+    {
+      "id": "B08",
+      "term_id": "B08",
+      "call_label": "B08 - Aliança matrimonial",
+      "case": "Duas pessoas moram juntas há pouco tempo e dizem que casamento não muda nada, embora evitem assumir publicamente fidelidade e responsabilidade duradoura.",
+      "conference_question": "O que muda moralmente quando a entrega sexual pertence a uma aliança pública e definitiva?",
+      "anchors": [
+        "CEC 2353",
+        "Ef 5,31-32"
+      ],
+      "facilitator_note": "Evite tom de desprezo por casais em situação irregular; explique a verdade objetiva do vínculo matrimonial.",
+      "reading_points": [
+        {
+          "title": "Compromisso ausente",
+          "body": "A convivência não equivale automaticamente à aliança matrimonial."
+        },
+        {
+          "title": "Forma da entrega",
+          "body": "O ato sexual pleno pede vínculo público, fiel e aberto à vida."
+        },
+        {
+          "title": "Chamado cristão",
+          "body": "A Igreja propõe ordenar o amor segundo a verdade do matrimônio."
+        }
+      ]
+    },
+    {
+      "id": "B09",
+      "term_id": "B09",
+      "call_label": "B09 - Pecado contra o corpo",
+      "case": "Depois de uma noite de encontros sem compromisso, uma pessoa diz que não aconteceu nada demais porque ninguém ficou sabendo.",
+      "conference_question": "Por que a ocultação social não elimina o dano moral de um pecado contra o próprio corpo?",
+      "anchors": [
+        "1Cor 6,18-20",
+        "CEC 2353"
+      ],
+      "facilitator_note": "Fale do corpo sem desprezo; o corpo é bom, por isso pode ser ferido por escolhas desordenadas.",
+      "reading_points": [
+        {
+          "title": "Segredo não absolve",
+          "body": "O fato de ninguém saber não torna o ato verdadeiro nem justo."
+        },
+        {
+          "title": "Ferida no corpo",
+          "body": "São Paulo ensina que a impureza toca a pessoa em sua própria corporeidade."
+        },
+        {
+          "title": "Glorificar a Deus",
+          "body": "A resposta cristã é usar o corpo segundo a verdade recebida de Deus."
+        }
+      ]
+    },
+    {
+      "id": "B10",
+      "term_id": "B10",
+      "call_label": "B10 - Graça no combate",
+      "case": "Alguém decide mudar de vida, mas percebe que só prometer nunca mais cair não bastou diante dos mesmos hábitos e horários.",
+      "conference_question": "Por que o combate pela castidade precisa unir decisão concreta e confiança na graça?",
+      "anchors": [
+        "1Cor 6,18-20",
+        "CEC 2359"
+      ],
+      "facilitator_note": "Evite tanto desespero quanto facilidade; a luta cristã exige graça, meios e perseverança.",
+      "reading_points": [
+        {
+          "title": "Promessa insuficiente",
+          "body": "Boa intenção sem meios concretos costuma fracassar diante de hábito forte."
+        },
+        {
+          "title": "Graça necessária",
+          "body": "A castidade cristã é sustentada por Deus e educada por escolhas reais."
+        },
+        {
+          "title": "Recomeço ordenado",
+          "body": "Confissão, oração, acompanhamento e mudança de rotina fazem parte do combate."
+        }
+      ]
+    },
+    {
+      "id": "B11",
+      "term_id": "B11",
+      "call_label": "B11 - Confissão e perdão",
+      "case": "Uma pessoa deixou de se confessar por anos porque tem vergonha de repetir pecados contra a castidade e acha que Deus já se cansou dela.",
+      "conference_question": "Como anunciar a misericórdia sem tratar o pecado como coisa sem importância?",
+      "anchors": [
+        "Jo 8,11",
+        "CEC 2352"
+      ],
+      "facilitator_note": "Una firmeza moral e esperança; nunca deixe a turma concluir que a queda é destino.",
+      "reading_points": [
+        {
+          "title": "Vergonha paralisante",
+          "body": "A vergonha pode impedir que a pessoa procure o remédio que Deus oferece."
+        },
+        {
+          "title": "Perdão real",
+          "body": "Cristo perdoa o coração arrependido e chama a não permanecer no pecado."
+        },
+        {
+          "title": "Sacramento concreto",
+          "body": "A Confissão não é teatro de perfeição, mas caminho de conversão e graça."
+        }
+      ]
+    },
+    {
+      "id": "B12",
+      "term_id": "B12",
+      "call_label": "B12 - Autodomínio",
+      "case": "Um homem percebe que sempre procura conteúdo impuro quando está cansado e sozinho, mas insiste que liberdade é fazer o que sente na hora.",
+      "conference_question": "Como distinguir liberdade verdadeira de simples obediência ao impulso?",
+      "anchors": [
+        "CEC 2340",
+        "CEC 2359"
+      ],
+      "facilitator_note": "Mostre autodomínio como liberdade madura, não como dureza sem afeto.",
+      "reading_points": [
+        {
+          "title": "Padrão reconhecido",
+          "body": "A cena mostra que o impulso aparece em condições previsíveis."
+        },
+        {
+          "title": "Liberdade educada",
+          "body": "Autodomínio é escolher o bem quando o desejo pressiona em outra direção."
+        },
+        {
+          "title": "Prática concreta",
+          "body": "A virtude cresce quando a pessoa muda rotina, busca ajuda e aprende a governar-se."
+        }
+      ]
+    },
+    {
+      "id": "B13",
+      "term_id": "B13",
+      "call_label": "B13 - Vocação à santidade",
+      "case": "Uma pessoa com atração por pessoas do mesmo sexo ouve que não há caminho cristão possível para ela, enquanto outra diz que nenhum limite moral se aplica ao seu caso.",
+      "conference_question": "Como manter juntos respeito à pessoa, verdade moral e chamado universal à castidade?",
+      "anchors": [
+        "CEC 2358",
+        "CEC 2359"
+      ],
+      "facilitator_note": "Conduza com precisão: a inclinação não é pecado, os atos têm juízo moral, e toda pessoa é chamada à santidade.",
+      "reading_points": [
+        {
+          "title": "Dois erros opostos",
+          "body": "Um erro exclui a pessoa; o outro exclui a exigência da castidade."
+        },
+        {
+          "title": "Chamado comum",
+          "body": "A Igreja afirma respeito, compaixão, delicadeza e vocação à castidade."
+        },
+        {
+          "title": "Caminho possível",
+          "body": "Graça, amizade desinteressada, oração e sacramentos sustentam a vida cristã."
+        }
+      ]
+    },
+    {
+      "id": "B14",
+      "term_id": "B14",
+      "call_label": "B14 - Respeito e delicadeza",
+      "case": "Numa conversa familiar, alguém corrige uma conduta sexual com palavras humilhantes, enquanto outra pessoa evita qualquer verdade para não criar conflito.",
+      "conference_question": "Como falar a verdade moral sem humilhar a pessoa nem fugir do ensinamento cristão?",
+      "anchors": [
+        "CEC 2358",
+        "G05"
+      ],
+      "facilitator_note": "Mostre que caridade e verdade não se anulam; a firmeza cristã não precisa ser brutal.",
+      "reading_points": [
+        {
+          "title": "Dois desvios",
+          "body": "Humilhar fere a pessoa, mas calar a verdade também não ajuda a consciência."
+        },
+        {
+          "title": "Delicadeza cristã",
+          "body": "A Igreja pede respeito e rejeita discriminação injusta, sem aprovar o pecado."
+        },
+        {
+          "title": "Palavra madura",
+          "body": "A resposta é falar com clareza, propor caminho e preservar a dignidade."
+        }
+      ]
+    },
+    {
+      "id": "B15",
+      "term_id": "B15",
+      "call_label": "B15 - Justiça na intimidade",
+      "case": "Um chefe toca funcionárias de modo invasivo e diz que é brincadeira de ambiente descontraído, mas elas evitam ficar sozinhas com ele.",
+      "conference_question": "Que sinais mostram que a intimidade foi transformada em abuso de poder e injustiça?",
+      "anchors": [
+        "CEC 2356",
+        "Gn 1,27"
+      ],
+      "facilitator_note": "Não trate abuso como mera falta de educação; nomeie a gravidade sem sensacionalismo.",
+      "reading_points": [
+        {
+          "title": "Liberdade ferida",
+          "body": "O medo das funcionárias mostra que o gesto não é brincadeira inocente."
+        },
+        {
+          "title": "Violação da dignidade",
+          "body": "A intimidade exige respeito, liberdade e integridade física e moral."
+        },
+        {
+          "title": "Resposta justa",
+          "body": "A situação pede limite, proteção das vítimas e providência responsável."
+        }
+      ]
+    },
+    {
+      "id": "I01",
+      "term_id": "I01",
+      "call_label": "I01 - Olhar de cobiça",
+      "case": "Num transporte lotado, um homem fica encarando uma passageira de modo insistente, depois comenta no celular que não tocou em ninguém e por isso não fez nada errado.",
+      "conference_question": "Como o ensinamento de Jesus sobre o olhar ajuda a julgar essa situação sem esperar um ato físico?",
+      "anchors": [
+        "Mt 5,27-28",
+        "B03"
+      ],
+      "facilitator_note": "Aponte o problema moral do olhar que usa o outro, sem confundir com percepção espontânea de beleza.",
+      "reading_points": [
+        {
+          "title": "Cobiça visível",
+          "body": "O olhar insistente já comunica posse e desconforto, mesmo sem contato físico."
+        },
+        {
+          "title": "Raiz interior",
+          "body": "Jesus ensina que o coração pode adulterar pelo olhar desejante."
+        },
+        {
+          "title": "Correção do olhar",
+          "body": "A castidade começa quando a pessoa decide não alimentar a cobiça."
+        }
+      ]
+    },
+    {
+      "id": "I02",
+      "term_id": "I02",
+      "call_label": "I02 - Consumo de pornografia",
+      "case": "Um adulto assiste pornografia quase todas as noites e percebe que passou a comparar pessoas reais com cenas produzidas para excitação.",
+      "conference_question": "Por que a pornografia prejudica tanto quem aparece nela quanto quem a consome?",
+      "anchors": [
+        "CEC 2354",
+        "B06"
+      ],
+      "facilitator_note": "Fale com seriedade e sem detalhes gráficos; destaque objeto, lucro e mundo artificial.",
+      "reading_points": [
+        {
+          "title": "Mundo artificial",
+          "body": "A pornografia treina o olhar para consumir corpos e cenas como produto."
+        },
+        {
+          "title": "Ofensa à dignidade",
+          "body": "O Catecismo ensina que atores, comerciantes e público são envolvidos numa redução da pessoa."
+        },
+        {
+          "title": "Caminho de ruptura",
+          "body": "A resposta pede corte de acesso, Confissão e reconstrução do olhar."
+        }
+      ]
+    },
+    {
+      "id": "I03",
+      "term_id": "I03",
+      "call_label": "I03 - Repasse de íntimos",
+      "case": "Depois do fim de um namoro, uma foto íntima começa a circular em grupos, e quem compartilha diz que não tem culpa porque recebeu de outra pessoa.",
+      "conference_question": "Por que repassar conteúdo íntimo faz parte do dano, mesmo quando a pessoa não produziu a imagem?",
+      "anchors": [
+        "CEC 2354",
+        "B06"
+      ],
+      "facilitator_note": "Destaque responsabilidade de quem aumenta a exposição e cuidado para não expor a vítima novamente.",
+      "reading_points": [
+        {
+          "title": "Dano ampliado",
+          "body": "Cada repasse aumenta a humilhação e transforma intimidade em espetáculo."
+        },
+        {
+          "title": "Culpa compartilhada",
+          "body": "Não ter produzido a imagem não torna moralmente neutro distribuí-la."
+        },
+        {
+          "title": "Resposta imediata",
+          "body": "É preciso parar a circulação, apagar, não comentar e buscar ajuda responsável."
+        }
+      ]
+    },
+    {
+      "id": "I04",
+      "term_id": "I04",
+      "call_label": "I04 - Relação sem aliança",
+      "case": "Um casal afirma que se ama, mas evita qualquer compromisso definitivo e mantém relação sexual como se o sentimento bastasse para justificar tudo.",
+      "conference_question": "Por que o sentimento real não torna automaticamente justa uma entrega sexual fora do casamento?",
+      "anchors": [
+        "CEC 2353",
+        "B08"
+      ],
+      "facilitator_note": "Reconheça que afeto pode existir, mas explique que o ato tem significado objetivo.",
+      "reading_points": [
+        {
+          "title": "Afeto insuficiente",
+          "body": "O amor declarado não substitui a aliança que sustenta a entrega total."
+        },
+        {
+          "title": "Fornicação",
+          "body": "A Igreja ensina que a união sexual fora do casamento é gravemente contrária à dignidade da sexualidade."
+        },
+        {
+          "title": "Ordenar o vínculo",
+          "body": "A resposta cristã é viver continência e caminhar para uma decisão verdadeira diante de Deus."
+        }
+      ]
+    },
+    {
+      "id": "I05",
+      "term_id": "I05",
+      "call_label": "I05 - Pressão por prova",
+      "case": "Uma namorada ouve repetidas vezes que, se confiasse de verdade, aceitaria certas intimidades que ela já recusou.",
+      "conference_question": "Como distinguir pedido de amor verdadeiro de pressão que tenta vencer a consciência do outro?",
+      "anchors": [
+        "B07",
+        "G12"
+      ],
+      "facilitator_note": "Nomeie a manipulação com clareza; ninguém deve ceder intimidade para provar valor.",
+      "reading_points": [
+        {
+          "title": "Afeto usado",
+          "body": "A confiança é transformada em moeda para obter intimidade."
+        },
+        {
+          "title": "Amor sem coação",
+          "body": "O amor verdadeiro respeita limite, tempo, consciência e dignidade."
+        },
+        {
+          "title": "Resposta proporcional",
+          "body": "O caminho é dizer não, nomear a pressão e buscar apoio se ela continuar."
+        }
+      ]
+    },
+    {
+      "id": "I06",
+      "term_id": "I06",
+      "call_label": "I06 - Masturbação habitual",
+      "case": "Uma pessoa percebe que recorre à masturbação sempre que está ansiosa, e depois sente vergonha, mas não muda os gatilhos que alimentam o hábito.",
+      "conference_question": "Como julgar a gravidade do ato sem ignorar fatores como hábito, ansiedade e imaturidade?",
+      "anchors": [
+        "CEC 2352",
+        "G14"
+      ],
+      "facilitator_note": "Trate com sobriedade: não banalize o ato e não esmague a pessoa pela vergonha.",
+      "reading_points": [
+        {
+          "title": "Hábito real",
+          "body": "O caso mostra repetição ligada a ansiedade e circunstâncias previsíveis."
+        },
+        {
+          "title": "Juízo equilibrado",
+          "body": "O Catecismo afirma a desordem objetiva e considera fatores que podem diminuir a culpa."
+        },
+        {
+          "title": "Combate concreto",
+          "body": "A resposta envolve Confissão, mudança de rotina, acompanhamento e fuga dos estímulos."
+        }
+      ]
+    },
+    {
+      "id": "I07",
+      "term_id": "I07",
+      "call_label": "I07 - Prostituição paga",
+      "case": "Após uma viagem de trabalho, alguns homens combinam pagar por sexo e tratam a situação como diversão de adultos.",
+      "conference_question": "Por que pagar não transforma em justo o uso sexual do corpo de outra pessoa?",
+      "anchors": [
+        "CEC 2355",
+        "B06"
+      ],
+      "facilitator_note": "Não romantize nem ridicularize; destaque compra do corpo, pecado de quem paga e vulnerabilidade envolvida.",
+      "reading_points": [
+        {
+          "title": "Compra do acesso",
+          "body": "O pagamento tenta transformar o corpo de alguém em serviço sexual disponível."
+        },
+        {
+          "title": "Pecado grave",
+          "body": "O Catecismo afirma que quem paga peca contra si mesmo e contra a dignidade da pessoa explorada."
+        },
+        {
+          "title": "Olhar cristão",
+          "body": "A resposta é recusar a compra e reconhecer a pessoa prostituída como alguém a proteger, não a usar."
+        }
+      ]
+    },
+    {
+      "id": "I08",
+      "term_id": "I08",
+      "call_label": "I08 - Exploração sexual",
+      "case": "Uma mulher endividada recebe proposta de moradia em troca de favores sexuais, e o homem apresenta isso como acordo vantajoso para os dois.",
+      "conference_question": "Como a vulnerabilidade muda a leitura moral de um suposto acordo sexual?",
+      "anchors": [
+        "CEC 2355",
+        "B15"
+      ],
+      "facilitator_note": "Destaque que miséria, chantagem e pressão social podem reduzir liberdade e agravar a exploração.",
+      "reading_points": [
+        {
+          "title": "Vulnerabilidade explorada",
+          "body": "A necessidade material é usada para obter submissão sexual."
+        },
+        {
+          "title": "Acordo injusto",
+          "body": "Nem todo acordo aparente é livre quando há dependência, medo ou miséria."
+        },
+        {
+          "title": "Resposta justa",
+          "body": "A situação pede proteção, ajuda concreta e recusa de qualquer ganho sexual com a fragilidade alheia."
+        }
+      ]
+    },
+    {
+      "id": "I09",
+      "term_id": "I09",
+      "call_label": "I09 - Estupro",
+      "case": "Depois de uma festa, uma mulher sem condições de reagir sofre violência sexual, e o agressor tenta dizer que ela não recusou claramente.",
+      "conference_question": "Por que incapacidade de defesa ou reação não pode ser tratada como consentimento?",
+      "anchors": [
+        "CEC 2356",
+        "B15"
+      ],
+      "facilitator_note": "Nomeie a violência com seriedade; evite qualquer insinuação de culpa da vítima.",
+      "reading_points": [
+        {
+          "title": "Violência sexual",
+          "body": "A vítima não estava em condição livre de consentir ou se defender."
+        },
+        {
+          "title": "Mal intrínseco",
+          "body": "O estupro fere liberdade, integridade, justiça e caridade."
+        },
+        {
+          "title": "Proteção da vítima",
+          "body": "A resposta exige apoio, cuidado, providências legais e rejeição da culpabilização."
+        }
+      ]
+    },
+    {
+      "id": "I10",
+      "term_id": "I10",
+      "call_label": "I10 - Abuso de autoridade",
+      "case": "Um treinador promete escalação melhor a uma atleta se ela aceitar encontros privados e mensagens íntimas fora do horário de treino.",
+      "conference_question": "Que elementos mostram abuso de autoridade e não simples interesse pessoal?",
+      "anchors": [
+        "CEC 2356",
+        "G09"
+      ],
+      "facilitator_note": "Evidencie assimetria de poder, dependência e necessidade de proteção institucional.",
+      "reading_points": [
+        {
+          "title": "Poder usado",
+          "body": "A autoridade sobre a carreira da atleta vira instrumento de pressão sexual."
+        },
+        {
+          "title": "Consentimento comprometido",
+          "body": "Quando há dependência e ameaça velada, a liberdade fica ferida."
+        },
+        {
+          "title": "Encaminhamento",
+          "body": "A resposta exige romper isolamento, guardar provas e acionar responsáveis seguros."
+        }
+      ]
+    },
+    {
+      "id": "I11",
+      "term_id": "I11",
+      "call_label": "I11 - Chantagem afetiva",
+      "case": "Um rapaz ameaça terminar e expor conversas antigas se a namorada não aceitar novas intimidades.",
+      "conference_question": "Como a chantagem afetiva transforma uma relação em controle e não em amor?",
+      "anchors": [
+        "G12",
+        "O10"
+      ],
+      "facilitator_note": "Oriente resposta segura; não coloque sobre a vítima a tarefa de resolver sozinha a manipulação.",
+      "reading_points": [
+        {
+          "title": "Medo como pressão",
+          "body": "A ameaça usa abandono e exposição para forçar a decisão."
+        },
+        {
+          "title": "Amor falsificado",
+          "body": "O amor não exige entrega por medo nem usa segredo como arma."
+        },
+        {
+          "title": "Ruptura necessária",
+          "body": "A resposta inclui limite claro, apoio confiável e, se houver ameaça, denúncia adequada."
+        }
+      ]
+    },
+    {
+      "id": "I12",
+      "term_id": "I12",
+      "call_label": "I12 - Descarte em aplicativo",
+      "case": "Alguém marca encontros por aplicativo apenas para satisfação imediata e bloqueia a outra pessoa assim que perde o interesse.",
+      "conference_question": "Por que a facilidade do encontro não elimina a responsabilidade moral pelo modo de tratar a pessoa?",
+      "anchors": [
+        "B07",
+        "B09"
+      ],
+      "facilitator_note": "Não faça crítica genérica à tecnologia; foque no descarte da pessoa e no uso do corpo.",
+      "reading_points": [
+        {
+          "title": "Uso e descarte",
+          "body": "A outra pessoa é tratada como meio de satisfação rápida."
+        },
+        {
+          "title": "Falta de doação",
+          "body": "O gesto sexual sem responsabilidade contradiz a verdade do dom de si."
+        },
+        {
+          "title": "Conversão do vínculo",
+          "body": "A resposta é abandonar relações de consumo e buscar vínculos castos e verdadeiros."
+        }
+      ]
+    },
+    {
+      "id": "I13",
+      "term_id": "I13",
+      "call_label": "I13 - Infidelidade digital",
+      "case": "Uma pessoa casada mantém conversas eróticas secretas no celular e insiste que não traiu porque nunca encontrou a outra pessoa.",
+      "conference_question": "Como a fidelidade conjugal pode ser ferida por mensagens e fantasias alimentadas deliberadamente?",
+      "anchors": [
+        "Mt 5,27-28",
+        "B08"
+      ],
+      "facilitator_note": "Mostre que a vida digital entra no campo moral; não reduza fidelidade ao contato físico.",
+      "reading_points": [
+        {
+          "title": "Segredo erótico",
+          "body": "A conversa cria uma intimidade contrária ao vínculo assumido."
+        },
+        {
+          "title": "Coração infiel",
+          "body": "Jesus ensina que a cobiça consentida já fere a fidelidade no coração."
+        },
+        {
+          "title": "Reparação do vínculo",
+          "body": "A resposta pede corte da relação secreta, verdade e reconstrução responsável."
+        }
+      ]
+    },
+    {
+      "id": "I14",
+      "term_id": "I14",
+      "call_label": "I14 - Corpo como vitrine",
+      "case": "Uma influenciadora percebe que as publicações mais sexualizadas rendem mais dinheiro e passa a organizar toda a imagem pública para provocar desejo.",
+      "conference_question": "Que critério cristão ajuda a distinguir beleza legítima de exposição que transforma o corpo em mercadoria?",
+      "anchors": [
+        "B01",
+        "B06"
+      ],
+      "facilitator_note": "Não moralize aparência de modo superficial; trabalhe intenção, exploração e redução da pessoa.",
+      "reading_points": [
+        {
+          "title": "Atenção comprada",
+          "body": "O corpo passa a ser usado como estratégia de audiência e lucro."
+        },
+        {
+          "title": "Dignidade reduzida",
+          "body": "A pessoa se apresenta e é consumida principalmente como objeto de desejo."
+        },
+        {
+          "title": "Escolha cristã",
+          "body": "A resposta é rever intenção, limites e forma de presença pública."
+        }
+      ]
+    },
+    {
+      "id": "I15",
+      "term_id": "I15",
+      "call_label": "I15 - Ambiente permissivo",
+      "case": "Numa confraternização de empresa, piadas sexuais, bebidas em excesso e convites ambíguos se tornam parte esperada da noite.",
+      "conference_question": "Como reconhecer uma ocasião perigosa antes que a pessoa diga que simplesmente aconteceu?",
+      "anchors": [
+        "1Ts 4,3-5",
+        "O01"
+      ],
+      "facilitator_note": "Mostre que prudência inclui prever ambientes que enfraquecem a liberdade.",
+      "reading_points": [
+        {
+          "title": "Risco previsível",
+          "body": "O ambiente reúne estímulos que tornam quedas mais prováveis."
+        },
+        {
+          "title": "Normalização",
+          "body": "Quando todos tratam como brincadeira, a consciência pode baixar a guarda."
+        },
+        {
+          "title": "Fuga prudente",
+          "body": "A resposta pode ser limitar presença, evitar excesso e sair antes da ocasião se fechar."
+        }
+      ]
+    },
+    {
+      "id": "N01",
+      "term_id": "N01",
+      "call_label": "N01 - Não faz mal a ninguém",
+      "case": "Um homem justifica pornografia e conversas eróticas dizendo que não trai fisicamente, não engravidou ninguém e não há vítima visível.",
+      "conference_question": "Que danos morais essa frase deixa de enxergar quando fala apenas de consequências visíveis?",
+      "anchors": [
+        "1Cor 6,18-20",
+        "CEC 2351"
+      ],
+      "facilitator_note": "Desmonte a frase sem exagerar; mostre danos reais ao corpo, ao coração, ao outro e à relação com Deus.",
+      "reading_points": [
+        {
+          "title": "Dano invisível",
+          "body": "Nem todo mal aparece como ferimento imediato ou escândalo público."
+        },
+        {
+          "title": "Redução do outro",
+          "body": "A luxúria e a pornografia moldam o olhar para usar pessoas."
+        },
+        {
+          "title": "Critério cristão",
+          "body": "O corpo é chamado a glorificar Deus, não apenas a evitar consequências externas."
+        }
+      ]
+    },
+    {
+      "id": "N02",
+      "term_id": "N02",
+      "call_label": "N02 - Todo mundo faz",
+      "case": "Num grupo de trabalho, os homens riem de quem recusa uma saída para pagar por sexo e dizem que isso é normal em viagem.",
+      "conference_question": "Por que a frequência social de um comportamento não decide se ele é moralmente bom?",
+      "anchors": [
+        "1Ts 4,3-5",
+        "B12"
+      ],
+      "facilitator_note": "Destaque pressão de grupo e formação da liberdade contra normalizações culturais.",
+      "reading_points": [
+        {
+          "title": "Pressão coletiva",
+          "body": "A frase tenta fazer a pessoa ceder por medo de parecer diferente."
+        },
+        {
+          "title": "Normal não é bom",
+          "body": "O pecado continua ferindo a dignidade mesmo quando se torna comum."
+        },
+        {
+          "title": "Liberdade cristã",
+          "body": "Autodomínio permite resistir ao grupo quando o grupo normaliza o mal."
+        }
+      ]
+    },
+    {
+      "id": "N03",
+      "term_id": "N03",
+      "call_label": "N03 - Ilusão de controle",
+      "case": "Alguém mantém perfis, conversas e arquivos que sempre o levam à queda, mas repete que desta vez vai apenas olhar um pouco.",
+      "conference_question": "Como distinguir confiança madura de ilusão de controle diante de ocasiões já conhecidas?",
+      "anchors": [
+        "CEC 2340",
+        "O01"
+      ],
+      "facilitator_note": "Ajude a turma a perceber padrões; a prudência não é covardia, é verdade sobre a própria fragilidade.",
+      "reading_points": [
+        {
+          "title": "Padrão negado",
+          "body": "A pessoa conhece o caminho da queda, mas finge que agora será diferente sem mudar nada."
+        },
+        {
+          "title": "Liberdade frágil",
+          "body": "Hábitos e estímulos repetidos enfraquecem a vontade."
+        },
+        {
+          "title": "Corte prudente",
+          "body": "A resposta é fugir da ocasião e cortar acesso, não negociar com o gatilho."
+        }
+      ]
+    },
+    {
+      "id": "N04",
+      "term_id": "N04",
+      "call_label": "N04 - Falsa autonomia",
+      "case": "Uma pessoa diz que pode fazer qualquer coisa com o próprio corpo, desde que tenha vontade e ninguém a impeça.",
+      "conference_question": "O que muda quando o corpo é visto como dom recebido de Deus, e não como propriedade absoluta?",
+      "anchors": [
+        "1Cor 6,19-20",
+        "B01"
+      ],
+      "facilitator_note": "Evite linguagem de posse agressiva; explique pertencimento a Deus como dignidade e vocação.",
+      "reading_points": [
+        {
+          "title": "Autonomia isolada",
+          "body": "A frase separa liberdade de verdade, responsabilidade e relação com Deus."
+        },
+        {
+          "title": "Corpo recebido",
+          "body": "São Paulo lembra que o cristão não pertence a si mesmo de modo absoluto."
+        },
+        {
+          "title": "Liberdade ordenada",
+          "body": "Usar bem o corpo é responder ao dom de Deus com amor e castidade."
+        }
+      ]
+    },
+    {
+      "id": "N05",
+      "term_id": "N05",
+      "call_label": "N05 - Prova de amor",
+      "case": "Um noivo diz que esperar o casamento é falta de confiança e usa essa acusação para pressionar a noiva.",
+      "conference_question": "Por que exigir pecado como prova de amor contradiz o próprio amor?",
+      "anchors": [
+        "B07",
+        "I05"
+      ],
+      "facilitator_note": "Nomeie a chantagem sem transformar o caso em batalha de gênero; o critério vale para qualquer pessoa.",
+      "reading_points": [
+        {
+          "title": "Teste falso",
+          "body": "A confiança é usada como armadilha para ultrapassar um limite moral."
+        },
+        {
+          "title": "Amor contradito",
+          "body": "Quem ama não força o outro a ferir a consciência para provar afeto."
+        },
+        {
+          "title": "Limite necessário",
+          "body": "A resposta é recusar a pressão e recolocar a relação na verdade."
+        }
+      ]
+    },
+    {
+      "id": "N06",
+      "term_id": "N06",
+      "call_label": "N06 - Só virtual",
+      "case": "Uma pessoa casada troca imagens íntimas com desconhecidos e diz que isso não atinge o casamento porque ficou tudo no celular.",
+      "conference_question": "Por que a tela não separa uma ação do juízo moral sobre desejo, fidelidade e dignidade?",
+      "anchors": [
+        "Mt 5,27-28",
+        "CEC 2354"
+      ],
+      "facilitator_note": "Deixe claro que o digital é lugar de atos humanos reais, com escolhas e consequências.",
+      "reading_points": [
+        {
+          "title": "Ato real",
+          "body": "A mediação da tela não elimina intenção, consentimento e dano."
+        },
+        {
+          "title": "Coração envolvido",
+          "body": "O olhar e a cobiça continuam sendo matéria moral diante de Cristo."
+        },
+        {
+          "title": "Corte necessário",
+          "body": "A resposta pede interromper o contato e reparar a fidelidade ferida."
+        }
+      ]
+    },
+    {
+      "id": "N07",
+      "term_id": "N07",
+      "call_label": "N07 - Corpo como produto",
+      "case": "Uma plataforma lucra incentivando criadores a vender intimidade, e chama isso de empreendedorismo sem vítimas.",
+      "conference_question": "Como perceber a lógica de mercadoria quando a linguagem usada é liberdade, renda ou escolha?",
+      "anchors": [
+        "CEC 2354",
+        "CEC 2355"
+      ],
+      "facilitator_note": "Mostre que ganho financeiro não purifica uma lógica que reduz a pessoa ao consumo sexual.",
+      "reading_points": [
+        {
+          "title": "Mercadoria sexual",
+          "body": "A intimidade vira produto oferecido, comprado e medido por lucro."
+        },
+        {
+          "title": "Dignidade ferida",
+          "body": "O corpo não é simples material de mercado, porque pertence à pessoa inteira."
+        },
+        {
+          "title": "Discernimento cristão",
+          "body": "A resposta é recusar a exploração e proteger quem está vulnerável a ela."
+        }
+      ]
+    },
+    {
+      "id": "N08",
+      "term_id": "N08",
+      "call_label": "N08 - Culpa da vítima",
+      "case": "Depois de uma denúncia de abuso, pessoas comentam primeiro a roupa, o horário e a vida passada da vítima, antes de olhar para o ato do agressor.",
+      "conference_question": "Como distinguir prudência sobre riscos de injustiça que transfere a culpa para a vítima?",
+      "anchors": [
+        "CEC 2356",
+        "G10"
+      ],
+      "facilitator_note": "Seja firme: nada justifica violência sexual; prudência não pode virar acusação contra quem sofreu.",
+      "reading_points": [
+        {
+          "title": "Deslocamento injusto",
+          "body": "A atenção sai do agressor e cai sobre quem sofreu a violência."
+        },
+        {
+          "title": "Responsabilidade moral",
+          "body": "O mal do estupro pertence ao agressor, não à aparência ou história da vítima."
+        },
+        {
+          "title": "Proteção",
+          "body": "A resposta é acolher, proteger e buscar justiça sem exposição humilhante."
+        }
+      ]
+    },
+    {
+      "id": "N09",
+      "term_id": "N09",
+      "call_label": "N09 - Desejo manda",
+      "case": "Um homem afirma que não consegue ser fiel porque sua natureza é desejar muitas pessoas e que seria falso resistir a isso.",
+      "conference_question": "Que visão de liberdade está por trás da frase de que o desejo deve mandar?",
+      "anchors": [
+        "CEC 2340",
+        "G13"
+      ],
+      "facilitator_note": "Mostre que desejos existem, mas não são senhores da consciência.",
+      "reading_points": [
+        {
+          "title": "Impulso no comando",
+          "body": "A frase transforma desejo sentido em norma de ação."
+        },
+        {
+          "title": "Liberdade reduzida",
+          "body": "Obedecer a todo impulso não é liberdade madura, mas escravidão interior."
+        },
+        {
+          "title": "Autodomínio",
+          "body": "A castidade educa a vontade para escolher o bem acima da pressão do desejo."
+        }
+      ]
+    },
+    {
+      "id": "N10",
+      "term_id": "N10",
+      "call_label": "N10 - Consentiu uma vez",
+      "case": "Depois de ter aceitado intimidade em outro momento, uma mulher diz não, e o parceiro responde que agora ela não pode voltar atrás.",
+      "conference_question": "Por que um consentimento passado não elimina a liberdade presente de recusar?",
+      "anchors": [
+        "CEC 2356",
+        "B15"
+      ],
+      "facilitator_note": "Deixe claro que pressão depois de recusa é grave; a liberdade não é perdida por decisão anterior.",
+      "reading_points": [
+        {
+          "title": "Liberdade presente",
+          "body": "A pessoa pode retirar consentimento e precisa ser respeitada."
+        },
+        {
+          "title": "Coação",
+          "body": "Usar o passado para forçar o presente transforma intimidade em violência moral."
+        },
+        {
+          "title": "Resposta justa",
+          "body": "O limite deve ser obedecido imediatamente, e a vítima deve buscar proteção se houver ameaça."
+        }
+      ]
+    },
+    {
+      "id": "N11",
+      "term_id": "N11",
+      "call_label": "N11 - Privado sem pecado",
+      "case": "Alguém mantém uma vida dupla de impureza e diz que, como tudo é secreto, não há escândalo nem problema moral sério.",
+      "conference_question": "Por que o pecado escondido ainda fere a relação com Deus e a integridade da pessoa?",
+      "anchors": [
+        "Mt 5,27-28",
+        "1Cor 6,18-20"
+      ],
+      "facilitator_note": "Não reduza pecado a escândalo público; a consciência diante de Deus também é campo de verdade.",
+      "reading_points": [
+        {
+          "title": "Oculto não é neutro",
+          "body": "O segredo pode esconder o ato dos outros, mas não muda sua verdade moral."
+        },
+        {
+          "title": "Coração diante de Deus",
+          "body": "Jesus julga também o olhar e o desejo consentido no coração."
+        },
+        {
+          "title": "Conversão inteira",
+          "body": "A resposta é trazer a vida escondida à luz de Deus na Confissão."
+        }
+      ]
+    },
+    {
+      "id": "N12",
+      "term_id": "N12",
+      "call_label": "N12 - Amor sem compromisso",
+      "case": "Um casal diz que não precisa de casamento porque sente algo intenso, mas evita qualquer promessa pública e permanente.",
+      "conference_question": "Por que intensidade afetiva não substitui compromisso moral na entrega sexual?",
+      "anchors": [
+        "CEC 2353",
+        "B08"
+      ],
+      "facilitator_note": "Reconheça o valor dos afetos, mas mostre que eles precisam de verdade objetiva.",
+      "reading_points": [
+        {
+          "title": "Sentimento forte",
+          "body": "A intensidade pode ser real e ainda assim insuficiente para justificar o ato sexual."
+        },
+        {
+          "title": "Entrega sem forma",
+          "body": "Sem aliança, o corpo promete uma totalidade que a vida não assumiu."
+        },
+        {
+          "title": "Caminho ordenado",
+          "body": "A resposta é viver a castidade e discernir seriamente o matrimônio."
+        }
+      ]
+    },
+    {
+      "id": "N13",
+      "term_id": "N13",
+      "call_label": "N13 - Desejo como identidade",
+      "case": "Numa conversa, alguém diz que negar qualquer desejo sexual sentido é negar a pessoa inteira e que toda prática deve ser aprovada.",
+      "conference_question": "Como distinguir respeito à pessoa de aprovação automática de todos os desejos e atos?",
+      "anchors": [
+        "CEC 2358",
+        "G01"
+      ],
+      "facilitator_note": "Conduza com delicadeza: não reduza pessoas a desejos e não abandone o juízo moral dos atos.",
+      "reading_points": [
+        {
+          "title": "Redução da pessoa",
+          "body": "A pessoa é tratada como se fosse idêntica aos seus desejos."
+        },
+        {
+          "title": "Juízo dos atos",
+          "body": "A dignidade permanece, mas nem todo ato desejado é moralmente bom."
+        },
+        {
+          "title": "Castidade para todos",
+          "body": "A resposta cristã é respeito, amizade, oração e chamado real à santidade."
+        }
+      ]
+    },
+    {
+      "id": "N14",
+      "term_id": "N14",
+      "call_label": "N14 - Vergonha sem saída",
+      "case": "Depois de repetidas quedas, uma pessoa para de rezar, evita a Confissão e conclui que sua vida espiritual acabou.",
+      "conference_question": "Como a vergonha pode parecer humildade, mas na prática afastar a pessoa da misericórdia?",
+      "anchors": [
+        "Jo 8,11",
+        "B11"
+      ],
+      "facilitator_note": "Anuncie esperança sem minimizar a necessidade de mudança; vergonha não deve comandar a vida espiritual.",
+      "reading_points": [
+        {
+          "title": "Desespero disfarçado",
+          "body": "A pessoa chama a queda de destino e abandona os meios de graça."
+        },
+        {
+          "title": "Misericórdia real",
+          "body": "Cristo perdoa e também chama a sair do pecado."
+        },
+        {
+          "title": "Retorno concreto",
+          "body": "A resposta é confessar-se, pedir ajuda e recomeçar sem negociar com a queda."
+        }
+      ]
+    },
+    {
+      "id": "N15",
+      "term_id": "N15",
+      "call_label": "N15 - Perdão barato",
+      "case": "Alguém planeja continuar no mesmo pecado e diz que depois basta confessar, sem intenção de cortar a ocasião.",
+      "conference_question": "Por que confiar na misericórdia não é o mesmo que usar o perdão como licença para pecar?",
+      "anchors": [
+        "Jo 8,11",
+        "B11"
+      ],
+      "facilitator_note": "Mostre que misericórdia exige arrependimento verdadeiro; evite fechar a porta para quem luta sinceramente.",
+      "reading_points": [
+        {
+          "title": "Cálculo espiritual",
+          "body": "A pessoa usa o perdão futuro para justificar a escolha presente."
+        },
+        {
+          "title": "Arrependimento ausente",
+          "body": "Confissão sincera inclui propósito de emenda, não plano de repetição."
+        },
+        {
+          "title": "Conversão",
+          "body": "A resposta é cortar a ocasião e procurar o sacramento com coração verdadeiro."
+        }
+      ]
+    },
+    {
+      "id": "G01",
+      "term_id": "G01",
+      "call_label": "G01 - Pessoa e ato",
+      "case": "Uma família discute a conduta sexual de um parente; alguns querem rejeitá-lo, outros dizem que, para acolher, é preciso aprovar tudo.",
+      "conference_question": "Como distinguir a dignidade da pessoa do juízo moral sobre seus atos?",
+      "anchors": [
+        "Gn 1,27",
+        "CEC 2358"
+      ],
+      "facilitator_note": "Use esta carta para treinar precisão: condenar atos maus não autoriza desprezar pessoas.",
+      "reading_points": [
+        {
+          "title": "Falso dilema",
+          "body": "A cena apresenta rejeição da pessoa ou aprovação total como se fossem as únicas opções."
+        },
+        {
+          "title": "Dignidade permanente",
+          "body": "A pessoa mantém dignidade de imagem de Deus, mesmo quando seus atos precisam de correção."
+        },
+        {
+          "title": "Verdade com caridade",
+          "body": "A resposta cristã acolhe a pessoa e chama à castidade sem humilhação."
+        }
+      ]
+    },
+    {
+      "id": "G02",
+      "term_id": "G02",
+      "call_label": "G02 - Gravidade e culpa",
+      "case": "Um jovem adulto relata masturbação compulsiva desde a adolescência, associada a ansiedade e pornografia, e alguém conclui imediatamente que a culpa dele é sempre igual.",
+      "conference_question": "Como considerar fatores que diminuem a culpa sem chamar o ato de bom?",
+      "anchors": [
+        "CEC 2352",
+        "CEC 2355"
+      ],
+      "facilitator_note": "Ensine a diferença entre objeto moral do ato e imputabilidade pessoal.",
+      "reading_points": [
+        {
+          "title": "Ato e história",
+          "body": "A gravidade do ato não apaga fatores psíquicos, hábitos e pressões presentes."
+        },
+        {
+          "title": "Culpa subjetiva",
+          "body": "O Catecismo manda considerar imaturidade, hábito, angústia e fatores sociais."
+        },
+        {
+          "title": "Ação pastoral",
+          "body": "A resposta une verdade moral, Confissão, acompanhamento e meios concretos de liberdade."
+        }
+      ]
+    },
+    {
+      "id": "G03",
+      "term_id": "G03",
+      "call_label": "G03 - Desejo e consentimento",
+      "case": "Uma pessoa sente atração por alguém comprometido, mas corta a fantasia e evita alimentar conversas ambíguas.",
+      "conference_question": "O que muda moralmente quando um desejo sentido não é consentido nem alimentado?",
+      "anchors": [
+        "Mt 5,27-28",
+        "CEC 2340"
+      ],
+      "facilitator_note": "Evite confundir tentação com pecado; ajude a identificar quando a vontade consente.",
+      "reading_points": [
+        {
+          "title": "Desejo não escolhido",
+          "body": "Sentir atração pode surgir sem decisão deliberada."
+        },
+        {
+          "title": "Consentimento moral",
+          "body": "O problema começa quando a pessoa alimenta voluntariamente fantasia, olhar ou aproximação desordenada."
+        },
+        {
+          "title": "Castidade prática",
+          "body": "A resposta é cortar alimento do desejo e agir segundo a verdade do vínculo."
+        }
+      ]
+    },
+    {
+      "id": "G04",
+      "term_id": "G04",
+      "call_label": "G04 - Tentação e pecado",
+      "case": "Ao receber uma mensagem provocante, alguém se sente tentado, mas apaga a conversa e sai para caminhar antes de responder.",
+      "conference_question": "Como distinguir ser tentado de escolher permanecer na tentação?",
+      "anchors": [
+        "2Tm 2,22",
+        "CEC 2340"
+      ],
+      "facilitator_note": "Mostre que a luta em si não é fracasso; pecado envolve consentimento e escolha.",
+      "reading_points": [
+        {
+          "title": "Tentação presente",
+          "body": "A pessoa experimenta atração real diante de um estímulo concreto."
+        },
+        {
+          "title": "Escolha decisiva",
+          "body": "Ela não permanece negociando com a ocasião, mas corta o caminho da queda."
+        },
+        {
+          "title": "Fuga santa",
+          "body": "A resposta cristã pode ser retirar-se rapidamente para preservar a liberdade."
+        }
+      ]
+    },
+    {
+      "id": "G05",
+      "term_id": "G05",
+      "call_label": "G05 - Acolhida e aprovação",
+      "case": "Um grupo acolhe uma pessoa com história afetiva complexa, mas evita dizer que toda escolha sexual dela é automaticamente boa.",
+      "conference_question": "Como acolher alguém com respeito sem transformar acolhida em aprovação moral de tudo?",
+      "anchors": [
+        "CEC 2358",
+        "CEC 2359"
+      ],
+      "facilitator_note": "Especialmente em temas sensíveis, mantenha respeito, compaixão e clareza doutrinal.",
+      "reading_points": [
+        {
+          "title": "Acolhida verdadeira",
+          "body": "A pessoa não é tratada como problema nem excluída de antemão."
+        },
+        {
+          "title": "Verdade moral",
+          "body": "Acolher não significa suspender o chamado à castidade."
+        },
+        {
+          "title": "Caminho cristão",
+          "body": "A resposta une respeito, amizade desinteressada, oração e vida sacramental."
+        }
+      ]
+    },
+    {
+      "id": "G06",
+      "term_id": "G06",
+      "call_label": "G06 - Pudor e repressão",
+      "case": "Uma mãe ensina a filha a cuidar da própria intimidade, mas evita dizer que o corpo é sujo ou que a sexualidade em si é vergonha.",
+      "conference_question": "Como distinguir pudor cristão de repressão que trata o corpo como algo mau?",
+      "anchors": [
+        "B01",
+        "B02"
+      ],
+      "facilitator_note": "Afirme a bondade do corpo criado por Deus e a necessidade de guardar a intimidade.",
+      "reading_points": [
+        {
+          "title": "Guarda da intimidade",
+          "body": "O pudor protege o que é pessoal e precioso."
+        },
+        {
+          "title": "Corpo bom",
+          "body": "A fé cristã não ensina desprezo do corpo nem medo da sexualidade em si."
+        },
+        {
+          "title": "Ordem do amor",
+          "body": "A resposta é educar gestos, roupas, palavras e ambientes sem humilhar a pessoa."
+        }
+      ]
+    },
+    {
+      "id": "G07",
+      "term_id": "G07",
+      "call_label": "G07 - Misericórdia e banalização",
+      "case": "Depois de uma queda grave, um amigo diz para não se preocupar porque Deus perdoa tudo, sem mencionar arrependimento, Confissão ou mudança.",
+      "conference_question": "Como anunciar misericórdia sem transformar o pecado em algo irrelevante?",
+      "anchors": [
+        "Jo 8,11",
+        "B11"
+      ],
+      "facilitator_note": "Evite dois extremos: desespero e banalização; misericórdia real levanta e converte.",
+      "reading_points": [
+        {
+          "title": "Consolo incompleto",
+          "body": "A frase tenta aliviar a pessoa, mas apaga a necessidade de conversão."
+        },
+        {
+          "title": "Perdão exigente",
+          "body": "Cristo perdoa e chama a não pecar mais."
+        },
+        {
+          "title": "Resposta sacramental",
+          "body": "A misericórdia conduz à Confissão sincera e ao combate concreto."
+        }
+      ]
+    },
+    {
+      "id": "G08",
+      "term_id": "G08",
+      "call_label": "G08 - Prudência e omissão",
+      "case": "Uma funcionária percebe sinais de assédio contra uma colega, mas teme criar confusão e decide não falar com ninguém.",
+      "conference_question": "Quando a prudência deixa de ser cuidado e passa a ser omissão diante do mal?",
+      "anchors": [
+        "CEC 2356",
+        "O07"
+      ],
+      "facilitator_note": "Oriente para agir por canais seguros, sem exposição pública precipitada.",
+      "reading_points": [
+        {
+          "title": "Risco percebido",
+          "body": "A pessoa nota sinais concretos de possível abuso ou assédio."
+        },
+        {
+          "title": "Silêncio perigoso",
+          "body": "Evitar confusão pode permitir que a injustiça continue."
+        },
+        {
+          "title": "Prudência ativa",
+          "body": "A resposta é buscar orientação segura e acionar responsáveis competentes."
+        }
+      ]
+    },
+    {
+      "id": "G09",
+      "term_id": "G09",
+      "call_label": "G09 - Sigilo e encobrimento",
+      "case": "Um líder recebe relato de abuso e promete segredo absoluto, mesmo sabendo que a vítima ainda corre risco.",
+      "conference_question": "Como distinguir preservar a intimidade de encobrir uma violência que exige proteção?",
+      "anchors": [
+        "CEC 2356",
+        "I10"
+      ],
+      "facilitator_note": "Seja claro: situações de abuso e risco exigem proteção e autoridades competentes.",
+      "reading_points": [
+        {
+          "title": "Segredo inadequado",
+          "body": "O sigilo absoluto pode proteger o agressor e manter a vítima em perigo."
+        },
+        {
+          "title": "Intimidade preservada",
+          "body": "Cuidar da vítima não significa divulgar sua história sem necessidade."
+        },
+        {
+          "title": "Proteção responsável",
+          "body": "A resposta é envolver pessoas e autoridades competentes com o mínimo de exposição."
+        }
+      ]
+    },
+    {
+      "id": "G10",
+      "term_id": "G10",
+      "call_label": "G10 - Vítima e agressor",
+      "case": "Após uma violência sexual, conhecidos discutem se a vítima deveria ter previsto o perigo, enquanto o agressor quase desaparece da conversa.",
+      "conference_question": "Por que é moralmente necessário manter clara a diferença entre vítima e agressor?",
+      "anchors": [
+        "CEC 2356",
+        "N08"
+      ],
+      "facilitator_note": "Não permita ambiguidades que culpem a vítima; prudência preventiva não muda a autoria do mal.",
+      "reading_points": [
+        {
+          "title": "Foco deslocado",
+          "body": "A conversa passa a examinar a vítima em vez de responsabilizar o agressor."
+        },
+        {
+          "title": "Autor do mal",
+          "body": "A violência pertence moralmente a quem a praticou e a quem colaborou com ela."
+        },
+        {
+          "title": "Resposta justa",
+          "body": "A vítima precisa de proteção e cuidado; o agressor precisa responder pelo ato."
+        }
+      ]
+    },
+    {
+      "id": "G11",
+      "term_id": "G11",
+      "call_label": "G11 - Intimidade e exposição",
+      "case": "Um casal grava momentos íntimos e, após a separação, um deles ameaça divulgar tudo para envergonhar o outro.",
+      "conference_question": "Por que aquilo que pertence à intimidade se torna injustiça grave quando é exposto a terceiros?",
+      "anchors": [
+        "CEC 2354",
+        "I03"
+      ],
+      "facilitator_note": "Reforce que ameaça de exposição é grave e pode exigir ajuda imediata.",
+      "reading_points": [
+        {
+          "title": "Intimidade violada",
+          "body": "O que era reservado é usado como arma de humilhação."
+        },
+        {
+          "title": "Exibição injusta",
+          "body": "A pornografia retira atos íntimos do seu lugar e os entrega a terceiros."
+        },
+        {
+          "title": "Proteção urgente",
+          "body": "A resposta é não negociar com ameaça, buscar apoio e acionar meios seguros."
+        }
+      ]
+    },
+    {
+      "id": "G12",
+      "term_id": "G12",
+      "call_label": "G12 - Amor e posse",
+      "case": "Uma pessoa exige senhas, localização e fotos íntimas para provar que o relacionamento é transparente.",
+      "conference_question": "Como distinguir cuidado amoroso de posse que controla corpo, privacidade e consciência?",
+      "anchors": [
+        "B07",
+        "I11"
+      ],
+      "facilitator_note": "Aponte controle abusivo sem ridicularizar quem tem medo; medo não justifica posse.",
+      "reading_points": [
+        {
+          "title": "Controle disfarçado",
+          "body": "A exigência de intimidade e vigilância aparece como prova de confiança."
+        },
+        {
+          "title": "Amor livre",
+          "body": "O amor busca o bem do outro, não a posse da sua vida."
+        },
+        {
+          "title": "Limite saudável",
+          "body": "A resposta é recusar exigências abusivas e procurar apoio se houver ameaça."
+        }
+      ]
+    },
+    {
+      "id": "G13",
+      "term_id": "G13",
+      "call_label": "G13 - Liberdade e impulso",
+      "case": "Depois de beber, alguém diz que não conseguiu evitar uma aproximação imprópria, mas escolheu estar no ambiente e continuar bebendo.",
+      "conference_question": "Como avaliar a responsabilidade quando o impulso foi forte, mas a pessoa entrou livremente em condições de risco?",
+      "anchors": [
+        "CEC 2340",
+        "N09"
+      ],
+      "facilitator_note": "Não simplifique; impulsos podem ser fortes, mas escolhas anteriores também contam moralmente.",
+      "reading_points": [
+        {
+          "title": "Impulso forte",
+          "body": "A vontade foi pressionada por desejo, bebida e ambiente."
+        },
+        {
+          "title": "Escolhas anteriores",
+          "body": "A pessoa também decidiu permanecer em condições que reduziam sua liberdade."
+        },
+        {
+          "title": "Liberdade educada",
+          "body": "A resposta é assumir responsabilidade e evitar as condições que favorecem a queda."
+        }
+      ]
+    },
+    {
+      "id": "G14",
+      "term_id": "G14",
+      "call_label": "G14 - Hábito e escolha",
+      "case": "Alguém caiu muitas vezes em pornografia e já sente impulso quase automático ao ficar sozinho de madrugada.",
+      "conference_question": "Como o hábito pode diminuir a liberdade sem eliminar a necessidade de combate e responsabilidade?",
+      "anchors": [
+        "CEC 2352",
+        "B10"
+      ],
+      "facilitator_note": "Aponte a seriedade do hábito e a necessidade de meios concretos, não apenas culpa.",
+      "reading_points": [
+        {
+          "title": "Automatismo aprendido",
+          "body": "A repetição criou um caminho fácil para a queda."
+        },
+        {
+          "title": "Culpa ponderada",
+          "body": "O hábito pode atenuar a culpa, mas não torna o ato bom nem dispensa luta."
+        },
+        {
+          "title": "Reconstrução",
+          "body": "A resposta é plano de sobriedade, Confissão, acompanhamento e corte dos gatilhos."
+        }
+      ]
+    },
+    {
+      "id": "G15",
+      "term_id": "G15",
+      "call_label": "G15 - Justiça e humilhação",
+      "case": "Para denunciar um homem que enviava mensagens obscenas, alguém publica prints com dados de familiares inocentes e transforma o caso em espetáculo.",
+      "conference_question": "Como buscar justiça sem cair em vingança, exposição desnecessária ou humilhação pública?",
+      "anchors": [
+        "G08",
+        "O09"
+      ],
+      "facilitator_note": "Mostre que denunciar pode ser necessário, mas deve buscar proteção e justiça, não espetáculo.",
+      "reading_points": [
+        {
+          "title": "Denúncia desviada",
+          "body": "A busca por justiça se mistura com exposição de pessoas que não cometeram o ato."
+        },
+        {
+          "title": "Proporção",
+          "body": "Corrigir o mal não autoriza humilhar ou atingir inocentes."
+        },
+        {
+          "title": "Caminho justo",
+          "body": "A resposta é reunir provas, procurar canais adequados e proteger vítimas."
+        }
+      ]
+    },
+    {
+      "id": "O01",
+      "term_id": "O01",
+      "call_label": "O01 - Fuga da ocasião",
+      "case": "Ao perceber que sempre cai depois de conversas noturnas ambíguas, uma pessoa combina não responder mensagens desse tipo após certo horário.",
+      "conference_question": "Por que fugir da ocasião pode ser sinal de maturidade espiritual, e não fraqueza?",
+      "anchors": [
+        "1Cor 6,18",
+        "2Tm 2,22"
+      ],
+      "facilitator_note": "Valorize decisões preventivas concretas; a Bíblia usa linguagem de fuga diante da impureza.",
+      "reading_points": [
+        {
+          "title": "Ocasião conhecida",
+          "body": "A pessoa reconhece um horário e uma dinâmica que favorecem a queda."
+        },
+        {
+          "title": "Prudência ativa",
+          "body": "Fugir não é covardia quando a permanência enfraquece a liberdade."
+        },
+        {
+          "title": "Decisão concreta",
+          "body": "O limite de horário transforma o discernimento em prática real."
+        }
+      ]
+    },
+    {
+      "id": "O02",
+      "term_id": "O02",
+      "call_label": "O02 - Corte de acesso",
+      "case": "Depois de várias quedas, alguém apaga contas usadas para pornografia, instala bloqueadores e entrega senhas de controle a uma pessoa responsável.",
+      "conference_question": "Por que uma renúncia técnica e concreta pode ser necessária para uma conversão verdadeira?",
+      "anchors": [
+        "CEC 2340",
+        "I02"
+      ],
+      "facilitator_note": "Mostre que medidas práticas não substituem a graça, mas cooperam com ela.",
+      "reading_points": [
+        {
+          "title": "Acesso removido",
+          "body": "A pessoa não fica apenas prometendo; ela dificulta o caminho habitual da queda."
+        },
+        {
+          "title": "Autodomínio ajudado",
+          "body": "A liberdade precisa de meios quando o hábito já está forte."
+        },
+        {
+          "title": "Cooperação",
+          "body": "A resposta une decisão, recursos técnicos, acompanhamento e vida sacramental."
+        }
+      ]
+    },
+    {
+      "id": "O03",
+      "term_id": "O03",
+      "call_label": "O03 - Confissão sincera",
+      "case": "No confessionário, uma pessoa fala de modo vago sobre impureza porque tem medo de nomear o tipo de pecado e esconder o hábito.",
+      "conference_question": "Como confessar com sinceridade sem cair em detalhamento desnecessário nem ocultação do pecado?",
+      "anchors": [
+        "B11",
+        "Jo 8,11"
+      ],
+      "facilitator_note": "Oriente sobriedade: nomear a espécie moral e condições relevantes, sem curiosidade nem descrição gráfica.",
+      "reading_points": [
+        {
+          "title": "Vagueza defensiva",
+          "body": "A vergonha leva a esconder o que precisa ser entregue à misericórdia."
+        },
+        {
+          "title": "Sinceridade sacramental",
+          "body": "Confessar bem exige verdade simples, sem espetáculo e sem ocultação deliberada."
+        },
+        {
+          "title": "Propósito de emenda",
+          "body": "A Confissão pede arrependimento e decisão concreta contra as ocasiões."
+        }
+      ]
+    },
+    {
+      "id": "O04",
+      "term_id": "O04",
+      "call_label": "O04 - Direção espiritual",
+      "case": "Uma pessoa alterna entusiasmo e desânimo na luta pela castidade e decide procurar orientação estável em vez de pedir conselhos aleatórios na internet.",
+      "conference_question": "Por que acompanhamento estável ajuda mais do que conselhos soltos quando há queda recorrente?",
+      "anchors": [
+        "B10",
+        "CEC 2359"
+      ],
+      "facilitator_note": "Indique a importância de pessoa prudente, fiel à Igreja e capaz de acompanhar sem curiosidade imprópria.",
+      "reading_points": [
+        {
+          "title": "Instabilidade",
+          "body": "A luta fica confusa quando cada queda recebe um conselho diferente e isolado."
+        },
+        {
+          "title": "Discernimento acompanhado",
+          "body": "A direção espiritual ajuda a ordenar consciência, meios e perseverança."
+        },
+        {
+          "title": "Graça e responsabilidade",
+          "body": "A resposta não terceiriza a luta, mas a coloca num caminho mais maduro."
+        }
+      ]
+    },
+    {
+      "id": "O05",
+      "term_id": "O05",
+      "call_label": "O05 - Pedido de ajuda",
+      "case": "Uma pessoa recebe ameaças para enviar novas imagens íntimas e, em vez de tentar negociar sozinha, procura um adulto confiável e orientação legal.",
+      "conference_question": "Quando pedir ajuda deixa de ser vergonha e passa a ser medida necessária de proteção?",
+      "anchors": [
+        "G08",
+        "G09"
+      ],
+      "facilitator_note": "Em casos de ameaça, abuso ou risco, reforce que a pessoa não deve enfrentar sozinha.",
+      "reading_points": [
+        {
+          "title": "Risco real",
+          "body": "A ameaça cria pressão e pode escalar se a vítima ficar isolada."
+        },
+        {
+          "title": "Ajuda segura",
+          "body": "Pedir apoio permite proteger a pessoa e agir com prudência."
+        },
+        {
+          "title": "Encaminhamento",
+          "body": "A resposta pode envolver família, responsáveis, profissionais e autoridade competente."
+        }
+      ]
+    },
+    {
+      "id": "O06",
+      "term_id": "O06",
+      "call_label": "O06 - Limite claro",
+      "case": "Durante uma visita, alguém insiste em ficar sozinho em situação íntima; a outra pessoa diz claramente que não aceita e vai embora.",
+      "conference_question": "Por que um limite claro precisa ser comunicado por atos e palavras, não apenas por desconforto interior?",
+      "anchors": [
+        "B12",
+        "I05"
+      ],
+      "facilitator_note": "Destaque decisão prática e segurança; limite claro não exige agressividade.",
+      "reading_points": [
+        {
+          "title": "Pressão concreta",
+          "body": "A situação se encaminha para um risco real e previsível."
+        },
+        {
+          "title": "Palavra firme",
+          "body": "O não claro protege a consciência e impede negociação ambígua."
+        },
+        {
+          "title": "Ato coerente",
+          "body": "Sair do ambiente confirma o limite e reduz a ocasião."
+        }
+      ]
+    },
+    {
+      "id": "O07",
+      "term_id": "O07",
+      "call_label": "O07 - Bloqueio e denúncia",
+      "case": "Um supervisor envia mensagens sexuais a uma funcionária; ela salva as provas, bloqueia o contato fora do trabalho e procura o canal competente da empresa.",
+      "conference_question": "Como agir com prudência quando a situação exige bloqueio, prova e denúncia responsável?",
+      "anchors": [
+        "CEC 2356",
+        "G09"
+      ],
+      "facilitator_note": "Mostre que denúncia não é vingança; é busca de proteção e justiça por meios adequados.",
+      "reading_points": [
+        {
+          "title": "Contato abusivo",
+          "body": "As mensagens usam relação profissional para invasão sexual."
+        },
+        {
+          "title": "Prova preservada",
+          "body": "Guardar registros ajuda a agir com justiça sem exposição desordenada."
+        },
+        {
+          "title": "Canal adequado",
+          "body": "A resposta combina bloqueio, segurança e comunicação a responsáveis competentes."
+        }
+      ]
+    },
+    {
+      "id": "O08",
+      "term_id": "O08",
+      "call_label": "O08 - Apoio à vítima",
+      "case": "Uma mulher relata violência sexual a uma parente, que a leva a local seguro, evita interrogatório humilhante e ajuda a procurar atendimento.",
+      "conference_question": "Quais atitudes protegem a vítima sem transformá-la novamente em objeto de exposição?",
+      "anchors": [
+        "CEC 2356",
+        "G10"
+      ],
+      "facilitator_note": "Ensine cuidado inicial: escuta séria, segurança, atendimento e providências competentes.",
+      "reading_points": [
+        {
+          "title": "Escuta séria",
+          "body": "A parente não começa acusando nem exigindo detalhes desnecessários."
+        },
+        {
+          "title": "Proteção imediata",
+          "body": "A prioridade é segurança física, emocional e encaminhamento adequado."
+        },
+        {
+          "title": "Dignidade preservada",
+          "body": "A vítima deve ser cuidada sem exposição pública e sem culpabilização."
+        }
+      ]
+    },
+    {
+      "id": "O09",
+      "term_id": "O09",
+      "call_label": "O09 - Reparação possível",
+      "case": "Alguém que repassou uma foto íntima apaga o arquivo, pede que outros parem, admite o erro a quem foi ferido e aceita consequências.",
+      "conference_question": "Por que reparar não é apenas sentir culpa, mas agir para reduzir o dano causado?",
+      "anchors": [
+        "I03",
+        "G15"
+      ],
+      "facilitator_note": "Destaque que nem todo dano pode ser totalmente desfeito, mas a responsabilidade exige passos concretos.",
+      "reading_points": [
+        {
+          "title": "Dano assumido",
+          "body": "A pessoa reconhece que participou da circulação injusta."
+        },
+        {
+          "title": "Ação reparadora",
+          "body": "Apagar, interromper e corrigir são passos concretos, não apenas remorso."
+        },
+        {
+          "title": "Consequência justa",
+          "body": "A reparação inclui aceitar medidas proporcionais e buscar Confissão."
+        }
+      ]
+    },
+    {
+      "id": "O10",
+      "term_id": "O10",
+      "call_label": "O10 - Romper chantagem",
+      "case": "Ao receber ameaça de término se não enviar imagem íntima, a pessoa responde que isso é manipulação, interrompe a conversa e busca apoio confiável.",
+      "conference_question": "Como romper a chantagem sem entrar na lógica de medo que o manipulador quer impor?",
+      "anchors": [
+        "I11",
+        "G12"
+      ],
+      "facilitator_note": "Reforce segurança: em ameaça de exposição, buscar ajuda é parte da resposta.",
+      "reading_points": [
+        {
+          "title": "Manipulação nomeada",
+          "body": "A pessoa identifica que a ameaça não é pedido de amor, mas pressão."
+        },
+        {
+          "title": "Conversa interrompida",
+          "body": "Não continuar negociando impede que o medo conduza a decisão."
+        },
+        {
+          "title": "Apoio externo",
+          "body": "A resposta segura inclui procurar alguém confiável e guardar provas se necessário."
+        }
+      ]
+    },
+    {
+      "id": "O11",
+      "term_id": "O11",
+      "call_label": "O11 - Custódia do olhar",
+      "case": "Ao perceber que está encarando alguém com desejo desordenado, uma pessoa desvia o olhar e muda o pensamento antes de transformar aquilo em fantasia.",
+      "conference_question": "Como a custódia do olhar atua antes que o pecado se desenvolva no coração?",
+      "anchors": [
+        "Mt 5,27-28",
+        "B03"
+      ],
+      "facilitator_note": "Mostre que pequenas decisões interiores são parte séria da vida moral.",
+      "reading_points": [
+        {
+          "title": "Início da queda",
+          "body": "O olhar pode se tornar alimento voluntário da cobiça."
+        },
+        {
+          "title": "Interrupção livre",
+          "body": "Desviar o olhar é uma escolha concreta antes que a fantasia cresça."
+        },
+        {
+          "title": "Ver como pessoa",
+          "body": "A resposta cristã é reenxergar o outro como filho de Deus."
+        }
+      ]
+    },
+    {
+      "id": "O12",
+      "term_id": "O12",
+      "call_label": "O12 - Amizade limpa",
+      "case": "Duas pessoas percebem que seus encontros sempre caminham para sedução ambígua e decidem mudar horários, conversas e limites para preservar a amizade.",
+      "conference_question": "Que sinais mostram que uma amizade precisa ser purificada para não virar uso ou dependência?",
+      "anchors": [
+        "CEC 2359",
+        "B07"
+      ],
+      "facilitator_note": "Apresente amizade limpa como vínculo real, não como frieza ou afastamento automático.",
+      "reading_points": [
+        {
+          "title": "Ambiguidade reconhecida",
+          "body": "A relação começou a alimentar desejo e dependência em vez de bem mútuo."
+        },
+        {
+          "title": "Amizade ordenada",
+          "body": "Vínculo verdadeiro não usa carência nem sedução para prender o outro."
+        },
+        {
+          "title": "Mudança concreta",
+          "body": "Horários, ambientes e conversas podem precisar de limites para proteger a castidade."
+        }
+      ]
+    },
+    {
+      "id": "O13",
+      "term_id": "O13",
+      "call_label": "O13 - Plano de sobriedade",
+      "case": "Uma pessoa identifica que sono desregulado, celular na cama e isolamento noturno antecedem as quedas, então reorganiza rotina e presta contas semanalmente.",
+      "conference_question": "Por que combater hábitos impuros exige plano concreto e não apenas arrependimento emocional?",
+      "anchors": [
+        "CEC 2340",
+        "G14"
+      ],
+      "facilitator_note": "Ajude a ver sobriedade como organização da liberdade em áreas comuns da vida.",
+      "reading_points": [
+        {
+          "title": "Gatilhos mapeados",
+          "body": "A pessoa reconhece condições concretas que antecedem a queda."
+        },
+        {
+          "title": "Liberdade organizada",
+          "body": "Sono, tela e solidão influenciam a força do hábito."
+        },
+        {
+          "title": "Prestação de contas",
+          "body": "A resposta inclui rotina, limites técnicos e acompanhamento constante."
+        }
+      ]
+    },
+    {
+      "id": "O14",
+      "term_id": "O14",
+      "call_label": "O14 - Exame de consciência",
+      "case": "Antes de se confessar, alguém revisa não só atos externos, mas também olhares, conversas, fantasias alimentadas e ocasiões buscadas.",
+      "conference_question": "Como o exame de consciência ajuda a perceber padrões que uma confissão apressada deixaria escondidos?",
+      "anchors": [
+        "Mt 5,27-28",
+        "B11"
+      ],
+      "facilitator_note": "Mostre exame como verdade diante de Deus, não como obsessão culposa.",
+      "reading_points": [
+        {
+          "title": "Consciência inteira",
+          "body": "A pessoa não olha apenas para atos finais, mas para caminhos que levaram a eles."
+        },
+        {
+          "title": "Raiz do pecado",
+          "body": "Jesus aponta o coração, onde desejo e consentimento podem ser alimentados."
+        },
+        {
+          "title": "Confissão preparada",
+          "body": "A resposta é levar a Deus a verdade concreta para receber perdão e direção."
+        }
+      ]
+    },
+    {
+      "id": "O15",
+      "term_id": "O15",
+      "call_label": "O15 - Vida sacramental",
+      "case": "Depois de muitas tentativas solitárias, uma pessoa passa a se confessar regularmente, participar da Eucaristia e rezar nos horários de maior tentação.",
+      "conference_question": "Por que a luta pela castidade não pode ser reduzida a força de vontade isolada?",
+      "anchors": [
+        "1Cor 6,18-20",
+        "B10"
+      ],
+      "facilitator_note": "Una sacramentos e decisões práticas; vida sacramental não dispensa vigilância.",
+      "reading_points": [
+        {
+          "title": "Isolamento vencido",
+          "body": "A pessoa deixa de lutar sozinha e se coloca nos meios de graça."
+        },
+        {
+          "title": "Graça sacramental",
+          "body": "A castidade é sustentada por Cristo, especialmente na Confissão e na Eucaristia."
+        },
+        {
+          "title": "Perseverança concreta",
+          "body": "Oração nos horários críticos liga vida espiritual e combate real."
+        }
+      ]
+    }
+  ]
+}

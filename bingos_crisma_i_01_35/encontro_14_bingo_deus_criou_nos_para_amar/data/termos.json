@@ -1,0 +1,1256 @@
+{
+  "title": "Bingo — Deus criou-nos para amar",
+  "meeting": "Encontro 14 — Deus criou-nos para amar",
+  "meeting_label": "Encontro 14",
+  "output_slug": "bingo_deus_criou_nos_para_amar",
+  "core_message": "Deus nos criou por amor e para o amor; por isso a vida humana só encontra seu sentido quando recebe o amor de Deus e aprende a doar-se concretamente pelo bem do outro.",
+  "source_meeting_markdown": "projects/catequese/material_didatico/output/markdown/encontro_14.md",
+  "scripture": [
+    "1Jo 4,7-12",
+    "1Jo 4,8",
+    "1Jo 4,10",
+    "1Jo 4,11-12",
+    "Gn 1,26-28",
+    "Mt 22,37-40",
+    "Jo 15,12-13",
+    "1Cor 13,4-7",
+    "Lc 10,25-37",
+    "Rm 5,8",
+    "1Cor 6,19-20",
+    "Ef 5,25",
+    "Tg 2,15-17",
+    "Cl 3,14",
+    "Gl 5,13"
+  ],
+  "catechism": [
+    "CEC 1604",
+    "CEC 1700",
+    "CEC 1701",
+    "CEC 1702",
+    "CEC 1730",
+    "CEC 1735",
+    "CEC 1766",
+    "CEC 1767",
+    "CEC 1803",
+    "CEC 1822",
+    "CEC 1823",
+    "CEC 1825",
+    "CEC 1931",
+    "CEC 2337",
+    "CEC 2346",
+    "CEC 2351",
+    "CEC 2354",
+    "CEC 2447",
+    "CEC 1459",
+    "CEC 1783"
+  ],
+  "card_model": {
+    "total_terms": 75,
+    "columns": 5,
+    "terms_per_column": 15,
+    "grid": "5x5",
+    "center": {
+      "label": "LIVRE / 1Jo 4,7-12",
+      "fixed": true,
+      "called": false
+    },
+    "recommended_win_condition": "duas_linhas"
+  },
+  "columns": [
+    {
+      "key": "B",
+      "title": "Base moral",
+      "function": "Fundamentos bíblicos e doutrinais para ler o tema.",
+      "short_function": "fundamento cristão do tema"
+    },
+    {
+      "key": "I",
+      "title": "Situações concretas",
+      "function": "Formas reais em que o tema aparece na vida concreta, em situações inteligíveis para a turma.",
+      "short_function": "situações concretas do tema"
+    },
+    {
+      "key": "N",
+      "title": "Narrativas falsas",
+      "function": "Desculpas, autoenganos e frases que desviam do bem.",
+      "short_function": "desculpas que normalizam o erro"
+    },
+    {
+      "key": "G",
+      "title": "Discernimentos",
+      "function": "Distinções morais que evitam respostas simplistas.",
+      "short_function": "distinções para discernir"
+    },
+    {
+      "key": "O",
+      "title": "Orientações de resposta",
+      "function": "Ações concretas, prudentes e proporcionais diante do problema.",
+      "short_function": "respostas proporcionais e prudentes"
+    }
+  ],
+  "terms": [
+    {
+      "id": "B01",
+      "column": "B",
+      "label": "Vocação ao amor",
+      "definition": "Amar não é acessório da vida cristã, mas chamado fundamental inscrito por Deus na pessoa humana desde a criação.",
+      "anchors": [
+        "CEC 1604",
+        "1Jo 4,7-12"
+      ],
+      "tags": [
+        "vocação",
+        "criação",
+        "amor"
+      ]
+    },
+    {
+      "id": "B02",
+      "column": "B",
+      "label": "Amor primeiro de Deus",
+      "definition": "Antes de qualquer mérito humano, Deus nos ama gratuitamente e torna possível a nossa resposta de amor.",
+      "anchors": [
+        "1Jo 4,10",
+        "Rm 5,8"
+      ],
+      "tags": [
+        "graça",
+        "gratuidade",
+        "origem"
+      ]
+    },
+    {
+      "id": "B03",
+      "column": "B",
+      "label": "Imagem de Deus",
+      "definition": "Cada pessoa possui dignidade porque foi criada à imagem e semelhança de Deus, que é Amor.",
+      "anchors": [
+        "Gn 1,26-27",
+        "CEC 1700",
+        "CEC 1701"
+      ],
+      "tags": [
+        "dignidade",
+        "criação",
+        "pessoa"
+      ]
+    },
+    {
+      "id": "B04",
+      "column": "B",
+      "label": "Deus é amor",
+      "definition": "O amor verdadeiro tem sua fonte em Deus e não pode ser reduzido a desejo, utilidade ou emoção passageira.",
+      "anchors": [
+        "1Jo 4,8",
+        "1Jo 4,16"
+      ],
+      "tags": [
+        "Deus",
+        "fonte",
+        "verdade"
+      ]
+    },
+    {
+      "id": "B05",
+      "column": "B",
+      "label": "Dom de si",
+      "definition": "A pessoa se realiza quando aprende a entregar-se sinceramente pelo bem do outro, sem perder a verdade sobre si.",
+      "anchors": [
+        "Gaudium et Spes 24",
+        "Jo 15,13"
+      ],
+      "tags": [
+        "doação",
+        "sentido",
+        "serviço"
+      ]
+    },
+    {
+      "id": "B06",
+      "column": "B",
+      "label": "Amor ao irmão visível",
+      "definition": "O amor a Deus se verifica no amor concreto ao próximo que vemos, especialmente quando isso custa.",
+      "anchors": [
+        "1Jo 4,11-12",
+        "Mt 22,37-40"
+      ],
+      "tags": [
+        "próximo",
+        "concretude",
+        "caridade"
+      ]
+    },
+    {
+      "id": "B07",
+      "column": "B",
+      "label": "Corpo e pessoa",
+      "definition": "O corpo não é objeto separado do eu; ele participa da dignidade da pessoa e deve ser tratado com reverência.",
+      "anchors": [
+        "1Cor 6,19-20",
+        "CEC 2337"
+      ],
+      "tags": [
+        "corpo",
+        "sexualidade",
+        "dignidade"
+      ]
+    },
+    {
+      "id": "B08",
+      "column": "B",
+      "label": "Liberdade para o bem",
+      "definition": "A liberdade não é poder fazer qualquer coisa, mas capacidade de escolher o bem com responsabilidade diante de Deus.",
+      "anchors": [
+        "Gl 5,13",
+        "CEC 1730"
+      ],
+      "tags": [
+        "liberdade",
+        "responsabilidade",
+        "bem"
+      ]
+    },
+    {
+      "id": "B09",
+      "column": "B",
+      "label": "Caridade",
+      "definition": "A caridade é o amor cristão que quer o bem verdadeiro do outro por amor a Deus.",
+      "anchors": [
+        "CEC 1822",
+        "CEC 1823",
+        "Cl 3,14"
+      ],
+      "tags": [
+        "virtude",
+        "bem",
+        "amor"
+      ]
+    },
+    {
+      "id": "B10",
+      "column": "B",
+      "label": "Castidade integrada",
+      "definition": "A castidade educa os afetos e a sexualidade para que expressem amor verdadeiro, domínio de si e respeito pela pessoa.",
+      "anchors": [
+        "CEC 2337",
+        "CEC 2346"
+      ],
+      "tags": [
+        "castidade",
+        "afetividade",
+        "integração"
+      ]
+    },
+    {
+      "id": "B11",
+      "column": "B",
+      "label": "Pecado contra o amor",
+      "definition": "Pecar é ferir a comunhão com Deus e com o próximo, usando a liberdade contra o bem.",
+      "anchors": [
+        "CEC 1849",
+        "1Jo 4,8"
+      ],
+      "tags": [
+        "pecado",
+        "comunhão",
+        "ferida"
+      ]
+    },
+    {
+      "id": "B12",
+      "column": "B",
+      "label": "Graça que cura",
+      "definition": "Deus não apenas manda amar; Ele cura, perdoa e fortalece a pessoa para recomeçar no amor.",
+      "anchors": [
+        "1Jo 4,10",
+        "Rm 5,8"
+      ],
+      "tags": [
+        "graça",
+        "cura",
+        "recomeço"
+      ]
+    },
+    {
+      "id": "B13",
+      "column": "B",
+      "label": "Dignidade inviolável",
+      "definition": "Nenhuma pessoa perde seu valor por fraqueza, pecado, doença, idade, pobreza, deficiência ou falta de utilidade social.",
+      "anchors": [
+        "CEC 1700",
+        "CEC 1931"
+      ],
+      "tags": [
+        "dignidade",
+        "justiça",
+        "pessoa"
+      ]
+    },
+    {
+      "id": "B14",
+      "column": "B",
+      "label": "Fecundidade do amor",
+      "definition": "O amor verdadeiro tende a gerar vida, cuidado, serviço, responsabilidade e bem concreto ao redor de si.",
+      "anchors": [
+        "Gn 1,28",
+        "CEC 1604"
+      ],
+      "tags": [
+        "fecundidade",
+        "vida",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "B15",
+      "column": "B",
+      "label": "Comunhão e verdade",
+      "definition": "A comunhão cristã não nasce de aparência ou conveniência, mas da verdade vivida com caridade.",
+      "anchors": [
+        "1Cor 13,6",
+        "Ef 4,15"
+      ],
+      "tags": [
+        "comunhão",
+        "verdade",
+        "caridade"
+      ]
+    },
+    {
+      "id": "I01",
+      "column": "I",
+      "label": "Afeto como moeda",
+      "definition": "Situação em que carinho, atenção ou presença são dados e retirados para controlar outra pessoa.",
+      "anchors": [
+        "B09",
+        "G04",
+        "1Cor 13,5"
+      ],
+      "tags": [
+        "manipulação",
+        "afeto",
+        "controle"
+      ]
+    },
+    {
+      "id": "I02",
+      "column": "I",
+      "label": "Solidão escondida",
+      "definition": "Realidade de quem parece funcionar por fora, mas vive sem vínculos verdadeiros e sem ser escutado.",
+      "anchors": [
+        "B06",
+        "Lc 10,33-35"
+      ],
+      "tags": [
+        "solidão",
+        "escuta",
+        "vínculo"
+      ]
+    },
+    {
+      "id": "I03",
+      "column": "I",
+      "label": "Namoro possessivo",
+      "definition": "Relação em que uma pessoa vigia, isola ou ameaça a outra em nome do amor.",
+      "anchors": [
+        "B10",
+        "G04",
+        "CEC 2337"
+      ],
+      "tags": [
+        "namoro",
+        "controle",
+        "violência"
+      ]
+    },
+    {
+      "id": "I04",
+      "column": "I",
+      "label": "Corpo como produto",
+      "definition": "Situação em que o corpo é exposto, comprado, vendido ou usado como instrumento de aprovação, lucro ou prazer.",
+      "anchors": [
+        "B07",
+        "CEC 2354",
+        "1Cor 6,19-20"
+      ],
+      "tags": [
+        "corpo",
+        "mercado",
+        "exposição"
+      ]
+    },
+    {
+      "id": "I05",
+      "column": "I",
+      "label": "Família sem escuta",
+      "definition": "Ambiente familiar em que necessidades reais são ignoradas e o diálogo é substituído por gritos, silêncio ou ironia.",
+      "anchors": [
+        "B06",
+        "1Cor 13,4-7"
+      ],
+      "tags": [
+        "família",
+        "escuta",
+        "conflito"
+      ]
+    },
+    {
+      "id": "I06",
+      "column": "I",
+      "label": "Cuidado de doente",
+      "definition": "Situação em que amar exige presença fiel, paciência e serviço diante da fragilidade de alguém.",
+      "anchors": [
+        "B05",
+        "Mt 25,36",
+        "CEC 2447"
+      ],
+      "tags": [
+        "doença",
+        "serviço",
+        "cuidado"
+      ]
+    },
+    {
+      "id": "I07",
+      "column": "I",
+      "label": "Trabalho explorador",
+      "definition": "Relação em que a pessoa é tratada como peça de produção, sem respeito por salário justo, descanso ou dignidade.",
+      "anchors": [
+        "B13",
+        "Tg 5,4",
+        "CEC 1931"
+      ],
+      "tags": [
+        "trabalho",
+        "justiça",
+        "dignidade"
+      ]
+    },
+    {
+      "id": "I08",
+      "column": "I",
+      "label": "Idoso descartado",
+      "definition": "Situação em que uma pessoa idosa é tratada como incômodo porque depende de cuidado e já não produz.",
+      "anchors": [
+        "B13",
+        "CEC 1931"
+      ],
+      "tags": [
+        "idoso",
+        "descarte",
+        "cuidado"
+      ]
+    },
+    {
+      "id": "I09",
+      "column": "I",
+      "label": "Pressão sexual",
+      "definition": "Situação em que alguém usa chantagem, insistência, ameaça de abandono ou culpa para exigir intimidade sexual.",
+      "anchors": [
+        "B10",
+        "G03",
+        "CEC 2351"
+      ],
+      "tags": [
+        "sexualidade",
+        "coação",
+        "limite"
+      ]
+    },
+    {
+      "id": "I10",
+      "column": "I",
+      "label": "Pornografia normalizada",
+      "definition": "Hábito ou ambiente que transforma pessoas em objetos de consumo sexual e enfraquece a capacidade de amar.",
+      "anchors": [
+        "B07",
+        "CEC 2354",
+        "G11"
+      ],
+      "tags": [
+        "pornografia",
+        "objeto",
+        "sexualidade"
+      ]
+    },
+    {
+      "id": "I11",
+      "column": "I",
+      "label": "Perdão difícil",
+      "definition": "Situação em que uma ofensa real exige enfrentar ressentimento, justiça, reparação e possibilidade de reconciliação.",
+      "anchors": [
+        "Mt 18,21-22",
+        "G10",
+        "B12"
+      ],
+      "tags": [
+        "perdão",
+        "reparação",
+        "reconciliação"
+      ]
+    },
+    {
+      "id": "I12",
+      "column": "I",
+      "label": "Carência manipulada",
+      "definition": "Situação em que a necessidade de afeto torna alguém vulnerável a aceitar humilhação, mentira ou abuso.",
+      "anchors": [
+        "B02",
+        "G12",
+        "O03"
+      ],
+      "tags": [
+        "carência",
+        "vulnerabilidade",
+        "abuso"
+      ]
+    },
+    {
+      "id": "I13",
+      "column": "I",
+      "label": "Vida tratada como peso",
+      "definition": "Situação em que uma pessoa frágil, dependente ou ainda não nascida é vista primeiro como problema a remover.",
+      "anchors": [
+        "B13",
+        "Gn 1,27",
+        "CEC 1700"
+      ],
+      "tags": [
+        "vida",
+        "fragilidade",
+        "dignidade"
+      ]
+    },
+    {
+      "id": "I14",
+      "column": "I",
+      "label": "Fama acima da pessoa",
+      "definition": "Situação em que reputação, curtidas, audiência ou imagem pública valem mais que a verdade e o bem de alguém.",
+      "anchors": [
+        "B15",
+        "G08",
+        "1Cor 13,6"
+      ],
+      "tags": [
+        "imagem",
+        "fama",
+        "verdade"
+      ]
+    },
+    {
+      "id": "I15",
+      "column": "I",
+      "label": "Amizade interesseira",
+      "definition": "Relação mantida enquanto há vantagem, acesso, prazer ou utilidade, mas abandonada quando custa servir.",
+      "anchors": [
+        "B05",
+        "B09",
+        "Jo 15,13"
+      ],
+      "tags": [
+        "amizade",
+        "interesse",
+        "doação"
+      ]
+    },
+    {
+      "id": "N01",
+      "column": "N",
+      "label": "Só sentimento",
+      "definition": "Narrativa que reduz o amor ao que se sente no momento e dispensa decisão, fidelidade e responsabilidade.",
+      "anchors": [
+        "B05",
+        "CEC 1766",
+        "1Cor 13,7"
+      ],
+      "tags": [
+        "sentimento",
+        "autoengano",
+        "amor"
+      ]
+    },
+    {
+      "id": "N02",
+      "column": "N",
+      "label": "Posse disfarçada",
+      "definition": "Narrativa que chama controle de cuidado e transforma a outra pessoa em propriedade afetiva.",
+      "anchors": [
+        "G04",
+        "B09"
+      ],
+      "tags": [
+        "posse",
+        "controle",
+        "mentira"
+      ]
+    },
+    {
+      "id": "N03",
+      "column": "N",
+      "label": "Falsa autonomia",
+      "definition": "Narrativa que usa a frase 'é minha vida' para negar responsabilidades reais diante de Deus e do próximo.",
+      "anchors": [
+        "B08",
+        "Gl 5,13"
+      ],
+      "tags": [
+        "autonomia",
+        "responsabilidade",
+        "desculpa"
+      ]
+    },
+    {
+      "id": "N04",
+      "column": "N",
+      "label": "Todo mundo faz",
+      "definition": "Narrativa que confunde frequência com bondade moral e troca a consciência pela pressão do ambiente.",
+      "anchors": [
+        "B08",
+        "CEC 1783"
+      ],
+      "tags": [
+        "pressão",
+        "consciência",
+        "autoengano"
+      ]
+    },
+    {
+      "id": "N05",
+      "column": "N",
+      "label": "Desejo manda",
+      "definition": "Narrativa que trata o impulso como ordem incontestável e enfraquece a liberdade para o bem.",
+      "anchors": [
+        "G03",
+        "G12",
+        "CEC 1767"
+      ],
+      "tags": [
+        "desejo",
+        "impulso",
+        "liberdade"
+      ]
+    },
+    {
+      "id": "N06",
+      "column": "N",
+      "label": "Corpo sem alma",
+      "definition": "Narrativa que separa corpo e pessoa para justificar uso, exposição ou consumo sexual sem responsabilidade.",
+      "anchors": [
+        "B07",
+        "G11",
+        "1Cor 6,19-20"
+      ],
+      "tags": [
+        "corpo",
+        "objeto",
+        "sexualidade"
+      ]
+    },
+    {
+      "id": "N07",
+      "column": "N",
+      "label": "Pessoa descartável",
+      "definition": "Narrativa que mede o valor humano pela conveniência, produtividade, beleza, saúde ou prazer que a pessoa oferece.",
+      "anchors": [
+        "B13",
+        "CEC 1931"
+      ],
+      "tags": [
+        "descarte",
+        "dignidade",
+        "utilidade"
+      ]
+    },
+    {
+      "id": "N08",
+      "column": "N",
+      "label": "Carência justifica",
+      "definition": "Narrativa que usa feridas afetivas para desculpar mentira, possessividade, uso do outro ou escolhas desordenadas.",
+      "anchors": [
+        "B12",
+        "G12"
+      ],
+      "tags": [
+        "carência",
+        "desculpa",
+        "ferida"
+      ]
+    },
+    {
+      "id": "N09",
+      "column": "N",
+      "label": "Ciúme prova amor",
+      "definition": "Narrativa que transforma desconfiança, vigilância e ameaça em sinal de intensidade amorosa.",
+      "anchors": [
+        "I03",
+        "G04"
+      ],
+      "tags": [
+        "ciúme",
+        "posse",
+        "controle"
+      ]
+    },
+    {
+      "id": "N10",
+      "column": "N",
+      "label": "Prazer sem consequência",
+      "definition": "Narrativa que isola o prazer de suas consequências sobre o corpo, a consciência, o vínculo e o outro.",
+      "anchors": [
+        "B10",
+        "CEC 2351"
+      ],
+      "tags": [
+        "prazer",
+        "consequência",
+        "sexualidade"
+      ]
+    },
+    {
+      "id": "N11",
+      "column": "N",
+      "label": "Verdade sem caridade",
+      "definition": "Narrativa que usa a verdade como arma para humilhar, vencer disputa ou se sentir superior.",
+      "anchors": [
+        "B15",
+        "G08",
+        "Ef 4,15"
+      ],
+      "tags": [
+        "verdade",
+        "humilhação",
+        "caridade"
+      ]
+    },
+    {
+      "id": "N12",
+      "column": "N",
+      "label": "Oração sem compromisso",
+      "definition": "Narrativa que usa linguagem religiosa para evitar presença, reparação, justiça ou serviço concreto.",
+      "anchors": [
+        "Tg 2,15-17",
+        "B06",
+        "G06"
+      ],
+      "tags": [
+        "oração",
+        "omissão",
+        "serviço"
+      ]
+    },
+    {
+      "id": "N13",
+      "column": "N",
+      "label": "Perdoar é aceitar tudo",
+      "definition": "Narrativa que confunde perdão cristão com apagar consequências, tolerar abuso ou abandonar a verdade.",
+      "anchors": [
+        "G10",
+        "B12"
+      ],
+      "tags": [
+        "perdão",
+        "limite",
+        "verdade"
+      ]
+    },
+    {
+      "id": "N14",
+      "column": "N",
+      "label": "Aparência vale mais",
+      "definition": "Narrativa que troca a verdade da pessoa por imagem, sedução, status, curtida ou reconhecimento público.",
+      "anchors": [
+        "B03",
+        "I14"
+      ],
+      "tags": [
+        "aparência",
+        "imagem",
+        "status"
+      ]
+    },
+    {
+      "id": "N15",
+      "column": "N",
+      "label": "Utilidade decide valor",
+      "definition": "Narrativa que reconhece valor apenas em quem produz, agrada, rende, entretém ou não incomoda.",
+      "anchors": [
+        "B13",
+        "I08",
+        "I13"
+      ],
+      "tags": [
+        "utilidade",
+        "descarte",
+        "dignidade"
+      ]
+    },
+    {
+      "id": "G01",
+      "column": "G",
+      "label": "Pessoa e ato",
+      "definition": "Distinção entre a dignidade inviolável da pessoa e a necessidade de julgar moralmente seus atos.",
+      "anchors": [
+        "B13",
+        "CEC 1700"
+      ],
+      "tags": [
+        "distinção",
+        "dignidade",
+        "ato"
+      ]
+    },
+    {
+      "id": "G02",
+      "column": "G",
+      "label": "Sentimento e escolha",
+      "definition": "Distinção entre sentir algo, que pode surgir sem escolha imediata, e consentir, alimentar ou agir a partir disso.",
+      "anchors": [
+        "CEC 1767",
+        "N01"
+      ],
+      "tags": [
+        "sentimento",
+        "decisão",
+        "discernimento"
+      ]
+    },
+    {
+      "id": "G03",
+      "column": "G",
+      "label": "Desejo e bem",
+      "definition": "Distinção entre aquilo que atrai ou agrada e aquilo que realmente respeita a pessoa e conduz ao bem.",
+      "anchors": [
+        "B08",
+        "N05",
+        "CEC 1766"
+      ],
+      "tags": [
+        "desejo",
+        "bem",
+        "liberdade"
+      ]
+    },
+    {
+      "id": "G04",
+      "column": "G",
+      "label": "Amor e posse",
+      "definition": "Distinção entre querer o bem do outro e tentar controlar sua liberdade, vínculos, corpo ou consciência.",
+      "anchors": [
+        "B09",
+        "I03",
+        "N02"
+      ],
+      "tags": [
+        "amor",
+        "posse",
+        "controle"
+      ]
+    },
+    {
+      "id": "G05",
+      "column": "G",
+      "label": "Acolhida e aprovação",
+      "definition": "Distinção entre acolher uma pessoa com dignidade e aprovar toda decisão, desejo ou comportamento.",
+      "anchors": [
+        "G01",
+        "B15",
+        "Ef 4,15"
+      ],
+      "tags": [
+        "acolhida",
+        "aprovação",
+        "verdade"
+      ]
+    },
+    {
+      "id": "G06",
+      "column": "G",
+      "label": "Prudência e omissão",
+      "definition": "Distinção entre agir com cuidado no tempo certo e calar por medo, comodismo ou cumplicidade.",
+      "anchors": [
+        "N12",
+        "Tg 2,15-17"
+      ],
+      "tags": [
+        "prudência",
+        "omissão",
+        "ação"
+      ]
+    },
+    {
+      "id": "G07",
+      "column": "G",
+      "label": "Misericórdia e banalização",
+      "definition": "Distinção entre oferecer perdão e recomeço e tratar o pecado como se não ferisse ninguém.",
+      "anchors": [
+        "B11",
+        "B12"
+      ],
+      "tags": [
+        "misericórdia",
+        "pecado",
+        "recomeço"
+      ]
+    },
+    {
+      "id": "G08",
+      "column": "G",
+      "label": "Verdade e humilhação",
+      "definition": "Distinção entre dizer a verdade para servir ao bem e expor alguém para ferir, vencer ou divertir.",
+      "anchors": [
+        "B15",
+        "N11",
+        "Ef 4,15"
+      ],
+      "tags": [
+        "verdade",
+        "humilhação",
+        "caridade"
+      ]
+    },
+    {
+      "id": "G09",
+      "column": "G",
+      "label": "Limite e rejeição",
+      "definition": "Distinção entre estabelecer limites justos para proteger o bem e desprezar a pessoa como se ela não tivesse valor.",
+      "anchors": [
+        "B13",
+        "O07"
+      ],
+      "tags": [
+        "limite",
+        "rejeição",
+        "proteção"
+      ]
+    },
+    {
+      "id": "G10",
+      "column": "G",
+      "label": "Perdão e confiança",
+      "definition": "Distinção entre perdoar sinceramente e restituir confiança sem conversão, verdade ou sinais reais de mudança.",
+      "anchors": [
+        "I11",
+        "N13"
+      ],
+      "tags": [
+        "perdão",
+        "confiança",
+        "prudência"
+      ]
+    },
+    {
+      "id": "G11",
+      "column": "G",
+      "label": "Corpo e objeto",
+      "definition": "Distinção entre reconhecer o corpo como expressão da pessoa e reduzi-lo a instrumento de prazer, lucro ou exposição.",
+      "anchors": [
+        "B07",
+        "I04",
+        "CEC 2354"
+      ],
+      "tags": [
+        "corpo",
+        "objeto",
+        "dignidade"
+      ]
+    },
+    {
+      "id": "G12",
+      "column": "G",
+      "label": "Liberdade e impulso",
+      "definition": "Distinção entre liberdade responsável e obediência imediata ao impulso, à carência ou à pressão externa.",
+      "anchors": [
+        "B08",
+        "N05",
+        "CEC 1730"
+      ],
+      "tags": [
+        "liberdade",
+        "impulso",
+        "domínio"
+      ]
+    },
+    {
+      "id": "G13",
+      "column": "G",
+      "label": "Serviço e servilismo",
+      "definition": "Distinção entre doar-se por amor e aceitar submissão, exploração ou apagamento da própria dignidade.",
+      "anchors": [
+        "B05",
+        "B13",
+        "Gl 5,13"
+      ],
+      "tags": [
+        "serviço",
+        "dignidade",
+        "limite"
+      ]
+    },
+    {
+      "id": "G14",
+      "column": "G",
+      "label": "Fecundidade e responsabilidade",
+      "definition": "Distinção entre abertura generosa à vida e decisões irresponsáveis que geram abandono, uso ou negligência.",
+      "anchors": [
+        "B14",
+        "CEC 1604",
+        "Gn 1,28"
+      ],
+      "tags": [
+        "fecundidade",
+        "vida",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "G15",
+      "column": "G",
+      "label": "Intenção e consequência",
+      "definition": "Distinção entre aquilo que alguém diz querer e o dano real que sua decisão causa ao outro.",
+      "anchors": [
+        "B08",
+        "CEC 1735"
+      ],
+      "tags": [
+        "intenção",
+        "consequência",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "O01",
+      "column": "O",
+      "label": "Nomear a manipulação",
+      "definition": "Reconhecer e dizer com clareza quando afeto, culpa, ameaça ou silêncio estão sendo usados para controlar alguém.",
+      "anchors": [
+        "I01",
+        "G04",
+        "B15"
+      ],
+      "tags": [
+        "palavra",
+        "manipulação",
+        "verdade"
+      ]
+    },
+    {
+      "id": "O02",
+      "column": "O",
+      "label": "Cortar ocasião de pecado",
+      "definition": "Afastar-se de ambientes, hábitos, telas, conversas ou vínculos que alimentam queda grave ou desordem afetiva.",
+      "anchors": [
+        "B10",
+        "G12",
+        "Mt 5,29"
+      ],
+      "tags": [
+        "renúncia",
+        "prudência",
+        "pecado"
+      ]
+    },
+    {
+      "id": "O03",
+      "column": "O",
+      "label": "Pedir ajuda segura",
+      "definition": "Procurar pessoa madura, autoridade responsável ou acompanhamento adequado quando a situação supera as próprias forças.",
+      "anchors": [
+        "I12",
+        "G06"
+      ],
+      "tags": [
+        "ajuda",
+        "proteção",
+        "acompanhamento"
+      ]
+    },
+    {
+      "id": "O04",
+      "column": "O",
+      "label": "Reparar dano causado",
+      "definition": "Assumir responsabilidade concreta pelo mal feito, buscando corrigir, restituir, pedir perdão e mudar de conduta.",
+      "anchors": [
+        "CEC 1459",
+        "G15"
+      ],
+      "tags": [
+        "reparação",
+        "responsabilidade",
+        "conversão"
+      ]
+    },
+    {
+      "id": "O05",
+      "column": "O",
+      "label": "Guardar o corpo",
+      "definition": "Tratar o próprio corpo e o corpo do outro com pudor, respeito e responsabilidade, sem exposição nem uso.",
+      "anchors": [
+        "B07",
+        "B10",
+        "1Cor 6,19-20"
+      ],
+      "tags": [
+        "corpo",
+        "pudor",
+        "castidade"
+      ]
+    },
+    {
+      "id": "O06",
+      "column": "O",
+      "label": "Escutar sem usar",
+      "definition": "Acolher a dor do outro com atenção real, sem explorar fragilidade para interesse, controle ou curiosidade.",
+      "anchors": [
+        "B06",
+        "I02",
+        "Lc 10,33-35"
+      ],
+      "tags": [
+        "escuta",
+        "acolhida",
+        "respeito"
+      ]
+    },
+    {
+      "id": "O07",
+      "column": "O",
+      "label": "Sustentar limite claro",
+      "definition": "Comunicar e manter limites justos, especialmente diante de pressão afetiva, sexual, familiar ou social.",
+      "anchors": [
+        "G09",
+        "I09"
+      ],
+      "tags": [
+        "limite",
+        "firmeza",
+        "proteção"
+      ]
+    },
+    {
+      "id": "O08",
+      "column": "O",
+      "label": "Confessar e recomeçar",
+      "definition": "Levar o pecado à misericórdia de Deus, receber perdão sacramental quando necessário e assumir caminho concreto de mudança.",
+      "anchors": [
+        "B11",
+        "B12",
+        "G07"
+      ],
+      "tags": [
+        "confissão",
+        "misericórdia",
+        "recomeço"
+      ]
+    },
+    {
+      "id": "O09",
+      "column": "O",
+      "label": "Servir quem não retribui",
+      "definition": "Escolher um gesto concreto de cuidado por alguém que não oferece vantagem, prestígio ou retorno imediato.",
+      "anchors": [
+        "B05",
+        "B06",
+        "Mt 25,36"
+      ],
+      "tags": [
+        "serviço",
+        "doação",
+        "gratuidade"
+      ]
+    },
+    {
+      "id": "O10",
+      "column": "O",
+      "label": "Formar a consciência",
+      "definition": "Buscar verdade moral, examinar decisões e educar desejos pela Palavra de Deus, doutrina da Igreja e conselho prudente.",
+      "anchors": [
+        "CEC 1783",
+        "B08"
+      ],
+      "tags": [
+        "consciência",
+        "formação",
+        "verdade"
+      ]
+    },
+    {
+      "id": "O11",
+      "column": "O",
+      "label": "Romper consumo impuro",
+      "definition": "Interromper pornografia, erotização e conteúdos que reduzem pessoas a objeto, usando limites concretos e ajuda quando necessário.",
+      "anchors": [
+        "I10",
+        "CEC 2354",
+        "O02"
+      ],
+      "tags": [
+        "pornografia",
+        "renúncia",
+        "castidade"
+      ]
+    },
+    {
+      "id": "O12",
+      "column": "O",
+      "label": "Proteger sem expor",
+      "definition": "Defender alguém em risco sem transformar sua dor em espetáculo, fofoca ou humilhação pública.",
+      "anchors": [
+        "G08",
+        "B13"
+      ],
+      "tags": [
+        "proteção",
+        "prudência",
+        "dignidade"
+      ]
+    },
+    {
+      "id": "O13",
+      "column": "O",
+      "label": "Converter o afeto",
+      "definition": "Ordenar sentimentos, carências e desejos para que deixem de buscar posse e passem a buscar o bem verdadeiro.",
+      "anchors": [
+        "G02",
+        "G03",
+        "B10"
+      ],
+      "tags": [
+        "afeto",
+        "conversão",
+        "domínio"
+      ]
+    },
+    {
+      "id": "O14",
+      "column": "O",
+      "label": "Assumir compromisso",
+      "definition": "Transformar boas intenções em fidelidade concreta, responsabilidade assumida e cuidado perseverante.",
+      "anchors": [
+        "B05",
+        "B14",
+        "1Cor 13,7"
+      ],
+      "tags": [
+        "compromisso",
+        "fidelidade",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "O15",
+      "column": "O",
+      "label": "Rezar e agir",
+      "definition": "Unir oração sincera com presença, serviço, reparação e decisões concretas quando o amor exige resposta.",
+      "anchors": [
+        "N12",
+        "Tg 2,15-17",
+        "1Jo 4,11"
+      ],
+      "tags": [
+        "oração",
+        "ação",
+        "caridade"
+      ]
+    }
+  ]
+}

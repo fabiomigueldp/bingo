@@ -1,0 +1,1154 @@
+{
+  "title": "Bingo — Compromisso eclesial",
+  "meeting": "Encontro 29 — Compromisso eclesial",
+  "meeting_label": "Encontro 29",
+  "output_slug": "bingo_compromisso_eclesial",
+  "core_message": "Pertencer à Igreja é seguir o Bom Pastor com presença fiel, participação na Eucaristia dominical e serviço concreto na comunidade onde Cristo reúne o seu povo.",
+  "source_meeting_markdown": "projects/catequese/material_didatico/output/markdown/encontro_29.md",
+  "scripture": [
+    "Jo 10,11",
+    "Hb 10,25",
+    "At 2,42",
+    "1Cor 12,12-27",
+    "Rm 12,4-8",
+    "1Pd 4,10",
+    "Gl 6,2",
+    "Tg 2,14-17",
+    "Mt 25,35-40",
+    "Jo 15,5",
+    "Jo 15,12",
+    "1Jo 3,16-18",
+    "Mc 10,45",
+    "Lc 10,25-37",
+    "Mt 18,15-17",
+    "2Cor 9,7",
+    "1Cor 14,33.40"
+  ],
+  "catechism": [
+    "CEC 1267",
+    "CEC 1270",
+    "CEC 2042",
+    "CEC 2174",
+    "CEC 2177",
+    "CEC 2178",
+    "CEC 2179",
+    "CEC 2180",
+    "CEC 2181",
+    "CEC 2184",
+    "CEC 2185",
+    "CEC 2186"
+  ],
+  "card_model": {
+    "total_terms": 75,
+    "columns": 5,
+    "terms_per_column": 15,
+    "grid": "5x5",
+    "center": {
+      "label": "LIVRE / Jo 10,11",
+      "fixed": true,
+      "called": false
+    },
+    "recommended_win_condition": "duas_linhas"
+  },
+  "columns": [
+    {
+      "key": "B",
+      "title": "Base moral",
+      "function": "Fundamentos bíblicos e doutrinais para ler o tema.",
+      "short_function": "fundamento cristão do tema"
+    },
+    {
+      "key": "I",
+      "title": "Situações concretas",
+      "function": "Formas reais em que o tema aparece na vida concreta, em situações inteligíveis para a turma.",
+      "short_function": "situações concretas do tema"
+    },
+    {
+      "key": "N",
+      "title": "Narrativas falsas",
+      "function": "Desculpas, autoenganos e frases que desviam do bem.",
+      "short_function": "desculpas que normalizam o erro"
+    },
+    {
+      "key": "G",
+      "title": "Discernimentos",
+      "function": "Distinções morais que evitam respostas simplistas.",
+      "short_function": "distinções para discernir"
+    },
+    {
+      "key": "O",
+      "title": "Orientações de resposta",
+      "function": "Ações concretas, prudentes e proporcionais diante do problema.",
+      "short_function": "respostas proporcionais e prudentes"
+    }
+  ],
+  "terms": [
+    {
+      "id": "B01",
+      "column": "B",
+      "label": "Bom Pastor",
+      "definition": "Cristo conduz a Igreja dando a vida pelas ovelhas; por isso, o compromisso eclesial começa na adesão a Ele, não em simpatia por uma organização humana.",
+      "anchors": [
+        "Jo 10,11",
+        "CEC 2179"
+      ],
+      "tags": [
+        "Cristo",
+        "Igreja"
+      ]
+    },
+    {
+      "id": "B02",
+      "column": "B",
+      "label": "Dia do Senhor",
+      "definition": "O domingo é o memorial semanal da Ressurreição e deve ordenar o tempo do cristão como dia de culto, repouso, oração e caridade.",
+      "anchors": [
+        "CEC 2174",
+        "CEC 2177"
+      ],
+      "tags": [
+        "domingo",
+        "ressurreição"
+      ]
+    },
+    {
+      "id": "B03",
+      "column": "B",
+      "label": "Eucaristia dominical",
+      "definition": "A Missa de domingo está no coração da vida da Igreja, porque nela Cristo reúne, alimenta e envia o seu povo.",
+      "anchors": [
+        "CEC 2177",
+        "At 2,42"
+      ],
+      "tags": [
+        "missa",
+        "eucaristia"
+      ]
+    },
+    {
+      "id": "B04",
+      "column": "B",
+      "label": "Assembleia fiel",
+      "definition": "A fé cristã não dispensa a reunião do povo de Deus; a assembleia litúrgica forma comunhão, perseverança e responsabilidade comum.",
+      "anchors": [
+        "Hb 10,25",
+        "CEC 2178"
+      ],
+      "tags": [
+        "assembleia",
+        "perseverança"
+      ]
+    },
+    {
+      "id": "B05",
+      "column": "B",
+      "label": "Pertença paroquial",
+      "definition": "A paróquia é a comunidade estável onde a fé recebe forma concreta: celebração, doutrina, caridade, sacramentos e cuidado pastoral.",
+      "anchors": [
+        "CEC 2179",
+        "B03"
+      ],
+      "tags": [
+        "paróquia",
+        "pertença"
+      ]
+    },
+    {
+      "id": "B06",
+      "column": "B",
+      "label": "Corpo de Cristo",
+      "definition": "Os fiéis não são consumidores isolados de serviços religiosos, mas membros de um corpo em que cada um precisa dos outros.",
+      "anchors": [
+        "1Cor 12,12-27",
+        "CEC 1267"
+      ],
+      "tags": [
+        "comunhão",
+        "corpo"
+      ]
+    },
+    {
+      "id": "B07",
+      "column": "B",
+      "label": "Dons para serviço",
+      "definition": "Os dons recebidos de Deus devem ser colocados a serviço dos irmãos, sem vaidade, omissão ou apropriação egoísta.",
+      "anchors": [
+        "1Pd 4,10",
+        "Rm 12,4-8"
+      ],
+      "tags": [
+        "dons",
+        "serviço"
+      ]
+    },
+    {
+      "id": "B08",
+      "column": "B",
+      "label": "Caridade fraterna",
+      "definition": "A vida paroquial deve praticar a caridade do Senhor em obras boas e fraternas, sobretudo diante dos pobres, doentes e abandonados.",
+      "anchors": [
+        "CEC 2179",
+        "1Jo 3,16-18"
+      ],
+      "tags": [
+        "caridade",
+        "fraternidade"
+      ]
+    },
+    {
+      "id": "B09",
+      "column": "B",
+      "label": "Perseverança fiel",
+      "definition": "Compromisso cristão pede constância, não apenas entusiasmo inicial; a fidelidade aparece quando o bem continua mesmo sem novidade ou aplauso.",
+      "anchors": [
+        "Hb 10,25",
+        "Gl 6,2"
+      ],
+      "tags": [
+        "fidelidade",
+        "constância"
+      ]
+    },
+    {
+      "id": "B10",
+      "column": "B",
+      "label": "Obrigação grave",
+      "definition": "A participação na Missa dominical é preceito sério; faltar deliberadamente sem motivo grave fere a relação com Deus e com a Igreja.",
+      "anchors": [
+        "CEC 2042",
+        "CEC 2181"
+      ],
+      "tags": [
+        "preceito",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "B11",
+      "column": "B",
+      "label": "Comunhão concreta",
+      "definition": "A comunhão eclesial não é ideia abstrata; ela toma forma em presença, escuta, colaboração, oração comum e responsabilidade pelos irmãos.",
+      "anchors": [
+        "At 2,42",
+        "CEC 2179"
+      ],
+      "tags": [
+        "comunhão",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "B12",
+      "column": "B",
+      "label": "Cuidado pastoral",
+      "definition": "A Igreja cuida do povo por meio de pastores reais, sacramentos, ensino e acompanhamento, sempre sob Cristo, o Pastor principal.",
+      "anchors": [
+        "Jo 10,11",
+        "CEC 2179"
+      ],
+      "tags": [
+        "pastor",
+        "cuidado"
+      ]
+    },
+    {
+      "id": "B13",
+      "column": "B",
+      "label": "Vocação batismal",
+      "definition": "Pelo Batismo, o cristão pertence a Cristo e à Igreja, recebendo direitos, deveres e missão dentro do povo de Deus.",
+      "anchors": [
+        "CEC 1267",
+        "CEC 1270"
+      ],
+      "tags": [
+        "batismo",
+        "vocação"
+      ]
+    },
+    {
+      "id": "B14",
+      "column": "B",
+      "label": "Vida litúrgica",
+      "definition": "A liturgia não é adorno da fé, mas modo ordinário pelo qual a Igreja celebra o Mistério de Cristo e educa o povo cristão.",
+      "anchors": [
+        "CEC 2179",
+        "At 2,42"
+      ],
+      "tags": [
+        "liturgia",
+        "fé"
+      ]
+    },
+    {
+      "id": "B15",
+      "column": "B",
+      "label": "Missão dos leigos",
+      "definition": "Os fiéis leigos participam da missão da Igreja no mundo e na comunidade, oferecendo tempo, competência, testemunho e serviço.",
+      "anchors": [
+        "Rm 12,4-8",
+        "1Pd 4,10"
+      ],
+      "tags": [
+        "leigos",
+        "missão"
+      ]
+    },
+    {
+      "id": "I01",
+      "column": "I",
+      "label": "Domingo vendido",
+      "definition": "Situação em que o domingo é ocupado repetidamente por consumo, lazer ou lucro, sem reservar espaço real para Deus e para a assembleia cristã.",
+      "anchors": [
+        "B02",
+        "B03",
+        "CEC 2177"
+      ],
+      "tags": [
+        "domingo",
+        "consumo"
+      ]
+    },
+    {
+      "id": "I02",
+      "column": "I",
+      "label": "Missa de ocasião",
+      "definition": "Participação reduzida a datas especiais, cerimônias ou pressão familiar, sem vínculo habitual com a Eucaristia dominical.",
+      "anchors": [
+        "B03",
+        "CEC 2177"
+      ],
+      "tags": [
+        "missa",
+        "inconstância"
+      ]
+    },
+    {
+      "id": "I03",
+      "column": "I",
+      "label": "Sacramento isolado",
+      "definition": "Busca de Batismo, Crisma, Matrimônio ou Exéquias como ato separado da vida de fé e da pertença à comunidade.",
+      "anchors": [
+        "B05",
+        "B13",
+        "CEC 2179"
+      ],
+      "tags": [
+        "sacramentos",
+        "pertença"
+      ]
+    },
+    {
+      "id": "I04",
+      "column": "I",
+      "label": "Voluntário instável",
+      "definition": "Entrada em serviço comunitário sem constância, deixando tarefas assumidas para outros carregarem sem aviso ou responsabilidade.",
+      "anchors": [
+        "B09",
+        "B07",
+        "Gl 6,2"
+      ],
+      "tags": [
+        "serviço",
+        "constância"
+      ]
+    },
+    {
+      "id": "I05",
+      "column": "I",
+      "label": "Crítica sem presença",
+      "definition": "Situação em que alguém julga a paróquia de longe, reclama de tudo e não participa de nenhum caminho concreto de melhoria.",
+      "anchors": [
+        "B11",
+        "G06"
+      ],
+      "tags": [
+        "crítica",
+        "participação"
+      ]
+    },
+    {
+      "id": "I06",
+      "column": "I",
+      "label": "Talento retido",
+      "definition": "Capacidade real de servir a comunidade guardada por medo, vaidade, preguiça ou desejo de não se envolver.",
+      "anchors": [
+        "B07",
+        "1Pd 4,10"
+      ],
+      "tags": [
+        "dons",
+        "omissão"
+      ]
+    },
+    {
+      "id": "I07",
+      "column": "I",
+      "label": "Paróquia em crise",
+      "definition": "Momento em que doença, luto, pobreza, conflito ou falta de agentes revela se a comunidade é casa concreta ou apenas endereço religioso.",
+      "anchors": [
+        "B08",
+        "B05",
+        "Mt 25,35-40"
+      ],
+      "tags": [
+        "caridade",
+        "crise"
+      ]
+    },
+    {
+      "id": "I08",
+      "column": "I",
+      "label": "Escala abandonada",
+      "definition": "Serviço assumido na liturgia ou pastoral é deixado sem substituição, causando desordem e sobrecarga nos mesmos de sempre.",
+      "anchors": [
+        "B09",
+        "1Cor 14,33.40"
+      ],
+      "tags": [
+        "responsabilidade",
+        "ordem"
+      ]
+    },
+    {
+      "id": "I09",
+      "column": "I",
+      "label": "Trabalho no domingo",
+      "definition": "Situação de trabalho necessário ou imposto que dificulta a Missa dominical e exige discernimento entre impedimento real e comodidade.",
+      "anchors": [
+        "B10",
+        "G02",
+        "CEC 2181"
+      ],
+      "tags": [
+        "trabalho",
+        "domingo"
+      ]
+    },
+    {
+      "id": "I10",
+      "column": "I",
+      "label": "Doente sem visita",
+      "definition": "Pessoa enferma ou idosa ligada à comunidade deixa de ser vista, chamada ou acompanhada quando não consegue mais frequentar a igreja.",
+      "anchors": [
+        "B08",
+        "Mt 25,35-40"
+      ],
+      "tags": [
+        "doença",
+        "caridade"
+      ]
+    },
+    {
+      "id": "I11",
+      "column": "I",
+      "label": "Jovem sem lugar",
+      "definition": "Uma pessoa mais nova se aproxima da comunidade, mas encontra apenas tarefas fechadas, linguagem interna e pouca abertura para aprender e servir.",
+      "anchors": [
+        "B11",
+        "O11",
+        "1Cor 12,12-27"
+      ],
+      "tags": [
+        "acolhida",
+        "comunidade"
+      ]
+    },
+    {
+      "id": "I12",
+      "column": "I",
+      "label": "Conflito na equipe",
+      "definition": "Divergência real em uma pastoral ou serviço gera ressentimento, ameaça de saída e risco de romper a comunhão por orgulho.",
+      "anchors": [
+        "G06",
+        "G12",
+        "Mt 18,15-17"
+      ],
+      "tags": [
+        "conflito",
+        "comunhão"
+      ]
+    },
+    {
+      "id": "I13",
+      "column": "I",
+      "label": "Liturgia como palco",
+      "definition": "Canto, leitura, acolhida ou coordenação são tratados como visibilidade pessoal, e não como serviço ao culto de Deus.",
+      "anchors": [
+        "B14",
+        "G08"
+      ],
+      "tags": [
+        "liturgia",
+        "vaidade"
+      ]
+    },
+    {
+      "id": "I14",
+      "column": "I",
+      "label": "Fé sem agenda",
+      "definition": "A pessoa afirma valorizar a Igreja, mas nunca organiza horários, transporte, descanso ou prioridades para estar presente.",
+      "anchors": [
+        "B09",
+        "B02"
+      ],
+      "tags": [
+        "prioridade",
+        "tempo"
+      ]
+    },
+    {
+      "id": "I15",
+      "column": "I",
+      "label": "Luto acompanhado",
+      "definition": "Uma família sepulta alguém querido e percebe se a comunidade cristã está presente com oração, presença discreta e ajuda real.",
+      "anchors": [
+        "B05",
+        "B08",
+        "CEC 2179"
+      ],
+      "tags": [
+        "luto",
+        "comunidade"
+      ]
+    },
+    {
+      "id": "N01",
+      "column": "N",
+      "label": "Missa quando der",
+      "definition": "Narrativa que transforma o preceito dominical em opção eventual, subordinada ao humor, ao cansaço comum ou à conveniência do fim de semana.",
+      "anchors": [
+        "B03",
+        "B10",
+        "CEC 2181"
+      ],
+      "tags": [
+        "desculpa",
+        "domingo"
+      ]
+    },
+    {
+      "id": "N02",
+      "column": "N",
+      "label": "Fé sem Igreja",
+      "definition": "Autoengano que separa Cristo do seu Corpo, como se fosse possível seguir o Pastor recusando a comunidade que Ele reúne.",
+      "anchors": [
+        "B01",
+        "B06",
+        "1Cor 12,12-27"
+      ],
+      "tags": [
+        "individualismo",
+        "igreja"
+      ]
+    },
+    {
+      "id": "N03",
+      "column": "N",
+      "label": "Cliente religioso",
+      "definition": "Lógica que trata a paróquia como prestadora de serviços espirituais, exigindo atendimento sem assumir pertença, deveres ou colaboração.",
+      "anchors": [
+        "B05",
+        "B11"
+      ],
+      "tags": [
+        "consumo",
+        "paróquia"
+      ]
+    },
+    {
+      "id": "N04",
+      "column": "N",
+      "label": "Só se eu gostar",
+      "definition": "Desculpa que faz do gosto pessoal o critério principal para participar, perseverar ou servir na vida da Igreja.",
+      "anchors": [
+        "B09",
+        "G13"
+      ],
+      "tags": [
+        "gosto",
+        "inconstância"
+      ]
+    },
+    {
+      "id": "N05",
+      "column": "N",
+      "label": "Presença sem entrega",
+      "definition": "Engano de achar que estar fisicamente em alguns momentos basta, mesmo quando a pessoa se recusa a servir, escutar ou mudar.",
+      "anchors": [
+        "B11",
+        "Tg 2,14-17"
+      ],
+      "tags": [
+        "formalismo",
+        "serviço"
+      ]
+    },
+    {
+      "id": "N06",
+      "column": "N",
+      "label": "Crítica de arquibancada",
+      "definition": "Postura de quem observa falhas reais ou imaginadas, comenta com dureza e nunca procura caminho honesto de correção ou colaboração.",
+      "anchors": [
+        "I05",
+        "G06",
+        "Mt 18,15-17"
+      ],
+      "tags": [
+        "murmuração",
+        "crítica"
+      ]
+    },
+    {
+      "id": "N07",
+      "column": "N",
+      "label": "Dízimo como sobra",
+      "definition": "Narrativa que reduz a contribuição material a resto sem importância, desligando dinheiro, gratidão, pertença e responsabilidade comum.",
+      "anchors": [
+        "O07",
+        "2Cor 9,7"
+      ],
+      "tags": [
+        "dízimo",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "N08",
+      "column": "N",
+      "label": "Sacramento de fachada",
+      "definition": "Engano de buscar sacramentos por aparência social, tradição vazia ou exigência familiar, sem conversão nem vínculo eclesial.",
+      "anchors": [
+        "I03",
+        "B13"
+      ],
+      "tags": [
+        "sacramentos",
+        "aparência"
+      ]
+    },
+    {
+      "id": "N09",
+      "column": "N",
+      "label": "Dom privatizado",
+      "definition": "Autoengano de considerar talentos e competências como propriedade fechada, sem pergunta séria sobre o serviço aos irmãos.",
+      "anchors": [
+        "B07",
+        "1Pd 4,10"
+      ],
+      "tags": [
+        "dons",
+        "egoísmo"
+      ]
+    },
+    {
+      "id": "N10",
+      "column": "N",
+      "label": "Tempo absoluto",
+      "definition": "Narrativa em que a pessoa se declara dona total do tempo e rejeita qualquer obrigação diante de Deus, da família ou da comunidade.",
+      "anchors": [
+        "B02",
+        "B10"
+      ],
+      "tags": [
+        "tempo",
+        "autonomia"
+      ]
+    },
+    {
+      "id": "N11",
+      "column": "N",
+      "label": "Ferida como licença",
+      "definition": "Uso de uma decepção real como autorização para romper toda pertença, alimentar distância e recusar qualquer caminho de reconciliação.",
+      "anchors": [
+        "G12",
+        "Mt 18,15-17"
+      ],
+      "tags": [
+        "ferida",
+        "ruptura"
+      ]
+    },
+    {
+      "id": "N12",
+      "column": "N",
+      "label": "Pastor funcionário",
+      "definition": "Visão que reduz o padre ou responsável pastoral a prestador de serviços, sem reconhecer a dimensão espiritual do cuidado e da autoridade.",
+      "anchors": [
+        "B12",
+        "CEC 2179"
+      ],
+      "tags": [
+        "pastor",
+        "consumo"
+      ]
+    },
+    {
+      "id": "N13",
+      "column": "N",
+      "label": "Caridade terceirizada",
+      "definition": "Desculpa de empurrar toda necessidade dos pobres, doentes e enlutados para outros, como se a pertença cristã não exigisse resposta pessoal.",
+      "anchors": [
+        "B08",
+        "Mt 25,35-40"
+      ],
+      "tags": [
+        "caridade",
+        "omissão"
+      ]
+    },
+    {
+      "id": "N14",
+      "column": "N",
+      "label": "Obrigação sem amor",
+      "definition": "Falsa oposição que apresenta todo dever religioso como inimigo do amor, esquecendo que o amor fiel também assume compromissos concretos.",
+      "anchors": [
+        "B10",
+        "G01"
+      ],
+      "tags": [
+        "dever",
+        "amor"
+      ]
+    },
+    {
+      "id": "N15",
+      "column": "N",
+      "label": "Juventude como álibi",
+      "definition": "Desculpa que adia indefinidamente o compromisso eclesial, como se idade, fase da vida ou inexperiência dispensassem toda resposta possível.",
+      "anchors": [
+        "B13",
+        "O04"
+      ],
+      "tags": [
+        "juventude",
+        "adiamento"
+      ]
+    },
+    {
+      "id": "G01",
+      "column": "G",
+      "label": "Obrigação e encontro",
+      "definition": "Distingue o dever objetivo de participar da Missa e a experiência viva de encontrar Cristo, evitando tanto legalismo quanto descuido.",
+      "anchors": [
+        "B03",
+        "B10",
+        "CEC 2177"
+      ],
+      "tags": [
+        "discernimento",
+        "missa"
+      ]
+    },
+    {
+      "id": "G02",
+      "column": "G",
+      "label": "Falta e impedimento",
+      "definition": "Distingue ausência culpável por preguiça ou comodidade de ausência causada por motivo grave, como doença, cuidado necessário ou impossibilidade real.",
+      "anchors": [
+        "B10",
+        "CEC 2181"
+      ],
+      "tags": [
+        "culpa",
+        "impedimento"
+      ]
+    },
+    {
+      "id": "G03",
+      "column": "G",
+      "label": "Comunidade e panelinha",
+      "definition": "Distingue pertença verdadeira, aberta e responsável, de grupos fechados que confundem convivência cristã com controle de espaço.",
+      "anchors": [
+        "B11",
+        "1Cor 12,12-27"
+      ],
+      "tags": [
+        "comunidade",
+        "exclusão"
+      ]
+    },
+    {
+      "id": "G04",
+      "column": "G",
+      "label": "Acolhida e consumo",
+      "definition": "Distingue receber bem quem chega de transformar a Igreja em lugar que só deve satisfazer preferências individuais.",
+      "anchors": [
+        "B05",
+        "N03"
+      ],
+      "tags": [
+        "acolhida",
+        "consumo"
+      ]
+    },
+    {
+      "id": "G05",
+      "column": "G",
+      "label": "Serviço e ativismo",
+      "definition": "Distingue servir por caridade e missão de ocupar-se sem oração, sem obediência, sem descanso e sem escuta de Deus.",
+      "anchors": [
+        "B07",
+        "Jo 15,5"
+      ],
+      "tags": [
+        "serviço",
+        "oração"
+      ]
+    },
+    {
+      "id": "G06",
+      "column": "G",
+      "label": "Crítica e murmuração",
+      "definition": "Distingue correção honesta, feita pelo caminho adequado, de comentários destrutivos que espalham desconfiança e não buscam o bem comum.",
+      "anchors": [
+        "Mt 18,15-17",
+        "1Cor 14,33.40"
+      ],
+      "tags": [
+        "correção",
+        "murmuração"
+      ]
+    },
+    {
+      "id": "G07",
+      "column": "G",
+      "label": "Pastor e ídolo",
+      "definition": "Distingue respeito ao pastor próprio de dependência idolátrica, culto à personalidade ou rejeição da Igreja por causa de pessoas.",
+      "anchors": [
+        "B01",
+        "B12"
+      ],
+      "tags": [
+        "pastor",
+        "autoridade"
+      ]
+    },
+    {
+      "id": "G08",
+      "column": "G",
+      "label": "Carisma e vaidade",
+      "definition": "Distingue dom posto a serviço do Corpo de Cristo de busca de destaque, elogio ou controle dentro da comunidade.",
+      "anchors": [
+        "B07",
+        "I13",
+        "1Pd 4,10"
+      ],
+      "tags": [
+        "carisma",
+        "vaidade"
+      ]
+    },
+    {
+      "id": "G09",
+      "column": "G",
+      "label": "Dízimo e compra",
+      "definition": "Distingue contribuição livre e responsável de tentativa de comprar privilégios, influência ou tratamento especial na comunidade.",
+      "anchors": [
+        "O07",
+        "2Cor 9,7"
+      ],
+      "tags": [
+        "dízimo",
+        "gratuidade"
+      ]
+    },
+    {
+      "id": "G10",
+      "column": "G",
+      "label": "Pertencer e agradar",
+      "definition": "Distingue compromisso com a Igreja de necessidade de ser aprovado por todos, lembrando que pertença inclui diferenças e correções.",
+      "anchors": [
+        "B05",
+        "B11"
+      ],
+      "tags": [
+        "pertença",
+        "maturidade"
+      ]
+    },
+    {
+      "id": "G11",
+      "column": "G",
+      "label": "Prudência e fuga",
+      "definition": "Distingue afastamento prudente diante de risco real de simples fuga do compromisso por desconforto, preguiça ou orgulho ferido.",
+      "anchors": [
+        "G12",
+        "B09"
+      ],
+      "tags": [
+        "prudência",
+        "fuga"
+      ]
+    },
+    {
+      "id": "G12",
+      "column": "G",
+      "label": "Ferida e ruptura",
+      "definition": "Distingue reconhecer uma ferida real de transformar dor, escândalo ou decepção em rompimento definitivo com Cristo e a Igreja.",
+      "anchors": [
+        "N11",
+        "Jo 10,11"
+      ],
+      "tags": [
+        "ferida",
+        "reconciliação"
+      ]
+    },
+    {
+      "id": "G13",
+      "column": "G",
+      "label": "Liturgia e gosto",
+      "definition": "Distingue legítimas preferências pessoais do que pertence à natureza da liturgia, que serve ao culto de Deus e à comunhão da Igreja.",
+      "anchors": [
+        "B14",
+        "CEC 2179"
+      ],
+      "tags": [
+        "liturgia",
+        "discernimento"
+      ]
+    },
+    {
+      "id": "G14",
+      "column": "G",
+      "label": "Obediência e omissão",
+      "definition": "Distingue obediência cristã, que escuta e coopera com a autoridade legítima, de passividade que se cala diante do erro ou da injustiça.",
+      "anchors": [
+        "B12",
+        "G06"
+      ],
+      "tags": [
+        "obediência",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "G15",
+      "column": "G",
+      "label": "Descanso e comodismo",
+      "definition": "Distingue repouso necessário no Dia do Senhor de uso do descanso como desculpa para abandonar Deus, a família e a comunidade.",
+      "anchors": [
+        "B02",
+        "CEC 2184"
+      ],
+      "tags": [
+        "descanso",
+        "domingo"
+      ]
+    },
+    {
+      "id": "O01",
+      "column": "O",
+      "label": "Firmar o domingo",
+      "definition": "Reservar concretamente a Missa dominical como compromisso estável, organizando horários, transporte e descanso em torno do Dia do Senhor.",
+      "anchors": [
+        "B02",
+        "B03",
+        "CEC 2177"
+      ],
+      "tags": [
+        "missa",
+        "decisão"
+      ]
+    },
+    {
+      "id": "O02",
+      "column": "O",
+      "label": "Chegar e permanecer",
+      "definition": "Participar da liturgia com respeito, chegando a tempo, evitando dispersão desnecessária e permanecendo até a despedida.",
+      "anchors": [
+        "CEC 2178",
+        "B14"
+      ],
+      "tags": [
+        "liturgia",
+        "presença"
+      ]
+    },
+    {
+      "id": "O03",
+      "column": "O",
+      "label": "Conhecer o pastor",
+      "definition": "Procurar conhecer o pároco ou responsável pastoral, apresentar-se com simplicidade e buscar orientação quando houver dúvida séria.",
+      "anchors": [
+        "B12",
+        "CEC 2179"
+      ],
+      "tags": [
+        "pastor",
+        "orientação"
+      ]
+    },
+    {
+      "id": "O04",
+      "column": "O",
+      "label": "Entrar em serviço",
+      "definition": "Assumir uma forma concreta de serviço paroquial adequada à idade, maturidade, dons e disponibilidade real.",
+      "anchors": [
+        "B07",
+        "B15",
+        "1Pd 4,10"
+      ],
+      "tags": [
+        "serviço",
+        "compromisso"
+      ]
+    },
+    {
+      "id": "O05",
+      "column": "O",
+      "label": "Assumir escala real",
+      "definition": "Aceitar apenas tarefas que possa cumprir, avisar impedimentos com antecedência e providenciar substituição quando necessário.",
+      "anchors": [
+        "B09",
+        "I08",
+        "1Cor 14,33.40"
+      ],
+      "tags": [
+        "responsabilidade",
+        "ordem"
+      ]
+    },
+    {
+      "id": "O06",
+      "column": "O",
+      "label": "Rezar pela paróquia",
+      "definition": "Incluir a comunidade, seus pastores, doentes, famílias, agentes e necessidades reais na oração pessoal e familiar.",
+      "anchors": [
+        "B11",
+        "CEC 2179"
+      ],
+      "tags": [
+        "oração",
+        "paróquia"
+      ]
+    },
+    {
+      "id": "O07",
+      "column": "O",
+      "label": "Contribuir com dízimo",
+      "definition": "Participar da sustentação material da comunidade conforme possibilidade real, com liberdade, gratidão e responsabilidade.",
+      "anchors": [
+        "2Cor 9,7",
+        "B05"
+      ],
+      "tags": [
+        "dízimo",
+        "sustentação"
+      ]
+    },
+    {
+      "id": "O08",
+      "column": "O",
+      "label": "Servir sem aplauso",
+      "definition": "Realizar tarefas simples e necessárias mesmo quando não aparecem, não rendem elogio e não dão posição de destaque.",
+      "anchors": [
+        "Mc 10,45",
+        "B07"
+      ],
+      "tags": [
+        "humildade",
+        "serviço"
+      ]
+    },
+    {
+      "id": "O09",
+      "column": "O",
+      "label": "Reparar ausência",
+      "definition": "Quando falhar sem motivo justo, reconhecer a falta, retomar a Missa ou o serviço e reparar o prejuízo possível.",
+      "anchors": [
+        "B10",
+        "B09"
+      ],
+      "tags": [
+        "reparação",
+        "retorno"
+      ]
+    },
+    {
+      "id": "O10",
+      "column": "O",
+      "label": "Conversar antes de sair",
+      "definition": "Diante de conflito ou ferida, procurar diálogo honesto com a pessoa certa antes de romper, espalhar queixa ou abandonar a comunidade.",
+      "anchors": [
+        "Mt 18,15-17",
+        "G12"
+      ],
+      "tags": [
+        "diálogo",
+        "conflito"
+      ]
+    },
+    {
+      "id": "O11",
+      "column": "O",
+      "label": "Acolher quem chega",
+      "definition": "Perceber pessoas novas ou afastadas, cumprimentar, orientar com discrição e ajudar a encontrar um lugar concreto na comunidade.",
+      "anchors": [
+        "B11",
+        "G03"
+      ],
+      "tags": [
+        "acolhida",
+        "pertença"
+      ]
+    },
+    {
+      "id": "O12",
+      "column": "O",
+      "label": "Formar-se na fé",
+      "definition": "Buscar formação cristã séria para servir melhor, compreender a Igreja e não depender apenas de opinião, costume ou emoção.",
+      "anchors": [
+        "CEC 2179",
+        "At 2,42"
+      ],
+      "tags": [
+        "formação",
+        "doutrina"
+      ]
+    },
+    {
+      "id": "O13",
+      "column": "O",
+      "label": "Levar pedido concreto",
+      "definition": "Transformar reclamação vaga em proposta possível, conversando com quem pode responder e oferecendo colaboração real.",
+      "anchors": [
+        "G06",
+        "B11"
+      ],
+      "tags": [
+        "proposta",
+        "correção"
+      ]
+    },
+    {
+      "id": "O14",
+      "column": "O",
+      "label": "Respeitar a liturgia",
+      "definition": "Servir na Missa seguindo a orientação da Igreja e da comunidade, sem improvisar para aparecer ou impor gosto pessoal.",
+      "anchors": [
+        "B14",
+        "G13"
+      ],
+      "tags": [
+        "liturgia",
+        "obediência"
+      ]
+    },
+    {
+      "id": "O15",
+      "column": "O",
+      "label": "Acompanhar sofredores",
+      "definition": "Visitar, telefonar, ouvir, rezar e encaminhar ajuda possível a doentes, enlutados, pobres ou pessoas afastadas.",
+      "anchors": [
+        "B08",
+        "Mt 25,35-40",
+        "Lc 10,25-37"
+      ],
+      "tags": [
+        "caridade",
+        "acompanhamento"
+      ]
+    }
+  ]
+}

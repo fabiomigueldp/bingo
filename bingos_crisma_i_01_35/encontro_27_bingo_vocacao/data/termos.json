@@ -1,0 +1,1138 @@
+{
+  "title": "Bingo — Vocação",
+  "meeting": "Encontro 27 — Vocação",
+  "meeting_label": "Encontro 27",
+  "output_slug": "bingo_vocacao",
+  "core_message": "Toda vocação nasce do chamado de Deus à santidade e toma forma em um caminho concreto de amor, fidelidade, serviço e missão.",
+  "source_meeting_markdown": "projects/catequese/material_didatico/output/markdown/encontro_27.md",
+  "scripture": [
+    "Ef 1,3-14",
+    "Lv 19,2",
+    "Mt 5,48",
+    "Gn 1,28",
+    "Ef 5,21",
+    "Mt 19,12",
+    "1Jo 4,8.16",
+    "Mc 10,45"
+  ],
+  "catechism": [
+    "CEC 1536",
+    "CEC 1547-1548",
+    "CEC 1551",
+    "CEC 1554",
+    "CEC 1564",
+    "CEC 1570",
+    "CEC 1577-1579",
+    "CEC 1581",
+    "CEC 1585",
+    "CEC 1601",
+    "CEC 1604",
+    "CEC 1617",
+    "CEC 1620",
+    "CEC 1632",
+    "CEC 1641-1642",
+    "CEC 1656",
+    "CEC 1658"
+  ],
+  "card_model": {
+    "total_terms": 75,
+    "columns": 5,
+    "terms_per_column": 15,
+    "grid": "5x5",
+    "center": {
+      "label": "LIVRE / Ef 1,3-14; Lv 19,2; Mt 5,48. Matrimônio: CEC 1601-1658. Ordem: CEC 1536-1589",
+      "fixed": true,
+      "called": false
+    },
+    "recommended_win_condition": "duas_linhas"
+  },
+  "columns": [
+    {
+      "key": "B",
+      "title": "Base moral",
+      "function": "Fundamentos bíblicos e doutrinais para ler o tema.",
+      "short_function": "fundamento cristão do tema"
+    },
+    {
+      "key": "I",
+      "title": "Situações concretas",
+      "function": "Formas reais em que o tema aparece na vida concreta, em situações inteligíveis para a turma.",
+      "short_function": "situações concretas do tema"
+    },
+    {
+      "key": "N",
+      "title": "Narrativas falsas",
+      "function": "Desculpas, autoenganos e frases que desviam do bem.",
+      "short_function": "desculpas que normalizam o erro"
+    },
+    {
+      "key": "G",
+      "title": "Discernimentos",
+      "function": "Distinções morais que evitam respostas simplistas.",
+      "short_function": "distinções para discernir"
+    },
+    {
+      "key": "O",
+      "title": "Orientações de resposta",
+      "function": "Ações concretas, prudentes e proporcionais diante do problema.",
+      "short_function": "respostas proporcionais e prudentes"
+    }
+  ],
+  "terms": [
+    {
+      "id": "B01",
+      "column": "B",
+      "label": "Chamado à existência",
+      "definition": "A vida não começa como acaso sem sentido: cada pessoa é querida por Deus e chamada a existir diante dele.",
+      "anchors": [
+        "Ef 1,3-14",
+        "B02"
+      ],
+      "tags": [
+        "existência",
+        "dignidade"
+      ]
+    },
+    {
+      "id": "B02",
+      "column": "B",
+      "label": "Eleição em Cristo",
+      "definition": "Deus nos escolhe em Cristo antes da criação do mundo para vivermos como filhos e caminharmos para a santidade.",
+      "anchors": [
+        "Ef 1,3-14"
+      ],
+      "tags": [
+        "filiação",
+        "graça"
+      ]
+    },
+    {
+      "id": "B03",
+      "column": "B",
+      "label": "Santidade universal",
+      "definition": "Todo batizado é chamado à santidade, não apenas padres, religiosos ou pessoas vistas como extraordinárias.",
+      "anchors": [
+        "Lv 19,2",
+        "Mt 5,48"
+      ],
+      "tags": [
+        "santidade",
+        "batismo"
+      ]
+    },
+    {
+      "id": "B04",
+      "column": "B",
+      "label": "Perfeição do amor",
+      "definition": "A perfeição cristã não é aparência impecável, mas crescimento real no amor conforme o Pai santo e misericordioso.",
+      "anchors": [
+        "Mt 5,48",
+        "1Jo 4,8.16"
+      ],
+      "tags": [
+        "amor",
+        "conversão"
+      ]
+    },
+    {
+      "id": "B05",
+      "column": "B",
+      "label": "Vocação como dom",
+      "definition": "A vocação é recebida como graça e chamado de Deus; não é propriedade privada nem simples produto da vontade autônoma.",
+      "anchors": [
+        "Ef 1,3-14",
+        "CEC 1578"
+      ],
+      "tags": [
+        "dom",
+        "chamado"
+      ]
+    },
+    {
+      "id": "B06",
+      "column": "B",
+      "label": "Discernir, não inventar",
+      "definition": "Discernir a vocação é buscar a vontade de Deus com oração, verdade e mediações, não fabricar um caminho fechado em si mesmo.",
+      "anchors": [
+        "Ef 1,9-10",
+        "CEC 1578"
+      ],
+      "tags": [
+        "discernimento",
+        "vontade de Deus"
+      ]
+    },
+    {
+      "id": "B07",
+      "column": "B",
+      "label": "Vocação e missão",
+      "definition": "Toda vocação envia a pessoa para amar, servir e colaborar com a santificação própria e dos outros.",
+      "anchors": [
+        "Ef 1,11-14",
+        "Mc 10,45"
+      ],
+      "tags": [
+        "missão",
+        "serviço"
+      ]
+    },
+    {
+      "id": "B08",
+      "column": "B",
+      "label": "Amor conjugal",
+      "definition": "O matrimônio é aliança de vida toda entre homem e mulher, ordenada ao bem dos cônjuges e à geração e educação dos filhos.",
+      "anchors": [
+        "CEC 1601",
+        "CEC 1604"
+      ],
+      "tags": [
+        "matrimônio",
+        "aliança"
+      ]
+    },
+    {
+      "id": "B09",
+      "column": "B",
+      "label": "Indissolubilidade",
+      "definition": "O vínculo matrimonial válido pede fidelidade estável e não pode ser tratado como contrato descartável ao sabor das emoções.",
+      "anchors": [
+        "CEC 1601",
+        "CEC 1641-1642"
+      ],
+      "tags": [
+        "fidelidade",
+        "aliança"
+      ]
+    },
+    {
+      "id": "B10",
+      "column": "B",
+      "label": "Fecundidade",
+      "definition": "O amor conjugal é chamado a ser fecundo, aberto à vida e responsável pela educação humana e cristã dos filhos.",
+      "anchors": [
+        "Gn 1,28",
+        "CEC 1601",
+        "CEC 1604"
+      ],
+      "tags": [
+        "vida",
+        "família"
+      ]
+    },
+    {
+      "id": "B11",
+      "column": "B",
+      "label": "Graça matrimonial",
+      "definition": "Cristo sustenta os esposos com uma graça própria para crescerem na unidade, no perdão, na fidelidade e na santificação mútua.",
+      "anchors": [
+        "CEC 1617",
+        "CEC 1641-1642"
+      ],
+      "tags": [
+        "sacramento",
+        "graça"
+      ]
+    },
+    {
+      "id": "B12",
+      "column": "B",
+      "label": "Igreja doméstica",
+      "definition": "A família cristã é chamada a ser lar de fé viva, onde a Palavra, o exemplo e a oração ajudam a formar vocações.",
+      "anchors": [
+        "CEC 1656"
+      ],
+      "tags": [
+        "família",
+        "fé"
+      ]
+    },
+    {
+      "id": "B13",
+      "column": "B",
+      "label": "Ordem apostólica",
+      "definition": "O sacramento da Ordem continua na Igreja a missão confiada por Cristo aos Apóstolos, em favor do povo de Deus.",
+      "anchors": [
+        "CEC 1536",
+        "CEC 1554"
+      ],
+      "tags": [
+        "ordem",
+        "Igreja"
+      ]
+    },
+    {
+      "id": "B14",
+      "column": "B",
+      "label": "Serviço ministerial",
+      "definition": "A autoridade do ministro ordenado deve ser exercida como serviço medido pelo modelo de Cristo, Cabeça, Pastor e Servo.",
+      "anchors": [
+        "CEC 1547-1548",
+        "CEC 1551",
+        "Mc 10,45"
+      ],
+      "tags": [
+        "ministério",
+        "serviço"
+      ]
+    },
+    {
+      "id": "B15",
+      "column": "B",
+      "label": "Virgindade pelo Reino",
+      "definition": "A virgindade e o celibato pelo Reino são dons de Deus que testemunham a prioridade do Senhor e anunciam a vida futura.",
+      "anchors": [
+        "Mt 19,12",
+        "CEC 1620",
+        "CEC 1579"
+      ],
+      "tags": [
+        "celibato",
+        "Reino"
+      ]
+    },
+    {
+      "id": "I01",
+      "column": "I",
+      "label": "Medo de escolher",
+      "definition": "Situação em que a pessoa evita compromissos reais porque qualquer decisão parece perda absoluta de possibilidades.",
+      "anchors": [
+        "B06",
+        "G15"
+      ],
+      "tags": [
+        "decisão",
+        "medo"
+      ]
+    },
+    {
+      "id": "I02",
+      "column": "I",
+      "label": "Pressa de decidir tudo",
+      "definition": "Situação em que uma emoção forte ou pressão externa leva a pessoa a querer resolver a vocação inteira de uma vez.",
+      "anchors": [
+        "B06",
+        "G13"
+      ],
+      "tags": [
+        "pressa",
+        "prudência"
+      ]
+    },
+    {
+      "id": "I03",
+      "column": "I",
+      "label": "Carreira como absoluto",
+      "definition": "Situação em que profissão, dinheiro ou prestígio passam a ocupar o lugar da vocação e medem o valor da vida.",
+      "anchors": [
+        "B01",
+        "B07"
+      ],
+      "tags": [
+        "trabalho",
+        "idolatria"
+      ]
+    },
+    {
+      "id": "I04",
+      "column": "I",
+      "label": "Namoro sem horizonte",
+      "definition": "Situação em que o relacionamento se prolonga sem conversa séria sobre fidelidade, fé, filhos, castidade e futuro.",
+      "anchors": [
+        "CEC 1632",
+        "B08"
+      ],
+      "tags": [
+        "namoro",
+        "preparação"
+      ]
+    },
+    {
+      "id": "I05",
+      "column": "I",
+      "label": "Noivado sem preparação",
+      "definition": "Situação em que os noivos cuidam da festa e evitam tratar dos fundamentos humanos e cristãos do matrimônio.",
+      "anchors": [
+        "CEC 1632",
+        "B08"
+      ],
+      "tags": [
+        "noivado",
+        "matrimônio"
+      ]
+    },
+    {
+      "id": "I06",
+      "column": "I",
+      "label": "Casamento ferido",
+      "definition": "Situação em que o matrimônio passa por pecado, desgaste ou crise e precisa de verdade, ajuda e conversão, não de desprezo pelo vínculo.",
+      "anchors": [
+        "CEC 1641-1642",
+        "G06"
+      ],
+      "tags": [
+        "crise",
+        "fidelidade"
+      ]
+    },
+    {
+      "id": "I07",
+      "column": "I",
+      "label": "Família que transmite fé",
+      "definition": "Situação em que pais, avós ou responsáveis ensinam a fé pela palavra, pelo exemplo e pela vida cotidiana.",
+      "anchors": [
+        "CEC 1656",
+        "B12"
+      ],
+      "tags": [
+        "família",
+        "educação da fé"
+      ]
+    },
+    {
+      "id": "I08",
+      "column": "I",
+      "label": "Solteiro invisível",
+      "definition": "Situação em que uma pessoa sem família própria é tratada como sobra da comunidade, embora também seja chamada à santidade e à comunhão.",
+      "anchors": [
+        "CEC 1658",
+        "B03"
+      ],
+      "tags": [
+        "solteiros",
+        "comunidade"
+      ]
+    },
+    {
+      "id": "I09",
+      "column": "I",
+      "label": "Sinais de sacerdócio",
+      "definition": "Situação em que aparecem sinais de chamado ao ministério ordenado, que devem ser discernidos com humildade e pela Igreja.",
+      "anchors": [
+        "CEC 1536",
+        "CEC 1578"
+      ],
+      "tags": [
+        "sacerdócio",
+        "discernimento"
+      ]
+    },
+    {
+      "id": "I10",
+      "column": "I",
+      "label": "Serviço sem aplauso",
+      "definition": "Situação em que a pessoa serve de modo necessário e escondido, revelando se busca missão ou reconhecimento.",
+      "anchors": [
+        "B07",
+        "B14",
+        "Mc 10,45"
+      ],
+      "tags": [
+        "serviço",
+        "humildade"
+      ]
+    },
+    {
+      "id": "I11",
+      "column": "I",
+      "label": "Atração pela consagração",
+      "definition": "Situação em que alguém percebe atração real por pobreza, castidade e obediência vividas pelo Reino.",
+      "anchors": [
+        "B15",
+        "CEC 1620"
+      ],
+      "tags": [
+        "vida consagrada",
+        "Reino"
+      ]
+    },
+    {
+      "id": "I12",
+      "column": "I",
+      "label": "Resistência da família",
+      "definition": "Situação em que a família tenta controlar a vocação de alguém por medo, status, interesse econômico ou projeto próprio.",
+      "anchors": [
+        "B05",
+        "G12"
+      ],
+      "tags": [
+        "família",
+        "pressão"
+      ]
+    },
+    {
+      "id": "I13",
+      "column": "I",
+      "label": "Uso religioso de poder",
+      "definition": "Situação em que linguagem espiritual é usada para dominar consciências, forçar decisões ou proteger privilégios.",
+      "anchors": [
+        "B14",
+        "G10"
+      ],
+      "tags": [
+        "abuso",
+        "autoridade"
+      ]
+    },
+    {
+      "id": "I14",
+      "column": "I",
+      "label": "Chamado em meio à queda",
+      "definition": "Situação em que a pessoa, depois de pecado ou fracasso, precisa distinguir conversão verdadeira de desespero vocacional.",
+      "anchors": [
+        "B04",
+        "G14"
+      ],
+      "tags": [
+        "queda",
+        "conversão"
+      ]
+    },
+    {
+      "id": "I15",
+      "column": "I",
+      "label": "Escolha por conveniência",
+      "definition": "Situação em que alguém escolhe um estado de vida por conforto, fuga ou vantagem, sem perguntar pela verdade do chamado.",
+      "anchors": [
+        "B05",
+        "B06"
+      ],
+      "tags": [
+        "conveniência",
+        "discernimento"
+      ]
+    },
+    {
+      "id": "N01",
+      "column": "N",
+      "label": "Autonomia sem Deus",
+      "definition": "Engano de tratar a própria vida como posse fechada, sem reconhecer que Deus chama e dá sentido à liberdade.",
+      "anchors": [
+        "B05",
+        "G02"
+      ],
+      "tags": [
+        "autoengano",
+        "liberdade"
+      ]
+    },
+    {
+      "id": "N02",
+      "column": "N",
+      "label": "Santidade de poucos",
+      "definition": "Engano de pensar que santidade é assunto de padres, freiras ou pessoas excepcionais, e não chamado de todo batizado.",
+      "anchors": [
+        "B03",
+        "Lv 19,2",
+        "Mt 5,48"
+      ],
+      "tags": [
+        "redução",
+        "santidade"
+      ]
+    },
+    {
+      "id": "N03",
+      "column": "N",
+      "label": "Vocação como carreira",
+      "definition": "Engano de avaliar matrimônio, sacerdócio ou consagração como promoção social, currículo ou cargo de prestígio.",
+      "anchors": [
+        "B07",
+        "B14"
+      ],
+      "tags": [
+        "prestígio",
+        "carreira"
+      ]
+    },
+    {
+      "id": "N04",
+      "column": "N",
+      "label": "Sentimento manda",
+      "definition": "Engano de transformar emoção passageira em critério absoluto para assumir, abandonar ou redefinir compromissos.",
+      "anchors": [
+        "G01",
+        "G05"
+      ],
+      "tags": [
+        "sentimento",
+        "instabilidade"
+      ]
+    },
+    {
+      "id": "N05",
+      "column": "N",
+      "label": "Pressa como certeza",
+      "definition": "Engano de confundir intensidade imediata com chamado seguro, desprezando o tempo, o conselho e a prova dos frutos.",
+      "anchors": [
+        "I02",
+        "G13"
+      ],
+      "tags": [
+        "pressa",
+        "discernimento"
+      ]
+    },
+    {
+      "id": "N06",
+      "column": "N",
+      "label": "Casamento descartável",
+      "definition": "Engano de tratar o matrimônio como vínculo provisório, mantido apenas enquanto houver facilidade ou satisfação.",
+      "anchors": [
+        "B09",
+        "CEC 1641-1642"
+      ],
+      "tags": [
+        "matrimônio",
+        "descarte"
+      ]
+    },
+    {
+      "id": "N07",
+      "column": "N",
+      "label": "Filhos como obstáculo",
+      "definition": "Engano de ver os filhos apenas como peso, atraso ou ameaça aos planos pessoais, ignorando a fecundidade do amor conjugal.",
+      "anchors": [
+        "B10",
+        "CEC 1601"
+      ],
+      "tags": [
+        "fecundidade",
+        "vida"
+      ]
+    },
+    {
+      "id": "N08",
+      "column": "N",
+      "label": "Celibato inútil",
+      "definition": "Engano de considerar o celibato pelo Reino uma vida vazia, frustrada ou sem amor.",
+      "anchors": [
+        "B15",
+        "CEC 1620"
+      ],
+      "tags": [
+        "celibato",
+        "Reino"
+      ]
+    },
+    {
+      "id": "N09",
+      "column": "N",
+      "label": "Sacerdócio como status",
+      "definition": "Engano de desejar o ministério ordenado por visibilidade, deferência ou autoridade, e não por serviço a Cristo e à Igreja.",
+      "anchors": [
+        "B14",
+        "CEC 1551"
+      ],
+      "tags": [
+        "sacerdócio",
+        "vaidade"
+      ]
+    },
+    {
+      "id": "N10",
+      "column": "N",
+      "label": "Direito à ordenação",
+      "definition": "Engano de imaginar que alguém pode exigir a Ordem como direito pessoal, sem chamado reconhecido pela Igreja.",
+      "anchors": [
+        "CEC 1577",
+        "CEC 1578"
+      ],
+      "tags": [
+        "ordem",
+        "autoridade da Igreja"
+      ]
+    },
+    {
+      "id": "N11",
+      "column": "N",
+      "label": "Serviço só se aparece",
+      "definition": "Engano de só aceitar tarefas que dão palco, elogio ou controle, recusando o serviço humilde.",
+      "anchors": [
+        "B07",
+        "I10",
+        "Mc 10,45"
+      ],
+      "tags": [
+        "serviço",
+        "vaidade"
+      ]
+    },
+    {
+      "id": "N12",
+      "column": "N",
+      "label": "Família perfeita primeiro",
+      "definition": "Engano de pensar que só famílias sem feridas podem transmitir a fé ou favorecer vocações.",
+      "anchors": [
+        "B12",
+        "CEC 1656"
+      ],
+      "tags": [
+        "família",
+        "idealização"
+      ]
+    },
+    {
+      "id": "N13",
+      "column": "N",
+      "label": "Deus não chama pecador",
+      "definition": "Engano de concluir que pecado ou fraqueza cancelam para sempre o chamado de Deus, em vez de exigir conversão.",
+      "anchors": [
+        "B04",
+        "I14"
+      ],
+      "tags": [
+        "desespero",
+        "conversão"
+      ]
+    },
+    {
+      "id": "N14",
+      "column": "N",
+      "label": "Amor sem compromisso",
+      "definition": "Engano de chamar de amor uma relação que recusa fidelidade, verdade, responsabilidade e abertura ao bem do outro.",
+      "anchors": [
+        "B08",
+        "G05"
+      ],
+      "tags": [
+        "amor",
+        "compromisso"
+      ]
+    },
+    {
+      "id": "N15",
+      "column": "N",
+      "label": "Qualquer caminho serve",
+      "definition": "Engano de dizer que toda escolha é igualmente boa se agrada, mesmo quando contradiz a fé, a verdade ou a missão.",
+      "anchors": [
+        "B06",
+        "G03"
+      ],
+      "tags": [
+        "relativismo",
+        "discernimento"
+      ]
+    },
+    {
+      "id": "G01",
+      "column": "G",
+      "label": "Desejo e chamado",
+      "definition": "Nem todo desejo é vocação, mas desejos persistentes e purificados podem ser sinais que precisam ser discernidos.",
+      "anchors": [
+        "B06",
+        "CEC 1578"
+      ],
+      "tags": [
+        "desejo",
+        "chamado"
+      ]
+    },
+    {
+      "id": "G02",
+      "column": "G",
+      "label": "Liberdade e capricho",
+      "definition": "Liberdade cristã não é fazer qualquer impulso prevalecer; é poder responder ao bem que Deus chama a viver.",
+      "anchors": [
+        "B05",
+        "N01"
+      ],
+      "tags": [
+        "liberdade",
+        "vontade"
+      ]
+    },
+    {
+      "id": "G03",
+      "column": "G",
+      "label": "Dom e projeto pessoal",
+      "definition": "O projeto pessoal pode colaborar com a vocação, mas precisa ser corrigido quando tenta substituir o dom recebido de Deus.",
+      "anchors": [
+        "B05",
+        "B06"
+      ],
+      "tags": [
+        "dom",
+        "projeto"
+      ]
+    },
+    {
+      "id": "G04",
+      "column": "G",
+      "label": "Santidade e estado de vida",
+      "definition": "O estado de vida não torna alguém automaticamente santo; a santidade se vive fielmente dentro do caminho recebido.",
+      "anchors": [
+        "B03",
+        "CEC 1620"
+      ],
+      "tags": [
+        "santidade",
+        "estado de vida"
+      ]
+    },
+    {
+      "id": "G05",
+      "column": "G",
+      "label": "Matrimônio e paixão",
+      "definition": "A paixão pode acompanhar o amor, mas o matrimônio exige aliança, decisão, fidelidade e graça, não só intensidade afetiva.",
+      "anchors": [
+        "B08",
+        "B11"
+      ],
+      "tags": [
+        "matrimônio",
+        "amor"
+      ]
+    },
+    {
+      "id": "G06",
+      "column": "G",
+      "label": "Fidelidade e prisão",
+      "definition": "A fidelidade matrimonial não autoriza violência, humilhação ou silêncio diante de abuso; proteger a vida também é dever moral.",
+      "anchors": [
+        "B09",
+        "CEC 1641-1642"
+      ],
+      "tags": [
+        "fidelidade",
+        "proteção"
+      ]
+    },
+    {
+      "id": "G07",
+      "column": "G",
+      "label": "Fecundidade e utilidade",
+      "definition": "Fecundidade não é medir pessoas por produtividade; é abertura responsável à vida e ao bem que Deus confia.",
+      "anchors": [
+        "B10",
+        "CEC 1604"
+      ],
+      "tags": [
+        "fecundidade",
+        "dignidade"
+      ]
+    },
+    {
+      "id": "G08",
+      "column": "G",
+      "label": "Celibato e solidão",
+      "definition": "Celibato pelo Reino não é isolamento afetivo; solidão ferida precisa de comunhão, enquanto o celibato vocacional é entrega.",
+      "anchors": [
+        "B15",
+        "CEC 1658"
+      ],
+      "tags": [
+        "celibato",
+        "solidão"
+      ]
+    },
+    {
+      "id": "G09",
+      "column": "G",
+      "label": "Acolhida e aprovação",
+      "definition": "Acolher uma pessoa com caridade não obriga a aprovar todo comportamento; corrigir também não autoriza desprezo.",
+      "anchors": [
+        "B04",
+        "B03"
+      ],
+      "tags": [
+        "acolhida",
+        "verdade"
+      ]
+    },
+    {
+      "id": "G10",
+      "column": "G",
+      "label": "Autoridade e abuso",
+      "definition": "Autoridade espiritual legítima serve à liberdade diante de Deus; abuso manipula, controla e se protege da verdade.",
+      "anchors": [
+        "B14",
+        "CEC 1551"
+      ],
+      "tags": [
+        "autoridade",
+        "abuso"
+      ]
+    },
+    {
+      "id": "G11",
+      "column": "G",
+      "label": "Serviço e protagonismo",
+      "definition": "Serviço cristão busca o bem da missão; protagonismo desordenado busca lugar central, controle e reconhecimento.",
+      "anchors": [
+        "B07",
+        "N11"
+      ],
+      "tags": [
+        "serviço",
+        "protagonismo"
+      ]
+    },
+    {
+      "id": "G12",
+      "column": "G",
+      "label": "Conselho e pressão",
+      "definition": "Bom conselho ilumina a consciência; pressão substitui a consciência por medo, culpa ou interesse de outra pessoa.",
+      "anchors": [
+        "B06",
+        "I12"
+      ],
+      "tags": [
+        "conselho",
+        "pressão"
+      ]
+    },
+    {
+      "id": "G13",
+      "column": "G",
+      "label": "Sinais e certeza total",
+      "definition": "O discernimento busca sinais suficientes e prudentes, não controle absoluto do futuro nem prova milagrosa para cada passo.",
+      "anchors": [
+        "B06",
+        "N05"
+      ],
+      "tags": [
+        "sinais",
+        "prudência"
+      ]
+    },
+    {
+      "id": "G14",
+      "column": "G",
+      "label": "Queda e identidade",
+      "definition": "O pecado precisa ser confessado e reparado, mas não define toda a pessoa nem apaga automaticamente a possibilidade de chamado.",
+      "anchors": [
+        "B04",
+        "N13"
+      ],
+      "tags": [
+        "pecado",
+        "identidade"
+      ]
+    },
+    {
+      "id": "G15",
+      "column": "G",
+      "label": "Espera e passividade",
+      "definition": "Esperar o tempo de Deus não é ficar imóvel; é agir com prudência, oração, formação e passos proporcionais.",
+      "anchors": [
+        "B06",
+        "I01"
+      ],
+      "tags": [
+        "espera",
+        "ação"
+      ]
+    },
+    {
+      "id": "O01",
+      "column": "O",
+      "label": "Rezar pela vocação",
+      "definition": "Reservar tempo real para pedir luz a Deus sobre o próprio caminho, sem transformar a oração em fuga das responsabilidades.",
+      "anchors": [
+        "B06",
+        "Ef 1,9-10"
+      ],
+      "tags": [
+        "oração",
+        "discernimento"
+      ]
+    },
+    {
+      "id": "O02",
+      "column": "O",
+      "label": "Nomear desejos",
+      "definition": "Escrever e conversar honestamente sobre atrações, medos, talentos e resistências para que sejam discernidos à luz de Deus.",
+      "anchors": [
+        "G01",
+        "B06"
+      ],
+      "tags": [
+        "verdade",
+        "desejos"
+      ]
+    },
+    {
+      "id": "O03",
+      "column": "O",
+      "label": "Buscar direção espiritual",
+      "definition": "Procurar acompanhamento sério, fiel à Igreja, para discernir com regularidade, humildade e liberdade interior.",
+      "anchors": [
+        "B06",
+        "CEC 1578"
+      ],
+      "tags": [
+        "acompanhamento",
+        "discernimento"
+      ]
+    },
+    {
+      "id": "O04",
+      "column": "O",
+      "label": "Escutar a Igreja",
+      "definition": "Submeter desejos vocacionais aos critérios da Igreja, especialmente quando envolvem sacramentos, ministério ordenado ou vida consagrada.",
+      "anchors": [
+        "CEC 1578",
+        "B13"
+      ],
+      "tags": [
+        "Igreja",
+        "obediência"
+      ]
+    },
+    {
+      "id": "O05",
+      "column": "O",
+      "label": "Cultivar castidade",
+      "definition": "Ordenar afetos e corpo ao amor verdadeiro, com limites concretos, fuga de ocasiões de pecado, oração e sacramentos.",
+      "anchors": [
+        "CEC 1632",
+        "B08"
+      ],
+      "tags": [
+        "castidade",
+        "amor"
+      ]
+    },
+    {
+      "id": "O06",
+      "column": "O",
+      "label": "Preparar o noivado",
+      "definition": "Tratar antes do casamento de fé, filhos, dinheiro, trabalho, temperamento, feridas e responsabilidades, não apenas da festa.",
+      "anchors": [
+        "CEC 1632",
+        "B08"
+      ],
+      "tags": [
+        "noivado",
+        "preparação"
+      ]
+    },
+    {
+      "id": "O07",
+      "column": "O",
+      "label": "Servir no escondido",
+      "definition": "Assumir tarefas necessárias sem exigir palco, deixando que a fidelidade cotidiana purifique a intenção.",
+      "anchors": [
+        "I10",
+        "G11",
+        "Mc 10,45"
+      ],
+      "tags": [
+        "serviço",
+        "humildade"
+      ]
+    },
+    {
+      "id": "O08",
+      "column": "O",
+      "label": "Honrar a família possível",
+      "definition": "Valorizar o bem recebido da família, reparar o que for possível e colocar limites quando houver pecado, manipulação ou violência.",
+      "anchors": [
+        "CEC 1656",
+        "G06"
+      ],
+      "tags": [
+        "família",
+        "limites"
+      ]
+    },
+    {
+      "id": "O09",
+      "column": "O",
+      "label": "Proteger silêncio",
+      "definition": "Separar tempos sem ruído, tela e pressa para que a consciência possa rezar, escutar e ordenar a vida diante de Deus.",
+      "anchors": [
+        "B06",
+        "O01"
+      ],
+      "tags": [
+        "silêncio",
+        "oração"
+      ]
+    },
+    {
+      "id": "O10",
+      "column": "O",
+      "label": "Corrigir idealizações",
+      "definition": "Conhecer as exigências reais de cada vocação, ouvindo pessoas maduras e observando alegrias, cruzes e responsabilidades concretas.",
+      "anchors": [
+        "G13",
+        "B07"
+      ],
+      "tags": [
+        "realismo",
+        "discernimento"
+      ]
+    },
+    {
+      "id": "O11",
+      "column": "O",
+      "label": "Pedir perdão e recomeçar",
+      "definition": "Quando houver pecado ou ferida, confessar, reparar o possível, buscar ajuda adequada e retomar o caminho com responsabilidade.",
+      "anchors": [
+        "G14",
+        "B04"
+      ],
+      "tags": [
+        "perdão",
+        "conversão"
+      ]
+    },
+    {
+      "id": "O12",
+      "column": "O",
+      "label": "Apoiar vocações sagradas",
+      "definition": "Sustentar seminaristas, padres, diáconos, consagrados e consagradas com oração, respeito, ajuda concreta e correção quando necessária.",
+      "anchors": [
+        "B13",
+        "B15"
+      ],
+      "tags": [
+        "Igreja",
+        "apoio"
+      ]
+    },
+    {
+      "id": "O13",
+      "column": "O",
+      "label": "Discernir com fatos",
+      "definition": "Observar frutos, virtudes, perseverança, aptidões, limites e conselhos recebidos, sem depender só de imaginação ou emoção.",
+      "anchors": [
+        "G01",
+        "G13"
+      ],
+      "tags": [
+        "prudência",
+        "fatos"
+      ]
+    },
+    {
+      "id": "O14",
+      "column": "O",
+      "label": "Escolher renúncias",
+      "definition": "Abandonar hábitos, relações, planos ou comodidades que impedem responder a Deus com liberdade e verdade.",
+      "anchors": [
+        "G02",
+        "B05"
+      ],
+      "tags": [
+        "renúncia",
+        "liberdade"
+      ]
+    },
+    {
+      "id": "O15",
+      "column": "O",
+      "label": "Integrar solteiros",
+      "definition": "Abrir espaço real de convivência, serviço e cuidado para pessoas solteiras, viúvas ou sem família próxima na comunidade cristã.",
+      "anchors": [
+        "CEC 1658",
+        "I08"
+      ],
+      "tags": [
+        "comunidade",
+        "solteiros"
+      ]
+    }
+  ]
+}

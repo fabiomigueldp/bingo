@@ -1,0 +1,1966 @@
+{
+  "title": "Chamadas — Bingo Responsabilidade de nossos atos",
+  "meeting": "Encontro 12 — Responsabilidade de nossos atos",
+  "source_terms": "data/termos.json",
+  "method": {
+    "read_order": [
+      "call_label",
+      "case",
+      "reading_points"
+    ],
+    "rule": "A cada carta, anuncie código e conceito, leia o caso e explique brevemente a relação usando a Leitura do caso. Depois as equipes marcam o código, se estiver na cartela.",
+    "conference_rule": "Ao fechar duas linhas válidas, horizontais, verticais ou diagonais, a equipe escolhe uma dessas linhas completas, explica pelo menos três conceitos da linha escolhida e liga pelo menos um deles à base bíblica ou doutrinal do encontro. As duas linhas podem se cruzar. O centro livre já conta como casa marcada para completar linhas, mas não conta como um dos três conceitos explicados."
+  },
+  "cards": [
+    {
+      "id": "B01",
+      "term_id": "B01",
+      "call_label": "B01 - Deus vê o coração",
+      "case": "Um comerciante faz uma doação pública a uma obra social, mas combina em segredo que a instituição indicará sua empresa em todos os contratos.",
+      "conference_question": "Como 1Sm 16,7 ajuda a avaliar um gesto que parece generoso por fora, mas nasce de interesse escondido?",
+      "anchors": [
+        "1Sm 16,7",
+        "B04"
+      ],
+      "facilitator_note": "Conduza para a diferença entre aparência externa e intenção diante de Deus.",
+      "reading_points": [
+        {
+          "title": "Aparência insuficiente",
+          "body": "O gesto visível pode parecer bom, mas não esgota a verdade moral do ato."
+        },
+        {
+          "title": "Coração examinado",
+          "body": "Deus vê intenção, consentimento e finalidade, não apenas a imagem pública."
+        },
+        {
+          "title": "Retidão necessária",
+          "body": "A responsabilidade cristã pede agir bem também quando ninguém conhece os motivos."
+        }
+      ]
+    },
+    {
+      "id": "B02",
+      "term_id": "B02",
+      "call_label": "B02 - Liberdade responsável",
+      "case": "Um administrador escolhe economizar retirando equipamentos de segurança de uma obra e depois diz que cada operário assumiu o risco por aceitar trabalhar ali.",
+      "conference_question": "Por que a liberdade de decidir não elimina a responsabilidade pelas condições que alguém cria para os outros?",
+      "anchors": [
+        "CEC 1734",
+        "Gl 6,7"
+      ],
+      "facilitator_note": "Evite tratar liberdade como poder sem dever; destaque que escolher é responder.",
+      "reading_points": [
+        {
+          "title": "Escolha real",
+          "body": "O administrador tomou uma decisão livre que afetou diretamente outras pessoas."
+        },
+        {
+          "title": "Conta moral",
+          "body": "A liberdade torna o agente responsável na medida em que o ato foi voluntário."
+        },
+        {
+          "title": "Fruto dos atos",
+          "body": "A fé cristã não separa autonomia de prestação de contas diante de Deus e do próximo."
+        }
+      ]
+    },
+    {
+      "id": "B03",
+      "term_id": "B03",
+      "call_label": "B03 - Ato voluntário",
+      "case": "Uma funcionária altera números de um relatório depois de entender o pedido do chefe e perceber que a mudança esconderá prejuízos reais.",
+      "conference_question": "Que elementos mostram que um ato foi voluntário e não apenas algo que aconteceu por acaso?",
+      "anchors": [
+        "CEC 1734",
+        "CEC 1736"
+      ],
+      "facilitator_note": "Trabalhe conhecimento e consentimento como elementos de responsabilidade.",
+      "reading_points": [
+        {
+          "title": "Conhecimento",
+          "body": "Ela entende o que está fazendo e percebe que o relatório ficará falso."
+        },
+        {
+          "title": "Consentimento",
+          "body": "Mesmo pressionada, ela executa a alteração sabendo o efeito moral do gesto."
+        },
+        {
+          "title": "Autoria moral",
+          "body": "Ato voluntário pode ser atribuído à pessoa porque houve participação consciente."
+        }
+      ]
+    },
+    {
+      "id": "B04",
+      "term_id": "B04",
+      "call_label": "B04 - Intenção moral",
+      "case": "Um influenciador paga cestas básicas a famílias necessitadas, mas exige filmar cada rosto chorando para aumentar seguidores.",
+      "conference_question": "Como distinguir um bem real feito com caridade de um gesto bom usado para vaidade ou exploração?",
+      "anchors": [
+        "1Sm 16,7",
+        "Mt 6,1-4"
+      ],
+      "facilitator_note": "Mostre que a intenção não é detalhe invisível sem peso moral.",
+      "reading_points": [
+        {
+          "title": "Bem usado",
+          "body": "A ajuda material existe, mas é misturada com exposição e interesse próprio."
+        },
+        {
+          "title": "Fim interior",
+          "body": "A intenção moral pergunta para que e para quem o gesto foi feito."
+        },
+        {
+          "title": "Caridade limpa",
+          "body": "A fé pede que o bem ao necessitado não seja transformado em palco."
+        }
+      ]
+    },
+    {
+      "id": "B05",
+      "term_id": "B05",
+      "call_label": "B05 - Omissão culpável",
+      "case": "Uma vizinha ouve gritos repetidos de violência contra uma idosa no apartamento ao lado, mas decide nunca avisar familiares, síndico ou autoridade.",
+      "conference_question": "Quando deixar de agir deixa de ser prudência e passa a ser omissão culpável?",
+      "anchors": [
+        "Tg 4,17",
+        "Mt 25,40-45"
+      ],
+      "facilitator_note": "Destaque dever, possibilidade real de agir e proporcionalidade da resposta.",
+      "reading_points": [
+        {
+          "title": "Bem devido",
+          "body": "A situação não pede curiosidade, mas proteção diante de possível violência."
+        },
+        {
+          "title": "Silêncio responsável",
+          "body": "Quem podia buscar ajuda segura pode responder também pelo bem que deixou de fazer."
+        },
+        {
+          "title": "Cristo no vulnerável",
+          "body": "O cuidado ao pequeno e ao ferido é critério concreto de responsabilidade cristã."
+        }
+      ]
+    },
+    {
+      "id": "B06",
+      "term_id": "B06",
+      "call_label": "B06 - Previsão do dano",
+      "case": "O dono de um bar percebe que um cliente mal consegue ficar em pé, mas entrega a chave do carro porque não quer discussão no estacionamento.",
+      "conference_question": "Por que um dano previsível pode gerar responsabilidade mesmo quando a pessoa diz que não queria o resultado final?",
+      "anchors": [
+        "CEC 1737",
+        "Pr 24,11-12"
+      ],
+      "facilitator_note": "Faça a ligação com negligência e possibilidade real de evitar o risco.",
+      "reading_points": [
+        {
+          "title": "Risco evidente",
+          "body": "A embriaguez torna previsível o perigo para o motorista e para terceiros."
+        },
+        {
+          "title": "Negligência",
+          "body": "Não desejar o acidente não apaga a escolha de ignorar o risco conhecido."
+        },
+        {
+          "title": "Dever de impedir",
+          "body": "A responsabilidade inclui agir quando se pode evitar dano grave."
+        }
+      ]
+    },
+    {
+      "id": "B07",
+      "term_id": "B07",
+      "call_label": "B07 - Consciência formada",
+      "case": "Um empresário diz que sua consciência permite sonegar impostos, mas nunca aceitou estudar a lei, ouvir orientação ou examinar quem será prejudicado.",
+      "conference_question": "Por que consciência não é simplesmente fazer o que se sente certo no momento?",
+      "anchors": [
+        "CEC 1776-1782",
+        "Rm 12,2"
+      ],
+      "facilitator_note": "Diferencie consciência formada de opinião conveniente.",
+      "reading_points": [
+        {
+          "title": "Consciência não é capricho",
+          "body": "Invocar a consciência sem buscar a verdade pode esconder interesse próprio."
+        },
+        {
+          "title": "Formação necessária",
+          "body": "A consciência precisa ser educada pela verdade, pela lei moral e pelo bem comum."
+        },
+        {
+          "title": "Renovação cristã",
+          "body": "O cristão não se conforma ao erro só porque ele parece vantajoso."
+        }
+      ]
+    },
+    {
+      "id": "B08",
+      "term_id": "B08",
+      "call_label": "B08 - Virtude e domínio",
+      "case": "Depois de anos explodindo em casa, um homem começa acompanhamento, evita álcool nas brigas e combina sair do cômodo antes de gritar.",
+      "conference_question": "Como a virtude aumenta a liberdade em vez de apenas proibir comportamentos?",
+      "anchors": [
+        "CEC 1734",
+        "CEC 1803"
+      ],
+      "facilitator_note": "Mostre que domínio da vontade é formação, não máscara de perfeição.",
+      "reading_points": [
+        {
+          "title": "História concreta",
+          "body": "O hábito de gritar não some por desejo vago, mas por decisões repetidas."
+        },
+        {
+          "title": "Treino da vontade",
+          "body": "A virtude fortalece a liberdade para escolher o bem quando a emoção aperta."
+        },
+        {
+          "title": "Responsabilidade crescente",
+          "body": "Conhecimento, ascese e ajuda real aumentam o domínio sobre os próprios atos."
+        }
+      ]
+    },
+    {
+      "id": "B09",
+      "term_id": "B09",
+      "call_label": "B09 - Pecado pessoal",
+      "case": "Na divisão de uma herança, um irmão esconde documentos para receber mais e depois aparece na família como se nada tivesse acontecido.",
+      "conference_question": "Por que pecado pessoal não é apenas quebrar regra, mas ferir Deus, o próximo e a própria consciência?",
+      "anchors": [
+        "CEC 1849",
+        "Tg 4,17"
+      ],
+      "facilitator_note": "Fale do pecado com clareza, sem reduzir tudo a erro administrativo.",
+      "reading_points": [
+        {
+          "title": "Escolha injusta",
+          "body": "A fraude é um ato livre que busca vantagem à custa de outros."
+        },
+        {
+          "title": "Relação ferida",
+          "body": "O pecado atinge Deus, o próximo e a verdade interior de quem age."
+        },
+        {
+          "title": "Responsabilidade inteira",
+          "body": "Também há pecado por palavra, ato, pensamento e omissão quando se abandona o bem devido."
+        }
+      ]
+    },
+    {
+      "id": "B10",
+      "term_id": "B10",
+      "call_label": "B10 - Imputabilidade moral",
+      "case": "Uma mulher assina uma transferência bancária sob ameaça direta de agressão, enquanto outra pessoa falsifica assinatura para enriquecer em segredo.",
+      "conference_question": "Como distinguir a gravidade objetiva do ato do grau de responsabilidade de cada pessoa no caso?",
+      "anchors": [
+        "CEC 1735",
+        "CEC 1736"
+      ],
+      "facilitator_note": "Evite absolver tudo ou condenar tudo no mesmo grau; ensine proporcionalidade.",
+      "reading_points": [
+        {
+          "title": "Atos parecidos",
+          "body": "Em ambos há transferência injusta, mas as condições interiores e externas são diferentes."
+        },
+        {
+          "title": "Liberdade ferida",
+          "body": "Medo grave e violência podem diminuir ou suprimir responsabilidade."
+        },
+        {
+          "title": "Juízo proporcional",
+          "body": "A imputabilidade considera voluntariedade, conhecimento e possibilidade concreta de agir."
+        }
+      ]
+    },
+    {
+      "id": "B11",
+      "term_id": "B11",
+      "call_label": "B11 - Graça e conversão",
+      "case": "Depois de anos desviando pequenas quantias da empresa, um funcionário procura confessar, devolver o que pode e aceitar as consequências.",
+      "conference_question": "O que muda quando a pessoa reconhece o pecado como caminho de conversão e não apenas como medo de punição?",
+      "anchors": [
+        "1Jo 1,8-9",
+        "Lc 15,17-24"
+      ],
+      "facilitator_note": "Una seriedade moral e esperança; conversão não apaga reparação.",
+      "reading_points": [
+        {
+          "title": "Verdade reconhecida",
+          "body": "A pessoa deixa de esconder o pecado e começa a nomear o mal cometido."
+        },
+        {
+          "title": "Graça atuante",
+          "body": "Deus oferece perdão e força para mudar, não licença para continuar igual."
+        },
+        {
+          "title": "Mudança concreta",
+          "body": "Conversão verdadeira caminha com confissão, restituição e aceitação de consequências justas."
+        }
+      ]
+    },
+    {
+      "id": "B12",
+      "term_id": "B12",
+      "call_label": "B12 - Verdade diante de Deus",
+      "case": "Um homem mantém imagem pública de honesto, mas em casa destrói documentos que provam a dívida que ele deve a uma viúva.",
+      "conference_question": "Por que responder diante de Deus exige mais que preservar uma boa reputação diante das pessoas?",
+      "anchors": [
+        "1Sm 16,7",
+        "Sl 51"
+      ],
+      "facilitator_note": "Destaque que a verdade diante de Deus rompe a lógica da máscara.",
+      "reading_points": [
+        {
+          "title": "Máscara pública",
+          "body": "A reputação pode continuar intacta mesmo quando o coração escolhe a mentira."
+        },
+        {
+          "title": "Verdade interior",
+          "body": "Deus vê o que foi escondido, destruído e consentido."
+        },
+        {
+          "title": "Resposta sincera",
+          "body": "A vida cristã pede abandonar desculpas e voltar à verdade com arrependimento."
+        }
+      ]
+    },
+    {
+      "id": "B13",
+      "term_id": "B13",
+      "call_label": "B13 - Dignidade da pessoa",
+      "case": "Uma empresa troca funcionários adoecidos por contratos mais baratos e fala deles apenas como custo morto em reunião.",
+      "conference_question": "Como a dignidade da pessoa limita decisões que parecem eficientes ou lucrativas?",
+      "anchors": [
+        "Gn 1,27",
+        "Mt 25,40"
+      ],
+      "facilitator_note": "Mostre que responsabilidade moral inclui o modo de tratar a pessoa concreta.",
+      "reading_points": [
+        {
+          "title": "Redução da pessoa",
+          "body": "O funcionário é tratado como peça descartável, não como pessoa."
+        },
+        {
+          "title": "Imagem de Deus",
+          "body": "A dignidade não depende de produtividade, saúde ou utilidade econômica."
+        },
+        {
+          "title": "Critério cristão",
+          "body": "O próximo ferido não pode ser invisível na tomada de decisão."
+        }
+      ]
+    },
+    {
+      "id": "B14",
+      "term_id": "B14",
+      "call_label": "B14 - Consequências reais",
+      "case": "Um comentário falso sobre uma enfermeira se espalha no bairro; semanas depois ela perde pacientes, confiança e paz em casa.",
+      "conference_question": "Por que a responsabilidade moral precisa considerar os efeitos reais dos atos, e não apenas o momento em que foram praticados?",
+      "anchors": [
+        "Gl 6,7",
+        "CEC 1734"
+      ],
+      "facilitator_note": "Faça a turma perceber que atos têm desdobramentos pessoais e sociais.",
+      "reading_points": [
+        {
+          "title": "Efeito prolongado",
+          "body": "Uma palavra falsa continua produzindo dano depois que foi dita."
+        },
+        {
+          "title": "Peso moral",
+          "body": "A responsabilidade inclui consequências sobre honra, trabalho e relações."
+        },
+        {
+          "title": "Semeadura",
+          "body": "A Escritura lembra que as escolhas produzem frutos, bons ou ruins."
+        }
+      ]
+    },
+    {
+      "id": "B15",
+      "term_id": "B15",
+      "call_label": "B15 - Juízo e misericórdia",
+      "case": "Depois de um furto em uma loja, alguns querem expor a pessoa na internet; outros querem fingir que nada aconteceu para evitar conflito.",
+      "conference_question": "Como unir juízo moral sério e misericórdia sem cair em humilhação nem banalização do erro?",
+      "anchors": [
+        "Jo 8,11",
+        "CEC 1849"
+      ],
+      "facilitator_note": "Conduza para a verdade que corrige e para a misericórdia que chama à mudança.",
+      "reading_points": [
+        {
+          "title": "Dois desvios",
+          "body": "Humilhar a pessoa e apagar o ato são respostas moralmente insuficientes."
+        },
+        {
+          "title": "Mal nomeado",
+          "body": "O furto precisa ser reconhecido como injustiça real."
+        },
+        {
+          "title": "Misericórdia exigente",
+          "body": "Cristo perdoa sem negar o pecado e chama a não pecar mais."
+        }
+      ]
+    },
+    {
+      "id": "I01",
+      "term_id": "I01",
+      "call_label": "I01 - Direção embriagada",
+      "case": "Após uma festa, um homem pega o carro mesmo cambaleando e diz que a casa fica perto; no caminho, invade a calçada.",
+      "conference_question": "Por que dirigir embriagado não pode ser tratado como simples azar se algo grave acontece?",
+      "anchors": [
+        "CEC 1737",
+        "B06"
+      ],
+      "facilitator_note": "Use o caso clássico do encontro para ligar risco previsível e responsabilidade.",
+      "reading_points": [
+        {
+          "title": "Capacidade reduzida",
+          "body": "O álcool compromete atenção, reflexo e juízo antes de qualquer acidente."
+        },
+        {
+          "title": "Dano previsível",
+          "body": "O risco era conhecido e havia alternativas para não dirigir."
+        },
+        {
+          "title": "Responsabilidade indireta",
+          "body": "Mesmo sem querer ferir alguém, a pessoa responde por assumir perigo evitável."
+        }
+      ]
+    },
+    {
+      "id": "I02",
+      "term_id": "I02",
+      "call_label": "I02 - Assinatura irresponsável",
+      "case": "Um síndico assina autorização de reforma sem ler o laudo técnico; dias depois uma parede estrutural é quebrada.",
+      "conference_question": "Quando assinar sem entender deixa de ser ingenuidade e se torna negligência responsável?",
+      "anchors": [
+        "CEC 1736",
+        "B07"
+      ],
+      "facilitator_note": "Mostre que dever de conferir cresce conforme o cargo e o risco.",
+      "reading_points": [
+        {
+          "title": "Dever do cargo",
+          "body": "Quem autoriza obra comum tem obrigação de entender ou buscar ajuda."
+        },
+        {
+          "title": "Descuido evitável",
+          "body": "A ignorância não desculpa quando havia meios de verificar."
+        },
+        {
+          "title": "Consciência prática",
+          "body": "Responsabilidade inclui formar o juízo antes de consentir por assinatura."
+        }
+      ]
+    },
+    {
+      "id": "I03",
+      "term_id": "I03",
+      "call_label": "I03 - Boato encaminhado",
+      "case": "Um áudio acusando um médico de crime circula no bairro; sem saber a origem, várias pessoas encaminham para proteger os outros.",
+      "conference_question": "Como proteger alguém sem cooperar com injustiça contra a honra de outro?",
+      "anchors": [
+        "Ex 20,16",
+        "B14"
+      ],
+      "facilitator_note": "Diferencie alerta prudente de acusação leviana repassada em massa.",
+      "reading_points": [
+        {
+          "title": "Acusação sem prova",
+          "body": "O encaminhamento amplia uma acusação que pode ser falsa ou distorcida."
+        },
+        {
+          "title": "Honra ferida",
+          "body": "A reputação de uma pessoa não é material descartável de conversa."
+        },
+        {
+          "title": "Prudência na palavra",
+          "body": "A verdade deve ser buscada por vias responsáveis, não por corrente de boato."
+        }
+      ]
+    },
+    {
+      "id": "I04",
+      "term_id": "I04",
+      "call_label": "I04 - Silêncio no abuso",
+      "case": "Uma cuidadora percebe marcas frequentes em uma criança atendida pela família, mas evita perguntar ou comunicar por medo de perder o emprego.",
+      "conference_question": "Que critério ajuda a distinguir medo compreensível de omissão diante de possível abuso?",
+      "anchors": [
+        "Tg 4,17",
+        "Pr 24,11-12"
+      ],
+      "facilitator_note": "Oriente para proteção responsável, sem expor vítima nem improvisar investigação.",
+      "reading_points": [
+        {
+          "title": "Sinal grave",
+          "body": "Marcas repetidas em criança vulnerável exigem atenção, não indiferença."
+        },
+        {
+          "title": "Medo real",
+          "body": "O medo pode pesar, mas não elimina automaticamente o dever de buscar ajuda segura."
+        },
+        {
+          "title": "Proteção competente",
+          "body": "A resposta deve acionar pessoas e órgãos capazes de proteger sem aumentar o dano."
+        }
+      ]
+    },
+    {
+      "id": "I05",
+      "term_id": "I05",
+      "call_label": "I05 - Compra de receptação",
+      "case": "Um homem compra celular novo por preço muito abaixo do mercado, sem nota, em ponto conhecido por vender produtos roubados.",
+      "conference_question": "Por que comprar barato pode cooperar com o roubo mesmo quando a pessoa não participou do furto?",
+      "anchors": [
+        "Ex 20,15",
+        "CEC 1868"
+      ],
+      "facilitator_note": "Mostre cooperação com o dano sem precisar acusar além dos dados do caso.",
+      "reading_points": [
+        {
+          "title": "Sinal de origem",
+          "body": "Preço, local e ausência de nota indicam forte suspeita de produto roubado."
+        },
+        {
+          "title": "Cooperação",
+          "body": "A compra alimenta o mercado que torna o roubo lucrativo."
+        },
+        {
+          "title": "Justiça concreta",
+          "body": "Não furtar também implica não sustentar o prejuízo causado a outro."
+        }
+      ]
+    },
+    {
+      "id": "I06",
+      "term_id": "I06",
+      "call_label": "I06 - Fraude no trabalho",
+      "case": "Para bater meta, uma equipe registra atendimento que nunca ocorreu e usa o número falso para receber bônus.",
+      "conference_question": "Que pessoas são atingidas quando uma fraude no trabalho parece apenas ajuste interno?",
+      "anchors": [
+        "Ef 4,25",
+        "CEC 1849"
+      ],
+      "facilitator_note": "Amplie a leitura para clientes, colegas, empresa e consciência.",
+      "reading_points": [
+        {
+          "title": "Mentira organizada",
+          "body": "O registro falso cria uma aparência de serviço que não existiu."
+        },
+        {
+          "title": "Prejuízo repartido",
+          "body": "Clientes, colegas e empregador podem ser enganados pela informação falsa."
+        },
+        {
+          "title": "Verdade exigida",
+          "body": "A responsabilidade cristã pede verdade também em metas, números e relatórios."
+        }
+      ]
+    },
+    {
+      "id": "I07",
+      "term_id": "I07",
+      "call_label": "I07 - Negligência médica",
+      "case": "Em um pronto atendimento lotado, um profissional ignora queixa de dor no peito sem triagem mínima porque quer terminar o plantão.",
+      "conference_question": "Como distinguir limitação humana em serviço difícil de negligência diante de um risco previsível?",
+      "anchors": [
+        "CEC 1737",
+        "B06"
+      ],
+      "facilitator_note": "Não transforme o caso em condenação automática; destaque dever proporcional e sinais graves.",
+      "reading_points": [
+        {
+          "title": "Contexto difícil",
+          "body": "Plantão cheio e cansaço são fatores reais que podem pesar no julgamento."
+        },
+        {
+          "title": "Sinal previsível",
+          "body": "Dor no peito é risco grave que pede triagem básica, não descarte apressado."
+        },
+        {
+          "title": "Responsabilidade profissional",
+          "body": "Quanto maior o dever assumido, maior a obrigação de cuidado possível."
+        }
+      ]
+    },
+    {
+      "id": "I08",
+      "term_id": "I08",
+      "call_label": "I08 - Promessa quebrada",
+      "case": "Um pedreiro recebe adiantamento, marca o início da obra e desaparece por semanas sem avisar nem devolver o dinheiro.",
+      "conference_question": "Por que a palavra dada cria responsabilidade moral além de uma simples preferência pessoal?",
+      "anchors": [
+        "Mt 5,37",
+        "B14"
+      ],
+      "facilitator_note": "Mostre que compromisso assumido gera dever com quem confiou.",
+      "reading_points": [
+        {
+          "title": "Confiança assumida",
+          "body": "O pagamento e a data combinada fizeram outra pessoa depender da palavra dada."
+        },
+        {
+          "title": "Quebra injusta",
+          "body": "Sumir sem avisar aumenta prejuízo e impede solução proporcional."
+        },
+        {
+          "title": "Sim verdadeiro",
+          "body": "O Evangelho pede palavra íntegra, não promessa usada sem responsabilidade."
+        }
+      ]
+    },
+    {
+      "id": "I09",
+      "term_id": "I09",
+      "call_label": "I09 - Descarte no rio",
+      "case": "Uma oficina joga solvente no córrego durante a noite para não pagar descarte correto; famílias abaixo usam aquela água para limpeza.",
+      "conference_question": "Como a responsabilidade moral aparece quando o dano é espalhado e atinge pessoas que o agente nem vê?",
+      "anchors": [
+        "Gn 2,15",
+        "B14"
+      ],
+      "facilitator_note": "Ligue cuidado da criação a responsabilidade por consequências comunitárias.",
+      "reading_points": [
+        {
+          "title": "Economia injusta",
+          "body": "A oficina reduz custo transferindo risco e sujeira para outros."
+        },
+        {
+          "title": "Dano comum",
+          "body": "O córrego não é propriedade moral de quem o usa para descartar veneno."
+        },
+        {
+          "title": "Guarda da criação",
+          "body": "Cuidar do mundo criado inclui responder pelo impacto sobre pessoas concretas."
+        }
+      ]
+    },
+    {
+      "id": "I10",
+      "term_id": "I10",
+      "call_label": "I10 - Dívida ignorada",
+      "case": "Uma pessoa deve aluguel antigo a uma viúva, muda de bairro e passa anos dizendo que aquilo ficou no passado.",
+      "conference_question": "Por que o tempo não apaga automaticamente uma obrigação de justiça?",
+      "anchors": [
+        "Rm 13,7-8",
+        "O11"
+      ],
+      "facilitator_note": "Diferencie culpa emocional de dever objetivo de restituição possível.",
+      "reading_points": [
+        {
+          "title": "Obrigação pendente",
+          "body": "A dívida continua ligada a uma pessoa concreta que sofreu prejuízo."
+        },
+        {
+          "title": "Esquecimento conveniente",
+          "body": "Mudar de lugar não transforma injustiça em assunto encerrado."
+        },
+        {
+          "title": "Restituição",
+          "body": "A resposta cristã busca devolver o devido de modo possível e proporcional."
+        }
+      ]
+    },
+    {
+      "id": "I11",
+      "term_id": "I11",
+      "call_label": "I11 - Cuidado abandonado",
+      "case": "Três irmãos sabem que o pai idoso não consegue tomar remédio sozinho, mas cada um supõe que o outro passará lá.",
+      "conference_question": "Como a responsabilidade se distribui quando várias pessoas têm dever diante do mesmo cuidado?",
+      "anchors": [
+        "1Tm 5,8",
+        "Mt 25,40-45"
+      ],
+      "facilitator_note": "Evite resposta vaga; destaque dever concreto e organização do cuidado.",
+      "reading_points": [
+        {
+          "title": "Vulnerabilidade clara",
+          "body": "O pai depende de ajuda concreta para algo necessário à saúde."
+        },
+        {
+          "title": "Omissão dividida",
+          "body": "Quando todos empurram o dever para outro, o cuidado real pode desaparecer."
+        },
+        {
+          "title": "Responsabilidade familiar",
+          "body": "A caridade começa por assumir o bem devido de modo organizado."
+        }
+      ]
+    },
+    {
+      "id": "I12",
+      "term_id": "I12",
+      "call_label": "I12 - Denúncia omitida",
+      "case": "Um funcionário descobre vazamento de gás em um depósito, mas não comunica porque a chefia costuma punir quem traz problemas.",
+      "conference_question": "Que responsabilidade permanece quando denunciar um risco pode trazer custo pessoal?",
+      "anchors": [
+        "Tg 4,17",
+        "Pr 24,11-12"
+      ],
+      "facilitator_note": "Conduza para aviso seguro e autoridade competente, não heroísmo imprudente.",
+      "reading_points": [
+        {
+          "title": "Perigo coletivo",
+          "body": "Vazamento de gás coloca muitas vidas em risco imediato."
+        },
+        {
+          "title": "Custo pessoal",
+          "body": "O medo de punição é sério, mas não torna o silêncio automaticamente justo."
+        },
+        {
+          "title": "Aviso responsável",
+          "body": "A resposta deve procurar caminho eficaz para impedir o dano previsível."
+        }
+      ]
+    },
+    {
+      "id": "I13",
+      "term_id": "I13",
+      "call_label": "I13 - Culpa transferida",
+      "case": "Um gerente erra a compra de estoque, perde dinheiro e manda registrar a falha como descuido de uma funcionária ausente.",
+      "conference_question": "Por que transferir culpa agrava o erro inicial em vez de apenas proteger a própria imagem?",
+      "anchors": [
+        "Gn 3,13",
+        "B12"
+      ],
+      "facilitator_note": "Mostre a cadeia: erro, mentira e injustiça contra inocente.",
+      "reading_points": [
+        {
+          "title": "Erro inicial",
+          "body": "A decisão ruim já exigia reconhecimento e correção."
+        },
+        {
+          "title": "Culpa deslocada",
+          "body": "A mentira coloca a consequência sobre alguém que não decidiu."
+        },
+        {
+          "title": "Verdade diante de Deus",
+          "body": "Responsabilidade cristã não permite salvar aparência destruindo o outro."
+        }
+      ]
+    },
+    {
+      "id": "I14",
+      "term_id": "I14",
+      "call_label": "I14 - Exposição de segredo",
+      "case": "Depois do fim de um noivado, um homem divulga mensagens íntimas para envergonhar a ex-noiva diante da família.",
+      "conference_question": "Como distinguir falar a verdade necessária de expor intimidade para dominar ou se vingar?",
+      "anchors": [
+        "Ex 20,16",
+        "G10"
+      ],
+      "facilitator_note": "Nomeie a gravidade sem sensacionalismo; destaque honra, sigilo e intenção.",
+      "reading_points": [
+        {
+          "title": "Intimidade violada",
+          "body": "Mensagens privadas são usadas como arma de humilhação."
+        },
+        {
+          "title": "Falsa verdade",
+          "body": "Nem tudo que é real deve ser divulgado; a intenção e o dano importam."
+        },
+        {
+          "title": "Honra protegida",
+          "body": "A responsabilidade moral exige respeitar sigilo e buscar justiça sem vingança."
+        }
+      ]
+    },
+    {
+      "id": "I15",
+      "term_id": "I15",
+      "call_label": "I15 - Ajuda negada",
+      "case": "Em uma estrada pouco movimentada, um motorista vê uma pessoa caída ao lado da moto e segue viagem sem chamar socorro, embora tivesse sinal de celular.",
+      "conference_question": "Quando não ajudar alguém em perigo claro se torna omissão moralmente grave?",
+      "anchors": [
+        "Lc 10,30-37",
+        "Tg 4,17"
+      ],
+      "facilitator_note": "Trabalhe ajuda possível e segura, sem exigir imprudência.",
+      "reading_points": [
+        {
+          "title": "Perigo visível",
+          "body": "A pessoa caída pode precisar de socorro urgente."
+        },
+        {
+          "title": "Ajuda possível",
+          "body": "Chamar emergência era uma ação concreta e relativamente segura."
+        },
+        {
+          "title": "Próximo real",
+          "body": "A parábola do samaritano mostra que responsabilidade nasce diante do ferido encontrado."
+        }
+      ]
+    },
+    {
+      "id": "N01",
+      "term_id": "N01",
+      "call_label": "N01 - Foi sem querer",
+      "case": "Um homem brinca apontando uma arma carregada para outro e, após o disparo, repete que não queria machucar ninguém.",
+      "conference_question": "Como distinguir acidente inocente de ato imprudente que assumiu risco previsível?",
+      "anchors": [
+        "CEC 1736",
+        "CEC 1737"
+      ],
+      "facilitator_note": "Não deixe a frase apagar o risco assumido antes do resultado.",
+      "reading_points": [
+        {
+          "title": "Frase insuficiente",
+          "body": "Não querer o ferimento não elimina a escolha de brincar com perigo grave."
+        },
+        {
+          "title": "Risco assumido",
+          "body": "A possibilidade de dano era previsível e evitável."
+        },
+        {
+          "title": "Responsabilidade moral",
+          "body": "A vontade é avaliada também pelo que a pessoa decidiu permitir ou arriscar."
+        }
+      ]
+    },
+    {
+      "id": "N02",
+      "term_id": "N02",
+      "call_label": "N02 - Só deu errado",
+      "case": "Um organizador superlota um salão para lucrar mais; quando há tumulto e feridos, diz que o problema foi apenas a saída estreita.",
+      "conference_question": "Por que dizer que só deu errado pode esconder uma escolha injusta feita antes do desastre?",
+      "anchors": [
+        "1Sm 16,7",
+        "B06"
+      ],
+      "facilitator_note": "Conduza para os meios escolhidos e riscos aceitos, não só para o desfecho.",
+      "reading_points": [
+        {
+          "title": "Lucro antes da segurança",
+          "body": "A superlotação foi escolhida antes de aparecer o tumulto."
+        },
+        {
+          "title": "Resultado previsível",
+          "body": "Saída estreita e excesso de pessoas tornam o dano mais provável."
+        },
+        {
+          "title": "Coração e meios",
+          "body": "Deus vê também a intenção de lucro que desprezou o risco."
+        }
+      ]
+    },
+    {
+      "id": "N03",
+      "term_id": "N03",
+      "call_label": "N03 - Todo mundo faz",
+      "case": "Em uma repartição, servidores cobram taxa informal para acelerar documentos e dizem que esse é o costume de todos ali.",
+      "conference_question": "Por que a repetição social de um erro não transforma esse erro em norma moral?",
+      "anchors": [
+        "Rm 12,2",
+        "B02"
+      ],
+      "facilitator_note": "Mostre que pressão do ambiente não substitui consciência formada.",
+      "reading_points": [
+        {
+          "title": "Costume corrompido",
+          "body": "A prática comum pode normalizar uma injustiça contra quem precisa do serviço."
+        },
+        {
+          "title": "Conformismo",
+          "body": "Todo mundo faz é uma tentativa de dissolver a responsabilidade pessoal."
+        },
+        {
+          "title": "Liberdade cristã",
+          "body": "O cristão é chamado a não se conformar ao erro do ambiente."
+        }
+      ]
+    },
+    {
+      "id": "N04",
+      "term_id": "N04",
+      "call_label": "N04 - Eu não sabia",
+      "case": "Um responsável por compras assina contrato público sem pesquisar conflito de interesses, embora o setor já tivesse alertado sobre a exigência.",
+      "conference_question": "Quando a ignorância diminui a culpa e quando ela revela descuido culpável?",
+      "anchors": [
+        "CEC 1735",
+        "G04"
+      ],
+      "facilitator_note": "Ensine que ignorância pode desculpar, mas não quando era dever saber.",
+      "reading_points": [
+        {
+          "title": "Alerta ignorado",
+          "body": "A pessoa tinha sinais e meios para buscar informação antes de assinar."
+        },
+        {
+          "title": "Ignorância usada",
+          "body": "Dizer que não sabia pode virar defesa conveniente contra o dever de conferir."
+        },
+        {
+          "title": "Discernimento justo",
+          "body": "A responsabilidade depende do que a pessoa podia e devia saber."
+        }
+      ]
+    },
+    {
+      "id": "N05",
+      "term_id": "N05",
+      "call_label": "N05 - Não era comigo",
+      "case": "No prédio, todos sabem que um morador cadeirante fica preso quando o elevador quebra, mas ninguém informa a administração porque não é parente dele.",
+      "conference_question": "Que proximidade ou possibilidade de ajuda torna uma situação também responsabilidade nossa?",
+      "anchors": [
+        "Tg 4,17",
+        "B05"
+      ],
+      "facilitator_note": "Evite transformar toda dor do mundo em culpa pessoal; foque no dever próximo e possível.",
+      "reading_points": [
+        {
+          "title": "Necessidade próxima",
+          "body": "O problema está diante de pessoas que sabem e podem comunicar."
+        },
+        {
+          "title": "Fuga confortável",
+          "body": "Não era comigo tenta apagar a obrigação concreta de ajudar."
+        },
+        {
+          "title": "Bem devido",
+          "body": "Omissão culpável ocorre quando se deixa de fazer o bem possível e necessário."
+        }
+      ]
+    },
+    {
+      "id": "N06",
+      "term_id": "N06",
+      "call_label": "N06 - Só obedeci",
+      "case": "Um segurança recebe ordem de impedir entrada de uma família por preconceito claro e executa a ordem sem contestar nem registrar o abuso.",
+      "conference_question": "Como distinguir obediência legítima de cumplicidade com uma ordem injusta?",
+      "anchors": [
+        "At 5,29",
+        "G11"
+      ],
+      "facilitator_note": "Mostre que autoridade não torna moralmente bom um ato injusto.",
+      "reading_points": [
+        {
+          "title": "Ordem injusta",
+          "body": "A ordem fere a dignidade da família e não pode ser tratada como neutra."
+        },
+        {
+          "title": "Responsabilidade pessoal",
+          "body": "Obedecer não apaga totalmente a participação no ato praticado."
+        },
+        {
+          "title": "Lei de Deus",
+          "body": "A obediência cristã tem limite quando a ordem manda fazer o mal."
+        }
+      ]
+    },
+    {
+      "id": "N07",
+      "term_id": "N07",
+      "call_label": "N07 - Mereceu sofrer",
+      "case": "Após um homem ser preso por furto, moradores comemoram quando ele apanha na cadeia e dizem que agora recebeu o que merecia.",
+      "conference_question": "Por que reconhecer a culpa de alguém não autoriza desprezar sua dignidade?",
+      "anchors": [
+        "Gn 1,27",
+        "G09"
+      ],
+      "facilitator_note": "Evite relativizar o furto e também recuse a lógica de crueldade.",
+      "reading_points": [
+        {
+          "title": "Culpa real",
+          "body": "O furto pode exigir consequência justa e reparação."
+        },
+        {
+          "title": "Crueldade disfarçada",
+          "body": "Alegrar-se com sofrimento humilhante já não é justiça, mas vingança."
+        },
+        {
+          "title": "Dignidade intacta",
+          "body": "Mesmo culpada, a pessoa continua imagem de Deus e chamada à conversão."
+        }
+      ]
+    },
+    {
+      "id": "N08",
+      "term_id": "N08",
+      "call_label": "N08 - Ninguém viu",
+      "case": "Uma contadora altera centavos em milhares de lançamentos, certa de que nenhum cliente perceberá.",
+      "conference_question": "O que muda na avaliação moral quando se lembra que Deus vê o coração e não apenas o flagrante público?",
+      "anchors": [
+        "1Sm 16,7",
+        "B12"
+      ],
+      "facilitator_note": "Leve o grupo da lógica do medo de ser pego para a verdade diante de Deus.",
+      "reading_points": [
+        {
+          "title": "Oculto calculado",
+          "body": "A fraude é feita justamente porque parece invisível aos outros."
+        },
+        {
+          "title": "Moral reduzida",
+          "body": "Ninguém viu transforma o bem em simples risco de punição."
+        },
+        {
+          "title": "Deus vê",
+          "body": "A responsabilidade cristã permanece mesmo quando não há testemunha humana."
+        }
+      ]
+    },
+    {
+      "id": "N09",
+      "term_id": "N09",
+      "call_label": "N09 - Minha intenção basta",
+      "case": "Para pagar tratamento de um parente, uma pessoa falsifica documentos de outra família e diz que fez tudo por amor.",
+      "conference_question": "Por que uma intenção boa não torna justo qualquer meio escolhido?",
+      "anchors": [
+        "CEC 1753",
+        "B04"
+      ],
+      "facilitator_note": "Ensine a relação entre fim, meios e consequências previsíveis.",
+      "reading_points": [
+        {
+          "title": "Fim compreensível",
+          "body": "Ajudar um doente é uma finalidade que pode ser boa."
+        },
+        {
+          "title": "Meio injusto",
+          "body": "Falsificar documentos fere a verdade e prejudica outras pessoas."
+        },
+        {
+          "title": "Moral completa",
+          "body": "A intenção não dispensa meios justos nem responsabilidade pelos efeitos."
+        }
+      ]
+    },
+    {
+      "id": "N10",
+      "term_id": "N10",
+      "call_label": "N10 - Não tive escolha",
+      "case": "Um vendedor mente sobre defeitos graves de um produto para bater meta e depois afirma que, se dissesse a verdade, perderia o emprego.",
+      "conference_question": "Como avaliar situações em que a pressão é real, mas ainda existe possibilidade moral de não mentir?",
+      "anchors": [
+        "CEC 1735",
+        "G05"
+      ],
+      "facilitator_note": "Reconheça a pressão sem permitir que ela vire desculpa automática para o mal.",
+      "reading_points": [
+        {
+          "title": "Pressão concreta",
+          "body": "O medo de perder emprego torna a decisão mais difícil."
+        },
+        {
+          "title": "Escolha ainda presente",
+          "body": "Dificuldade não significa sempre impossibilidade moral."
+        },
+        {
+          "title": "Consentimento avaliado",
+          "body": "A responsabilidade deve considerar medo, liberdade e alternativas reais."
+        }
+      ]
+    },
+    {
+      "id": "N11",
+      "term_id": "N11",
+      "call_label": "N11 - Depois eu confesso",
+      "case": "Alguém decide enganar um cliente em negócio lucrativo e comenta que depois resolverá isso na Confissão.",
+      "conference_question": "Por que planejar o pecado contando com perdão futuro contradiz o arrependimento verdadeiro?",
+      "anchors": [
+        "Rm 6,1-2",
+        "B11"
+      ],
+      "facilitator_note": "Trate a misericórdia com respeito: perdão não é cálculo para pecar.",
+      "reading_points": [
+        {
+          "title": "Pecado planejado",
+          "body": "A pessoa escolhe o erro antes e usa o perdão como cobertura futura."
+        },
+        {
+          "title": "Presunção",
+          "body": "Confissão sem arrependimento vira tentativa de manipular a misericórdia."
+        },
+        {
+          "title": "Conversão real",
+          "body": "A graça chama a abandonar o pecado, não a organizá-lo melhor."
+        }
+      ]
+    },
+    {
+      "id": "N12",
+      "term_id": "N12",
+      "call_label": "N12 - Pequeno desvio",
+      "case": "Um caixa retira pequenas quantias por semana e afirma que a empresa grande nem sente falta.",
+      "conference_question": "Por que a pequena medida do dano não apaga a injustiça do ato?",
+      "anchors": [
+        "Lc 16,10",
+        "B09"
+      ],
+      "facilitator_note": "Mostre que gravidade pode variar, mas o tipo moral não desaparece.",
+      "reading_points": [
+        {
+          "title": "Minimização",
+          "body": "A pessoa reduz o problema ao valor retirado, não ao ato de tomar o que não é seu."
+        },
+        {
+          "title": "Injustiça real",
+          "body": "Pequeno desvio continua sendo apropriação indevida."
+        },
+        {
+          "title": "Fidelidade no pouco",
+          "body": "A formação moral aparece também nos atos que parecem pequenos."
+        }
+      ]
+    },
+    {
+      "id": "N13",
+      "term_id": "N13",
+      "call_label": "N13 - Só me protegi",
+      "case": "Após ser criticado no trabalho, um funcionário inventa uma acusação contra quem o criticou e chama isso de defesa da própria imagem.",
+      "conference_question": "Como distinguir defesa justa de vingança ou mentira usada para destruir o outro?",
+      "anchors": [
+        "Mt 5,37",
+        "G09"
+      ],
+      "facilitator_note": "Reconheça o direito de se defender sem aceitar meios injustos.",
+      "reading_points": [
+        {
+          "title": "Ferida real",
+          "body": "A crítica pode ter atingido a imagem do funcionário."
+        },
+        {
+          "title": "Meio falso",
+          "body": "Inventar acusação não é defesa; é mentira contra o próximo."
+        },
+        {
+          "title": "Justiça sem vingança",
+          "body": "A resposta justa busca verdade e reparação, não destruição da reputação alheia."
+        }
+      ]
+    },
+    {
+      "id": "N14",
+      "term_id": "N14",
+      "call_label": "N14 - A culpa é deles",
+      "case": "Um motorista dirige em alta velocidade, bate e culpa a cidade, a chuva, os outros motoristas e o nervosismo do dia.",
+      "conference_question": "Como reconhecer fatores externos sem usá-los para apagar a própria decisão?",
+      "anchors": [
+        "Gn 3,13",
+        "B03"
+      ],
+      "facilitator_note": "Ensine a pesar circunstâncias sem transformar tudo em desculpa.",
+      "reading_points": [
+        {
+          "title": "Circunstâncias reais",
+          "body": "Chuva e trânsito podem aumentar dificuldade e risco."
+        },
+        {
+          "title": "Escolha própria",
+          "body": "A velocidade foi uma decisão assumida pelo motorista."
+        },
+        {
+          "title": "Responsabilidade honesta",
+          "body": "Reconhecer fatores não permite transferir toda culpa para fora de si."
+        }
+      ]
+    },
+    {
+      "id": "N15",
+      "term_id": "N15",
+      "call_label": "N15 - Já que comecei",
+      "case": "Depois de falsificar o primeiro recibo, um funcionário falsifica outros para esconder o anterior e diz que agora não há mais volta.",
+      "conference_question": "Por que a conversão possível agora é melhor que continuar no erro para esconder vergonha passada?",
+      "anchors": [
+        "Lc 15,17-24",
+        "B11"
+      ],
+      "facilitator_note": "Mostre que vergonha não é guia moral suficiente; parar já é passo de verdade.",
+      "reading_points": [
+        {
+          "title": "Erro em cadeia",
+          "body": "Um pecado inicial passa a exigir novas mentiras para sobreviver."
+        },
+        {
+          "title": "Falsa fatalidade",
+          "body": "Já que comecei trata a conversão como impossível, quando ela é urgente."
+        },
+        {
+          "title": "Volta ao Pai",
+          "body": "A graça permite levantar, confessar e começar reparação antes que o dano cresça."
+        }
+      ]
+    },
+    {
+      "id": "G01",
+      "term_id": "G01",
+      "call_label": "G01 - Ato e pessoa",
+      "case": "Uma mulher comete um crime grave; parte da cidade a chama de monstro, enquanto outra parte diz que falar do crime já é falta de amor.",
+      "conference_question": "Como condenar o ato mau sem negar a dignidade e a possibilidade de conversão da pessoa?",
+      "anchors": [
+        "Gn 1,27",
+        "Jo 8,11"
+      ],
+      "facilitator_note": "Mantenha as duas verdades juntas: ato mau deve ser nomeado; pessoa não é descartável.",
+      "reading_points": [
+        {
+          "title": "Ato julgado",
+          "body": "O crime pode e deve ser reconhecido como mal real."
+        },
+        {
+          "title": "Pessoa preservada",
+          "body": "A pessoa não se reduz ao pior ato que cometeu."
+        },
+        {
+          "title": "Conversão possível",
+          "body": "Cristo une verdade sobre o pecado e chamado à vida nova."
+        }
+      ]
+    },
+    {
+      "id": "G02",
+      "term_id": "G02",
+      "call_label": "G02 - Querer e tolerar",
+      "case": "Uma mãe passa noites no hospital com o filho doente, fica esgotada e falta ao trabalho, mas não buscava prejudicar a empresa.",
+      "conference_question": "Como distinguir um efeito ruim tolerado por razão grave de um efeito ruim escolhido como fim ou meio?",
+      "anchors": [
+        "CEC 1737",
+        "B06"
+      ],
+      "facilitator_note": "Use o exemplo do Catecismo sobre efeito não querido e tolerado.",
+      "reading_points": [
+        {
+          "title": "Efeito ruim",
+          "body": "A falta ao trabalho e o esgotamento são consequências reais."
+        },
+        {
+          "title": "Não escolhido como fim",
+          "body": "A mãe não deseja prejudicar; ela cuida de uma necessidade grave."
+        },
+        {
+          "title": "Discernimento moral",
+          "body": "Nem todo efeito ruim tolerado é imputável como se fosse diretamente querido."
+        }
+      ]
+    },
+    {
+      "id": "G03",
+      "term_id": "G03",
+      "call_label": "G03 - Culpa e imputabilidade",
+      "case": "Dois homens quebram a mesma porta: um para roubar a casa, outro desorientado por surto psíquico intenso.",
+      "conference_question": "Por que o mesmo dano material pode exigir avaliação diferente da responsabilidade moral?",
+      "anchors": [
+        "CEC 1735",
+        "CEC 1857-1860"
+      ],
+      "facilitator_note": "Diferencie ato objetivo, dano produzido e grau subjetivo de culpa.",
+      "reading_points": [
+        {
+          "title": "Dano semelhante",
+          "body": "A porta quebrada e o prejuízo material existem nos dois casos."
+        },
+        {
+          "title": "Interior diverso",
+          "body": "Intenção, lucidez e liberdade não são iguais nas duas situações."
+        },
+        {
+          "title": "Imputabilidade",
+          "body": "O juízo moral considera conhecimento, consentimento e fatores que podem diminuir a culpa."
+        }
+      ]
+    },
+    {
+      "id": "G04",
+      "term_id": "G04",
+      "call_label": "G04 - Ignorância e descuido",
+      "case": "Um turista erra uma regra local de trânsito que não estava sinalizada; outro ignora placa clara de velocidade porque não quis diminuir.",
+      "conference_question": "Que critérios ajudam a distinguir ignorância desculpável de descuido culpável?",
+      "anchors": [
+        "CEC 1735",
+        "CEC 1736"
+      ],
+      "facilitator_note": "Mostre que ignorância não tem sempre o mesmo peso moral.",
+      "reading_points": [
+        {
+          "title": "Informação ausente",
+          "body": "No primeiro caso, pode faltar meio razoável de conhecer a regra."
+        },
+        {
+          "title": "Aviso rejeitado",
+          "body": "No segundo, havia sinal claro e decisão de ignorá-lo."
+        },
+        {
+          "title": "Dever de saber",
+          "body": "A responsabilidade cresce quando a pessoa podia e devia conhecer."
+        }
+      ]
+    },
+    {
+      "id": "G05",
+      "term_id": "G05",
+      "call_label": "G05 - Medo e consentimento",
+      "case": "Um caixa entrega dinheiro sob arma apontada; outro entrega dinheiro do caixa a um amigo por medo de perder a amizade.",
+      "conference_question": "Como o medo pode diminuir a responsabilidade em um caso e não justificar totalmente outro?",
+      "anchors": [
+        "CEC 1735",
+        "B03"
+      ],
+      "facilitator_note": "Compare medo grave, ameaça direta e pressão afetiva sem simplificar.",
+      "reading_points": [
+        {
+          "title": "Ameaça grave",
+          "body": "A arma reduz drasticamente a liberdade de escolha do caixa."
+        },
+        {
+          "title": "Pressão afetiva",
+          "body": "Medo de perder amizade pesa, mas não equivale necessariamente a violência grave."
+        },
+        {
+          "title": "Consentimento medido",
+          "body": "A responsabilidade considera quanto a liberdade foi realmente ferida."
+        }
+      ]
+    },
+    {
+      "id": "G06",
+      "term_id": "G06",
+      "call_label": "G06 - Hábito e escolha",
+      "case": "Um homem viciado em jogo perde o salário, mente à família e finalmente aceita bloqueio bancário e tratamento depois de várias recaídas.",
+      "conference_question": "Como reconhecer a força de um hábito sem negar a responsabilidade de buscar ajuda e lutar?",
+      "anchors": [
+        "CEC 1735",
+        "B08"
+      ],
+      "facilitator_note": "Evite tanto condenação fria quanto desculpa total do vício.",
+      "reading_points": [
+        {
+          "title": "Domínio ferido",
+          "body": "O vício diminui a liberdade prática e dificulta parar sozinho."
+        },
+        {
+          "title": "Dano real",
+          "body": "Mentiras e perdas atingem a família e não podem ser ignoradas."
+        },
+        {
+          "title": "Luta proporcional",
+          "body": "Responsabilidade inclui aceitar limites, tratamento e treino da vontade."
+        }
+      ]
+    },
+    {
+      "id": "G07",
+      "term_id": "G07",
+      "call_label": "G07 - Intenção e aparência",
+      "case": "Um político visita uma área alagada, distribui ajuda diante de câmeras e manda retirar as doações assim que a filmagem termina.",
+      "conference_question": "Como a intenção interior pode desmentir uma aparência pública de solidariedade?",
+      "anchors": [
+        "1Sm 16,7",
+        "B04"
+      ],
+      "facilitator_note": "Não faça debate partidário; foque no discernimento moral da aparência.",
+      "reading_points": [
+        {
+          "title": "Cena montada",
+          "body": "O gesto público foi usado para produzir imagem favorável."
+        },
+        {
+          "title": "Finalidade revelada",
+          "body": "Retirar as doações mostra que o bem do necessitado não era o centro."
+        },
+        {
+          "title": "Olhar de Deus",
+          "body": "O Senhor olha o coração e julga a verdade do ato além da propaganda."
+        }
+      ]
+    },
+    {
+      "id": "G08",
+      "term_id": "G08",
+      "call_label": "G08 - Prudência e omissão",
+      "case": "Uma enfermeira sabe que um colega troca medicamentos sem prescrição; ela evita falar com a chefia porque não quer criar clima ruim.",
+      "conference_question": "Como distinguir prudência no modo de agir de omissão confortável diante de risco grave?",
+      "anchors": [
+        "Tg 4,17",
+        "CEC 1806"
+      ],
+      "facilitator_note": "Mostre que prudência escolhe meios adequados, não desculpa a inação.",
+      "reading_points": [
+        {
+          "title": "Risco ao paciente",
+          "body": "Trocar medicação sem prescrição pode causar dano sério."
+        },
+        {
+          "title": "Silêncio cômodo",
+          "body": "Evitar clima ruim não basta para justificar a omissão."
+        },
+        {
+          "title": "Prudência ativa",
+          "body": "A virtude busca modo seguro e competente de impedir o mal."
+        }
+      ]
+    },
+    {
+      "id": "G09",
+      "term_id": "G09",
+      "call_label": "G09 - Justiça e vingança",
+      "case": "Depois de um golpe financeiro, vítimas querem recuperar o dinheiro, mas um grupo propõe divulgar endereço da família do golpista para que todos o humilhem.",
+      "conference_question": "Como buscar justiça sem transformar a dor sofrida em vingança contra a pessoa e sua família?",
+      "anchors": [
+        "Rm 12,19-21",
+        "B15"
+      ],
+      "facilitator_note": "Reconheça a injustiça sofrida e separe reparação de linchamento.",
+      "reading_points": [
+        {
+          "title": "Direito ferido",
+          "body": "As vítimas têm motivo real para buscar reparação e providência legal."
+        },
+        {
+          "title": "Vingança ampliada",
+          "body": "Humilhar família e expor endereço cria novo mal."
+        },
+        {
+          "title": "Justiça cristã",
+          "body": "A resposta deve restaurar o bem possível sem devolver mal por mal."
+        }
+      ]
+    },
+    {
+      "id": "G10",
+      "term_id": "G10",
+      "call_label": "G10 - Segredo e encobrimento",
+      "case": "Um diretor pede que funcionários tratem como assunto interno denúncias de assédio para não manchar a imagem da instituição.",
+      "conference_question": "Como distinguir sigilo responsável de encobrimento que protege o agressor e expõe vítimas?",
+      "anchors": [
+        "Ex 20,16",
+        "Pr 24,11-12"
+      ],
+      "facilitator_note": "Cuide para não expor vítimas; destaque autoridade competente e proteção.",
+      "reading_points": [
+        {
+          "title": "Sigilo legítimo",
+          "body": "A intimidade da vítima deve ser protegida de exposição indevida."
+        },
+        {
+          "title": "Encobrimento",
+          "body": "Esconder denúncia para preservar imagem pode manter o agressor ativo."
+        },
+        {
+          "title": "Proteção verdadeira",
+          "body": "Responsabilidade pede encaminhar com seriedade a quem pode agir justamente."
+        }
+      ]
+    },
+    {
+      "id": "G11",
+      "term_id": "G11",
+      "call_label": "G11 - Autoridade e abuso",
+      "case": "Um encarregado manda a equipe despejar entulho em terreno vizinho e ameaça cortar horas extras de quem recusar.",
+      "conference_question": "Que limite moral existe quando uma autoridade manda fazer algo injusto?",
+      "anchors": [
+        "At 5,29",
+        "B07"
+      ],
+      "facilitator_note": "Diferencie respeito à autoridade de submissão a abuso.",
+      "reading_points": [
+        {
+          "title": "Ordem com pressão",
+          "body": "A ameaça torna a recusa difícil, mas a ordem continua injusta."
+        },
+        {
+          "title": "Autoridade limitada",
+          "body": "Cargo não dá poder moral para mandar prejudicar terceiros."
+        },
+        {
+          "title": "Obediência a Deus",
+          "body": "A consciência formada reconhece que a lei de Deus está acima do abuso."
+        }
+      ]
+    },
+    {
+      "id": "G12",
+      "term_id": "G12",
+      "call_label": "G12 - Reparação e punição",
+      "case": "Um adolescente quebra a janela do vizinho; o pai quer que ele pague o conserto, mas o vizinho quer apenas expô-lo em redes sociais.",
+      "conference_question": "O que diferencia uma consequência que repara o dano de uma punição movida por humilhação?",
+      "anchors": [
+        "Lc 19,8",
+        "O04"
+      ],
+      "facilitator_note": "Este é um dos poucos casos juvenis porque a situação é direta e verdadeira ao conceito.",
+      "reading_points": [
+        {
+          "title": "Dano objetivo",
+          "body": "A janela quebrada exige conserto e reconhecimento do prejuízo."
+        },
+        {
+          "title": "Reparação",
+          "body": "Pagar ou ajudar a reparar restaura o bem ferido."
+        },
+        {
+          "title": "Humilhação inútil",
+          "body": "Expor em rede pode acrescentar vergonha sem reconstruir justiça."
+        }
+      ]
+    },
+    {
+      "id": "G13",
+      "term_id": "G13",
+      "call_label": "G13 - Erro e escândalo",
+      "case": "Um líder de comunidade faz piada racista em público; depois diz que pedirá desculpas em particular a quem se ofendeu.",
+      "conference_question": "Quando um erro público exige reparação pública e não apenas conversa privada?",
+      "anchors": [
+        "CEC 1868",
+        "B14"
+      ],
+      "facilitator_note": "Trate escândalo como dano que arrasta outros, sem transformar em espetáculo.",
+      "reading_points": [
+        {
+          "title": "Dano público",
+          "body": "A fala pública normaliza desprezo diante de outras pessoas."
+        },
+        {
+          "title": "Reparação proporcional",
+          "body": "Desculpa privada pode ser insuficiente quando o mal foi público."
+        },
+        {
+          "title": "Escândalo",
+          "body": "O erro que influencia outros pede correção clara para desfazer a confusão."
+        }
+      ]
+    },
+    {
+      "id": "G14",
+      "term_id": "G14",
+      "call_label": "G14 - Consciência e capricho",
+      "case": "Uma proprietária diz que sua consciência permite não registrar empregados porque ela sempre fez assim e se sente em paz.",
+      "conference_question": "Como distinguir consciência formada de costume pessoal usado para justificar vantagem?",
+      "anchors": [
+        "CEC 1776-1782",
+        "B07"
+      ],
+      "facilitator_note": "Mostre que sentir paz não substitui verdade, justiça e formação moral.",
+      "reading_points": [
+        {
+          "title": "Sentimento insuficiente",
+          "body": "Sentir-se em paz não prova que a decisão seja justa."
+        },
+        {
+          "title": "Capricho conveniente",
+          "body": "O costume pessoal pode proteger uma vantagem indevida."
+        },
+        {
+          "title": "Consciência formada",
+          "body": "A consciência precisa obedecer à verdade sobre o bem devido ao trabalhador."
+        }
+      ]
+    },
+    {
+      "id": "G15",
+      "term_id": "G15",
+      "call_label": "G15 - Misericórdia e banalização",
+      "case": "Um parente agride repetidamente a família; alguns dizem que perdoar significa não impor limite nem buscar ajuda.",
+      "conference_question": "Como a misericórdia cristã pode perdoar sem banalizar o mal nem abandonar as vítimas?",
+      "anchors": [
+        "Jo 8,11",
+        "B15"
+      ],
+      "facilitator_note": "Una perdão, proteção e conversão; não confunda misericórdia com passividade.",
+      "reading_points": [
+        {
+          "title": "Mal repetido",
+          "body": "A agressão contínua exige proteção e limite concreto."
+        },
+        {
+          "title": "Falso perdão",
+          "body": "Banalizar o mal pode deixar vítimas expostas e agressor sem conversão."
+        },
+        {
+          "title": "Misericórdia verdadeira",
+          "body": "Cristo perdoa chamando à mudança real e à vida nova."
+        }
+      ]
+    },
+    {
+      "id": "O01",
+      "term_id": "O01",
+      "call_label": "O01 - Examinar intenção",
+      "case": "Antes de publicar uma crítica dura, uma jornalista relê o texto e percebe que quer mais humilhar o entrevistado do que corrigir a informação falsa.",
+      "conference_question": "Que perguntas concretas ajudam a examinar a intenção antes de agir?",
+      "anchors": [
+        "1Sm 16,7",
+        "B04"
+      ],
+      "facilitator_note": "A resposta não é calar sempre, mas purificar motivo, palavra e finalidade.",
+      "reading_points": [
+        {
+          "title": "Pausa moral",
+          "body": "A pessoa interrompe o impulso antes de transformar intenção torta em ato."
+        },
+        {
+          "title": "Motivo revelado",
+          "body": "Corrigir informação e humilhar alguém não são a mesma finalidade."
+        },
+        {
+          "title": "Olhar de Deus",
+          "body": "Examinar o coração ajuda a agir com verdade e caridade."
+        }
+      ]
+    },
+    {
+      "id": "O02",
+      "term_id": "O02",
+      "call_label": "O02 - Nomear o ato",
+      "case": "Depois de desviar dinheiro do caixa, um funcionário diz que fez apenas uma retirada temporária sem autorização.",
+      "conference_question": "Por que nomear corretamente o ato é o primeiro passo para assumir responsabilidade?",
+      "anchors": [
+        "Gn 3,13",
+        "B12"
+      ],
+      "facilitator_note": "Mostre que linguagem suavizada pode impedir arrependimento e reparação.",
+      "reading_points": [
+        {
+          "title": "Nome trocado",
+          "body": "Retirada temporária sem autorização pode esconder apropriação indevida."
+        },
+        {
+          "title": "Verdade necessária",
+          "body": "Sem nomear o ato, a pessoa manipula a própria consciência."
+        },
+        {
+          "title": "Resposta possível",
+          "body": "Só a verdade abre caminho para perdão, restituição e mudança."
+        }
+      ]
+    },
+    {
+      "id": "O03",
+      "term_id": "O03",
+      "call_label": "O03 - Assumir consequência",
+      "case": "Um motorista bate em um carro estacionado, deixa bilhete com contato e aceita pagar o conserto mesmo sabendo que o seguro ficará mais caro.",
+      "conference_question": "Como assumir consequências justas educa a liberdade depois de um erro?",
+      "anchors": [
+        "Gl 6,7",
+        "B14"
+      ],
+      "facilitator_note": "Valorize a resposta concreta sem transformá-la em heroísmo perfeito.",
+      "reading_points": [
+        {
+          "title": "Dano assumido",
+          "body": "O motorista não foge nem transfere o prejuízo para a vítima."
+        },
+        {
+          "title": "Custo justo",
+          "body": "Pagar o conserto é consequência proporcional ao ato."
+        },
+        {
+          "title": "Liberdade educada",
+          "body": "Responder pelo que se fez fortalece a consciência e a responsabilidade."
+        }
+      ]
+    },
+    {
+      "id": "O04",
+      "term_id": "O04",
+      "call_label": "O04 - Reparar o dano",
+      "case": "Após espalhar uma informação falsa sobre uma comerciante, um homem volta aos mesmos contatos, corrige a mentira e oferece pagar parte do prejuízo comprovado.",
+      "conference_question": "Por que reparação não é apenas sentir culpa, mas agir sobre o dano causado?",
+      "anchors": [
+        "Lc 19,8",
+        "CEC 1459"
+      ],
+      "facilitator_note": "Destaque proporcionalidade: reparar o que for possível, sem prometer controle total dos efeitos.",
+      "reading_points": [
+        {
+          "title": "Dano nomeado",
+          "body": "A mentira atingiu reputação e renda de uma pessoa concreta."
+        },
+        {
+          "title": "Correção ativa",
+          "body": "Voltar aos contatos reduz o alcance do falso testemunho."
+        },
+        {
+          "title": "Justiça prática",
+          "body": "Reparar inclui compensar ou diminuir o mal de modo possível e proporcional."
+        }
+      ]
+    },
+    {
+      "id": "O05",
+      "term_id": "O05",
+      "call_label": "O05 - Pedir perdão",
+      "case": "Depois de humilhar a esposa diante da família, um homem a procura a sós, nomeia o que fez, pede perdão e aceita que ela precise de tempo.",
+      "conference_question": "O que diferencia um pedido de perdão verdadeiro de uma fala que tenta encerrar o assunto rapidamente?",
+      "anchors": [
+        "Mt 5,23-24",
+        "B11"
+      ],
+      "facilitator_note": "Mostre que pedir perdão não dá direito de exigir reconciliação imediata.",
+      "reading_points": [
+        {
+          "title": "Ato concreto",
+          "body": "Ele não diz apenas se magoei, mas reconhece a humilhação praticada."
+        },
+        {
+          "title": "Sem exigência",
+          "body": "Quem pede perdão não controla o tempo da pessoa ferida."
+        },
+        {
+          "title": "Reconciliação séria",
+          "body": "O Evangelho pede procurar o irmão ferido com verdade e humildade."
+        }
+      ]
+    },
+    {
+      "id": "O06",
+      "term_id": "O06",
+      "call_label": "O06 - Confessar o pecado",
+      "case": "Uma pessoa percebe que vinha mentindo para obter vantagem e prepara a Confissão dizendo o pecado sem detalhes inúteis, com propósito de restituir.",
+      "conference_question": "Como a Confissão sacramental une verdade diante de Deus, arrependimento e mudança concreta?",
+      "anchors": [
+        "1Jo 1,8-9",
+        "CEC 1455"
+      ],
+      "facilitator_note": "Fale do sacramento com sobriedade: acusação sincera, contrição e propósito.",
+      "reading_points": [
+        {
+          "title": "Pecado nomeado",
+          "body": "A pessoa não se esconde atrás de frases vagas."
+        },
+        {
+          "title": "Diante de Deus",
+          "body": "A Confissão leva a verdade do coração ao encontro da misericórdia."
+        },
+        {
+          "title": "Propósito real",
+          "body": "Confessar inclui desejo de mudar e reparar o que for possível."
+        }
+      ]
+    },
+    {
+      "id": "O07",
+      "term_id": "O07",
+      "call_label": "O07 - Cortar cooperação",
+      "case": "Ao descobrir que a loja vende peças roubadas, uma cliente cancela a compra, guarda as mensagens e procura orientação sobre como informar o caso.",
+      "conference_question": "Como cortar cooperação com o mal sem agir de modo imprudente ou vingativo?",
+      "anchors": [
+        "CEC 1868",
+        "O02"
+      ],
+      "facilitator_note": "Dê exemplos de cortar participação: não comprar, não repassar, não assinar, não encobrir.",
+      "reading_points": [
+        {
+          "title": "Participação interrompida",
+          "body": "Cancelar a compra impede que o dinheiro alimente o dano."
+        },
+        {
+          "title": "Prova preservada",
+          "body": "Guardar mensagens evita resposta impulsiva e ajuda encaminhamento responsável."
+        },
+        {
+          "title": "Cooperação moral",
+          "body": "A responsabilidade inclui deixar de sustentar estruturas e atos injustos."
+        }
+      ]
+    },
+    {
+      "id": "O08",
+      "term_id": "O08",
+      "call_label": "O08 - Buscar orientação",
+      "case": "Uma filha suspeita de golpe financeiro contra a mãe idosa e, antes de acusar publicamente alguém, procura orientação jurídica e conversa com um familiar prudente.",
+      "conference_question": "Quando buscar orientação é sinal de prudência e não de falta de coragem?",
+      "anchors": [
+        "Pr 11,14",
+        "CEC 1776-1782"
+      ],
+      "facilitator_note": "Mostre que casos complexos pedem conselho competente e sigilo responsável.",
+      "reading_points": [
+        {
+          "title": "Caso complexo",
+          "body": "Há risco real, mas também possibilidade de acusação injusta."
+        },
+        {
+          "title": "Conselho prudente",
+          "body": "Buscar orientação ajuda a agir com prova, proteção e justiça."
+        },
+        {
+          "title": "Consciência formada",
+          "body": "A fé valoriza decisão bem discernida, não impulso disfarçado de coragem."
+        }
+      ]
+    },
+    {
+      "id": "O09",
+      "term_id": "O09",
+      "call_label": "O09 - Proteger vulnerável",
+      "case": "Uma vizinha percebe que um idoso está sendo deixado sem comida e medicação; ela registra datas, chama familiares responsáveis e aciona o serviço competente.",
+      "conference_question": "Que passos tornam a proteção do vulnerável concreta e proporcional?",
+      "anchors": [
+        "Pr 24,11-12",
+        "Mt 25,40"
+      ],
+      "facilitator_note": "Evite incentivar invasão ou exposição; destaque encaminhamento responsável.",
+      "reading_points": [
+        {
+          "title": "Sofrimento concreto",
+          "body": "Fome e falta de remédio colocam o idoso em risco grave."
+        },
+        {
+          "title": "Ação ordenada",
+          "body": "Registrar, avisar responsáveis e acionar serviço competente protege melhor que boato."
+        },
+        {
+          "title": "Cristo no frágil",
+          "body": "A responsabilidade cristã reconhece o Senhor no vulnerável que precisa de cuidado."
+        }
+      ]
+    },
+    {
+      "id": "O10",
+      "term_id": "O10",
+      "call_label": "O10 - Dizer a verdade",
+      "case": "Em uma apuração interna, uma funcionária relata o que viu, separa fatos de suspeitas e evita acrescentar comentários sobre a vida pessoal do acusado.",
+      "conference_question": "Como dizer a verdade com coragem sem cair em calúnia, exagero ou exposição inútil?",
+      "anchors": [
+        "Ef 4,25",
+        "Mt 5,37"
+      ],
+      "facilitator_note": "Trabalhe precisão, necessidade e caridade como critérios da fala.",
+      "reading_points": [
+        {
+          "title": "Fato e suspeita",
+          "body": "Separar o que viu do que imagina protege a verdade."
+        },
+        {
+          "title": "Limite da fala",
+          "body": "Informação íntima irrelevante pode ferir sem ajudar a justiça."
+        },
+        {
+          "title": "Palavra reta",
+          "body": "O cristão é chamado a falar a verdade necessária sem deformá-la."
+        }
+      ]
+    },
+    {
+      "id": "O11",
+      "term_id": "O11",
+      "call_label": "O11 - Restituir o devido",
+      "case": "Depois de receber crédito por um projeto feito por outra pessoa, um funcionário informa a chefia e pede que o reconhecimento seja corrigido.",
+      "conference_question": "Por que restituição pode envolver não só dinheiro, mas também crédito, tempo e reconhecimento?",
+      "anchors": [
+        "Rm 13,7-8",
+        "Lc 19,8"
+      ],
+      "facilitator_note": "Amplie restituição para bens materiais e imateriais.",
+      "reading_points": [
+        {
+          "title": "Bem tomado",
+          "body": "O reconhecimento profissional pertence a quem realizou o trabalho."
+        },
+        {
+          "title": "Correção concreta",
+          "body": "Informar a chefia devolve ao outro o que foi indevidamente recebido."
+        },
+        {
+          "title": "Justiça devida",
+          "body": "Restituir é dar a cada um o que lhe pertence, conforme for possível."
+        }
+      ]
+    },
+    {
+      "id": "O12",
+      "term_id": "O12",
+      "call_label": "O12 - Prevenir ocasião",
+      "case": "Um motorista que já causou brigas e risco após beber deixa a chave com outra pessoa antes da festa e combina voltar de aplicativo.",
+      "conference_question": "Como prevenir ocasião de pecado mostra responsabilidade antes que o dano aconteça?",
+      "anchors": [
+        "Mt 26,41",
+        "B06"
+      ],
+      "facilitator_note": "Mostre prevenção como decisão madura, não como medo sem liberdade.",
+      "reading_points": [
+        {
+          "title": "Risco conhecido",
+          "body": "A pessoa já sabe que beber e dirigir cria perigo previsível."
+        },
+        {
+          "title": "Limite antecipado",
+          "body": "Entregar a chave antes reduz a chance de decisão imprudente depois."
+        },
+        {
+          "title": "Vigiar e orar",
+          "body": "A resposta cristã reconhece fragilidade e prepara meios concretos de fidelidade."
+        }
+      ]
+    },
+    {
+      "id": "O13",
+      "term_id": "O13",
+      "call_label": "O13 - Corrigir com prudência",
+      "case": "Um funcionário vê fraude em notas e marca conversa reservada com o responsável direto, levando dados objetivos e evitando acusação pública imediata.",
+      "conference_question": "Como corrigir um erro com firmeza sem precipitação, exposição indevida ou covardia?",
+      "anchors": [
+        "Mt 18,15-17",
+        "CEC 1806"
+      ],
+      "facilitator_note": "Explique que prudência escolhe ordem, pessoa, momento e prova.",
+      "reading_points": [
+        {
+          "title": "Firmeza",
+          "body": "A fraude não é ignorada nem tratada como detalhe sem importância."
+        },
+        {
+          "title": "Modo proporcional",
+          "body": "A conversa reservada com dados evita espetáculo e injustiça."
+        },
+        {
+          "title": "Correção cristã",
+          "body": "O Evangelho orienta corrigir buscando verdade e recuperação do irmão."
+        }
+      ]
+    },
+    {
+      "id": "O14",
+      "term_id": "O14",
+      "call_label": "O14 - Fazer o bem possível",
+      "case": "Uma moradora não consegue resolver a falta de moradia no bairro, mas leva alimento a uma família despejada e informa onde procurar atendimento social.",
+      "conference_question": "Como agir no bem possível sem fingir que se pode resolver tudo sozinho?",
+      "anchors": [
+        "Tg 4,17",
+        "Mt 25,40-45"
+      ],
+      "facilitator_note": "Evite idealização; destaque ação concreta dentro do alcance real.",
+      "reading_points": [
+        {
+          "title": "Limite real",
+          "body": "A moradora não controla todas as causas da pobreza e da moradia."
+        },
+        {
+          "title": "Bem concreto",
+          "body": "Alimento e informação útil ajudam uma família específica agora."
+        },
+        {
+          "title": "Omissão evitada",
+          "body": "Não poder fazer tudo não autoriza abandonar o bem que se pode fazer."
+        }
+      ]
+    },
+    {
+      "id": "O15",
+      "term_id": "O15",
+      "call_label": "O15 - Recomeçar com disciplina",
+      "case": "Após reconhecer que perde o controle em jogos de aposta, um homem bloqueia aplicativos, entrega cartões à esposa por um tempo e inicia acompanhamento.",
+      "conference_question": "Por que recomeçar exige medidas concretas e não apenas promessa emocionada de mudança?",
+      "anchors": [
+        "Lc 15,17-24",
+        "CEC 1734"
+      ],
+      "facilitator_note": "Mostre disciplina como caminho de liberdade e não como punição sem esperança.",
+      "reading_points": [
+        {
+          "title": "Fragilidade reconhecida",
+          "body": "A pessoa assume que sua vontade está enfraquecida diante da ocasião."
+        },
+        {
+          "title": "Medidas concretas",
+          "body": "Bloqueios, limites financeiros e acompanhamento reduzem risco de recaída."
+        },
+        {
+          "title": "Conversão treinada",
+          "body": "Voltar ao bem exige graça, decisão e formação paciente da liberdade."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "title": "Carta de explicações rápidas — Bingo Emoções e sentimentos",
+  "meeting": "Encontro 15 — Emoções e sentimentos",
+  "source_calls": "data/chamadas.json",
+  "purpose": "Explicações breves para o condutor usar durante a chamada de cada carta.",
+  "entries": [
+    {
+      "id": "B01",
+      "explanation": "As **paixões humanas** são movimentos reais da sensibilidade. Elas inclinam a pessoa para agir ou evitar algo, mas ainda precisam ser discernidas. A fé não manda negar esses movimentos; manda conduzi-los ao bem."
+    },
+    {
+      "id": "B02",
+      "explanation": "**Sentir não é pecado** por si só. O pecado entra quando a pessoa consente, alimenta ou transforma o impulso em ato mau. Essa distinção evita culpa falsa e também evita desculpa fácil."
+    },
+    {
+      "id": "B03",
+      "explanation": "**Razão e vontade** são necessárias para governar os atos. A emoção pode pressionar, mas não deve reinar sozinha. A maturidade cristã aparece quando a pessoa escolhe o bem mesmo sob tensão."
+    },
+    {
+      "id": "B04",
+      "explanation": "O **coração educável** é formado por hábitos, pensamentos e escolhas repetidas. O que se contempla todos os dias molda reações interiores. Fl 4,8 dá um critério claro para alimentar a mente com o que é verdadeiro e justo."
+    },
+    {
+      "id": "B05",
+      "explanation": "O **amor ordena afetos** porque os sentimentos seguem aquilo que o coração considera bem. Quando o amor é egoísta, os afetos se desordenam. Quando busca o bem verdadeiro, até sentimentos difíceis podem servir à caridade."
+    },
+    {
+      "id": "B06",
+      "explanation": "**Cristo angustiado** mostra que tristeza e medo não são indignos de Deus. Jesus levou sua angústia ao Pai e não a transformou em fuga do bem. A resposta cristã une verdade emocional e obediência confiante."
+    },
+    {
+      "id": "B07",
+      "explanation": "A **força na adversidade** não é não sentir peso. É não deixar que o peso destrua a coragem de agir. Pr 24,10 alerta contra o abatimento que paralisa a pessoa no dia difícil."
+    },
+    {
+      "id": "B08",
+      "explanation": "O **pensamento purificado** protege o coração. Fantasias, suspeitas e conteúdos ruins alimentam emoções desordenadas. A fé ensina a ocupar a mente com o verdadeiro, o nobre, o justo e o puro."
+    },
+    {
+      "id": "B09",
+      "explanation": "**Virtude e domínio** não significam frieza. Significam estabilidade para escolher o bem quando o sentimento puxa para outro lado. O domínio de si é parte concreta da liberdade cristã."
+    },
+    {
+      "id": "B10",
+      "explanation": "A **paz como fruto** não depende de tudo estar confortável. Ela nasce quando verdade, caridade e domínio de si começam a ordenar a vida. Não é euforia; é fruto do Espírito."
+    },
+    {
+      "id": "B11",
+      "explanation": "**Ira sem pecado** é possível quando a indignação serve à justiça e não à destruição. A raiva diante do mal precisa ser governada. Quando vira insulto, vingança ou humilhação, já se desordenou."
+    },
+    {
+      "id": "B12",
+      "explanation": "A **tristeza diante do mal** pode ser honesta e humana. Ela reconhece perda, dor ou injustiça. Precisa ser conduzida para não virar fechamento, acídia ou desespero."
+    },
+    {
+      "id": "B13",
+      "explanation": "A **esperança cristã** não é fingir que está tudo bem. É confiar em Deus e agir no real, mesmo quando há medo e tristeza. Ela sustenta o próximo passo sem prometer facilidade."
+    },
+    {
+      "id": "B14",
+      "explanation": "A **graça que integra** alcança a pessoa inteira. Deus não quer apenas ideias corretas, mas coração, corpo, desejo e ação voltados ao bem. A perfeição moral inclui também a sensibilidade educada."
+    },
+    {
+      "id": "B15",
+      "explanation": "O **fim na bem-aventurança** dá critério para julgar emoções e escolhas. Prazer, alívio e ganho imediato não são o último bem. A vida humana deve ser ordenada para Deus e para o bem verdadeiro."
+    },
+    {
+      "id": "I01",
+      "explanation": "A **explosão de raiva** começa com uma emoção real, mas passa para agressão quando fere alguém. A dor ou tensão não desculpa insulto. A resposta cristã exige domínio e reparação quando a palavra feriu."
+    },
+    {
+      "id": "I02",
+      "explanation": "A **ansiedade paralisante** transforma possibilidade em bloqueio. A pessoa deixa de fazer o dever concreto porque vive presa ao medo do futuro. A fé chama a entregar a preocupação e retomar passos proporcionais."
+    },
+    {
+      "id": "I03",
+      "explanation": "A **tristeza escondida** pode parecer força, mas muitas vezes vira isolamento. Negar a dor não a cura. O caminho cristão permite falar com alguém confiável e levar a tristeza a Deus."
+    },
+    {
+      "id": "I04",
+      "explanation": "A **inveja silenciosa** nasce quando o bem do outro parece ameaça ao próprio valor. Se alimentada, pode virar fofoca, calúnia ou sabotagem. O coração precisa aprender a reconhecer o bem alheio sem desejar diminuí-lo."
+    },
+    {
+      "id": "I05",
+      "explanation": "O **medo de rejeição** pode levar a pessoa a calar a verdade ou participar do erro. Pertencer a um grupo não vale mais que a justiça. A coragem cristã deve ser prudente, mas não covarde."
+    },
+    {
+      "id": "I06",
+      "explanation": "O **ciúme controlador** usa insegurança para vigiar e dominar. Amor verdadeiro não exige posse da vida do outro. Quando há controle, a resposta precisa incluir limite claro e proteção."
+    },
+    {
+      "id": "I07",
+      "explanation": "A **vergonha tóxica** confunde erro com perda de dignidade. Ela impede a pessoa de se levantar, pedir perdão e buscar ajuda. A fé nomeia o pecado, mas nunca reduz a pessoa ao pecado."
+    },
+    {
+      "id": "I08",
+      "explanation": "A **alegria desordenada** perde medida e pode virar crueldade. Nem toda diversão é boa só porque provoca riso. A alegria precisa respeitar a dignidade e o bem dos outros."
+    },
+    {
+      "id": "I09",
+      "explanation": "O **cansaço moral** enfraquece a vigilância e aumenta reações injustas. Ele pode explicar fragilidade, mas não autoriza maus-tratos. Descanso, ajuda e ordem também são respostas morais."
+    },
+    {
+      "id": "I10",
+      "explanation": "O **luto sem palavra** fecha a dor dentro da pessoa. A perda precisa de tempo, escuta e oração. A fé cristã permite chorar sem se abandonar ao desespero."
+    },
+    {
+      "id": "I11",
+      "explanation": "O **ressentimento antigo** deixa uma ferida governar o presente. A pessoa passa a reler tudo pelo dano sofrido. Perdoar não é negar o mal, mas parar de alimentar vingança interior."
+    },
+    {
+      "id": "I12",
+      "explanation": "A **atração imprudente** começa quando a pessoa transforma uma atração sentida em ocasião alimentada. O sentimento inicial pode não ser pecado, mas escolhas escondidas já envolvem consentimento. A prudência corta a ambiguidade cedo."
+    },
+    {
+      "id": "I13",
+      "explanation": "O **humor como fuga** usa piadas para evitar verdade e responsabilidade. A leveza pode ajudar, mas não pode substituir uma conversa necessária. Maturidade é falar do que precisa ser enfrentado."
+    },
+    {
+      "id": "I14",
+      "explanation": "A **pressão emocional** manipula culpa, medo ou pena para controlar alguém. Sentimentos legítimos são usados como instrumento de domínio. A resposta cristã pode exigir limite firme e justo."
+    },
+    {
+      "id": "I15",
+      "explanation": "O **vazio depois do prazer** revela que o prazer imediato não basta para saciar o coração. Quando ele deixa desordem, culpa ou apatia, precisa ser discernido. O bem verdadeiro é mais profundo que alívio momentâneo."
+    },
+    {
+      "id": "N01",
+      "explanation": "O **sentimento soberano** é a mentira de que sentir basta para decidir. Emoção nenhuma fica acima da verdade, da caridade e do dever. A fé ensina a escutar o sentimento sem obedecê-lo como senhor."
+    },
+    {
+      "id": "N02",
+      "explanation": "A **ilusão de controle** aparece quando a pessoa afirma domínio, mas os fatos mostram o contrário. Segredo, repetição e dano são sinais sérios. Controle real pede corte de ocasião e ajuda quando necessário."
+    },
+    {
+      "id": "N03",
+      "explanation": "A **repressão virtuosa** confunde santidade com não sentir. Isso endurece a pessoa e esconde feridas que precisam de verdade. Cristo mostra que sentir dor e rezar com ela é humano e santo."
+    },
+    {
+      "id": "N04",
+      "explanation": "A **explosão justificada** usa dor real como licença para ferir. Preocupação, medo ou raiva não autorizam humilhação. A emoção forte exige mais vigilância, não menos responsabilidade."
+    },
+    {
+      "id": "N05",
+      "explanation": "A **tristeza como identidade** transforma uma queda ou perda em definição total da pessoa. Isso fecha a porta da esperança. A fé permite reconhecer a dor sem aceitar a mentira de que a pessoa é o próprio fracasso."
+    },
+    {
+      "id": "N06",
+      "explanation": "A **ansiedade como destino** prende a pessoa no fatalismo. Ela passa a achar inútil rezar, organizar-se ou pedir ajuda. A esperança cristã combate esse fechamento com passos concretos."
+    },
+    {
+      "id": "N07",
+      "explanation": "A **vingança terapêutica** chama de cura o desejo de ferir. Ela promete alívio, mas aumenta a desordem e cria novo mal. Justiça cristã pode exigir reparação, não destruição do outro."
+    },
+    {
+      "id": "N08",
+      "explanation": "**Ciúme prova amor** é uma mentira perigosa. Controle, vigilância e isolamento não são sinais de amor maduro. Amar é querer o bem do outro, respeitando verdade, liberdade e limites."
+    },
+    {
+      "id": "N09",
+      "explanation": "O **prazer como critério** julga o ato apenas pelo que se sente. Isso ignora compromisso, consequência e verdade. A moral cristã pergunta se a escolha conduz ao bem verdadeiro."
+    },
+    {
+      "id": "N10",
+      "explanation": "O **impulso sincero** confunde autenticidade com falta de domínio. Ser espontâneo não torna uma fala justa. A verdade precisa de caridade, prudência e responsabilidade."
+    },
+    {
+      "id": "N11",
+      "explanation": "**Deus não entende** é uma mentira contra a Encarnação. Cristo conheceu tristeza e angústia. Por isso, a dor real pode e deve entrar na oração."
+    },
+    {
+      "id": "N12",
+      "explanation": "**Oração sem ação** usa linguagem religiosa para fugir da responsabilidade. Rezar de verdade não dispensa reparar, pedir ajuda e mudar condutas. A graça não encobre omissão; ela move conversão."
+    },
+    {
+      "id": "N13",
+      "explanation": "**Correção como ataque** fecha a pessoa no orgulho ferido. Nem toda correção é justa, mas toda correção merece exame honesto. Separar ato e pessoa ajuda a crescer sem negar a dignidade."
+    },
+    {
+      "id": "N14",
+      "explanation": "A **culpa do temperamento** transforma dificuldade em licença moral. Temperamento pode influenciar reações, mas não justifica humilhar ou ferir. A virtude educa inclinações e pede reparação."
+    },
+    {
+      "id": "N15",
+      "explanation": "O **desespero disfarçado** chama desistência de lucidez. Ele fecha a pessoa para graça, ajuda e conversão. A esperança cristã não promete facilidade, mas recusa abandonar o bem possível."
+    },
+    {
+      "id": "G01",
+      "explanation": "**Sentir ou consentir** é distinção central. O sentimento pode aparecer sem escolha, mas consentir é acolher, alimentar ou agir segundo ele. Essa distinção forma consciência sem culpa falsa nem permissividade."
+    },
+    {
+      "id": "G02",
+      "explanation": "**Ato e inclinação** não são a mesma coisa. Uma inclinação difícil pode ser sofrida sem ser escolhida. O ato moral envolve decisão, consentimento e responsabilidade."
+    },
+    {
+      "id": "G03",
+      "explanation": "**Emoção e decisão** precisam ser distinguidas. A emoção informa algo, mas não decide sozinha o que é bom. A decisão deve passar pela verdade, pela prudência e pela caridade."
+    },
+    {
+      "id": "G04",
+      "explanation": "**Culpa e responsabilidade** exigem juízo cuidadoso. Um ato pode ser objetivamente mau, mesmo quando medo, hábito ou ignorância diminuem a culpa subjetiva. Isso evita tanto crueldade quanto relativização."
+    },
+    {
+      "id": "G05",
+      "explanation": "**Acolhida e aprovação** não são iguais. A pessoa ferida deve ser recebida com caridade. Mas acolher não significa validar todo desejo, reação ou plano injusto."
+    },
+    {
+      "id": "G06",
+      "explanation": "**Prudência e fuga** podem parecer parecidas por fora. A prudência escolhe meios seguros para cumprir o bem. A fuga evita a verdade, o dever ou a reparação."
+    },
+    {
+      "id": "G07",
+      "explanation": "**Paciência e passividade** precisam ser separadas. Paciência suporta com fortaleza o que não se resolve de imediato. Passividade permite injustiça ou abuso sem resposta proporcional."
+    },
+    {
+      "id": "G08",
+      "explanation": "**Desabafo e exposição** não são a mesma coisa. Falar da dor a alguém confiável pode ajudar. Expor intimidade ou acusar sem justiça transforma dor em novo dano."
+    },
+    {
+      "id": "G09",
+      "explanation": "**Ira justa e vingança** se distinguem pelo fim buscado. A ira justa quer corrigir o mal. A vingança quer fazer o outro sofrer, muitas vezes além da justiça."
+    },
+    {
+      "id": "G10",
+      "explanation": "**Tristeza e acídia** não devem ser confundidas. A tristeza reconhece uma dor real. A acídia abandona o bem por peso interior e precisa ser combatida com humildade, ajuda e fidelidade."
+    },
+    {
+      "id": "G11",
+      "explanation": "**Medo e covardia** são diferentes. O medo pode ser alerta legítimo diante de risco real. A covardia abandona o bem necessário para evitar desconforto ou perigo."
+    },
+    {
+      "id": "G12",
+      "explanation": "**Alegria e euforia** precisam de medida. A alegria reconhece um bem e pode ser santa. A euforia perde prudência e pode ferir pessoas ou destruir responsabilidades."
+    },
+    {
+      "id": "G13",
+      "explanation": "**Sinceridade e verdade** não são idênticas. Dizer o que se sente pode ser apenas descarga emocional. A verdade cristã exige justiça, caridade, proporção e responsabilidade."
+    },
+    {
+      "id": "G14",
+      "explanation": "**Cuidado e controle** se distinguem pela relação com a liberdade do outro. Cuidar protege o bem real da pessoa. Controlar domina, manipula e chama posse de amor."
+    },
+    {
+      "id": "G15",
+      "explanation": "**Misericórdia e banalização** não podem ser confundidas. Misericórdia acolhe a pessoa e abre caminho de conversão. Banalização minimiza o mal e impede reparação."
+    },
+    {
+      "id": "O01",
+      "explanation": "**Nomear o que sente** é um primeiro ato de governo interior. Quem nomeia deixa de estar totalmente misturado com a emoção. A partir daí, pode discernir o que é fato, impulso, tentação ou dever."
+    },
+    {
+      "id": "O02",
+      "explanation": "**Pausar antes de agir** protege a liberdade. A pausa impede que a emoção forte vire palavra, mensagem ou ato desordenado. Ela cria espaço para prudência e oração."
+    },
+    {
+      "id": "O03",
+      "explanation": "**Examinar o pensamento** revela a interpretação que alimenta o sentimento. Muitas emoções crescem em cima de frases falsas ou exageradas. Confrontar o pensamento com a verdade ajuda a ordenar o coração."
+    },
+    {
+      "id": "O04",
+      "explanation": "**Rezar com verdade** é levar a Deus o que realmente se passa no coração. Não é fingir calma nem acusar Deus. É apresentar dor, medo e desejo, pedindo que a vontade do Pai conduza tudo."
+    },
+    {
+      "id": "O05",
+      "explanation": "A **conversa confiável** rompe o isolamento sem transformar a dor em exposição. Ela pede alguém maduro, discreto e capaz de orientar. Nem toda plateia é ajuda; às vezes ajuda é uma pessoa certa."
+    },
+    {
+      "id": "O06",
+      "explanation": "**Confessar desordens** é necessário quando o sentimento foi consentido em pecado. A confissão não é humilhação inútil; é verdade diante da misericórdia. Ela exige arrependimento e propósito concreto."
+    },
+    {
+      "id": "O07",
+      "explanation": "**Reparar palavra ferida** exige assumir o alcance do dano. Uma palavra pública pode precisar de reparação pública. O pedido de desculpa deve ser proporcional, verdadeiro e sem transferência de culpa."
+    },
+    {
+      "id": "O08",
+      "explanation": "**Cortar estímulo nocivo** é prudência concreta. Quem sabe que algo alimenta inveja, raiva, luxúria ou ansiedade não deve brincar com a ocasião. A renúncia protege a liberdade."
+    },
+    {
+      "id": "O09",
+      "explanation": "**Ordenar o descanso** também é questão moral. Cansaço extremo fragiliza paciência, juízo e caridade. Cuidar do ritmo da vida pode ser necessário para não ferir os outros."
+    },
+    {
+      "id": "O10",
+      "explanation": "**Servir apesar do humor** mostra que o bem não depende sempre da vontade sensível. A pessoa pode agir com respeito mesmo sem entusiasmo. Com o tempo, a fidelidade educa também os afetos."
+    },
+    {
+      "id": "O11",
+      "explanation": "**Pedir ajuda competente** é prudência, não vergonha. Sofrimento grave, risco de autodestruição, vício ou descontrole exigem pessoas responsáveis e serviços adequados. A fé não dispensa os meios concretos de proteção da vida."
+    },
+    {
+      "id": "O12",
+      "explanation": "**Estabelecer limite justo** pode ser ato de caridade e justiça. Dizer não, afastar-se ou pedir intervenção não é vingança quando protege o bem. Limite bom é claro, proporcional e verdadeiro."
+    },
+    {
+      "id": "O13",
+      "explanation": "**Alimentar o coração** é escolher o que entra pela mente e pelos sentidos. Conteúdos e conversas formam desejos, medos e reações. Fl 4,8 oferece critério para essa disciplina."
+    },
+    {
+      "id": "O14",
+      "explanation": "**Perdoar sem negar dano** evita dois erros. O primeiro é alimentar vingança; o segundo é fingir que nada aconteceu. O perdão cristão pode caminhar com limite, verdade e reparação."
+    },
+    {
+      "id": "O15",
+      "explanation": "**Decidir pelo bem possível** impede que a pessoa espere sentir perfeição para agir. Muitas vezes o bem começa pequeno: levantar, falar a verdade, cumprir um dever, pedir ajuda. A fortaleza cresce no próximo passo fiel."
+    }
+  ]
+}

@@ -1,0 +1,2041 @@
+{
+  "title": "Chamadas — Bingo Casamento",
+  "meeting": "Encontro 20 — Casamento",
+  "source_terms": "data/termos.json",
+  "method": {
+    "read_order": [
+      "call_label",
+      "case",
+      "reading_points"
+    ],
+    "rule": "A cada carta, anuncie código e conceito, leia o caso e explique brevemente a relação usando a Leitura do caso. Depois as equipes marcam o código, se estiver na cartela.",
+    "conference_rule": "Ao fechar duas linhas válidas, horizontais, verticais ou diagonais, a equipe escolhe uma dessas linhas completas, explica pelo menos três conceitos da linha escolhida e liga pelo menos um deles à base bíblica ou doutrinal do encontro. As duas linhas podem se cruzar. O centro livre já conta como casa marcada para completar linhas, mas não conta como um dos três conceitos explicados."
+  },
+  "cards": [
+    {
+      "id": "B01",
+      "term_id": "B01",
+      "call_label": "B01 - Autor do Matrimônio",
+      "case": "Um casal decide morar junto e diz à família que casamento é apenas uma invenção social antiga, sem verdade própria além do que cada época combina.",
+      "conference_question": "Por que reconhecer Deus como autor do matrimônio muda o modo de avaliar costumes e escolhas sobre casamento?",
+      "anchors": [
+        "CEC 1603",
+        "Gn 2,24",
+        "Mt 19,4-6"
+      ],
+      "facilitator_note": "Mostre que a Igreja não defende apenas uma tradição cultural, mas uma verdade da criação confirmada por Cristo.",
+      "reading_points": [
+        {
+          "title": "Redução cultural",
+          "body": "O caso trata o casamento como costume negociável, sem reconhecer uma estrutura dada pelo Criador."
+        },
+        {
+          "title": "Critério cristão",
+          "body": "A fé afirma que Deus é autor do matrimônio e que sua verdade não depende da moda do momento."
+        },
+        {
+          "title": "Resposta catequética",
+          "body": "A pergunta não é só o que a sociedade aceita, mas o que Deus revelou sobre homem, mulher e aliança."
+        }
+      ]
+    },
+    {
+      "id": "B02",
+      "term_id": "B02",
+      "call_label": "B02 - Aliança matrimonial",
+      "case": "Depois da festa, os dois continuam administrando tudo separadamente, sem projeto comum, sem conversa sobre filhos e sem responsabilidade compartilhada.",
+      "conference_question": "O que diferencia uma aliança matrimonial de uma convivência apenas conveniente ou funcional?",
+      "anchors": [
+        "CEC 1601",
+        "Mt 19,6",
+        "Gn 2,24"
+      ],
+      "facilitator_note": "Conduza para a ideia de comunhão de vida toda, e não apenas cerimônia, moradia ou afeto passageiro.",
+      "reading_points": [
+        {
+          "title": "Vida sem comunhão",
+          "body": "A cena mostra uma união externa, mas sem construção real de vida comum."
+        },
+        {
+          "title": "Aliança estável",
+          "body": "O matrimônio envolve entrega pública, responsabilidade permanente e ordenação ao bem dos cônjuges e dos filhos."
+        },
+        {
+          "title": "Compromisso inteiro",
+          "body": "A aliança pede que tempo, decisões, corpo, dinheiro e futuro sejam assumidos em comum."
+        }
+      ]
+    },
+    {
+      "id": "B03",
+      "term_id": "B03",
+      "call_label": "B03 - Unidade conjugal",
+      "case": "Um homem casado mantém uma segunda relação e diz que consegue amar duas famílias, desde que sustente financeiramente ambas.",
+      "conference_question": "Por que sustento material não torna justa uma duplicidade que fere a unidade conjugal?",
+      "anchors": [
+        "CEC 1601",
+        "CEC 1644",
+        "Mt 19,4-6"
+      ],
+      "facilitator_note": "Evite reduzir a unidade a ciúme; fale de exclusividade própria da aliança matrimonial.",
+      "reading_points": [
+        {
+          "title": "Duplicidade real",
+          "body": "O dinheiro não apaga o fato de haver duas alianças concorrentes."
+        },
+        {
+          "title": "Unidade ferida",
+          "body": "O casamento cristão exige comunhão exclusiva entre um homem e uma mulher."
+        },
+        {
+          "title": "Amor indiviso",
+          "body": "A unidade protege a dignidade dos esposos e impede transformar família em divisão administrada."
+        }
+      ]
+    },
+    {
+      "id": "B04",
+      "term_id": "B04",
+      "call_label": "B04 - Indissolubilidade",
+      "case": "Antes de casar, o casal combina que permanecerá unido apenas enquanto a relação trouxer felicidade e não exigir sacrifícios grandes.",
+      "conference_question": "Como a indissolubilidade corrige a ideia de casamento condicionado ao conforto emocional?",
+      "anchors": [
+        "Mt 19,6",
+        "Mc 10,9",
+        "CEC 1644"
+      ],
+      "facilitator_note": "Explique que a fidelidade cristã não nega dificuldades; ela afirma que a promessa não é descartável.",
+      "reading_points": [
+        {
+          "title": "Promessa condicionada",
+          "body": "O caso coloca uma cláusula de saída antes mesmo da aliança."
+        },
+        {
+          "title": "Vínculo verdadeiro",
+          "body": "Cristo ensina que o que Deus uniu o homem não deve separar."
+        },
+        {
+          "title": "Boa notícia exigente",
+          "body": "A indissolubilidade anuncia que o amor pode ser fiel, com graça, conversão e perseverança."
+        }
+      ]
+    },
+    {
+      "id": "B05",
+      "term_id": "B05",
+      "call_label": "B05 - Uma só carne",
+      "case": "No casamento, cada um toma decisões importantes sozinho: mudança de cidade, gastos altos, uso do corpo e rotina dos filhos entram como escolhas particulares.",
+      "conference_question": "O que muda quando a expressão uma só carne é entendida como comunhão real de vida e não como frase simbólica?",
+      "anchors": [
+        "Gn 2,24",
+        "Mt 19,5-6",
+        "CEC 1605"
+      ],
+      "facilitator_note": "Mostre que corpo, história e decisões entram na aliança sem apagar a pessoa.",
+      "reading_points": [
+        {
+          "title": "Individualismo conjugal",
+          "body": "A cena mostra duas vidas paralelas dentro de uma mesma casa."
+        },
+        {
+          "title": "Comunhão concreta",
+          "body": "Uma só carne envolve unidade de vida, decisões, fidelidade corporal e responsabilidade comum."
+        },
+        {
+          "title": "Não é posse",
+          "body": "Essa comunhão não autoriza controle, mas exige que ninguém viva como solteiro dentro do casamento."
+        }
+      ]
+    },
+    {
+      "id": "B06",
+      "term_id": "B06",
+      "call_label": "B06 - Bem dos cônjuges",
+      "case": "Uma promoção exige mudança brusca de rotina; um dos esposos aceita sem conversar, embora o outro fique sozinho com a casa, os filhos e a própria saúde.",
+      "conference_question": "Que critério ajuda a distinguir ambição legítima de decisão que abandona o bem do cônjuge?",
+      "anchors": [
+        "CEC 1601",
+        "CEC 1643",
+        "Ef 5,21-33"
+      ],
+      "facilitator_note": "Não condene trabalho ou progresso; destaque a ordem dos bens e a responsabilidade conjugal.",
+      "reading_points": [
+        {
+          "title": "Decisão isolada",
+          "body": "A escolha profissional ignora o impacto real sobre o cônjuge."
+        },
+        {
+          "title": "Bem conjugal",
+          "body": "O casamento é ordenado ao bem dos esposos, não apenas à carreira de um deles."
+        },
+        {
+          "title": "Discernir juntos",
+          "body": "A decisão correta precisa considerar cuidado, presença, saúde, filhos e santificação do casal."
+        }
+      ]
+    },
+    {
+      "id": "B07",
+      "term_id": "B07",
+      "call_label": "B07 - Fecundidade",
+      "case": "Um casal afirma que filhos só serão considerados se não afetarem viagens, consumo, liberdade de horários e crescimento financeiro.",
+      "conference_question": "Como distinguir planejamento responsável de fechamento egoísta à fecundidade matrimonial?",
+      "anchors": [
+        "Gn 1,28",
+        "CEC 1604",
+        "CEC 1652"
+      ],
+      "facilitator_note": "Evite simplificações; fale da abertura à vida como parte do sentido do matrimônio.",
+      "reading_points": [
+        {
+          "title": "Filhos condicionados",
+          "body": "A cena mede a vida nova apenas pelo custo ao conforto do casal."
+        },
+        {
+          "title": "Abertura à vida",
+          "body": "A fecundidade pertence à verdade do matrimônio e não é acessório descartável."
+        },
+        {
+          "title": "Responsabilidade generosa",
+          "body": "Planejar não significa fechar o coração, mas discernir diante de Deus com generosidade e prudência."
+        }
+      ]
+    },
+    {
+      "id": "B08",
+      "term_id": "B08",
+      "call_label": "B08 - Educação dos filhos",
+      "case": "Os pais trabalham muito e compram bons recursos, mas dizem que valores, fé e consciência moral são responsabilidade da escola e das telas.",
+      "conference_question": "Por que gerar filhos inclui uma responsabilidade educativa que não pode ser simplesmente terceirizada?",
+      "anchors": [
+        "CEC 1601",
+        "CEC 1653",
+        "Dt 6,6-7"
+      ],
+      "facilitator_note": "Mostre que educação é presença, exemplo e transmissão da fé, não só matrícula e sustento.",
+      "reading_points": [
+        {
+          "title": "Terceirização moral",
+          "body": "O caso mostra pais que sustentam, mas se retiram da formação interior dos filhos."
+        },
+        {
+          "title": "Missão dos pais",
+          "body": "A geração da prole vem unida à educação humana, moral e cristã."
+        },
+        {
+          "title": "Casa como escola de fé",
+          "body": "A família educa por palavra, exemplo, correção, oração e escolhas concretas."
+        }
+      ]
+    },
+    {
+      "id": "B09",
+      "term_id": "B09",
+      "call_label": "B09 - Sacramento da graça",
+      "case": "Um casal de batizados quer festa e registro civil, mas dispensa o sacramento porque acredita que amor maduro não precisa de graça.",
+      "conference_question": "Por que a graça sacramental não diminui o amor humano, mas o cura e fortalece?",
+      "anchors": [
+        "CEC 1601",
+        "CEC 1608",
+        "CEC 1617"
+      ],
+      "facilitator_note": "Explique que sacramento não é decoração religiosa, mas ação de Cristo na vocação matrimonial.",
+      "reading_points": [
+        {
+          "title": "Autossuficiência",
+          "body": "A cena separa amor humano da ajuda de Cristo."
+        },
+        {
+          "title": "Graça necessária",
+          "body": "O Catecismo reconhece a ferida do pecado e a necessidade da graça para realizar a união."
+        },
+        {
+          "title": "Sacramento verdadeiro",
+          "body": "No matrimônio, Cristo dá força para fidelidade, perdão, fecundidade e dom de si."
+        }
+      ]
+    },
+    {
+      "id": "B10",
+      "term_id": "B10",
+      "call_label": "B10 - Vocação ao amor",
+      "case": "Alguém vê o casamento como uma forma de não envelhecer sozinho, ter casa organizada e garantir companhia sem perguntar que entrega isso exigirá.",
+      "conference_question": "O que muda quando o casamento é visto como vocação ao amor e não como solução para carências pessoais?",
+      "anchors": [
+        "CEC 1604",
+        "1Jo 4,8.16",
+        "Ef 5,2"
+      ],
+      "facilitator_note": "Mostre que a vocação matrimonial não começa no uso do outro, mas no chamado a amar.",
+      "reading_points": [
+        {
+          "title": "Busca de utilidade",
+          "body": "O caso transforma o outro em resposta para necessidades pessoais."
+        },
+        {
+          "title": "Chamado ao amor",
+          "body": "Deus criou a pessoa por amor e para amar, não para usar alguém como instrumento."
+        },
+        {
+          "title": "Vocação concreta",
+          "body": "No matrimônio, amar significa entregar-se, cuidar, permanecer e santificar-se com o outro."
+        }
+      ]
+    },
+    {
+      "id": "B11",
+      "term_id": "B11",
+      "call_label": "B11 - Igual dignidade",
+      "case": "Como ganha mais, o marido decide sozinho as compras, as visitas, o uso do carro e até o tratamento médico da esposa.",
+      "conference_question": "Por que diferença de renda, força ou papel familiar não autoriza domínio sobre o outro cônjuge?",
+      "anchors": [
+        "Gn 1,27",
+        "CEC 1605",
+        "Ef 5,21"
+      ],
+      "facilitator_note": "Fale de reciprocidade e dignidade, sem apagar responsabilidades distintas dentro da família.",
+      "reading_points": [
+        {
+          "title": "Poder confundido",
+          "body": "A cena usa renda como justificativa para mandar na pessoa."
+        },
+        {
+          "title": "Dignidade igual",
+          "body": "Homem e mulher são criados à imagem de Deus e possuem igual dignidade."
+        },
+        {
+          "title": "Comunhão sem domínio",
+          "body": "A diferença não deve virar inferiorização, controle ou negação da responsabilidade do outro."
+        }
+      ]
+    },
+    {
+      "id": "B12",
+      "term_id": "B12",
+      "call_label": "B12 - Ferida do pecado",
+      "case": "Após anos de acusações, ciúmes e humilhações, o casal conclui que o casamento em si é impossível, sem reconhecer os pecados que deformaram a relação.",
+      "conference_question": "Como distinguir a verdade do matrimônio das feridas que o pecado introduz nas relações?",
+      "anchors": [
+        "CEC 1606",
+        "CEC 1607",
+        "Gn 3,12"
+      ],
+      "facilitator_note": "Realismo cristão: nomear o pecado sem declarar falsa a vocação matrimonial.",
+      "reading_points": [
+        {
+          "title": "Generalização apressada",
+          "body": "O caso atribui ao casamento aquilo que vem de pecados e desordens concretas."
+        },
+        {
+          "title": "Ferida universal",
+          "body": "O Catecismo reconhece discórdia, dominação, infidelidade e ruptura como efeitos do pecado."
+        },
+        {
+          "title": "Graça e conversão",
+          "body": "A resposta cristã não é negar feridas, mas buscar cura, responsabilidade e graça."
+        }
+      ]
+    },
+    {
+      "id": "B13",
+      "term_id": "B13",
+      "call_label": "B13 - Dom total de si",
+      "case": "Uma esposa percebe que o marido só se aproxima quando quer sexo, comida pronta ou apoio para seus projetos, mas evita qualquer sacrifício por ela.",
+      "conference_question": "Por que o uso conveniente do outro é o contrário do dom total de si no matrimônio?",
+      "anchors": [
+        "Ef 5,25",
+        "CEC 1643",
+        "1Cor 13,5"
+      ],
+      "facilitator_note": "Fale com sobriedade: o corpo e a vida do cônjuge não são serviços disponíveis para consumo.",
+      "reading_points": [
+        {
+          "title": "Uso do cônjuge",
+          "body": "A relação aparece como busca de vantagem, não como entrega recíproca."
+        },
+        {
+          "title": "Dom de si",
+          "body": "O amor conjugal pede totalidade, fidelidade, cuidado e responsabilidade."
+        },
+        {
+          "title": "Critério de Cristo",
+          "body": "O esposo é chamado a amar como Cristo ama, com entrega e não com exploração."
+        }
+      ]
+    },
+    {
+      "id": "B14",
+      "term_id": "B14",
+      "call_label": "B14 - Fidelidade conjugal",
+      "case": "Em viagens de trabalho, uma mulher casada mantém conversas íntimas escondidas e diz que não é traição porque não houve encontro físico.",
+      "conference_question": "Como a fidelidade conjugal envolve mais do que evitar um ato físico de adultério?",
+      "anchors": [
+        "CEC 1646",
+        "Mt 5,27-28",
+        "CEC 2380"
+      ],
+      "facilitator_note": "Explique que fidelidade guarda corpo, imaginação, palavra, tempo e intenção.",
+      "reading_points": [
+        {
+          "title": "Fronteira deslocada",
+          "body": "A pessoa só reconhece traição quando há ato físico, ignorando a infidelidade do coração e da palavra."
+        },
+        {
+          "title": "Aliança inteira",
+          "body": "A fidelidade conjugal compromete a pessoa toda, não apenas uma parte do corpo."
+        },
+        {
+          "title": "Vigilância moral",
+          "body": "Conversas secretas e intimidade indevida precisam ser cortadas antes de destruírem a confiança."
+        }
+      ]
+    },
+    {
+      "id": "B15",
+      "term_id": "B15",
+      "call_label": "B15 - Família e sociedade",
+      "case": "Uma empresa valoriza funcionários disponíveis todas as noites e fins de semana, mesmo quando isso desorganiza casamentos, cuidado dos filhos e presença em casa.",
+      "conference_question": "Por que o bem da família não é assunto meramente privado, mas também social?",
+      "anchors": [
+        "CEC 1603",
+        "Gn 1,28",
+        "CEC 2207"
+      ],
+      "facilitator_note": "Mostre que a família tem impacto público e que estruturas sociais podem favorecê-la ou feri-la.",
+      "reading_points": [
+        {
+          "title": "Pressão estrutural",
+          "body": "A cena mostra uma organização do trabalho que consome a vida familiar."
+        },
+        {
+          "title": "Bem social",
+          "body": "O Catecismo liga a salvação da pessoa e da sociedade ao bem da comunidade conjugal e familiar."
+        },
+        {
+          "title": "Responsabilidade comum",
+          "body": "Família precisa de virtudes pessoais e também de condições sociais que respeitem sua missão."
+        }
+      ]
+    },
+    {
+      "id": "I01",
+      "term_id": "I01",
+      "call_label": "I01 - Noivado sem verdade",
+      "case": "Faltando poucos meses para o casamento, o noivo esconde uma dívida alta e apostas frequentes porque teme que a noiva termine a relação.",
+      "conference_question": "Por que esconder um fato grave antes do casamento fere a liberdade e a verdade da aliança?",
+      "anchors": [
+        "B02",
+        "B13",
+        "Ef 4,25"
+      ],
+      "facilitator_note": "Destaque que amor verdadeiro não manipula o consentimento do outro por medo da consequência.",
+      "reading_points": [
+        {
+          "title": "Consentimento manipulado",
+          "body": "A noiva não pode discernir livremente porque uma informação relevante foi ocultada."
+        },
+        {
+          "title": "Aliança exige verdade",
+          "body": "Casamento não se constrói sobre medo, duplicidade ou cálculo."
+        },
+        {
+          "title": "Resposta necessária",
+          "body": "A verdade precisa ser dita antes da promessa, com responsabilidade e disposição de reparar."
+        }
+      ]
+    },
+    {
+      "id": "I02",
+      "term_id": "I02",
+      "call_label": "I02 - Coabitação improvisada",
+      "case": "Um casal passa a morar junto para economizar aluguel; meses depois, um quer filhos e estabilidade, enquanto o outro insiste que nunca prometeu nada.",
+      "conference_question": "Que injustiças podem surgir quando a convivência assume aparência de casamento sem aliança clara?",
+      "anchors": [
+        "CEC 2391",
+        "B02",
+        "Mt 19,6"
+      ],
+      "facilitator_note": "Não trate como simples problema prático; mostre a ambiguidade moral e a falta de compromisso público.",
+      "reading_points": [
+        {
+          "title": "Ambiguidade construída",
+          "body": "A convivência cria expectativas diferentes sem promessa comum."
+        },
+        {
+          "title": "Compromisso ausente",
+          "body": "Morar junto não equivale à aliança matrimonial diante de Deus e da comunidade."
+        },
+        {
+          "title": "Discernimento sério",
+          "body": "A relação precisa sair da improvisação e enfrentar verdade, castidade, liberdade e sacramento."
+        }
+      ]
+    },
+    {
+      "id": "I03",
+      "term_id": "I03",
+      "call_label": "I03 - Casamento por aparência",
+      "case": "A família já pagou a festa, as fotos estão marcadas e o casal sabe que não quer a mesma vida, mas decide casar para não passar vergonha.",
+      "conference_question": "Por que aparência social não pode substituir liberdade, verdade e consentimento no casamento?",
+      "anchors": [
+        "B02",
+        "B13",
+        "Mt 5,37"
+      ],
+      "facilitator_note": "Mostre que cancelar uma aparência pode ser doloroso, mas prometer sem verdade é mais grave.",
+      "reading_points": [
+        {
+          "title": "Pressão de imagem",
+          "body": "A decisão é guiada pelo medo da vergonha e não pela verdade da aliança."
+        },
+        {
+          "title": "Liberdade ferida",
+          "body": "O matrimônio exige consentimento livre e sério, não encenação social."
+        },
+        {
+          "title": "Coragem moral",
+          "body": "Dizer a verdade antes da promessa é mais justo do que sustentar uma mentira pública."
+        }
+      ]
+    },
+    {
+      "id": "I04",
+      "term_id": "I04",
+      "call_label": "I04 - Infidelidade secreta",
+      "case": "Um homem casado mantém mensagens íntimas com uma colega, apaga tudo ao chegar em casa e se convence de que ninguém está sendo ferido.",
+      "conference_question": "Que feridas existem numa infidelidade secreta mesmo antes de ela se tornar pública?",
+      "anchors": [
+        "B14",
+        "CEC 2380",
+        "Mt 5,27-28"
+      ],
+      "facilitator_note": "Nomeie a traição sem sensacionalismo; o segredo já mostra ruptura da confiança.",
+      "reading_points": [
+        {
+          "title": "Segredo culpado",
+          "body": "Apagar as mensagens revela consciência de que a relação ultrapassou o limite."
+        },
+        {
+          "title": "Adultério do coração",
+          "body": "A fidelidade é ferida antes mesmo de haver descoberta ou ato físico."
+        },
+        {
+          "title": "Corte necessário",
+          "body": "A resposta pede romper a fonte da infidelidade, confessar o pecado e reparar a confiança."
+        }
+      ]
+    },
+    {
+      "id": "I05",
+      "term_id": "I05",
+      "call_label": "I05 - Divórcio banalizado",
+      "case": "Após uma discussão séria sobre dinheiro, amigos aconselham imediatamente a separação definitiva, sem escuta, mediação ou discernimento.",
+      "conference_question": "Como evitar tanto a banalização do divórcio quanto a negação de problemas reais no casal?",
+      "anchors": [
+        "B04",
+        "CEC 2384",
+        "Mt 19,6"
+      ],
+      "facilitator_note": "Aplique equilíbrio: não chamar toda crise de fim, nem ignorar situações graves.",
+      "reading_points": [
+        {
+          "title": "Solução automática",
+          "body": "A reação trata uma crise como prova suficiente de que o vínculo deve acabar."
+        },
+        {
+          "title": "Gravidade do vínculo",
+          "body": "A indissolubilidade impede transformar o divórcio em conselho comum para qualquer frustração."
+        },
+        {
+          "title": "Discernimento real",
+          "body": "Crises pedem verdade, ajuda e responsabilidade, com proteção quando houver risco grave."
+        }
+      ]
+    },
+    {
+      "id": "I06",
+      "term_id": "I06",
+      "call_label": "I06 - Ciúme controlador",
+      "case": "O marido exige senhas, rastreia localização, critica roupas e proíbe a esposa de visitar a mãe porque diz que tudo isso é cuidado.",
+      "conference_question": "Que sinais ajudam a reconhecer quando o ciúme deixou de ser zelo e virou controle?",
+      "anchors": [
+        "B11",
+        "B12",
+        "G11"
+      ],
+      "facilitator_note": "Não romantize ciúme; controle e isolamento são sinais de risco moral e humano.",
+      "reading_points": [
+        {
+          "title": "Cuidado falsificado",
+          "body": "A linguagem de cuidado encobre vigilância e isolamento."
+        },
+        {
+          "title": "Dignidade violada",
+          "body": "A igual dignidade do cônjuge é ferida quando uma pessoa passa a controlar a outra."
+        },
+        {
+          "title": "Limite necessário",
+          "body": "A resposta exige nomear o controle, buscar ajuda e proteger a liberdade responsável."
+        }
+      ]
+    },
+    {
+      "id": "I07",
+      "term_id": "I07",
+      "call_label": "I07 - Filhos como estorvo",
+      "case": "Um casal recebe a notícia de uma gravidez e a primeira reação é tratar a criança apenas como ameaça à carreira, ao apartamento e às viagens planejadas.",
+      "conference_question": "Como reconhecer a gravidade de tratar um filho apenas pelo custo que ele traz?",
+      "anchors": [
+        "B07",
+        "B08",
+        "Gn 1,28"
+      ],
+      "facilitator_note": "Fale com firmeza e cuidado: medo pode existir, mas a vida do filho não pode ser reduzida a obstáculo.",
+      "reading_points": [
+        {
+          "title": "Vida reduzida",
+          "body": "A criança aparece apenas como problema de agenda, dinheiro e conforto."
+        },
+        {
+          "title": "Fecundidade ferida",
+          "body": "O matrimônio é ordenado também à geração e educação dos filhos."
+        },
+        {
+          "title": "Conversão do olhar",
+          "body": "A resposta cristã acolhe a vida e organiza sacrifícios reais sem negar responsabilidades."
+        }
+      ]
+    },
+    {
+      "id": "I08",
+      "term_id": "I08",
+      "call_label": "I08 - Pressão contra filhos",
+      "case": "Numa empresa, a funcionária escuta que uma promoção importante ficará difícil se ela pensar em ter filhos nos próximos anos.",
+      "conference_question": "Por que essa pressão cultural e profissional precisa ser julgada também à luz da dignidade da família?",
+      "anchors": [
+        "B07",
+        "CEC 1652",
+        "Gn 1,28"
+      ],
+      "facilitator_note": "Mostre que a abertura à vida também sofre pressões externas, não apenas decisões íntimas.",
+      "reading_points": [
+        {
+          "title": "Pressão econômica",
+          "body": "A carreira é usada para empurrar a mulher contra a possibilidade de maternidade."
+        },
+        {
+          "title": "Família subordinada",
+          "body": "A lógica do desempenho tenta colocar a fecundidade abaixo da conveniência produtiva."
+        },
+        {
+          "title": "Critério cristão",
+          "body": "A vida familiar deve ser protegida por decisões pessoais e por estruturas sociais mais justas."
+        }
+      ]
+    },
+    {
+      "id": "I09",
+      "term_id": "I09",
+      "call_label": "I09 - Trabalho contra família",
+      "case": "Para manter um padrão de consumo, os dois aceitam jornadas extras constantes e quase não se encontram acordados com os filhos durante a semana.",
+      "conference_question": "Como ordenar trabalho e dinheiro ao bem da família sem desprezar responsabilidades profissionais?",
+      "anchors": [
+        "B06",
+        "B15",
+        "1Tm 5,8"
+      ],
+      "facilitator_note": "Não oponha trabalho e família de modo simplista; a questão é a ordem dos bens.",
+      "reading_points": [
+        {
+          "title": "Ausência normalizada",
+          "body": "O padrão de consumo passa a custar presença conjugal e familiar."
+        },
+        {
+          "title": "Trabalho ordenado",
+          "body": "Trabalhar é responsabilidade, mas deve servir ao bem da casa, não destruí-lo."
+        },
+        {
+          "title": "Revisão concreta",
+          "body": "O casal precisa rever horários, gastos, prioridades e presença real."
+        }
+      ]
+    },
+    {
+      "id": "I10",
+      "term_id": "I10",
+      "call_label": "I10 - Sogros sem limite",
+      "case": "A mãe de um dos cônjuges entra na casa sem avisar, opina nas finanças e decide como o neto deve ser educado, enquanto o casal evita contrariá-la.",
+      "conference_question": "Como respeitar a família de origem sem permitir que ela substitua a unidade do casal?",
+      "anchors": [
+        "Gn 2,24",
+        "B05",
+        "B03"
+      ],
+      "facilitator_note": "Diferencie gratidão aos pais de dependência que impede a nova comunhão matrimonial.",
+      "reading_points": [
+        {
+          "title": "Invasão de fronteira",
+          "body": "A família de origem ocupa decisões que pertencem ao casal."
+        },
+        {
+          "title": "Nova unidade",
+          "body": "Deixar pai e mãe não é desprezar, mas formar uma comunhão própria."
+        },
+        {
+          "title": "Limite respeitoso",
+          "body": "O casal precisa estabelecer limites claros sem humilhação nem ingratidão."
+        }
+      ]
+    },
+    {
+      "id": "I11",
+      "term_id": "I11",
+      "call_label": "I11 - Dívida escondida",
+      "case": "A esposa usa cartões escondidos para manter compras frequentes e só revela a dívida quando o financiamento da casa é recusado.",
+      "conference_question": "Por que a mentira financeira é também ferida moral na comunhão conjugal?",
+      "anchors": [
+        "B06",
+        "B14",
+        "Lc 16,10"
+      ],
+      "facilitator_note": "Mostre que dinheiro não é detalhe neutro quando envolve confiança, justiça e futuro da família.",
+      "reading_points": [
+        {
+          "title": "Segredo financeiro",
+          "body": "A dívida escondida compromete decisões que deveriam ser comuns."
+        },
+        {
+          "title": "Confiança ferida",
+          "body": "Fidelidade conjugal inclui transparência sobre bens, dívidas e prioridades."
+        },
+        {
+          "title": "Reparação prática",
+          "body": "A resposta exige verdade, orçamento, renúncia a gastos e reconstrução da confiança."
+        }
+      ]
+    },
+    {
+      "id": "I12",
+      "term_id": "I12",
+      "call_label": "I12 - Fertilidade ferida",
+      "case": "Após anos tentando ter filhos, o casal entra em acusações silenciosas; cada exame médico vira motivo de vergonha e distância.",
+      "conference_question": "Como a fé ajuda a enfrentar a infertilidade sem culpar a pessoa nem negar a dor?",
+      "anchors": [
+        "B07",
+        "CEC 1654",
+        "G10"
+      ],
+      "facilitator_note": "Conduza com delicadeza: sofrimento real, dignidade preservada e fecundidade mais ampla.",
+      "reading_points": [
+        {
+          "title": "Dor transformada em culpa",
+          "body": "A dificuldade de gerar filhos passa a ferir a comunhão do casal."
+        },
+        {
+          "title": "Dignidade intacta",
+          "body": "Os esposos não valem pela capacidade biológica de ter filhos."
+        },
+        {
+          "title": "Cuidado ético",
+          "body": "A resposta pede acompanhamento, diálogo e abertura à fecundidade que Deus pode pedir."
+        }
+      ]
+    },
+    {
+      "id": "I13",
+      "term_id": "I13",
+      "call_label": "I13 - Violência doméstica",
+      "case": "Depois de uma agressão, o agressor pede desculpas e a família pressiona a vítima a voltar para casa imediatamente para preservar o casamento.",
+      "conference_question": "Como defender o matrimônio sem exigir que uma vítima permaneça em situação de violência?",
+      "anchors": [
+        "B11",
+        "B12",
+        "G07"
+      ],
+      "facilitator_note": "Seja firme: proteção da vítima não contradiz a verdade do matrimônio; violência não é problema menor.",
+      "reading_points": [
+        {
+          "title": "Pressão injusta",
+          "body": "A preservação da aparência é colocada acima da segurança da pessoa ferida."
+        },
+        {
+          "title": "Violência grave",
+          "body": "A agressão contradiz a dignidade do cônjuge e deforma profundamente a relação."
+        },
+        {
+          "title": "Proteção primeiro",
+          "body": "A resposta adequada inclui segurança, ajuda competente, responsabilização e discernimento sério."
+        }
+      ]
+    },
+    {
+      "id": "I14",
+      "term_id": "I14",
+      "call_label": "I14 - Pornografia no casamento",
+      "case": "Um esposo assiste pornografia escondido e depois compara o corpo da esposa com o que vê nas telas, dizendo que isso é apenas fantasia privada.",
+      "conference_question": "Por que a pornografia fere a intimidade conjugal mesmo quando acontece em segredo?",
+      "anchors": [
+        "CEC 2354",
+        "B14",
+        "Mt 5,28"
+      ],
+      "facilitator_note": "Nomeie o problema sem curiosidade indevida; o foco é o olhar deformado e a fidelidade ferida.",
+      "reading_points": [
+        {
+          "title": "Olhar deformado",
+          "body": "A pornografia transforma pessoas em objeto de consumo e comparação."
+        },
+        {
+          "title": "Segredo infiel",
+          "body": "Mesmo escondido, o hábito invade a intimidade e a confiança do casal."
+        },
+        {
+          "title": "Corte e ajuda",
+          "body": "A resposta exige romper o consumo, buscar confissão, apoio e restauração do olhar."
+        }
+      ]
+    },
+    {
+      "id": "I15",
+      "term_id": "I15",
+      "call_label": "I15 - Abandono espiritual",
+      "case": "Os filhos perguntam sobre Deus, mas os pais evitam qualquer conversa de fé e dizem que cada um descobrirá sozinho quando crescer.",
+      "conference_question": "Por que respeitar a liberdade dos filhos não significa abandonar sua formação cristã?",
+      "anchors": [
+        "B09",
+        "B08",
+        "Dt 6,6-7"
+      ],
+      "facilitator_note": "Mostre que educação da fé não é imposição cega, mas responsabilidade dos pais batizados.",
+      "reading_points": [
+        {
+          "title": "Omissão formativa",
+          "body": "A liberdade futura é usada como motivo para não educar agora."
+        },
+        {
+          "title": "Missão dos pais",
+          "body": "A família cristã transmite a fé por palavra, exemplo, oração e vida sacramental."
+        },
+        {
+          "title": "Liberdade bem formada",
+          "body": "A criança precisa receber linguagem, práticas e critérios para poder responder a Deus com maturidade."
+        }
+      ]
+    },
+    {
+      "id": "N01",
+      "term_id": "N01",
+      "call_label": "N01 - Papel passado basta",
+      "case": "Um casal faz casamento civil, festa grande e fotos impecáveis, mas trata fidelidade, fé e filhos como assuntos opcionais que serão vistos depois.",
+      "conference_question": "Como desmontar a ideia de que documento e cerimônia bastam para viver a verdade do matrimônio?",
+      "anchors": [
+        "B02",
+        "B09",
+        "CEC 1601"
+      ],
+      "facilitator_note": "Aponte o formalismo: o problema não é o documento, mas reduzir a aliança a ele.",
+      "reading_points": [
+        {
+          "title": "Forma sem conteúdo",
+          "body": "A cena preserva sinais externos, mas dispensa elementos centrais da aliança."
+        },
+        {
+          "title": "Matrimônio inteiro",
+          "body": "Casamento envolve comunhão de vida, fidelidade, abertura à vida e, entre batizados, sacramento."
+        },
+        {
+          "title": "Conversão concreta",
+          "body": "O papel precisa corresponder a uma vida assumida diante de Deus."
+        }
+      ]
+    },
+    {
+      "id": "N02",
+      "term_id": "N02",
+      "call_label": "N02 - Amor sem promessa",
+      "case": "Alguém diz que ama demais para precisar casar, porque promessa, testemunhas e compromisso público só tornariam a relação menos espontânea.",
+      "conference_question": "Por que o amor verdadeiro não foge da promessa quando deseja entregar a vida?",
+      "anchors": [
+        "B04",
+        "B13",
+        "1Cor 13,7"
+      ],
+      "facilitator_note": "Mostre que promessa não mata o amor; protege a entrega contra a instabilidade dos sentimentos.",
+      "reading_points": [
+        {
+          "title": "Espontaneidade usada",
+          "body": "A fala transforma ausência de compromisso em prova de autenticidade."
+        },
+        {
+          "title": "Promessa necessária",
+          "body": "O amor conjugal pede estabilidade, palavra pública e responsabilidade pelo futuro."
+        },
+        {
+          "title": "Fidelidade concreta",
+          "body": "Prometer não é prisão quando a pessoa escolhe amar com verdade e perseverança."
+        }
+      ]
+    },
+    {
+      "id": "N03",
+      "term_id": "N03",
+      "call_label": "N03 - Até quando der certo",
+      "case": "No brinde do casamento, um convidado brinca que o importante é aproveitar enquanto durar, porque hoje ninguém pode prometer para sempre.",
+      "conference_question": "Que visão de pessoa e de amor está por trás da frase até quando der certo?",
+      "anchors": [
+        "B04",
+        "Mt 19,6",
+        "CEC 1644"
+      ],
+      "facilitator_note": "Use o caso para mostrar que a cultura do provisório parece leve, mas enfraquece a promessa.",
+      "reading_points": [
+        {
+          "title": "Provisório normalizado",
+          "body": "A brincadeira torna comum a desconfiança diante do para sempre."
+        },
+        {
+          "title": "Promessa diminuída",
+          "body": "A indissolubilidade é substituída por um contrato emocional condicionado."
+        },
+        {
+          "title": "Esperança cristã",
+          "body": "Cristo confirma que o amor fiel até a morte é possível com graça e conversão."
+        }
+      ]
+    },
+    {
+      "id": "N04",
+      "term_id": "N04",
+      "call_label": "N04 - Filhos atrapalham",
+      "case": "Numa conversa de família, os filhos são descritos apenas como gasto, perda de liberdade e interrupção dos planos adultos.",
+      "conference_question": "Como responder a essa narrativa sem negar que filhos exigem sacrifícios reais?",
+      "anchors": [
+        "B07",
+        "B08",
+        "CEC 1652"
+      ],
+      "facilitator_note": "Evite romantizar; reconheça sacrifício, mas recuse reduzir filhos a peso.",
+      "reading_points": [
+        {
+          "title": "Sacrifício sem sentido",
+          "body": "A fala enxerga apenas custos e apaga a dignidade da vida recebida."
+        },
+        {
+          "title": "Fecundidade conjugal",
+          "body": "A abertura aos filhos pertence à verdade do matrimônio."
+        },
+        {
+          "title": "Responsabilidade generosa",
+          "body": "Filhos exigem renúncia, mas não são inimigos do amor nem da realização humana."
+        }
+      ]
+    },
+    {
+      "id": "N05",
+      "term_id": "N05",
+      "call_label": "N05 - Meu corpo, minha regra",
+      "case": "Uma pessoa casada mantém práticas sexuais e relações virtuais escondidas, afirmando que o próprio corpo não deve explicações a ninguém.",
+      "conference_question": "Como distinguir dignidade do corpo de falsa autonomia que rompe a aliança matrimonial?",
+      "anchors": [
+        "B05",
+        "B13",
+        "1Cor 6,19-20"
+      ],
+      "facilitator_note": "Explique que ninguém é propriedade do cônjuge, mas a aliança envolve o corpo e exige fidelidade.",
+      "reading_points": [
+        {
+          "title": "Autonomia deformada",
+          "body": "A liberdade corporal é usada para negar a responsabilidade da aliança."
+        },
+        {
+          "title": "Corpo aliado à promessa",
+          "body": "No matrimônio, o corpo participa do dom total de si."
+        },
+        {
+          "title": "Fidelidade encarnada",
+          "body": "Guardar a aliança inclui escolhas concretas sobre sexualidade, intimidade e segredo."
+        }
+      ]
+    },
+    {
+      "id": "N06",
+      "term_id": "N06",
+      "call_label": "N06 - Ciúme prova amor",
+      "case": "Depois de uma cena de gritos e ameaça por ciúme, parentes dizem que pelo menos isso mostra que existe amor forte ali.",
+      "conference_question": "Como distinguir zelo legítimo de ciúme que se tornou posse e violência?",
+      "anchors": [
+        "I06",
+        "B11",
+        "G11"
+      ],
+      "facilitator_note": "Não permita romantização de controle; ciúme agressivo precisa ser nomeado como desordem.",
+      "reading_points": [
+        {
+          "title": "Violência romantizada",
+          "body": "A família interpreta ameaça como intensidade afetiva."
+        },
+        {
+          "title": "Amor não domina",
+          "body": "O amor cristão busca o bem do outro e respeita sua dignidade."
+        },
+        {
+          "title": "Limite claro",
+          "body": "Controle, medo e isolamento não são provas de amor, mas sinais de risco."
+        }
+      ]
+    },
+    {
+      "id": "N07",
+      "term_id": "N07",
+      "call_label": "N07 - Traição discreta não fere",
+      "case": "Uma esposa mantém um relacionamento secreto e diz que o casamento continua bem, porque o marido nunca soube e a rotina da casa não mudou.",
+      "conference_question": "Por que o mal da traição não depende apenas de ser descoberto ou causar escândalo público?",
+      "anchors": [
+        "B14",
+        "I04",
+        "Mt 5,27-28"
+      ],
+      "facilitator_note": "Firmeza sem curiosidade: a questão é a aliança violada diante de Deus.",
+      "reading_points": [
+        {
+          "title": "Dano invisível",
+          "body": "A rotina preservada não significa que a aliança permaneceu íntegra."
+        },
+        {
+          "title": "Verdade violada",
+          "body": "A infidelidade é pecado mesmo quando ninguém a denuncia."
+        },
+        {
+          "title": "Conversão exigida",
+          "body": "O segredo precisa ser rompido com responsabilidade, confissão e reparação."
+        }
+      ]
+    },
+    {
+      "id": "N08",
+      "term_id": "N08",
+      "call_label": "N08 - Divórcio resolve tudo",
+      "case": "Diante de anos de frieza e dívidas, alguém promete que a vida de todos ficará simples se o casal apenas assinar o divórcio.",
+      "conference_question": "Por que essa promessa de solução total pode ser enganosa mesmo quando há problemas reais?",
+      "anchors": [
+        "I05",
+        "B04",
+        "G07"
+      ],
+      "facilitator_note": "Não negue crises graves; critique a simplificação que apaga vínculo, filhos e conversão.",
+      "reading_points": [
+        {
+          "title": "Solução simplificada",
+          "body": "O divórcio é apresentado como cura automática para feridas complexas."
+        },
+        {
+          "title": "Realidade maior",
+          "body": "Há vínculo, filhos, responsabilidades e pecados que não desaparecem com uma assinatura."
+        },
+        {
+          "title": "Discernimento cristão",
+          "body": "A resposta exige verdade, proteção quando necessária e respeito à indissolubilidade."
+        }
+      ]
+    },
+    {
+      "id": "N09",
+      "term_id": "N09",
+      "call_label": "N09 - Casar muda a pessoa",
+      "case": "Durante o noivado, há mentiras, agressividade e bebida em excesso, mas a família insiste que depois do casamento tudo se ajeita.",
+      "conference_question": "Por que esperar que o casamento corrija automaticamente pecados graves é um autoengano perigoso?",
+      "anchors": [
+        "I01",
+        "B12",
+        "O02"
+      ],
+      "facilitator_note": "Mostre que o sacramento não é mágica que dispensa conversão e liberdade responsável.",
+      "reading_points": [
+        {
+          "title": "Sinais ignorados",
+          "body": "Problemas graves são tratados como fase passageira sem conversão concreta."
+        },
+        {
+          "title": "Promessa imprudente",
+          "body": "A aliança não deve ser usada para encobrir vícios, violência ou mentira."
+        },
+        {
+          "title": "Verdade antes",
+          "body": "É preciso discernir, dizer a verdade e buscar ajuda antes de prometer a vida."
+        }
+      ]
+    },
+    {
+      "id": "N10",
+      "term_id": "N10",
+      "call_label": "N10 - Desejo vira direito",
+      "case": "Um homem casado se apaixona por outra pessoa e conclui que, se sente algo tão forte, tem direito de viver isso sem culpa.",
+      "conference_question": "Como distinguir a força de um desejo do direito moral de segui-lo?",
+      "anchors": [
+        "G09",
+        "B13",
+        "Mt 5,28"
+      ],
+      "facilitator_note": "Aponte a diferença entre sentir uma atração e ordenar a vida segundo a aliança.",
+      "reading_points": [
+        {
+          "title": "Sentimento absolutizado",
+          "body": "A intensidade emocional é usada como autorização moral."
+        },
+        {
+          "title": "Desejo discernido",
+          "body": "Nem todo desejo corresponde ao bem verdadeiro da pessoa e da aliança."
+        },
+        {
+          "title": "Fidelidade escolhida",
+          "body": "O caminho cristão ordena sentimentos à promessa, à castidade e à responsabilidade."
+        }
+      ]
+    },
+    {
+      "id": "N11",
+      "term_id": "N11",
+      "call_label": "N11 - Família é contrato",
+      "case": "Num acordo informal, o casal decide que cada um fica enquanto receber vantagens suficientes: dinheiro, companhia, conforto e ausência de conflito.",
+      "conference_question": "O que se perde quando a família é entendida só como contrato de vantagens?",
+      "anchors": [
+        "B15",
+        "B02",
+        "CEC 1603"
+      ],
+      "facilitator_note": "Mostre que contrato tem lugar em certas áreas, mas não define toda a verdade da família.",
+      "reading_points": [
+        {
+          "title": "Lógica de troca",
+          "body": "A permanência é condicionada ao saldo de vantagens."
+        },
+        {
+          "title": "Comunhão reduzida",
+          "body": "Família não é apenas acordo de interesses, mas vocação, aliança e responsabilidade."
+        },
+        {
+          "title": "Bem público",
+          "body": "Quando a família vira contrato descartável, pessoas e sociedade inteira sofrem."
+        }
+      ]
+    },
+    {
+      "id": "N12",
+      "term_id": "N12",
+      "call_label": "N12 - Fé é assunto privado",
+      "case": "No casamento, cada um mantém sua fé escondida e os filhos nunca veem oração, conversa sobre Deus ou participação sacramental em casa.",
+      "conference_question": "Como evitar que a frase fé é assunto privado vire abandono da missão cristã da família?",
+      "anchors": [
+        "I15",
+        "B09",
+        "Dt 6,6-7"
+      ],
+      "facilitator_note": "Diferencie consciência pessoal de omissão na transmissão da fé.",
+      "reading_points": [
+        {
+          "title": "Fé escondida",
+          "body": "Deus fica fora das decisões, da educação dos filhos e da rotina familiar."
+        },
+        {
+          "title": "Sacramento vivido",
+          "body": "O matrimônio cristão não é só interior; ele deve formar uma casa aberta à graça."
+        },
+        {
+          "title": "Testemunho doméstico",
+          "body": "A fé precisa aparecer em oração, escolhas, perdão, domingo e educação dos filhos."
+        }
+      ]
+    },
+    {
+      "id": "N13",
+      "term_id": "N13",
+      "call_label": "N13 - Amor não precisa graça",
+      "case": "Após repetidas quedas na mesma infidelidade, o casal rejeita oração, confissão e ajuda espiritual, dizendo que basta esforço psicológico.",
+      "conference_question": "Por que reconhecer a necessidade da graça não elimina os meios humanos de cuidado, mas os coloca no lugar certo?",
+      "anchors": [
+        "B09",
+        "B12",
+        "CEC 1608"
+      ],
+      "facilitator_note": "Evite oposição falsa entre graça e responsabilidade humana; o sacramento cura e fortalece.",
+      "reading_points": [
+        {
+          "title": "Força própria",
+          "body": "O casal tenta resolver feridas profundas sem recorrer à graça."
+        },
+        {
+          "title": "Pecado real",
+          "body": "A repetição da queda mostra que a vontade ferida precisa de cura e conversão."
+        },
+        {
+          "title": "Graça e meios",
+          "body": "A resposta cristã une sacramentos, verdade, acompanhamento e atitudes concretas."
+        }
+      ]
+    },
+    {
+      "id": "N14",
+      "term_id": "N14",
+      "call_label": "N14 - Liberdade sem vínculo",
+      "case": "Uma pessoa evita qualquer compromisso estável, mas mantém relações profundas e exige do outro presença, exclusividade e cuidado sem prometer nada.",
+      "conference_question": "Por que exigir benefícios de vínculo sem assumir vínculo é uma falsa liberdade?",
+      "anchors": [
+        "B02",
+        "B04",
+        "Gl 5,13"
+      ],
+      "facilitator_note": "Mostre que liberdade cristã não é fuga de responsabilidade, mas capacidade de amar o bem.",
+      "reading_points": [
+        {
+          "title": "Direitos sem promessa",
+          "body": "A pessoa quer receber segurança sem oferecer compromisso."
+        },
+        {
+          "title": "Liberdade deformada",
+          "body": "A recusa de vínculo pode esconder medo, egoísmo ou uso do outro."
+        },
+        {
+          "title": "Amor responsável",
+          "body": "A liberdade madura é capaz de prometer, permanecer e responder por alguém."
+        }
+      ]
+    },
+    {
+      "id": "N15",
+      "term_id": "N15",
+      "call_label": "N15 - Aparência de família",
+      "case": "Nas redes sociais, o casal publica viagens e declarações, mas dentro de casa há humilhação diária e medo de contar a verdade.",
+      "conference_question": "Por que manter aparência pública pode agravar uma ferida familiar em vez de resolvê-la?",
+      "anchors": [
+        "I03",
+        "I13",
+        "Mt 23,27"
+      ],
+      "facilitator_note": "Cuidado para não incentivar exposição pública; a resposta é verdade segura, não espetáculo.",
+      "reading_points": [
+        {
+          "title": "Imagem preservada",
+          "body": "A família sustenta uma vitrine enquanto esconde sofrimento grave."
+        },
+        {
+          "title": "Hipocrisia perigosa",
+          "body": "A aparência impede ajuda, responsabilização e proteção."
+        },
+        {
+          "title": "Verdade prudente",
+          "body": "A resposta não é exposição nas redes, mas buscar apoio seguro e nomear o mal."
+        }
+      ]
+    },
+    {
+      "id": "G01",
+      "term_id": "G01",
+      "call_label": "G01 - Amor e sentimento",
+      "case": "Depois de anos de casamento e cansaço com filhos pequenos, um esposo diz que talvez não ame mais porque não sente a mesma emoção do início.",
+      "conference_question": "Como distinguir perda de intensidade emocional de abandono do amor como decisão fiel?",
+      "anchors": [
+        "B10",
+        "B13",
+        "1Cor 13,4-7"
+      ],
+      "facilitator_note": "Não despreze sentimentos; coloque-os no lugar certo diante da decisão de amar.",
+      "reading_points": [
+        {
+          "title": "Emoção oscilante",
+          "body": "A mudança de sentimento é interpretada como fim automático do amor."
+        },
+        {
+          "title": "Amor como ato",
+          "body": "O amor conjugal inclui decisão, paciência, serviço e fidelidade."
+        },
+        {
+          "title": "Cuidado necessário",
+          "body": "O casal precisa cuidar da relação sem obedecer cegamente às oscilações emocionais."
+        }
+      ]
+    },
+    {
+      "id": "G02",
+      "term_id": "G02",
+      "call_label": "G02 - União e fusão",
+      "case": "Uma esposa abandona toda amizade, opinião e interesse próprio porque o marido diz que casal de verdade deve fazer tudo junto.",
+      "conference_question": "Como a unidade conjugal pode ser defendida sem apagar a consciência e a responsabilidade de cada pessoa?",
+      "anchors": [
+        "B05",
+        "B11",
+        "Gn 2,24"
+      ],
+      "facilitator_note": "Mostre que comunhão não é anulação; fusão pode virar controle disfarçado.",
+      "reading_points": [
+        {
+          "title": "Unidade distorcida",
+          "body": "Fazer tudo junto vira exigência de apagamento pessoal."
+        },
+        {
+          "title": "Pessoa preservada",
+          "body": "Uma só carne não destrói dignidade, consciência e responsabilidade de cada cônjuge."
+        },
+        {
+          "title": "Comunhão madura",
+          "body": "A unidade verdadeira integra diferenças sem transformar o outro em extensão de si."
+        }
+      ]
+    },
+    {
+      "id": "G03",
+      "term_id": "G03",
+      "call_label": "G03 - Pessoa e comportamento",
+      "case": "Após uma traição, familiares dizem que o traidor deve ser tratado como lixo, enquanto outros dizem que ninguém pode julgar nada.",
+      "conference_question": "Como afirmar a dignidade da pessoa sem negar a gravidade do comportamento cometido?",
+      "anchors": [
+        "B11",
+        "B12",
+        "Jo 8,11"
+      ],
+      "facilitator_note": "Conduza a distinção: dignidade permanece, pecado precisa ser nomeado e reparado.",
+      "reading_points": [
+        {
+          "title": "Dois extremos",
+          "body": "Um lado destrói a pessoa; outro apaga o pecado."
+        },
+        {
+          "title": "Dignidade e verdade",
+          "body": "A pessoa não perde valor, mas seu ato pode ser gravemente errado."
+        },
+        {
+          "title": "Conversão possível",
+          "body": "A resposta cristã une correção, responsabilidade, misericórdia e reparação."
+        }
+      ]
+    },
+    {
+      "id": "G04",
+      "term_id": "G04",
+      "call_label": "G04 - Acolhida e aprovação",
+      "case": "Um parente em situação matrimonial irregular volta a participar da vida familiar; alguns querem expulsá-lo, outros exigem que todos digam que nada está errado.",
+      "conference_question": "Como acolher uma pessoa sem transformar acolhida em aprovação automática de toda situação?",
+      "anchors": [
+        "B09",
+        "G03",
+        "Ef 4,15"
+      ],
+      "facilitator_note": "Evite dureza e relativismo; caridade sem verdade vira confusão, verdade sem caridade vira ferida.",
+      "reading_points": [
+        {
+          "title": "Falsa alternativa",
+          "body": "A cena opõe expulsão e aprovação como se fossem as únicas opções."
+        },
+        {
+          "title": "Caridade com verdade",
+          "body": "A pessoa deve ser tratada com dignidade, mas a verdade moral não precisa ser apagada."
+        },
+        {
+          "title": "Caminho pastoral",
+          "body": "A resposta cristã acolhe, escuta e orienta sem banalizar a situação."
+        }
+      ]
+    },
+    {
+      "id": "G05",
+      "term_id": "G05",
+      "call_label": "G05 - Prudência e medo",
+      "case": "Durante o noivado, uma mulher percebe sinais de agressividade, mas evita conversar ou procurar ajuda porque não quer criar problema.",
+      "conference_question": "Como distinguir prudência verdadeira de medo que adia uma verdade necessária?",
+      "anchors": [
+        "O02",
+        "B12",
+        "Pr 27,6"
+      ],
+      "facilitator_note": "Mostre que silêncio pode ser imprudente quando protege a aparência e aumenta o risco.",
+      "reading_points": [
+        {
+          "title": "Silêncio perigoso",
+          "body": "O problema real é evitado para preservar tranquilidade imediata."
+        },
+        {
+          "title": "Prudência ativa",
+          "body": "Prudência avalia risco, busca conselho e age no tempo certo."
+        },
+        {
+          "title": "Verdade antes da promessa",
+          "body": "Noivado exige discernimento sério, não fuga de conflitos necessários."
+        }
+      ]
+    },
+    {
+      "id": "G06",
+      "term_id": "G06",
+      "call_label": "G06 - Perdão e conivência",
+      "case": "Após agressões repetidas, a vítima ouve que, se for cristã de verdade, deve perdoar e voltar sem exigir mudança nem proteção.",
+      "conference_question": "Por que perdão cristão não significa manter-se exposto ao mesmo abuso?",
+      "anchors": [
+        "I13",
+        "O08",
+        "Lc 17,3"
+      ],
+      "facilitator_note": "Diga com clareza que perdão não elimina segurança, justiça e consequências.",
+      "reading_points": [
+        {
+          "title": "Perdão manipulado",
+          "body": "A linguagem religiosa é usada para pressionar a vítima a se expor novamente."
+        },
+        {
+          "title": "Misericórdia sem cumplicidade",
+          "body": "Perdoar não é negar o mal nem dispensar proteção e responsabilização."
+        },
+        {
+          "title": "Resposta segura",
+          "body": "É preciso interromper o abuso, buscar ajuda competente e discernir sem coerção."
+        }
+      ]
+    },
+    {
+      "id": "G07",
+      "term_id": "G07",
+      "call_label": "G07 - Separação e divórcio",
+      "case": "Uma mulher ameaçada sai de casa com os filhos; alguns acusam a decisão de destruir a família, sem considerar o perigo concreto.",
+      "conference_question": "Como distinguir proteção necessária de banalização do divórcio?",
+      "anchors": [
+        "CEC 2383",
+        "B04",
+        "I13"
+      ],
+      "facilitator_note": "Afirme a indissolubilidade e, ao mesmo tempo, a obrigação de proteger vítimas em risco.",
+      "reading_points": [
+        {
+          "title": "Risco concreto",
+          "body": "A saída de casa responde a ameaça real, não a simples incômodo."
+        },
+        {
+          "title": "Proteção legítima",
+          "body": "A separação física pode ser necessária para defender vida e dignidade."
+        },
+        {
+          "title": "Vínculo não banalizado",
+          "body": "Proteger a vítima não transforma o divórcio em ideal nem apaga o vínculo matrimonial válido."
+        }
+      ]
+    },
+    {
+      "id": "G08",
+      "term_id": "G08",
+      "call_label": "G08 - Nulidade e fracasso",
+      "case": "Depois de uma separação, alguém diz que basta pedir nulidade porque o casamento deu errado e a Igreja deveria facilitar outro casamento.",
+      "conference_question": "Por que nulidade não é o mesmo que declarar fracasso ou conceder divórcio religioso?",
+      "anchors": [
+        "B02",
+        "B04",
+        "CEC 1601"
+      ],
+      "facilitator_note": "Explique em linguagem simples: a questão é se houve matrimônio válido desde o início.",
+      "reading_points": [
+        {
+          "title": "Confusão comum",
+          "body": "A nulidade é tratada como solução administrativa para uma relação fracassada."
+        },
+        {
+          "title": "Validade inicial",
+          "body": "A Igreja examina se existiram condições essenciais para o vínculo matrimonial."
+        },
+        {
+          "title": "Verdade do vínculo",
+          "body": "A nulidade não desfaz um casamento válido; reconhece que talvez ele nunca tenha existido validamente."
+        }
+      ]
+    },
+    {
+      "id": "G09",
+      "term_id": "G09",
+      "call_label": "G09 - Desejo e vocação",
+      "case": "Um namoro tem forte atração e muitos planos impulsivos, mas não há fé comum, diálogo sobre filhos, maturidade financeira nem responsabilidade afetiva.",
+      "conference_question": "Por que atração intensa não basta para reconhecer uma vocação matrimonial?",
+      "anchors": [
+        "B10",
+        "B13",
+        "N10"
+      ],
+      "facilitator_note": "Não demonize atração; mostre que vocação exige discernimento mais amplo.",
+      "reading_points": [
+        {
+          "title": "Impulso insuficiente",
+          "body": "O desejo cria pressa, mas não responde às perguntas centrais da vida comum."
+        },
+        {
+          "title": "Vocação discernida",
+          "body": "Casamento exige liberdade, fé, responsabilidade, abertura à vida e capacidade de entrega."
+        },
+        {
+          "title": "Tempo de verdade",
+          "body": "O namoro precisa amadurecer critérios, não apenas alimentar intensidade emocional."
+        }
+      ]
+    },
+    {
+      "id": "G10",
+      "term_id": "G10",
+      "call_label": "G10 - Fecundidade e gravidez",
+      "case": "Um casal infértil escuta que seu casamento é incompleto e que só teria valor se conseguisse gerar filhos biologicamente.",
+      "conference_question": "Como afirmar a abertura à vida sem reduzir a fecundidade à gravidez obtida?",
+      "anchors": [
+        "B07",
+        "I12",
+        "CEC 1654"
+      ],
+      "facilitator_note": "Una doutrina e delicadeza: a abertura à vida é real, mas a dignidade do casal não depende do resultado biológico.",
+      "reading_points": [
+        {
+          "title": "Redução dolorosa",
+          "body": "A fala mede o matrimônio apenas pela capacidade de engravidar."
+        },
+        {
+          "title": "Fecundidade ampla",
+          "body": "A abertura à vida permanece, mas o amor fecundo também se expressa em cuidado, serviço e educação."
+        },
+        {
+          "title": "Esperança responsável",
+          "body": "O casal pode buscar ajuda ética e viver uma fecundidade real mesmo na infertilidade."
+        }
+      ]
+    },
+    {
+      "id": "G11",
+      "term_id": "G11",
+      "call_label": "G11 - Autoridade e dominação",
+      "case": "Um pai decide tudo em casa aos gritos e diz que a Bíblia dá a ele autoridade para ser obedecido sem questionamento.",
+      "conference_question": "Como distinguir autoridade familiar verdadeira de dominação religiosa ou emocional?",
+      "anchors": [
+        "B11",
+        "I06",
+        "Cl 3,19"
+      ],
+      "facilitator_note": "Não permita uso abusivo de linguagem bíblica; autoridade cristã serve e protege.",
+      "reading_points": [
+        {
+          "title": "Autoridade deturpada",
+          "body": "A linguagem religiosa é usada para justificar gritos e submissão cega."
+        },
+        {
+          "title": "Serviço ao bem",
+          "body": "Autoridade verdadeira existe para cuidar, ordenar e proteger, não para humilhar."
+        },
+        {
+          "title": "Dignidade preservada",
+          "body": "No matrimônio cristão, responsabilidade não elimina diálogo, respeito e reciprocidade."
+        }
+      ]
+    },
+    {
+      "id": "G12",
+      "term_id": "G12",
+      "call_label": "G12 - Intimidade e isolamento",
+      "case": "O casal evita qualquer ajuda externa dizendo que problemas de marido e mulher não saem de casa, mesmo quando há medo e sofrimento crescente.",
+      "conference_question": "Como distinguir intimidade legítima do casal de isolamento que impede proteção e correção?",
+      "anchors": [
+        "B05",
+        "I13",
+        "O07"
+      ],
+      "facilitator_note": "Valorize a privacidade sem transformá-la em esconderijo de abuso ou mentira.",
+      "reading_points": [
+        {
+          "title": "Privacidade absolutizada",
+          "body": "A intimidade do casal é usada para bloquear toda ajuda."
+        },
+        {
+          "title": "Isolamento perigoso",
+          "body": "Quando há medo, abuso ou pecado grave, o silêncio pode proteger o mal."
+        },
+        {
+          "title": "Ajuda prudente",
+          "body": "Buscar pessoas competentes não é fofoca; pode ser caminho de proteção e cura."
+        }
+      ]
+    },
+    {
+      "id": "G13",
+      "term_id": "G13",
+      "call_label": "G13 - Sinceridade e crueldade",
+      "case": "Durante uma discussão, a esposa expõe antigas fragilidades do marido e diz que apenas está sendo sincera.",
+      "conference_question": "Quando a verdade deixa de ser correção e se torna crueldade?",
+      "anchors": [
+        "O02",
+        "Ef 4,15",
+        "1Cor 13,5"
+      ],
+      "facilitator_note": "Ensine que a verdade cristã busca conversão, não vitória humilhante.",
+      "reading_points": [
+        {
+          "title": "Verdade usada como arma",
+          "body": "A sinceridade vira justificativa para ferir onde a pessoa é mais vulnerável."
+        },
+        {
+          "title": "Caridade necessária",
+          "body": "A correção deve buscar o bem do outro e da relação."
+        },
+        {
+          "title": "Palavra responsável",
+          "body": "Dizer a verdade exige tempo, modo, finalidade e disposição de reparar."
+        }
+      ]
+    },
+    {
+      "id": "G14",
+      "term_id": "G14",
+      "call_label": "G14 - Misericórdia e banalização",
+      "case": "Depois de uma traição confessada, alguns dizem que todo mundo erra e que não se deve mais tocar no assunto para não parecer falta de perdão.",
+      "conference_question": "Como oferecer misericórdia sem banalizar o pecado nem impedir reparação?",
+      "anchors": [
+        "B12",
+        "B09",
+        "Jo 8,11"
+      ],
+      "facilitator_note": "Mostre que misericórdia abre caminho de conversão; ela não apaga consequências por decreto.",
+      "reading_points": [
+        {
+          "title": "Erro minimizado",
+          "body": "A frase todo mundo erra impede nomear a gravidade do pecado."
+        },
+        {
+          "title": "Misericórdia exigente",
+          "body": "Deus perdoa chamando à conversão, não normalizando a infidelidade."
+        },
+        {
+          "title": "Reparação necessária",
+          "body": "Reconstruir confiança exige verdade, tempo, mudança concreta e graça."
+        }
+      ]
+    },
+    {
+      "id": "G15",
+      "term_id": "G15",
+      "call_label": "G15 - Crise e ruptura",
+      "case": "Após meses de discussões por cansaço e dinheiro, o casal alterna entre fingir que está tudo bem e anunciar que o casamento acabou.",
+      "conference_question": "Como discernir uma crise conjugal sem cair nem na negação nem na ruptura precipitada?",
+      "anchors": [
+        "B04",
+        "B12",
+        "O07"
+      ],
+      "facilitator_note": "Ajude a turma a ver que crise pede leitura concreta, não respostas automáticas.",
+      "reading_points": [
+        {
+          "title": "Extremos inúteis",
+          "body": "O casal passa de negação total a conclusão definitiva sem discernimento."
+        },
+        {
+          "title": "Crise nomeada",
+          "body": "Dificuldades podem revelar pecados, limites e necessidades de ajuda."
+        },
+        {
+          "title": "Caminho prudente",
+          "body": "A resposta pode incluir diálogo, mediação, sacramentos e proteção quando houver risco."
+        }
+      ]
+    },
+    {
+      "id": "O01",
+      "term_id": "O01",
+      "call_label": "O01 - Preparar a vocação",
+      "case": "Um jovem diz que casamento é assunto para muito depois, mas já consome conteúdos, músicas e exemplos que tratam fidelidade como ingenuidade.",
+      "conference_question": "Como alguém se prepara para o matrimônio antes mesmo de estar perto de casar?",
+      "anchors": [
+        "B10",
+        "G09",
+        "CEC 1604"
+      ],
+      "facilitator_note": "Conecte ao público sem reduzir tudo a adolescência: a visão de casamento é formada muito antes da decisão.",
+      "reading_points": [
+        {
+          "title": "Formação silenciosa",
+          "body": "A cultura vai ensinando critérios de amor antes que a pessoa perceba."
+        },
+        {
+          "title": "Vocação exige preparo",
+          "body": "Quem deseja amar bem precisa formar coração, corpo, fé, liberdade e responsabilidade."
+        },
+        {
+          "title": "Escolhas atuais",
+          "body": "Preparar a vocação inclui filtrar referências, aprender doutrina e praticar virtudes."
+        }
+      ]
+    },
+    {
+      "id": "O02",
+      "term_id": "O02",
+      "call_label": "O02 - Dizer a verdade",
+      "case": "Antes do casamento, uma mulher decide contar ao noivo sobre uma dependência antiga que voltou, mesmo sabendo que a conversa pode adiar os planos.",
+      "conference_question": "Por que dizer a verdade pode ser uma forma concreta de amar, mesmo quando traz consequências?",
+      "anchors": [
+        "I01",
+        "B14",
+        "Ef 4,25"
+      ],
+      "facilitator_note": "Mostre que verdade não é crueldade; é condição para liberdade e confiança.",
+      "reading_points": [
+        {
+          "title": "Risco assumido",
+          "body": "A pessoa prefere a verdade a manter o plano por ocultação."
+        },
+        {
+          "title": "Liberdade do outro",
+          "body": "O noivo precisa conhecer fatos relevantes para discernir a aliança."
+        },
+        {
+          "title": "Amor responsável",
+          "body": "Dizer a verdade abre caminho para ajuda, conversão e decisão livre."
+        }
+      ]
+    },
+    {
+      "id": "O03",
+      "term_id": "O03",
+      "call_label": "O03 - Guardar o corpo",
+      "case": "No namoro, os dois percebem que certas situações sempre os levam a ultrapassar limites e decidem mudar horários, lugares e hábitos de tela.",
+      "conference_question": "Como guardar o corpo se torna decisão concreta, e não apenas intenção genérica?",
+      "anchors": [
+        "B05",
+        "B13",
+        "1Cor 6,19-20"
+      ],
+      "facilitator_note": "Fale de castidade de modo sério e prático, sem reduzir a medo ou repressão.",
+      "reading_points": [
+        {
+          "title": "Ocasiões reconhecidas",
+          "body": "O casal identifica situações que facilitam quedas."
+        },
+        {
+          "title": "Corpo com dignidade",
+          "body": "A castidade protege a verdade do corpo e do amor conforme o estado de vida."
+        },
+        {
+          "title": "Limites concretos",
+          "body": "Guardar o corpo exige decisões práticas sobre ambiente, tempo, telas e intimidade."
+        }
+      ]
+    },
+    {
+      "id": "O04",
+      "term_id": "O04",
+      "call_label": "O04 - Escolher limites",
+      "case": "Depois de muitas interferências, o casal combina uma conversa respeitosa com os pais e define que decisões sobre dinheiro e filhos serão tomadas pelos dois.",
+      "conference_question": "Como estabelecer limites sem transformar a família de origem em inimiga?",
+      "anchors": [
+        "I10",
+        "I09",
+        "B03"
+      ],
+      "facilitator_note": "Mostre que limite cristão pode ser firme e respeitoso ao mesmo tempo.",
+      "reading_points": [
+        {
+          "title": "Fronteira assumida",
+          "body": "O casal reconhece que certas decisões pertencem à nova unidade conjugal."
+        },
+        {
+          "title": "Respeito sem submissão",
+          "body": "Honrar os pais não significa entregar a eles o governo da nova casa."
+        },
+        {
+          "title": "Palavra clara",
+          "body": "Limites precisam ser comunicados com firmeza, respeito e constância."
+        }
+      ]
+    },
+    {
+      "id": "O05",
+      "term_id": "O05",
+      "call_label": "O05 - Buscar direção espiritual",
+      "case": "Um casal em noivado sério percebe dúvidas sobre fé, filhos e maturidade; em vez de esconder, procura acompanhamento espiritual e conversa honesta.",
+      "conference_question": "Por que buscar direção espiritual pode proteger a liberdade e não substituí-la?",
+      "anchors": [
+        "B09",
+        "G09",
+        "Pr 11,14"
+      ],
+      "facilitator_note": "Evite apresentar direção como decisão terceirizada; é ajuda para discernir diante de Deus.",
+      "reading_points": [
+        {
+          "title": "Dúvida levada à luz",
+          "body": "O casal não trata questões graves como detalhe vergonhoso."
+        },
+        {
+          "title": "Acompanhamento sério",
+          "body": "Direção espiritual ajuda a ler vocação, pecado, liberdade e graça."
+        },
+        {
+          "title": "Decisão responsável",
+          "body": "A ajuda não decide no lugar do casal, mas favorece uma escolha mais livre e verdadeira."
+        }
+      ]
+    },
+    {
+      "id": "O06",
+      "term_id": "O06",
+      "call_label": "O06 - Rezar como casal",
+      "case": "Depois de meses resolvendo tudo no grito, os esposos combinam uma oração breve diária e uma conversa semanal sem telas antes de decisões importantes.",
+      "conference_question": "Como a oração do casal pode mudar o modo de enfrentar conflitos concretos?",
+      "anchors": [
+        "B09",
+        "I15",
+        "Mt 18,20"
+      ],
+      "facilitator_note": "Não apresente oração como mágica; ela abre o casal à graça e ordena a vontade.",
+      "reading_points": [
+        {
+          "title": "Rotina transformada",
+          "body": "O casal cria espaço real para Deus entrar nas decisões e conflitos."
+        },
+        {
+          "title": "Graça no cotidiano",
+          "body": "O sacramento precisa ser vivido em práticas concretas de oração e conversão."
+        },
+        {
+          "title": "Diálogo ordenado",
+          "body": "A oração ajuda a diminuir dureza, pedir perdão e buscar o bem antes de vencer discussão."
+        }
+      ]
+    },
+    {
+      "id": "O07",
+      "term_id": "O07",
+      "call_label": "O07 - Procurar mediação",
+      "case": "As conversas sobre dinheiro sempre terminam em gritos; o casal procura uma pessoa competente para ajudar a organizar diálogo, orçamento e responsabilidades.",
+      "conference_question": "Quando procurar mediação é sinal de maturidade e não de fracasso do casamento?",
+      "anchors": [
+        "G15",
+        "G12",
+        "Mt 18,15-16"
+      ],
+      "facilitator_note": "Diferencie mediação séria de fofoca ou exposição pública.",
+      "reading_points": [
+        {
+          "title": "Conversa travada",
+          "body": "O casal reconhece que sozinho está repetindo o mesmo conflito."
+        },
+        {
+          "title": "Ajuda proporcional",
+          "body": "Mediação busca ordem, escuta e responsabilidade sem expor a intimidade por vaidade."
+        },
+        {
+          "title": "Caminho de cura",
+          "body": "Pedir ajuda pode preservar a aliança e impedir que a crise cresça."
+        }
+      ]
+    },
+    {
+      "id": "O08",
+      "term_id": "O08",
+      "call_label": "O08 - Romper o abuso",
+      "case": "Uma mulher ameaçada combina um lugar seguro, fala com familiares confiáveis e procura serviço competente antes de comunicar qualquer decisão ao agressor.",
+      "conference_question": "Por que, em situação de abuso, a primeira resposta precisa proteger a vítima e não salvar a aparência da casa?",
+      "anchors": [
+        "I13",
+        "G06",
+        "G07"
+      ],
+      "facilitator_note": "Não dê instruções técnicas perigosas; afirme o princípio de segurança e encaminhamento competente.",
+      "reading_points": [
+        {
+          "title": "Segurança primeiro",
+          "body": "A resposta considera o risco concreto antes de qualquer conversa direta."
+        },
+        {
+          "title": "Abuso nomeado",
+          "body": "Violência não é conflito comum nem dificuldade normal do casamento."
+        },
+        {
+          "title": "Ajuda competente",
+          "body": "Romper o abuso exige rede segura, orientação qualificada e responsabilização do agressor."
+        }
+      ]
+    },
+    {
+      "id": "O09",
+      "term_id": "O09",
+      "call_label": "O09 - Reparar a confiança",
+      "case": "Depois de uma traição, o culpado encerra a relação paralela, entrega senhas necessárias por um tempo combinado, procura confissão e aceita acompanhamento.",
+      "conference_question": "Por que pedir perdão não basta quando a confiança foi gravemente quebrada?",
+      "anchors": [
+        "I04",
+        "B14",
+        "Lc 19,8"
+      ],
+      "facilitator_note": "Explique reparação sem transformar transparência em vigilância infinita ou vingança.",
+      "reading_points": [
+        {
+          "title": "Corte do pecado",
+          "body": "A primeira atitude é interromper a fonte concreta da infidelidade."
+        },
+        {
+          "title": "Responsabilidade assumida",
+          "body": "Reparar inclui aceitar consequências e reconstruir confiança com atos verificáveis."
+        },
+        {
+          "title": "Graça e processo",
+          "body": "Confissão, acompanhamento e tempo ajudam a converter a culpa em mudança real."
+        }
+      ]
+    },
+    {
+      "id": "O10",
+      "term_id": "O10",
+      "call_label": "O10 - Honrar a promessa",
+      "case": "Num período de frieza, os esposos decidem retomar pequenas obrigações de cuidado, evitar conversas íntimas com terceiros e procurar ajuda antes de desistir.",
+      "conference_question": "Como honrar a promessa matrimonial aparece em decisões pequenas e não só em grandes declarações?",
+      "anchors": [
+        "B04",
+        "B14",
+        "Mt 19,6"
+      ],
+      "facilitator_note": "Mostre que perseverança não é passividade; é ação fiel no tempo difícil.",
+      "reading_points": [
+        {
+          "title": "Fidelidade prática",
+          "body": "O casal escolhe atitudes que protegem o vínculo durante a aridez."
+        },
+        {
+          "title": "Promessa concreta",
+          "body": "A indissolubilidade se vive em escolhas de cuidado, limite e busca de ajuda."
+        },
+        {
+          "title": "Perseverança ativa",
+          "body": "Honrar a promessa exige renunciar fugas e trabalhar pela comunhão."
+        }
+      ]
+    },
+    {
+      "id": "O11",
+      "term_id": "O11",
+      "call_label": "O11 - Ordenar o dinheiro",
+      "case": "Depois de dívidas escondidas, o casal reúne extratos, corta gastos supérfluos, define prioridades da casa e combina prestação de contas mensal.",
+      "conference_question": "Como ordenar o dinheiro pode reparar a confiança e servir ao bem da família?",
+      "anchors": [
+        "I11",
+        "B06",
+        "Lc 16,10"
+      ],
+      "facilitator_note": "Concreto e proporcional: orçamento, verdade, renúncia e prioridades familiares.",
+      "reading_points": [
+        {
+          "title": "Verdade financeira",
+          "body": "O casal coloca a realidade na mesa em vez de continuar escondendo prejuízos."
+        },
+        {
+          "title": "Bens ordenados",
+          "body": "O dinheiro deve servir ao bem da casa, não a impulsos isolados."
+        },
+        {
+          "title": "Confiança reconstruída",
+          "body": "Prestação de contas e renúncia ajudam a curar a mentira prática."
+        }
+      ]
+    },
+    {
+      "id": "O12",
+      "term_id": "O12",
+      "call_label": "O12 - Educar para a fé",
+      "case": "Os pais começam a rezar à noite com os filhos, retomam a Missa dominical e conversam sobre escolhas morais da casa com linguagem simples.",
+      "conference_question": "Por que educar para a fé exige práticas constantes e não apenas discursos ocasionais?",
+      "anchors": [
+        "B08",
+        "I15",
+        "Dt 6,6-7"
+      ],
+      "facilitator_note": "Mostre que a fé doméstica se forma por repetição, exemplo e coerência.",
+      "reading_points": [
+        {
+          "title": "Prática visível",
+          "body": "A fé deixa de ser assunto escondido e entra na rotina da casa."
+        },
+        {
+          "title": "Pais responsáveis",
+          "body": "A educação cristã dos filhos pertence à missão da família."
+        },
+        {
+          "title": "Exemplo concreto",
+          "body": "Oração, domingo, sacramentos e conversa moral formam mais que ordens soltas."
+        }
+      ]
+    },
+    {
+      "id": "O13",
+      "term_id": "O13",
+      "call_label": "O13 - Cuidar da fertilidade",
+      "case": "Diante da infertilidade, o casal procura médicos que respeitem a ética cristã, conversa com calma e evita culpar um ao outro.",
+      "conference_question": "Como cuidar da fertilidade com esperança sem transformar o desejo de filhos em desespero ou acusação?",
+      "anchors": [
+        "I12",
+        "G10",
+        "CEC 1654"
+      ],
+      "facilitator_note": "Firmeza doutrinal e delicadeza pastoral: cuidado ético, diálogo e fecundidade ampla.",
+      "reading_points": [
+        {
+          "title": "Dor acompanhada",
+          "body": "O sofrimento é levado a sério sem virar culpa entre os esposos."
+        },
+        {
+          "title": "Ética do cuidado",
+          "body": "Buscar ajuda médica deve respeitar a dignidade da vida e da união conjugal."
+        },
+        {
+          "title": "Fecundidade preservada",
+          "body": "Mesmo na infertilidade, o casal pode viver amor fecundo, serviço e esperança."
+        }
+      ]
+    },
+    {
+      "id": "O14",
+      "term_id": "O14",
+      "call_label": "O14 - Pedir ajuda sacramental",
+      "case": "Um casal em crise procura confissão, retoma a Eucaristia com seriedade e decide preparar uma conversa difícil à luz da fé, não apenas do ressentimento.",
+      "conference_question": "Como os sacramentos ajudam a enfrentar a crise sem substituir as responsabilidades concretas do casal?",
+      "anchors": [
+        "B09",
+        "CEC 1608",
+        "CEC 1617"
+      ],
+      "facilitator_note": "Explique que graça não dispensa ação; ela cura e fortalece para agir melhor.",
+      "reading_points": [
+        {
+          "title": "Graça procurada",
+          "body": "O casal leva a crise a Cristo em vez de depender só de força própria."
+        },
+        {
+          "title": "Conversão pessoal",
+          "body": "Confissão e Eucaristia ordenam a consciência e chamam a reparar pecados."
+        },
+        {
+          "title": "Ação fortalecida",
+          "body": "A ajuda sacramental deve aparecer em palavras, limites, perdão e decisões concretas."
+        }
+      ]
+    },
+    {
+      "id": "O15",
+      "term_id": "O15",
+      "call_label": "O15 - Sustentar famílias",
+      "case": "Uma vizinhança organiza cuidado com crianças, ajuda uma família doente com refeições e encaminha um casal em crise para apoio competente, sem exposição pública.",
+      "conference_question": "Como apoiar famílias de modo concreto sem invadir sua intimidade nem substituir sua responsabilidade?",
+      "anchors": [
+        "B15",
+        "B08",
+        "Gl 6,2"
+      ],
+      "facilitator_note": "Mostre que solidariedade familiar precisa ser prática, discreta e ordenada.",
+      "reading_points": [
+        {
+          "title": "Ajuda real",
+          "body": "O apoio aparece em serviço concreto, não em discurso genérico."
+        },
+        {
+          "title": "Discrição e respeito",
+          "body": "A família é ajudada sem exposição e sem perda de responsabilidade própria."
+        },
+        {
+          "title": "Bem comum",
+          "body": "Sustentar famílias fortalece pessoas, filhos e a sociedade ao redor."
+        }
+      ]
+    }
+  ]
+}

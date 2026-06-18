@@ -1,0 +1,5842 @@
+{
+  "schema": "bingo-catequese/cartelas-manifest.v1",
+  "card_set_id": "bingo_o_respeito_a_saude_24_seed_404_12caeddcb7e8",
+  "card_set_hash": "12caeddcb7e82a0a2ec3b72f3aa76677d6e6b9c8702aeb251c4c968db423e642",
+  "project": {
+    "title": "Bingo — O respeito à saúde",
+    "meeting": "Encontro 25 — O respeito à saúde",
+    "meeting_label": "Encontro 25",
+    "output_slug": "bingo_o_respeito_a_saude",
+    "core_message": "A saúde é dom confiado por Deus: cuidar do corpo com temperança, sem desprezo nem idolatria, é glorificar o Senhor e proteger a própria liberdade e o bem comum."
+  },
+  "generation": {
+    "algorithm": "balanced-column-assignments-v1",
+    "seed": 404,
+    "num_cards": 24,
+    "columns": [
+      "B",
+      "I",
+      "N",
+      "G",
+      "O"
+    ],
+    "grid": "5x5",
+    "center": {
+      "label": "LIVRE / 1Cor 6,19-20",
+      "fixed": true,
+      "called": false
+    },
+    "win_condition": "duas_linhas"
+  },
+  "source_hashes": {
+    "termos.json": "852f447e377e7134d6afa6c5a6e97e575e365f0f507b2f8b03f1822aa49ae11f",
+    "chamadas.json": "e36f92ae42a4d32140013bee8d5f4049e2af3ae3c9e69f75307f99df5e6ce14f",
+    "explicacoes.json": "901b274d9a83f4a07f91e083a4eaf2254acf0c2cd0f01bcaae6e10b531266aed"
+  },
+  "line_model": [
+    {
+      "type": "horizontal",
+      "index": 1,
+      "cells": [
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ]
+      ]
+    },
+    {
+      "type": "horizontal",
+      "index": 2,
+      "cells": [
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ]
+      ]
+    },
+    {
+      "type": "horizontal",
+      "index": 3,
+      "cells": [
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          3,
+          5
+        ]
+      ]
+    },
+    {
+      "type": "horizontal",
+      "index": 4,
+      "cells": [
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          4,
+          5
+        ]
+      ]
+    },
+    {
+      "type": "horizontal",
+      "index": 5,
+      "cells": [
+        [
+          5,
+          1
+        ],
+        [
+          5,
+          2
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          5,
+          4
+        ],
+        [
+          5,
+          5
+        ]
+      ]
+    },
+    {
+      "type": "vertical",
+      "index": 1,
+      "cells": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          5,
+          1
+        ]
+      ]
+    },
+    {
+      "type": "vertical",
+      "index": 2,
+      "cells": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          5,
+          2
+        ]
+      ]
+    },
+    {
+      "type": "vertical",
+      "index": 3,
+      "cells": [
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          5,
+          3
+        ]
+      ]
+    },
+    {
+      "type": "vertical",
+      "index": 4,
+      "cells": [
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          4
+        ]
+      ]
+    },
+    {
+      "type": "vertical",
+      "index": 5,
+      "cells": [
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          5
+        ],
+        [
+          5,
+          5
+        ]
+      ]
+    },
+    {
+      "type": "diagonal",
+      "index": 1,
+      "cells": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          5
+        ]
+      ]
+    },
+    {
+      "type": "diagonal",
+      "index": 2,
+      "cells": [
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          5,
+          1
+        ]
+      ]
+    }
+  ],
+  "print_layout": {
+    "pdf": "output/pdf/cartelas_bingo_24_a4.pdf",
+    "cards_per_page": 2,
+    "page_order": [
+      {
+        "page": 1,
+        "positions": [
+          {
+            "slot": "top",
+            "card_id": "C01"
+          },
+          {
+            "slot": "bottom",
+            "card_id": "C02"
+          }
+        ]
+      },
+      {
+        "page": 2,
+        "positions": [
+          {
+            "slot": "top",
+            "card_id": "C03"
+          },
+          {
+            "slot": "bottom",
+            "card_id": "C04"
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "positions": [
+          {
+            "slot": "top",
+            "card_id": "C05"
+          },
+          {
+            "slot": "bottom",
+            "card_id": "C06"
+          }
+        ]
+      },
+      {
+        "page": 4,
+        "positions": [
+          {
+            "slot": "top",
+            "card_id": "C07"
+          },
+          {
+            "slot": "bottom",
+            "card_id": "C08"
+          }
+        ]
+      },
+      {
+        "page": 5,
+        "positions": [
+          {
+            "slot": "top",
+            "card_id": "C09"
+          },
+          {
+            "slot": "bottom",
+            "card_id": "C10"
+          }
+        ]
+      },
+      {
+        "page": 6,
+        "positions": [
+          {
+            "slot": "top",
+            "card_id": "C11"
+          },
+          {
+            "slot": "bottom",
+            "card_id": "C12"
+          }
+        ]
+      },
+      {
+        "page": 7,
+        "positions": [
+          {
+            "slot": "top",
+            "card_id": "C13"
+          },
+          {
+            "slot": "bottom",
+            "card_id": "C14"
+          }
+        ]
+      },
+      {
+        "page": 8,
+        "positions": [
+          {
+            "slot": "top",
+            "card_id": "C15"
+          },
+          {
+            "slot": "bottom",
+            "card_id": "C16"
+          }
+        ]
+      },
+      {
+        "page": 9,
+        "positions": [
+          {
+            "slot": "top",
+            "card_id": "C17"
+          },
+          {
+            "slot": "bottom",
+            "card_id": "C18"
+          }
+        ]
+      },
+      {
+        "page": 10,
+        "positions": [
+          {
+            "slot": "top",
+            "card_id": "C19"
+          },
+          {
+            "slot": "bottom",
+            "card_id": "C20"
+          }
+        ]
+      },
+      {
+        "page": 11,
+        "positions": [
+          {
+            "slot": "top",
+            "card_id": "C21"
+          },
+          {
+            "slot": "bottom",
+            "card_id": "C22"
+          }
+        ]
+      },
+      {
+        "page": 12,
+        "positions": [
+          {
+            "slot": "top",
+            "card_id": "C23"
+          },
+          {
+            "slot": "bottom",
+            "card_id": "C24"
+          }
+        ]
+      }
+    ]
+  },
+  "cards": [
+    {
+      "id": "C01",
+      "number": 1,
+      "term_ids": [
+        "B03",
+        "I15",
+        "N06",
+        "G12",
+        "O13",
+        "B12",
+        "I05",
+        "N13",
+        "G11",
+        "O03",
+        "B04",
+        "I04",
+        "G02",
+        "O02",
+        "B11",
+        "I06",
+        "N15",
+        "G14",
+        "O11",
+        "B05",
+        "I02",
+        "N12",
+        "G03",
+        "O04"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B03",
+            "column": "B",
+            "label": "Dignidade do corpo"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I15",
+            "column": "I",
+            "label": "Exposição do doente"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N06",
+            "column": "N",
+            "label": "Todo mundo usa"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G12",
+            "column": "G",
+            "label": "Risco e liberdade"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O13",
+            "column": "O",
+            "label": "Treino com medida"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B12",
+            "column": "B",
+            "label": "Cooperação com o mal"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I05",
+            "column": "I",
+            "label": "Vape habitual"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N13",
+            "column": "N",
+            "label": "Velocidade sem culpa"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G11",
+            "column": "G",
+            "label": "Prudência e omissão"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O03",
+            "column": "O",
+            "label": "Cortar substância"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B04",
+            "column": "B",
+            "label": "Temperança"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I04",
+            "column": "I",
+            "label": "Anabolizante oculto"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G02",
+            "column": "G",
+            "label": "Saúde ou idolatria"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O02",
+            "column": "O",
+            "label": "Pedir ajuda familiar"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B11",
+            "column": "B",
+            "label": "Sobriedade"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I06",
+            "column": "I",
+            "label": "Bebida ao volante"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N15",
+            "column": "N",
+            "label": "Espírito contra corpo"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G14",
+            "column": "G",
+            "label": "Ajuda e controle"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O11",
+            "column": "O",
+            "label": "Falar sem humilhar"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B05",
+            "column": "B",
+            "label": "Justo cuidado"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I02",
+            "column": "I",
+            "label": "Dieta extrema"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N12",
+            "column": "N",
+            "label": "Força como dignidade"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G03",
+            "column": "G",
+            "label": "Prazer ou domínio"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O04",
+            "column": "O",
+            "label": "Rever sono"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C02",
+      "number": 2,
+      "term_ids": [
+        "B01",
+        "I02",
+        "N12",
+        "G14",
+        "O01",
+        "B13",
+        "I09",
+        "N15",
+        "G06",
+        "O05",
+        "B15",
+        "I13",
+        "G02",
+        "O09",
+        "B02",
+        "I08",
+        "N09",
+        "G03",
+        "O07",
+        "B11",
+        "I12",
+        "N08",
+        "G01",
+        "O12"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B01",
+            "column": "B",
+            "label": "Corpo templo"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I02",
+            "column": "I",
+            "label": "Dieta extrema"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N12",
+            "column": "N",
+            "label": "Força como dignidade"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G14",
+            "column": "G",
+            "label": "Ajuda e controle"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O01",
+            "column": "O",
+            "label": "Procurar atendimento"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B13",
+            "column": "B",
+            "label": "Vulnerabilidade humana"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I09",
+            "column": "I",
+            "label": "Jejum por aparência"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N15",
+            "column": "N",
+            "label": "Espírito contra corpo"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G06",
+            "column": "G",
+            "label": "Descanso ou fuga"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O05",
+            "column": "O",
+            "label": "Organizar refeições"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B15",
+            "column": "B",
+            "label": "Glorificar no corpo"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I13",
+            "column": "I",
+            "label": "Fila de tratamento"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G02",
+            "column": "G",
+            "label": "Saúde ou idolatria"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O09",
+            "column": "O",
+            "label": "Denunciar tráfico"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B02",
+            "column": "B",
+            "label": "Saúde como dom"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I08",
+            "column": "I",
+            "label": "Automedicação perigosa"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N09",
+            "column": "N",
+            "label": "Dor escondida"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G03",
+            "column": "G",
+            "label": "Prazer ou domínio"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O07",
+            "column": "O",
+            "label": "Recusar carona bêbada"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B11",
+            "column": "B",
+            "label": "Sobriedade"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I12",
+            "column": "I",
+            "label": "Trabalho sem segurança"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N08",
+            "column": "N",
+            "label": "Bebida prova maturidade"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G01",
+            "column": "G",
+            "label": "Cuidado ou vaidade"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O12",
+            "column": "O",
+            "label": "Buscar confissão"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C03",
+      "number": 3,
+      "term_ids": [
+        "B09",
+        "I02",
+        "N04",
+        "G02",
+        "O10",
+        "B11",
+        "I10",
+        "N11",
+        "G11",
+        "O14",
+        "B15",
+        "I12",
+        "G03",
+        "O12",
+        "B06",
+        "I11",
+        "N14",
+        "G12",
+        "O08",
+        "B13",
+        "I08",
+        "N05",
+        "G14",
+        "O09"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B09",
+            "column": "B",
+            "label": "Corpo não absoluto"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I02",
+            "column": "I",
+            "label": "Dieta extrema"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N04",
+            "column": "N",
+            "label": "Performance idolatrada"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G02",
+            "column": "G",
+            "label": "Saúde ou idolatria"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O10",
+            "column": "O",
+            "label": "Acompanhar o doente"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B11",
+            "column": "B",
+            "label": "Sobriedade"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I10",
+            "column": "I",
+            "label": "Desperdício de alimento"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N11",
+            "column": "N",
+            "label": "Magreza como valor"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G11",
+            "column": "G",
+            "label": "Prudência e omissão"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O14",
+            "column": "O",
+            "label": "Reparar desperdício"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B15",
+            "column": "B",
+            "label": "Glorificar no corpo"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I12",
+            "column": "I",
+            "label": "Trabalho sem segurança"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G03",
+            "column": "G",
+            "label": "Prazer ou domínio"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O12",
+            "column": "O",
+            "label": "Buscar confissão"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B06",
+            "column": "B",
+            "label": "Gratidão pelo alimento"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I11",
+            "column": "I",
+            "label": "Sedentarismo fechado"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N14",
+            "column": "N",
+            "label": "Mercado manda"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G12",
+            "column": "G",
+            "label": "Risco e liberdade"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O08",
+            "column": "O",
+            "label": "Não repassar oferta"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B13",
+            "column": "B",
+            "label": "Vulnerabilidade humana"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I08",
+            "column": "I",
+            "label": "Automedicação perigosa"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N05",
+            "column": "N",
+            "label": "Só desta vez"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G14",
+            "column": "G",
+            "label": "Ajuda e controle"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O09",
+            "column": "O",
+            "label": "Denunciar tráfico"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C04",
+      "number": 4,
+      "term_ids": [
+        "B14",
+        "I09",
+        "N10",
+        "G01",
+        "O01",
+        "B12",
+        "I14",
+        "N11",
+        "G07",
+        "O06",
+        "B15",
+        "I12",
+        "G11",
+        "O05",
+        "B01",
+        "I08",
+        "N01",
+        "G04",
+        "O07",
+        "B02",
+        "I06",
+        "N08",
+        "G05",
+        "O15"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B14",
+            "column": "B",
+            "label": "Pudor e respeito"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I09",
+            "column": "I",
+            "label": "Jejum por aparência"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N10",
+            "column": "N",
+            "label": "Corpo descartável"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G01",
+            "column": "G",
+            "label": "Cuidado ou vaidade"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O01",
+            "column": "O",
+            "label": "Procurar atendimento"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B12",
+            "column": "B",
+            "label": "Cooperação com o mal"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I14",
+            "column": "I",
+            "label": "Tráfico na vizinhança"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N11",
+            "column": "N",
+            "label": "Magreza como valor"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G07",
+            "column": "G",
+            "label": "Disciplina ou obsessão"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O06",
+            "column": "O",
+            "label": "Limitar telas à noite"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B15",
+            "column": "B",
+            "label": "Glorificar no corpo"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I12",
+            "column": "I",
+            "label": "Trabalho sem segurança"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G11",
+            "column": "G",
+            "label": "Prudência e omissão"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O05",
+            "column": "O",
+            "label": "Organizar refeições"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B01",
+            "column": "B",
+            "label": "Corpo templo"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I08",
+            "column": "I",
+            "label": "Automedicação perigosa"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N01",
+            "column": "N",
+            "label": "Ilusão de controle"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G04",
+            "column": "G",
+            "label": "Necessidade ou excesso"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O07",
+            "column": "O",
+            "label": "Recusar carona bêbada"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B02",
+            "column": "B",
+            "label": "Saúde como dom"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I06",
+            "column": "I",
+            "label": "Bebida ao volante"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N08",
+            "column": "N",
+            "label": "Bebida prova maturidade"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G05",
+            "column": "G",
+            "label": "Terapia ou abuso"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O15",
+            "column": "O",
+            "label": "Limite do cuidador"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C05",
+      "number": 5,
+      "term_ids": [
+        "B03",
+        "I15",
+        "N04",
+        "G13",
+        "O06",
+        "B06",
+        "I05",
+        "N02",
+        "G10",
+        "O05",
+        "B05",
+        "I14",
+        "G08",
+        "O02",
+        "B12",
+        "I06",
+        "N05",
+        "G15",
+        "O11",
+        "B14",
+        "I12",
+        "N09",
+        "G03",
+        "O10"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B03",
+            "column": "B",
+            "label": "Dignidade do corpo"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I15",
+            "column": "I",
+            "label": "Exposição do doente"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N04",
+            "column": "N",
+            "label": "Performance idolatrada"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G13",
+            "column": "G",
+            "label": "Corpo e identidade"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O06",
+            "column": "O",
+            "label": "Limitar telas à noite"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B06",
+            "column": "B",
+            "label": "Gratidão pelo alimento"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I05",
+            "column": "I",
+            "label": "Vape habitual"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N02",
+            "column": "N",
+            "label": "Falsa autonomia"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G10",
+            "column": "G",
+            "label": "Acolhida e aprovação"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O05",
+            "column": "O",
+            "label": "Organizar refeições"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B05",
+            "column": "B",
+            "label": "Justo cuidado"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I14",
+            "column": "I",
+            "label": "Tráfico na vizinhança"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G08",
+            "column": "G",
+            "label": "Ato e pessoa"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O02",
+            "column": "O",
+            "label": "Pedir ajuda familiar"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B12",
+            "column": "B",
+            "label": "Cooperação com o mal"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I06",
+            "column": "I",
+            "label": "Bebida ao volante"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N05",
+            "column": "N",
+            "label": "Só desta vez"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G15",
+            "column": "G",
+            "label": "Bem próprio e comum"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O11",
+            "column": "O",
+            "label": "Falar sem humilhar"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B14",
+            "column": "B",
+            "label": "Pudor e respeito"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I12",
+            "column": "I",
+            "label": "Trabalho sem segurança"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N09",
+            "column": "N",
+            "label": "Dor escondida"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G03",
+            "column": "G",
+            "label": "Prazer ou domínio"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O10",
+            "column": "O",
+            "label": "Acompanhar o doente"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C06",
+      "number": 6,
+      "term_ids": [
+        "B14",
+        "I01",
+        "N13",
+        "G09",
+        "O05",
+        "B12",
+        "I05",
+        "N03",
+        "G06",
+        "O02",
+        "B05",
+        "I14",
+        "G05",
+        "O10",
+        "B04",
+        "I06",
+        "N06",
+        "G10",
+        "O11",
+        "B10",
+        "I08",
+        "N07",
+        "G01",
+        "O06"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B14",
+            "column": "B",
+            "label": "Pudor e respeito"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I01",
+            "column": "I",
+            "label": "Noites sem descanso"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N13",
+            "column": "N",
+            "label": "Velocidade sem culpa"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G09",
+            "column": "G",
+            "label": "Culpa e fragilidade"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O05",
+            "column": "O",
+            "label": "Organizar refeições"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B12",
+            "column": "B",
+            "label": "Cooperação com o mal"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I05",
+            "column": "I",
+            "label": "Vape habitual"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N03",
+            "column": "N",
+            "label": "Culto da aparência"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G06",
+            "column": "G",
+            "label": "Descanso ou fuga"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O02",
+            "column": "O",
+            "label": "Pedir ajuda familiar"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B05",
+            "column": "B",
+            "label": "Justo cuidado"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I14",
+            "column": "I",
+            "label": "Tráfico na vizinhança"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G05",
+            "column": "G",
+            "label": "Terapia ou abuso"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O10",
+            "column": "O",
+            "label": "Acompanhar o doente"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B04",
+            "column": "B",
+            "label": "Temperança"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I06",
+            "column": "I",
+            "label": "Bebida ao volante"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N06",
+            "column": "N",
+            "label": "Todo mundo usa"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G10",
+            "column": "G",
+            "label": "Acolhida e aprovação"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O11",
+            "column": "O",
+            "label": "Falar sem humilhar"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B10",
+            "column": "B",
+            "label": "Pecado de excesso"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I08",
+            "column": "I",
+            "label": "Automedicação perigosa"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N07",
+            "column": "N",
+            "label": "Remédio é inofensivo"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G01",
+            "column": "G",
+            "label": "Cuidado ou vaidade"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O06",
+            "column": "O",
+            "label": "Limitar telas à noite"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C07",
+      "number": 7,
+      "term_ids": [
+        "B05",
+        "I07",
+        "N08",
+        "G07",
+        "O03",
+        "B15",
+        "I08",
+        "N12",
+        "G04",
+        "O05",
+        "B06",
+        "I11",
+        "G13",
+        "O12",
+        "B08",
+        "I04",
+        "N03",
+        "G02",
+        "O08",
+        "B07",
+        "I10",
+        "N15",
+        "G11",
+        "O15"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B05",
+            "column": "B",
+            "label": "Justo cuidado"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I07",
+            "column": "I",
+            "label": "Remédio sem prescrição"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N08",
+            "column": "N",
+            "label": "Bebida prova maturidade"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G07",
+            "column": "G",
+            "label": "Disciplina ou obsessão"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O03",
+            "column": "O",
+            "label": "Cortar substância"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B15",
+            "column": "B",
+            "label": "Glorificar no corpo"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I08",
+            "column": "I",
+            "label": "Automedicação perigosa"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N12",
+            "column": "N",
+            "label": "Força como dignidade"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G04",
+            "column": "G",
+            "label": "Necessidade ou excesso"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O05",
+            "column": "O",
+            "label": "Organizar refeições"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B06",
+            "column": "B",
+            "label": "Gratidão pelo alimento"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I11",
+            "column": "I",
+            "label": "Sedentarismo fechado"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G13",
+            "column": "G",
+            "label": "Corpo e identidade"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O12",
+            "column": "O",
+            "label": "Buscar confissão"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B08",
+            "column": "B",
+            "label": "Bem comum da saúde"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I04",
+            "column": "I",
+            "label": "Anabolizante oculto"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N03",
+            "column": "N",
+            "label": "Culto da aparência"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G02",
+            "column": "G",
+            "label": "Saúde ou idolatria"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O08",
+            "column": "O",
+            "label": "Não repassar oferta"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B07",
+            "column": "B",
+            "label": "Liberdade sob domínio"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I10",
+            "column": "I",
+            "label": "Desperdício de alimento"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N15",
+            "column": "N",
+            "label": "Espírito contra corpo"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G11",
+            "column": "G",
+            "label": "Prudência e omissão"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O15",
+            "column": "O",
+            "label": "Limite do cuidador"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C08",
+      "number": 8,
+      "term_ids": [
+        "B01",
+        "I13",
+        "N01",
+        "G07",
+        "O10",
+        "B11",
+        "I01",
+        "N08",
+        "G13",
+        "O07",
+        "B05",
+        "I05",
+        "G06",
+        "O09",
+        "B10",
+        "I15",
+        "N11",
+        "G15",
+        "O06",
+        "B07",
+        "I07",
+        "N09",
+        "G04",
+        "O14"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B01",
+            "column": "B",
+            "label": "Corpo templo"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I13",
+            "column": "I",
+            "label": "Fila de tratamento"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N01",
+            "column": "N",
+            "label": "Ilusão de controle"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G07",
+            "column": "G",
+            "label": "Disciplina ou obsessão"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O10",
+            "column": "O",
+            "label": "Acompanhar o doente"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B11",
+            "column": "B",
+            "label": "Sobriedade"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I01",
+            "column": "I",
+            "label": "Noites sem descanso"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N08",
+            "column": "N",
+            "label": "Bebida prova maturidade"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G13",
+            "column": "G",
+            "label": "Corpo e identidade"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O07",
+            "column": "O",
+            "label": "Recusar carona bêbada"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B05",
+            "column": "B",
+            "label": "Justo cuidado"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I05",
+            "column": "I",
+            "label": "Vape habitual"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G06",
+            "column": "G",
+            "label": "Descanso ou fuga"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O09",
+            "column": "O",
+            "label": "Denunciar tráfico"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B10",
+            "column": "B",
+            "label": "Pecado de excesso"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I15",
+            "column": "I",
+            "label": "Exposição do doente"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N11",
+            "column": "N",
+            "label": "Magreza como valor"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G15",
+            "column": "G",
+            "label": "Bem próprio e comum"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O06",
+            "column": "O",
+            "label": "Limitar telas à noite"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B07",
+            "column": "B",
+            "label": "Liberdade sob domínio"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I07",
+            "column": "I",
+            "label": "Remédio sem prescrição"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N09",
+            "column": "N",
+            "label": "Dor escondida"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G04",
+            "column": "G",
+            "label": "Necessidade ou excesso"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O14",
+            "column": "O",
+            "label": "Reparar desperdício"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C09",
+      "number": 9,
+      "term_ids": [
+        "B07",
+        "I15",
+        "N12",
+        "G09",
+        "O01",
+        "B09",
+        "I10",
+        "N02",
+        "G01",
+        "O04",
+        "B11",
+        "I11",
+        "G14",
+        "O07",
+        "B06",
+        "I07",
+        "N10",
+        "G02",
+        "O13",
+        "B10",
+        "I04",
+        "N14",
+        "G11",
+        "O15"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B07",
+            "column": "B",
+            "label": "Liberdade sob domínio"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I15",
+            "column": "I",
+            "label": "Exposição do doente"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N12",
+            "column": "N",
+            "label": "Força como dignidade"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G09",
+            "column": "G",
+            "label": "Culpa e fragilidade"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O01",
+            "column": "O",
+            "label": "Procurar atendimento"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B09",
+            "column": "B",
+            "label": "Corpo não absoluto"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I10",
+            "column": "I",
+            "label": "Desperdício de alimento"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N02",
+            "column": "N",
+            "label": "Falsa autonomia"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G01",
+            "column": "G",
+            "label": "Cuidado ou vaidade"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O04",
+            "column": "O",
+            "label": "Rever sono"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B11",
+            "column": "B",
+            "label": "Sobriedade"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I11",
+            "column": "I",
+            "label": "Sedentarismo fechado"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G14",
+            "column": "G",
+            "label": "Ajuda e controle"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O07",
+            "column": "O",
+            "label": "Recusar carona bêbada"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B06",
+            "column": "B",
+            "label": "Gratidão pelo alimento"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I07",
+            "column": "I",
+            "label": "Remédio sem prescrição"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N10",
+            "column": "N",
+            "label": "Corpo descartável"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G02",
+            "column": "G",
+            "label": "Saúde ou idolatria"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O13",
+            "column": "O",
+            "label": "Treino com medida"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B10",
+            "column": "B",
+            "label": "Pecado de excesso"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I04",
+            "column": "I",
+            "label": "Anabolizante oculto"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N14",
+            "column": "N",
+            "label": "Mercado manda"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G11",
+            "column": "G",
+            "label": "Prudência e omissão"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O15",
+            "column": "O",
+            "label": "Limite do cuidador"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C10",
+      "number": 10,
+      "term_ids": [
+        "B12",
+        "I04",
+        "N09",
+        "G13",
+        "O01",
+        "B08",
+        "I03",
+        "N02",
+        "G11",
+        "O11",
+        "B01",
+        "I07",
+        "G15",
+        "O15",
+        "B09",
+        "I13",
+        "N10",
+        "G09",
+        "O12",
+        "B10",
+        "I11",
+        "N01",
+        "G10",
+        "O13"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B12",
+            "column": "B",
+            "label": "Cooperação com o mal"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I04",
+            "column": "I",
+            "label": "Anabolizante oculto"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N09",
+            "column": "N",
+            "label": "Dor escondida"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G13",
+            "column": "G",
+            "label": "Corpo e identidade"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O01",
+            "column": "O",
+            "label": "Procurar atendimento"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B08",
+            "column": "B",
+            "label": "Bem comum da saúde"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I03",
+            "column": "I",
+            "label": "Academia obsessiva"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N02",
+            "column": "N",
+            "label": "Falsa autonomia"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G11",
+            "column": "G",
+            "label": "Prudência e omissão"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O11",
+            "column": "O",
+            "label": "Falar sem humilhar"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B01",
+            "column": "B",
+            "label": "Corpo templo"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I07",
+            "column": "I",
+            "label": "Remédio sem prescrição"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G15",
+            "column": "G",
+            "label": "Bem próprio e comum"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O15",
+            "column": "O",
+            "label": "Limite do cuidador"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B09",
+            "column": "B",
+            "label": "Corpo não absoluto"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I13",
+            "column": "I",
+            "label": "Fila de tratamento"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N10",
+            "column": "N",
+            "label": "Corpo descartável"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G09",
+            "column": "G",
+            "label": "Culpa e fragilidade"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O12",
+            "column": "O",
+            "label": "Buscar confissão"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B10",
+            "column": "B",
+            "label": "Pecado de excesso"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I11",
+            "column": "I",
+            "label": "Sedentarismo fechado"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N01",
+            "column": "N",
+            "label": "Ilusão de controle"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G10",
+            "column": "G",
+            "label": "Acolhida e aprovação"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O13",
+            "column": "O",
+            "label": "Treino com medida"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C11",
+      "number": 11,
+      "term_ids": [
+        "B11",
+        "I04",
+        "N14",
+        "G08",
+        "O01",
+        "B02",
+        "I03",
+        "N10",
+        "G12",
+        "O08",
+        "B15",
+        "I10",
+        "G10",
+        "O02",
+        "B04",
+        "I07",
+        "N12",
+        "G09",
+        "O04",
+        "B07",
+        "I11",
+        "N01",
+        "G02",
+        "O13"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B11",
+            "column": "B",
+            "label": "Sobriedade"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I04",
+            "column": "I",
+            "label": "Anabolizante oculto"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N14",
+            "column": "N",
+            "label": "Mercado manda"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G08",
+            "column": "G",
+            "label": "Ato e pessoa"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O01",
+            "column": "O",
+            "label": "Procurar atendimento"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B02",
+            "column": "B",
+            "label": "Saúde como dom"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I03",
+            "column": "I",
+            "label": "Academia obsessiva"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N10",
+            "column": "N",
+            "label": "Corpo descartável"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G12",
+            "column": "G",
+            "label": "Risco e liberdade"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O08",
+            "column": "O",
+            "label": "Não repassar oferta"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B15",
+            "column": "B",
+            "label": "Glorificar no corpo"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I10",
+            "column": "I",
+            "label": "Desperdício de alimento"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G10",
+            "column": "G",
+            "label": "Acolhida e aprovação"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O02",
+            "column": "O",
+            "label": "Pedir ajuda familiar"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B04",
+            "column": "B",
+            "label": "Temperança"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I07",
+            "column": "I",
+            "label": "Remédio sem prescrição"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N12",
+            "column": "N",
+            "label": "Força como dignidade"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G09",
+            "column": "G",
+            "label": "Culpa e fragilidade"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O04",
+            "column": "O",
+            "label": "Rever sono"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B07",
+            "column": "B",
+            "label": "Liberdade sob domínio"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I11",
+            "column": "I",
+            "label": "Sedentarismo fechado"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N01",
+            "column": "N",
+            "label": "Ilusão de controle"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G02",
+            "column": "G",
+            "label": "Saúde ou idolatria"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O13",
+            "column": "O",
+            "label": "Treino com medida"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C12",
+      "number": 12,
+      "term_ids": [
+        "B04",
+        "I15",
+        "N10",
+        "G05",
+        "O06",
+        "B09",
+        "I01",
+        "N11",
+        "G13",
+        "O02",
+        "B13",
+        "I11",
+        "G14",
+        "O03",
+        "B14",
+        "I14",
+        "N01",
+        "G11",
+        "O11",
+        "B10",
+        "I10",
+        "N13",
+        "G07",
+        "O13"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B04",
+            "column": "B",
+            "label": "Temperança"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I15",
+            "column": "I",
+            "label": "Exposição do doente"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N10",
+            "column": "N",
+            "label": "Corpo descartável"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G05",
+            "column": "G",
+            "label": "Terapia ou abuso"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O06",
+            "column": "O",
+            "label": "Limitar telas à noite"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B09",
+            "column": "B",
+            "label": "Corpo não absoluto"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I01",
+            "column": "I",
+            "label": "Noites sem descanso"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N11",
+            "column": "N",
+            "label": "Magreza como valor"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G13",
+            "column": "G",
+            "label": "Corpo e identidade"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O02",
+            "column": "O",
+            "label": "Pedir ajuda familiar"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B13",
+            "column": "B",
+            "label": "Vulnerabilidade humana"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I11",
+            "column": "I",
+            "label": "Sedentarismo fechado"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G14",
+            "column": "G",
+            "label": "Ajuda e controle"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O03",
+            "column": "O",
+            "label": "Cortar substância"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B14",
+            "column": "B",
+            "label": "Pudor e respeito"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I14",
+            "column": "I",
+            "label": "Tráfico na vizinhança"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N01",
+            "column": "N",
+            "label": "Ilusão de controle"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G11",
+            "column": "G",
+            "label": "Prudência e omissão"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O11",
+            "column": "O",
+            "label": "Falar sem humilhar"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B10",
+            "column": "B",
+            "label": "Pecado de excesso"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I10",
+            "column": "I",
+            "label": "Desperdício de alimento"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N13",
+            "column": "N",
+            "label": "Velocidade sem culpa"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G07",
+            "column": "G",
+            "label": "Disciplina ou obsessão"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O13",
+            "column": "O",
+            "label": "Treino com medida"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C13",
+      "number": 13,
+      "term_ids": [
+        "B13",
+        "I05",
+        "N04",
+        "G06",
+        "O01",
+        "B02",
+        "I13",
+        "N05",
+        "G12",
+        "O09",
+        "B03",
+        "I03",
+        "G09",
+        "O07",
+        "B01",
+        "I07",
+        "N08",
+        "G04",
+        "O14",
+        "B08",
+        "I01",
+        "N07",
+        "G02",
+        "O12"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B13",
+            "column": "B",
+            "label": "Vulnerabilidade humana"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I05",
+            "column": "I",
+            "label": "Vape habitual"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N04",
+            "column": "N",
+            "label": "Performance idolatrada"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G06",
+            "column": "G",
+            "label": "Descanso ou fuga"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O01",
+            "column": "O",
+            "label": "Procurar atendimento"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B02",
+            "column": "B",
+            "label": "Saúde como dom"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I13",
+            "column": "I",
+            "label": "Fila de tratamento"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N05",
+            "column": "N",
+            "label": "Só desta vez"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G12",
+            "column": "G",
+            "label": "Risco e liberdade"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O09",
+            "column": "O",
+            "label": "Denunciar tráfico"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B03",
+            "column": "B",
+            "label": "Dignidade do corpo"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I03",
+            "column": "I",
+            "label": "Academia obsessiva"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G09",
+            "column": "G",
+            "label": "Culpa e fragilidade"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O07",
+            "column": "O",
+            "label": "Recusar carona bêbada"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B01",
+            "column": "B",
+            "label": "Corpo templo"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I07",
+            "column": "I",
+            "label": "Remédio sem prescrição"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N08",
+            "column": "N",
+            "label": "Bebida prova maturidade"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G04",
+            "column": "G",
+            "label": "Necessidade ou excesso"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O14",
+            "column": "O",
+            "label": "Reparar desperdício"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B08",
+            "column": "B",
+            "label": "Bem comum da saúde"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I01",
+            "column": "I",
+            "label": "Noites sem descanso"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N07",
+            "column": "N",
+            "label": "Remédio é inofensivo"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G02",
+            "column": "G",
+            "label": "Saúde ou idolatria"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O12",
+            "column": "O",
+            "label": "Buscar confissão"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C14",
+      "number": 14,
+      "term_ids": [
+        "B03",
+        "I05",
+        "N02",
+        "G07",
+        "O09",
+        "B13",
+        "I13",
+        "N03",
+        "G05",
+        "O08",
+        "B02",
+        "I02",
+        "G01",
+        "O03",
+        "B14",
+        "I03",
+        "N01",
+        "G04",
+        "O06",
+        "B04",
+        "I12",
+        "N09",
+        "G06",
+        "O14"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B03",
+            "column": "B",
+            "label": "Dignidade do corpo"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I05",
+            "column": "I",
+            "label": "Vape habitual"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N02",
+            "column": "N",
+            "label": "Falsa autonomia"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G07",
+            "column": "G",
+            "label": "Disciplina ou obsessão"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O09",
+            "column": "O",
+            "label": "Denunciar tráfico"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B13",
+            "column": "B",
+            "label": "Vulnerabilidade humana"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I13",
+            "column": "I",
+            "label": "Fila de tratamento"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N03",
+            "column": "N",
+            "label": "Culto da aparência"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G05",
+            "column": "G",
+            "label": "Terapia ou abuso"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O08",
+            "column": "O",
+            "label": "Não repassar oferta"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B02",
+            "column": "B",
+            "label": "Saúde como dom"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I02",
+            "column": "I",
+            "label": "Dieta extrema"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G01",
+            "column": "G",
+            "label": "Cuidado ou vaidade"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O03",
+            "column": "O",
+            "label": "Cortar substância"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B14",
+            "column": "B",
+            "label": "Pudor e respeito"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I03",
+            "column": "I",
+            "label": "Academia obsessiva"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N01",
+            "column": "N",
+            "label": "Ilusão de controle"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G04",
+            "column": "G",
+            "label": "Necessidade ou excesso"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O06",
+            "column": "O",
+            "label": "Limitar telas à noite"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B04",
+            "column": "B",
+            "label": "Temperança"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I12",
+            "column": "I",
+            "label": "Trabalho sem segurança"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N09",
+            "column": "N",
+            "label": "Dor escondida"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G06",
+            "column": "G",
+            "label": "Descanso ou fuga"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O14",
+            "column": "O",
+            "label": "Reparar desperdício"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C15",
+      "number": 15,
+      "term_ids": [
+        "B12",
+        "I14",
+        "N07",
+        "G07",
+        "O07",
+        "B11",
+        "I05",
+        "N09",
+        "G15",
+        "O02",
+        "B06",
+        "I15",
+        "G06",
+        "O12",
+        "B05",
+        "I13",
+        "N05",
+        "G10",
+        "O10",
+        "B03",
+        "I04",
+        "N14",
+        "G12",
+        "O05"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B12",
+            "column": "B",
+            "label": "Cooperação com o mal"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I14",
+            "column": "I",
+            "label": "Tráfico na vizinhança"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N07",
+            "column": "N",
+            "label": "Remédio é inofensivo"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G07",
+            "column": "G",
+            "label": "Disciplina ou obsessão"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O07",
+            "column": "O",
+            "label": "Recusar carona bêbada"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B11",
+            "column": "B",
+            "label": "Sobriedade"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I05",
+            "column": "I",
+            "label": "Vape habitual"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N09",
+            "column": "N",
+            "label": "Dor escondida"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G15",
+            "column": "G",
+            "label": "Bem próprio e comum"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O02",
+            "column": "O",
+            "label": "Pedir ajuda familiar"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B06",
+            "column": "B",
+            "label": "Gratidão pelo alimento"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I15",
+            "column": "I",
+            "label": "Exposição do doente"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G06",
+            "column": "G",
+            "label": "Descanso ou fuga"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O12",
+            "column": "O",
+            "label": "Buscar confissão"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B05",
+            "column": "B",
+            "label": "Justo cuidado"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I13",
+            "column": "I",
+            "label": "Fila de tratamento"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N05",
+            "column": "N",
+            "label": "Só desta vez"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G10",
+            "column": "G",
+            "label": "Acolhida e aprovação"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O10",
+            "column": "O",
+            "label": "Acompanhar o doente"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B03",
+            "column": "B",
+            "label": "Dignidade do corpo"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I04",
+            "column": "I",
+            "label": "Anabolizante oculto"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N14",
+            "column": "N",
+            "label": "Mercado manda"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G12",
+            "column": "G",
+            "label": "Risco e liberdade"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O05",
+            "column": "O",
+            "label": "Organizar refeições"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C16",
+      "number": 16,
+      "term_ids": [
+        "B07",
+        "I06",
+        "N06",
+        "G05",
+        "O05",
+        "B09",
+        "I02",
+        "N15",
+        "G08",
+        "O04",
+        "B10",
+        "I03",
+        "G10",
+        "O08",
+        "B08",
+        "I09",
+        "N07",
+        "G03",
+        "O03",
+        "B06",
+        "I12",
+        "N14",
+        "G13",
+        "O15"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B07",
+            "column": "B",
+            "label": "Liberdade sob domínio"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I06",
+            "column": "I",
+            "label": "Bebida ao volante"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N06",
+            "column": "N",
+            "label": "Todo mundo usa"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G05",
+            "column": "G",
+            "label": "Terapia ou abuso"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O05",
+            "column": "O",
+            "label": "Organizar refeições"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B09",
+            "column": "B",
+            "label": "Corpo não absoluto"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I02",
+            "column": "I",
+            "label": "Dieta extrema"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N15",
+            "column": "N",
+            "label": "Espírito contra corpo"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G08",
+            "column": "G",
+            "label": "Ato e pessoa"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O04",
+            "column": "O",
+            "label": "Rever sono"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B10",
+            "column": "B",
+            "label": "Pecado de excesso"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I03",
+            "column": "I",
+            "label": "Academia obsessiva"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G10",
+            "column": "G",
+            "label": "Acolhida e aprovação"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O08",
+            "column": "O",
+            "label": "Não repassar oferta"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B08",
+            "column": "B",
+            "label": "Bem comum da saúde"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I09",
+            "column": "I",
+            "label": "Jejum por aparência"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N07",
+            "column": "N",
+            "label": "Remédio é inofensivo"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G03",
+            "column": "G",
+            "label": "Prazer ou domínio"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O03",
+            "column": "O",
+            "label": "Cortar substância"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B06",
+            "column": "B",
+            "label": "Gratidão pelo alimento"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I12",
+            "column": "I",
+            "label": "Trabalho sem segurança"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N14",
+            "column": "N",
+            "label": "Mercado manda"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G13",
+            "column": "G",
+            "label": "Corpo e identidade"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O15",
+            "column": "O",
+            "label": "Limite do cuidador"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C17",
+      "number": 17,
+      "term_ids": [
+        "B08",
+        "I04",
+        "N13",
+        "G08",
+        "O09",
+        "B13",
+        "I10",
+        "N04",
+        "G13",
+        "O11",
+        "B15",
+        "I08",
+        "G10",
+        "O14",
+        "B05",
+        "I07",
+        "N03",
+        "G05",
+        "O03",
+        "B06",
+        "I11",
+        "N12",
+        "G07",
+        "O06"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B08",
+            "column": "B",
+            "label": "Bem comum da saúde"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I04",
+            "column": "I",
+            "label": "Anabolizante oculto"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N13",
+            "column": "N",
+            "label": "Velocidade sem culpa"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G08",
+            "column": "G",
+            "label": "Ato e pessoa"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O09",
+            "column": "O",
+            "label": "Denunciar tráfico"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B13",
+            "column": "B",
+            "label": "Vulnerabilidade humana"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I10",
+            "column": "I",
+            "label": "Desperdício de alimento"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N04",
+            "column": "N",
+            "label": "Performance idolatrada"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G13",
+            "column": "G",
+            "label": "Corpo e identidade"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O11",
+            "column": "O",
+            "label": "Falar sem humilhar"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B15",
+            "column": "B",
+            "label": "Glorificar no corpo"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I08",
+            "column": "I",
+            "label": "Automedicação perigosa"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G10",
+            "column": "G",
+            "label": "Acolhida e aprovação"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O14",
+            "column": "O",
+            "label": "Reparar desperdício"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B05",
+            "column": "B",
+            "label": "Justo cuidado"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I07",
+            "column": "I",
+            "label": "Remédio sem prescrição"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N03",
+            "column": "N",
+            "label": "Culto da aparência"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G05",
+            "column": "G",
+            "label": "Terapia ou abuso"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O03",
+            "column": "O",
+            "label": "Cortar substância"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B06",
+            "column": "B",
+            "label": "Gratidão pelo alimento"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I11",
+            "column": "I",
+            "label": "Sedentarismo fechado"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N12",
+            "column": "N",
+            "label": "Força como dignidade"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G07",
+            "column": "G",
+            "label": "Disciplina ou obsessão"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O06",
+            "column": "O",
+            "label": "Limitar telas à noite"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C18",
+      "number": 18,
+      "term_ids": [
+        "B01",
+        "I11",
+        "N01",
+        "G06",
+        "O01",
+        "B03",
+        "I01",
+        "N08",
+        "G03",
+        "O15",
+        "B08",
+        "I03",
+        "G01",
+        "O08",
+        "B02",
+        "I06",
+        "N10",
+        "G02",
+        "O13",
+        "B13",
+        "I02",
+        "N11",
+        "G14",
+        "O04"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B01",
+            "column": "B",
+            "label": "Corpo templo"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I11",
+            "column": "I",
+            "label": "Sedentarismo fechado"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N01",
+            "column": "N",
+            "label": "Ilusão de controle"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G06",
+            "column": "G",
+            "label": "Descanso ou fuga"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O01",
+            "column": "O",
+            "label": "Procurar atendimento"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B03",
+            "column": "B",
+            "label": "Dignidade do corpo"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I01",
+            "column": "I",
+            "label": "Noites sem descanso"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N08",
+            "column": "N",
+            "label": "Bebida prova maturidade"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G03",
+            "column": "G",
+            "label": "Prazer ou domínio"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O15",
+            "column": "O",
+            "label": "Limite do cuidador"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B08",
+            "column": "B",
+            "label": "Bem comum da saúde"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I03",
+            "column": "I",
+            "label": "Academia obsessiva"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G01",
+            "column": "G",
+            "label": "Cuidado ou vaidade"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O08",
+            "column": "O",
+            "label": "Não repassar oferta"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B02",
+            "column": "B",
+            "label": "Saúde como dom"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I06",
+            "column": "I",
+            "label": "Bebida ao volante"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N10",
+            "column": "N",
+            "label": "Corpo descartável"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G02",
+            "column": "G",
+            "label": "Saúde ou idolatria"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O13",
+            "column": "O",
+            "label": "Treino com medida"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B13",
+            "column": "B",
+            "label": "Vulnerabilidade humana"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I02",
+            "column": "I",
+            "label": "Dieta extrema"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N11",
+            "column": "N",
+            "label": "Magreza como valor"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G14",
+            "column": "G",
+            "label": "Ajuda e controle"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O04",
+            "column": "O",
+            "label": "Rever sono"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C19",
+      "number": 19,
+      "term_ids": [
+        "B09",
+        "I09",
+        "N07",
+        "G14",
+        "O02",
+        "B04",
+        "I15",
+        "N10",
+        "G09",
+        "O01",
+        "B07",
+        "I10",
+        "G05",
+        "O04",
+        "B14",
+        "I02",
+        "N15",
+        "G13",
+        "O08",
+        "B03",
+        "I04",
+        "N02",
+        "G08",
+        "O14"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B09",
+            "column": "B",
+            "label": "Corpo não absoluto"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I09",
+            "column": "I",
+            "label": "Jejum por aparência"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N07",
+            "column": "N",
+            "label": "Remédio é inofensivo"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G14",
+            "column": "G",
+            "label": "Ajuda e controle"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O02",
+            "column": "O",
+            "label": "Pedir ajuda familiar"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B04",
+            "column": "B",
+            "label": "Temperança"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I15",
+            "column": "I",
+            "label": "Exposição do doente"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N10",
+            "column": "N",
+            "label": "Corpo descartável"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G09",
+            "column": "G",
+            "label": "Culpa e fragilidade"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O01",
+            "column": "O",
+            "label": "Procurar atendimento"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B07",
+            "column": "B",
+            "label": "Liberdade sob domínio"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I10",
+            "column": "I",
+            "label": "Desperdício de alimento"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G05",
+            "column": "G",
+            "label": "Terapia ou abuso"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O04",
+            "column": "O",
+            "label": "Rever sono"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B14",
+            "column": "B",
+            "label": "Pudor e respeito"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I02",
+            "column": "I",
+            "label": "Dieta extrema"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N15",
+            "column": "N",
+            "label": "Espírito contra corpo"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G13",
+            "column": "G",
+            "label": "Corpo e identidade"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O08",
+            "column": "O",
+            "label": "Não repassar oferta"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B03",
+            "column": "B",
+            "label": "Dignidade do corpo"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I04",
+            "column": "I",
+            "label": "Anabolizante oculto"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N02",
+            "column": "N",
+            "label": "Falsa autonomia"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G08",
+            "column": "G",
+            "label": "Ato e pessoa"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O14",
+            "column": "O",
+            "label": "Reparar desperdício"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C20",
+      "number": 20,
+      "term_ids": [
+        "B08",
+        "I05",
+        "N07",
+        "G09",
+        "O03",
+        "B04",
+        "I06",
+        "N04",
+        "G14",
+        "O09",
+        "B12",
+        "I02",
+        "G08",
+        "O14",
+        "B05",
+        "I01",
+        "N14",
+        "G05",
+        "O06",
+        "B10",
+        "I03",
+        "N05",
+        "G01",
+        "O07"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B08",
+            "column": "B",
+            "label": "Bem comum da saúde"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I05",
+            "column": "I",
+            "label": "Vape habitual"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N07",
+            "column": "N",
+            "label": "Remédio é inofensivo"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G09",
+            "column": "G",
+            "label": "Culpa e fragilidade"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O03",
+            "column": "O",
+            "label": "Cortar substância"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B04",
+            "column": "B",
+            "label": "Temperança"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I06",
+            "column": "I",
+            "label": "Bebida ao volante"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N04",
+            "column": "N",
+            "label": "Performance idolatrada"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G14",
+            "column": "G",
+            "label": "Ajuda e controle"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O09",
+            "column": "O",
+            "label": "Denunciar tráfico"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B12",
+            "column": "B",
+            "label": "Cooperação com o mal"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I02",
+            "column": "I",
+            "label": "Dieta extrema"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G08",
+            "column": "G",
+            "label": "Ato e pessoa"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O14",
+            "column": "O",
+            "label": "Reparar desperdício"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B05",
+            "column": "B",
+            "label": "Justo cuidado"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I01",
+            "column": "I",
+            "label": "Noites sem descanso"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N14",
+            "column": "N",
+            "label": "Mercado manda"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G05",
+            "column": "G",
+            "label": "Terapia ou abuso"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O06",
+            "column": "O",
+            "label": "Limitar telas à noite"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B10",
+            "column": "B",
+            "label": "Pecado de excesso"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I03",
+            "column": "I",
+            "label": "Academia obsessiva"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N05",
+            "column": "N",
+            "label": "Só desta vez"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G01",
+            "column": "G",
+            "label": "Cuidado ou vaidade"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O07",
+            "column": "O",
+            "label": "Recusar carona bêbada"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C21",
+      "number": 21,
+      "term_ids": [
+        "B08",
+        "I09",
+        "N03",
+        "G06",
+        "O13",
+        "B10",
+        "I10",
+        "N09",
+        "G15",
+        "O11",
+        "B12",
+        "I12",
+        "G04",
+        "O12",
+        "B09",
+        "I15",
+        "N14",
+        "G07",
+        "O02",
+        "B04",
+        "I14",
+        "N06",
+        "G12",
+        "O03"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B08",
+            "column": "B",
+            "label": "Bem comum da saúde"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I09",
+            "column": "I",
+            "label": "Jejum por aparência"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N03",
+            "column": "N",
+            "label": "Culto da aparência"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G06",
+            "column": "G",
+            "label": "Descanso ou fuga"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O13",
+            "column": "O",
+            "label": "Treino com medida"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B10",
+            "column": "B",
+            "label": "Pecado de excesso"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I10",
+            "column": "I",
+            "label": "Desperdício de alimento"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N09",
+            "column": "N",
+            "label": "Dor escondida"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G15",
+            "column": "G",
+            "label": "Bem próprio e comum"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O11",
+            "column": "O",
+            "label": "Falar sem humilhar"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B12",
+            "column": "B",
+            "label": "Cooperação com o mal"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I12",
+            "column": "I",
+            "label": "Trabalho sem segurança"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G04",
+            "column": "G",
+            "label": "Necessidade ou excesso"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O12",
+            "column": "O",
+            "label": "Buscar confissão"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B09",
+            "column": "B",
+            "label": "Corpo não absoluto"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I15",
+            "column": "I",
+            "label": "Exposição do doente"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N14",
+            "column": "N",
+            "label": "Mercado manda"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G07",
+            "column": "G",
+            "label": "Disciplina ou obsessão"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O02",
+            "column": "O",
+            "label": "Pedir ajuda familiar"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B04",
+            "column": "B",
+            "label": "Temperança"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I14",
+            "column": "I",
+            "label": "Tráfico na vizinhança"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N06",
+            "column": "N",
+            "label": "Todo mundo usa"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G12",
+            "column": "G",
+            "label": "Risco e liberdade"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O03",
+            "column": "O",
+            "label": "Cortar substância"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C22",
+      "number": 22,
+      "term_ids": [
+        "B01",
+        "I12",
+        "N13",
+        "G08",
+        "O08",
+        "B07",
+        "I09",
+        "N12",
+        "G04",
+        "O15",
+        "B11",
+        "I13",
+        "G15",
+        "O13",
+        "B02",
+        "I08",
+        "N15",
+        "G03",
+        "O12",
+        "B03",
+        "I07",
+        "N04",
+        "G01",
+        "O10"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B01",
+            "column": "B",
+            "label": "Corpo templo"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I12",
+            "column": "I",
+            "label": "Trabalho sem segurança"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N13",
+            "column": "N",
+            "label": "Velocidade sem culpa"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G08",
+            "column": "G",
+            "label": "Ato e pessoa"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O08",
+            "column": "O",
+            "label": "Não repassar oferta"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B07",
+            "column": "B",
+            "label": "Liberdade sob domínio"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I09",
+            "column": "I",
+            "label": "Jejum por aparência"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N12",
+            "column": "N",
+            "label": "Força como dignidade"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G04",
+            "column": "G",
+            "label": "Necessidade ou excesso"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O15",
+            "column": "O",
+            "label": "Limite do cuidador"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B11",
+            "column": "B",
+            "label": "Sobriedade"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I13",
+            "column": "I",
+            "label": "Fila de tratamento"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G15",
+            "column": "G",
+            "label": "Bem próprio e comum"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O13",
+            "column": "O",
+            "label": "Treino com medida"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B02",
+            "column": "B",
+            "label": "Saúde como dom"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I08",
+            "column": "I",
+            "label": "Automedicação perigosa"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N15",
+            "column": "N",
+            "label": "Espírito contra corpo"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G03",
+            "column": "G",
+            "label": "Prazer ou domínio"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O12",
+            "column": "O",
+            "label": "Buscar confissão"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B03",
+            "column": "B",
+            "label": "Dignidade do corpo"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I07",
+            "column": "I",
+            "label": "Remédio sem prescrição"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N04",
+            "column": "N",
+            "label": "Performance idolatrada"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G01",
+            "column": "G",
+            "label": "Cuidado ou vaidade"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O10",
+            "column": "O",
+            "label": "Acompanhar o doente"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C23",
+      "number": 23,
+      "term_ids": [
+        "B06",
+        "I14",
+        "N13",
+        "G12",
+        "O15",
+        "B15",
+        "I09",
+        "N05",
+        "G03",
+        "O14",
+        "B14",
+        "I01",
+        "G15",
+        "O04",
+        "B13",
+        "I03",
+        "N07",
+        "G08",
+        "O07",
+        "B09",
+        "I06",
+        "N06",
+        "G10",
+        "O10"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B06",
+            "column": "B",
+            "label": "Gratidão pelo alimento"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I14",
+            "column": "I",
+            "label": "Tráfico na vizinhança"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N13",
+            "column": "N",
+            "label": "Velocidade sem culpa"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G12",
+            "column": "G",
+            "label": "Risco e liberdade"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O15",
+            "column": "O",
+            "label": "Limite do cuidador"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B15",
+            "column": "B",
+            "label": "Glorificar no corpo"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I09",
+            "column": "I",
+            "label": "Jejum por aparência"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N05",
+            "column": "N",
+            "label": "Só desta vez"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G03",
+            "column": "G",
+            "label": "Prazer ou domínio"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O14",
+            "column": "O",
+            "label": "Reparar desperdício"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B14",
+            "column": "B",
+            "label": "Pudor e respeito"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I01",
+            "column": "I",
+            "label": "Noites sem descanso"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G15",
+            "column": "G",
+            "label": "Bem próprio e comum"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O04",
+            "column": "O",
+            "label": "Rever sono"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B13",
+            "column": "B",
+            "label": "Vulnerabilidade humana"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I03",
+            "column": "I",
+            "label": "Academia obsessiva"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N07",
+            "column": "N",
+            "label": "Remédio é inofensivo"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G08",
+            "column": "G",
+            "label": "Ato e pessoa"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O07",
+            "column": "O",
+            "label": "Recusar carona bêbada"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B09",
+            "column": "B",
+            "label": "Corpo não absoluto"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I06",
+            "column": "I",
+            "label": "Bebida ao volante"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N06",
+            "column": "N",
+            "label": "Todo mundo usa"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G10",
+            "column": "G",
+            "label": "Acolhida e aprovação"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O10",
+            "column": "O",
+            "label": "Acompanhar o doente"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C24",
+      "number": 24,
+      "term_ids": [
+        "B15",
+        "I13",
+        "N11",
+        "G11",
+        "O04",
+        "B07",
+        "I08",
+        "N03",
+        "G09",
+        "O09",
+        "B02",
+        "I14",
+        "G04",
+        "O10",
+        "B14",
+        "I01",
+        "N02",
+        "G12",
+        "O11",
+        "B01",
+        "I09",
+        "N06",
+        "G15",
+        "O05"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B15",
+            "column": "B",
+            "label": "Glorificar no corpo"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I13",
+            "column": "I",
+            "label": "Fila de tratamento"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N11",
+            "column": "N",
+            "label": "Magreza como valor"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G11",
+            "column": "G",
+            "label": "Prudência e omissão"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O04",
+            "column": "O",
+            "label": "Rever sono"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B07",
+            "column": "B",
+            "label": "Liberdade sob domínio"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I08",
+            "column": "I",
+            "label": "Automedicação perigosa"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N03",
+            "column": "N",
+            "label": "Culto da aparência"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G09",
+            "column": "G",
+            "label": "Culpa e fragilidade"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O09",
+            "column": "O",
+            "label": "Denunciar tráfico"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B02",
+            "column": "B",
+            "label": "Saúde como dom"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I14",
+            "column": "I",
+            "label": "Tráfico na vizinhança"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G04",
+            "column": "G",
+            "label": "Necessidade ou excesso"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O10",
+            "column": "O",
+            "label": "Acompanhar o doente"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B14",
+            "column": "B",
+            "label": "Pudor e respeito"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I01",
+            "column": "I",
+            "label": "Noites sem descanso"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N02",
+            "column": "N",
+            "label": "Falsa autonomia"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G12",
+            "column": "G",
+            "label": "Risco e liberdade"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O11",
+            "column": "O",
+            "label": "Falar sem humilhar"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B01",
+            "column": "B",
+            "label": "Corpo templo"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I09",
+            "column": "I",
+            "label": "Jejum por aparência"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N06",
+            "column": "N",
+            "label": "Todo mundo usa"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G15",
+            "column": "G",
+            "label": "Bem próprio e comum"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O05",
+            "column": "O",
+            "label": "Organizar refeições"
+          }
+        ]
+      ]
+    }
+  ]
+}

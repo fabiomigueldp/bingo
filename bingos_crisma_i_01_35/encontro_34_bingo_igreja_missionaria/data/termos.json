@@ -1,0 +1,1130 @@
+{
+  "title": "Bingo — Igreja missionária",
+  "meeting": "Encontro 34 — Igreja missionária",
+  "meeting_label": "Encontro 34",
+  "output_slug": "bingo_igreja_missionaria",
+  "core_message": "A Igreja existe para evangelizar: enviada por Cristo, movida por seu amor e sustentada por sua presença, anuncia a verdade que salva sem impor, sem esconder e sem reduzir o Evangelho a ativismo.",
+  "source_meeting_markdown": "projects/catequese/material_didatico/output/markdown/encontro_34.md",
+  "scripture": [
+    "Mt 28,19-20",
+    "2Cor 5,14",
+    "1Tm 2,4",
+    "At 1,8",
+    "Jo 20,21",
+    "Rm 10,14-17",
+    "1Pd 3,15",
+    "Jo 13,35",
+    "At 2,42",
+    "Lc 10,1-9",
+    "1Cor 9,22",
+    "Jo 15,5",
+    "At 4,20",
+    "1Cor 14,33.40"
+  ],
+  "catechism": [
+    "CEC 849",
+    "CEC 851",
+    "CEC 2044",
+    "CEC 2472",
+    "Evangelii Nuntiandi 14",
+    "Evangelii Gaudium 120"
+  ],
+  "card_model": {
+    "total_terms": 75,
+    "columns": 5,
+    "terms_per_column": 15,
+    "grid": "5x5",
+    "center": {
+      "label": "LIVRE / Mt 28,19-20",
+      "fixed": true,
+      "called": false
+    },
+    "recommended_win_condition": "duas_linhas"
+  },
+  "columns": [
+    {
+      "key": "B",
+      "title": "Base moral",
+      "function": "Fundamentos bíblicos e doutrinais para ler o tema.",
+      "short_function": "fundamento cristão do tema"
+    },
+    {
+      "key": "I",
+      "title": "Situações concretas",
+      "function": "Formas reais em que o tema aparece na vida concreta, em situações inteligíveis para a turma.",
+      "short_function": "situações concretas do tema"
+    },
+    {
+      "key": "N",
+      "title": "Narrativas falsas",
+      "function": "Desculpas, autoenganos e frases que desviam do bem.",
+      "short_function": "desculpas que normalizam o erro"
+    },
+    {
+      "key": "G",
+      "title": "Discernimentos",
+      "function": "Distinções morais que evitam respostas simplistas.",
+      "short_function": "distinções para discernir"
+    },
+    {
+      "key": "O",
+      "title": "Orientações de resposta",
+      "function": "Ações concretas, prudentes e proporcionais diante do problema.",
+      "short_function": "respostas proporcionais e prudentes"
+    }
+  ],
+  "terms": [
+    {
+      "id": "B01",
+      "column": "B",
+      "label": "Mandato missionário",
+      "definition": "Ordem de Cristo ressuscitado para a Igreja ir, fazer discípulos, batizar e ensinar a observar tudo o que Ele mandou.",
+      "anchors": [
+        "Mt 28,19-20",
+        "CEC 849"
+      ],
+      "tags": [
+        "missão",
+        "obediência"
+      ]
+    },
+    {
+      "id": "B02",
+      "column": "B",
+      "label": "Igreja enviada",
+      "definition": "A Igreja não nasce para ficar fechada em si mesma; ela recebe de Cristo a identidade de ser enviada ao mundo.",
+      "anchors": [
+        "Jo 20,21",
+        "Evangelii Nuntiandi 14",
+        "CEC 849"
+      ],
+      "tags": [
+        "igreja",
+        "envio"
+      ]
+    },
+    {
+      "id": "B03",
+      "column": "B",
+      "label": "Evangelho como verdade",
+      "definition": "O Evangelho não é gosto religioso privado, mas verdade salvadora confiada à Igreja para iluminar a vida humana.",
+      "anchors": [
+        "1Tm 2,4",
+        "CEC 851"
+      ],
+      "tags": [
+        "verdade",
+        "evangelho"
+      ]
+    },
+    {
+      "id": "B04",
+      "column": "B",
+      "label": "Amor de Cristo",
+      "definition": "A missão nasce do amor de Cristo que impele a Igreja a procurar os homens, não de vaidade, medo ou conquista.",
+      "anchors": [
+        "2Cor 5,14",
+        "CEC 851"
+      ],
+      "tags": [
+        "caridade",
+        "motivo"
+      ]
+    },
+    {
+      "id": "B05",
+      "column": "B",
+      "label": "Salvação universal",
+      "definition": "Deus quer que todos sejam salvos e cheguem ao conhecimento da verdade; por isso a missão tem alcance universal.",
+      "anchors": [
+        "1Tm 2,4",
+        "CEC 851"
+      ],
+      "tags": [
+        "salvação",
+        "universalidade"
+      ]
+    },
+    {
+      "id": "B06",
+      "column": "B",
+      "label": "Catolicidade",
+      "definition": "A Igreja é católica porque é enviada a todos os povos, tempos e culturas, sem reduzir a fé a um grupo ou costume local.",
+      "anchors": [
+        "Mt 28,19",
+        "CEC 849"
+      ],
+      "tags": [
+        "catolicidade",
+        "povos"
+      ]
+    },
+    {
+      "id": "B07",
+      "column": "B",
+      "label": "Sacramento de salvação",
+      "definition": "A Igreja é sinal e instrumento da salvação que Deus oferece; sua missão torna visível e comunicável essa graça.",
+      "anchors": [
+        "CEC 849",
+        "Mt 28,19-20"
+      ],
+      "tags": [
+        "igreja",
+        "salvação"
+      ]
+    },
+    {
+      "id": "B08",
+      "column": "B",
+      "label": "Testemunho de vida",
+      "definition": "A vida coerente dos cristãos dá credibilidade ao anúncio; a incoerência grave escurece a missão.",
+      "anchors": [
+        "Jo 13,35",
+        "CEC 2044",
+        "CEC 2472"
+      ],
+      "tags": [
+        "testemunho",
+        "coerência"
+      ]
+    },
+    {
+      "id": "B09",
+      "column": "B",
+      "label": "Palavra e sacramentos",
+      "definition": "A missão conduz à escuta da Palavra, ao Batismo, à Eucaristia e à vida sacramental, não apenas a boas atividades.",
+      "anchors": [
+        "Mt 28,19-20",
+        "At 2,42"
+      ],
+      "tags": [
+        "sacramentos",
+        "palavra"
+      ]
+    },
+    {
+      "id": "B10",
+      "column": "B",
+      "label": "Batismo trinitário",
+      "definition": "Batizar em nome do Pai, do Filho e do Espírito Santo insere a pessoa na vida de Deus e na comunhão da Igreja.",
+      "anchors": [
+        "Mt 28,19",
+        "CEC 849"
+      ],
+      "tags": [
+        "batismo",
+        "trindade"
+      ]
+    },
+    {
+      "id": "B11",
+      "column": "B",
+      "label": "Discipulado obediente",
+      "definition": "Ser discípulo não é admirar Jesus à distância, mas aprender a observar concretamente o que Ele mandou.",
+      "anchors": [
+        "Mt 28,20",
+        "Jo 14,15"
+      ],
+      "tags": [
+        "discipulado",
+        "obediência"
+      ]
+    },
+    {
+      "id": "B12",
+      "column": "B",
+      "label": "Presença de Cristo",
+      "definition": "Cristo promete permanecer com os enviados todos os dias; a missão não depende só de força humana.",
+      "anchors": [
+        "Mt 28,20",
+        "Jo 15,5"
+      ],
+      "tags": [
+        "presença",
+        "confiança"
+      ]
+    },
+    {
+      "id": "B13",
+      "column": "B",
+      "label": "Espírito Santo",
+      "definition": "O Espírito Santo sustenta o testemunho e dá força para anunciar Cristo em meio a fraqueza, medo e oposição.",
+      "anchors": [
+        "At 1,8",
+        "Jo 20,21-22"
+      ],
+      "tags": [
+        "espírito santo",
+        "força"
+      ]
+    },
+    {
+      "id": "B14",
+      "column": "B",
+      "label": "Caridade missionária",
+      "definition": "A caridade missionária procura o bem integral da pessoa: corpo, alma, verdade, dignidade, comunhão e salvação.",
+      "anchors": [
+        "2Cor 5,14",
+        "Jo 13,35"
+      ],
+      "tags": [
+        "caridade",
+        "bem integral"
+      ]
+    },
+    {
+      "id": "B15",
+      "column": "B",
+      "label": "Conversão contínua",
+      "definition": "Quem anuncia o Evangelho também precisa deixar-se converter por ele, para não transformar a missão em soberba religiosa.",
+      "anchors": [
+        "Mc 1,15",
+        "Mt 28,20"
+      ],
+      "tags": [
+        "conversão",
+        "humildade"
+      ]
+    },
+    {
+      "id": "I01",
+      "column": "I",
+      "label": "Comunidade fechada",
+      "definition": "Situação em que uma comunidade cristã cuida apenas de si mesma e perde o impulso de ir ao encontro dos afastados.",
+      "anchors": [
+        "B02",
+        "Evangelii Nuntiandi 14"
+      ],
+      "tags": [
+        "fechamento",
+        "comunidade"
+      ]
+    },
+    {
+      "id": "I02",
+      "column": "I",
+      "label": "Primeiro anúncio",
+      "definition": "Momento em que alguém precisa ouvir de modo simples quem é Cristo e por que sua vida, morte e ressurreição importam.",
+      "anchors": [
+        "Rm 10,14-17",
+        "B03"
+      ],
+      "tags": [
+        "querigma",
+        "anúncio"
+      ]
+    },
+    {
+      "id": "I03",
+      "column": "I",
+      "label": "Família sem fé",
+      "definition": "Realidade de lares onde Deus foi silenciado por costume, vergonha, ferida ou indiferença, deixando a fé sem transmissão.",
+      "anchors": [
+        "Dt 6,6-7",
+        "B11"
+      ],
+      "tags": [
+        "família",
+        "transmissão"
+      ]
+    },
+    {
+      "id": "I04",
+      "column": "I",
+      "label": "Hostilidade pública",
+      "definition": "Situação em que a fé cristã é ridicularizada, pressionada ou excluída de espaços sociais sem exame justo.",
+      "anchors": [
+        "Mt 5,11-12",
+        "B12"
+      ],
+      "tags": [
+        "hostilidade",
+        "perseverança"
+      ]
+    },
+    {
+      "id": "I05",
+      "column": "I",
+      "label": "Cultura diferente",
+      "definition": "Encontro missionário com povos, costumes e línguas diversos, exigindo respeito real sem abandonar a verdade do Evangelho.",
+      "anchors": [
+        "1Cor 9,22",
+        "B06"
+      ],
+      "tags": [
+        "cultura",
+        "inculturação"
+      ]
+    },
+    {
+      "id": "I06",
+      "column": "I",
+      "label": "Fé escondida",
+      "definition": "Situação em que o cristão vive como se sua fé devesse permanecer invisível mesmo quando a verdade ou a esperança pedem testemunho.",
+      "anchors": [
+        "Mt 5,14-16",
+        "CEC 2472"
+      ],
+      "tags": [
+        "testemunho",
+        "vergonha"
+      ]
+    },
+    {
+      "id": "I07",
+      "column": "I",
+      "label": "Obra sem anúncio",
+      "definition": "Serviço cristão que oferece ajuda real, mas corta sua ligação visível com Cristo e perde parte de sua identidade missionária.",
+      "anchors": [
+        "B07",
+        "B14"
+      ],
+      "tags": [
+        "serviço",
+        "identidade"
+      ]
+    },
+    {
+      "id": "I08",
+      "column": "I",
+      "label": "Convite negligenciado",
+      "definition": "Omissão concreta de chamar alguém para a fé, a oração, a comunidade ou a escuta do Evangelho quando há ocasião prudente.",
+      "anchors": [
+        "Lc 14,23",
+        "B01"
+      ],
+      "tags": [
+        "convite",
+        "omissão"
+      ]
+    },
+    {
+      "id": "I09",
+      "column": "I",
+      "label": "Escuta de feridas",
+      "definition": "Situação em que a evangelização precisa começar ouvindo dores reais, especialmente quando há feridas causadas por cristãos.",
+      "anchors": [
+        "Tg 1,19",
+        "B14"
+      ],
+      "tags": [
+        "escuta",
+        "feridas"
+      ]
+    },
+    {
+      "id": "I10",
+      "column": "I",
+      "label": "Migrante sem comunidade",
+      "definition": "Realidade de pessoas deslocadas que precisam de acolhida cristã, orientação e acesso concreto à vida sacramental.",
+      "anchors": [
+        "Mt 25,35",
+        "B06"
+      ],
+      "tags": [
+        "migração",
+        "acolhida"
+      ]
+    },
+    {
+      "id": "I11",
+      "column": "I",
+      "label": "Doente isolado",
+      "definition": "Situação em que a pessoa enferma fica sem presença espiritual, oração e sacramentos por medo, descuido ou falsa delicadeza.",
+      "anchors": [
+        "Tg 5,14",
+        "B09"
+      ],
+      "tags": [
+        "doença",
+        "sacramentos"
+      ]
+    },
+    {
+      "id": "I12",
+      "column": "I",
+      "label": "Trabalho explorado",
+      "definition": "Realidade de injustiça laboral em que a missão cristã exige reconhecer dignidade, verdade e defesa proporcional dos vulneráveis.",
+      "anchors": [
+        "Tg 5,4",
+        "B14"
+      ],
+      "tags": [
+        "trabalho",
+        "justiça"
+      ]
+    },
+    {
+      "id": "I13",
+      "column": "I",
+      "label": "Redes sem verdade",
+      "definition": "Uso de meios digitais para aumentar alcance religioso sem caridade, precisão, responsabilidade ou respeito pela pessoa.",
+      "anchors": [
+        "Ef 4,15",
+        "CEC 2472"
+      ],
+      "tags": [
+        "redes",
+        "verdade"
+      ]
+    },
+    {
+      "id": "I14",
+      "column": "I",
+      "label": "Periferia esquecida",
+      "definition": "Situação em que populações marcadas por abandono recebem atenção apenas ocasional, sem presença missionária fiel.",
+      "anchors": [
+        "Lc 10,1-9",
+        "B04"
+      ],
+      "tags": [
+        "periferia",
+        "presença"
+      ]
+    },
+    {
+      "id": "I15",
+      "column": "I",
+      "label": "Missão entre presos",
+      "definition": "Presença cristã junto a pessoas encarceradas, unindo verdade sobre o mal cometido, dignidade humana e anúncio da misericórdia.",
+      "anchors": [
+        "Mt 25,36",
+        "G13"
+      ],
+      "tags": [
+        "presos",
+        "misericórdia"
+      ]
+    },
+    {
+      "id": "N01",
+      "column": "N",
+      "label": "Fé como clube",
+      "definition": "Engano que reduz a Igreja a grupo de pertencimento interno, confortável e seletivo, sem envio aos que estão fora.",
+      "anchors": [
+        "B02",
+        "Evangelii Nuntiandi 14"
+      ],
+      "tags": [
+        "fechamento",
+        "autoengano"
+      ]
+    },
+    {
+      "id": "N02",
+      "column": "N",
+      "label": "Missão como número",
+      "definition": "Desvio que mede evangelização apenas por público, cadastros, fotos ou estatísticas, esquecendo conversão e discipulado.",
+      "anchors": [
+        "B11",
+        "G14"
+      ],
+      "tags": [
+        "sucesso",
+        "vaidade"
+      ]
+    },
+    {
+      "id": "N03",
+      "column": "N",
+      "label": "Anunciar é impor",
+      "definition": "Narrativa falsa que confunde proposta livre e respeitosa do Evangelho com coerção, manipulação ou violência.",
+      "anchors": [
+        "1Pd 3,15",
+        "G01"
+      ],
+      "tags": [
+        "imposição",
+        "confusão"
+      ]
+    },
+    {
+      "id": "N04",
+      "column": "N",
+      "label": "Cada um na sua",
+      "definition": "Desculpa que usa o respeito como pretexto para negar ao outro a possibilidade de ouvir a verdade que salva.",
+      "anchors": [
+        "Rm 10,14-17",
+        "B05"
+      ],
+      "tags": [
+        "relativismo",
+        "omissão"
+      ]
+    },
+    {
+      "id": "N05",
+      "column": "N",
+      "label": "Basta ser gentil",
+      "definition": "Engano que troca evangelização por simpatia social e evita anunciar Cristo, pecado, graça, perdão e vida nova.",
+      "anchors": [
+        "B03",
+        "G04"
+      ],
+      "tags": [
+        "gentileza",
+        "redução"
+      ]
+    },
+    {
+      "id": "N06",
+      "column": "N",
+      "label": "Doutrina atrapalha",
+      "definition": "Narrativa que apresenta a doutrina cristã como obstáculo ao amor, quando ela serve à verdade e à cura da pessoa.",
+      "anchors": [
+        "Mt 28,20",
+        "B03"
+      ],
+      "tags": [
+        "doutrina",
+        "falsa oposição"
+      ]
+    },
+    {
+      "id": "N07",
+      "column": "N",
+      "label": "Só especialistas",
+      "definition": "Desculpa que transfere toda missão a ministros ou técnicos e apaga a responsabilidade missionária de cada batizado.",
+      "anchors": [
+        "Evangelii Gaudium 120",
+        "CEC 2472"
+      ],
+      "tags": [
+        "batizados",
+        "omissão"
+      ]
+    },
+    {
+      "id": "N08",
+      "column": "N",
+      "label": "Indiferença religiosa",
+      "definition": "Autoengano que usa a bondade de Deus para concluir que buscar, obedecer e anunciar a verdade não tem importância.",
+      "anchors": [
+        "1Tm 2,4",
+        "CEC 851"
+      ],
+      "tags": [
+        "indiferentismo",
+        "verdade"
+      ]
+    },
+    {
+      "id": "N09",
+      "column": "N",
+      "label": "Medo de conflito",
+      "definition": "Desculpa que chama de paz o silêncio covarde diante da verdade que deveria ser dita com caridade.",
+      "anchors": [
+        "At 4,20",
+        "G07"
+      ],
+      "tags": [
+        "medo",
+        "omissão"
+      ]
+    },
+    {
+      "id": "N10",
+      "column": "N",
+      "label": "Fé só privada",
+      "definition": "Narrativa que tenta prender a fé ao interior da consciência, impedindo que ela ilumine decisões públicas e concretas.",
+      "anchors": [
+        "Mt 5,14-16",
+        "CEC 2472"
+      ],
+      "tags": [
+        "vida pública",
+        "testemunho"
+      ]
+    },
+    {
+      "id": "N11",
+      "column": "N",
+      "label": "Cultura absoluta",
+      "definition": "Engano que trata qualquer prática cultural como intocável, mesmo quando fere a dignidade humana e contradiz o Evangelho.",
+      "anchors": [
+        "B06",
+        "G06"
+      ],
+      "tags": [
+        "cultura",
+        "discernimento"
+      ]
+    },
+    {
+      "id": "N12",
+      "column": "N",
+      "label": "Sucesso sem cruz",
+      "definition": "Desvio que só reconhece missão quando há aceitação rápida, aplauso e resultado visível, rejeitando a perseverança fiel.",
+      "anchors": [
+        "Mt 28,20",
+        "G14"
+      ],
+      "tags": [
+        "cruz",
+        "perseverança"
+      ]
+    },
+    {
+      "id": "N13",
+      "column": "N",
+      "label": "Caridade sem Cristo",
+      "definition": "Redução que conserva alguma ajuda material, mas corta a fonte e o horizonte cristão da missão.",
+      "anchors": [
+        "B14",
+        "I07"
+      ],
+      "tags": [
+        "caridade",
+        "redução"
+      ]
+    },
+    {
+      "id": "N14",
+      "column": "N",
+      "label": "Verdade sem amor",
+      "definition": "Desvio que usa conteúdos verdadeiros para humilhar, vencer discussão ou esmagar a pessoa, traindo o modo de Cristo.",
+      "anchors": [
+        "Ef 4,15",
+        "G08"
+      ],
+      "tags": [
+        "verdade",
+        "dureza"
+      ]
+    },
+    {
+      "id": "N15",
+      "column": "N",
+      "label": "Depois eu falo",
+      "definition": "Autoengano que adia indefinidamente o anúncio ou a reconciliação, como se toda ocasião concreta pudesse voltar.",
+      "anchors": [
+        "2Cor 6,2",
+        "I08"
+      ],
+      "tags": [
+        "adiamento",
+        "ocasião"
+      ]
+    },
+    {
+      "id": "G01",
+      "column": "G",
+      "label": "Proposta ou imposição",
+      "definition": "Distingue anunciar Cristo com clareza e liberdade de pressionar, manipular ou forçar uma resposta religiosa.",
+      "anchors": [
+        "1Pd 3,15",
+        "N03"
+      ],
+      "tags": [
+        "liberdade",
+        "anúncio"
+      ]
+    },
+    {
+      "id": "G02",
+      "column": "G",
+      "label": "Acolhida ou aprovação",
+      "definition": "Distingue receber a pessoa com dignidade de confirmar todo comportamento como se conversão não fosse necessária.",
+      "anchors": [
+        "Jo 8,11",
+        "B11"
+      ],
+      "tags": [
+        "acolhida",
+        "conversão"
+      ]
+    },
+    {
+      "id": "G03",
+      "column": "G",
+      "label": "Anúncio ou propaganda",
+      "definition": "Distingue proclamar o Evangelho para servir à salvação de vender uma imagem religiosa para atrair adesão superficial.",
+      "anchors": [
+        "2Cor 4,5",
+        "N02"
+      ],
+      "tags": [
+        "anúncio",
+        "propaganda"
+      ]
+    },
+    {
+      "id": "G04",
+      "column": "G",
+      "label": "Testemunho e palavra",
+      "definition": "Distingue o testemunho que dá credibilidade da palavra explícita que anuncia Cristo; um não substitui automaticamente o outro.",
+      "anchors": [
+        "Rm 10,14-17",
+        "B08"
+      ],
+      "tags": [
+        "testemunho",
+        "palavra"
+      ]
+    },
+    {
+      "id": "G05",
+      "column": "G",
+      "label": "Diálogo e relativismo",
+      "definition": "Distingue escutar e conversar com respeito de concluir que nenhuma verdade deve ser anunciada.",
+      "anchors": [
+        "1Pd 3,15",
+        "B03"
+      ],
+      "tags": [
+        "diálogo",
+        "verdade"
+      ]
+    },
+    {
+      "id": "G06",
+      "column": "G",
+      "label": "Cultura e Evangelho",
+      "definition": "Distingue respeitar culturas concretas de aceitar práticas que ferem a dignidade humana e precisam ser purificadas pelo Evangelho.",
+      "anchors": [
+        "1Cor 9,22",
+        "B06"
+      ],
+      "tags": [
+        "cultura",
+        "evangelho"
+      ]
+    },
+    {
+      "id": "G07",
+      "column": "G",
+      "label": "Prudência e omissão",
+      "definition": "Distingue escolher meios seguros e oportunos de abandonar a missão por medo, conforto ou falta de coragem.",
+      "anchors": [
+        "Mt 10,16",
+        "N09"
+      ],
+      "tags": [
+        "prudência",
+        "omissão"
+      ]
+    },
+    {
+      "id": "G08",
+      "column": "G",
+      "label": "Firmeza e dureza",
+      "definition": "Distingue dizer a verdade com caridade de usar a verdade como instrumento de agressão, humilhação ou superioridade.",
+      "anchors": [
+        "Ef 4,15",
+        "N14"
+      ],
+      "tags": [
+        "firmeza",
+        "caridade"
+      ]
+    },
+    {
+      "id": "G09",
+      "column": "G",
+      "label": "Unidade e uniformidade",
+      "definition": "Distingue comunhão na mesma fé de imposição de um único estilo cultural, devocional ou social.",
+      "anchors": [
+        "Gl 3,28",
+        "B06"
+      ],
+      "tags": [
+        "unidade",
+        "catolicidade"
+      ]
+    },
+    {
+      "id": "G10",
+      "column": "G",
+      "label": "Missão e ativismo",
+      "definition": "Distingue ação missionária enraizada em Cristo de excesso de tarefas que perde oração, Palavra e finalidade espiritual.",
+      "anchors": [
+        "Jo 15,5",
+        "B12"
+      ],
+      "tags": [
+        "ativismo",
+        "oração"
+      ]
+    },
+    {
+      "id": "G11",
+      "column": "G",
+      "label": "Respeito e silêncio",
+      "definition": "Distingue respeito pela liberdade alheia de calar a fé quando alguém pede razão da esperança cristã.",
+      "anchors": [
+        "1Pd 3,15",
+        "N04"
+      ],
+      "tags": [
+        "respeito",
+        "testemunho"
+      ]
+    },
+    {
+      "id": "G12",
+      "column": "G",
+      "label": "Misericórdia e banalização",
+      "definition": "Distingue oferecer perdão e recomeço de tratar pecado, dano e conversão como se não importassem.",
+      "anchors": [
+        "Lc 15,7",
+        "G02"
+      ],
+      "tags": [
+        "misericórdia",
+        "pecado"
+      ]
+    },
+    {
+      "id": "G13",
+      "column": "G",
+      "label": "Pessoa e erro",
+      "definition": "Distingue a dignidade inviolável da pessoa da maldade real de seus atos, evitando tanto desprezo quanto desculpa moral.",
+      "anchors": [
+        "Gn 1,27",
+        "Jo 8,11"
+      ],
+      "tags": [
+        "dignidade",
+        "pecado"
+      ]
+    },
+    {
+      "id": "G14",
+      "column": "G",
+      "label": "Fruto e sucesso",
+      "definition": "Distingue fecundidade espiritual de sucesso aparente, lembrando que a missão pode dar fruto sem espetáculo.",
+      "anchors": [
+        "Jo 15,5",
+        "N02"
+      ],
+      "tags": [
+        "fruto",
+        "sucesso"
+      ]
+    },
+    {
+      "id": "G15",
+      "column": "G",
+      "label": "Perseguição e culpa",
+      "definition": "Distingue rejeição sofrida por fidelidade ao Evangelho de rejeição causada por imprudência, arrogância ou falta de caridade.",
+      "anchors": [
+        "Mt 5,11-12",
+        "G08"
+      ],
+      "tags": [
+        "perseguição",
+        "discernimento"
+      ]
+    },
+    {
+      "id": "O01",
+      "column": "O",
+      "label": "Fazer primeiro anúncio",
+      "definition": "Dizer de modo simples e verdadeiro quem é Cristo, o que Ele fez por nós e por que chama à conversão e à vida nova.",
+      "anchors": [
+        "Rm 10,14-17",
+        "I02"
+      ],
+      "tags": [
+        "anúncio",
+        "querigma"
+      ]
+    },
+    {
+      "id": "O02",
+      "column": "O",
+      "label": "Convidar com clareza",
+      "definition": "Fazer um convite concreto, respeitoso e compreensível para oração, conversa, sacramentos, formação ou vida comunitária.",
+      "anchors": [
+        "Lc 14,23",
+        "I08"
+      ],
+      "tags": [
+        "convite",
+        "resposta"
+      ]
+    },
+    {
+      "id": "O03",
+      "column": "O",
+      "label": "Escutar antes de falar",
+      "definition": "Ouvir a história real da pessoa antes de responder, corrigir ou orientar, especialmente quando há ferida ou desconfiança.",
+      "anchors": [
+        "Tg 1,19",
+        "I09"
+      ],
+      "tags": [
+        "escuta",
+        "prudência"
+      ]
+    },
+    {
+      "id": "O04",
+      "column": "O",
+      "label": "Rezar por nomes",
+      "definition": "Interceder concretamente por pessoas e situações, evitando oração genérica que não compromete coração nem memória.",
+      "anchors": [
+        "1Tm 2,1-4",
+        "B04"
+      ],
+      "tags": [
+        "oração",
+        "intercessão"
+      ]
+    },
+    {
+      "id": "O05",
+      "column": "O",
+      "label": "Estudar a fé",
+      "definition": "Buscar formação séria para anunciar com fidelidade, responder dúvidas honestas e evitar improviso confuso.",
+      "anchors": [
+        "Mt 28,20",
+        "1Pd 3,15"
+      ],
+      "tags": [
+        "formação",
+        "doutrina"
+      ]
+    },
+    {
+      "id": "O06",
+      "column": "O",
+      "label": "Assumir testemunho",
+      "definition": "Reconhecer publicamente, com sobriedade e coragem, que a fé orienta escolhas concretas de verdade, justiça e caridade.",
+      "anchors": [
+        "Mt 5,14-16",
+        "CEC 2472"
+      ],
+      "tags": [
+        "testemunho",
+        "coragem"
+      ]
+    },
+    {
+      "id": "O07",
+      "column": "O",
+      "label": "Servir nomeando Cristo",
+      "definition": "Realizar a caridade com competência e respeito, sem esconder que sua fonte é Cristo e seu horizonte é a salvação integral.",
+      "anchors": [
+        "B14",
+        "N13"
+      ],
+      "tags": [
+        "serviço",
+        "cristo"
+      ]
+    },
+    {
+      "id": "O08",
+      "column": "O",
+      "label": "Corrigir com caridade",
+      "definition": "Nomear o erro, proteger o bem e chamar à conversão sem humilhar, esmagar ou abandonar a pessoa.",
+      "anchors": [
+        "Ef 4,15",
+        "G08"
+      ],
+      "tags": [
+        "correção",
+        "caridade"
+      ]
+    },
+    {
+      "id": "O09",
+      "column": "O",
+      "label": "Buscar acompanhamento",
+      "definition": "Recorrer a pessoa madura na fé quando a missão envolve conflito, ferida, dúvida grave ou risco de imprudência.",
+      "anchors": [
+        "Pr 11,14",
+        "G07"
+      ],
+      "tags": [
+        "acompanhamento",
+        "prudência"
+      ]
+    },
+    {
+      "id": "O10",
+      "column": "O",
+      "label": "Agir com a Igreja",
+      "definition": "Realizar a missão em comunhão, envio, responsabilidade e prestação de contas, evitando iniciativa isolada e desordenada.",
+      "anchors": [
+        "At 13,2-3",
+        "B02"
+      ],
+      "tags": [
+        "comunhão",
+        "envio"
+      ]
+    },
+    {
+      "id": "O11",
+      "column": "O",
+      "label": "Sustentar missionários",
+      "definition": "Apoiar a missão com oração, recursos, cuidado, logística e fidelidade comunitária quando nem todos podem ir pessoalmente.",
+      "anchors": [
+        "Fl 4,15-16",
+        "B04"
+      ],
+      "tags": [
+        "apoio",
+        "corresponsabilidade"
+      ]
+    },
+    {
+      "id": "O12",
+      "column": "O",
+      "label": "Responder objeções",
+      "definition": "Responder críticas e dúvidas com verdade, mansidão e clareza, sem ironia, fuga ou agressividade.",
+      "anchors": [
+        "1Pd 3,15",
+        "G08"
+      ],
+      "tags": [
+        "apologética",
+        "mansidão"
+      ]
+    },
+    {
+      "id": "O13",
+      "column": "O",
+      "label": "Reparar escândalo",
+      "definition": "Quando o testemunho cristão causou dano, reconhecer a falta, corrigir estruturas, pedir perdão e reparar o possível.",
+      "anchors": [
+        "Lc 19,8",
+        "B08"
+      ],
+      "tags": [
+        "reparação",
+        "escândalo"
+      ]
+    },
+    {
+      "id": "O14",
+      "column": "O",
+      "label": "Perseverar na rejeição",
+      "definition": "Continuar fiel à missão depois de recusas, ajustando meios com prudência sem abandonar Cristo por medo de rejeição.",
+      "anchors": [
+        "Mt 28,20",
+        "G15"
+      ],
+      "tags": [
+        "perseverança",
+        "rejeição"
+      ]
+    },
+    {
+      "id": "O15",
+      "column": "O",
+      "label": "Formar discípulos",
+      "definition": "Acompanhar quem recebeu o anúncio para aprender a fé, participar dos sacramentos e viver o que Cristo ensinou.",
+      "anchors": [
+        "Mt 28,19-20",
+        "B11"
+      ],
+      "tags": [
+        "discipulado",
+        "formação"
+      ]
+    }
+  ]
+}

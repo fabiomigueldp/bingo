@@ -1,0 +1,2033 @@
+{
+  "title": "Chamadas — Bingo A vida em comunidade",
+  "meeting": "Encontro 28 — A vida em comunidade",
+  "source_terms": "data/termos.json",
+  "method": {
+    "read_order": [
+      "call_label",
+      "case",
+      "reading_points"
+    ],
+    "rule": "A cada carta, anuncie código e conceito, leia o caso e explique brevemente a relação usando a Leitura do caso. Depois as equipes marcam o código, se estiver na cartela.",
+    "conference_rule": "Ao fechar duas linhas válidas, horizontais, verticais ou diagonais, a equipe escolhe uma dessas linhas completas, explica pelo menos três conceitos da linha escolhida e liga pelo menos um deles à base bíblica ou doutrinal do encontro. As duas linhas podem se cruzar. O centro livre já conta como casa marcada para completar linhas, mas não conta como um dos três conceitos explicados."
+  },
+  "cards": [
+    {
+      "id": "B01",
+      "term_id": "B01",
+      "call_label": "B01 - Corpo de Cristo",
+      "case": "Uma pessoa diz que se considera cristã, mas não quer depender de Igreja, sacramentos, doutrina ou irmãos concretos, porque prefere viver a fé sozinha.",
+      "conference_question": "Por que a imagem do Corpo de Cristo impede reduzir a fé a uma experiência individual?",
+      "anchors": [
+        "1Cor 12,12-27",
+        "CEC 960",
+        "CEC 961"
+      ],
+      "facilitator_note": "Mostre que pertencimento cristão não é enfeite social, mas parte da forma da fé.",
+      "reading_points": [
+        {
+          "title": "Isolamento religioso",
+          "body": "A pessoa quer Cristo sem o corpo visível no qual Cristo reúne, alimenta e corrige seus discípulos."
+        },
+        {
+          "title": "Membro e responsabilidade",
+          "body": "No corpo, ninguém vive só para si, e a dor ou a ausência de um membro pesa sobre os outros."
+        },
+        {
+          "title": "Igreja concreta",
+          "body": "A fé cristã amadurece na Igreja real, com sacramentos, doutrina, serviço e irmãos concretos."
+        }
+      ]
+    },
+    {
+      "id": "B02",
+      "term_id": "B02",
+      "call_label": "B02 - Doutrina dos Apóstolos",
+      "case": "Numa reunião de comunidade, alguém propõe mudar uma orientação da fé porque a maioria acha mais fácil aceitar outra ideia.",
+      "conference_question": "Como distinguir escuta pastoral de abandono da doutrina recebida dos Apóstolos?",
+      "anchors": [
+        "At 2,42",
+        "CEC 949"
+      ],
+      "facilitator_note": "Evite apresentar doutrina como opinião dura; ela é fé recebida e guardada pela Igreja.",
+      "reading_points": [
+        {
+          "title": "Fé recebida",
+          "body": "A comunidade não inventa a fé a partir da preferência do momento."
+        },
+        {
+          "title": "Perigo da maioria",
+          "body": "Votação, simpatia ou pressão cultural não substituem o ensinamento apostólico."
+        },
+        {
+          "title": "Comunhão na verdade",
+          "body": "Perseverar na doutrina protege a comunidade da confusão e mantém a unidade da fé."
+        }
+      ]
+    },
+    {
+      "id": "B03",
+      "term_id": "B03",
+      "call_label": "B03 - Comunhão fraterna",
+      "case": "Um grupo de voluntários trabalha bem junto, mas só conversa entre si e trata os novos como intrusos.",
+      "conference_question": "Que diferença existe entre amizade de grupo e comunhão fraterna na Igreja?",
+      "anchors": [
+        "At 2,42",
+        "At 4,32",
+        "CEC 949"
+      ],
+      "facilitator_note": "Ajude a turma a perceber que comunhão é mais que clima agradável entre conhecidos.",
+      "reading_points": [
+        {
+          "title": "Vínculo fechado",
+          "body": "A boa convivência interna pode esconder fechamento contra quem chega."
+        },
+        {
+          "title": "Comunhão exigente",
+          "body": "A comunhão cristã nasce de Cristo e se abre ao irmão concreto, não apenas ao semelhante."
+        },
+        {
+          "title": "Fraternidade visível",
+          "body": "A comunidade deve criar pertença real, com acolhida, responsabilidade e partilha de vida."
+        }
+      ]
+    },
+    {
+      "id": "B04",
+      "term_id": "B04",
+      "call_label": "B04 - Fração do pão",
+      "case": "Uma comunidade organiza muitas ações sociais, mas a Missa fica vazia e a Eucaristia vira detalhe no calendário.",
+      "conference_question": "Por que a caridade comunitária perde o centro quando se afasta da Eucaristia?",
+      "anchors": [
+        "At 2,42",
+        "CEC 1324",
+        "CEC 1396"
+      ],
+      "facilitator_note": "Ligue o serviço concreto ao centro eucarístico, sem opor culto e caridade.",
+      "reading_points": [
+        {
+          "title": "Centro deslocado",
+          "body": "As ações podem ser boas, mas não substituem a fonte que forma a comunidade cristã."
+        },
+        {
+          "title": "Unidade eucarística",
+          "body": "A fração do pão une os fiéis a Cristo e entre si como um só corpo."
+        },
+        {
+          "title": "Serviço alimentado",
+          "body": "A Eucaristia envia a comunidade a servir sem transformar a fé em mero ativismo."
+        }
+      ]
+    },
+    {
+      "id": "B05",
+      "term_id": "B05",
+      "call_label": "B05 - Orações comuns",
+      "case": "Cada família reza quando pode, mas a comunidade quase nunca se reúne para interceder, agradecer ou escutar a Palavra em comum.",
+      "conference_question": "O que a oração comum forma na comunidade que a devoção isolada não consegue formar sozinha?",
+      "anchors": [
+        "At 2,42",
+        "Hb 10,24-25"
+      ],
+      "facilitator_note": "Valorize a oração pessoal, mas mostre que ela não dispensa a oração da Igreja.",
+      "reading_points": [
+        {
+          "title": "Fragmentação espiritual",
+          "body": "A oração privada é boa, mas pode não criar vínculo comunitário nem perseverança comum."
+        },
+        {
+          "title": "Povo que reza",
+          "body": "Desde o início, os cristãos perseveravam nas orações, não apenas em práticas individuais."
+        },
+        {
+          "title": "Sustento da missão",
+          "body": "A oração comum educa a escuta de Deus e sustenta a caridade concreta."
+        }
+      ]
+    },
+    {
+      "id": "B06",
+      "term_id": "B06",
+      "call_label": "B06 - Um só coração",
+      "case": "Duas equipes servem a mesma obra, mas cada uma defende seu modo como se a outra fosse inimiga.",
+      "conference_question": "Como buscar um só coração sem exigir que todos pensem igual em detalhes legítimos?",
+      "anchors": [
+        "At 4,32",
+        "Ef 4,1-6",
+        "Jo 17,20-23"
+      ],
+      "facilitator_note": "Destaque que unidade cristã não é apagar diferenças, mas ordenar diferenças na caridade.",
+      "reading_points": [
+        {
+          "title": "Facção prática",
+          "body": "O serviço ao mesmo bem se perde quando a equipe passa a defender território."
+        },
+        {
+          "title": "Unidade de graça",
+          "body": "Ser um só coração nasce da fé comum e da caridade, não de gosto idêntico."
+        },
+        {
+          "title": "Diferenças ordenadas",
+          "body": "Dons e modos diferentes podem servir a mesma missão quando há humildade e verdade."
+        }
+      ]
+    },
+    {
+      "id": "B07",
+      "term_id": "B07",
+      "call_label": "B07 - Bens em comum",
+      "case": "Uma família da comunidade perde a renda, enquanto outras famílias têm sobra, mas ninguém quer falar de ajuda concreta para não se envolver.",
+      "conference_question": "O que significa tratar os bens como responsabilidade diante de Deus e dos irmãos?",
+      "anchors": [
+        "At 4,32-35",
+        "CEC 952"
+      ],
+      "facilitator_note": "Explique que Atos não impõe uma regra econômica simples, mas revela um princípio cristão sério.",
+      "reading_points": [
+        {
+          "title": "Necessidade próxima",
+          "body": "A carência de uma família conhecida não pode ser tratada como assunto estranho à comunidade."
+        },
+        {
+          "title": "Posse responsável",
+          "body": "A fé cristã não permite olhar os bens como domínio absoluto sem obrigação moral."
+        },
+        {
+          "title": "Partilha concreta",
+          "body": "A comunhão de fé deve gerar abertura real dos bens conforme a necessidade."
+        }
+      ]
+    },
+    {
+      "id": "B08",
+      "term_id": "B08",
+      "call_label": "B08 - Administradores de Deus",
+      "case": "Uma pessoa tem tempo, conhecimento e recursos para ajudar, mas diz que nada disso diz respeito a ninguém além dela.",
+      "conference_question": "Como muda a visão dos bens quando alguém se reconhece administrador de Deus?",
+      "anchors": [
+        "CEC 952",
+        "1Pd 4,10"
+      ],
+      "facilitator_note": "Inclua bens materiais, dons, tempo, influência e capacidades pessoais.",
+      "reading_points": [
+        {
+          "title": "Dom privatizado",
+          "body": "A pessoa trata o que recebeu como se fosse posse sem finalidade comunitária."
+        },
+        {
+          "title": "Administração cristã",
+          "body": "Ser administrador não elimina a propriedade, mas coloca os bens diante de Deus e do próximo."
+        },
+        {
+          "title": "Serviço dos dons",
+          "body": "Dons e recursos devem estar disponíveis para o bem comum e para os necessitados."
+        }
+      ]
+    },
+    {
+      "id": "B09",
+      "term_id": "B09",
+      "call_label": "B09 - Caridade concreta",
+      "case": "Após ouvir que uma vizinha idosa está sem comida em casa, várias pessoas dizem que sentem pena, mas ninguém verifica o que ela precisa.",
+      "conference_question": "Por que a compaixão sem gesto concreto ainda não realiza a caridade cristã?",
+      "anchors": [
+        "1Jo 3,16-18",
+        "Tg 2,14-17",
+        "CEC 2447"
+      ],
+      "facilitator_note": "Mostre que caridade não é emoção passageira, mas decisão concreta e possível.",
+      "reading_points": [
+        {
+          "title": "Pena sem ação",
+          "body": "O sofrimento é reconhecido, mas não recebe presença, comida, encaminhamento ou ajuda real."
+        },
+        {
+          "title": "Critério bíblico",
+          "body": "A fé sem obras e o amor só de palavra não respondem à necessidade do irmão."
+        },
+        {
+          "title": "Gesto proporcional",
+          "body": "A caridade se torna concreta quando alguém assume um passo possível e responsável."
+        }
+      ]
+    },
+    {
+      "id": "B10",
+      "term_id": "B10",
+      "call_label": "B10 - Necessidade real",
+      "case": "Na distribuição de cestas, uma família com urgência grave recebe o mesmo que outra sem falta imediata, porque ninguém quis avaliar caso por caso.",
+      "conference_question": "Por que tratar todos do mesmo modo nem sempre é a forma mais justa de partilhar?",
+      "anchors": [
+        "At 4,35",
+        "2Cor 8,13-15"
+      ],
+      "facilitator_note": "Ajude a distinguir igualdade de dignidade e discernimento concreto das necessidades.",
+      "reading_points": [
+        {
+          "title": "Distribuição cega",
+          "body": "A mesma quantidade para todos pode ignorar necessidades muito diferentes."
+        },
+        {
+          "title": "Segundo a necessidade",
+          "body": "Atos mostra uma partilha que considera a situação concreta de cada pessoa."
+        },
+        {
+          "title": "Justiça prudente",
+          "body": "Discernir necessidades protege os mais frágeis sem negar a dignidade de ninguém."
+        }
+      ]
+    },
+    {
+      "id": "B11",
+      "term_id": "B11",
+      "call_label": "B11 - Bem comum",
+      "case": "Moradores recusam qualquer solução para o barulho, a limpeza e a segurança do prédio porque cada um diz que paga sua taxa e vive como quiser.",
+      "conference_question": "Que critério cristão ajuda a passar do interesse particular ao bem comum?",
+      "anchors": [
+        "CEC 1905-1912",
+        "Rm 12,4-13"
+      ],
+      "facilitator_note": "Aplique o conceito à vida social e eclesial, sem transformar em debate partidário.",
+      "reading_points": [
+        {
+          "title": "Interesse isolado",
+          "body": "Cada pessoa protege sua conveniência imediata e esquece as condições de vida de todos."
+        },
+        {
+          "title": "Vida compartilhada",
+          "body": "Comunidade exige condições justas para que todos possam viver com dignidade."
+        },
+        {
+          "title": "Responsabilidade comum",
+          "body": "Buscar o bem comum pede renúncia, ordem e decisões que ultrapassam o gosto individual."
+        }
+      ]
+    },
+    {
+      "id": "B12",
+      "term_id": "B12",
+      "call_label": "B12 - Solidariedade cristã",
+      "case": "Um trabalhador adoece, perde renda e começa a faltar compromissos, mas os conhecidos só comentam que ele ficou irresponsável.",
+      "conference_question": "Como a solidariedade cristã muda a maneira de ler o peso que o outro carrega?",
+      "anchors": [
+        "Gl 6,2",
+        "CEC 1939",
+        "CEC 1940"
+      ],
+      "facilitator_note": "Mostre que solidariedade não é sentimentalismo nem controle, mas responsabilidade pelo outro.",
+      "reading_points": [
+        {
+          "title": "Peso ignorado",
+          "body": "A dificuldade é julgada de fora sem considerar doença, perda e fragilidade concreta."
+        },
+        {
+          "title": "Carregar fardos",
+          "body": "A solidariedade cristã reconhece que o sofrimento do outro chama uma resposta."
+        },
+        {
+          "title": "Ajuda digna",
+          "body": "Apoiar não é dominar a pessoa, mas ajudá-la a atravessar a carga com dignidade."
+        }
+      ]
+    },
+    {
+      "id": "B13",
+      "term_id": "B13",
+      "call_label": "B13 - Unidade na verdade",
+      "case": "Para evitar desconforto, uma equipe finge que não há erro grave na condução de uma obra, mas a confiança do grupo começa a se desfazer.",
+      "conference_question": "Por que a unidade cristã precisa da verdade, e não apenas de aparência de paz?",
+      "anchors": [
+        "Ef 4,1-6",
+        "Jo 17,20-23",
+        "B03"
+      ],
+      "facilitator_note": "Evite opor caridade e verdade; mostre que uma sem a outra adoece a comunidade.",
+      "reading_points": [
+        {
+          "title": "Paz aparente",
+          "body": "O silêncio evita conflito imediato, mas permite que a desconfiança cresça."
+        },
+        {
+          "title": "Verdade necessária",
+          "body": "A unidade que abandona a verdade vira encenação e não sustenta comunhão."
+        },
+        {
+          "title": "Caridade firme",
+          "body": "A resposta cristã trata o erro com clareza e sem humilhação."
+        }
+      ]
+    },
+    {
+      "id": "B14",
+      "term_id": "B14",
+      "call_label": "B14 - Testemunho pascal",
+      "case": "Depois de uma crise no bairro, uma comunidade cristã organiza ajuda discreta, reza com os feridos e fala de Cristo sem explorar a dor de ninguém.",
+      "conference_question": "Como a comunidade testemunha a Ressurreição sem transformar a dor alheia em propaganda?",
+      "anchors": [
+        "At 4,33",
+        "CEC 1815"
+      ],
+      "facilitator_note": "Mostre que o testemunho une palavra, coragem, caridade e respeito pela pessoa ferida.",
+      "reading_points": [
+        {
+          "title": "Crise real",
+          "body": "A comunidade não foge da dor nem a usa para aparecer."
+        },
+        {
+          "title": "Coragem apostólica",
+          "body": "Os apóstolos testemunhavam a Ressurreição com grande coragem e graça."
+        },
+        {
+          "title": "Vida que anuncia",
+          "body": "O anúncio de Cristo se torna visível quando a caridade acompanha a palavra."
+        }
+      ]
+    },
+    {
+      "id": "B15",
+      "term_id": "B15",
+      "call_label": "B15 - Ordem e paz",
+      "case": "Numa assembleia, várias pessoas falam ao mesmo tempo, acusações se misturam a boatos e ninguém consegue decidir o que é justo fazer.",
+      "conference_question": "Por que ordem e paz são exigências da caridade, e não simples formalidade?",
+      "anchors": [
+        "1Cor 14,33.40",
+        "At 6,1-7"
+      ],
+      "facilitator_note": "Explique que ordem comunitária protege pessoas e decisões, especialmente em conflitos.",
+      "reading_points": [
+        {
+          "title": "Confusão coletiva",
+          "body": "Sem ordem, a fala mais forte pode abafar fatos, pessoas e necessidades."
+        },
+        {
+          "title": "Deus de paz",
+          "body": "A vida cristã deve ser conduzida com dignidade, clareza e paz."
+        },
+        {
+          "title": "Decisão responsável",
+          "body": "Organizar escuta e critérios ajuda a comunidade a agir com justiça."
+        }
+      ]
+    },
+    {
+      "id": "I01",
+      "term_id": "I01",
+      "call_label": "I01 - Fé isolada",
+      "case": "Um homem acompanha pregações pela internet, mas há anos não se confessa, não participa da Eucaristia e não deixa ninguém conhecer sua vida real.",
+      "conference_question": "Que perdas espirituais aparecem quando a fé fica sem comunidade concreta?",
+      "anchors": [
+        "At 2,42-47",
+        "Hb 10,24-25",
+        "B01"
+      ],
+      "facilitator_note": "Não ridicularize recursos digitais; mostre o limite de uma fé sem vínculo sacramental e comunitário.",
+      "reading_points": [
+        {
+          "title": "Conteúdo sem pertença",
+          "body": "A pessoa consome mensagens religiosas, mas evita sacramentos, correção e irmãos concretos."
+        },
+        {
+          "title": "Risco espiritual",
+          "body": "Sem comunidade, a fé pode virar preferência privada sem conversão verificável."
+        },
+        {
+          "title": "Forma cristã",
+          "body": "Atos mostra discípulos perseverando juntos na doutrina, comunhão, Eucaristia e orações."
+        }
+      ]
+    },
+    {
+      "id": "I02",
+      "term_id": "I02",
+      "call_label": "I02 - Missa sem vínculo",
+      "case": "Uma pessoa vai à Missa em datas importantes, sai logo depois e não conhece ninguém nem assume qualquer responsabilidade na comunidade.",
+      "conference_question": "Como distinguir participação sacramental real de presença religiosa sem vínculo comunitário?",
+      "anchors": [
+        "At 2,42-47",
+        "B04",
+        "B03"
+      ],
+      "facilitator_note": "Afirme a importância da Missa, mas mostre que ela deve gerar comunhão e vida cristã.",
+      "reading_points": [
+        {
+          "title": "Presença mínima",
+          "body": "A pessoa se aproxima do rito, mas evita vínculo, serviço e convivência fraterna."
+        },
+        {
+          "title": "Eucaristia que une",
+          "body": "A fração do pão forma um corpo, não espectadores religiosos sem relação."
+        },
+        {
+          "title": "Pertença madura",
+          "body": "Participar da comunidade inclui conhecer, servir, rezar e caminhar com os irmãos."
+        }
+      ]
+    },
+    {
+      "id": "I03",
+      "term_id": "I03",
+      "call_label": "I03 - Necessitado invisível",
+      "case": "Uma senhora deixa de aparecer nas reuniões por falta de dinheiro para o transporte, mas todos apenas supõem que ela perdeu o interesse.",
+      "conference_question": "O que a comunidade deveria perguntar antes de concluir que alguém se afastou por desinteresse?",
+      "anchors": [
+        "At 4,34-35",
+        "Mt 25,31-46",
+        "B10"
+      ],
+      "facilitator_note": "Mostre como a omissão nasce muitas vezes de suposições não verificadas.",
+      "reading_points": [
+        {
+          "title": "Sofrimento escondido",
+          "body": "A ausência tem uma causa concreta que ninguém procurou conhecer."
+        },
+        {
+          "title": "Olhar comunitário",
+          "body": "A comunidade cristã não presume culpa antes de enxergar a necessidade."
+        },
+        {
+          "title": "Resposta possível",
+          "body": "Perguntar, visitar e organizar ajuda proporcional tornam a necessidade visível."
+        }
+      ]
+    },
+    {
+      "id": "I04",
+      "term_id": "I04",
+      "call_label": "I04 - Partilha seletiva",
+      "case": "Na campanha de alimentos, as primeiras cestas são separadas para famílias conhecidas dos organizadores, enquanto outras situações mais graves ficam para depois.",
+      "conference_question": "Que critério impede que a partilha seja guiada por preferência pessoal?",
+      "anchors": [
+        "At 4,35",
+        "Lc 10,25-37",
+        "B09"
+      ],
+      "facilitator_note": "Destaque que proximidade afetiva não deve substituir discernimento da necessidade.",
+      "reading_points": [
+        {
+          "title": "Preferência disfarçada",
+          "body": "A ajuda começa pelos conhecidos, não pelos casos mais urgentes."
+        },
+        {
+          "title": "Próximo real",
+          "body": "O Evangelho desloca a pergunta do gosto pessoal para a necessidade concreta."
+        },
+        {
+          "title": "Partilha justa",
+          "body": "A comunidade deve ordenar a ajuda por critérios claros e caridade verdadeira."
+        }
+      ]
+    },
+    {
+      "id": "I05",
+      "term_id": "I05",
+      "call_label": "I05 - Panelinha comunitária",
+      "case": "Depois da celebração, sempre o mesmo grupo decide tudo na conversa do estacionamento, e quem não faz parte dele só recebe ordens prontas.",
+      "conference_question": "Por que esse tipo de proximidade pode ferir a comunhão em vez de fortalecê-la?",
+      "anchors": [
+        "At 2,44",
+        "B03",
+        "G01"
+      ],
+      "facilitator_note": "Não condene amizades; critique o fechamento que captura a vida comum.",
+      "reading_points": [
+        {
+          "title": "Decisão fechada",
+          "body": "As conversas privadas passam a ocupar o lugar dos processos comunitários."
+        },
+        {
+          "title": "Comunhão reduzida",
+          "body": "A fraternidade vira privilégio de um círculo e exclui quem também pertence."
+        },
+        {
+          "title": "Abertura necessária",
+          "body": "A comunidade precisa de participação clara, escuta e espaço para novos dons."
+        }
+      ]
+    },
+    {
+      "id": "I06",
+      "term_id": "I06",
+      "call_label": "I06 - Fofoca de corredor",
+      "case": "Um erro de coordenação vira assunto em mensagens privadas; todos comentam, mas ninguém procura a pessoa responsável para esclarecer os fatos.",
+      "conference_question": "Como a correção fraterna muda o caminho de uma conversa que virou fofoca?",
+      "anchors": [
+        "Mt 18,15-17",
+        "B13",
+        "O07"
+      ],
+      "facilitator_note": "Mostre que falar sobre a pessoa sem buscar o bem dela agrava o dano.",
+      "reading_points": [
+        {
+          "title": "Comentário indireto",
+          "body": "A falha circula entre terceiros sem compromisso com verdade ou reparação."
+        },
+        {
+          "title": "Dano ampliado",
+          "body": "A fofoca cria versões, desconfiança e facções antes de ouvir quem deve ser ouvido."
+        },
+        {
+          "title": "Caminho evangélico",
+          "body": "A resposta é procurar a pessoa, esclarecer fatos e corrigir com caridade."
+        }
+      ]
+    },
+    {
+      "id": "I07",
+      "term_id": "I07",
+      "call_label": "I07 - Serviço de vitrine",
+      "case": "Durante uma entrega de doações, alguém insiste em filmar rostos de famílias vulneráveis para publicar que a ação foi um sucesso.",
+      "conference_question": "Quando uma ação de ajuda deixa de servir o necessitado e começa a servir a imagem de quem ajuda?",
+      "anchors": [
+        "Mt 6,1-4",
+        "B09",
+        "G06"
+      ],
+      "facilitator_note": "Trate com firmeza a exposição de vulneráveis; caridade não usa a dor alheia como propaganda.",
+      "reading_points": [
+        {
+          "title": "Exposição do pobre",
+          "body": "A pessoa ajudada vira material de divulgação em um momento de fragilidade."
+        },
+        {
+          "title": "Intenção desviada",
+          "body": "O serviço começa a buscar reconhecimento em vez de proteger a dignidade."
+        },
+        {
+          "title": "Discrição cristã",
+          "body": "A caridade concreta pode prestar contas sem transformar o necessitado em vitrine."
+        }
+      ]
+    },
+    {
+      "id": "I08",
+      "term_id": "I08",
+      "call_label": "I08 - Liderança dominadora",
+      "case": "O responsável por uma pastoral decide tudo sozinho, interrompe quem discorda e diz que sem ele nada funciona.",
+      "conference_question": "Que sinais mostram que uma autoridade deixou de servir e começou a dominar?",
+      "anchors": [
+        "Mt 20,25-28",
+        "B15",
+        "G05"
+      ],
+      "facilitator_note": "Diferencie autoridade legítima de personalismo e abuso de função.",
+      "reading_points": [
+        {
+          "title": "Poder concentrado",
+          "body": "A função comunitária é usada para controlar pessoas e decisões."
+        },
+        {
+          "title": "Autoridade ferida",
+          "body": "Quando a liderança se torna posse pessoal, o bem comum fica subordinado ao ego."
+        },
+        {
+          "title": "Critério de Cristo",
+          "body": "Na comunidade cristã, quem lidera deve ordenar, proteger e servir."
+        }
+      ]
+    },
+    {
+      "id": "I09",
+      "term_id": "I09",
+      "call_label": "I09 - Conflito de serviço",
+      "case": "Duas equipes discutem sobre horários e tarefas; em poucos dias, a conversa vira acusação de má vontade e ameaça de abandono da obra.",
+      "conference_question": "Como tratar um conflito real sem transformá-lo em divisão comunitária?",
+      "anchors": [
+        "At 6,1-7",
+        "B15",
+        "G11"
+      ],
+      "facilitator_note": "Mostre que conflito não precisa ser negado, mas conduzido com ordem e justiça.",
+      "reading_points": [
+        {
+          "title": "Tensão concreta",
+          "body": "O problema de organização se mistura a cansaço, interpretações e acusações."
+        },
+        {
+          "title": "Risco de facção",
+          "body": "Sem condução, uma divergência prática pode virar ruptura de comunhão."
+        },
+        {
+          "title": "Discernimento ordenado",
+          "body": "Ouvir, distinguir fatos e repartir responsabilidades protege a obra e as pessoas."
+        }
+      ]
+    },
+    {
+      "id": "I10",
+      "term_id": "I10",
+      "call_label": "I10 - Doente esquecido",
+      "case": "Um senhor que serviu por anos fica acamado; nos primeiros dias recebe mensagens, depois ninguém mais visita nem pergunta à família do que precisam.",
+      "conference_question": "O que essa situação revela sobre uma comunidade que valoriza a pessoa apenas enquanto ela produz?",
+      "anchors": [
+        "Mt 25,36",
+        "B12",
+        "O09"
+      ],
+      "facilitator_note": "Nomeie o abandono sem culpar genericamente; conduza para respostas proporcionais.",
+      "reading_points": [
+        {
+          "title": "Presença que some",
+          "body": "A atenção desaparece quando a pessoa deixa de ser ativa ou útil."
+        },
+        {
+          "title": "Dignidade permanece",
+          "body": "A enfermidade não diminui a pertença da pessoa ao corpo comunitário."
+        },
+        {
+          "title": "Cuidado concreto",
+          "body": "Visita, escuta, oração e apoio à família tornam a solidariedade real."
+        }
+      ]
+    },
+    {
+      "id": "I11",
+      "term_id": "I11",
+      "call_label": "I11 - Família sem apoio",
+      "case": "Após uma morte violenta, uma família começa a se isolar; alguns vizinhos julgam o silêncio como frieza, mas ninguém oferece escuta ou encaminhamento.",
+      "conference_question": "Como a comunidade pode evitar julgamento apressado diante de uma família ferida?",
+      "anchors": [
+        "Gl 6,2",
+        "B12",
+        "O08"
+      ],
+      "facilitator_note": "Temas graves podem ser tratados sem detalhes sensacionalistas; foque presença, respeito e encaminhamento.",
+      "reading_points": [
+        {
+          "title": "Luto mal lido",
+          "body": "O isolamento é interpretado de fora sem escuta da dor concreta."
+        },
+        {
+          "title": "Peso compartilhado",
+          "body": "A comunidade cristã é chamada a carregar fardos, não a rotular feridas."
+        },
+        {
+          "title": "Ajuda adequada",
+          "body": "A resposta pode incluir presença discreta, oração, apoio prático e busca de ajuda competente."
+        }
+      ]
+    },
+    {
+      "id": "I12",
+      "term_id": "I12",
+      "call_label": "I12 - Dinheiro opaco",
+      "case": "Uma obra comunitária arrecada valores durante meses, mas ninguém apresenta gastos, recibos ou critérios de decisão.",
+      "conference_question": "Por que a transparência no uso do dinheiro comum é uma exigência moral da comunidade?",
+      "anchors": [
+        "At 4,35",
+        "B08",
+        "O05"
+      ],
+      "facilitator_note": "Não transforme a carta em suspeita contra toda liderança; foque responsabilidade e clareza.",
+      "reading_points": [
+        {
+          "title": "Recursos comuns",
+          "body": "O dinheiro foi confiado para uma finalidade comunitária, não para uso sem explicação."
+        },
+        {
+          "title": "Risco de desconfiança",
+          "body": "A opacidade alimenta boatos, injustiças e perda de credibilidade."
+        },
+        {
+          "title": "Prestação de contas",
+          "body": "Clareza protege quem administra e quem contribui."
+        }
+      ]
+    },
+    {
+      "id": "I13",
+      "term_id": "I13",
+      "call_label": "I13 - Falta de formação",
+      "case": "Num grupo que decide ações pastorais, quase ninguém conhece a doutrina da Igreja, e as decisões seguem frases soltas de redes sociais.",
+      "conference_question": "Como a falta de formação enfraquece a comunhão e o discernimento da comunidade?",
+      "anchors": [
+        "At 2,42",
+        "CEC 949",
+        "B02"
+      ],
+      "facilitator_note": "Mostre que formação não é luxo intelectual, mas proteção contra confusão prática.",
+      "reading_points": [
+        {
+          "title": "Opinião como guia",
+          "body": "A comunidade decide por impressões rápidas em vez de se alimentar da fé recebida."
+        },
+        {
+          "title": "Vulnerabilidade doutrinal",
+          "body": "Sem formação, qualquer discurso forte pode ocupar o lugar do Evangelho."
+        },
+        {
+          "title": "Perseverança apostólica",
+          "body": "A doutrina dos Apóstolos forma o critério comum da comunidade."
+        }
+      ]
+    },
+    {
+      "id": "I14",
+      "term_id": "I14",
+      "call_label": "I14 - Oração fragmentada",
+      "case": "A comunidade tem muitas mensagens de oração em grupos virtuais, mas quase não se reúne para rezar, ouvir a Palavra ou celebrar junto.",
+      "conference_question": "O que se perde quando a oração comum é substituída apenas por mensagens religiosas dispersas?",
+      "anchors": [
+        "At 2,42",
+        "B05",
+        "O11"
+      ],
+      "facilitator_note": "Não despreze pedidos de oração; distinga isso de vida orante comum.",
+      "reading_points": [
+        {
+          "title": "Devoção dispersa",
+          "body": "Há linguagem religiosa, mas pouca perseverança comunitária na presença de Deus."
+        },
+        {
+          "title": "Comunhão orante",
+          "body": "A oração comum reúne, educa e sustenta a fé de todos."
+        },
+        {
+          "title": "Ritmo concreto",
+          "body": "A comunidade precisa de momentos reais de oração, não só circulação de mensagens."
+        }
+      ]
+    },
+    {
+      "id": "I15",
+      "term_id": "I15",
+      "call_label": "I15 - Comunidade cansada",
+      "case": "Em uma associação católica de bairro, três pessoas organizam tudo há anos; quando uma delas adoece, quase nada continua porque os demais nunca assumiram tarefas.",
+      "conference_question": "Que responsabilidade comunitária aparece quando poucos carregam quase tudo?",
+      "anchors": [
+        "Rm 12,4-8",
+        "1Pd 4,10",
+        "O04"
+      ],
+      "facilitator_note": "Evite culpar apenas os cansados; destaque corresponsabilidade e discernimento realista.",
+      "reading_points": [
+        {
+          "title": "Sobrecarga invisível",
+          "body": "O funcionamento da obra depende de poucos até o limite do esgotamento."
+        },
+        {
+          "title": "Dons distribuídos",
+          "body": "O corpo tem muitos membros e dons, não uma pequena elite de responsáveis."
+        },
+        {
+          "title": "Responsabilidade repartida",
+          "body": "Servir exige dividir tarefas, formar pessoas e respeitar limites."
+        }
+      ]
+    },
+    {
+      "id": "N01",
+      "term_id": "N01",
+      "call_label": "N01 - Só eu e Deus",
+      "case": "Uma pessoa recusa qualquer vínculo eclesial dizendo que Deus entende seu coração e que comunidade só complica a fé.",
+      "conference_question": "Por que essa frase parece espiritual, mas enfraquece a forma cristã de viver a fé?",
+      "anchors": [
+        "At 2,42-47",
+        "B01",
+        "B03"
+      ],
+      "facilitator_note": "Desmonte a narrativa sem negar a importância da relação pessoal com Deus.",
+      "reading_points": [
+        {
+          "title": "Aparência piedosa",
+          "body": "A frase parece valorizar Deus, mas elimina os meios concretos que Ele deu à Igreja."
+        },
+        {
+          "title": "Fé sem corpo",
+          "body": "Sem comunidade, sacramentos e doutrina, a pessoa fica sem correção e pertença real."
+        },
+        {
+          "title": "Resposta cristã",
+          "body": "A relação pessoal com Deus amadurece dentro do Corpo de Cristo."
+        }
+      ]
+    },
+    {
+      "id": "N02",
+      "term_id": "N02",
+      "call_label": "N02 - Frequência conveniente",
+      "case": "Alguém aparece na comunidade quando quer um sacramento, uma ajuda ou uma festa, mas desaparece quando há compromisso contínuo.",
+      "conference_question": "Como essa postura transforma pertença comunitária em uso ocasional da Igreja?",
+      "anchors": [
+        "Hb 10,24-25",
+        "B03",
+        "I02"
+      ],
+      "facilitator_note": "Fale de compromisso sem fechar a porta para quem precisa recomeçar.",
+      "reading_points": [
+        {
+          "title": "Uso pontual",
+          "body": "A comunidade é procurada quando oferece benefício imediato."
+        },
+        {
+          "title": "Pertença enfraquecida",
+          "body": "Sem constância, não há comunhão, serviço nem amadurecimento comunitário."
+        },
+        {
+          "title": "Conversão do vínculo",
+          "body": "A resposta é passar do consumo religioso ao compromisso real."
+        }
+      ]
+    },
+    {
+      "id": "N03",
+      "term_id": "N03",
+      "call_label": "N03 - Posse absoluta",
+      "case": "Um empresário católico paga salários atrasados, mas compra novos luxos e diz que cada um faz o que quiser com o próprio dinheiro.",
+      "conference_question": "Por que a propriedade não elimina a responsabilidade moral diante do próximo?",
+      "anchors": [
+        "CEC 952",
+        "B08",
+        "B07"
+      ],
+      "facilitator_note": "Evite discussão ideológica; trate da responsabilidade cristã sobre bens concretos.",
+      "reading_points": [
+        {
+          "title": "Posse sem obrigação",
+          "body": "O dinheiro é tratado como direito isolado, sem considerar a justiça devida aos trabalhadores."
+        },
+        {
+          "title": "Administração diante de Deus",
+          "body": "O cristão deve ver seus bens como recebidos e ordenados também ao bem do próximo."
+        },
+        {
+          "title": "Comunhão concreta",
+          "body": "A fé exige que a posse seja atravessada por justiça, caridade e responsabilidade."
+        }
+      ]
+    },
+    {
+      "id": "N04",
+      "term_id": "N04",
+      "call_label": "N04 - Cada um por si",
+      "case": "No bairro, uma família passa fome, e um morador responde que ninguém mandou ter problemas e que cada um deve resolver a própria vida.",
+      "conference_question": "Que mentira sobre a vida humana está escondida na lógica de cada um por si?",
+      "anchors": [
+        "Gl 6,2",
+        "B12",
+        "I03"
+      ],
+      "facilitator_note": "Nomeie a indiferença sem idealizar soluções totais; indique responsabilidade proporcional.",
+      "reading_points": [
+        {
+          "title": "Indiferença justificada",
+          "body": "A necessidade alheia é descartada como assunto privado de quem sofre."
+        },
+        {
+          "title": "Vínculo negado",
+          "body": "A solidariedade cristã reconhece que o peso do outro nos diz respeito."
+        },
+        {
+          "title": "Resposta proporcional",
+          "body": "Ninguém resolve tudo sozinho, mas pode perguntar, encaminhar e ajudar concretamente."
+        }
+      ]
+    },
+    {
+      "id": "N05",
+      "term_id": "N05",
+      "call_label": "N05 - Vitrine da ajuda",
+      "case": "Uma campanha insiste em publicar antes e depois da casa de uma família pobre, com nomes e detalhes, para mostrar o impacto da doação.",
+      "conference_question": "Como distinguir prestação de contas legítima de exposição indevida de quem recebe ajuda?",
+      "anchors": [
+        "Mt 6,1-4",
+        "B09",
+        "I07"
+      ],
+      "facilitator_note": "Dê critério: transparência pode existir sem violar a dignidade do necessitado.",
+      "reading_points": [
+        {
+          "title": "Dor exposta",
+          "body": "A necessidade da família é usada como prova pública de sucesso."
+        },
+        {
+          "title": "Caridade desviada",
+          "body": "A ajuda vira vitrine quando a imagem do doador pesa mais que a dignidade do atendido."
+        },
+        {
+          "title": "Discrição responsável",
+          "body": "É possível prestar contas com números, critérios e resultados sem expor pessoas vulneráveis."
+        }
+      ]
+    },
+    {
+      "id": "N06",
+      "term_id": "N06",
+      "call_label": "N06 - Panelinha disfarçada",
+      "case": "Um grupo diz que é muito unido, mas sempre escolhe as mesmas pessoas para funções, passeios e decisões, sem abrir espaço para os demais.",
+      "conference_question": "Por que uma panelinha pode parecer comunhão e ainda assim ferir a comunidade?",
+      "anchors": [
+        "At 2,44",
+        "B03",
+        "I05"
+      ],
+      "facilitator_note": "Não ataque amizades; ataque a exclusão que se veste de fraternidade.",
+      "reading_points": [
+        {
+          "title": "União fechada",
+          "body": "A proximidade entre alguns se transforma em barreira para outros."
+        },
+        {
+          "title": "Comunhão falsificada",
+          "body": "A comunhão cristã é aberta pelo vínculo em Cristo, não capturada por preferências privadas."
+        },
+        {
+          "title": "Sinal de cura",
+          "body": "A comunidade deve revisar decisões, convites e espaços de participação."
+        }
+      ]
+    },
+    {
+      "id": "N07",
+      "term_id": "N07",
+      "call_label": "N07 - Verdade sem caridade",
+      "case": "Ao corrigir uma falha, alguém expõe o erro da pessoa diante de todos e depois afirma que apenas falou a verdade.",
+      "conference_question": "Quando dizer a verdade deixa de ser correção fraterna e vira humilhação?",
+      "anchors": [
+        "Ef 4,15",
+        "Mt 18,15-17",
+        "B13"
+      ],
+      "facilitator_note": "Mostre que verdade cristã busca conversão e justiça, não vitória sobre o outro.",
+      "reading_points": [
+        {
+          "title": "Exposição pública",
+          "body": "O modo de falar aumenta a vergonha e reduz a chance de conversão."
+        },
+        {
+          "title": "Verdade usada como arma",
+          "body": "A verdade se corrompe quando serve ao orgulho ou à humilhação."
+        },
+        {
+          "title": "Correção evangélica",
+          "body": "O caminho cristão começa pela busca direta, justa e caridosa do irmão."
+        }
+      ]
+    },
+    {
+      "id": "N08",
+      "term_id": "N08",
+      "call_label": "N08 - Caridade sem verdade",
+      "case": "Para não desagradar um membro influente, a coordenação evita enfrentar um comportamento injusto que está ferindo pessoas mais frágeis.",
+      "conference_question": "Por que evitar a verdade pode deixar de ser acolhida e virar cumplicidade?",
+      "anchors": [
+        "Ef 4,15",
+        "B13",
+        "G09"
+      ],
+      "facilitator_note": "Diferencie paciência pastoral de omissão diante do mal concreto.",
+      "reading_points": [
+        {
+          "title": "Conflito evitado",
+          "body": "A liderança preserva conforto imediato enquanto pessoas continuam feridas."
+        },
+        {
+          "title": "Acolhida deformada",
+          "body": "Caridade sem verdade abandona vítimas e também impede a conversão de quem erra."
+        },
+        {
+          "title": "Firmeza pastoral",
+          "body": "A resposta cristã acolhe a pessoa e nomeia o erro com justiça."
+        }
+      ]
+    },
+    {
+      "id": "N09",
+      "term_id": "N09",
+      "call_label": "N09 - Cargo como privilégio",
+      "case": "Depois de assumir uma coordenação, alguém passa a exigir tratamento especial, escolher amigos para tarefas e impedir questionamentos.",
+      "conference_question": "Como a lógica do privilégio destrói o sentido cristão da autoridade?",
+      "anchors": [
+        "Mt 20,25-28",
+        "B08",
+        "G05"
+      ],
+      "facilitator_note": "Trate função como serviço confiado, não como posse pessoal.",
+      "reading_points": [
+        {
+          "title": "Função apropriada",
+          "body": "A responsabilidade comum é usada para benefício e influência pessoal."
+        },
+        {
+          "title": "Autoridade invertida",
+          "body": "O cargo vira privilégio quando deixa de servir o bem comum."
+        },
+        {
+          "title": "Critério do serviço",
+          "body": "Cristo ensina que quem tem autoridade deve servir e não dominar."
+        }
+      ]
+    },
+    {
+      "id": "N10",
+      "term_id": "N10",
+      "call_label": "N10 - Silêncio cúmplice",
+      "case": "Todos sabem que um responsável humilha voluntários, mas dizem que é melhor não mexer nisso para preservar a paz.",
+      "conference_question": "Como distinguir silêncio prudente de silêncio cúmplice diante de uma injustiça?",
+      "anchors": [
+        "Mt 18,15-17",
+        "B15",
+        "G08"
+      ],
+      "facilitator_note": "Firmeza aqui é necessária; paz não é acobertamento de abuso ou humilhação.",
+      "reading_points": [
+        {
+          "title": "Mal conhecido",
+          "body": "A comunidade tem informação suficiente de que pessoas estão sendo feridas."
+        },
+        {
+          "title": "Paz falsa",
+          "body": "Chamar omissão de paz protege o agressor e abandona os atingidos."
+        },
+        {
+          "title": "Ação prudente",
+          "body": "É preciso agir com ordem, prova, escuta e encaminhamento responsável."
+        }
+      ]
+    },
+    {
+      "id": "N11",
+      "term_id": "N11",
+      "call_label": "N11 - Crítica como perseguição",
+      "case": "Quando alguém aponta falhas reais em uma prestação de contas, o responsável responde que estão atacando sua fé e sua dedicação.",
+      "conference_question": "Por que transformar toda correção em perseguição impede a conversão e a responsabilidade?",
+      "anchors": [
+        "Pr 12,1",
+        "Mt 18,15-17",
+        "G07"
+      ],
+      "facilitator_note": "Distinga crítica injusta de correção necessária com fatos e critérios.",
+      "reading_points": [
+        {
+          "title": "Defesa emocional",
+          "body": "A pessoa desloca a conversa dos fatos para a própria imagem ferida."
+        },
+        {
+          "title": "Correção bloqueada",
+          "body": "Ao tratar toda crítica como ataque, ninguém aprende nem presta contas."
+        },
+        {
+          "title": "Humildade responsável",
+          "body": "A maturidade cristã escuta o que é justo corrigir sem aceitar humilhação."
+        }
+      ]
+    },
+    {
+      "id": "N12",
+      "term_id": "N12",
+      "call_label": "N12 - Oração sem resposta",
+      "case": "Uma família pede ajuda para comprar remédio urgente; várias pessoas prometem rezar, mas ninguém verifica preço, contato médico ou possibilidade de auxílio.",
+      "conference_question": "Quando a oração se torna desculpa para não cumprir uma responsabilidade concreta?",
+      "anchors": [
+        "Tg 2,14-17",
+        "B05",
+        "G13"
+      ],
+      "facilitator_note": "Não diminua a oração; mostre que oração verdadeira pode mover ação concreta.",
+      "reading_points": [
+        {
+          "title": "Urgência material",
+          "body": "A necessidade exige uma resposta concreta além de palavras de consolo."
+        },
+        {
+          "title": "Piedade incompleta",
+          "body": "Rezar sem agir, quando se pode agir, esvazia a caridade."
+        },
+        {
+          "title": "Oração que envia",
+          "body": "A oração cristã pede graça e também dispõe a servir."
+        }
+      ]
+    },
+    {
+      "id": "N13",
+      "term_id": "N13",
+      "call_label": "N13 - Ativismo sem oração",
+      "case": "Uma obra promove eventos todos os fins de semana, mas os servidores já não rezam juntos, não participam da Eucaristia e começam a tratar pessoas como tarefas.",
+      "conference_question": "Como o excesso de atividade pode esvaziar a identidade cristã do serviço?",
+      "anchors": [
+        "At 2,42",
+        "B04",
+        "B05"
+      ],
+      "facilitator_note": "Mostre que a crítica não é ao trabalho, mas ao trabalho separado da fonte espiritual.",
+      "reading_points": [
+        {
+          "title": "Agenda cheia",
+          "body": "Há movimento e produtividade, mas a vida interior e sacramental seca."
+        },
+        {
+          "title": "Pessoas como tarefas",
+          "body": "Sem oração, o serviço pode perder paciência, misericórdia e sentido cristão."
+        },
+        {
+          "title": "Retorno à fonte",
+          "body": "A comunidade precisa da Palavra, da Eucaristia e das orações para servir bem."
+        }
+      ]
+    },
+    {
+      "id": "N14",
+      "term_id": "N14",
+      "call_label": "N14 - Doutrina descartável",
+      "case": "Um grupo decide não ensinar certos pontos da fé porque acha que eles geram perguntas difíceis e podem afastar pessoas.",
+      "conference_question": "Por que esconder a doutrina não é o mesmo que agir com prudência pastoral?",
+      "anchors": [
+        "At 2,42",
+        "CEC 949",
+        "B02"
+      ],
+      "facilitator_note": "Evite tom agressivo; explique que prudência adapta linguagem, não abandona a fé.",
+      "reading_points": [
+        {
+          "title": "Dificuldade evitada",
+          "body": "A solução proposta é retirar a verdade em vez de ensiná-la melhor."
+        },
+        {
+          "title": "Fé recebida",
+          "body": "A doutrina apostólica não é material opcional que a comunidade descarta por conveniência."
+        },
+        {
+          "title": "Ensino responsável",
+          "body": "A caridade pastoral exige clareza, paciência e fidelidade."
+        }
+      ]
+    },
+    {
+      "id": "N15",
+      "term_id": "N15",
+      "call_label": "N15 - Vergonha da necessidade",
+      "case": "Uma mãe desempregada esconde que falta comida em casa porque teme virar assunto e ser vista como peso para a comunidade.",
+      "conference_question": "Como a vergonha da necessidade impede a comunhão e que cuidado a comunidade deve ter para não reforçá-la?",
+      "anchors": [
+        "Gl 6,2",
+        "At 4,34-35",
+        "B12"
+      ],
+      "facilitator_note": "Trate a vergonha com delicadeza; a resposta precisa proteger dignidade e discrição.",
+      "reading_points": [
+        {
+          "title": "Necessidade escondida",
+          "body": "A pessoa sofre sozinha por medo de exposição e julgamento."
+        },
+        {
+          "title": "Comunhão bloqueada",
+          "body": "Quando pedir ajuda parece humilhação, a comunidade falhou em criar confiança."
+        },
+        {
+          "title": "Ajuda digna",
+          "body": "A resposta cristã protege discrição, escuta e apoio concreto."
+        }
+      ]
+    },
+    {
+      "id": "G01",
+      "term_id": "G01",
+      "call_label": "G01 - Comunhão ou simpatia",
+      "case": "Num conselho comunitário, todos acolhem bem quem pensa parecido, mas se irritam quando uma pessoa sem afinidade apresenta uma necessidade legítima.",
+      "conference_question": "Como saber se o vínculo do grupo é comunhão cristã ou apenas simpatia entre semelhantes?",
+      "anchors": [
+        "At 2,42",
+        "B03",
+        "I05"
+      ],
+      "facilitator_note": "Leve a turma a distinguir afeto natural de vínculo eclesial.",
+      "reading_points": [
+        {
+          "title": "Afinidade limitada",
+          "body": "A aceitação funciona enquanto a pessoa pertence ao círculo de gosto e amizade."
+        },
+        {
+          "title": "Comunhão mais profunda",
+          "body": "A comunhão cristã nasce da fé comum e alcança quem não é parecido comigo."
+        },
+        {
+          "title": "Critério prático",
+          "body": "O teste aparece quando alguém diferente precisa ser escutado e servido."
+        }
+      ]
+    },
+    {
+      "id": "G02",
+      "term_id": "G02",
+      "call_label": "G02 - Unidade ou uniformidade",
+      "case": "Uma coordenação rejeita toda proposta diferente dizendo que, para haver unidade, todos precisam agir exatamente do mesmo modo.",
+      "conference_question": "Que diferença existe entre unidade na fé e uniformidade que sufoca dons legítimos?",
+      "anchors": [
+        "1Cor 12,12-27",
+        "Ef 4,1-6",
+        "B06"
+      ],
+      "facilitator_note": "Mostre que diversidade legítima não é bagunça, e uniformidade não é necessariamente comunhão.",
+      "reading_points": [
+        {
+          "title": "Diferença suspeita",
+          "body": "Toda variação é tratada como ameaça, mesmo quando serve ao mesmo bem."
+        },
+        {
+          "title": "Corpo com membros",
+          "body": "A unidade cristã reúne dons diversos em uma mesma fé e missão."
+        },
+        {
+          "title": "Ordem sem sufocar",
+          "body": "A comunidade precisa de critérios comuns e espaço para dons reais."
+        }
+      ]
+    },
+    {
+      "id": "G03",
+      "term_id": "G03",
+      "call_label": "G03 - Partilha ou exibição",
+      "case": "Um doador ajuda uma família, mas exige foto, agradecimento público e menção de seu nome em toda reunião.",
+      "conference_question": "Que sinais distinguem partilha cristã de exibição de generosidade?",
+      "anchors": [
+        "Mt 6,1-4",
+        "B09",
+        "I07"
+      ],
+      "facilitator_note": "Foque intenção, dignidade da pessoa ajudada e necessidade de discrição.",
+      "reading_points": [
+        {
+          "title": "Ajuda com cobrança",
+          "body": "O auxílio vem acompanhado de exigência de reconhecimento."
+        },
+        {
+          "title": "Intenção revelada",
+          "body": "A partilha se deforma quando precisa do aplauso para existir."
+        },
+        {
+          "title": "Caridade discreta",
+          "body": "O bem pode ser organizado e registrado sem transformar a pessoa ajudada em palco."
+        }
+      ]
+    },
+    {
+      "id": "G04",
+      "term_id": "G04",
+      "call_label": "G04 - Necessidade ou desejo",
+      "case": "Ao pedir apoio da comunidade, uma família inclui despesas urgentes de aluguel e também itens caros que não são necessários naquele momento.",
+      "conference_question": "Como discernir necessidade real sem humilhar quem pede ajuda?",
+      "anchors": [
+        "At 4,35",
+        "B10",
+        "2Cor 8,13-15"
+      ],
+      "facilitator_note": "Evite suspeita cruel; ensine critério, escuta e justiça.",
+      "reading_points": [
+        {
+          "title": "Pedidos misturados",
+          "body": "A situação contém necessidades graves e desejos que não têm a mesma urgência."
+        },
+        {
+          "title": "Discernimento justo",
+          "body": "Avaliar prioridades não é desprezar a pessoa, mas cuidar bem dos recursos comuns."
+        },
+        {
+          "title": "Ajuda digna",
+          "body": "A resposta deve ouvir, priorizar o essencial e preservar respeito."
+        }
+      ]
+    },
+    {
+      "id": "G05",
+      "term_id": "G05",
+      "call_label": "G05 - Autoridade ou domínio",
+      "case": "Um coordenador cancela decisões combinadas quando não recebe elogios e diz que a obra existe porque ele permite.",
+      "conference_question": "Como distinguir autoridade que serve de domínio que se alimenta de controle?",
+      "anchors": [
+        "Mt 20,25-28",
+        "B15",
+        "I08"
+      ],
+      "facilitator_note": "Mostre que autoridade legítima ordena a comunidade para o bem, não para o ego.",
+      "reading_points": [
+        {
+          "title": "Controle pessoal",
+          "body": "A liderança condiciona a obra ao reconhecimento de sua própria importância."
+        },
+        {
+          "title": "Autoridade desviada",
+          "body": "Quando o centro é o líder, a missão e as pessoas ficam em segundo plano."
+        },
+        {
+          "title": "Serviço ordenado",
+          "body": "A autoridade cristã protege o bem comum e presta contas."
+        }
+      ]
+    },
+    {
+      "id": "G06",
+      "term_id": "G06",
+      "call_label": "G06 - Serviço ou protagonismo",
+      "case": "Sempre que uma nova tarefa aparece, a mesma pessoa assume tudo, recusa ajuda e depois reclama que ninguém faz nada.",
+      "conference_question": "Como distinguir dedicação generosa de protagonismo que impede a corresponsabilidade?",
+      "anchors": [
+        "1Pd 4,10",
+        "B08",
+        "I07"
+      ],
+      "facilitator_note": "Mostre que protagonismo pode aparecer até em pessoas trabalhadoras e bem-intencionadas.",
+      "reading_points": [
+        {
+          "title": "Controle pela dedicação",
+          "body": "A pessoa serve muito, mas não permite que outros cresçam e assumam."
+        },
+        {
+          "title": "Serviço ferido",
+          "body": "Quando o servidor precisa estar no centro, a obra fica dependente dele."
+        },
+        {
+          "title": "Dons repartidos",
+          "body": "O serviço cristão forma outros servidores e respeita a diversidade dos dons."
+        }
+      ]
+    },
+    {
+      "id": "G07",
+      "term_id": "G07",
+      "call_label": "G07 - Correção ou humilhação",
+      "case": "Depois de um erro público, alguém monta uma sequência de mensagens lembrando falhas antigas da pessoa para provar que ela sempre foi problema.",
+      "conference_question": "Que critério mostra que a correção deixou de buscar conversão e virou humilhação?",
+      "anchors": [
+        "Mt 18,15-17",
+        "Ef 4,15",
+        "B13"
+      ],
+      "facilitator_note": "Nomeie a violência moral da exposição acumulada e distinga de correção necessária.",
+      "reading_points": [
+        {
+          "title": "Falha explorada",
+          "body": "O erro atual vira ocasião para destruir a imagem inteira da pessoa."
+        },
+        {
+          "title": "Correção corrompida",
+          "body": "A humilhação busca vencer e marcar, não recuperar o irmão."
+        },
+        {
+          "title": "Caminho evangélico",
+          "body": "A correção precisa de verdade, proporção, finalidade de conversão e caridade."
+        }
+      ]
+    },
+    {
+      "id": "G08",
+      "term_id": "G08",
+      "call_label": "G08 - Prudência ou omissão",
+      "case": "Uma voluntária relata desvio de doações; os responsáveis dizem que é preciso ter prudência, mas passam meses sem verificar nada.",
+      "conference_question": "Quando a prudência deixa de ordenar a ação e se torna desculpa para não agir?",
+      "anchors": [
+        "Mt 18,15-17",
+        "1Cor 14,33.40",
+        "N10"
+      ],
+      "facilitator_note": "Explique que prudência busca modo justo de agir, não paralisia conveniente.",
+      "reading_points": [
+        {
+          "title": "Gravidade suspensa",
+          "body": "A denúncia exige verificação, mas a palavra prudência é usada para adiar tudo."
+        },
+        {
+          "title": "Omissão protegida",
+          "body": "Não agir também produz consequências e pode permitir nova injustiça."
+        },
+        {
+          "title": "Prudência verdadeira",
+          "body": "O caminho cristão pede apuração, discrição, prazo e decisão justa."
+        }
+      ]
+    },
+    {
+      "id": "G09",
+      "term_id": "G09",
+      "call_label": "G09 - Acolhida ou aprovação",
+      "case": "Uma pessoa chega à comunidade em situação moral desordenada; alguns querem expulsá-la, outros dizem que nada precisa ser convertido.",
+      "conference_question": "Como acolher a pessoa sem aprovar tudo e sem tratá-la como descartável?",
+      "anchors": [
+        "Ef 4,15",
+        "B13",
+        "N08"
+      ],
+      "facilitator_note": "Use linguagem firme e pastoral: dignidade da pessoa, verdade moral e caminho de conversão.",
+      "reading_points": [
+        {
+          "title": "Dois extremos",
+          "body": "A cena opõe rejeição dura e aprovação sem verdade."
+        },
+        {
+          "title": "Pessoa e caminho",
+          "body": "Acolher reconhece dignidade, mas não elimina a necessidade de conversão."
+        },
+        {
+          "title": "Caridade verdadeira",
+          "body": "A comunidade deve acompanhar com misericórdia, clareza e paciência."
+        }
+      ]
+    },
+    {
+      "id": "G10",
+      "term_id": "G10",
+      "call_label": "G10 - Pertencer ou consumir",
+      "case": "Uma família procura a paróquia apenas para serviços religiosos, reclama quando há exigências e não participa de nenhum caminho comunitário.",
+      "conference_question": "O que muda quando alguém deixa de consumir serviços religiosos e começa a pertencer à comunidade?",
+      "anchors": [
+        "At 2,42-47",
+        "B01",
+        "I02"
+      ],
+      "facilitator_note": "Evite desprezar quem procura a Igreja; mostre o convite a uma pertença mais madura.",
+      "reading_points": [
+        {
+          "title": "Relação de consumo",
+          "body": "A comunidade é tratada como prestadora de serviços sob demanda."
+        },
+        {
+          "title": "Pertencimento cristão",
+          "body": "Pertencer inclui escutar, celebrar, servir, ser corrigido e caminhar com outros."
+        },
+        {
+          "title": "Conversão do olhar",
+          "body": "A Igreja não é balcão religioso, mas Corpo de Cristo e família de fé."
+        }
+      ]
+    },
+    {
+      "id": "G11",
+      "term_id": "G11",
+      "call_label": "G11 - Conflito ou divisão",
+      "case": "Após uma reclamação justa sobre atendimento a pobres, surgem grupos que já não conversam entre si e atribuem má-fé a qualquer proposta do outro lado.",
+      "conference_question": "Como reconhecer quando um conflito legítimo está virando divisão pecaminosa?",
+      "anchors": [
+        "At 6,1-7",
+        "B15",
+        "I09"
+      ],
+      "facilitator_note": "Use Atos 6 como referência de conflito tratado com escuta, estrutura e missão.",
+      "reading_points": [
+        {
+          "title": "Reclamação legítima",
+          "body": "Há uma necessidade real que precisa ser ouvida, não abafada."
+        },
+        {
+          "title": "Risco de ruptura",
+          "body": "Quando grupos deixam de buscar a verdade, o conflito vira facção."
+        },
+        {
+          "title": "Caminho ordenado",
+          "body": "A comunidade deve escutar, discernir e organizar resposta justa."
+        }
+      ]
+    },
+    {
+      "id": "G12",
+      "term_id": "G12",
+      "call_label": "G12 - Tradição ou costume",
+      "case": "Uma festa religiosa local mantém um costume que antes ajudava a fé, mas hoje exclui famílias pobres por causa de custos elevados.",
+      "conference_question": "Como distinguir a Tradição da fé de costumes locais que podem precisar de purificação?",
+      "anchors": [
+        "At 2,42",
+        "CEC 949",
+        "B02"
+      ],
+      "facilitator_note": "Não despreze costumes bons; mostre que eles devem servir à fé recebida e à comunhão.",
+      "reading_points": [
+        {
+          "title": "Costume questionado",
+          "body": "A prática local tem história, mas agora cria barreira econômica."
+        },
+        {
+          "title": "Tradição apostólica",
+          "body": "A fé recebida dos Apóstolos não se confunde com todo hábito cultural."
+        },
+        {
+          "title": "Purificação pastoral",
+          "body": "Costumes podem ser preservados, adaptados ou corrigidos quando ferem a comunhão."
+        }
+      ]
+    },
+    {
+      "id": "G13",
+      "term_id": "G13",
+      "call_label": "G13 - Oração ou fuga",
+      "case": "Depois de descobrir uma injustiça na distribuição de ajuda, alguns propõem apenas fazer uma novena e não conversar com os responsáveis.",
+      "conference_question": "Como rezar de modo verdadeiro sem usar a oração para fugir da responsabilidade?",
+      "anchors": [
+        "At 2,42",
+        "Tg 2,14-17",
+        "N12"
+      ],
+      "facilitator_note": "Afirme a oração como necessária, mas recuse sua transformação em desculpa para omissão.",
+      "reading_points": [
+        {
+          "title": "Problema concreto",
+          "body": "Há uma injustiça que pede esclarecimento e correção."
+        },
+        {
+          "title": "Fuga religiosa",
+          "body": "A oração vira fuga quando substitui uma ação que a caridade exige."
+        },
+        {
+          "title": "Oração que fortalece",
+          "body": "Rezar deve dar luz, coragem e mansidão para agir corretamente."
+        }
+      ]
+    },
+    {
+      "id": "G14",
+      "term_id": "G14",
+      "call_label": "G14 - Solidariedade ou controle",
+      "case": "Uma família recebe ajuda mensal, mas os doadores começam a exigir decisões sobre compras, visitas e criação dos filhos.",
+      "conference_question": "Como ajudar sem transformar a necessidade do outro em poder sobre a vida dele?",
+      "anchors": [
+        "Gl 6,2",
+        "B12",
+        "B10"
+      ],
+      "facilitator_note": "Destaque que ajuda exige critério, mas não autoriza domínio indevido.",
+      "reading_points": [
+        {
+          "title": "Ajuda dominadora",
+          "body": "O auxílio material passa a ser usado para controlar escolhas da família."
+        },
+        {
+          "title": "Dignidade preservada",
+          "body": "A solidariedade carrega fardos sem tratar o outro como incapaz ou propriedade."
+        },
+        {
+          "title": "Critérios claros",
+          "body": "Pode haver acompanhamento responsável, mas com respeito, limites e discrição."
+        }
+      ]
+    },
+    {
+      "id": "G15",
+      "term_id": "G15",
+      "call_label": "G15 - Misericórdia ou banalização",
+      "case": "Depois de uma fraude em doações, alguns dizem que é melhor esquecer tudo porque todos erram e Deus perdoa.",
+      "conference_question": "Por que a misericórdia cristã não dispensa verdade, conversão e reparação?",
+      "anchors": [
+        "Jo 8,11",
+        "B13",
+        "N08"
+      ],
+      "facilitator_note": "Mostre que perdão não é apagar consequências justas nem negar a gravidade do pecado.",
+      "reading_points": [
+        {
+          "title": "Erro grave",
+          "body": "A fraude feriu pessoas, confiança e bens destinados ao serviço."
+        },
+        {
+          "title": "Perdão banalizado",
+          "body": "Invocar misericórdia para evitar verdade e reparação esvazia o perdão."
+        },
+        {
+          "title": "Conversão real",
+          "body": "A misericórdia levanta a pessoa chamando-a a abandonar o pecado e reparar o possível."
+        }
+      ]
+    },
+    {
+      "id": "O01",
+      "term_id": "O01",
+      "call_label": "O01 - Vincular-se de fato",
+      "case": "Uma pessoa percebe que só aparece na comunidade quando precisa de algo e decide escolher um horário fixo de Missa, conhecer uma equipe e assumir um pequeno serviço possível.",
+      "conference_question": "Por que um compromisso pequeno e constante pode ser mais verdadeiro que entusiasmo ocasional?",
+      "anchors": [
+        "At 2,42-47",
+        "Hb 10,24-25",
+        "G10"
+      ],
+      "facilitator_note": "Valorize passos proporcionais e sustentáveis, não promessas grandiosas.",
+      "reading_points": [
+        {
+          "title": "Reconhecimento honesto",
+          "body": "A pessoa identifica uma relação de uso e busca mudar o vínculo."
+        },
+        {
+          "title": "Constância concreta",
+          "body": "Participar com horário, rosto e responsabilidade cria pertença real."
+        },
+        {
+          "title": "Caminho comunitário",
+          "body": "A fé amadurece quando deixa de ser visita eventual e vira compromisso possível."
+        }
+      ]
+    },
+    {
+      "id": "O02",
+      "term_id": "O02",
+      "call_label": "O02 - Procurar o necessitado",
+      "case": "Ao notar a ausência de uma viúva, duas pessoas combinam de telefonar, visitar com respeito e perguntar se há necessidade concreta antes de comentar a situação.",
+      "conference_question": "Como procurar o necessitado sem invadir sua vida nem deixá-lo abandonado?",
+      "anchors": [
+        "Mt 25,31-46",
+        "At 4,34-35",
+        "I03"
+      ],
+      "facilitator_note": "Mostre o equilíbrio entre presença responsável e discrição.",
+      "reading_points": [
+        {
+          "title": "Atenção ativa",
+          "body": "A ausência vira motivo de cuidado, não de boato."
+        },
+        {
+          "title": "Pergunta respeitosa",
+          "body": "A visita busca conhecer a necessidade sem expor ou controlar a pessoa."
+        },
+        {
+          "title": "Caridade encarnada",
+          "body": "Procurar quem sofre torna visível a comunhão cristã."
+        }
+      ]
+    },
+    {
+      "id": "O03",
+      "term_id": "O03",
+      "call_label": "O03 - Partilhar com critério",
+      "case": "Diante de três pedidos de ajuda, uma equipe verifica urgência, renda, risco e possibilidades de encaminhamento antes de repartir os recursos.",
+      "conference_question": "Por que critério e caridade devem caminhar juntos na partilha?",
+      "anchors": [
+        "At 4,35",
+        "CEC 952",
+        "G04"
+      ],
+      "facilitator_note": "Ensine que discernir não é endurecer; é servir melhor com recursos limitados.",
+      "reading_points": [
+        {
+          "title": "Recursos limitados",
+          "body": "A equipe não pode ajudar de qualquer modo sem considerar prioridades reais."
+        },
+        {
+          "title": "Caridade inteligente",
+          "body": "Verificar urgência protege quem mais precisa e evita desperdício."
+        },
+        {
+          "title": "Partilha justa",
+          "body": "A comunidade reparte segundo a necessidade, com respeito e clareza."
+        }
+      ]
+    },
+    {
+      "id": "O04",
+      "term_id": "O04",
+      "call_label": "O04 - Repartir responsabilidades",
+      "case": "Após perceber sobrecarga, uma coordenação lista tarefas, define responsáveis diferentes e forma duas pessoas novas para funções simples.",
+      "conference_question": "Como repartir responsabilidades fortalece a comunidade e protege os servidores?",
+      "anchors": [
+        "1Cor 12,12-27",
+        "Rm 12,4-8",
+        "I15"
+      ],
+      "facilitator_note": "Destaque que repartir tarefas exige formação, confiança e acompanhamento.",
+      "reading_points": [
+        {
+          "title": "Sobrecarga reconhecida",
+          "body": "A comunidade percebe que poucos não devem sustentar tudo sozinhos."
+        },
+        {
+          "title": "Dons acionados",
+          "body": "Outras pessoas são chamadas a servir conforme possibilidades reais."
+        },
+        {
+          "title": "Corpo mais sadio",
+          "body": "A corresponsabilidade diminui cansaço e forma novos servidores."
+        }
+      ]
+    },
+    {
+      "id": "O05",
+      "term_id": "O05",
+      "call_label": "O05 - Prestar contas",
+      "case": "Ao fim de uma campanha, os responsáveis apresentam valores arrecadados, despesas, notas principais e critérios usados para a distribuição.",
+      "conference_question": "Como a prestação de contas protege a confiança sem transformar tudo em suspeita?",
+      "anchors": [
+        "At 4,35",
+        "1Cor 14,33.40",
+        "I12"
+      ],
+      "facilitator_note": "Aponte a prestação de contas como cuidado normal, não como acusação prévia.",
+      "reading_points": [
+        {
+          "title": "Clareza pública",
+          "body": "Quem recebeu confiança mostra como os recursos foram usados."
+        },
+        {
+          "title": "Proteção da comunhão",
+          "body": "A transparência reduz boatos e impede que dúvidas destruam vínculos."
+        },
+        {
+          "title": "Administração fiel",
+          "body": "Recursos comuns pedem ordem, registros e responsabilidade diante de Deus e dos irmãos."
+        }
+      ]
+    },
+    {
+      "id": "O06",
+      "term_id": "O06",
+      "call_label": "O06 - Corrigir em privado",
+      "case": "Antes de comentar uma falha de um servidor com outras pessoas, alguém marca uma conversa reservada, apresenta fatos e pergunta como podem reparar o problema.",
+      "conference_question": "Por que a conversa privada pode ser mais evangélica que a exposição pública?",
+      "anchors": [
+        "Mt 18,15-17",
+        "G07",
+        "B13"
+      ],
+      "facilitator_note": "Mostre que privado não significa encobrir crimes ou abusos; aqui trata-se de correção ordinária proporcional.",
+      "reading_points": [
+        {
+          "title": "Caminho direto",
+          "body": "A pessoa evita espalhar a falha antes de procurar quem errou."
+        },
+        {
+          "title": "Verdade com caridade",
+          "body": "Fatos são apresentados sem humilhação nem torcida."
+        },
+        {
+          "title": "Finalidade de reparação",
+          "body": "A correção busca recuperar o irmão e corrigir consequências."
+        }
+      ]
+    },
+    {
+      "id": "O07",
+      "term_id": "O07",
+      "call_label": "O07 - Cortar a fofoca",
+      "case": "Num grupo de mensagens, começam comentários sobre a vida de uma família; uma pessoa interrompe, diz que aquilo não ajuda e propõe falar diretamente com quem pode cuidar do caso.",
+      "conference_question": "Como cortar a fofoca sem parecer indiferente ao problema real?",
+      "anchors": [
+        "Mt 18,15-17",
+        "I06",
+        "G08"
+      ],
+      "facilitator_note": "Ensine uma frase concreta: isso não ajuda; vamos falar com quem pode agir.",
+      "reading_points": [
+        {
+          "title": "Interrupção necessária",
+          "body": "A conversa é detida antes de ampliar dano e versões."
+        },
+        {
+          "title": "Não é indiferença",
+          "body": "Cortar fofoca não ignora o problema; muda o caminho para a responsabilidade."
+        },
+        {
+          "title": "Encaminhamento correto",
+          "body": "A informação deve chegar a quem pode ajudar, corrigir ou proteger."
+        }
+      ]
+    },
+    {
+      "id": "O08",
+      "term_id": "O08",
+      "call_label": "O08 - Pedir ajuda",
+      "case": "Um pai percebe que a dívida e o alcoolismo estão destruindo a família e procura um sacerdote, um parente confiável e atendimento especializado.",
+      "conference_question": "Por que pedir ajuda pode ser ato de responsabilidade, e não sinal de fraqueza moral?",
+      "anchors": [
+        "Gl 6,2",
+        "N15",
+        "I11"
+      ],
+      "facilitator_note": "Diante de vícios e violência, não sugira solução caseira; indique apoio competente e proteção.",
+      "reading_points": [
+        {
+          "title": "Limite reconhecido",
+          "body": "A pessoa admite que não consegue sustentar a situação sozinha."
+        },
+        {
+          "title": "Ajuda adequada",
+          "body": "O pedido busca apoio espiritual, familiar e profissional conforme a gravidade."
+        },
+        {
+          "title": "Responsabilidade cristã",
+          "body": "Humildade e verdade abrem caminho para proteção, conversão e cuidado."
+        }
+      ]
+    },
+    {
+      "id": "O09",
+      "term_id": "O09",
+      "call_label": "O09 - Visitar quem sofre",
+      "case": "Após uma cirurgia grave, uma moradora recebe escala simples de visitas, ajuda com compras e momentos breves de oração, respeitando seu descanso.",
+      "conference_question": "Como a visita cristã pode unir presença, ajuda prática e respeito aos limites da pessoa?",
+      "anchors": [
+        "Mt 25,36",
+        "B12",
+        "I10"
+      ],
+      "facilitator_note": "Mostre que visitar não é invadir; é presença concreta, discreta e proporcional.",
+      "reading_points": [
+        {
+          "title": "Sofrimento acompanhado",
+          "body": "A pessoa enferma não fica reduzida à solidão ou à memória distante."
+        },
+        {
+          "title": "Ajuda proporcional",
+          "body": "Compras, oração e visitas breves respondem à necessidade sem sobrecarregar."
+        },
+        {
+          "title": "Cristo no enfermo",
+          "body": "Cuidar de quem sofre expressa a caridade que Cristo pede."
+        }
+      ]
+    },
+    {
+      "id": "O10",
+      "term_id": "O10",
+      "call_label": "O10 - Formar-se na fé",
+      "case": "Antes de decidir um tema difícil, uma equipe separa tempo para estudar a Bíblia, o Catecismo e uma orientação segura da Igreja.",
+      "conference_question": "Como a formação na fé ajuda a comunidade a decidir sem cair em improviso?",
+      "anchors": [
+        "At 2,42",
+        "CEC 949",
+        "I13"
+      ],
+      "facilitator_note": "Mostre que formação exige humildade para aprender antes de opinar.",
+      "reading_points": [
+        {
+          "title": "Pausa para aprender",
+          "body": "A equipe não decide apenas por impressão ou urgência emocional."
+        },
+        {
+          "title": "Fonte segura",
+          "body": "Bíblia, Catecismo e ensinamento da Igreja oferecem critério comum."
+        },
+        {
+          "title": "Discernimento maduro",
+          "body": "Formar-se protege a comunhão e torna a ação pastoral mais fiel."
+        }
+      ]
+    },
+    {
+      "id": "O11",
+      "term_id": "O11",
+      "call_label": "O11 - Rezar em comum",
+      "case": "Antes de iniciar uma frente de ajuda, os voluntários combinam uma oração semanal breve com Palavra de Deus, intercessão pelos atendidos e silêncio.",
+      "conference_question": "Por que rezar em comum ordena o serviço e não é apenas uma formalidade religiosa?",
+      "anchors": [
+        "At 2,42",
+        "B05",
+        "I14"
+      ],
+      "facilitator_note": "Evite tratar oração como abertura decorativa; ela forma o coração da obra.",
+      "reading_points": [
+        {
+          "title": "Serviço diante de Deus",
+          "body": "A ação começa colocando necessidades, limites e pessoas sob a escuta do Senhor."
+        },
+        {
+          "title": "Comunhão orante",
+          "body": "A oração comum une os servidores e educa a intenção."
+        },
+        {
+          "title": "Perseverança espiritual",
+          "body": "Rezar juntos ajuda a comunidade a servir sem perder o centro."
+        }
+      ]
+    },
+    {
+      "id": "O12",
+      "term_id": "O12",
+      "call_label": "O12 - Servir sem palco",
+      "case": "Uma equipe decide registrar a campanha com números e recibos, mas não fotografa rostos de famílias atendidas nem usa histórias íntimas nas redes sociais.",
+      "conference_question": "Como prestar contas e comunicar uma ação sem transformar o serviço em palco?",
+      "anchors": [
+        "Mt 6,1-4",
+        "G03",
+        "N05"
+      ],
+      "facilitator_note": "Mostre alternativas concretas para transparência sem exposição.",
+      "reading_points": [
+        {
+          "title": "Discrição escolhida",
+          "body": "A equipe protege a identidade e a intimidade de quem recebe ajuda."
+        },
+        {
+          "title": "Transparência sem vaidade",
+          "body": "Números, critérios e recibos informam sem explorar a vulnerabilidade."
+        },
+        {
+          "title": "Intenção purificada",
+          "body": "Servir sem palco coloca a pessoa necessitada, e não a imagem do doador, no centro."
+        }
+      ]
+    },
+    {
+      "id": "O13",
+      "term_id": "O13",
+      "call_label": "O13 - Mediar com justiça",
+      "case": "Depois de acusações entre duas equipes, a coordenação escuta separadamente os envolvidos, recolhe fatos verificáveis e marca uma reunião curta para decidir encaminhamentos.",
+      "conference_question": "Por que mediação justa precisa de escuta, fatos e decisão, e não apenas de boa vontade?",
+      "anchors": [
+        "At 6,1-7",
+        "G11",
+        "B15"
+      ],
+      "facilitator_note": "Destaque ordem, escuta e critérios; não venda reconciliação automática.",
+      "reading_points": [
+        {
+          "title": "Conflito conduzido",
+          "body": "A tensão não é abafada nem entregue ao boato."
+        },
+        {
+          "title": "Fatos e escuta",
+          "body": "A mediação distingue relatos, provas, responsabilidades e necessidades."
+        },
+        {
+          "title": "Justiça para a comunhão",
+          "body": "A decisão busca reparar o que for possível e preservar a missão comum."
+        }
+      ]
+    },
+    {
+      "id": "O14",
+      "term_id": "O14",
+      "call_label": "O14 - Reparar o dano",
+      "case": "Uma pessoa espalhou uma informação falsa sobre um servidor; depois reconhece o erro, pede perdão diretamente e envia correção aos mesmos grupos onde divulgou a acusação.",
+      "conference_question": "Por que pedir perdão não basta quando o erro também produziu consequências públicas?",
+      "anchors": [
+        "Lc 19,8",
+        "Mt 18,15-17",
+        "G07"
+      ],
+      "facilitator_note": "Mostre que reparação deve acompanhar o alcance do dano, dentro do possível.",
+      "reading_points": [
+        {
+          "title": "Dano espalhado",
+          "body": "A acusação falsa atingiu a reputação da pessoa diante de outros."
+        },
+        {
+          "title": "Perdão com responsabilidade",
+          "body": "Reconhecer a culpa precisa vir acompanhado de correção das consequências possíveis."
+        },
+        {
+          "title": "Reparação proporcional",
+          "body": "A retratação deve alcançar, quanto possível, os mesmos lugares onde o erro circulou."
+        }
+      ]
+    },
+    {
+      "id": "O15",
+      "term_id": "O15",
+      "call_label": "O15 - Discernir compromissos",
+      "case": "Antes de assumir uma nova função, uma mulher avalia trabalho, família, saúde e tempo real, e aceita apenas uma tarefa que consegue sustentar.",
+      "conference_question": "Como discernir compromissos evita tanto a omissão quanto a promessa irresponsável?",
+      "anchors": [
+        "Lc 14,28",
+        "Rm 12,4-8",
+        "I15"
+      ],
+      "facilitator_note": "Ensine que generosidade cristã precisa de verdade sobre limites e perseverança.",
+      "reading_points": [
+        {
+          "title": "Realismo necessário",
+          "body": "A pessoa não confunde boa vontade com capacidade concreta de cumprir."
+        },
+        {
+          "title": "Compromisso sustentado",
+          "body": "Assumir menos com fidelidade pode servir melhor que prometer muito e abandonar."
+        },
+        {
+          "title": "Discernimento cristão",
+          "body": "Dons, deveres e limites devem ser considerados diante do bem comum."
+        }
+      ]
+    }
+  ]
+}

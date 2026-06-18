@@ -1,0 +1,1129 @@
+{
+  "title": "Bingo — Pecados contra a castidade",
+  "meeting": "Encontro 18 — Pecados contra a castidade",
+  "meeting_label": "Encontro 18",
+  "output_slug": "bingo_pecados_contra_a_castidade",
+  "core_message": "A castidade guarda o corpo e o coração para o amor verdadeiro; por isso, a Igreja nomeia o pecado com clareza, acolhe a pessoa com misericórdia e chama todos à conversão sustentada pela graça.",
+  "source_meeting_markdown": "projects/catequese/material_didatico/output/markdown/encontro_18.md",
+  "scripture": [
+    "Mt 5,27-28",
+    "1Cor 6,18-20",
+    "Gn 1,27",
+    "1Ts 4,3-5",
+    "Ef 5,31-32",
+    "Jo 8,11",
+    "2Tm 2,22"
+  ],
+  "catechism": [
+    "CEC 2337",
+    "CEC 2340",
+    "CEC 2345",
+    "CEC 2351",
+    "CEC 2352",
+    "CEC 2353",
+    "CEC 2354",
+    "CEC 2355",
+    "CEC 2356",
+    "CEC 2357",
+    "CEC 2358",
+    "CEC 2359",
+    "CEC 2520"
+  ],
+  "card_model": {
+    "total_terms": 75,
+    "columns": 5,
+    "terms_per_column": 15,
+    "grid": "5x5",
+    "center": {
+      "label": "LIVRE / Mt 5,27-28; 1Cor 6,18-20",
+      "fixed": true,
+      "called": false
+    },
+    "recommended_win_condition": "duas_linhas"
+  },
+  "columns": [
+    {
+      "key": "B",
+      "title": "Base moral",
+      "function": "Fundamentos bíblicos e doutrinais para ler o tema.",
+      "short_function": "fundamento cristão do tema"
+    },
+    {
+      "key": "I",
+      "title": "Situações concretas",
+      "function": "Formas reais em que o tema aparece na vida concreta, em situações inteligíveis para a turma.",
+      "short_function": "situações concretas do tema"
+    },
+    {
+      "key": "N",
+      "title": "Narrativas falsas",
+      "function": "Desculpas, autoenganos e frases que desviam do bem.",
+      "short_function": "desculpas que normalizam o erro"
+    },
+    {
+      "key": "G",
+      "title": "Discernimentos",
+      "function": "Distinções morais que evitam respostas simplistas.",
+      "short_function": "distinções para discernir"
+    },
+    {
+      "key": "O",
+      "title": "Orientações de resposta",
+      "function": "Ações concretas, prudentes e proporcionais diante do problema.",
+      "short_function": "respostas proporcionais e prudentes"
+    }
+  ],
+  "terms": [
+    {
+      "id": "B01",
+      "column": "B",
+      "label": "Corpo templo",
+      "definition": "O corpo do batizado não é objeto de uso ou vitrine de desejo, mas lugar chamado a glorificar Deus.",
+      "anchors": [
+        "1Cor 6,18-20",
+        "CEC 2355"
+      ],
+      "tags": [
+        "corpo",
+        "dignidade"
+      ]
+    },
+    {
+      "id": "B02",
+      "column": "B",
+      "label": "Castidade",
+      "definition": "Virtude que integra a sexualidade na pessoa inteira e ordena desejos, afetos e atos ao amor verdadeiro.",
+      "anchors": [
+        "CEC 2337",
+        "CEC 2345"
+      ],
+      "tags": [
+        "virtude",
+        "integração"
+      ]
+    },
+    {
+      "id": "B03",
+      "column": "B",
+      "label": "Pureza do coração",
+      "definition": "Retidão interior que combate a cobiça antes que ela se torne uso do outro pelo olhar, pela imaginação ou pelo ato.",
+      "anchors": [
+        "Mt 5,27-28",
+        "CEC 2520"
+      ],
+      "tags": [
+        "coração",
+        "olhar"
+      ]
+    },
+    {
+      "id": "B04",
+      "column": "B",
+      "label": "Luxúria",
+      "definition": "Desejo ou gozo sexual desordenado, buscado por si mesmo e separado da doação fiel e fecunda do amor.",
+      "anchors": [
+        "CEC 2351",
+        "Mt 5,27-28"
+      ],
+      "tags": [
+        "pecado",
+        "desejo"
+      ]
+    },
+    {
+      "id": "B05",
+      "column": "B",
+      "label": "Finalidade do sexo",
+      "definition": "A sexualidade tem sentido humano e moral quando está ordenada à união dos esposos e à abertura ao dom da vida.",
+      "anchors": [
+        "CEC 2351",
+        "Ef 5,31-32"
+      ],
+      "tags": [
+        "matrimônio",
+        "finalidade"
+      ]
+    },
+    {
+      "id": "B06",
+      "column": "B",
+      "label": "Dignidade da pessoa",
+      "definition": "Ninguém pode ser reduzido a corpo disponível, imagem consumível, instrumento de prazer ou mercadoria sexual.",
+      "anchors": [
+        "Gn 1,27",
+        "CEC 2354",
+        "CEC 2355"
+      ],
+      "tags": [
+        "dignidade",
+        "imagem de Deus"
+      ]
+    },
+    {
+      "id": "B07",
+      "column": "B",
+      "label": "Dom de si",
+      "definition": "O amor verdadeiro não toma o outro para uso próprio, mas se entrega com responsabilidade, fidelidade e respeito.",
+      "anchors": [
+        "Ef 5,31-32",
+        "CEC 2337"
+      ],
+      "tags": [
+        "amor",
+        "doação"
+      ]
+    },
+    {
+      "id": "B08",
+      "column": "B",
+      "label": "Aliança matrimonial",
+      "definition": "O casamento é a forma própria da entrega sexual plena, porque une compromisso público, fidelidade e abertura à vida.",
+      "anchors": [
+        "CEC 2353",
+        "Ef 5,31-32"
+      ],
+      "tags": [
+        "casamento",
+        "aliança"
+      ]
+    },
+    {
+      "id": "B09",
+      "column": "B",
+      "label": "Pecado contra o corpo",
+      "definition": "O pecado impuro fere a pessoa em sua própria corporeidade, porque usa o corpo fora da verdade do amor.",
+      "anchors": [
+        "1Cor 6,18-20",
+        "CEC 2353"
+      ],
+      "tags": [
+        "pecado",
+        "corpo"
+      ]
+    },
+    {
+      "id": "B10",
+      "column": "B",
+      "label": "Graça no combate",
+      "definition": "A pureza cristã não nasce de força isolada, mas de cooperação com a graça, vigilância e recomeços concretos.",
+      "anchors": [
+        "1Cor 6,18-20",
+        "CEC 2359"
+      ],
+      "tags": [
+        "graça",
+        "combate"
+      ]
+    },
+    {
+      "id": "B11",
+      "column": "B",
+      "label": "Confissão e perdão",
+      "definition": "Nenhum pecado contra a castidade é maior que a misericórdia de Deus quando há arrependimento sincero e conversão.",
+      "anchors": [
+        "Jo 8,11",
+        "CEC 2352"
+      ],
+      "tags": [
+        "misericórdia",
+        "sacramento"
+      ]
+    },
+    {
+      "id": "B12",
+      "column": "B",
+      "label": "Autodomínio",
+      "definition": "Domínio de si é liberdade educada, capaz de governar impulsos e escolher o bem sem ser arrastada pelo desejo.",
+      "anchors": [
+        "CEC 2340",
+        "CEC 2359"
+      ],
+      "tags": [
+        "liberdade",
+        "virtude"
+      ]
+    },
+    {
+      "id": "B13",
+      "column": "B",
+      "label": "Vocação à santidade",
+      "definition": "Toda pessoa, em qualquer condição de vida, é chamada à castidade, à conversão e à união com Cristo.",
+      "anchors": [
+        "CEC 2358",
+        "CEC 2359"
+      ],
+      "tags": [
+        "santidade",
+        "chamado"
+      ]
+    },
+    {
+      "id": "B14",
+      "column": "B",
+      "label": "Respeito e delicadeza",
+      "definition": "A verdade moral deve ser anunciada sem humilhar pessoas, sem discriminação injusta e sem aprovar o pecado.",
+      "anchors": [
+        "CEC 2358",
+        "G05"
+      ],
+      "tags": [
+        "acolhida",
+        "verdade"
+      ]
+    },
+    {
+      "id": "B15",
+      "column": "B",
+      "label": "Justiça na intimidade",
+      "definition": "A intimidade sexual exige liberdade, respeito e integridade; violência, coação e abuso são ofensas graves à pessoa.",
+      "anchors": [
+        "CEC 2356",
+        "Gn 1,27"
+      ],
+      "tags": [
+        "justiça",
+        "violência"
+      ]
+    },
+    {
+      "id": "I01",
+      "column": "I",
+      "label": "Olhar de cobiça",
+      "definition": "Situação em que alguém passa a olhar o outro como objeto de posse ou prazer, antes mesmo de qualquer ato exterior.",
+      "anchors": [
+        "Mt 5,27-28",
+        "B03"
+      ],
+      "tags": [
+        "olhar",
+        "coração"
+      ]
+    },
+    {
+      "id": "I02",
+      "column": "I",
+      "label": "Consumo de pornografia",
+      "definition": "Uso deliberado de imagens ou vídeos sexuais que transformam pessoas em objetos de excitação e lucro.",
+      "anchors": [
+        "CEC 2354",
+        "B06"
+      ],
+      "tags": [
+        "pornografia",
+        "consumo"
+      ]
+    },
+    {
+      "id": "I03",
+      "column": "I",
+      "label": "Repasse de íntimos",
+      "definition": "Circulação de fotos, vídeos ou mensagens íntimas, mesmo quando quem repassa não produziu o material.",
+      "anchors": [
+        "CEC 2354",
+        "B06"
+      ],
+      "tags": [
+        "exposição",
+        "digital"
+      ]
+    },
+    {
+      "id": "I04",
+      "column": "I",
+      "label": "Relação sem aliança",
+      "definition": "União sexual fora do casamento, separada do compromisso público, fiel e aberto à vida.",
+      "anchors": [
+        "CEC 2353",
+        "B08"
+      ],
+      "tags": [
+        "fornicação",
+        "casamento"
+      ]
+    },
+    {
+      "id": "I05",
+      "column": "I",
+      "label": "Pressão por prova",
+      "definition": "Cobrança de intimidade sexual como condição para manter namoro, aceitação ou afeto.",
+      "anchors": [
+        "B07",
+        "G12"
+      ],
+      "tags": [
+        "pressão",
+        "afeto"
+      ]
+    },
+    {
+      "id": "I06",
+      "column": "I",
+      "label": "Masturbação habitual",
+      "definition": "Ato impuro repetido como busca isolada de prazer, muitas vezes ligado a hábito, solidão, ansiedade ou estímulos digitais.",
+      "anchors": [
+        "CEC 2352",
+        "G14"
+      ],
+      "tags": [
+        "masturbação",
+        "hábito"
+      ]
+    },
+    {
+      "id": "I07",
+      "column": "I",
+      "label": "Prostituição paga",
+      "definition": "Compra de acesso sexual ao corpo de outra pessoa, reduzindo-a ao prazer obtido por pagamento.",
+      "anchors": [
+        "CEC 2355",
+        "B06"
+      ],
+      "tags": [
+        "prostituição",
+        "compra"
+      ]
+    },
+    {
+      "id": "I08",
+      "column": "I",
+      "label": "Exploração sexual",
+      "definition": "Aproveitamento da vulnerabilidade, pobreza, dependência ou ameaça para obter ganho sexual ou financeiro.",
+      "anchors": [
+        "CEC 2355",
+        "B15"
+      ],
+      "tags": [
+        "exploração",
+        "vulnerabilidade"
+      ]
+    },
+    {
+      "id": "I09",
+      "column": "I",
+      "label": "Estupro",
+      "definition": "Violação sexual praticada pela força, ameaça ou incapacidade de defesa da vítima, ferindo liberdade e integridade.",
+      "anchors": [
+        "CEC 2356",
+        "B15"
+      ],
+      "tags": [
+        "violência",
+        "vítima"
+      ]
+    },
+    {
+      "id": "I10",
+      "column": "I",
+      "label": "Abuso de autoridade",
+      "definition": "Uso de cargo, idade, confiança ou dependência para obter intimidade, silêncio ou submissão sexual.",
+      "anchors": [
+        "CEC 2356",
+        "G09"
+      ],
+      "tags": [
+        "abuso",
+        "autoridade"
+      ]
+    },
+    {
+      "id": "I11",
+      "column": "I",
+      "label": "Chantagem afetiva",
+      "definition": "Manipulação emocional que transforma medo de abandono, culpa ou carência em instrumento para obter intimidade.",
+      "anchors": [
+        "G12",
+        "O10"
+      ],
+      "tags": [
+        "manipulação",
+        "limite"
+      ]
+    },
+    {
+      "id": "I12",
+      "column": "I",
+      "label": "Descarte em aplicativo",
+      "definition": "Uso de pessoas em encontros combinados para prazer imediato, sem responsabilidade, cuidado ou compromisso.",
+      "anchors": [
+        "B07",
+        "B09"
+      ],
+      "tags": [
+        "descarte",
+        "consumo"
+      ]
+    },
+    {
+      "id": "I13",
+      "column": "I",
+      "label": "Infidelidade digital",
+      "definition": "Busca secreta de intimidade erótica por mensagens, imagens ou conversas, traindo o vínculo assumido.",
+      "anchors": [
+        "Mt 5,27-28",
+        "B08"
+      ],
+      "tags": [
+        "infidelidade",
+        "digital"
+      ]
+    },
+    {
+      "id": "I14",
+      "column": "I",
+      "label": "Corpo como vitrine",
+      "definition": "Exposição do corpo para ganhar desejo, atenção, seguidores ou lucro, reduzindo a pessoa à imagem consumida.",
+      "anchors": [
+        "B01",
+        "B06"
+      ],
+      "tags": [
+        "exposição",
+        "imagem"
+      ]
+    },
+    {
+      "id": "I15",
+      "column": "I",
+      "label": "Ambiente permissivo",
+      "definition": "Contexto em que piadas, convites, bebidas, pressão e falta de limites tornam a impureza previsível e normalizada.",
+      "anchors": [
+        "1Ts 4,3-5",
+        "O01"
+      ],
+      "tags": [
+        "ocasião",
+        "ambiente"
+      ]
+    },
+    {
+      "id": "N01",
+      "column": "N",
+      "label": "Não faz mal a ninguém",
+      "definition": "Narrativa que ignora danos invisíveis ao coração, ao corpo, à dignidade, ao vínculo e à consciência.",
+      "anchors": [
+        "1Cor 6,18-20",
+        "CEC 2351"
+      ],
+      "tags": [
+        "autoengano",
+        "dano"
+      ]
+    },
+    {
+      "id": "N02",
+      "column": "N",
+      "label": "Todo mundo faz",
+      "definition": "Desculpa que troca a verdade moral pela frequência social e chama de normal aquilo que continua ferindo o bem.",
+      "anchors": [
+        "1Ts 4,3-5",
+        "B12"
+      ],
+      "tags": [
+        "pressão",
+        "normalização"
+      ]
+    },
+    {
+      "id": "N03",
+      "column": "N",
+      "label": "Ilusão de controle",
+      "definition": "Autoengano de quem acha que estímulos, hábitos e ocasiões perigosas não deformarão sua liberdade.",
+      "anchors": [
+        "CEC 2340",
+        "O01"
+      ],
+      "tags": [
+        "hábito",
+        "controle"
+      ]
+    },
+    {
+      "id": "N04",
+      "column": "N",
+      "label": "Falsa autonomia",
+      "definition": "Narrativa que trata o corpo como propriedade absoluta, esquecendo que a pessoa pertence a Deus e responde pelo amor.",
+      "anchors": [
+        "1Cor 6,19-20",
+        "B01"
+      ],
+      "tags": [
+        "autonomia",
+        "corpo"
+      ]
+    },
+    {
+      "id": "N05",
+      "column": "N",
+      "label": "Prova de amor",
+      "definition": "Mentira que apresenta a entrega sexual fora do bem como teste de afeto, fidelidade ou confiança.",
+      "anchors": [
+        "B07",
+        "I05"
+      ],
+      "tags": [
+        "pressão",
+        "amor"
+      ]
+    },
+    {
+      "id": "N06",
+      "column": "N",
+      "label": "Só virtual",
+      "definition": "Desculpa que separa a vida digital da vida moral, como se olhar, expor e desejar pela tela não tocassem a alma.",
+      "anchors": [
+        "Mt 5,27-28",
+        "CEC 2354"
+      ],
+      "tags": [
+        "digital",
+        "desculpa"
+      ]
+    },
+    {
+      "id": "N07",
+      "column": "N",
+      "label": "Corpo como produto",
+      "definition": "Lógica que transforma aparência, intimidade e sexualidade em mercadoria, audiência, poder ou lucro.",
+      "anchors": [
+        "CEC 2354",
+        "CEC 2355"
+      ],
+      "tags": [
+        "mercadoria",
+        "dignidade"
+      ]
+    },
+    {
+      "id": "N08",
+      "column": "N",
+      "label": "Culpa da vítima",
+      "definition": "Narrativa injusta que desloca a responsabilidade do agressor para quem sofreu violência, exposição ou abuso.",
+      "anchors": [
+        "CEC 2356",
+        "G10"
+      ],
+      "tags": [
+        "vítima",
+        "injustiça"
+      ]
+    },
+    {
+      "id": "N09",
+      "column": "N",
+      "label": "Desejo manda",
+      "definition": "Autoengano que transforma impulso em autoridade moral e reduz liberdade a obedecer ao que se sente.",
+      "anchors": [
+        "CEC 2340",
+        "G13"
+      ],
+      "tags": [
+        "desejo",
+        "liberdade"
+      ]
+    },
+    {
+      "id": "N10",
+      "column": "N",
+      "label": "Consentiu uma vez",
+      "definition": "Mentira que usa um consentimento passado para negar o direito presente de dizer não ou mudar de decisão.",
+      "anchors": [
+        "CEC 2356",
+        "B15"
+      ],
+      "tags": [
+        "consentimento",
+        "coação"
+      ]
+    },
+    {
+      "id": "N11",
+      "column": "N",
+      "label": "Privado sem pecado",
+      "definition": "Desculpa que chama de moralmente neutro tudo o que é escondido, mesmo quando fere Deus, o corpo e o outro.",
+      "anchors": [
+        "Mt 5,27-28",
+        "1Cor 6,18-20"
+      ],
+      "tags": [
+        "oculto",
+        "consciência"
+      ]
+    },
+    {
+      "id": "N12",
+      "column": "N",
+      "label": "Amor sem compromisso",
+      "definition": "Narrativa que separa intensidade afetiva de aliança, responsabilidade e verdade objetiva da entrega sexual.",
+      "anchors": [
+        "CEC 2353",
+        "B08"
+      ],
+      "tags": [
+        "afeto",
+        "compromisso"
+      ]
+    },
+    {
+      "id": "N13",
+      "column": "N",
+      "label": "Desejo como identidade",
+      "definition": "Erro de reduzir a pessoa aos seus desejos e concluir que todo desejo sentido deve ser aprovado e praticado.",
+      "anchors": [
+        "CEC 2358",
+        "G01"
+      ],
+      "tags": [
+        "identidade",
+        "discernimento"
+      ]
+    },
+    {
+      "id": "N14",
+      "column": "N",
+      "label": "Vergonha sem saída",
+      "definition": "Mentira que transforma queda em condenação definitiva e impede arrependimento, pedido de ajuda e Confissão.",
+      "anchors": [
+        "Jo 8,11",
+        "B11"
+      ],
+      "tags": [
+        "vergonha",
+        "misericórdia"
+      ]
+    },
+    {
+      "id": "N15",
+      "column": "N",
+      "label": "Perdão barato",
+      "definition": "Desvio que usa a misericórdia como licença para repetir o pecado sem conversão, reparação ou combate.",
+      "anchors": [
+        "Jo 8,11",
+        "B11"
+      ],
+      "tags": [
+        "misericórdia",
+        "banalização"
+      ]
+    },
+    {
+      "id": "G01",
+      "column": "G",
+      "label": "Pessoa e ato",
+      "definition": "Distinção entre a dignidade inviolável da pessoa e o juízo moral objetivo sobre atos que podem ser desordenados.",
+      "anchors": [
+        "Gn 1,27",
+        "CEC 2358"
+      ],
+      "tags": [
+        "distinção",
+        "dignidade"
+      ]
+    },
+    {
+      "id": "G02",
+      "column": "G",
+      "label": "Gravidade e culpa",
+      "definition": "Distinção entre a gravidade objetiva de um ato e a responsabilidade subjetiva, que pode ser atenuada por fatores reais.",
+      "anchors": [
+        "CEC 2352",
+        "CEC 2355"
+      ],
+      "tags": [
+        "culpa",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "G03",
+      "column": "G",
+      "label": "Desejo e consentimento",
+      "definition": "Distinção entre sentir atração ou impulso e consentir deliberadamente no olhar, fantasia, busca ou ato desordenado.",
+      "anchors": [
+        "Mt 5,27-28",
+        "CEC 2340"
+      ],
+      "tags": [
+        "desejo",
+        "consentimento"
+      ]
+    },
+    {
+      "id": "G04",
+      "column": "G",
+      "label": "Tentação e pecado",
+      "definition": "Distinção entre ser tentado, o que não é pecado por si, e escolher alimentar ou praticar o mal.",
+      "anchors": [
+        "2Tm 2,22",
+        "CEC 2340"
+      ],
+      "tags": [
+        "tentação",
+        "escolha"
+      ]
+    },
+    {
+      "id": "G05",
+      "column": "G",
+      "label": "Acolhida e aprovação",
+      "definition": "Distinção entre acolher a pessoa com respeito e aprovar toda conduta ou desejo como moralmente bom.",
+      "anchors": [
+        "CEC 2358",
+        "CEC 2359"
+      ],
+      "tags": [
+        "acolhida",
+        "verdade"
+      ]
+    },
+    {
+      "id": "G06",
+      "column": "G",
+      "label": "Pudor e repressão",
+      "definition": "Distinção entre guardar a intimidade com respeito e tratar o corpo ou a sexualidade como algo sujo em si.",
+      "anchors": [
+        "B01",
+        "B02"
+      ],
+      "tags": [
+        "pudor",
+        "corpo"
+      ]
+    },
+    {
+      "id": "G07",
+      "column": "G",
+      "label": "Misericórdia e banalização",
+      "definition": "Distinção entre anunciar perdão real ao arrependido e chamar o pecado de irrelevante para evitar desconforto.",
+      "anchors": [
+        "Jo 8,11",
+        "B11"
+      ],
+      "tags": [
+        "misericórdia",
+        "pecado"
+      ]
+    },
+    {
+      "id": "G08",
+      "column": "G",
+      "label": "Prudência e omissão",
+      "definition": "Distinção entre agir com cuidado, sem exposição desnecessária, e calar quando há abuso, risco ou injustiça.",
+      "anchors": [
+        "CEC 2356",
+        "O07"
+      ],
+      "tags": [
+        "prudência",
+        "proteção"
+      ]
+    },
+    {
+      "id": "G09",
+      "column": "G",
+      "label": "Sigilo e encobrimento",
+      "definition": "Distinção entre preservar a intimidade de alguém e esconder crime, abuso ou perigo que exige proteção e autoridade competente.",
+      "anchors": [
+        "CEC 2356",
+        "I10"
+      ],
+      "tags": [
+        "sigilo",
+        "abuso"
+      ]
+    },
+    {
+      "id": "G10",
+      "column": "G",
+      "label": "Vítima e agressor",
+      "definition": "Distinção que impede culpar quem sofreu violência e mantém a responsabilidade moral no agressor e nos cúmplices.",
+      "anchors": [
+        "CEC 2356",
+        "N08"
+      ],
+      "tags": [
+        "vítima",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "G11",
+      "column": "G",
+      "label": "Intimidade e exposição",
+      "definition": "Distinção entre o que pertence ao vínculo pessoal reservado e o que se torna injustiça quando exibido a terceiros.",
+      "anchors": [
+        "CEC 2354",
+        "I03"
+      ],
+      "tags": [
+        "intimidade",
+        "exposição"
+      ]
+    },
+    {
+      "id": "G12",
+      "column": "G",
+      "label": "Amor e posse",
+      "definition": "Distinção entre amar alguém buscando seu bem e controlar seu corpo, decisões ou consciência para benefício próprio.",
+      "anchors": [
+        "B07",
+        "I11"
+      ],
+      "tags": [
+        "amor",
+        "controle"
+      ]
+    },
+    {
+      "id": "G13",
+      "column": "G",
+      "label": "Liberdade e impulso",
+      "definition": "Distinção entre liberdade verdadeira, que escolhe o bem, e impulso forte, que apenas pressiona a vontade.",
+      "anchors": [
+        "CEC 2340",
+        "N09"
+      ],
+      "tags": [
+        "liberdade",
+        "impulso"
+      ]
+    },
+    {
+      "id": "G14",
+      "column": "G",
+      "label": "Hábito e escolha",
+      "definition": "Distinção entre hábito que enfraquece a liberdade e decisão pessoal que ainda precisa de combate, ajuda e responsabilidade.",
+      "anchors": [
+        "CEC 2352",
+        "B10"
+      ],
+      "tags": [
+        "hábito",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "G15",
+      "column": "G",
+      "label": "Justiça e humilhação",
+      "definition": "Distinção entre corrigir, denunciar ou reparar uma injustiça e expor pessoas por vingança, curiosidade ou espetáculo.",
+      "anchors": [
+        "G08",
+        "O09"
+      ],
+      "tags": [
+        "justiça",
+        "exposição"
+      ]
+    },
+    {
+      "id": "O01",
+      "column": "O",
+      "label": "Fuga da ocasião",
+      "definition": "Afastar-se concretamente de ambientes, horários, telas, conversas ou vínculos que previsivelmente levam ao pecado.",
+      "anchors": [
+        "1Cor 6,18",
+        "2Tm 2,22"
+      ],
+      "tags": [
+        "prevenção",
+        "prudência"
+      ]
+    },
+    {
+      "id": "O02",
+      "column": "O",
+      "label": "Corte de acesso",
+      "definition": "Remover aplicativos, contas, senhas, contatos ou rotinas que alimentam pornografia, impureza ou exposição.",
+      "anchors": [
+        "CEC 2340",
+        "I02"
+      ],
+      "tags": [
+        "renúncia",
+        "digital"
+      ]
+    },
+    {
+      "id": "O03",
+      "column": "O",
+      "label": "Confissão sincera",
+      "definition": "Levar o pecado a Deus no sacramento, sem esconder a espécie moral, sem desespero e com propósito real de emenda.",
+      "anchors": [
+        "B11",
+        "Jo 8,11"
+      ],
+      "tags": [
+        "confissão",
+        "conversão"
+      ]
+    },
+    {
+      "id": "O04",
+      "column": "O",
+      "label": "Direção espiritual",
+      "definition": "Buscar acompanhamento estável com pessoa prudente e fiel à Igreja para ordenar consciência, quedas e decisões.",
+      "anchors": [
+        "B10",
+        "CEC 2359"
+      ],
+      "tags": [
+        "acompanhamento",
+        "discernimento"
+      ]
+    },
+    {
+      "id": "O05",
+      "column": "O",
+      "label": "Pedido de ajuda",
+      "definition": "Procurar adulto responsável, profissional competente ou autoridade segura quando há vício, abuso, chantagem ou risco.",
+      "anchors": [
+        "G08",
+        "G09"
+      ],
+      "tags": [
+        "ajuda",
+        "proteção"
+      ]
+    },
+    {
+      "id": "O06",
+      "column": "O",
+      "label": "Limite claro",
+      "definition": "Dizer não de modo direto, retirar-se da situação e não negociar a própria consciência para agradar alguém.",
+      "anchors": [
+        "B12",
+        "I05"
+      ],
+      "tags": [
+        "limite",
+        "consciência"
+      ]
+    },
+    {
+      "id": "O07",
+      "column": "O",
+      "label": "Bloqueio e denúncia",
+      "definition": "Interromper contato abusivo, guardar provas com segurança e acionar responsáveis ou autoridade competente quando necessário.",
+      "anchors": [
+        "CEC 2356",
+        "G09"
+      ],
+      "tags": [
+        "denúncia",
+        "segurança"
+      ]
+    },
+    {
+      "id": "O08",
+      "column": "O",
+      "label": "Apoio à vítima",
+      "definition": "Crer com seriedade inicial, proteger a pessoa, evitar exposição e encaminhar para ajuda segura e competente.",
+      "anchors": [
+        "CEC 2356",
+        "G10"
+      ],
+      "tags": [
+        "vítima",
+        "proteção"
+      ]
+    },
+    {
+      "id": "O09",
+      "column": "O",
+      "label": "Reparação possível",
+      "definition": "Assumir o dano causado, interromper circulação, pedir perdão, corrigir mentira e colaborar com consequências justas.",
+      "anchors": [
+        "I03",
+        "G15"
+      ],
+      "tags": [
+        "reparação",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "O10",
+      "column": "O",
+      "label": "Romper chantagem",
+      "definition": "Nomear a manipulação, buscar apoio e não ceder intimidade por medo, culpa ou ameaça de abandono.",
+      "anchors": [
+        "I11",
+        "G12"
+      ],
+      "tags": [
+        "chantagem",
+        "libertação"
+      ]
+    },
+    {
+      "id": "O11",
+      "column": "O",
+      "label": "Custódia do olhar",
+      "definition": "Desviar o olhar, cortar a fantasia alimentada e escolher ver a pessoa como filha de Deus, não como objeto.",
+      "anchors": [
+        "Mt 5,27-28",
+        "B03"
+      ],
+      "tags": [
+        "olhar",
+        "pureza"
+      ]
+    },
+    {
+      "id": "O12",
+      "column": "O",
+      "label": "Amizade limpa",
+      "definition": "Construir vínculos que não usam carência, sedução ou segredo para obter prazer, poder ou dependência.",
+      "anchors": [
+        "CEC 2359",
+        "B07"
+      ],
+      "tags": [
+        "amizade",
+        "castidade"
+      ]
+    },
+    {
+      "id": "O13",
+      "column": "O",
+      "label": "Plano de sobriedade",
+      "definition": "Organizar horários, sono, uso de telas, filtros, prestação de contas e atividades que reduzem ocasiões de queda.",
+      "anchors": [
+        "CEC 2340",
+        "G14"
+      ],
+      "tags": [
+        "sobriedade",
+        "hábito"
+      ]
+    },
+    {
+      "id": "O14",
+      "column": "O",
+      "label": "Exame de consciência",
+      "definition": "Revisar desejos, olhares, conversas, telas, relações e quedas para reconhecer padrões e preparar conversão concreta.",
+      "anchors": [
+        "Mt 5,27-28",
+        "B11"
+      ],
+      "tags": [
+        "consciência",
+        "conversão"
+      ]
+    },
+    {
+      "id": "O15",
+      "column": "O",
+      "label": "Vida sacramental",
+      "definition": "Sustentar a castidade pela Confissão, Eucaristia, oração e comunhão com Cristo, sem reduzir a luta a força de vontade.",
+      "anchors": [
+        "1Cor 6,18-20",
+        "B10"
+      ],
+      "tags": [
+        "sacramentos",
+        "graça"
+      ]
+    }
+  ]
+}

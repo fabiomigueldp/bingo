@@ -1,0 +1,1962 @@
+{
+  "title": "Chamadas — Bingo O bem comum",
+  "meeting": "Encontro 03 — O bem comum",
+  "source_terms": "data/termos.json",
+  "method": {
+    "read_order": [
+      "call_label",
+      "case",
+      "reading_points"
+    ],
+    "rule": "A cada carta, anuncie código e conceito, leia o caso e explique brevemente a relação usando a Leitura do caso. Depois as equipes marcam o código, se estiver na cartela.",
+    "conference_rule": "Ao fechar duas linhas válidas, horizontais, verticais ou diagonais, a equipe escolhe uma dessas linhas completas, explica pelo menos três conceitos da linha escolhida e liga pelo menos um deles à base bíblica ou doutrinal do encontro. As duas linhas podem se cruzar. O centro livre já conta como casa marcada para completar linhas, mas não conta como um dos três conceitos explicados."
+  },
+  "cards": [
+    {
+      "id": "B01",
+      "term_id": "B01",
+      "call_label": "B01 - Bem comum",
+      "case": "Em uma cidade, comerciantes, motoristas e moradores discutem uma obra que atrapalha o trânsito, mas pode levar saneamento a uma região sem esgoto.",
+      "conference_question": "Como distinguir o bem comum de uma simples soma de interesses particulares nesse caso?",
+      "anchors": [
+        "CEC 1906",
+        "Jr 29,7"
+      ],
+      "facilitator_note": "Mostre que o bem comum exige olhar para condições reais de vida, não apenas para incômodos imediatos.",
+      "reading_points": [
+        {
+          "title": "Conflito real",
+          "body": "A obra incomoda alguns, mas responde a uma necessidade básica de outros."
+        },
+        {
+          "title": "Critério moral",
+          "body": "O bem comum pergunta que condições permitem uma vida mais humana para todos."
+        },
+        {
+          "title": "Resposta cristã",
+          "body": "Buscar o bem da cidade inclui suportar custos proporcionais quando eles servem à justiça."
+        }
+      ]
+    },
+    {
+      "id": "B02",
+      "term_id": "B02",
+      "call_label": "B02 - Pessoa acima das coisas",
+      "case": "Uma empresa mantém uma máquina antiga funcionando porque trocar a peça custa caro, embora os funcionários já tenham relatado risco de acidente.",
+      "conference_question": "O que muda quando a decisão coloca a pessoa acima do equipamento e do lucro imediato?",
+      "anchors": [
+        "CEC 1912"
+      ],
+      "facilitator_note": "Evite transformar o caso em rejeição ao lucro; o ponto é subordinar coisas e processos à dignidade humana.",
+      "reading_points": [
+        {
+          "title": "Ordem invertida",
+          "body": "A segurança das pessoas é tratada como custo secundário."
+        },
+        {
+          "title": "Critério cristão",
+          "body": "A organização das coisas deve servir à ordem das pessoas."
+        },
+        {
+          "title": "Decisão justa",
+          "body": "A troca, a parada ou a proteção adequada se tornam exigência moral, não luxo."
+        }
+      ]
+    },
+    {
+      "id": "B03",
+      "term_id": "B03",
+      "call_label": "B03 - Direitos fundamentais",
+      "case": "Um hospital divulga em uma planilha pública nomes, diagnósticos e endereços de pacientes para mostrar transparência nos atendimentos.",
+      "conference_question": "Como defender transparência sem violar direitos fundamentais da pessoa?",
+      "anchors": [
+        "CEC 1907"
+      ],
+      "facilitator_note": "Aponte que nem toda informação pode ser exposta; a pessoa não perde intimidade por depender de serviço público.",
+      "reading_points": [
+        {
+          "title": "Direito ferido",
+          "body": "A prestação de contas não autoriza expor intimidade e doença."
+        },
+        {
+          "title": "Limite moral",
+          "body": "O bem comum inclui respeito à pessoa e a seus direitos inalienáveis."
+        },
+        {
+          "title": "Caminho correto",
+          "body": "É possível informar dados gerais sem entregar a vida privada de pacientes."
+        }
+      ]
+    },
+    {
+      "id": "B04",
+      "term_id": "B04",
+      "call_label": "B04 - Bem-estar social",
+      "case": "Uma família consegue comida por doação, mas vive sem acesso regular a posto de saúde, transporte e escola para as crianças.",
+      "conference_question": "Por que o bem-estar social não se reduz a uma ajuda pontual de alimento?",
+      "anchors": [
+        "CEC 1908"
+      ],
+      "facilitator_note": "Mostre que alimento é essencial, mas o desenvolvimento humano exige condições sociais mais amplas.",
+      "reading_points": [
+        {
+          "title": "Carência ampla",
+          "body": "A fome aparece junto de saúde, educação e transporte insuficientes."
+        },
+        {
+          "title": "Vida humana",
+          "body": "O Catecismo fala de bens necessários para uma vida verdadeiramente humana."
+        },
+        {
+          "title": "Resposta social",
+          "body": "A ajuda imediata deve caminhar com busca de condições estáveis de desenvolvimento."
+        }
+      ]
+    },
+    {
+      "id": "B05",
+      "term_id": "B05",
+      "call_label": "B05 - Paz justa",
+      "case": "Em um prédio, os moradores param de reclamar do síndico porque têm medo de retaliação, e ele diz que finalmente existe paz.",
+      "conference_question": "Como distinguir paz justa de silêncio produzido pelo medo?",
+      "anchors": [
+        "CEC 1909",
+        "Mq 6,8"
+      ],
+      "facilitator_note": "Enfatize que paz cristã não é medo organizado; paz precisa de justiça e segurança.",
+      "reading_points": [
+        {
+          "title": "Silêncio suspeito",
+          "body": "A ausência de reclamação nasce do medo, não da justiça."
+        },
+        {
+          "title": "Paz verdadeira",
+          "body": "O bem comum envolve uma ordem justa, duradoura e segura."
+        },
+        {
+          "title": "Caminho moral",
+          "body": "A comunidade precisa de meios honestos para resolver queixas sem ameaça."
+        }
+      ]
+    },
+    {
+      "id": "B06",
+      "term_id": "B06",
+      "call_label": "B06 - Participação",
+      "case": "Em um bairro com praça abandonada, muitos reclamam da sujeira, mas quase ninguém comparece à reunião aberta para decidir prioridades.",
+      "conference_question": "Por que a participação é mais do que opinião ou reclamação?",
+      "anchors": [
+        "CEC 1913",
+        "Jr 29,7"
+      ],
+      "facilitator_note": "Mostre que participar não exige resolver tudo, mas assumir o lugar possível com responsabilidade.",
+      "reading_points": [
+        {
+          "title": "Reclamação sem presença",
+          "body": "A queixa é legítima, mas fica fraca quando ninguém assume uma parte possível."
+        },
+        {
+          "title": "Dever de participar",
+          "body": "A participação é envolvimento voluntário nas relações sociais."
+        },
+        {
+          "title": "Bem da cidade",
+          "body": "Buscar o bem da cidade passa por presença concreta, escuta e compromisso."
+        }
+      ]
+    },
+    {
+      "id": "B07",
+      "term_id": "B07",
+      "call_label": "B07 - Responsabilidade pessoal",
+      "case": "Um motorista joga entulho em terreno vazio e diz que limpeza urbana é problema da prefeitura, não dele.",
+      "conference_question": "Como reconhecer a responsabilidade pessoal sem negar a responsabilidade do poder público?",
+      "anchors": [
+        "CEC 1914"
+      ],
+      "facilitator_note": "Evite falso dilema: há dever do Estado e dever de cada pessoa.",
+      "reading_points": [
+        {
+          "title": "Deslocamento de culpa",
+          "body": "A obrigação pública é usada para esconder uma ação pessoal errada."
+        },
+        {
+          "title": "Responsabilidade concreta",
+          "body": "Cada pessoa participa do bem comum nos setores que lhe cabem."
+        },
+        {
+          "title": "Correção possível",
+          "body": "Descartar corretamente e cobrar coleta adequada são deveres que não se anulam."
+        }
+      ]
+    },
+    {
+      "id": "B08",
+      "term_id": "B08",
+      "call_label": "B08 - Prudência social",
+      "case": "Um morador presencia desvio de material em uma obra pública, mas só tem boatos e pensa em publicar nomes imediatamente nas redes.",
+      "conference_question": "Que critério ajuda a agir contra a injustiça sem cometer injustiça nova?",
+      "anchors": [
+        "CEC 1806",
+        "CEC 1906"
+      ],
+      "facilitator_note": "Mostre que prudência não é covardia; é escolher meios honestos e proporcionais.",
+      "reading_points": [
+        {
+          "title": "Risco duplo",
+          "body": "Há possível corrupção, mas também risco de acusação sem prova suficiente."
+        },
+        {
+          "title": "Prudência",
+          "body": "A virtude procura meios corretos para um fim bom."
+        },
+        {
+          "title": "Ação adequada",
+          "body": "Registrar fatos, buscar canais responsáveis e proteger envolvidos é melhor que linchamento digital."
+        }
+      ]
+    },
+    {
+      "id": "B09",
+      "term_id": "B09",
+      "call_label": "B09 - Justiça social",
+      "case": "Uma cidade inaugura uma área bonita para turistas, enquanto bairros próximos seguem sem iluminação e coleta regular.",
+      "conference_question": "Por que a justiça social avalia também a organização das prioridades públicas?",
+      "anchors": [
+        "CEC 1807",
+        "CEC 1928"
+      ],
+      "facilitator_note": "Não reduza a questão a inveja; trate da distribuição justa de condições básicas.",
+      "reading_points": [
+        {
+          "title": "Prioridade desigual",
+          "body": "Recursos aparecem onde há visibilidade, enquanto necessidades básicas ficam esquecidas."
+        },
+        {
+          "title": "Dar o devido",
+          "body": "A justiça exige considerar o que é devido às pessoas para viver com dignidade."
+        },
+        {
+          "title": "Critério social",
+          "body": "O bem comum mede a cidade também pelo cuidado com áreas menos vistas."
+        }
+      ]
+    },
+    {
+      "id": "B10",
+      "term_id": "B10",
+      "call_label": "B10 - Solidariedade",
+      "case": "Depois de uma enchente, moradores de uma rua alta dizem que não têm nada a ver com quem perdeu móveis na parte baixa.",
+      "conference_question": "O que torna a solidariedade diferente de pena passageira?",
+      "anchors": [
+        "CEC 1939",
+        "1Cor 12,26"
+      ],
+      "facilitator_note": "Mostre que solidariedade reconhece vínculo real entre os membros da sociedade.",
+      "reading_points": [
+        {
+          "title": "Ferida comum",
+          "body": "O sofrimento de uma parte da comunidade não é assunto isolado."
+        },
+        {
+          "title": "Vínculo moral",
+          "body": "A solidariedade reconhece que o bem do outro também me diz respeito."
+        },
+        {
+          "title": "Resposta concreta",
+          "body": "Ajuda, organização e prevenção futura são formas de assumir esse vínculo."
+        }
+      ]
+    },
+    {
+      "id": "B11",
+      "term_id": "B11",
+      "call_label": "B11 - Subsidiariedade",
+      "case": "Uma associação de moradores mantém uma biblioteca comunitária, mas a prefeitura quer assumir tudo e afastar quem construiu o serviço.",
+      "conference_question": "Como a subsidiariedade ajuda a proteger iniciativas locais sem abandonar deveres públicos?",
+      "anchors": [
+        "CEC 1883"
+      ],
+      "facilitator_note": "Explique que a autoridade maior deve ajudar, não esmagar, o que a comunidade menor consegue realizar.",
+      "reading_points": [
+        {
+          "title": "Iniciativa viva",
+          "body": "A comunidade já realiza um bem concreto com conhecimento local."
+        },
+        {
+          "title": "Risco de centralização",
+          "body": "Tomar tudo para si pode enfraquecer a participação de quem serve."
+        },
+        {
+          "title": "Apoio correto",
+          "body": "A autoridade deve fortalecer, financiar e acompanhar sem substituir sem necessidade."
+        }
+      ]
+    },
+    {
+      "id": "B12",
+      "term_id": "B12",
+      "call_label": "B12 - Autoridade servidora",
+      "case": "O diretor de uma instituição usa o carro destinado ao atendimento de famílias vulneráveis para compromissos pessoais.",
+      "conference_question": "Por que o abuso de bens confiados à autoridade fere o bem comum?",
+      "anchors": [
+        "CEC 1897",
+        "CEC 1903",
+        "Rm 13,1-7"
+      ],
+      "facilitator_note": "Mostre que autoridade é encargo moral; quanto maior o poder, maior a responsabilidade.",
+      "reading_points": [
+        {
+          "title": "Cargo desviado",
+          "body": "O recurso confiado para servir é usado como benefício particular."
+        },
+        {
+          "title": "Finalidade do poder",
+          "body": "A autoridade legítima existe para o bem comum, não para privilégio pessoal."
+        },
+        {
+          "title": "Exigência moral",
+          "body": "Transparência, prestação de contas e correção são necessárias para restaurar confiança."
+        }
+      ]
+    },
+    {
+      "id": "B13",
+      "term_id": "B13",
+      "call_label": "B13 - Destino comum dos bens",
+      "case": "Um proprietário mantém imóveis vazios por anos em área com muitas famílias sem moradia, esperando valorização extrema.",
+      "conference_question": "Como distinguir propriedade legítima de uso socialmente irresponsável dos bens?",
+      "anchors": [
+        "CEC 2402"
+      ],
+      "facilitator_note": "Não negue a propriedade; explique que ela tem responsabilidade diante do destino universal dos bens.",
+      "reading_points": [
+        {
+          "title": "Bem retido",
+          "body": "O imóvel é possuído legalmente, mas seu uso afeta uma necessidade social grave."
+        },
+        {
+          "title": "Destino comum",
+          "body": "Os bens da criação têm destinação universal, mesmo quando há propriedade privada legítima."
+        },
+        {
+          "title": "Uso responsável",
+          "body": "Alugar, vender, adaptar ou negociar de modo justo pode servir melhor ao bem comum."
+        }
+      ]
+    },
+    {
+      "id": "B14",
+      "term_id": "B14",
+      "call_label": "B14 - Amor aos pobres",
+      "case": "Em uma recepção, uma mulher em situação de rua pede água e é mandada sair para não prejudicar a imagem do local.",
+      "conference_question": "Por que o amor cristão aos pobres exige mais que evitar grosseria explícita?",
+      "anchors": [
+        "CEC 2444",
+        "Mt 25,35-40"
+      ],
+      "facilitator_note": "Conduza com firmeza: a dignidade do pobre não depende de aparência, cheiro ou utilidade social.",
+      "reading_points": [
+        {
+          "title": "Pessoa descartada",
+          "body": "A imagem do local vale mais que a necessidade imediata de uma pessoa."
+        },
+        {
+          "title": "Cristo no necessitado",
+          "body": "A fé cristã reconhece uma exigência concreta diante da fome, sede e abandono."
+        },
+        {
+          "title": "Resposta digna",
+          "body": "Água, escuta breve e encaminhamento possível já negam o desprezo."
+        }
+      ]
+    },
+    {
+      "id": "B15",
+      "term_id": "B15",
+      "call_label": "B15 - Caridade social",
+      "case": "Uma família ajuda discretamente vizinhos com cestas, mas também participa da cobrança por saneamento que evitaria doenças recorrentes.",
+      "conference_question": "Como a caridade social une ajuda imediata e transformação das condições injustas?",
+      "anchors": [
+        "Mt 22,39",
+        "Fl 2,4",
+        "CEC 1939"
+      ],
+      "facilitator_note": "Mostre que a caridade não fica presa ao gesto individual quando a ferida tem causa social.",
+      "reading_points": [
+        {
+          "title": "Dois níveis",
+          "body": "A necessidade imediata pede ajuda, e a causa estrutural pede correção."
+        },
+        {
+          "title": "Amor concreto",
+          "body": "A caridade olha a pessoa inteira e as condições que ferem sua vida."
+        },
+        {
+          "title": "Bem comum",
+          "body": "Servir o próximo inclui melhorar relações e estruturas que afetam muitos."
+        }
+      ]
+    },
+    {
+      "id": "I01",
+      "term_id": "I01",
+      "call_label": "I01 - Remédio inacessível",
+      "case": "Um aposentado recebe uma receita contínua, mas o remédio custa quase metade da renda mensal e não está disponível no serviço público.",
+      "conference_question": "Que aspectos do bem comum aparecem quando a saúde depende de um remédio inacessível?",
+      "anchors": [
+        "CEC 1908",
+        "B04"
+      ],
+      "facilitator_note": "Trate o caso como necessidade concreta, não como debate abstrato sobre preço.",
+      "reading_points": [
+        {
+          "title": "Necessidade grave",
+          "body": "A falta do remédio ameaça a saúde e a estabilidade da vida cotidiana."
+        },
+        {
+          "title": "Bem-estar social",
+          "body": "O bem comum inclui acesso real aos meios necessários para viver humanamente."
+        },
+        {
+          "title": "Resposta possível",
+          "body": "Encaminhamento correto, assistência responsável e cobrança justa podem evitar abandono."
+        }
+      ]
+    },
+    {
+      "id": "I02",
+      "term_id": "I02",
+      "call_label": "I02 - Moradia indigna",
+      "case": "Uma família dorme em um cômodo com infiltração, fiação exposta e ratos, mas o aluguel consome quase toda a renda.",
+      "conference_question": "Por que moradia não é apenas teto, mas condição de dignidade humana?",
+      "anchors": [
+        "CEC 1908",
+        "B09"
+      ],
+      "facilitator_note": "Evite respostas simplistas; a cena envolve renda, saúde, segurança e dignidade.",
+      "reading_points": [
+        {
+          "title": "Risco diário",
+          "body": "A casa abriga, mas também ameaça saúde e segurança."
+        },
+        {
+          "title": "Vida digna",
+          "body": "O bem comum exige condições reais para uma vida verdadeiramente humana."
+        },
+        {
+          "title": "Justiça social",
+          "body": "A situação pede ajuda imediata e políticas ou decisões que enfrentem a precariedade."
+        }
+      ]
+    },
+    {
+      "id": "I03",
+      "term_id": "I03",
+      "call_label": "I03 - Trabalho explorado",
+      "case": "Em uma promoção de fim de ano, uma loja corta intervalos dos funcionários e exige horas extras sem pagamento.",
+      "conference_question": "Como reconhecer exploração quando a empresa apresenta o abuso como necessidade do negócio?",
+      "anchors": [
+        "CEC 1908",
+        "Tg 5,4"
+      ],
+      "facilitator_note": "Mostre que trabalho é meio de vida humana, não peça descartável da venda.",
+      "reading_points": [
+        {
+          "title": "Abuso normalizado",
+          "body": "O aumento de vendas é usado para retirar descanso e salário devido."
+        },
+        {
+          "title": "Dignidade do trabalho",
+          "body": "O bem-estar social inclui trabalho em condições compatíveis com a vida humana."
+        },
+        {
+          "title": "Justiça concreta",
+          "body": "Registrar horas, exigir pagamento e proteger descanso são respostas justas."
+        }
+      ]
+    },
+    {
+      "id": "I04",
+      "term_id": "I04",
+      "call_label": "I04 - Transporte inseguro",
+      "case": "Um ônibus circula lotado, com portas falhando, e moradores dependem dele para chegar ao trabalho e ao hospital.",
+      "conference_question": "Por que transporte inseguro atinge o bem comum e não apenas o conforto individual?",
+      "anchors": [
+        "CEC 1908",
+        "B05"
+      ],
+      "facilitator_note": "Ligue mobilidade a trabalho, saúde, segurança e acesso a direitos.",
+      "reading_points": [
+        {
+          "title": "Risco compartilhado",
+          "body": "A falha do transporte ameaça muitos e limita necessidades básicas."
+        },
+        {
+          "title": "Condições sociais",
+          "body": "Deslocar-se com segurança faz parte das condições para viver e trabalhar."
+        },
+        {
+          "title": "Paz social",
+          "body": "Cobrança organizada e manutenção honesta protegem a vida comum."
+        }
+      ]
+    },
+    {
+      "id": "I05",
+      "term_id": "I05",
+      "call_label": "I05 - Fura-fila de influência",
+      "case": "Uma pessoa consegue antecipar um exame por conhecer alguém na administração, enquanto pacientes mais graves continuam esperando.",
+      "conference_question": "Como distinguir ajuda legítima de privilégio injusto nesse caso?",
+      "anchors": [
+        "CEC 1807",
+        "B09"
+      ],
+      "facilitator_note": "Mostre que influência usada contra a fila justa fere quem não tem acesso a favores.",
+      "reading_points": [
+        {
+          "title": "Vantagem indevida",
+          "body": "A ordem de atendimento é quebrada por relação pessoal, não por critério justo."
+        },
+        {
+          "title": "Direito ferido",
+          "body": "Quem precisava mais ou esperou corretamente é prejudicado."
+        },
+        {
+          "title": "Resposta moral",
+          "body": "Justiça exige respeitar critérios transparentes e corrigir privilégios."
+        }
+      ]
+    },
+    {
+      "id": "I06",
+      "term_id": "I06",
+      "call_label": "I06 - Lixo no bairro",
+      "case": "Moradores deixam sacos de lixo fora do horário, os animais rasgam tudo e a rua amanhece com mau cheiro e risco de doença.",
+      "conference_question": "Que responsabilidades pessoais e comunitárias aparecem nesse problema?",
+      "anchors": [
+        "CEC 1914",
+        "B07"
+      ],
+      "facilitator_note": "Não trate como simples falta de educação; há saúde pública e dever comum envolvidos.",
+      "reading_points": [
+        {
+          "title": "Dano visível",
+          "body": "Uma escolha doméstica errada prejudica vizinhos e trabalhadores da limpeza."
+        },
+        {
+          "title": "Responsabilidade pessoal",
+          "body": "Cuidar do próprio lixo é uma forma concreta de participar do bem comum."
+        },
+        {
+          "title": "Ação comunitária",
+          "body": "Informar horários, cumprir regras e cobrar coleta adequada se completam."
+        }
+      ]
+    },
+    {
+      "id": "I07",
+      "term_id": "I07",
+      "call_label": "I07 - Corrupção pequena",
+      "case": "Um motorista paga uma quantia ao fiscal para liberar um veículo irregular sem multa nem conserto obrigatório.",
+      "conference_question": "Por que um ato chamado pequeno pode causar dano social real?",
+      "anchors": [
+        "CEC 1807",
+        "B12"
+      ],
+      "facilitator_note": "Mostre o efeito público do pequeno suborno: risco, injustiça e perda de confiança.",
+      "reading_points": [
+        {
+          "title": "Fraude concreta",
+          "body": "O pagamento evita uma consequência justa e mantém um risco circulando."
+        },
+        {
+          "title": "Confiança corroída",
+          "body": "A corrupção pequena ensina que a regra vale só para quem não paga."
+        },
+        {
+          "title": "Bem comum ferido",
+          "body": "Honestidade e fiscalização justa protegem vidas e relações sociais."
+        }
+      ]
+    },
+    {
+      "id": "I08",
+      "term_id": "I08",
+      "call_label": "I08 - Desemprego ignorado",
+      "case": "Um homem procura trabalho há meses, e parentes dizem que ele está nessa situação porque não quer se esforçar.",
+      "conference_question": "Como discernir responsabilidade pessoal sem apagar a dimensão social do desemprego?",
+      "anchors": [
+        "CEC 1908",
+        "B10"
+      ],
+      "facilitator_note": "Evite romantizar ou culpar automaticamente; há pessoa concreta e estrutura social envolvidas.",
+      "reading_points": [
+        {
+          "title": "Julgamento rápido",
+          "body": "A dor do desemprego é reduzida a preguiça sem conhecer fatos."
+        },
+        {
+          "title": "Bem-estar social",
+          "body": "Trabalho é condição importante para uma vida verdadeiramente humana."
+        },
+        {
+          "title": "Solidariedade",
+          "body": "A resposta pode incluir escuta, indicação séria, qualificação e cobrança de oportunidades justas."
+        }
+      ]
+    },
+    {
+      "id": "I09",
+      "term_id": "I09",
+      "call_label": "I09 - Informação manipulada",
+      "case": "Uma mensagem com imagem antiga circula como se fosse de hoje para provocar medo e pressionar uma decisão pública.",
+      "conference_question": "Por que manipular informação prejudica a participação responsável no bem comum?",
+      "anchors": [
+        "CEC 1912",
+        "Jo 8,32"
+      ],
+      "facilitator_note": "Mostre que mentira pública impede escolhas livres e justas.",
+      "reading_points": [
+        {
+          "title": "Contexto falsificado",
+          "body": "A imagem existe, mas é usada fora de data para produzir reação enganada."
+        },
+        {
+          "title": "Verdade necessária",
+          "body": "A vida social se baseia na verdade, não em medo fabricado."
+        },
+        {
+          "title": "Resposta cristã",
+          "body": "Verificar antes de repassar é serviço ao próximo e à cidade."
+        }
+      ]
+    },
+    {
+      "id": "I10",
+      "term_id": "I10",
+      "call_label": "I10 - Idoso abandonado",
+      "case": "Uma viúva passa dias sem visitas, esquece remédios e só é lembrada pela família quando precisam do benefício dela.",
+      "conference_question": "Como o abandono de um idoso revela uma quebra do bem comum dentro da própria família?",
+      "anchors": [
+        "Mt 25,35-40",
+        "B14"
+      ],
+      "facilitator_note": "Nomeie a exploração com sobriedade; cuidado familiar também é participação social.",
+      "reading_points": [
+        {
+          "title": "Uso da pessoa",
+          "body": "A idosa é lembrada pelo dinheiro, não pelo cuidado que sua dignidade exige."
+        },
+        {
+          "title": "Vulnerabilidade",
+          "body": "Idade, solidão e dependência aumentam a responsabilidade dos próximos."
+        },
+        {
+          "title": "Caridade concreta",
+          "body": "Visita, medicação, proteção financeira e rede de apoio são respostas proporcionais."
+        }
+      ]
+    },
+    {
+      "id": "I11",
+      "term_id": "I11",
+      "call_label": "I11 - Criança sem vaga",
+      "case": "Uma mãe perde oportunidades de trabalho porque não encontra vaga segura para deixar a filha pequena durante o dia.",
+      "conference_question": "Que relações existem entre cuidado infantil, trabalho da família e bem comum?",
+      "anchors": [
+        "CEC 1908",
+        "B04"
+      ],
+      "facilitator_note": "Mostre que a falta de vaga atinge criança, família e possibilidade de sustento.",
+      "reading_points": [
+        {
+          "title": "Efeito em cadeia",
+          "body": "A ausência de cuidado seguro afeta educação da criança e trabalho da mãe."
+        },
+        {
+          "title": "Desenvolvimento",
+          "body": "Educação e condições para fundar e sustentar um lar entram no bem-estar social."
+        },
+        {
+          "title": "Responsabilidade comum",
+          "body": "A resposta envolve família, comunidade e políticas honestas de acesso."
+        }
+      ]
+    },
+    {
+      "id": "I12",
+      "term_id": "I12",
+      "call_label": "I12 - Violência no território",
+      "case": "Moradores deixam de circular à noite porque grupos armados controlam ruas e impõem horários sem ordem legal.",
+      "conference_question": "Por que a violência territorial destrói mais que a segurança física imediata?",
+      "anchors": [
+        "CEC 1909",
+        "B05"
+      ],
+      "facilitator_note": "Trate com seriedade e sem sensacionalismo; medo permanente muda toda a vida comum.",
+      "reading_points": [
+        {
+          "title": "Domínio do medo",
+          "body": "A rotina das pessoas é governada por ameaça, não por justiça."
+        },
+        {
+          "title": "Paz ferida",
+          "body": "A paz exige ordem justa e segurança, não apenas sobrevivência."
+        },
+        {
+          "title": "Resposta proporcional",
+          "body": "Proteção, denúncia segura e presença pública honesta são necessárias."
+        }
+      ]
+    },
+    {
+      "id": "I13",
+      "term_id": "I13",
+      "call_label": "I13 - Atendimento discriminatório",
+      "case": "Em uma loja, uma cliente bem vestida é atendida primeiro, enquanto um homem simples é vigiado e ignorado pelos funcionários.",
+      "conference_question": "Como reconhecer discriminação mesmo quando ninguém usa uma ofensa direta?",
+      "anchors": [
+        "CEC 1907",
+        "CEC 1931"
+      ],
+      "facilitator_note": "Aponte que desprezo pode aparecer em gestos, prioridades e suspeitas injustas.",
+      "reading_points": [
+        {
+          "title": "Tratamento desigual",
+          "body": "A aparência social define quem recebe atenção e quem vira suspeito."
+        },
+        {
+          "title": "Dignidade igual",
+          "body": "O bem comum supõe respeito pela pessoa como tal."
+        },
+        {
+          "title": "Correção necessária",
+          "body": "Treinar, corrigir práticas e pedir reparação protege direitos fundamentais."
+        }
+      ]
+    },
+    {
+      "id": "I14",
+      "term_id": "I14",
+      "call_label": "I14 - Privacidade violada",
+      "case": "Um funcionário compartilha em um grupo prints do cadastro de uma família endividada para fazer piada.",
+      "conference_question": "Por que a exposição da vida privada fere o bem comum e não só a sensibilidade da vítima?",
+      "anchors": [
+        "CEC 1907",
+        "B03"
+      ],
+      "facilitator_note": "Mostre que privacidade protege dignidade, confiança social e segurança.",
+      "reading_points": [
+        {
+          "title": "Exposição cruel",
+          "body": "Dados confiados a uma instituição viram material de humilhação."
+        },
+        {
+          "title": "Direito fundamental",
+          "body": "A vida particular deve ser protegida em nome da dignidade da pessoa."
+        },
+        {
+          "title": "Reparação",
+          "body": "Apagar, responsabilizar, pedir desculpa e proteger dados são exigências concretas."
+        }
+      ]
+    },
+    {
+      "id": "I15",
+      "term_id": "I15",
+      "call_label": "I15 - Saneamento ausente",
+      "case": "Crianças adoecem repetidamente em uma rua onde esgoto corre a céu aberto e a água chega contaminada.",
+      "conference_question": "Por que saneamento é questão moral ligada ao bem comum?",
+      "anchors": [
+        "CEC 1908",
+        "B04"
+      ],
+      "facilitator_note": "Mostre que saúde pública não é luxo; é condição básica para vida humana.",
+      "reading_points": [
+        {
+          "title": "Dano evitável",
+          "body": "Doenças se repetem por falta de condições básicas, não por acaso."
+        },
+        {
+          "title": "Necessidade humana",
+          "body": "Saúde e moradia digna fazem parte do bem-estar social."
+        },
+        {
+          "title": "Responsabilidade pública",
+          "body": "Atendimento imediato e cobrança de infraestrutura justa caminham juntos."
+        }
+      ]
+    },
+    {
+      "id": "N01",
+      "term_id": "N01",
+      "call_label": "N01 - Soma de interesses",
+      "case": "Em uma assembleia, cada grupo defende apenas o que melhora sua própria rua, sem perguntar o que atende primeiro às necessidades mais graves da cidade.",
+      "conference_question": "Por que somar interesses não basta para encontrar o bem comum?",
+      "anchors": [
+        "CEC 1906",
+        "G03"
+      ],
+      "facilitator_note": "Desmonte a confusão entre disputa de vantagens e busca de condições justas para todos.",
+      "reading_points": [
+        {
+          "title": "Visão estreita",
+          "body": "Cada grupo mede a decisão só pelo próprio benefício."
+        },
+        {
+          "title": "Erro moral",
+          "body": "O bem comum não é a soma de preferências privadas."
+        },
+        {
+          "title": "Critério correto",
+          "body": "A pergunta deve ser quais condições permitem vida mais humana para todos."
+        }
+      ]
+    },
+    {
+      "id": "N02",
+      "term_id": "N02",
+      "call_label": "N02 - Ditadura da maioria",
+      "case": "A maioria dos moradores vota para proibir a entrada de trabalhadores terceirizados no elevador social, dizendo que a decisão democrática resolve a questão.",
+      "conference_question": "Que limite moral impede a maioria de transformar injustiça em regra?",
+      "anchors": [
+        "CEC 1907",
+        "G04"
+      ],
+      "facilitator_note": "Mostre que voto não santifica discriminação nem violação de dignidade.",
+      "reading_points": [
+        {
+          "title": "Voto injusto",
+          "body": "A decisão da maioria humilha um grupo e cria separação indevida."
+        },
+        {
+          "title": "Direitos inalienáveis",
+          "body": "A pessoa não perde dignidade porque foi vencida numa votação."
+        },
+        {
+          "title": "Justiça acima do número",
+          "body": "Decisões coletivas precisam respeitar direitos fundamentais."
+        }
+      ]
+    },
+    {
+      "id": "N03",
+      "term_id": "N03",
+      "call_label": "N03 - Estado acima da pessoa",
+      "case": "Um órgão público remove famílias de uma área sem aviso adequado, sem alternativa de moradia e sem ouvir idosos ou crianças afetadas.",
+      "conference_question": "Como perceber quando uma ação pública deixa de servir pessoas e passa a tratá-las como obstáculos?",
+      "anchors": [
+        "CEC 1912",
+        "B02"
+      ],
+      "facilitator_note": "Não negue a necessidade de ordem urbana; a crítica é ao sacrifício da pessoa sem justiça.",
+      "reading_points": [
+        {
+          "title": "Pessoas como entrave",
+          "body": "A execução administrativa ignora histórias, fragilidades e direitos."
+        },
+        {
+          "title": "Ordem das pessoas",
+          "body": "As coisas e os projetos devem se subordinar à dignidade humana."
+        },
+        {
+          "title": "Ação justa",
+          "body": "Planejamento, diálogo, alternativa real e proteção dos vulneráveis são necessários."
+        }
+      ]
+    },
+    {
+      "id": "N04",
+      "term_id": "N04",
+      "call_label": "N04 - Só os meus importam",
+      "case": "Uma família instala câmeras e grades, mas se recusa a conversar sobre a rua sem iluminação porque diz que o problema é dos outros.",
+      "conference_question": "Como a preocupação legítima com os próprios pode virar fechamento contra o bem comum?",
+      "anchors": [
+        "Mt 22,39",
+        "B10"
+      ],
+      "facilitator_note": "Valorize o cuidado familiar, mas mostre que ele não dispensa responsabilidade pela vizinhança.",
+      "reading_points": [
+        {
+          "title": "Proteção isolada",
+          "body": "A família se protege, mas abandona a condição comum que também gera risco."
+        },
+        {
+          "title": "Fechamento moral",
+          "body": "O amor aos próximos não autoriza indiferença aos demais."
+        },
+        {
+          "title": "Solidariedade",
+          "body": "Cuidar dos seus pode incluir buscar segurança justa para todos."
+        }
+      ]
+    },
+    {
+      "id": "N05",
+      "term_id": "N05",
+      "call_label": "N05 - Impotência cômoda",
+      "case": "Diante de uma farmácia popular fechada há meses, moradores dizem que nada muda mesmo e deixam de registrar reclamações ou buscar informação.",
+      "conference_question": "Como distinguir humildade diante de um problema grande de omissão cômoda?",
+      "anchors": [
+        "CEC 1913",
+        "B06"
+      ],
+      "facilitator_note": "Mostre que ninguém resolve tudo, mas isso não apaga ações proporcionais e possíveis.",
+      "reading_points": [
+        {
+          "title": "Desânimo paralisante",
+          "body": "A frustração vira desculpa para não fazer nem o que está ao alcance."
+        },
+        {
+          "title": "Dever possível",
+          "body": "Participação não exige controle total dos resultados."
+        },
+        {
+          "title": "Passo concreto",
+          "body": "Reunir dados, cobrar canal correto e perseverar já é corresponsabilidade."
+        }
+      ]
+    },
+    {
+      "id": "N06",
+      "term_id": "N06",
+      "call_label": "N06 - Todo mundo faz",
+      "case": "Em um comércio, funcionários combinam pequenas fraudes no estoque porque dizem que todos no setor fazem o mesmo.",
+      "conference_question": "Por que a repetição de um erro não muda sua qualidade moral?",
+      "anchors": [
+        "Rm 12,2",
+        "B08"
+      ],
+      "facilitator_note": "Mostre que normalidade social não é critério suficiente para a consciência cristã.",
+      "reading_points": [
+        {
+          "title": "Conformismo",
+          "body": "A prática comum é usada para adormecer a consciência."
+        },
+        {
+          "title": "Critério moral",
+          "body": "A frequência do erro não o transforma em justiça."
+        },
+        {
+          "title": "Liberdade responsável",
+          "body": "Recusar a fraude pode exigir coragem, registro e busca de orientação."
+        }
+      ]
+    },
+    {
+      "id": "N07",
+      "term_id": "N07",
+      "call_label": "N07 - Favor injusto",
+      "case": "Uma pessoa pede ao amigo servidor que encaixe seu processo antes dos outros, chamando isso de ajuda entre conhecidos.",
+      "conference_question": "Como distinguir favor legítimo de favorecimento injusto?",
+      "anchors": [
+        "CEC 1807",
+        "I05"
+      ],
+      "facilitator_note": "Explique que ajuda não pode roubar o direito de quem estava na frente.",
+      "reading_points": [
+        {
+          "title": "Nome enganoso",
+          "body": "A palavra ajuda encobre uma vantagem retirada de outros."
+        },
+        {
+          "title": "Fila moral",
+          "body": "Critérios justos protegem quem não tem influência."
+        },
+        {
+          "title": "Resposta correta",
+          "body": "Ajudar pode ser orientar o caminho regular, não quebrar a ordem."
+        }
+      ]
+    },
+    {
+      "id": "N08",
+      "term_id": "N08",
+      "call_label": "N08 - Lucro sem limite",
+      "case": "Uma fábrica ignora que despejos contaminam a água de comunidades próximas porque o tratamento reduziria a margem de lucro.",
+      "conference_question": "Que limite moral impede o lucro de virar critério absoluto?",
+      "anchors": [
+        "CEC 1912",
+        "B13"
+      ],
+      "facilitator_note": "Afirme que lucro pode ser legítimo, mas nunca à custa da vida e da saúde.",
+      "reading_points": [
+        {
+          "title": "Custo empurrado",
+          "body": "A empresa preserva dinheiro transferindo doença e risco para outros."
+        },
+        {
+          "title": "Limite da economia",
+          "body": "A atividade econômica deve servir pessoas, não sacrificá-las."
+        },
+        {
+          "title": "Justiça necessária",
+          "body": "Tratamento, reparação e fiscalização são exigências do bem comum."
+        }
+      ]
+    },
+    {
+      "id": "N09",
+      "term_id": "N09",
+      "call_label": "N09 - Paz como silêncio",
+      "case": "Funcionários deixam de relatar assédio moral porque quem reclamou antes foi isolado, e a chefia elogia o ambiente sem conflitos.",
+      "conference_question": "Como responder sem confundir silêncio forçado com paz?",
+      "anchors": [
+        "CEC 1909",
+        "G07"
+      ],
+      "facilitator_note": "Nomeie o medo sem expor vítimas; paz verdadeira exige canais seguros e justiça.",
+      "reading_points": [
+        {
+          "title": "Medo calado",
+          "body": "A ausência de denúncia nasce da retaliação, não de harmonia."
+        },
+        {
+          "title": "Falsa paz",
+          "body": "Silenciar a vítima mantém a injustiça funcionando."
+        },
+        {
+          "title": "Ordem justa",
+          "body": "Canais de escuta, proteção e apuração séria servem à paz verdadeira."
+        }
+      ]
+    },
+    {
+      "id": "N10",
+      "term_id": "N10",
+      "call_label": "N10 - Direito sem dever",
+      "case": "Moradores exigem segurança, iluminação e limpeza, mas muitos depredam lâmpadas, estacionam em calçadas e descartam lixo irregularmente.",
+      "conference_question": "Por que direitos reais exigem deveres reais na vida comum?",
+      "anchors": [
+        "CEC 1913",
+        "CEC 1914"
+      ],
+      "facilitator_note": "Não enfraqueça direitos; mostre que deveres ajudam a sustentá-los.",
+      "reading_points": [
+        {
+          "title": "Exigência incoerente",
+          "body": "A comunidade pede bens comuns enquanto alguns os destroem."
+        },
+        {
+          "title": "Participação",
+          "body": "O bem comum requer envolvimento responsável de cada pessoa."
+        },
+        {
+          "title": "Coerência moral",
+          "body": "Cobrar o direito e cumprir o dever são partes da mesma responsabilidade."
+        }
+      ]
+    },
+    {
+      "id": "N11",
+      "term_id": "N11",
+      "call_label": "N11 - Culpa só do governo",
+      "case": "Pais reclamam da queda no aprendizado dos filhos, mas nunca acompanham tarefas, faltas ou reuniões, alegando que educação é obrigação do Estado.",
+      "conference_question": "Como reconhecer dever público sem apagar a responsabilidade própria da família?",
+      "anchors": [
+        "CEC 1914",
+        "B07"
+      ],
+      "facilitator_note": "Evite oposição simplista entre família e Estado; ambos têm responsabilidades distintas.",
+      "reading_points": [
+        {
+          "title": "Dever deslocado",
+          "body": "Uma responsabilidade real do Estado é usada para cancelar a parte da família."
+        },
+        {
+          "title": "Setor próprio",
+          "body": "Participar do bem comum começa pelos encargos que já nos cabem."
+        },
+        {
+          "title": "Resposta equilibrada",
+          "body": "A família acompanha e também cobra escola e políticas adequadas."
+        }
+      ]
+    },
+    {
+      "id": "N12",
+      "term_id": "N12",
+      "call_label": "N12 - Neutralidade cômoda",
+      "case": "Um supervisor vê uma funcionária sendo humilhada em público, mas diz que prefere não se envolver para manter bom clima com todos.",
+      "conference_question": "Quando a neutralidade deixa de ser prudência e passa a colaborar com a injustiça?",
+      "anchors": [
+        "Tg 2,15-17",
+        "G06"
+      ],
+      "facilitator_note": "Mostre que neutralidade diante de agressão concreta favorece quem agride.",
+      "reading_points": [
+        {
+          "title": "Omissão disfarçada",
+          "body": "A busca de bom clima serve para evitar uma intervenção necessária."
+        },
+        {
+          "title": "Injustiça mantida",
+          "body": "Não se envolver pode deixar o forte continuar ferindo o fraco."
+        },
+        {
+          "title": "Prudência ativa",
+          "body": "Intervir com segurança, registrar e encaminhar é melhor que silêncio conveniente."
+        }
+      ]
+    },
+    {
+      "id": "N13",
+      "term_id": "N13",
+      "call_label": "N13 - Pretexto do bem comum",
+      "case": "Uma autoridade proíbe qualquer crítica à gestão dizendo que questionamentos prejudicam a união da comunidade.",
+      "conference_question": "Como identificar quando o bem comum é usado como máscara para abuso de poder?",
+      "anchors": [
+        "CEC 1907",
+        "CEC 1912"
+      ],
+      "facilitator_note": "Mostre que unidade verdadeira não exige calar a verdade nem proteger abusos.",
+      "reading_points": [
+        {
+          "title": "Vocabulário manipulado",
+          "body": "A expressão bem comum é usada para bloquear crítica legítima."
+        },
+        {
+          "title": "Pessoa protegida",
+          "body": "Direitos e consciência não podem ser esmagados por conveniência institucional."
+        },
+        {
+          "title": "Unidade justa",
+          "body": "Perguntas honestas, prestação de contas e respeito à pessoa servem ao bem comum."
+        }
+      ]
+    },
+    {
+      "id": "N14",
+      "term_id": "N14",
+      "call_label": "N14 - Problema dos pobres",
+      "case": "Depois de uma reportagem sobre famílias sem água, alguém comenta que isso é problema deles e que cada um deve cuidar da própria vida.",
+      "conference_question": "Por que a pobreza grave não pode ser tratada como assunto isolado dos pobres?",
+      "anchors": [
+        "Mt 25,35-40",
+        "B14"
+      ],
+      "facilitator_note": "Conduza sem agressividade, mas com clareza: indiferença diante da miséria é problema moral.",
+      "reading_points": [
+        {
+          "title": "Distância moral",
+          "body": "A frase tenta expulsar a dor dos pobres da responsabilidade comum."
+        },
+        {
+          "title": "Cristo no necessitado",
+          "body": "A fé cristã não permite neutralizar a fome, a sede e o abandono."
+        },
+        {
+          "title": "Responsabilidade social",
+          "body": "Ajuda concreta e cobrança justa respondem à dignidade ferida."
+        }
+      ]
+    },
+    {
+      "id": "N15",
+      "term_id": "N15",
+      "call_label": "N15 - Fé sem cidade",
+      "case": "Um homem participa de momentos de oração, mas diz que saneamento, fome e violência do bairro não têm relação com vida cristã.",
+      "conference_question": "Como Jr 29,7 corrige a separação entre oração e responsabilidade pela cidade?",
+      "anchors": [
+        "Jr 29,7",
+        "CEC 1913"
+      ],
+      "facilitator_note": "Mostre que a oração cristã não foge da cidade; ela purifica e sustenta o compromisso.",
+      "reading_points": [
+        {
+          "title": "Separação falsa",
+          "body": "A fé é reduzida a prática privada sem consequência social."
+        },
+        {
+          "title": "Palavra de Deus",
+          "body": "Jeremias manda buscar o bem da cidade e rezar por ela."
+        },
+        {
+          "title": "Vida cristã inteira",
+          "body": "Oração, participação e serviço formam uma única resposta ao Senhor."
+        }
+      ]
+    },
+    {
+      "id": "G01",
+      "term_id": "G01",
+      "call_label": "G01 - Pessoa e coisa",
+      "case": "Uma clínica remarca cirurgias importantes para não perder um contrato de publicidade no mesmo dia.",
+      "conference_question": "Como a distinção entre pessoa e coisa ilumina a decisão dessa clínica?",
+      "anchors": [
+        "CEC 1912",
+        "B02"
+      ],
+      "facilitator_note": "Mostre que contratos importam, mas não podem ocupar o lugar da pessoa ferida.",
+      "reading_points": [
+        {
+          "title": "Prioridade trocada",
+          "body": "O contrato ganha mais peso que a necessidade de pacientes."
+        },
+        {
+          "title": "Distinção central",
+          "body": "Coisas, processos e imagem institucional existem para servir pessoas."
+        },
+        {
+          "title": "Critério cristão",
+          "body": "A ordem moral recoloca o paciente concreto no centro da decisão."
+        }
+      ]
+    },
+    {
+      "id": "G02",
+      "term_id": "G02",
+      "call_label": "G02 - Necessidade e desejo",
+      "case": "Um orçamento público pode financiar uma reforma estética de praça já bem cuidada ou consertar o telhado de uma unidade de saúde com goteiras.",
+      "conference_question": "Que critério ajuda a distinguir necessidade real de desejo legítimo, mas secundário?",
+      "anchors": [
+        "CEC 1908",
+        "B04"
+      ],
+      "facilitator_note": "Não despreze beleza e lazer; apenas ordene prioridades diante de necessidades básicas.",
+      "reading_points": [
+        {
+          "title": "Bens diferentes",
+          "body": "A praça importa, mas a unidade de saúde enfrenta uma urgência mais básica."
+        },
+        {
+          "title": "Necessidade humana",
+          "body": "Saúde e segurança têm peso moral maior que melhoria estética."
+        },
+        {
+          "title": "Prioridade justa",
+          "body": "Discernir bem evita tratar conforto como se fosse necessidade grave."
+        }
+      ]
+    },
+    {
+      "id": "G03",
+      "term_id": "G03",
+      "call_label": "G03 - Interesse e bem comum",
+      "case": "Taxistas, comerciantes e moradores pedem decisões opostas sobre uma rua, e todos dizem defender o bem comum porque serão beneficiados.",
+      "conference_question": "Como avaliar interesses legítimos sem confundi-los automaticamente com o bem comum?",
+      "anchors": [
+        "CEC 1906",
+        "N01"
+      ],
+      "facilitator_note": "Ensine que interesse particular pode ser legítimo, mas precisa ser ordenado à justiça comum.",
+      "reading_points": [
+        {
+          "title": "Interesses reais",
+          "body": "Cada grupo tem razões que não devem ser desprezadas de saída."
+        },
+        {
+          "title": "Distinção moral",
+          "body": "O bem comum não coincide automaticamente com o benefício de um grupo."
+        },
+        {
+          "title": "Critério amplo",
+          "body": "A decisão deve perguntar quem é afetado, quais direitos estão em jogo e que necessidade é mais grave."
+        }
+      ]
+    },
+    {
+      "id": "G04",
+      "term_id": "G04",
+      "call_label": "G04 - Maioria e justiça",
+      "case": "Em um condomínio, a maioria quer impedir crianças de brincar em qualquer área comum para manter silêncio absoluto.",
+      "conference_question": "Como distinguir decisão majoritária de decisão justa?",
+      "anchors": [
+        "CEC 1907",
+        "N02"
+      ],
+      "facilitator_note": "Mostre que a maioria precisa respeitar direitos e necessidades legítimas de minorias.",
+      "reading_points": [
+        {
+          "title": "Maioria limitada",
+          "body": "O voto resolve procedimento, mas não basta para avaliar justiça."
+        },
+        {
+          "title": "Direito dos menores",
+          "body": "Crianças também pertencem à comunidade e precisam de espaço adequado."
+        },
+        {
+          "title": "Solução justa",
+          "body": "Regras de horário e cuidado podem equilibrar descanso e convivência."
+        }
+      ]
+    },
+    {
+      "id": "G05",
+      "term_id": "G05",
+      "call_label": "G05 - Autoridade e abuso",
+      "case": "Um gerente ameaça trocar escalas de quem questionar erros no pagamento de horas extras.",
+      "conference_question": "Que sinais mostram que a autoridade deixou de servir e passou a abusar?",
+      "anchors": [
+        "CEC 1903",
+        "B12"
+      ],
+      "facilitator_note": "Mostre que autoridade não é ausência de cobrança, mas poder ordenado ao justo.",
+      "reading_points": [
+        {
+          "title": "Medo como ferramenta",
+          "body": "A ameaça impede a busca de um direito trabalhista."
+        },
+        {
+          "title": "Autoridade legítima",
+          "body": "O poder deve servir ao bem comum e agir conforme a justiça."
+        },
+        {
+          "title": "Abuso identificado",
+          "body": "Usar cargo para calar reclamação justa exige registro e encaminhamento."
+        }
+      ]
+    },
+    {
+      "id": "G06",
+      "term_id": "G06",
+      "call_label": "G06 - Prudência e omissão",
+      "case": "Uma vizinha ouve agressões frequentes no apartamento ao lado, mas evita qualquer pedido de ajuda porque não quer se meter.",
+      "conference_question": "Como agir com prudência sem transformar cautela em abandono?",
+      "anchors": [
+        "CEC 1806",
+        "N12"
+      ],
+      "facilitator_note": "Oriente para segurança e canais adequados; não incentive confronto imprudente.",
+      "reading_points": [
+        {
+          "title": "Risco real",
+          "body": "A situação pode envolver violência e exige cuidado para não aumentar o perigo."
+        },
+        {
+          "title": "Omissão perigosa",
+          "body": "Não se meter pode significar deixar a vítima sem socorro."
+        },
+        {
+          "title": "Prudência ativa",
+          "body": "Buscar canais seguros, registrar fatos e pedir ajuda competente é resposta proporcional."
+        }
+      ]
+    },
+    {
+      "id": "G07",
+      "term_id": "G07",
+      "call_label": "G07 - Paz e ordem justa",
+      "case": "Uma família evita conversar sobre a apropriação do dinheiro de uma idosa para não causar briga entre irmãos.",
+      "conference_question": "Como buscar paz familiar sem encobrir injustiça contra uma pessoa vulnerável?",
+      "anchors": [
+        "CEC 1909",
+        "N09"
+      ],
+      "facilitator_note": "Mostre que conflito bem conduzido pode ser necessário para restaurar justiça.",
+      "reading_points": [
+        {
+          "title": "Conflito evitado",
+          "body": "O medo da briga mantém uma possível exploração."
+        },
+        {
+          "title": "Paz verdadeira",
+          "body": "A ordem justa protege o vulnerável e enfrenta o dano."
+        },
+        {
+          "title": "Caminho seguro",
+          "body": "Conversa documentada, apoio familiar e orientação jurídica podem servir à paz."
+        }
+      ]
+    },
+    {
+      "id": "G08",
+      "term_id": "G08",
+      "call_label": "G08 - Direito e privilégio",
+      "case": "Uma servidora recebe atendimento prioritário por estar grávida; outra pessoa tenta usar crachá de funcionário para conseguir o mesmo sem necessidade.",
+      "conference_question": "Como diferenciar prioridade justa de privilégio indevido?",
+      "anchors": [
+        "CEC 1807",
+        "I05"
+      ],
+      "facilitator_note": "Explique que prioridade pode ser justiça quando responde a necessidade objetiva.",
+      "reading_points": [
+        {
+          "title": "Situações distintas",
+          "body": "A gestante recebe proteção devida; o crachá tenta criar vantagem sem motivo justo."
+        },
+        {
+          "title": "Direito",
+          "body": "Direito protege uma necessidade reconhecível e aplicável a casos semelhantes."
+        },
+        {
+          "title": "Privilégio",
+          "body": "Privilégio indevido usa posição para tirar lugar de outros."
+        }
+      ]
+    },
+    {
+      "id": "G09",
+      "term_id": "G09",
+      "call_label": "G09 - Caridade e assistencialismo",
+      "case": "Um grupo distribui alimentos tirando fotos constrangedoras das famílias para mostrar resultados aos doadores.",
+      "conference_question": "Como ajudar sem transformar a necessidade do outro em dependência ou exposição?",
+      "anchors": [
+        "Mt 25,35-40",
+        "B14"
+      ],
+      "facilitator_note": "Mostre que a ajuda pode ser real e ainda assim ferir dignidade se expõe ou manipula.",
+      "reading_points": [
+        {
+          "title": "Ajuda ambígua",
+          "body": "O alimento socorre, mas a exposição humilha quem recebe."
+        },
+        {
+          "title": "Caridade verdadeira",
+          "body": "A caridade reconhece a dignidade do pobre, não usa sua imagem."
+        },
+        {
+          "title": "Forma correta",
+          "body": "Prestar contas pode ocorrer com dados e consentimento, sem constrangimento."
+        }
+      ]
+    },
+    {
+      "id": "G10",
+      "term_id": "G10",
+      "call_label": "G10 - Solidariedade e invasão",
+      "case": "Depois de ajudar uma família endividada, um benfeitor passa a controlar compras, visitas e decisões pessoais da casa.",
+      "conference_question": "Como a solidariedade pode ser firme sem virar controle da vida alheia?",
+      "anchors": [
+        "CEC 1939",
+        "B10"
+      ],
+      "facilitator_note": "Ensine que ajudar não dá posse sobre a pessoa ajudada.",
+      "reading_points": [
+        {
+          "title": "Ajuda que domina",
+          "body": "O apoio financeiro vira poder sobre escolhas íntimas da família."
+        },
+        {
+          "title": "Limite moral",
+          "body": "Solidariedade assume responsabilidade sem destruir liberdade e dignidade."
+        },
+        {
+          "title": "Acompanhamento justo",
+          "body": "Combinar objetivos, orientar e respeitar decisões evita invasão."
+        }
+      ]
+    },
+    {
+      "id": "G11",
+      "term_id": "G11",
+      "call_label": "G11 - Subsídio e abandono",
+      "case": "Uma comunidade pequena pede apoio para manter atendimento básico, e a autoridade responde que autonomia significa se virar sozinha.",
+      "conference_question": "Como distinguir subsidiariedade de abandono dos mais fracos?",
+      "anchors": [
+        "CEC 1883",
+        "B11"
+      ],
+      "facilitator_note": "Mostre que subsidiariedade não é desculpa para omissão de quem tem dever maior.",
+      "reading_points": [
+        {
+          "title": "Autonomia distorcida",
+          "body": "A comunidade menor é deixada sem meios para cumprir sua função."
+        },
+        {
+          "title": "Subsidiariedade",
+          "body": "O princípio fortalece a iniciativa local, não abandona quem precisa de apoio."
+        },
+        {
+          "title": "Ajuda correta",
+          "body": "Recursos, formação e acompanhamento podem sustentar a ação local."
+        }
+      ]
+    },
+    {
+      "id": "G12",
+      "term_id": "G12",
+      "call_label": "G12 - Propriedade e destino comum",
+      "case": "Um agricultor joga fora grande parte da produção para manter preço alto enquanto famílias próximas passam fome.",
+      "conference_question": "Como a fé cristã lê a tensão entre propriedade, mercado e necessidade grave?",
+      "anchors": [
+        "CEC 2402",
+        "B13"
+      ],
+      "facilitator_note": "Evite simplismo econômico; o foco é o uso moral dos bens diante de fome real.",
+      "reading_points": [
+        {
+          "title": "Uso questionável",
+          "body": "O bem pertence ao produtor, mas sua destruição ocorre diante de necessidade grave."
+        },
+        {
+          "title": "Destino comum",
+          "body": "A propriedade tem função social porque os bens da criação são destinados a todos."
+        },
+        {
+          "title": "Alternativa justa",
+          "body": "Doação organizada, venda social ou parceria podem respeitar o produtor e socorrer famintos."
+        }
+      ]
+    },
+    {
+      "id": "G13",
+      "term_id": "G13",
+      "call_label": "G13 - Participação e partidarismo",
+      "case": "Um grupo rejeita uma proposta de saúde pública sem ler o texto, apenas porque veio de pessoas de outro lado político.",
+      "conference_question": "Como participar da vida pública sem reduzir tudo a torcida de grupo?",
+      "anchors": [
+        "CEC 1913",
+        "B06"
+      ],
+      "facilitator_note": "Mantenha neutralidade partidária; foque no critério moral e na análise responsável.",
+      "reading_points": [
+        {
+          "title": "Reação tribal",
+          "body": "A proposta é rejeitada pela origem, não pelo conteúdo."
+        },
+        {
+          "title": "Participação madura",
+          "body": "O bem comum exige examinar fatos, princípios e consequências."
+        },
+        {
+          "title": "Discernimento público",
+          "body": "Concordar ou discordar deve nascer de juízo formado, não de fidelidade cega a grupo."
+        }
+      ]
+    },
+    {
+      "id": "G14",
+      "term_id": "G14",
+      "call_label": "G14 - Consciência e capricho",
+      "case": "Um profissional se recusa a cumprir uma norma de segurança dizendo que sua consciência não aceita burocracia.",
+      "conference_question": "Como distinguir consciência reta de preferência pessoal apresentada como consciência?",
+      "anchors": [
+        "CEC 1907",
+        "B03"
+      ],
+      "facilitator_note": "Mostre que consciência precisa ser formada pela verdade e pelo bem, não pelo incômodo.",
+      "reading_points": [
+        {
+          "title": "Apelo confuso",
+          "body": "A palavra consciência é usada para evitar uma regra que protege pessoas."
+        },
+        {
+          "title": "Consciência reta",
+          "body": "Agir segundo a consciência exige buscar a verdade objetiva do bem."
+        },
+        {
+          "title": "Critério comum",
+          "body": "Se a norma justa protege a vida, recusá-la por capricho fere o bem comum."
+        }
+      ]
+    },
+    {
+      "id": "G15",
+      "term_id": "G15",
+      "call_label": "G15 - Misericórdia e impunidade",
+      "case": "Um responsável desvia recursos de uma obra social e alguns pedem que tudo seja esquecido para não destruir a vida dele.",
+      "conference_question": "Como tratar o culpado com misericórdia sem negar a justiça devida às vítimas?",
+      "anchors": [
+        "CEC 1807",
+        "Mt 5,7"
+      ],
+      "facilitator_note": "Explique que misericórdia cristã não apaga verdade, reparação e consequência proporcional.",
+      "reading_points": [
+        {
+          "title": "Dano real",
+          "body": "O desvio prejudicou pessoas que dependiam do recurso."
+        },
+        {
+          "title": "Falsa misericórdia",
+          "body": "Esquecer tudo protege o culpado e abandona os feridos."
+        },
+        {
+          "title": "Justiça misericordiosa",
+          "body": "Verdade, restituição e consequência podem caminhar com respeito à pessoa culpada."
+        }
+      ]
+    },
+    {
+      "id": "O01",
+      "term_id": "O01",
+      "call_label": "O01 - Verificar a informação",
+      "case": "Antes de uma votação comunitária, chega um áudio alarmante sem fonte dizendo que uma obra vai expulsar moradores.",
+      "conference_question": "Como verificar a informação sem ignorar o medo real das pessoas afetadas?",
+      "anchors": [
+        "Jo 8,32",
+        "I09"
+      ],
+      "facilitator_note": "Mostre que checar não é desprezar preocupação; é proteger a decisão comum da mentira.",
+      "reading_points": [
+        {
+          "title": "Alarme sem fonte",
+          "body": "A mensagem pode mobilizar medo antes de apresentar fatos."
+        },
+        {
+          "title": "Serviço à verdade",
+          "body": "Verificar fonte, data, documento e responsáveis protege a liberdade de decisão."
+        },
+        {
+          "title": "Ação concreta",
+          "body": "Perguntar a canais oficiais e comparar informações evita repasse irresponsável."
+        }
+      ]
+    },
+    {
+      "id": "O02",
+      "term_id": "O02",
+      "call_label": "O02 - Denunciar com prudência",
+      "case": "Uma funcionária vê notas fiscais falsas em uma instituição e teme perder o emprego se falar sem cuidado.",
+      "conference_question": "Que passos tornam uma denúncia mais prudente, justa e segura?",
+      "anchors": [
+        "CEC 1806",
+        "G06"
+      ],
+      "facilitator_note": "Oriente para fatos, canais adequados e proteção contra exposição desnecessária.",
+      "reading_points": [
+        {
+          "title": "Fato grave",
+          "body": "A suspeita envolve fraude que pode atingir recursos de muitos."
+        },
+        {
+          "title": "Prudência",
+          "body": "Denunciar exige prova possível, canal competente e proteção da pessoa vulnerável."
+        },
+        {
+          "title": "Meio proporcional",
+          "body": "Guardar registros lícitos, buscar orientação e acionar responsáveis evita boato e omissão."
+        }
+      ]
+    },
+    {
+      "id": "O03",
+      "term_id": "O03",
+      "call_label": "O03 - Reparar o dano",
+      "case": "Um morador quebra uma lixeira pública com o carro e vai embora porque ninguém viu.",
+      "conference_question": "Por que reparar o dano é mais que evitar castigo?",
+      "anchors": [
+        "Lc 19,8",
+        "G15"
+      ],
+      "facilitator_note": "Mostre que reparação restaura justiça e confiança, mesmo quando não há flagrante.",
+      "reading_points": [
+        {
+          "title": "Dano comum",
+          "body": "A lixeira quebrada afeta limpeza e uso do espaço por todos."
+        },
+        {
+          "title": "Responsabilidade",
+          "body": "A ausência de testemunha não elimina o dever moral."
+        },
+        {
+          "title": "Reparação",
+          "body": "Comunicar, pagar ou consertar é forma concreta de justiça."
+        }
+      ]
+    },
+    {
+      "id": "O04",
+      "term_id": "O04",
+      "call_label": "O04 - Recusar vantagem indevida",
+      "case": "Uma conhecida oferece colocar o nome de alguém em uma lista de moradia antes de famílias que aguardam há mais tempo.",
+      "conference_question": "Como recusar uma vantagem indevida sem fingir que a própria necessidade não existe?",
+      "anchors": [
+        "CEC 1807",
+        "I05"
+      ],
+      "facilitator_note": "Mostre que necessidade pessoal não autoriza injustiça contra outros necessitados.",
+      "reading_points": [
+        {
+          "title": "Tentação forte",
+          "body": "A oferta parece resolver um problema real de quem recebe."
+        },
+        {
+          "title": "Injustiça",
+          "body": "Aceitar prejudica famílias que têm direito de esperar conforme critérios justos."
+        },
+        {
+          "title": "Resposta reta",
+          "body": "Recusar o atalho e buscar o caminho regular preserva justiça e consciência."
+        }
+      ]
+    },
+    {
+      "id": "O05",
+      "term_id": "O05",
+      "call_label": "O05 - Priorizar o vulnerável",
+      "case": "Em uma evacuação por enchente, há espaço limitado no primeiro transporte para idosos, crianças e pessoas sem mobilidade.",
+      "conference_question": "Por que priorizar o vulnerável não é privilégio, mas justiça proporcional?",
+      "anchors": [
+        "Mt 25,35-40",
+        "B14"
+      ],
+      "facilitator_note": "Explique que igualdade cristã não significa tratar necessidades diferentes como se fossem iguais.",
+      "reading_points": [
+        {
+          "title": "Risco desigual",
+          "body": "Algumas pessoas correm perigo maior e têm menos capacidade de se proteger."
+        },
+        {
+          "title": "Justiça proporcional",
+          "body": "Dar prioridade ao vulnerável responde à gravidade da necessidade."
+        },
+        {
+          "title": "Caridade concreta",
+          "body": "Organizar a saída por risco real protege vidas sem desprezar os demais."
+        }
+      ]
+    },
+    {
+      "id": "O06",
+      "term_id": "O06",
+      "call_label": "O06 - Cumprir o dever comum",
+      "case": "Um profissional da saúde chega atrasado repetidamente ao plantão, deixando pacientes e colegas esperando em horário crítico.",
+      "conference_question": "Como o cumprimento do dever cotidiano participa do bem comum?",
+      "anchors": [
+        "CEC 1914",
+        "B07"
+      ],
+      "facilitator_note": "Mostre que pequenas fidelidades sustentam serviços dos quais outros dependem.",
+      "reading_points": [
+        {
+          "title": "Dever concreto",
+          "body": "O atraso pessoal recai sobre pacientes e trabalhadores."
+        },
+        {
+          "title": "Responsabilidade social",
+          "body": "O trabalho consciencioso é forma de participação no bem dos outros."
+        },
+        {
+          "title": "Conversão prática",
+          "body": "Organizar horários, avisar corretamente e corrigir hábitos serve ao bem comum."
+        }
+      ]
+    },
+    {
+      "id": "O07",
+      "term_id": "O07",
+      "call_label": "O07 - Participar do conselho",
+      "case": "Um posto de saúde abre consulta pública sobre atendimento, mas quase só aparecem pessoas que querem reclamar sem levar dados ou propostas.",
+      "conference_question": "O que torna a participação em conselho mais séria que desabafo público?",
+      "anchors": [
+        "CEC 1913",
+        "B06"
+      ],
+      "facilitator_note": "Mostre que participação madura leva fatos, escuta e disposição para construir.",
+      "reading_points": [
+        {
+          "title": "Espaço aberto",
+          "body": "Há uma ocasião concreta para influenciar decisões que afetam muitos."
+        },
+        {
+          "title": "Participação responsável",
+          "body": "Reclamar pode ser justo, mas precisa caminhar com fatos e propostas."
+        },
+        {
+          "title": "Caminho comum",
+          "body": "Escutar, registrar prioridades e acompanhar resultados fortalece o bem comum."
+        }
+      ]
+    },
+    {
+      "id": "O08",
+      "term_id": "O08",
+      "call_label": "O08 - Servir com constância",
+      "case": "Após uma campanha de doação muito divulgada, sobram voluntários no primeiro dia e quase ninguém aparece nas semanas seguintes.",
+      "conference_question": "Por que o serviço constante pode ser mais formativo que o gesto visível de um dia?",
+      "anchors": [
+        "CEC 1913",
+        "At 2,42-47"
+      ],
+      "facilitator_note": "Mostre que emoção inicial é boa, mas o bem comum precisa de perseverança.",
+      "reading_points": [
+        {
+          "title": "Entusiasmo curto",
+          "body": "A ajuda começa forte, mas não sustenta a necessidade real."
+        },
+        {
+          "title": "Constância",
+          "body": "Servir regularmente transforma intenção em compromisso confiável."
+        },
+        {
+          "title": "Comunidade cristã",
+          "body": "A perseverança no bem torna a caridade mais concreta e menos dependente de visibilidade."
+        }
+      ]
+    },
+    {
+      "id": "O09",
+      "term_id": "O09",
+      "call_label": "O09 - Cobrar sem humilhar",
+      "case": "Um responsável por compras erra uma prestação de contas, e algumas pessoas querem expor seu nome em redes sociais antes de ouvi-lo.",
+      "conference_question": "Como exigir verdade e consequência sem cair em linchamento ou humilhação?",
+      "anchors": [
+        "Mt 18,15",
+        "G15"
+      ],
+      "facilitator_note": "Mostre que firmeza e respeito não são opostos; a verdade precisa de caminho justo.",
+      "reading_points": [
+        {
+          "title": "Erro a apurar",
+          "body": "A prestação de contas precisa ser esclarecida com seriedade."
+        },
+        {
+          "title": "Risco de humilhação",
+          "body": "Exposição apressada pode destruir reputação sem processo justo."
+        },
+        {
+          "title": "Correção fraterna",
+          "body": "Ouvir, documentar, exigir reparação e escalar quando necessário preserva justiça."
+        }
+      ]
+    },
+    {
+      "id": "O10",
+      "term_id": "O10",
+      "call_label": "O10 - Formar juízo público",
+      "case": "Uma proposta de segurança recebe apoio imediato porque promete solução rápida, mas ninguém lê quais direitos serão afetados.",
+      "conference_question": "Que perguntas ajudam a formar juízo público antes de apoiar uma decisão forte?",
+      "anchors": [
+        "CEC 1913",
+        "B08"
+      ],
+      "facilitator_note": "Não discuta partido; ensine critérios de consciência: fatos, direitos, meios e consequências.",
+      "reading_points": [
+        {
+          "title": "Solução atraente",
+          "body": "A promessa rápida seduz porque responde a um medo real."
+        },
+        {
+          "title": "Juízo formado",
+          "body": "Participar exige avaliar fatos, meios honestos e impacto sobre pessoas."
+        },
+        {
+          "title": "Prudência social",
+          "body": "Uma boa intenção pública precisa respeitar direitos fundamentais e justiça."
+        }
+      ]
+    },
+    {
+      "id": "O11",
+      "term_id": "O11",
+      "call_label": "O11 - Partilhar recursos",
+      "case": "Uma oficina tem ferramentas paradas e decide emprestá-las em dias combinados para trabalhadores sem equipamento próprio.",
+      "conference_question": "Como partilhar recursos pode servir ao bem comum sem ser improviso irresponsável?",
+      "anchors": [
+        "At 2,42-47",
+        "B13"
+      ],
+      "facilitator_note": "Mostre que partilha responsável exige regras claras, cuidado e finalidade justa.",
+      "reading_points": [
+        {
+          "title": "Bem disponível",
+          "body": "Ferramentas sem uso podem ajudar outros a trabalhar."
+        },
+        {
+          "title": "Destino dos bens",
+          "body": "Os bens têm responsabilidade social quando podem socorrer necessidades reais."
+        },
+        {
+          "title": "Partilha ordenada",
+          "body": "Agenda, termo de cuidado e prioridade por necessidade tornam a ajuda sustentável."
+        }
+      ]
+    },
+    {
+      "id": "O12",
+      "term_id": "O12",
+      "call_label": "O12 - Proteger a privacidade",
+      "case": "Uma família pede oração por uma doença grave, e alguém quer divulgar detalhes médicos sem autorização para sensibilizar mais pessoas.",
+      "conference_question": "Como pedir ajuda ou oração sem violar a privacidade de quem sofre?",
+      "anchors": [
+        "CEC 1907",
+        "I14"
+      ],
+      "facilitator_note": "Mostre que boa intenção não autoriza exposição indevida.",
+      "reading_points": [
+        {
+          "title": "Intenção misturada",
+          "body": "O desejo de mobilizar ajuda pode ultrapassar o limite da intimidade."
+        },
+        {
+          "title": "Direito protegido",
+          "body": "A pessoa doente conserva direito à vida particular."
+        },
+        {
+          "title": "Forma correta",
+          "body": "Pedir autorização, falar de modo geral e limitar dados protege dignidade."
+        }
+      ]
+    },
+    {
+      "id": "O13",
+      "term_id": "O13",
+      "call_label": "O13 - Mediar conflitos",
+      "case": "Dois vizinhos discutem há meses por barulho e ameaçam resolver a situação com violência.",
+      "conference_question": "Que condições tornam uma mediação prudente e não apenas uma conversa ingênua?",
+      "anchors": [
+        "Mt 5,9",
+        "B05"
+      ],
+      "facilitator_note": "Oriente que mediação não serve quando há risco imediato sem proteção; segurança vem primeiro.",
+      "reading_points": [
+        {
+          "title": "Escalada do conflito",
+          "body": "A tensão já saiu da queixa e chegou à ameaça."
+        },
+        {
+          "title": "Mediação prudente",
+          "body": "Pacificar exige ambiente seguro, escuta de fatos e limites claros."
+        },
+        {
+          "title": "Paz justa",
+          "body": "Acordo proporcional, registro e intervenção competente podem evitar violência."
+        }
+      ]
+    },
+    {
+      "id": "O14",
+      "term_id": "O14",
+      "call_label": "O14 - Cuidar do espaço comum",
+      "case": "Uma praça reformada começa a ser depredada, e comerciantes próximos organizam cuidado, iluminação cobrada e comunicação com moradores.",
+      "conference_question": "Como cuidar do espaço comum une ação pessoal, comunitária e cobrança pública?",
+      "anchors": [
+        "CEC 1914",
+        "I06"
+      ],
+      "facilitator_note": "Mostre que cuidado comum não substitui dever público, mas também não espera passivamente.",
+      "reading_points": [
+        {
+          "title": "Bem compartilhado",
+          "body": "A praça serve a muitos e sua destruição empobrece a convivência."
+        },
+        {
+          "title": "Responsabilidade comum",
+          "body": "Usuários, vizinhos e poder público têm deveres distintos."
+        },
+        {
+          "title": "Ação proporcionada",
+          "body": "Cuidar, orientar e cobrar manutenção são formas concretas de participação."
+        }
+      ]
+    },
+    {
+      "id": "O15",
+      "term_id": "O15",
+      "call_label": "O15 - Rezar pela cidade",
+      "case": "Depois de uma semana de violência no bairro, uma comunidade organiza oração e também levanta necessidades para encaminhar aos responsáveis.",
+      "conference_question": "Como unir oração pela cidade e compromisso concreto sem confundir uma coisa com a outra?",
+      "anchors": [
+        "Jr 29,7",
+        "N15"
+      ],
+      "facilitator_note": "Mostre que oração cristã não é fuga, mas raiz espiritual de responsabilidade.",
+      "reading_points": [
+        {
+          "title": "Dor da cidade",
+          "body": "A violência fere famílias, rotina e esperança de todos."
+        },
+        {
+          "title": "Intercessão",
+          "body": "Jr 29,7 manda rezar pela cidade e buscar o seu bem."
+        },
+        {
+          "title": "Compromisso",
+          "body": "A oração se une a escuta, cuidado e encaminhamentos concretos."
+        }
+      ]
+    }
+  ]
+}

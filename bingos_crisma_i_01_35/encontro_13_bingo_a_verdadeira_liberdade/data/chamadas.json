@@ -1,0 +1,2040 @@
+{
+  "title": "Chamadas — Bingo A verdadeira liberdade",
+  "meeting": "Encontro 13 — A verdadeira liberdade",
+  "source_terms": "data/termos.json",
+  "method": {
+    "read_order": [
+      "call_label",
+      "case",
+      "reading_points"
+    ],
+    "rule": "A cada carta, anuncie código e conceito, leia o caso e explique brevemente a relação usando a Leitura do caso. Depois as equipes marcam o código, se estiver na cartela.",
+    "conference_rule": "Ao fechar duas linhas válidas, horizontais, verticais ou diagonais, a equipe escolhe uma dessas linhas completas, explica pelo menos três conceitos da linha escolhida e liga pelo menos um deles à base bíblica ou doutrinal do encontro. As duas linhas podem se cruzar. O centro livre já conta como casa marcada para completar linhas, mas não conta como um dos três conceitos explicados."
+  },
+  "cards": [
+    {
+      "id": "B01",
+      "term_id": "B01",
+      "call_label": "B01 - Escravidão do pecado",
+      "case": "Um homem começa falsificando pequenos recibos no trabalho. Meses depois, já não consegue explicar as contas, teme ser descoberto e pressiona outros a mentir por ele.",
+      "conference_question": "Por que esse caso mostra que o pecado não apenas quebra uma regra, mas começa a dominar a pessoa?",
+      "anchors": [
+        "Jo 8,34",
+        "CEC 1733",
+        "Rm 6,16-18"
+      ],
+      "facilitator_note": "Conduza a leitura para a perda real de liberdade, não apenas para a infração externa.",
+      "reading_points": [
+        {
+          "title": "Corrente do pecado",
+          "body": "A primeira fraude cria novas mentiras, medo e dependência."
+        },
+        {
+          "title": "Liberdade diminuída",
+          "body": "Ele já não decide com serenidade, porque precisa proteger o erro cometido."
+        },
+        {
+          "title": "Palavra de Cristo",
+          "body": "Jo 8,34 mostra que entregar-se ao pecado gera escravidão interior."
+        }
+      ]
+    },
+    {
+      "id": "B02",
+      "term_id": "B02",
+      "call_label": "B02 - Liberdade dos filhos",
+      "case": "Uma mulher presa injustamente mantém paz, perdoa quem a abandonou e não negocia sua consciência para ganhar favores. Do lado de fora, um parente rico vive cercado de medo, mentira e suspeita.",
+      "conference_question": "O que muda quando a liberdade é entendida como viver como filho de Deus, e não apenas como ausência de limites externos?",
+      "anchors": [
+        "Jo 8,35-36",
+        "CEC 1741",
+        "Gl 5,1"
+      ],
+      "facilitator_note": "Evite romantizar sofrimento; destaque a diferença entre liberdade exterior limitada e liberdade interior em Cristo.",
+      "reading_points": [
+        {
+          "title": "Limite externo",
+          "body": "A prisão mostra uma restrição real, mas não define totalmente a liberdade da pessoa."
+        },
+        {
+          "title": "Filiação livre",
+          "body": "Quem pertence a Cristo pode permanecer na verdade mesmo sob pressão."
+        },
+        {
+          "title": "Cristo liberta",
+          "body": "Jo 8,36 ensina que a liberdade verdadeira vem do Filho."
+        }
+      ]
+    },
+    {
+      "id": "B03",
+      "term_id": "B03",
+      "call_label": "B03 - Serviço do bem",
+      "case": "Um empresário diz que é livre para pagar salários abaixo do combinado, porque ninguém é obrigado a trabalhar ali. Os funcionários dependem do emprego e têm medo de reclamar.",
+      "conference_question": "Como distinguir liberdade econômica legítima de abuso da liberdade contra o bem e a justiça?",
+      "anchors": [
+        "CEC 1733",
+        "Gl 5,13",
+        "1Pd 2,16"
+      ],
+      "facilitator_note": "Mostre que liberdade sem justiça vira poder sobre o fraco.",
+      "reading_points": [
+        {
+          "title": "Escolha injusta",
+          "body": "O empresário usa sua margem de decisão para ferir um dever assumido."
+        },
+        {
+          "title": "Abuso de liberdade",
+          "body": "Poder escolher não torna moralmente boa qualquer escolha."
+        },
+        {
+          "title": "Serviço do bem",
+          "body": "O Catecismo ensina que a liberdade verdadeira está a serviço do bem e da justiça."
+        }
+      ]
+    },
+    {
+      "id": "B04",
+      "term_id": "B04",
+      "call_label": "B04 - Graça que fortalece",
+      "case": "Depois de anos tentando abandonar uma dependência só pela força de vontade, um homem começa a rezar, procurar acompanhamento e frequentar os sacramentos. A luta continua, mas ele deixa de mentir para si mesmo.",
+      "conference_question": "Por que a graça não substitui a responsabilidade humana, mas fortalece a liberdade para lutar pelo bem?",
+      "anchors": [
+        "CEC 1742",
+        "2Cor 3,17"
+      ],
+      "facilitator_note": "Evite opor graça e esforço; a carta trata da cooperação livre com a ação de Deus.",
+      "reading_points": [
+        {
+          "title": "Força limitada",
+          "body": "A vontade humana sozinha pode se cansar e repetir o mesmo ciclo."
+        },
+        {
+          "title": "Graça atuante",
+          "body": "A graça não anula a luta; ela educa e sustenta a liberdade."
+        },
+        {
+          "title": "Colaboração livre",
+          "body": "CEC 1742 fala de crescer em liberdade pela docilidade ao Espírito."
+        }
+      ]
+    },
+    {
+      "id": "B05",
+      "term_id": "B05",
+      "call_label": "B05 - Verdade que liberta",
+      "case": "Uma família evita falar sobre a dependência do pai e chama tudo de fase difícil. Enquanto ninguém nomeia o problema, dívidas e agressões verbais aumentam dentro de casa.",
+      "conference_question": "Por que a verdade pode ser dolorosa no começo, mas ainda assim é caminho de libertação?",
+      "anchors": [
+        "Jo 8,32",
+        "Jo 8,34",
+        "Ef 4,25"
+      ],
+      "facilitator_note": "Destaque que verdade não é brutalidade; é condição para sair da mentira.",
+      "reading_points": [
+        {
+          "title": "Nome escondido",
+          "body": "A família evita dar nome ao problema e assim permite que ele cresça."
+        },
+        {
+          "title": "Mentira protetora",
+          "body": "O silêncio parece proteger, mas prende todos ao mesmo ciclo."
+        },
+        {
+          "title": "Verdade libertadora",
+          "body": "A fé cristã liga liberdade à verdade, não à negação da realidade."
+        }
+      ]
+    },
+    {
+      "id": "B06",
+      "term_id": "B06",
+      "call_label": "B06 - Domínio de si",
+      "case": "Um motorista irritado fecha outro carro, grita e depois diz que não conseguiu se segurar. A discussão termina com ameaça e prejuízo para ambos.",
+      "conference_question": "Como o domínio de si protege a liberdade diante de impulsos fortes como raiva, desejo ou medo?",
+      "anchors": [
+        "1Cor 6,12",
+        "CEC 1731",
+        "CEC 1733"
+      ],
+      "facilitator_note": "Não negue a força dos impulsos; mostre que liberdade cristã inclui aprender a governá-los.",
+      "reading_points": [
+        {
+          "title": "Impulso intenso",
+          "body": "A raiva aparece rápido e pressiona a ação."
+        },
+        {
+          "title": "Governo interior",
+          "body": "Dizer que não conseguiu se segurar não elimina a necessidade de educar a vontade."
+        },
+        {
+          "title": "Liberdade concreta",
+          "body": "Domínio de si é parte da liberdade que não se deixa dominar."
+        }
+      ]
+    },
+    {
+      "id": "B07",
+      "term_id": "B07",
+      "call_label": "B07 - Bem último",
+      "case": "Um profissional aceita destruir a reputação de um concorrente para conseguir promoção. Ele diz que precisa garantir o futuro da família, mas passa a sacrificar verdade e justiça ao próprio avanço.",
+      "conference_question": "Que sinais mostram que um bem legítimo, como segurança ou carreira, tomou o lugar de Deus?",
+      "anchors": [
+        "Mt 6,24",
+        "CEC 1731",
+        "Jo 8,36"
+      ],
+      "facilitator_note": "Mostre que bens criados são bons quando ordenados, mas escravizam quando viram absolutos.",
+      "reading_points": [
+        {
+          "title": "Bem deslocado",
+          "body": "Carreira e sustento são bens reais, mas não podem governar a consciência."
+        },
+        {
+          "title": "Senhor errado",
+          "body": "Quando um objetivo exige injustiça, ele já ocupa lugar indevido."
+        },
+        {
+          "title": "Deus como fim",
+          "body": "A liberdade cresce quando Deus permanece como Bem último."
+        }
+      ]
+    },
+    {
+      "id": "B08",
+      "term_id": "B08",
+      "call_label": "B08 - Batismo libertador",
+      "case": "Ao preparar o batismo do filho, um casal percebe que tratava a fé apenas como costume familiar. A conversa os obriga a encarar se querem educar a criança como filha de Deus ou apenas cumprir uma cerimônia.",
+      "conference_question": "Por que o Batismo aponta para uma vida nova e não apenas para um rito social?",
+      "anchors": [
+        "Jo 8,35-36",
+        "Rm 6,16-18",
+        "CEC 1741"
+      ],
+      "facilitator_note": "Ligue o Batismo à identidade cristã e à vida nova em Cristo.",
+      "reading_points": [
+        {
+          "title": "Mais que costume",
+          "body": "A família percebe que o sacramento exige uma forma de vida."
+        },
+        {
+          "title": "Vida nova",
+          "body": "Ser batizado significa pertencer a Cristo e não ao pecado."
+        },
+        {
+          "title": "Filhos livres",
+          "body": "A liberdade dos filhos nasce da união com Cristo."
+        }
+      ]
+    },
+    {
+      "id": "B09",
+      "term_id": "B09",
+      "call_label": "B09 - Confissão restauradora",
+      "case": "Depois de trair a confiança da esposa, um homem evita a igreja e diz que precisa primeiro se sentir digno. O afastamento aumenta a culpa e impede que ele comece a reparar.",
+      "conference_question": "Por que esperar estar digno pode virar uma desculpa para fugir do sacramento que restaura?",
+      "anchors": [
+        "1Jo 1,8-9",
+        "Sl 51",
+        "Jo 8,36"
+      ],
+      "facilitator_note": "Apresente a Confissão como encontro real com a misericórdia que chama à verdade e à reparação.",
+      "reading_points": [
+        {
+          "title": "Culpa paralisante",
+          "body": "A vergonha o afasta justamente do lugar onde deveria buscar cura."
+        },
+        {
+          "title": "Verdade confessada",
+          "body": "Confessar não é fingir inocência, mas levar o pecado a Cristo."
+        },
+        {
+          "title": "Liberdade reencontrada",
+          "body": "O perdão sacramental restaura a liberdade ferida pelo pecado."
+        }
+      ]
+    },
+    {
+      "id": "B10",
+      "term_id": "B10",
+      "call_label": "B10 - Eucaristia que alimenta",
+      "case": "Uma senhora cuida do marido doente há anos e sente cansaço profundo. Ela percebe que, sem Missa e oração, seu serviço vira irritação constante e ressentimento.",
+      "conference_question": "Como a Eucaristia alimenta uma liberdade que precisa perseverar no bem quando a vontade está cansada?",
+      "anchors": [
+        "Jo 6,56",
+        "Jo 8,36",
+        "CEC 1742"
+      ],
+      "facilitator_note": "Evite tratar a Eucaristia como simples consolo emocional; destaque a união real com Cristo.",
+      "reading_points": [
+        {
+          "title": "Cansaço real",
+          "body": "O cuidado prolongado exige força maior que entusiasmo passageiro."
+        },
+        {
+          "title": "Caridade sustentada",
+          "body": "Sem alimentar a graça, o serviço pode ser corroído por amargura."
+        },
+        {
+          "title": "União com Cristo",
+          "body": "A Eucaristia fortalece para viver a caridade no concreto."
+        }
+      ]
+    },
+    {
+      "id": "B11",
+      "term_id": "B11",
+      "call_label": "B11 - Pecado mortal",
+      "case": "Um contador entende que a fraude que lhe pedem é grave, sabe que prejudicará clientes e mesmo assim assina os documentos para receber uma comissão alta.",
+      "conference_question": "Quais elementos tornam essa escolha moralmente grave e por que isso afeta a amizade com Deus?",
+      "anchors": [
+        "Jo 8,34",
+        "1Jo 1,8-9",
+        "B09"
+      ],
+      "facilitator_note": "Explique a gravidade sem tentar determinar a alma da pessoa; trabalhe matéria, consciência e consentimento.",
+      "reading_points": [
+        {
+          "title": "Matéria grave",
+          "body": "A fraude causa dano real e envolve injustiça consciente."
+        },
+        {
+          "title": "Consentimento claro",
+          "body": "Ele entende o mal e escolhe mesmo assim pela vantagem."
+        },
+        {
+          "title": "Ruptura espiritual",
+          "body": "Pecado grave exige conversão e reconciliação com Deus."
+        }
+      ]
+    },
+    {
+      "id": "B12",
+      "term_id": "B12",
+      "call_label": "B12 - Conversão do coração",
+      "case": "Uma mulher para de insultar a mãe idosa, mas continua desejando que ela seja um peso para outro irmão. Por fora a casa fica mais calma, mas por dentro cresce desprezo.",
+      "conference_question": "Por que a conversão cristã precisa alcançar também desejos, afetos e intenções, não só comportamento visível?",
+      "anchors": [
+        "Lc 15,11-32",
+        "Sl 51",
+        "CEC 1742"
+      ],
+      "facilitator_note": "Mostre que mudar conduta é necessário, mas a graça busca curar o coração.",
+      "reading_points": [
+        {
+          "title": "Mudança incompleta",
+          "body": "A agressão externa diminui, mas o desprezo permanece governando o coração."
+        },
+        {
+          "title": "Raiz interior",
+          "body": "A liberdade cristã não se limita ao que os outros conseguem ver."
+        },
+        {
+          "title": "Coração convertido",
+          "body": "Cristo liberta por dentro, ordenando desejos e escolhas."
+        }
+      ]
+    },
+    {
+      "id": "B13",
+      "term_id": "B13",
+      "call_label": "B13 - Docilidade ao Espírito",
+      "case": "Um servidor público se recusa a participar de um esquema de favorecimento. Ele sente medo de retaliação, mas busca orientação, reza e decide não entregar a consciência à pressão do cargo.",
+      "conference_question": "Como a docilidade ao Espírito torna alguém mais livre diante de pressões externas reais?",
+      "anchors": [
+        "CEC 1742",
+        "2Cor 3,17",
+        "Gl 5,1"
+      ],
+      "facilitator_note": "Mostre que docilidade não é passividade; é deixar Deus fortalecer a consciência.",
+      "reading_points": [
+        {
+          "title": "Pressão concreta",
+          "body": "O medo de retaliação torna a escolha moral mais difícil."
+        },
+        {
+          "title": "Consciência sustentada",
+          "body": "A oração e a orientação ajudam a não agir só por medo."
+        },
+        {
+          "title": "Espírito de liberdade",
+          "body": "Onde está o Espírito do Senhor, há liberdade para escolher o bem."
+        }
+      ]
+    },
+    {
+      "id": "B14",
+      "term_id": "B14",
+      "call_label": "B14 - Caridade ordenada",
+      "case": "Um filho adulto paga todas as dívidas do irmão, mas nunca exige tratamento para a dependência nem mudança de comportamento. A ajuda vira combustível para novas mentiras.",
+      "conference_question": "Como distinguir caridade verdadeira de uma ajuda que mantém a pessoa presa ao próprio erro?",
+      "anchors": [
+        "Gl 5,13",
+        "Jo 8,36",
+        "CEC 1733"
+      ],
+      "facilitator_note": "Mostre que amar não é facilitar o pecado, mas buscar o bem real da pessoa.",
+      "reading_points": [
+        {
+          "title": "Ajuda ambígua",
+          "body": "O dinheiro alivia a crise imediata, mas mantém o ciclo da dependência."
+        },
+        {
+          "title": "Amor desordenado",
+          "body": "Ceder sempre pode parecer caridade e funcionar como cumplicidade."
+        },
+        {
+          "title": "Bem do outro",
+          "body": "A caridade ordenada procura libertar, não apenas evitar conflito."
+        }
+      ]
+    },
+    {
+      "id": "B15",
+      "term_id": "B15",
+      "call_label": "B15 - Liberdade no Céu",
+      "case": "Um paciente terminal diz ao filho que já não teme perder bens, cargos ou aplausos. Ele quer morrer reconciliado com Deus e com as pessoas que feriu.",
+      "conference_question": "Como a esperança da liberdade plena em Deus muda o modo de avaliar bens passageiros e escolhas presentes?",
+      "anchors": [
+        "CEC 1731",
+        "Jo 8,35-36",
+        "Ap 21,4"
+      ],
+      "facilitator_note": "Não transforme o caso em fuga da vida; a esperança do Céu ordena a vida presente.",
+      "reading_points": [
+        {
+          "title": "Fim próximo",
+          "body": "A morte revela quais bens eram passageiros e quais escolhas permanecem."
+        },
+        {
+          "title": "Liberdade plena",
+          "body": "No Céu, a liberdade estará totalmente unida ao Bem que é Deus."
+        },
+        {
+          "title": "Vida ordenada",
+          "body": "A esperança final ajuda a escolher hoje com mais verdade."
+        }
+      ]
+    },
+    {
+      "id": "I01",
+      "term_id": "I01",
+      "call_label": "I01 - Mentira sustentada",
+      "case": "Uma gerente altera um relatório para esconder um erro de estoque. Na semana seguinte, precisa acusar um fornecedor e apagar mensagens para manter a versão inventada.",
+      "conference_question": "Que sinais mostram que a mentira deixou de ser um ato isolado e virou uma prisão?",
+      "anchors": [
+        "Jo 8,34",
+        "Ef 4,25",
+        "B05"
+      ],
+      "facilitator_note": "Mostre como a mentira exige manutenção e cobra novas escolhas erradas.",
+      "reading_points": [
+        {
+          "title": "Primeira falsificação",
+          "body": "O relatório alterado parece resolver o problema imediato."
+        },
+        {
+          "title": "Custo crescente",
+          "body": "Para sustentar a mentira, ela precisa criar novas injustiças."
+        },
+        {
+          "title": "Verdade necessária",
+          "body": "A liberdade começa quando a pessoa rompe a cadeia da falsidade."
+        }
+      ]
+    },
+    {
+      "id": "I02",
+      "term_id": "I02",
+      "call_label": "I02 - Pornografia habitual",
+      "case": "Um rapaz adulto passa noites vendo pornografia, perde interesse por relações reais e começa a buscar conteúdos cada vez mais degradantes. No dia seguinte, promete parar, mas repete o ciclo.",
+      "conference_question": "Por que esse caso mostra perda de domínio de si e deformação do olhar sobre a pessoa humana?",
+      "anchors": [
+        "1Cor 6,12",
+        "Jo 8,34",
+        "B06"
+      ],
+      "facilitator_note": "Fale com seriedade e limpeza; não detalhe conteúdos, mas nomeie o dano moral e humano.",
+      "reading_points": [
+        {
+          "title": "Ciclo repetido",
+          "body": "A promessa de parar não se sustenta porque o hábito já governa decisões."
+        },
+        {
+          "title": "Desejo deformado",
+          "body": "A pessoa real é trocada por consumo de imagens e uso do corpo."
+        },
+        {
+          "title": "Liberdade ferida",
+          "body": "O pecado promete prazer e entrega dependência."
+        }
+      ]
+    },
+    {
+      "id": "I03",
+      "term_id": "I03",
+      "call_label": "I03 - Ódio alimentado",
+      "case": "Depois de uma disputa de herança, um irmão relê mensagens antigas todas as noites para lembrar por que deve odiar o outro. Ele rejeita qualquer conversa que possa diminuir a raiva.",
+      "conference_question": "Como o ressentimento alimentado vai tirando liberdade para buscar justiça, perdão ou paz?",
+      "anchors": [
+        "Ef 4,26-27",
+        "Jo 8,34",
+        "B14"
+      ],
+      "facilitator_note": "Distinga reconhecer injustiça de cultivar ódio como alimento interior.",
+      "reading_points": [
+        {
+          "title": "Raiva cultivada",
+          "body": "Ele não apenas sente dor; ele alimenta a dor para manter o ódio vivo."
+        },
+        {
+          "title": "Visão dominada",
+          "body": "A relação inteira passa a ser lida pela ofensa."
+        },
+        {
+          "title": "Libertação interior",
+          "body": "Cristo não nega a justiça, mas liberta da escravidão do ódio."
+        }
+      ]
+    },
+    {
+      "id": "I04",
+      "term_id": "I04",
+      "call_label": "I04 - Compra compulsiva",
+      "case": "Uma funcionária endividada faz compras parceladas sempre que se sente humilhada no trabalho. Ela esconde as faturas e diz que precisa de um agrado para suportar a semana.",
+      "conference_question": "Como perceber quando o consumo deixou de servir à vida e passou a comandar a pessoa?",
+      "anchors": [
+        "Mt 6,24",
+        "1Cor 6,12",
+        "B07"
+      ],
+      "facilitator_note": "Evite condenar toda compra; a carta trata de fuga, desordem e perda de governo interior.",
+      "reading_points": [
+        {
+          "title": "Fuga emocional",
+          "body": "A compra funciona como anestesia diante de humilhação e ansiedade."
+        },
+        {
+          "title": "Senhor oculto",
+          "body": "Dívida e segredo mostram que o consumo já governa decisões."
+        },
+        {
+          "title": "Ordem do coração",
+          "body": "A liberdade exige recolocar bens materiais no seu devido lugar."
+        }
+      ]
+    },
+    {
+      "id": "I05",
+      "term_id": "I05",
+      "call_label": "I05 - Imagem fabricada",
+      "case": "Um influenciador grava mensagens sobre vida simples enquanto compra seguidores, aluga carros para aparecer melhor e apaga qualquer comentário que revele contradições.",
+      "conference_question": "Por que viver preso a uma imagem fabricada enfraquece a liberdade e a verdade sobre si mesmo?",
+      "anchors": [
+        "Mt 6,1",
+        "Jo 8,32",
+        "B05"
+      ],
+      "facilitator_note": "Não reduza o caso a redes sociais; fale da dependência do olhar dos outros.",
+      "reading_points": [
+        {
+          "title": "Personagem público",
+          "body": "A aparência calculada ocupa o lugar da vida real."
+        },
+        {
+          "title": "Aprovação como prisão",
+          "body": "Ele precisa sustentar a imagem e esconder a verdade."
+        },
+        {
+          "title": "Verdade libertadora",
+          "body": "A liberdade cristã não depende de fabricar uma identidade vendável."
+        }
+      ]
+    },
+    {
+      "id": "I06",
+      "term_id": "I06",
+      "call_label": "I06 - Jogo que domina",
+      "case": "Um pai começa apostando pouco em aplicativos esportivos. Depois usa dinheiro do mercado da casa, mente sobre o salário e passa a acompanhar jogos apenas pensando em recuperar perdas.",
+      "conference_question": "Que diferença há entre uma diversão limitada e uma prática que já domina dinheiro, tempo e verdade?",
+      "anchors": [
+        "1Cor 6,12",
+        "Mt 6,24",
+        "B06"
+      ],
+      "facilitator_note": "Aponte os sinais concretos de dominação: mentira, perda, obsessão e dano familiar.",
+      "reading_points": [
+        {
+          "title": "Mudança de centro",
+          "body": "O jogo deixa de ser passatempo e passa a organizar a rotina."
+        },
+        {
+          "title": "Mentira e prejuízo",
+          "body": "Quando dinheiro necessário e verdade são sacrificados, há escravidão."
+        },
+        {
+          "title": "Não se deixar dominar",
+          "body": "A liberdade exige romper com aquilo que se tornou senhor."
+        }
+      ]
+    },
+    {
+      "id": "I07",
+      "term_id": "I07",
+      "call_label": "I07 - Bebida como fuga",
+      "case": "Depois de perder o emprego, um homem passa a beber sozinho toda noite para dormir. Ele evita conversar com a esposa e se irrita quando alguém menciona tratamento.",
+      "conference_question": "Por que anestesiar a dor pode parecer alívio e ainda assim aprofundar a prisão interior?",
+      "anchors": [
+        "1Cor 6,12",
+        "Jo 8,34",
+        "B12"
+      ],
+      "facilitator_note": "Trate dependência com seriedade pastoral: responsabilidade, ferida e necessidade de ajuda podem coexistir.",
+      "reading_points": [
+        {
+          "title": "Dor não enfrentada",
+          "body": "A bebida aparece como fuga da perda, da vergonha e do medo."
+        },
+        {
+          "title": "Isolamento crescente",
+          "body": "A recusa de conversa e ajuda fortalece a dependência."
+        },
+        {
+          "title": "Caminho de verdade",
+          "body": "Cristo liberta chamando a pessoa a enfrentar a dor com ajuda e graça."
+        }
+      ]
+    },
+    {
+      "id": "I08",
+      "term_id": "I08",
+      "call_label": "I08 - Namoro controlador",
+      "case": "Um namorado exige senhas, decide com quem a namorada pode falar e chama isso de cuidado. Quando ela reclama, ele ameaça terminar e diz que ela não valoriza o relacionamento.",
+      "conference_question": "Como distinguir cuidado real de controle afetivo disfarçado de amor?",
+      "anchors": [
+        "Gl 5,13",
+        "B14",
+        "G13"
+      ],
+      "facilitator_note": "Seja claro: ciúme e chantagem não são prova de amor.",
+      "reading_points": [
+        {
+          "title": "Vigilância afetiva",
+          "body": "O pedido de senhas e o isolamento reduzem a liberdade da outra pessoa."
+        },
+        {
+          "title": "Chantagem emocional",
+          "body": "A ameaça de terminar manipula medo e culpa."
+        },
+        {
+          "title": "Amor ordenado",
+          "body": "A caridade busca o bem do outro, não a posse do outro."
+        }
+      ]
+    },
+    {
+      "id": "I09",
+      "term_id": "I09",
+      "call_label": "I09 - Trabalho desonesto",
+      "case": "Numa oficina, o dono manda trocar peças boas por peças usadas e cobrar como novas. O funcionário sabe da fraude, mas teme perder o emprego se recusar.",
+      "conference_question": "Como a pressão econômica pesa na responsabilidade sem transformar uma fraude em algo moralmente aceitável?",
+      "anchors": [
+        "Mt 5,37",
+        "Ef 4,25",
+        "CEC 1733"
+      ],
+      "facilitator_note": "Reconheça a dificuldade real do funcionário, mas preserve o juízo moral sobre a fraude.",
+      "reading_points": [
+        {
+          "title": "Fraude concreta",
+          "body": "Clientes são enganados e têm prejuízo real."
+        },
+        {
+          "title": "Pressão séria",
+          "body": "O medo de desemprego torna a escolha mais pesada, mas não torna a fraude boa."
+        },
+        {
+          "title": "Consciência livre",
+          "body": "A liberdade cristã pede verdade também no trabalho."
+        }
+      ]
+    },
+    {
+      "id": "I10",
+      "term_id": "I10",
+      "call_label": "I10 - Humilhação digital",
+      "case": "Um vídeo de uma mulher alterada no transporte público circula com piadas e montagens. Quem compartilha diz que ela estava em lugar público e que a internet apenas mostrou o que aconteceu.",
+      "conference_question": "Quando divulgar uma cena real vira cooperação com humilhação e não serviço à verdade?",
+      "anchors": [
+        "Gl 5,13",
+        "Ef 4,29",
+        "B14"
+      ],
+      "facilitator_note": "Mostre que algo ser verdadeiro ou público não autoriza exposição degradante.",
+      "reading_points": [
+        {
+          "title": "Exposição ampliada",
+          "body": "O compartilhamento multiplica a humilhação além do acontecimento inicial."
+        },
+        {
+          "title": "Público não basta",
+          "body": "Estar em público não retira a dignidade da pessoa filmada."
+        },
+        {
+          "title": "Caridade concreta",
+          "body": "A liberdade cristã não usa a fragilidade alheia como entretenimento."
+        }
+      ]
+    },
+    {
+      "id": "I11",
+      "term_id": "I11",
+      "call_label": "I11 - Raiva como identidade",
+      "case": "Um comentarista constrói sua audiência atacando sempre os mesmos inimigos. Fora das câmeras, ele já não conversa sem transformar qualquer assunto em conflito.",
+      "conference_question": "O que acontece com a liberdade interior quando a pessoa passa a depender da raiva para se afirmar?",
+      "anchors": [
+        "Ef 4,26-27",
+        "Jo 8,34",
+        "G10"
+      ],
+      "facilitator_note": "Evite debate político lateral; foque na raiva como modo de existir.",
+      "reading_points": [
+        {
+          "title": "Identidade agressiva",
+          "body": "A raiva deixa de ser reação e vira modo de se reconhecer."
+        },
+        {
+          "title": "Perda de abertura",
+          "body": "Ele já não consegue perceber bem, verdade ou pessoa fora do conflito."
+        },
+        {
+          "title": "Libertação do ódio",
+          "body": "Cristo liberta também das prisões emocionais cultivadas."
+        }
+      ]
+    },
+    {
+      "id": "I12",
+      "term_id": "I12",
+      "call_label": "I12 - Segredo de vício",
+      "case": "Uma médica usa remédios sem prescrição para atravessar plantões e esconde o problema da família e dos colegas. Quando erra um procedimento simples, percebe que o segredo já ameaça outras pessoas.",
+      "conference_question": "Por que o isolamento costuma fortalecer o vício e aumentar o dano moral e concreto?",
+      "anchors": [
+        "1Jo 1,8-9",
+        "Jo 8,34",
+        "O06"
+      ],
+      "facilitator_note": "Mostre que pedir ajuda não é humilhação; é passo de verdade e proteção.",
+      "reading_points": [
+        {
+          "title": "Segredo perigoso",
+          "body": "A dependência escondida começa a afetar o cuidado de terceiros."
+        },
+        {
+          "title": "Vergonha que prende",
+          "body": "O medo de exposição impede a ajuda necessária."
+        },
+        {
+          "title": "Ajuda concreta",
+          "body": "Sair do isolamento é parte do caminho de libertação."
+        }
+      ]
+    },
+    {
+      "id": "I13",
+      "term_id": "I13",
+      "call_label": "I13 - Pressão do grupo",
+      "case": "Numa empresa, todos combinam inflar despesas de viagem. Um funcionário novo sabe que é errado, mas assina porque o setor inteiro trata a fraude como teste de lealdade.",
+      "conference_question": "Como a pressão por pertencimento pode enfraquecer a consciência sem retirar a necessidade de escolher o bem?",
+      "anchors": [
+        "Gl 5,1",
+        "CEC 1742",
+        "G02"
+      ],
+      "facilitator_note": "Destaque a força da pressão coletiva e a necessidade de formar consciência firme.",
+      "reading_points": [
+        {
+          "title": "Pertencimento comprado",
+          "body": "A fraude é apresentada como condição para ser aceito no grupo."
+        },
+        {
+          "title": "Consciência pressionada",
+          "body": "O medo de exclusão tenta substituir o critério moral."
+        },
+        {
+          "title": "Liberdade em Cristo",
+          "body": "A graça fortalece para não entregar a consciência à aprovação dos outros."
+        }
+      ]
+    },
+    {
+      "id": "I14",
+      "term_id": "I14",
+      "call_label": "I14 - Dinheiro como senhor",
+      "case": "Uma família recebe proposta alta para vender um terreno sabendo que o comprador expulsará moradores vulneráveis com documentos duvidosos. A frase repetida em casa é: oportunidade assim não aparece duas vezes.",
+      "conference_question": "Como perceber quando o dinheiro deixa de ser meio legítimo e passa a governar a consciência?",
+      "anchors": [
+        "Mt 6,24",
+        "CEC 1733",
+        "B07"
+      ],
+      "facilitator_note": "Evite simplismo contra dinheiro; trate da submissão da justiça ao ganho.",
+      "reading_points": [
+        {
+          "title": "Ganho tentador",
+          "body": "A proposta é alta e cria forte pressão para ignorar o dano."
+        },
+        {
+          "title": "Consciência vendida",
+          "body": "Quando a injustiça é aceita pelo preço certo, o dinheiro virou senhor."
+        },
+        {
+          "title": "Deus acima do lucro",
+          "body": "A liberdade cristã não serve a Deus e ao dinheiro como senhores iguais."
+        }
+      ]
+    },
+    {
+      "id": "I15",
+      "term_id": "I15",
+      "call_label": "I15 - Culpa sem retorno",
+      "case": "Depois de causar um acidente dirigindo alcoolizado, um homem cumpre pena e evita qualquer contato com Deus. Ele diz que aceitar perdão seria desrespeitar a vítima.",
+      "conference_question": "Como distinguir arrependimento verdadeiro de uma culpa que nega a misericórdia e paralisa a reparação?",
+      "anchors": [
+        "Lc 15,11-32",
+        "1Jo 1,8-9",
+        "B09"
+      ],
+      "facilitator_note": "Trate vítimas com respeito; perdão não apaga justiça nem reparação.",
+      "reading_points": [
+        {
+          "title": "Culpa grave",
+          "body": "O dano foi real e não deve ser suavizado."
+        },
+        {
+          "title": "Desespero disfarçado",
+          "body": "Recusar toda misericórdia impede conversão e reparação possível."
+        },
+        {
+          "title": "Perdão responsável",
+          "body": "Deus perdoa chamando à verdade, à penitência e ao bem possível."
+        }
+      ]
+    },
+    {
+      "id": "N01",
+      "term_id": "N01",
+      "call_label": "N01 - Falsa autonomia",
+      "case": "Um homem abandona a família sem sustento e responde que ninguém tem direito de opinar sobre sua felicidade. Ele chama responsabilidade de prisão.",
+      "conference_question": "Por que a frase 'é minha vida' pode esconder injustiça quando existem vínculos e deveres reais?",
+      "anchors": [
+        "Gl 5,13",
+        "Jo 8,34",
+        "B03"
+      ],
+      "facilitator_note": "Mostre que autonomia não elimina dever moral diante de Deus e dos outros.",
+      "reading_points": [
+        {
+          "title": "Liberdade isolada",
+          "body": "Ele fala de felicidade como se suas escolhas não atingissem ninguém."
+        },
+        {
+          "title": "Responsabilidade negada",
+          "body": "Chamar dever de prisão é fugir da verdade sobre os vínculos."
+        },
+        {
+          "title": "Liberdade para o bem",
+          "body": "A liberdade cristã não autoriza abandonar justiça e caridade."
+        }
+      ]
+    },
+    {
+      "id": "N02",
+      "term_id": "N02",
+      "call_label": "N02 - Ilusão de controle",
+      "case": "Um executivo diz que para de apostar quando quiser, mas sabe todos os horários de jogos, usa cartões escondidos e fica agressivo quando a esposa pergunta das contas.",
+      "conference_question": "Que fatos concretos desmontam a afirmação de que ele ainda controla o hábito?",
+      "anchors": [
+        "1Cor 6,12",
+        "Jo 8,34",
+        "B06"
+      ],
+      "facilitator_note": "Peça que a turma observe ações, não apenas frases de autodefesa.",
+      "reading_points": [
+        {
+          "title": "Discurso confiante",
+          "body": "Ele afirma controle sem olhar para os sinais de dependência."
+        },
+        {
+          "title": "Vida organizada pelo vício",
+          "body": "Horários, cartões e agressividade revelam domínio do hábito."
+        },
+        {
+          "title": "Verdade antes da cura",
+          "body": "Nomear a prisão é o primeiro passo para recuperar liberdade."
+        }
+      ]
+    },
+    {
+      "id": "N03",
+      "term_id": "N03",
+      "call_label": "N03 - Todo mundo faz",
+      "case": "Numa repartição, servidores veteranos ensinam a cobrar pequenas propinas dizendo que o sistema sempre foi assim. Quem hesita é tratado como ingênuo.",
+      "conference_question": "Por que a repetição social de um erro não pode virar critério de moralidade?",
+      "anchors": [
+        "Rm 12,2",
+        "CEC 1733",
+        "I13"
+      ],
+      "facilitator_note": "Destaque que normalidade estatística não é bondade moral.",
+      "reading_points": [
+        {
+          "title": "Erro normalizado",
+          "body": "A prática repetida cria aparência de inevitável."
+        },
+        {
+          "title": "Pressão de ridículo",
+          "body": "Chamar o honesto de ingênuo protege o costume corrupto."
+        },
+        {
+          "title": "Critério cristão",
+          "body": "O bem não depende de quantas pessoas praticam o contrário."
+        }
+      ]
+    },
+    {
+      "id": "N04",
+      "term_id": "N04",
+      "call_label": "N04 - Prazer como critério",
+      "case": "Um casal mantém uma relação paralela e afirma que, se ambos se sentem vivos de novo, não pode ser errado. As famílias só aparecem na conversa como obstáculo.",
+      "conference_question": "Por que prazer intenso não basta para julgar se uma escolha é boa diante de Deus?",
+      "anchors": [
+        "Tg 1,14-15",
+        "CEC 1733",
+        "B07"
+      ],
+      "facilitator_note": "Não negue que o prazer atraia; mostre que ele não é critério último.",
+      "reading_points": [
+        {
+          "title": "Atração real",
+          "body": "A experiência prazerosa torna a escolha sedutora."
+        },
+        {
+          "title": "Vínculos apagados",
+          "body": "As responsabilidades são tratadas como incômodo, não como realidade moral."
+        },
+        {
+          "title": "Bem acima do prazer",
+          "body": "A liberdade cristã mede escolhas pelo bem e pela verdade, não só pela sensação."
+        }
+      ]
+    },
+    {
+      "id": "N05",
+      "term_id": "N05",
+      "call_label": "N05 - Liberdade sem limite",
+      "case": "Um influenciador incentiva jovens a experimentar tudo sem culpa, dizendo que limite é invenção de gente reprimida. Nos comentários, pessoas relatam vícios, rompimentos e vergonha.",
+      "conference_question": "Como responder à ideia de que qualquer limite é inimigo da liberdade?",
+      "anchors": [
+        "Gl 5,13",
+        "1Pd 2,16",
+        "CEC 1733"
+      ],
+      "facilitator_note": "Mostre que limite bom protege a liberdade, assim como margem protege um caminho.",
+      "reading_points": [
+        {
+          "title": "Promessa atraente",
+          "body": "A fala vende ausência de limite como vida plena."
+        },
+        {
+          "title": "Frutos amargos",
+          "body": "Os relatos mostram que experimentar tudo pode gerar prisão e ferida."
+        },
+        {
+          "title": "Liberdade ordenada",
+          "body": "A fé ensina que liberdade sem bem vira abuso da liberdade."
+        }
+      ]
+    },
+    {
+      "id": "N06",
+      "term_id": "N06",
+      "call_label": "N06 - Sinceridade brutal",
+      "case": "Numa reunião, uma chefe expõe o erro de uma funcionária diante de todos e diz que é direta porque não gosta de falsidade. A funcionária sai chorando e ninguém aprende a corrigir o processo.",
+      "conference_question": "Como distinguir falar a verdade com caridade de usar a verdade para humilhar?",
+      "anchors": [
+        "Ef 4,15",
+        "B14",
+        "G11"
+      ],
+      "facilitator_note": "A verdade não é desculpa para crueldade; caridade não é mentira.",
+      "reading_points": [
+        {
+          "title": "Verdade usada como arma",
+          "body": "O erro existia, mas a forma de expor destruiu a pessoa."
+        },
+        {
+          "title": "Sinceridade falsa",
+          "body": "Ser direto não autoriza humilhação pública desnecessária."
+        },
+        {
+          "title": "Verdade com caridade",
+          "body": "A correção cristã busca corrigir o mal sem esmagar o pecador."
+        }
+      ]
+    },
+    {
+      "id": "N07",
+      "term_id": "N07",
+      "call_label": "N07 - Amor possessivo",
+      "case": "Uma mulher impede o marido de visitar a mãe doente e diz que casal de verdade não precisa de mais ninguém. Quando ele insiste, ela acusa falta de amor.",
+      "conference_question": "Por que posse e isolamento não podem ser confundidos com amor fiel?",
+      "anchors": [
+        "Gl 5,13",
+        "B14",
+        "I08"
+      ],
+      "facilitator_note": "Mostre que amor verdadeiro não destrói outros vínculos bons.",
+      "reading_points": [
+        {
+          "title": "Isolamento imposto",
+          "body": "A relação é usada para cortar vínculos familiares legítimos."
+        },
+        {
+          "title": "Chantagem afetiva",
+          "body": "A acusação de falta de amor manipula a consciência do outro."
+        },
+        {
+          "title": "Caridade ordenada",
+          "body": "O amor cristão não transforma a pessoa amada em propriedade."
+        }
+      ]
+    },
+    {
+      "id": "N08",
+      "term_id": "N08",
+      "call_label": "N08 - Vingança justa",
+      "case": "Após ser enganado por um sócio, um comerciante decide espalhar boatos sobre a família dele. Diz que só está fazendo o outro sentir o mesmo peso.",
+      "conference_question": "Como distinguir buscar reparação justa de devolver mal por mal?",
+      "anchors": [
+        "Rm 12,19-21",
+        "Ef 4,26-27",
+        "G10"
+      ],
+      "facilitator_note": "Reconheça a injustiça sofrida, mas mostre que vingança cria novo mal.",
+      "reading_points": [
+        {
+          "title": "Ferida real",
+          "body": "A traição do sócio causou dano concreto."
+        },
+        {
+          "title": "Resposta corrompida",
+          "body": "Atacar a família com boatos não repara a injustiça; amplia o mal."
+        },
+        {
+          "title": "Justiça sem vingança",
+          "body": "A liberdade cristã busca reparação sem entregar o coração ao ódio."
+        }
+      ]
+    },
+    {
+      "id": "N09",
+      "term_id": "N09",
+      "call_label": "N09 - Privado sem dano",
+      "case": "Um homem casado mantém conversas íntimas escondidas na internet e diz que não traiu porque nunca encontrou ninguém pessoalmente. Em casa, fica frio, irritado e distante.",
+      "conference_question": "Por que um pecado escondido pode ferir relações reais mesmo quando parece não envolver ninguém diretamente?",
+      "anchors": [
+        "Jo 8,34",
+        "1Cor 6,12",
+        "I12"
+      ],
+      "facilitator_note": "Evite curiosidade sobre detalhes; foque no coração dividido e no dano relacional.",
+      "reading_points": [
+        {
+          "title": "Segredo afetivo",
+          "body": "A vida escondida cria divisão dentro da própria pessoa."
+        },
+        {
+          "title": "Dano indireto",
+          "body": "A frieza e a irritação mostram que o privado já atingiu a família."
+        },
+        {
+          "title": "Coração livre",
+          "body": "Cristo liberta também do pecado mantido no escuro."
+        }
+      ]
+    },
+    {
+      "id": "N10",
+      "term_id": "N10",
+      "call_label": "N10 - Sem volta",
+      "case": "Uma mulher que abortou anos atrás evita qualquer conversa sobre Deus e diz que sua vida espiritual acabou. Ela ajuda outras pessoas, mas se recusa a receber misericórdia.",
+      "conference_question": "Como falar de misericórdia sem diminuir a gravidade do pecado nem prender a pessoa ao desespero?",
+      "anchors": [
+        "Lc 15,11-32",
+        "1Jo 1,8-9",
+        "B09"
+      ],
+      "facilitator_note": "Conduza com sobriedade: gravidade, verdade, misericórdia e caminho de cura devem aparecer juntos.",
+      "reading_points": [
+        {
+          "title": "Ferida profunda",
+          "body": "A gravidade do ato e a dor posterior não devem ser tratadas com banalidade."
+        },
+        {
+          "title": "Desespero espiritual",
+          "body": "Dizer que não há volta nega o poder da misericórdia de Deus."
+        },
+        {
+          "title": "Caminho de reconciliação",
+          "body": "Cristo chama à verdade, ao arrependimento e ao perdão que levanta."
+        }
+      ]
+    },
+    {
+      "id": "N11",
+      "term_id": "N11",
+      "call_label": "N11 - Mereço me aliviar",
+      "case": "Depois de cuidar meses da mãe doente, um filho passa a gastar o dinheiro dela em saídas e bebida. Quando questionado, responde que também merece viver um pouco.",
+      "conference_question": "Como reconhecer o cansaço real sem usar a dor como autorização para injustiça?",
+      "anchors": [
+        "Mt 26,41",
+        "Tg 1,14-15",
+        "I07"
+      ],
+      "facilitator_note": "Acolha o peso do cuidado, mas não aceite a desculpa para abuso.",
+      "reading_points": [
+        {
+          "title": "Cansaço verdadeiro",
+          "body": "O cuidado prolongado pode gerar desgaste sério."
+        },
+        {
+          "title": "Alívio injusto",
+          "body": "Usar dinheiro da mãe vulnerável não é descanso; é abuso."
+        },
+        {
+          "title": "Responsabilidade na dor",
+          "body": "A liberdade cristã busca ajuda e descanso sem ferir outro."
+        }
+      ]
+    },
+    {
+      "id": "N12",
+      "term_id": "N12",
+      "call_label": "N12 - Só uma vez",
+      "case": "Um funcionário aceita levar dados de clientes para um concorrente, dizendo que será a única vez e que ninguém perceberá. Depois recebe nova proposta, agora com chantagem.",
+      "conference_question": "Por que minimizar o primeiro consentimento pode abrir caminho para uma escravidão maior?",
+      "anchors": [
+        "Tg 1,14-15",
+        "Jo 8,34",
+        "B06"
+      ],
+      "facilitator_note": "Mostre a lógica da porta aberta: um ato pode criar dependência e chantagem.",
+      "reading_points": [
+        {
+          "title": "Consentimento inicial",
+          "body": "A primeira entrega parece limitada e controlável."
+        },
+        {
+          "title": "Nova prisão",
+          "body": "O erro passado vira instrumento de chantagem."
+        },
+        {
+          "title": "Vigilância moral",
+          "body": "A tentação deve ser enfrentada antes que se torne corrente."
+        }
+      ]
+    },
+    {
+      "id": "N13",
+      "term_id": "N13",
+      "call_label": "N13 - Deus entende tudo",
+      "case": "Um homem mantém uma relação adulterina e diz que Deus conhece seu coração, por isso não precisa mudar agora. Ele continua comungando e evita qualquer conversa séria sobre conversão.",
+      "conference_question": "Como distinguir confiança na misericórdia de usar Deus como desculpa para permanecer no pecado?",
+      "anchors": [
+        "Jo 8,11",
+        "1Jo 1,8-9",
+        "G15"
+      ],
+      "facilitator_note": "Seja firme: misericórdia não é permissão para continuar no pecado.",
+      "reading_points": [
+        {
+          "title": "Misericórdia manipulada",
+          "body": "A bondade de Deus é usada para evitar mudança concreta."
+        },
+        {
+          "title": "Conversão recusada",
+          "body": "O problema não é confiar em Deus, mas recusar sua chamada à verdade."
+        },
+        {
+          "title": "Perdão que levanta",
+          "body": "Cristo perdoa e manda não pecar mais."
+        }
+      ]
+    },
+    {
+      "id": "N14",
+      "term_id": "N14",
+      "call_label": "N14 - Minha verdade basta",
+      "case": "Uma herdeira acusa publicamente a irmã de roubo porque se sente traída, embora os documentos mostrem outra coisa. Quando confrontada, responde que essa é a verdade dela.",
+      "conference_question": "Por que sentimento sincero não basta para definir a verdade moral de uma situação?",
+      "anchors": [
+        "Jo 8,32",
+        "Ef 4,25",
+        "B05"
+      ],
+      "facilitator_note": "Distinga experiência subjetiva de verdade objetiva sem ridicularizar sentimentos.",
+      "reading_points": [
+        {
+          "title": "Dor subjetiva",
+          "body": "Ela pode realmente se sentir traída."
+        },
+        {
+          "title": "Realidade ignorada",
+          "body": "Documentos e fatos não podem ser apagados pelo sentimento."
+        },
+        {
+          "title": "Verdade que ordena",
+          "body": "A liberdade precisa acolher a realidade, não fabricar uma versão conveniente."
+        }
+      ]
+    },
+    {
+      "id": "N15",
+      "term_id": "N15",
+      "call_label": "N15 - O mal me define",
+      "case": "Um jovem que saiu do tráfico tenta trabalhar, mas repete que sempre será bandido. Quando alguém oferece formação profissional, ele rejeita porque acha inútil tentar mudar.",
+      "conference_question": "Como condenar o mal praticado sem aceitar a mentira de que a pessoa está definitivamente definida por ele?",
+      "anchors": [
+        "Lc 15,11-32",
+        "Jo 8,36",
+        "G01"
+      ],
+      "facilitator_note": "Una responsabilidade e esperança; não minimize crimes nem negue conversão.",
+      "reading_points": [
+        {
+          "title": "Passado real",
+          "body": "O mal praticado não deve ser fingido nem apagado."
+        },
+        {
+          "title": "Identidade aprisionada",
+          "body": "Dizer que sempre será aquilo fecha a porta para conversão."
+        },
+        {
+          "title": "Pessoa além do pecado",
+          "body": "Cristo liberta sem negar responsabilidade."
+        }
+      ]
+    },
+    {
+      "id": "G01",
+      "term_id": "G01",
+      "call_label": "G01 - Ato e pessoa",
+      "case": "Uma comunidade descobre que um voluntário desviou doações. Alguns querem chamá-lo apenas de ladrão para sempre; outros querem fingir que nada aconteceu porque ele ajudou muita gente.",
+      "conference_question": "Como condenar o ato injusto sem reduzir a pessoa ao pecado nem apagar a responsabilidade?",
+      "anchors": [
+        "Jo 8,34",
+        "Lc 15,11-32",
+        "B14"
+      ],
+      "facilitator_note": "Trabalhe a dupla fidelidade: verdade sobre o mal e dignidade da pessoa.",
+      "reading_points": [
+        {
+          "title": "Dois extremos",
+          "body": "Um lado reduz a pessoa ao crime; outro apaga o crime pela simpatia."
+        },
+        {
+          "title": "Juízo correto",
+          "body": "O ato deve ser nomeado e reparado sem condenar a pessoa como irrecuperável."
+        },
+        {
+          "title": "Olhar cristão",
+          "body": "Cristo chama o pecador à conversão sem chamar o pecado de bem."
+        }
+      ]
+    },
+    {
+      "id": "G02",
+      "term_id": "G02",
+      "call_label": "G02 - Impulso e liberdade",
+      "case": "Numa discussão de trânsito, um motorista sente vontade de sair do carro e agredir o outro. Ele trava, respira e decide anotar a placa em vez de partir para violência.",
+      "conference_question": "O que esse caso ensina sobre a diferença entre sentir um impulso e consentir nele?",
+      "anchors": [
+        "1Cor 6,12",
+        "CEC 1731",
+        "B06"
+      ],
+      "facilitator_note": "Mostre que sentir não é o mesmo que escolher; a liberdade atua no consentimento.",
+      "reading_points": [
+        {
+          "title": "Impulso presente",
+          "body": "A vontade de agredir aparece com força real."
+        },
+        {
+          "title": "Consentimento recusado",
+          "body": "Ele não obedece automaticamente ao que sente."
+        },
+        {
+          "title": "Domínio livre",
+          "body": "A liberdade cresce quando a pessoa aprende a governar impulsos."
+        }
+      ]
+    },
+    {
+      "id": "G03",
+      "term_id": "G03",
+      "call_label": "G03 - Desejo e bem",
+      "case": "Uma mulher deseja abandonar os filhos pequenos para viver uma paixão recente. Ela diz que nunca sentiu algo tão forte, mas sabe que a decisão destruiria deveres fundamentais.",
+      "conference_question": "Como distinguir a força de um desejo da bondade real da escolha que ele propõe?",
+      "anchors": [
+        "Tg 1,14-15",
+        "CEC 1733",
+        "B07"
+      ],
+      "facilitator_note": "Não negue a força afetiva; mostre que intensidade não é critério suficiente.",
+      "reading_points": [
+        {
+          "title": "Desejo intenso",
+          "body": "A paixão aparece como experiência forte e envolvente."
+        },
+        {
+          "title": "Bem objetivo",
+          "body": "A existência de filhos e deveres reais pesa moralmente."
+        },
+        {
+          "title": "Ordem do amor",
+          "body": "A liberdade cristã discerne o bem, não apenas a intensidade do desejo."
+        }
+      ]
+    },
+    {
+      "id": "G04",
+      "term_id": "G04",
+      "call_label": "G04 - Culpa e responsabilidade",
+      "case": "Um dependente químico furta dinheiro da família durante uma recaída. Os parentes discordam: uns dizem que ele não tem culpa de nada; outros querem expulsá-lo sem ouvir o caso.",
+      "conference_question": "Como reconhecer a gravidade do furto e, ao mesmo tempo, avaliar a responsabilidade concreta sem simplismo?",
+      "anchors": [
+        "Jo 8,34",
+        "CEC 1733",
+        "B11"
+      ],
+      "facilitator_note": "Ajude a turma a não cair em absolvição automática nem condenação cega.",
+      "reading_points": [
+        {
+          "title": "Dano objetivo",
+          "body": "O furto é injusto e precisa ser nomeado."
+        },
+        {
+          "title": "Responsabilidade situada",
+          "body": "A dependência pode diminuir liberdade concreta, sem transformar o ato em bem."
+        },
+        {
+          "title": "Resposta justa",
+          "body": "Discernir culpa ajuda a unir limite, ajuda e reparação."
+        }
+      ]
+    },
+    {
+      "id": "G05",
+      "term_id": "G05",
+      "call_label": "G05 - Tentação e consentimento",
+      "case": "Um funcionário encontra um envelope de dinheiro sem identificação no caixa. Ele sente vontade de guardar, mas entrega ao gerente e pede que registrem a ocorrência.",
+      "conference_question": "Por que ser tentado não é o mesmo que pecar, e onde aparece a liberdade nesse caso?",
+      "anchors": [
+        "Mt 26,41",
+        "Tg 1,14-15",
+        "B06"
+      ],
+      "facilitator_note": "Mostre que a tentação pede vigilância, não desespero.",
+      "reading_points": [
+        {
+          "title": "Tentação clara",
+          "body": "A possibilidade de ficar com o dinheiro atrai."
+        },
+        {
+          "title": "Consentimento negado",
+          "body": "Ele escolhe agir de modo transparente."
+        },
+        {
+          "title": "Vigilância livre",
+          "body": "A liberdade se fortalece quando a pessoa não alimenta a tentação."
+        }
+      ]
+    },
+    {
+      "id": "G06",
+      "term_id": "G06",
+      "call_label": "G06 - Hábito e ato isolado",
+      "case": "Uma dona de casa percebe que suas explosões de gritos não são raras: acontecem sempre que se sente contrariada. A família já pisa em ovos antes de falar com ela.",
+      "conference_question": "Que diferença moral e pastoral existe entre uma queda isolada e um padrão que organiza a convivência?",
+      "anchors": [
+        "Jo 8,34",
+        "Rm 6,16-18",
+        "I12"
+      ],
+      "facilitator_note": "Evite rótulos fáceis; destaque padrão, repetição e necessidade de ruptura mais firme.",
+      "reading_points": [
+        {
+          "title": "Repetição visível",
+          "body": "Os gritos não são exceção, mas padrão reconhecido pela família."
+        },
+        {
+          "title": "Ambiente dominado",
+          "body": "Todos mudam comportamento por medo da reação dela."
+        },
+        {
+          "title": "Conversão concreta",
+          "body": "Hábito enraizado pede nomeação, ajuda e disciplina."
+        }
+      ]
+    },
+    {
+      "id": "G07",
+      "term_id": "G07",
+      "call_label": "G07 - Fraqueza e licença",
+      "case": "Um homem explosivo pede desculpas depois de cada agressão verbal e diz que nasceu assim. Nunca procura ajuda nem aceita combinar limites para as discussões.",
+      "conference_question": "Como reconhecer uma fragilidade real sem transformá-la em permissão para continuar ferindo?",
+      "anchors": [
+        "1Jo 1,8-9",
+        "CEC 1742",
+        "N13"
+      ],
+      "facilitator_note": "Destaque que fragilidade pede humildade e tratamento, não justificativa permanente.",
+      "reading_points": [
+        {
+          "title": "Fraqueza admitida",
+          "body": "Ele sabe que tem dificuldade séria com ira."
+        },
+        {
+          "title": "Licença prática",
+          "body": "Usar temperamento como desculpa impede mudança e reparação."
+        },
+        {
+          "title": "Graça e responsabilidade",
+          "body": "A graça fortalece a liberdade para enfrentar a própria fraqueza."
+        }
+      ]
+    },
+    {
+      "id": "G08",
+      "term_id": "G08",
+      "call_label": "G08 - Acolhida e aprovação",
+      "case": "Uma família recebe em casa um filho que voltou depois de anos de drogas e crimes. Eles oferecem comida e conversa, mas se recusam a guardar objetos roubados ou mentir para a polícia.",
+      "conference_question": "Como acolher uma pessoa ferida sem aprovar ou encobrir escolhas que continuam sendo más?",
+      "anchors": [
+        "Gl 5,13",
+        "Jo 8,11",
+        "B14"
+      ],
+      "facilitator_note": "Mostre que acolhida cristã pode incluir limites firmes.",
+      "reading_points": [
+        {
+          "title": "Pessoa acolhida",
+          "body": "A família não fecha a porta para o filho."
+        },
+        {
+          "title": "Erro não aprovado",
+          "body": "Acolher não significa participar de crime ou mentira."
+        },
+        {
+          "title": "Caridade verdadeira",
+          "body": "A caridade une misericórdia e verdade sobre o bem."
+        }
+      ]
+    },
+    {
+      "id": "G09",
+      "term_id": "G09",
+      "call_label": "G09 - Prudência e omissão",
+      "case": "Funcionários sabem que uma máquina da fábrica está sem proteção e pode ferir alguém. O supervisor diz que é melhor esperar para não criar confusão antes da auditoria.",
+      "conference_question": "Como distinguir prudência no modo de agir de omissão diante de um risco grave?",
+      "anchors": [
+        "Mt 18,15",
+        "Gl 5,13",
+        "O08"
+      ],
+      "facilitator_note": "Mostre que prudência escolhe meios adequados; omissão foge do dever.",
+      "reading_points": [
+        {
+          "title": "Risco conhecido",
+          "body": "A máquina oferece perigo concreto a trabalhadores."
+        },
+        {
+          "title": "Silêncio conveniente",
+          "body": "Esperar apenas para evitar confusão protege a aparência, não as pessoas."
+        },
+        {
+          "title": "Ação prudente",
+          "body": "A liberdade cristã busca o modo certo de agir, não a desculpa para calar."
+        }
+      ]
+    },
+    {
+      "id": "G10",
+      "term_id": "G10",
+      "call_label": "G10 - Justiça e vingança",
+      "case": "Após ter a casa furtada, um morador descobre o suspeito e organiza vizinhos para espancá-lo antes de chamar a polícia. Ele diz que a justiça comum não resolve nada.",
+      "conference_question": "Por que a legítima busca por justiça não autoriza linchamento ou vingança?",
+      "anchors": [
+        "Rm 12,19-21",
+        "Ef 4,26-27",
+        "N08"
+      ],
+      "facilitator_note": "Reconheça a indignação com o crime, mas condene a resposta violenta e ilegal.",
+      "reading_points": [
+        {
+          "title": "Ofensa sofrida",
+          "body": "O furto causa medo, prejuízo e indignação reais."
+        },
+        {
+          "title": "Vingança coletiva",
+          "body": "Espancar o suspeito troca justiça por violência."
+        },
+        {
+          "title": "Reparação justa",
+          "body": "A resposta ao mal deve buscar verdade, proteção e justiça proporcionada."
+        }
+      ]
+    },
+    {
+      "id": "G11",
+      "term_id": "G11",
+      "call_label": "G11 - Verdade e humilhação",
+      "case": "Um médico descobre que um paciente mentiu sobre exames e o corrige aos gritos no corredor, diante de outros pacientes. A informação era importante, mas a exposição foi desnecessária.",
+      "conference_question": "Que critério ajuda a falar a verdade necessária sem transformar correção em humilhação?",
+      "anchors": [
+        "Ef 4,15",
+        "Mt 18,15",
+        "N06"
+      ],
+      "facilitator_note": "Mostre que conteúdo verdadeiro pode ser comunicado de modo moralmente errado.",
+      "reading_points": [
+        {
+          "title": "Verdade necessária",
+          "body": "A mentira sobre exames precisava ser enfrentada."
+        },
+        {
+          "title": "Forma injusta",
+          "body": "O corredor público transforma correção em exposição."
+        },
+        {
+          "title": "Caridade na verdade",
+          "body": "A verdade cristã busca cura e justiça, não espetáculo de vergonha."
+        }
+      ]
+    },
+    {
+      "id": "G12",
+      "term_id": "G12",
+      "call_label": "G12 - Oração e passividade",
+      "case": "Uma mulher reza para o filho sair da dependência, mas sempre entrega dinheiro quando ele ameaça sumir. Ela diz que só pode colocar tudo nas mãos de Deus.",
+      "conference_question": "Como unir oração verdadeira com decisões concretas que não alimentem a prisão do outro?",
+      "anchors": [
+        "Mt 26,41",
+        "CEC 1742",
+        "O10"
+      ],
+      "facilitator_note": "Não diminua a oração; mostre que ela deve sustentar a ação prudente.",
+      "reading_points": [
+        {
+          "title": "Oração sincera",
+          "body": "A mãe realmente deseja a libertação do filho."
+        },
+        {
+          "title": "Passividade perigosa",
+          "body": "Entregar dinheiro sob ameaça pode alimentar a dependência."
+        },
+        {
+          "title": "Graça e decisão",
+          "body": "Rezar com fé inclui pedir força para fazer o que é necessário."
+        }
+      ]
+    },
+    {
+      "id": "G13",
+      "term_id": "G13",
+      "call_label": "G13 - Amor e controle",
+      "case": "Um pai rastreia o celular da filha adulta, lê suas mensagens e diz que faz isso porque a ama. Quando ela pede privacidade, ele acusa ingratidão.",
+      "conference_question": "Como distinguir cuidado responsável de controle que invade a liberdade do outro?",
+      "anchors": [
+        "Gl 5,13",
+        "B14",
+        "I08"
+      ],
+      "facilitator_note": "Ajuste o discernimento à idade e à responsabilidade; aqui se trata de filha adulta.",
+      "reading_points": [
+        {
+          "title": "Cuidado alegado",
+          "body": "O pai apresenta a vigilância como prova de amor."
+        },
+        {
+          "title": "Invasão real",
+          "body": "Ler mensagens e rastrear uma adulta viola limites legítimos."
+        },
+        {
+          "title": "Amor livre",
+          "body": "Amar não é possuir nem controlar a consciência do outro."
+        }
+      ]
+    },
+    {
+      "id": "G14",
+      "term_id": "G14",
+      "call_label": "G14 - Firmeza e dureza",
+      "case": "Uma família decide não emprestar mais dinheiro a um parente viciado. Um irmão comunica a decisão com clareza e oferece acompanhar tratamento; outro o humilha, dizendo que ele estragou a própria vida.",
+      "conference_question": "O que diferencia um limite firme de uma dureza que abandona ou despreza a pessoa?",
+      "anchors": [
+        "Ef 4,15",
+        "Gl 5,13",
+        "O05"
+      ],
+      "facilitator_note": "Mostre que o mesmo limite pode ser comunicado com caridade ou com desprezo.",
+      "reading_points": [
+        {
+          "title": "Limite necessário",
+          "body": "Parar de emprestar dinheiro pode proteger a pessoa e a família."
+        },
+        {
+          "title": "Dureza ferida",
+          "body": "Humilhar o parente acrescenta desprezo ao limite."
+        },
+        {
+          "title": "Firmeza caridosa",
+          "body": "A resposta cristã mantém o limite e preserva a dignidade."
+        }
+      ]
+    },
+    {
+      "id": "G15",
+      "term_id": "G15",
+      "call_label": "G15 - Misericórdia e banalização",
+      "case": "Um grupo descobre que um membro enganou idosos vendendo falsos serviços. Alguns dizem que todos erram e que basta esquecer para mostrar misericórdia.",
+      "conference_question": "Por que misericórdia verdadeira não significa tratar pecado grave como detalhe sem reparação?",
+      "anchors": [
+        "1Jo 1,8-9",
+        "Jo 8,11",
+        "N13"
+      ],
+      "facilitator_note": "Mostre que misericórdia exige verdade, arrependimento e passos de reparação.",
+      "reading_points": [
+        {
+          "title": "Dano grave",
+          "body": "Idosos foram enganados e sofreram prejuízo."
+        },
+        {
+          "title": "Banalização piedosa",
+          "body": "Dizer que todos erram pode apagar vítimas e responsabilidade."
+        },
+        {
+          "title": "Misericórdia exigente",
+          "body": "O perdão de Deus levanta o pecador e o chama a mudar."
+        }
+      ]
+    },
+    {
+      "id": "O01",
+      "term_id": "O01",
+      "call_label": "O01 - Nomear a prisão",
+      "case": "Um homem percebe que não consegue passar um dia sem acessar conteúdo sexual online. Em vez de dizer apenas que está numa fase ruim, escreve com clareza: isso virou uma prisão e preciso lutar de verdade.",
+      "conference_question": "Por que nomear o problema com precisão muda a forma de enfrentá-lo?",
+      "anchors": [
+        "Jo 8,34",
+        "B01",
+        "G06"
+      ],
+      "facilitator_note": "Mostre que nomear não é se definir pelo pecado; é começar a sair da negação.",
+      "reading_points": [
+        {
+          "title": "Linguagem clara",
+          "body": "Ele deixa de usar frases vagas para esconder a dependência."
+        },
+        {
+          "title": "Verdade operacional",
+          "body": "Nomear a prisão permite escolher meios proporcionais de combate."
+        },
+        {
+          "title": "Início da liberdade",
+          "body": "Cristo liberta quem aceita trazer a escravidão à luz."
+        }
+      ]
+    },
+    {
+      "id": "O02",
+      "term_id": "O02",
+      "call_label": "O02 - Cortar ocasião",
+      "case": "Uma mulher que bebe escondido decide não manter álcool em casa, evita passar sozinha pelo bar onde recaía e combina com a irmã uma ligação diária nas primeiras semanas.",
+      "conference_question": "Por que cortar ocasiões concretas não é covardia, mas prudência diante da própria fragilidade?",
+      "anchors": [
+        "Mt 26,41",
+        "G05",
+        "B06"
+      ],
+      "facilitator_note": "Valorize medidas simples e concretas; elas tornam a luta menos abstrata.",
+      "reading_points": [
+        {
+          "title": "Risco conhecido",
+          "body": "Ela identifica ambientes e rotinas que facilitavam a queda."
+        },
+        {
+          "title": "Medida proporcional",
+          "body": "Remover acesso e criar apoio reduz a força da tentação."
+        },
+        {
+          "title": "Vigilância cristã",
+          "body": "Vigiar e orar inclui evitar aquilo que arrasta a vontade."
+        }
+      ]
+    },
+    {
+      "id": "O03",
+      "term_id": "O03",
+      "call_label": "O03 - Confessar com verdade",
+      "case": "Antes da Confissão, um homem escreve os pecados que sempre suaviza: mentira, adultério e dano financeiro. No confessionário, decide não trocar nomes duros por frases vagas.",
+      "conference_question": "Como a verdade concreta na Confissão ajuda a receber a liberdade que Cristo oferece?",
+      "anchors": [
+        "1Jo 1,8-9",
+        "B09",
+        "Sl 51"
+      ],
+      "facilitator_note": "Oriente sem detalhismo impróprio; a carta trata de integridade e arrependimento.",
+      "reading_points": [
+        {
+          "title": "Sem maquiagem",
+          "body": "Ele abandona termos vagos que escondiam a gravidade."
+        },
+        {
+          "title": "Culpa entregue",
+          "body": "A Confissão leva o pecado concreto à misericórdia concreta."
+        },
+        {
+          "title": "Liberdade sacramental",
+          "body": "Cristo restaura a liberdade quando há verdade e arrependimento."
+        }
+      ]
+    },
+    {
+      "id": "O04",
+      "term_id": "O04",
+      "call_label": "O04 - Reparar o dano",
+      "case": "Depois de espalhar uma acusação falsa contra uma vizinha, um homem pede desculpas a ela e também corrige publicamente a mentira no grupo onde a espalhou.",
+      "conference_question": "Por que pedir perdão em privado pode não bastar quando o dano foi público?",
+      "anchors": [
+        "Lc 19,8",
+        "Mt 5,37",
+        "G10"
+      ],
+      "facilitator_note": "Mostre proporção: a reparação deve alcançar, tanto quanto possível, o lugar do dano.",
+      "reading_points": [
+        {
+          "title": "Dano público",
+          "body": "A mentira atingiu a reputação diante de outras pessoas."
+        },
+        {
+          "title": "Reparação proporcional",
+          "body": "Corrigir no mesmo ambiente ajuda a diminuir o prejuízo causado."
+        },
+        {
+          "title": "Justiça concreta",
+          "body": "Arrependimento verdadeiro busca reparar, não apenas aliviar a culpa."
+        }
+      ]
+    },
+    {
+      "id": "O05",
+      "term_id": "O05",
+      "call_label": "O05 - Pôr limite claro",
+      "case": "Uma idosa diz ao filho adulto que não dará mais dinheiro enquanto ele usar a pensão dela para apostar. Ela oferece ajudar a procurar tratamento, mas não aceita novas retiradas.",
+      "conference_question": "Como formular um limite que seja firme, concreto e orientado ao bem, sem cair em vingança ou abandono?",
+      "anchors": [
+        "Gl 5,1",
+        "G14",
+        "B03"
+      ],
+      "facilitator_note": "Destaque clareza, consequência e oferta proporcional de ajuda.",
+      "reading_points": [
+        {
+          "title": "Limite objetivo",
+          "body": "Ela nomeia exatamente o que não permitirá mais."
+        },
+        {
+          "title": "Proteção necessária",
+          "body": "O limite impede que a pensão alimente o vício."
+        },
+        {
+          "title": "Firmeza com caridade",
+          "body": "Ela recusa a cumplicidade e mantém uma ajuda possível."
+        }
+      ]
+    },
+    {
+      "id": "O06",
+      "term_id": "O06",
+      "call_label": "O06 - Pedir ajuda concreta",
+      "case": "Um homem com pensamentos de autodestruição conta ao irmão o que está vivendo e aceita ir ao pronto atendimento. Ele também avisa o diretor espiritual que não pode enfrentar isso sozinho.",
+      "conference_question": "Por que pedir ajuda concreta é ato de responsabilidade e não sinal de fracasso moral?",
+      "anchors": [
+        "CEC 1742",
+        "1Jo 1,8-9",
+        "I12"
+      ],
+      "facilitator_note": "Em risco de autoagressão, encaminhamento imediato e proteção da vida são prioridade.",
+      "reading_points": [
+        {
+          "title": "Risco nomeado",
+          "body": "Ele fala claramente de um perigo que não deve ficar escondido."
+        },
+        {
+          "title": "Ajuda adequada",
+          "body": "Família, atendimento de saúde e acompanhamento espiritual entram em papéis distintos."
+        },
+        {
+          "title": "Vida protegida",
+          "body": "A liberdade cristã inclui buscar socorro quando a pessoa está sem forças."
+        }
+      ]
+    },
+    {
+      "id": "O07",
+      "term_id": "O07",
+      "call_label": "O07 - Ordenar a rotina",
+      "case": "Um trabalhador percebe que noites sem sono e celular até de madrugada alimentam irritação, pornografia e atrasos. Ele define horário para dormir, tira o celular do quarto e retoma oração breve ao acordar.",
+      "conference_question": "Como a organização concreta da rotina pode servir à liberdade espiritual?",
+      "anchors": [
+        "1Cor 6,12",
+        "CEC 1742",
+        "B06"
+      ],
+      "facilitator_note": "Mostre que disciplina externa pode proteger decisões internas.",
+      "reading_points": [
+        {
+          "title": "Desordem prática",
+          "body": "Sono, tela e cansaço criam terreno favorável para quedas."
+        },
+        {
+          "title": "Medidas simples",
+          "body": "Horário, distância do celular e oração tornam a luta concreta."
+        },
+        {
+          "title": "Liberdade educada",
+          "body": "A graça trabalha também por hábitos ordenados."
+        }
+      ]
+    },
+    {
+      "id": "O08",
+      "term_id": "O08",
+      "call_label": "O08 - Corrigir em privado",
+      "case": "Uma mulher descobre que a irmã mentiu sobre uma dívida familiar. Antes de expor no grupo da família, chama a irmã para conversar e pede que ela mesma corrija a informação.",
+      "conference_question": "Quando a correção privada protege melhor a verdade e a dignidade do que a exposição imediata?",
+      "anchors": [
+        "Mt 18,15",
+        "G11",
+        "B14"
+      ],
+      "facilitator_note": "Não absolutize o privado; em risco grave pode haver dever de buscar autoridade adequada.",
+      "reading_points": [
+        {
+          "title": "Erro real",
+          "body": "A mentira precisa ser enfrentada e corrigida."
+        },
+        {
+          "title": "Primeiro passo prudente",
+          "body": "A conversa privada evita humilhação desnecessária e dá chance de reparação."
+        },
+        {
+          "title": "Correção fraterna",
+          "body": "A caridade busca a verdade de modo ordenado."
+        }
+      ]
+    },
+    {
+      "id": "O09",
+      "term_id": "O09",
+      "call_label": "O09 - Romper cumplicidade",
+      "case": "Um administrador de grupo recebe vídeos íntimos vazados e decide apagar, bloquear novos envios e avisar que quem insistir será denunciado. Ele não repassa nem por curiosidade.",
+      "conference_question": "Por que deixar de repassar e interromper a circulação é uma resposta moral concreta?",
+      "anchors": [
+        "Ef 4,25",
+        "Gl 5,13",
+        "I10"
+      ],
+      "facilitator_note": "Seja claro sobre dignidade, crime e cooperação com o dano.",
+      "reading_points": [
+        {
+          "title": "Corte da cadeia",
+          "body": "Apagar e bloquear impedem que a violência se multiplique."
+        },
+        {
+          "title": "Sem curiosidade cúmplice",
+          "body": "Não abrir nem repassar protege a vítima de nova exposição."
+        },
+        {
+          "title": "Caridade ativa",
+          "body": "A liberdade cristã rompe a cumplicidade com o mal."
+        }
+      ]
+    },
+    {
+      "id": "O10",
+      "term_id": "O10",
+      "call_label": "O10 - Rezar com decisão",
+      "case": "Um homem reza todos os dias para vencer a ira e, junto com a oração, combina sair da sala quando começar a gritar e voltar apenas para conversar sem ameaça.",
+      "conference_question": "Como a oração se torna mais verdadeira quando vem acompanhada de decisões concretas de conversão?",
+      "anchors": [
+        "Mt 26,41",
+        "CEC 1742",
+        "G12"
+      ],
+      "facilitator_note": "Mostre a unidade entre pedir a graça e assumir passos verificáveis.",
+      "reading_points": [
+        {
+          "title": "Pedido sincero",
+          "body": "Ele reconhece que precisa da ajuda de Deus."
+        },
+        {
+          "title": "Passo verificável",
+          "body": "Sair da sala antes da agressão torna a conversão concreta."
+        },
+        {
+          "title": "Graça cooperada",
+          "body": "A graça fortalece a liberdade que aceita agir."
+        }
+      ]
+    },
+    {
+      "id": "O11",
+      "term_id": "O11",
+      "call_label": "O11 - Alimentar a graça",
+      "case": "Depois de uma Confissão sincera, uma jovem adulta decide não desaparecer da vida cristã: volta à Missa dominical, lê o Evangelho diariamente e procura acompanhamento regular.",
+      "conference_question": "Por que a liberdade recuperada precisa ser alimentada e não apenas celebrada no dia da mudança?",
+      "anchors": [
+        "Jo 8,36",
+        "B10",
+        "CEC 1742"
+      ],
+      "facilitator_note": "Mostre que perseverança depende de meios de graça, não só de emoção inicial.",
+      "reading_points": [
+        {
+          "title": "Recomeço real",
+          "body": "A Confissão marca uma volta concreta a Deus."
+        },
+        {
+          "title": "Meios estáveis",
+          "body": "Missa, Palavra e acompanhamento sustentam a liberdade recuperada."
+        },
+        {
+          "title": "Vida na graça",
+          "body": "Cristo liberta e alimenta a caminhada de liberdade."
+        }
+      ]
+    },
+    {
+      "id": "O12",
+      "term_id": "O12",
+      "call_label": "O12 - Dizer a verdade inteira",
+      "case": "Um vendedor percebe que omitiu defeitos graves de um carro usado. Antes da assinatura, chama o comprador, explica o problema e aceita renegociar ou perder a venda.",
+      "conference_question": "Por que omitir o essencial pode ser mentira prática, mesmo sem afirmar algo falso diretamente?",
+      "anchors": [
+        "Ef 4,15",
+        "Ef 4,25",
+        "G11"
+      ],
+      "facilitator_note": "Trabalhe verdade integral: clareza necessária, sem manipulação.",
+      "reading_points": [
+        {
+          "title": "Omissão interessada",
+          "body": "O silêncio sobre defeitos graves favorece uma decisão enganada."
+        },
+        {
+          "title": "Custo da verdade",
+          "body": "Dizer tudo pode trazer perda financeira real."
+        },
+        {
+          "title": "Liberdade honesta",
+          "body": "A verdade liberta porque rompe a manipulação."
+        }
+      ]
+    },
+    {
+      "id": "O13",
+      "term_id": "O13",
+      "call_label": "O13 - Escolher o bem possível",
+      "case": "Um homem que saiu da prisão não consegue resolver todos os danos de uma vez. Ele começa mantendo emprego simples, pagando pequena parcela de restituição e evitando antigos contatos criminosos.",
+      "conference_question": "Por que escolher o bem possível hoje é diferente de justificar uma mudança incompleta?",
+      "anchors": [
+        "CEC 1733",
+        "CEC 1742",
+        "B03"
+      ],
+      "facilitator_note": "Mostre que passos pequenos podem ser sérios quando são reais e orientados ao bem.",
+      "reading_points": [
+        {
+          "title": "Limite real",
+          "body": "Ele não consegue reparar tudo imediatamente."
+        },
+        {
+          "title": "Passo concreto",
+          "body": "Trabalho, restituição e afastamento do crime mostram direção nova."
+        },
+        {
+          "title": "Crescimento livre",
+          "body": "A liberdade amadurece praticando o bem possível com perseverança."
+        }
+      ]
+    },
+    {
+      "id": "O14",
+      "term_id": "O14",
+      "call_label": "O14 - Restituir o senhorio",
+      "case": "Um empresário percebe que a empresa virou seu deus: perdeu a saúde, desprezou a família e fraudou impostos. Ele procura regularizar pendências e reorganizar a vida para que o lucro não decida tudo.",
+      "conference_question": "Que mudanças concretas mostram que Deus volta ao centro e que o dinheiro deixa de mandar na consciência?",
+      "anchors": [
+        "Mt 6,24",
+        "B07",
+        "Jo 8,36"
+      ],
+      "facilitator_note": "Evite oposição simplista entre fé e trabalho; trate da ordem dos bens.",
+      "reading_points": [
+        {
+          "title": "Ídolo revelado",
+          "body": "O lucro governava saúde, família e honestidade."
+        },
+        {
+          "title": "Conversão prática",
+          "body": "Regularizar fraudes e reorganizar prioridades tiram o dinheiro do trono."
+        },
+        {
+          "title": "Deus como Senhor",
+          "body": "A liberdade volta quando nenhum bem criado ocupa o lugar de Deus."
+        }
+      ]
+    },
+    {
+      "id": "O15",
+      "term_id": "O15",
+      "call_label": "O15 - Perseverar no caminho",
+      "case": "Depois de meses sem pornografia, um homem recai. Em vez de desistir, bloqueia novamente os acessos, procura seu confessor, retoma o acompanhamento e revisa onde afrouxou a vigilância.",
+      "conference_question": "Como perseverar depois de uma queda sem cair nem no desespero nem na banalização do pecado?",
+      "anchors": [
+        "Lc 15,11-32",
+        "CEC 1742",
+        "B12"
+      ],
+      "facilitator_note": "Una gravidade e esperança: recaída pede verdade, não desistência.",
+      "reading_points": [
+        {
+          "title": "Queda reconhecida",
+          "body": "Ele não finge que a recaída não importou."
+        },
+        {
+          "title": "Retomada concreta",
+          "body": "Busca sacramento, ajuda e revisão das ocasiões de queda."
+        },
+        {
+          "title": "Perseverança cristã",
+          "body": "A liberdade cresce em caminho, com graça, verdade e recomeço."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "title": "Carta de explicações rápidas — Bingo Justiça social",
+  "meeting": "Encontro 08 — Justiça social",
+  "source_calls": "data/chamadas.json",
+  "purpose": "Explicações breves para o condutor usar durante a chamada de cada carta.",
+  "entries": [
+    {
+      "id": "B01",
+      "explanation": "Aqui o erro é medir a pessoa pela renda, pela força ou pela utilidade. A fé começa pela **dignidade transcendente**: cada ser humano vale porque vem de Deus. A justiça social nasce quando essa dignidade orienta leis, serviços e relações."
+    },
+    {
+      "id": "B02",
+      "explanation": "Uma sociedade injusta usa pessoas como peças de obra, lucro ou estatística. O critério cristão afirma que a **pessoa é fim**, não meio descartável. Progresso verdadeiro precisa respeitar quem será atingido."
+    },
+    {
+      "id": "B03",
+      "explanation": "O **bem comum** não é o interesse do grupo mais forte nem a obra mais visível. Ele envolve condições reais para viver com dignidade. A autoridade deve ordenar recursos e decisões para essas condições."
+    },
+    {
+      "id": "B04",
+      "explanation": "Nem tudo que está escrito em norma é moralmente justo. Os **direitos anteriores** nascem da dignidade humana e limitam o poder. A lei positiva deve protegê-los, não esmagá-los."
+    },
+    {
+      "id": "B05",
+      "explanation": "O próximo não é um problema externo nem um incômodo administrativo. O Catecismo manda vê-lo como **outro eu**, com vida e necessidades reais. Isso torna água, saúde, sustento e proteção assuntos de justiça."
+    },
+    {
+      "id": "B06",
+      "explanation": "A **solidariedade cristã** não é pena passageira. É compromisso firme pelo bem do outro, especialmente do frágil. Ela se torna concreta em presença, partilha, defesa e responsabilidade."
+    },
+    {
+      "id": "B07",
+      "explanation": "Tg 5 fala do salário defraudado como clamor que chega a Deus. O **salário justo** sustenta vida, família e dignidade. Reter ou reduzir injustamente esse pagamento é pecado grave contra o trabalhador."
+    },
+    {
+      "id": "B08",
+      "explanation": "Nem toda diferença é injustiça, mas há desigualdades que negam o básico para viver. O Catecismo chama isso de **desigualdade iníqua** e escândalo. Elas ferem a dignidade, a paz e o Evangelho."
+    },
+    {
+      "id": "B09",
+      "explanation": "A caridade cristã não se limita a socorrer depois que o dano aconteceu. A **caridade social** busca corrigir relações, condições e estruturas injustas. Ela une ajuda imediata e transformação responsável."
+    },
+    {
+      "id": "B10",
+      "explanation": "A propriedade privada é legítima, mas não absoluta. O **destino universal dos bens** lembra que a criação de Deus deve servir à vida de todos. Possuir bens traz dever moral diante do bem comum."
+    },
+    {
+      "id": "B11",
+      "explanation": "A **opção pelos pobres** não é desprezo por outros grupos. É prioridade moral diante de quem está mais ferido e vulnerável. Cristo se identifica com os pequenos, famintos, doentes, presos e abandonados."
+    },
+    {
+      "id": "B12",
+      "explanation": "O mal social não aparece apenas em atos isolados. O **pecado social** marca costumes e estruturas quando muitas escolhas injustas se repetem. A resposta exige conversão pessoal e mudança das práticas que sustentam o dano."
+    },
+    {
+      "id": "B13",
+      "explanation": "A paz não é silêncio forçado nem aparência de ordem. **Paz com justiça** exige condições dignas e resolução honesta dos conflitos. Calar a vítima não reconcilia a sociedade."
+    },
+    {
+      "id": "B14",
+      "explanation": "A autoridade existe para servir ao bem comum. Quando vira favorecimento, intimidação ou vantagem privada, perde força moral. A **autoridade como serviço** protege direitos e não se apoia apenas na força."
+    },
+    {
+      "id": "B15",
+      "explanation": "Arrependimento verdadeiro diante da injustiça procura reparar. A **conversão reparadora** reconhece o dano, devolve o possível e muda a prática errada. Zaqueu mostra uma conversão que alcança o dinheiro e as relações."
+    },
+    {
+      "id": "I01",
+      "explanation": "O **salário retido** atinge diretamente comida, aluguel e remédio. Não é detalhe contábil quando o trabalhador já cumpriu sua parte. Tg 5 ensina que esse salário clama diante de Deus."
+    },
+    {
+      "id": "I02",
+      "explanation": "O **trabalho infantil** rouba estudo, descanso e desenvolvimento. A necessidade da família pode ser real, mas não autoriza sacrificar a criança. A resposta justa protege a infância e enfrenta a exploração que a produz."
+    },
+    {
+      "id": "I03",
+      "explanation": "Moradia insalubre não é simples desconforto. Ela adoece, ameaça e impede vida familiar digna. A **justiça social** olha para essas condições concretas, não apenas para ideias gerais de moradia."
+    },
+    {
+      "id": "I04",
+      "explanation": "A **saúde desigual** aparece quando influência e dinheiro pesam mais que necessidade real. O doente não perde dignidade por ser pobre. A prioridade justa deve obedecer ao risco e ao direito, não ao contato pessoal."
+    },
+    {
+      "id": "I05",
+      "explanation": "A **educação negada** fecha portas antes mesmo que a pessoa possa escolher. Sem escola real, transporte e professor, a vocação fica bloqueada. Justiça social exige condições para desenvolver capacidades."
+    },
+    {
+      "id": "I06",
+      "explanation": "Na **contratação discriminatória**, a pessoa é julgada antes de ser conhecida. Endereço, origem, cor ou deficiência não definem valor moral nem capacidade profissional. A dignidade exige avaliação justa e respeito concreto."
+    },
+    {
+      "id": "I07",
+      "explanation": "Transporte indigno rouba tempo, saúde, segurança e convivência familiar. Não é luxo exigir serviço minimamente humano. O **bem comum** inclui condições dignas de deslocamento para trabalhar, estudar e viver."
+    },
+    {
+      "id": "I08",
+      "explanation": "A **dívida abusiva** explora quem está pressionado por necessidade. A assinatura de um contrato não torna tudo justo. A moral cristã pergunta se houve aproveitamento da fragilidade do próximo."
+    },
+    {
+      "id": "I09",
+      "explanation": "O **lucro sobre vício** trata a fraqueza humana como fonte de renda. A liberdade formal do usuário não elimina a responsabilidade de quem explora dependência. A pessoa nunca pode ser reduzida a mecanismo de ganho."
+    },
+    {
+      "id": "I10",
+      "explanation": "No **despejo sem amparo**, a ordem jurídica é aplicada sem cuidado com vidas concretas. Crianças, idosos e doentes não podem ser tratados como obstáculo. Justiça pede prazo, escuta e proteção proporcionais."
+    },
+    {
+      "id": "I11",
+      "explanation": "A **terceirização exploratória** esconde a responsabilidade atrás de contratos. O trabalhador continua tendo dignidade mesmo quando há intermediários. O salário justo e o descanso não desaparecem por causa da forma jurídica."
+    },
+    {
+      "id": "I12",
+      "explanation": "A **corrupção no serviço** transforma direito em favor comprado. Ela fere especialmente quem mais precisa da autoridade pública. Propina não é esperteza; é roubo de justiça."
+    },
+    {
+      "id": "I13",
+      "explanation": "A **compra por necessidade** explora a urgência do outro. A pessoa pode ter aceitado, mas sua liberdade estava diminuída pelo desespero. O próximo não deve ser usado como oportunidade de ganho humilhante."
+    },
+    {
+      "id": "I14",
+      "explanation": "O **descarte do idoso** mede a pessoa pela utilidade. A idade, a doença e a dependência não diminuem a dignidade. Justiça e caridade exigem cuidado concreto com quem já não consegue se defender sozinho."
+    },
+    {
+      "id": "I15",
+      "explanation": "O **lixo na periferia** mostra como riscos podem ser empurrados para quem tem menos voz. Poluição, esgoto e doença não são destino natural dos pobres. Cuidar da criação inclui proteger pessoas atingidas por ambientes degradados."
+    },
+    {
+      "id": "N01",
+      "explanation": "A **meritocracia cega** reconhece o esforço, mas apaga o ponto de partida desigual. Isso transforma barreiras reais em culpa individual. A justiça cristã valoriza responsabilidade pessoal sem negar estruturas injustas."
+    },
+    {
+      "id": "N02",
+      "explanation": "A **culpa total do pobre** simplifica a dor alheia e dispensa compaixão. Pode haver escolhas erradas, mas pobreza também envolve abandono, doença, exploração e falta de oportunidade. O próximo continua sendo próximo."
+    },
+    {
+      "id": "N03",
+      "explanation": "A **riqueza sem dever** trata posse como licença para ignorar os outros. O Evangelho não condena todo bem possuído, mas julga o uso injusto dos bens. Propriedade legítima precisa permanecer ordenada ao bem comum."
+    },
+    {
+      "id": "N04",
+      "explanation": "A **caridade como sobra** ajuda apenas quando não custa nada. Isso pode aliviar a consciência sem tocar a injustiça. A solidariedade cristã organiza tempo, bens e escolhas para servir ao próximo real."
+    },
+    {
+      "id": "N05",
+      "explanation": "**Lei basta** é uma desculpa perigosa. Uma brecha legal pode continuar ferindo dignidade, salário e direito. A consciência cristã pergunta pelo justo, não apenas pelo permitido."
+    },
+    {
+      "id": "N06",
+      "explanation": "**Ideologia para calar** é usar rótulo para fugir dos fatos. Nem toda denúncia social é justa, mas toda denúncia concreta precisa ser examinada com seriedade. A fé manda ouvir o clamor dos feridos antes de encerrar a conversa."
+    },
+    {
+      "id": "N07",
+      "explanation": "O **mercado sem moral** separa lucro de pessoa humana. Preços, juros e contratos podem ser justos ou abusivos. A economia também deve respeitar dignidade, salário e necessidade do próximo."
+    },
+    {
+      "id": "N08",
+      "explanation": "O **Estado salvador** concentra toda responsabilidade e paralisa os próximos. O poder público tem dever real, mas não é o único sujeito da solidariedade. Famílias, comunidades, empresas e cidadãos também respondem diante do sofrimento concreto."
+    },
+    {
+      "id": "N09",
+      "explanation": "**Piedade sem justiça** fala de Deus enquanto aceita exploração conhecida. A oração verdadeira não dispensa conversão das escolhas. Fé madura alcança salário, consumo, contrato e reparação."
+    },
+    {
+      "id": "N10",
+      "explanation": "A **neutralidade confortável** parece prudente, mas muitas vezes protege o mais forte. Quando há ameaça e injustiça, omitir-se pode aumentar o dano. O cristão precisa discernir como agir com segurança sem abandonar o ferido."
+    },
+    {
+      "id": "N11",
+      "explanation": "A **assistência que domina** usa a necessidade do outro para controle, imagem ou dependência. A ajuda material pode ferir se cobrar humilhação. Servir cristãmente exige discrição e respeito à liberdade."
+    },
+    {
+      "id": "N12",
+      "explanation": "A **inveja travestida** chama ressentimento de justiça. Denunciar exploração é necessário, mas odiar uma classe inteira não é virtude. A justiça cristã busca reparação sem desumanizar."
+    },
+    {
+      "id": "N13",
+      "explanation": "A **pobreza romantizada** transforma privação em paisagem bonita. Simplicidade evangélica é uma coisa; falta de comida, remédio e segurança é outra. A opção pelos pobres não idealiza a miséria, combate o que fere a dignidade."
+    },
+    {
+      "id": "N14",
+      "explanation": "A **urgência seletiva** escolhe quais dores merecem atenção. Ela se escandaliza com perdas próximas e ignora sofrimentos sem prestígio. A solidariedade cristã alarga o coração para o próximo ferido, mesmo quando ele não nos favorece."
+    },
+    {
+      "id": "N15",
+      "explanation": "O **jeitinho necessário** chama fraude de sobrevivência. A pressão do sistema pode ser real, mas não autoriza propina ou favorecimento injusto. Corrupção sempre cobra preço dos mais fracos e dos honestos."
+    },
+    {
+      "id": "G01",
+      "explanation": "**Justiça ou vingança** é distinção decisiva. Justiça busca verdade, responsabilização e reparação; vingança quer destruir e humilhar. A dor causada pela injustiça não autoriza desumanizar ninguém."
+    },
+    {
+      "id": "G02",
+      "explanation": "Nem toda diferença é injustiça. **Diferença ou injustiça** se discerne olhando critérios, necessidades e dignidade. A injustiça aparece quando a diferença nega direitos ou condições básicas."
+    },
+    {
+      "id": "G03",
+      "explanation": "**Pessoa ou classe** impede julgamentos automáticos. Renda, origem e cargo não definem toda a pessoa. A justiça cristã examina atos concretos sem favoritismo nem preconceito."
+    },
+    {
+      "id": "G04",
+      "explanation": "**Caridade ou assistencialismo** distingue socorro que promove de ajuda que prende. A cesta pode ser necessária, mas não resolve tudo. A caridade social une alívio imediato, escuta e caminho de dignidade."
+    },
+    {
+      "id": "G05",
+      "explanation": "**Solidariedade ou controle** pergunta se a ajuda respeita a liberdade do outro. O pobre não é incapaz por ser pobre. Acompanhar não é tomar posse da vida de quem recebe ajuda."
+    },
+    {
+      "id": "G06",
+      "explanation": "**Direito ou privilégio** distingue o que é devido da vantagem indevida. Prioridade médica por risco é justa; furar fila por influência não é. A dignidade exige critérios públicos e proporcionais."
+    },
+    {
+      "id": "G07",
+      "explanation": "**Autoridade ou abuso** separa firmeza justa de poder corrompido. A autoridade pode corrigir, proibir e ordenar quando protege o bem comum. Torna-se abuso quando intimida, explora ou busca vantagem privada."
+    },
+    {
+      "id": "G08",
+      "explanation": "**Prudência ou omissão** não são a mesma coisa. Prudência reconhece riscos e prepara uma ação responsável. Omissão usa o medo para abandonar quem sofre injustiça."
+    },
+    {
+      "id": "G09",
+      "explanation": "**Culpa pessoal ou estrutural** evita simplificações. Uma regra injusta pode pressionar pessoas, mas pessoas ainda fazem escolhas. A resposta cristã busca formar consciências e corrigir estruturas."
+    },
+    {
+      "id": "G10",
+      "explanation": "**Propriedade ou idolatria** discerne o uso dos bens. Possuir algo legitimamente não autoriza ignorar o bem comum. A idolatria aparece quando o bem possuído vale mais que a vida do próximo."
+    },
+    {
+      "id": "G11",
+      "explanation": "**Trabalho ou exploração** distingue esforço digno de abuso. Trabalho pode ser exigente e justo quando há acordo, descanso e salário adequado. Exploração usa ameaça e necessidade para aumentar lucro."
+    },
+    {
+      "id": "G12",
+      "explanation": "**Paz ou silêncio imposto** pergunta se o conflito foi resolvido ou apenas calado. A paz cristã não encobre fome, medo ou salário roubado. Sem justiça, o silêncio pode ser cumplicidade."
+    },
+    {
+      "id": "G13",
+      "explanation": "**Denúncia ou humilhação** depende de verdade, proporção e finalidade. Denunciar protege e corrige; humilhar expõe para destruir. O cristão não combate injustiça usando métodos injustos."
+    },
+    {
+      "id": "G14",
+      "explanation": "**Subsidiariedade ou abandono** ordena responsabilidades. A ação local é boa, mas não desculpa a omissão de autoridades e instituições maiores. Cada nível deve fazer sua parte pelo bem comum."
+    },
+    {
+      "id": "G15",
+      "explanation": "**Misericórdia ou permissividade** distingue perdão de banalização do mal. Misericórdia acolhe o pecador e chama à conversão. Também protege vítimas, exige verdade e busca reparação."
+    },
+    {
+      "id": "O01",
+      "explanation": "**Pagar o devido** é uma resposta simples e séria. Salário, dívida justa e contrato não podem ser empurrados para depois enquanto o trabalhador sofre. Justiça social começa por cumprir o que sustenta a vida do outro."
+    },
+    {
+      "id": "O02",
+      "explanation": "**Restituir dano** significa responder ao prejuízo real causado. Desculpas podem ser necessárias, mas não bastam quando alguém perdeu casa, dinheiro ou segurança. A reparação torna visível a conversão."
+    },
+    {
+      "id": "O03",
+      "explanation": "**Denunciar com prova** evita dois erros: calar-se e linchar. Fatos, documentos e instâncias competentes protegem a justiça. A denúncia cristã busca correção e reparação, não espetáculo."
+    },
+    {
+      "id": "O04",
+      "explanation": "**Proteger o vulnerável** pede ação concreta e segura. Não basta lamentar quando alguém não consegue se defender. É preciso acionar responsáveis, preservar a vítima e impedir que o abuso continue."
+    },
+    {
+      "id": "O05",
+      "explanation": "**Revisar consumo** é examinar o que nossas compras sustentam. Nem sempre é possível controlar tudo, mas a ignorância voluntária não é virtude. A fé chama a escolhas proporcionais e responsáveis."
+    },
+    {
+      "id": "O06",
+      "explanation": "**Partilhar com critério** une generosidade e justiça. A ajuda deve chegar a necessidades reais sem humilhar nem favorecer por amizade. Critério não esfria a caridade; pode protegê-la."
+    },
+    {
+      "id": "O07",
+      "explanation": "**Apoiar mediação** é buscar caminho justo quando há conflito real. Mediação não nega a tensão nem abandona direitos. Ela procura escuta, acordo possível, reparação e paz concreta."
+    },
+    {
+      "id": "O08",
+      "explanation": "**Cobrar autoridade** é ato legítimo quando feito de modo ordenado e proporcional. Protocolo, registro, participação e acompanhamento tornam a cobrança mais justa. A autoridade deve servir ao bem comum."
+    },
+    {
+      "id": "O09",
+      "explanation": "**Escutar o atingido** impede que a ajuda vire imposição. Quem sofre injustiça não é objeto mudo de projeto. A resposta cristã começa vendo, aproximando-se e ouvindo a ferida real."
+    },
+    {
+      "id": "O10",
+      "explanation": "**Recusar vantagem injusta** combate a corrupção em escala concreta. Furar fila, aceitar favor indevido ou lucrar com fraude sempre prejudica alguém. A renúncia protege o direito do próximo."
+    },
+    {
+      "id": "O11",
+      "explanation": "**Formar consciência** exige mais que opinião rápida. É preciso unir fé, razão, fatos e humildade para julgar melhor. Sem formação, slogans e preconceitos ocupam o lugar do discernimento cristão."
+    },
+    {
+      "id": "O12",
+      "explanation": "**Servir sem dominar** preserva a dignidade de quem recebe ajuda. O pobre não é vitrine nem instrumento de autopromoção. A caridade cristã prefere discrição, respeito e liberdade."
+    },
+    {
+      "id": "O13",
+      "explanation": "**Acompanhar encaminhamento** torna a ajuda realmente possível. Às vezes entregar um endereço não basta para quem está sem documento, força ou orientação. Acompanhar é remover barreiras sem tomar o lugar da pessoa."
+    },
+    {
+      "id": "O14",
+      "explanation": "**Corrigir contrato** é enfrentar exploração escondida na formalidade. Quem contrata também tem responsabilidade sobre condições indignas que financia. Justiça no trabalho exige salário, descanso e segurança reais."
+    },
+    {
+      "id": "O15",
+      "explanation": "**Rezar e agir** une fé e responsabilidade. A oração purifica a intenção, mas não substitui o pão, o remédio ou a proteção devida. A ação sem oração também pode perder caridade e humildade."
+    }
+  ]
+}

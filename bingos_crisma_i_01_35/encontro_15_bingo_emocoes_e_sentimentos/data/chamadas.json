@@ -1,0 +1,2028 @@
+{
+  "title": "Chamadas — Bingo Emoções e sentimentos",
+  "meeting": "Encontro 15 — Emoções e sentimentos",
+  "source_terms": "data/termos.json",
+  "method": {
+    "read_order": [
+      "call_label",
+      "case",
+      "reading_points"
+    ],
+    "rule": "A cada carta, anuncie código e conceito, leia o caso e explique brevemente a relação usando a Leitura do caso. Depois as equipes marcam o código, se estiver na cartela.",
+    "conference_rule": "Ao fechar duas linhas válidas, horizontais, verticais ou diagonais, a equipe escolhe uma dessas linhas completas, explica pelo menos três conceitos da linha escolhida e liga pelo menos um deles à base bíblica ou doutrinal do encontro. As duas linhas podem se cruzar. O centro livre já conta como casa marcada para completar linhas, mas não conta como um dos três conceitos explicados."
+  },
+  "cards": [
+    {
+      "id": "B01",
+      "term_id": "B01",
+      "call_label": "B01 - Paixões humanas",
+      "case": "Um homem recebe a notícia de que pode perder o emprego e, antes de tomar qualquer decisão, sente aperto no peito, medo e vontade de fugir da conversa com a família.",
+      "conference_question": "Como esse caso ajuda a distinguir uma paixão humana de uma decisão moral já tomada?",
+      "anchors": [
+        "CEC 1763",
+        "CEC 1764"
+      ],
+      "facilitator_note": "Mostre que o sentimento aparece antes da escolha e precisa ser lido, não negado nem obedecido cegamente.",
+      "reading_points": [
+        {
+          "title": "Movimento interior",
+          "body": "O medo e o aperto mostram que a sensibilidade reage a algo percebido como ameaça."
+        },
+        {
+          "title": "Ainda não é escolha",
+          "body": "Sentir vontade de fugir não é o mesmo que abandonar responsabilidades."
+        },
+        {
+          "title": "Lugar de passagem",
+          "body": "O Catecismo ensina que as paixões ligam a vida sensível à vida do espírito e precisam ser conduzidas."
+        }
+      ]
+    },
+    {
+      "id": "B02",
+      "term_id": "B02",
+      "call_label": "B02 - Sentir não é pecado",
+      "case": "Uma mulher sente raiva ao descobrir que foi enganada em uma venda, mas decide esperar, reunir os documentos e reclamar sem insultar o atendente.",
+      "conference_question": "Por que a raiva sentida nesse caso não deve ser confundida automaticamente com pecado?",
+      "anchors": [
+        "CEC 1767",
+        "G01"
+      ],
+      "facilitator_note": "Evite tanto desculpar toda reação quanto condenar o simples aparecimento da emoção.",
+      "reading_points": [
+        {
+          "title": "Raiva sentida",
+          "body": "A emoção nasce diante de uma injustiça concreta e não precisa ser negada."
+        },
+        {
+          "title": "Consentimento moral",
+          "body": "O pecado apareceria se ela alimentasse ódio, mentira ou agressão."
+        },
+        {
+          "title": "Condução cristã",
+          "body": "A razão e a vontade podem ordenar a emoção para uma resposta justa."
+        }
+      ]
+    },
+    {
+      "id": "B03",
+      "term_id": "B03",
+      "call_label": "B03 - Razão e vontade",
+      "case": "Um motorista é fechado no trânsito, segura o impulso de perseguir o outro carro e decide parar no acostamento até recuperar o domínio.",
+      "conference_question": "O que muda quando a pessoa usa razão e vontade antes de transformar emoção em ação?",
+      "anchors": [
+        "CEC 1767",
+        "CEC 1804"
+      ],
+      "facilitator_note": "Destaque que domínio não é frieza, mas governo moral dos atos.",
+      "reading_points": [
+        {
+          "title": "Impulso forte",
+          "body": "A irritação pressiona para uma reação perigosa e imediata."
+        },
+        {
+          "title": "Ato governado",
+          "body": "Parar e esperar mostra que a vontade pode opor obstáculo ao impulso."
+        },
+        {
+          "title": "Virtude concreta",
+          "body": "A moral cristã forma pessoas capazes de escolher o bem sob pressão."
+        }
+      ]
+    },
+    {
+      "id": "B04",
+      "term_id": "B04",
+      "call_label": "B04 - Coração educável",
+      "case": "Depois de semanas vendo vídeos de briga e humilhação, um rapaz percebe que ficou mais impaciente e começou a tratar discussões comuns como ataques pessoais.",
+      "conference_question": "Que relação existe entre aquilo que a pessoa alimenta na mente e a forma como seus sentimentos reagem?",
+      "anchors": [
+        "Fl 4,8",
+        "Rm 12,2",
+        "CEC 1764"
+      ],
+      "facilitator_note": "Mostre que o coração é formado por hábitos concretos, não apenas por boas intenções.",
+      "reading_points": [
+        {
+          "title": "Alimento interior",
+          "body": "O conteúdo consumido molda o modo de perceber as situações."
+        },
+        {
+          "title": "Reação treinada",
+          "body": "A impaciência não surgiu do nada; foi reforçada por repetição."
+        },
+        {
+          "title": "Purificação do olhar",
+          "body": "Fl 4,8 ensina a ocupar o pensamento com o que é verdadeiro, justo e puro."
+        }
+      ]
+    },
+    {
+      "id": "B05",
+      "term_id": "B05",
+      "call_label": "B05 - Amor ordena afetos",
+      "case": "Uma enfermeira cansada sente irritação com um paciente difícil, mas lembra que ele está doente e escolhe falar com firmeza sem desprezo.",
+      "conference_question": "Como o amor ao bem do outro pode ordenar um sentimento desagradável sem fingir que ele não existe?",
+      "anchors": [
+        "CEC 1765",
+        "CEC 1766"
+      ],
+      "facilitator_note": "Explique que o amor cristão não depende de simpatia imediata.",
+      "reading_points": [
+        {
+          "title": "Afeto difícil",
+          "body": "A irritação é real e não desaparece por ordem."
+        },
+        {
+          "title": "Bem amado",
+          "body": "Quando se quer o bem do paciente, a fala não precisa virar desprezo."
+        },
+        {
+          "title": "Caridade ordenadora",
+          "body": "O Catecismo ensina que os afetos são bons se o amor é bom."
+        }
+      ]
+    },
+    {
+      "id": "B06",
+      "term_id": "B06",
+      "call_label": "B06 - Cristo angustiado",
+      "case": "Em uma noite antes de uma cirurgia séria, um homem sente medo e vergonha por estar frágil; ao rezar, percebe que Jesus também conheceu tristeza e angústia.",
+      "conference_question": "Por que a angústia de Cristo no Getsêmani muda a forma cristã de olhar para a fragilidade emocional?",
+      "anchors": [
+        "Mt 26,37-39",
+        "CEC 1762"
+      ],
+      "facilitator_note": "Evite apresentar Jesus como distante da dor humana; destaque sua obediência ao Pai.",
+      "reading_points": [
+        {
+          "title": "Fragilidade humana",
+          "body": "O medo diante da cirurgia mostra uma vulnerabilidade real."
+        },
+        {
+          "title": "Cristo não fingiu",
+          "body": "No Getsêmani, Jesus manifestou tristeza e angústia sem pecado."
+        },
+        {
+          "title": "Oração obediente",
+          "body": "A dor é levada ao Pai e conduzida pela confiança, não pela fuga."
+        }
+      ]
+    },
+    {
+      "id": "B07",
+      "term_id": "B07",
+      "call_label": "B07 - Força na adversidade",
+      "case": "Uma pequena empresa perde um contrato importante; o dono passa dois dias abatido, mas depois chama a equipe para rever contas e decidir o que ainda pode ser feito.",
+      "conference_question": "Como distinguir abatimento compreensível de entrega interior que impede agir pelo bem?",
+      "anchors": [
+        "Pr 24,10",
+        "Sl 42,6"
+      ],
+      "facilitator_note": "Mostre que Pr 24,10 não condena sentir peso, mas alerta contra render-se à adversidade.",
+      "reading_points": [
+        {
+          "title": "Golpe real",
+          "body": "A perda do contrato justifica preocupação e tristeza."
+        },
+        {
+          "title": "Risco do abatimento",
+          "body": "Ficar paralisado destruiria a capacidade de cuidar dos deveres."
+        },
+        {
+          "title": "Fortaleza prática",
+          "body": "A fé chama a levantar o próximo passo possível no dia difícil."
+        }
+      ]
+    },
+    {
+      "id": "B08",
+      "term_id": "B08",
+      "call_label": "B08 - Pensamento purificado",
+      "case": "Uma pessoa acorda ansiosa e passa a manhã repetindo mentalmente as piores possibilidades, até decidir escrever o que é fato, o que é hipótese e o que precisa entregar a Deus.",
+      "conference_question": "Que critério Fl 4,8 oferece para ordenar pensamentos que alimentam emoções desordenadas?",
+      "anchors": [
+        "Fl 4,8",
+        "Rm 12,2"
+      ],
+      "facilitator_note": "Destaque a diferença entre enfrentar fatos e alimentar imaginações destrutivas.",
+      "reading_points": [
+        {
+          "title": "Pensamento que aumenta",
+          "body": "A repetição das piores hipóteses alimenta a ansiedade."
+        },
+        {
+          "title": "Verdade e imaginação",
+          "body": "Separar fato de hipótese ajuda a recuperar o juízo."
+        },
+        {
+          "title": "Disciplina cristã",
+          "body": "O coração deve ser ocupado pelo que é verdadeiro, nobre, justo e puro."
+        }
+      ]
+    },
+    {
+      "id": "B09",
+      "term_id": "B09",
+      "call_label": "B09 - Virtude e domínio",
+      "case": "Um funcionário é provocado em uma reunião e percebe a vontade de responder com ironia, mas escolhe falar apenas o necessário e retomar o tema depois.",
+      "conference_question": "Por que domínio de si não significa ausência de emoção, mas virtude diante dela?",
+      "anchors": [
+        "CEC 1804",
+        "Gl 5,22-23"
+      ],
+      "facilitator_note": "Mostre que a virtude estabiliza o bem quando a emoção está agitada.",
+      "reading_points": [
+        {
+          "title": "Provocação sentida",
+          "body": "A vontade de ferir com ironia aparece sob pressão."
+        },
+        {
+          "title": "Estabilidade do bem",
+          "body": "A pessoa escolhe uma fala proporcional em vez de obedecer à irritação."
+        },
+        {
+          "title": "Domínio como fruto",
+          "body": "A vida no Espírito forma mansidão, paz e autodomínio."
+        }
+      ]
+    },
+    {
+      "id": "B10",
+      "term_id": "B10",
+      "call_label": "B10 - Paz como fruto",
+      "case": "Depois de resolver um conflito familiar com verdade e perdão, ninguém sai eufórico, mas todos conseguem voltar para casa sem gritos e sem ameaça.",
+      "conference_question": "Por que a paz cristã não deve ser confundida com emoção agradável ou ausência de tensão?",
+      "anchors": [
+        "Gl 5,22-23",
+        "Fl 4,8"
+      ],
+      "facilitator_note": "Explique que paz é fruto de ordem, verdade e caridade, não simples sensação boa.",
+      "reading_points": [
+        {
+          "title": "Conflito ainda sério",
+          "body": "A situação não se tornou leve apenas porque houve diálogo."
+        },
+        {
+          "title": "Ordem reconstruída",
+          "body": "A paz aparece quando a verdade é dita sem destruição."
+        },
+        {
+          "title": "Fruto espiritual",
+          "body": "A paz cristã nasce da vida ordenada pelo Espírito."
+        }
+      ]
+    },
+    {
+      "id": "B11",
+      "term_id": "B11",
+      "call_label": "B11 - Ira sem pecado",
+      "case": "Uma moradora vê idosos sendo maltratados em uma fila de atendimento e fica indignada, mas chama a supervisão e registra a denúncia sem ofender os funcionários.",
+      "conference_question": "Como a ira diante de uma injustiça pode ser conduzida sem virar pecado?",
+      "anchors": [
+        "Ef 4,26-27",
+        "Tg 1,19-20",
+        "G09"
+      ],
+      "facilitator_note": "Diferencie indignação justa de agressividade desordenada.",
+      "reading_points": [
+        {
+          "title": "Mal percebido",
+          "body": "A ira surge diante de um tratamento injusto aos frágeis."
+        },
+        {
+          "title": "Risco moral",
+          "body": "A indignação poderia virar insulto, humilhação ou confusão inútil."
+        },
+        {
+          "title": "Justiça ordenada",
+          "body": "Ef 4 permite a ira, mas adverte para não pecar."
+        }
+      ]
+    },
+    {
+      "id": "B12",
+      "term_id": "B12",
+      "call_label": "B12 - Tristeza diante do mal",
+      "case": "Após visitar um parente dependente químico que recaiu, uma irmã chora no caminho de casa e sente cansaço, mas decide não cortar todo contato nem fingir que nada aconteceu.",
+      "conference_question": "Como a tristeza pode reconhecer o mal sem se transformar em fechamento ou desespero?",
+      "anchors": [
+        "Mt 26,37-39",
+        "Sl 42,6",
+        "G10"
+      ],
+      "facilitator_note": "Mostre que a tristeza pode ser honesta e ainda assim precisar de condução.",
+      "reading_points": [
+        {
+          "title": "Dor verdadeira",
+          "body": "A recaída de alguém amado provoca tristeza legítima."
+        },
+        {
+          "title": "Dois desvios",
+          "body": "Cortar tudo por desespero ou fingir normalidade seriam respostas desordenadas."
+        },
+        {
+          "title": "Esperança sofrida",
+          "body": "A tristeza cristã pode permanecer aberta à ajuda, à verdade e à oração."
+        }
+      ]
+    },
+    {
+      "id": "B13",
+      "term_id": "B13",
+      "call_label": "B13 - Esperança cristã",
+      "case": "Uma família recebe um diagnóstico grave e começa a reorganizar a rotina, pedir apoio e rezar, sem prometer cura fácil nem entregar a casa ao desespero.",
+      "conference_question": "O que a esperança cristã faz diante de uma dor que não desaparece imediatamente?",
+      "anchors": [
+        "Pr 24,10",
+        "1Pd 5,7",
+        "Sl 42,6"
+      ],
+      "facilitator_note": "Evite reduzir esperança a otimismo; ela sustenta fidelidade no real.",
+      "reading_points": [
+        {
+          "title": "Realidade pesada",
+          "body": "O diagnóstico grave não é negado nem maquiado."
+        },
+        {
+          "title": "Sem falsa promessa",
+          "body": "A família não usa esperança como garantia de resultado imediato."
+        },
+        {
+          "title": "Confiança ativa",
+          "body": "A esperança entrega a Deus a angústia e move passos concretos."
+        }
+      ]
+    },
+    {
+      "id": "B14",
+      "term_id": "B14",
+      "call_label": "B14 - Graça que integra",
+      "case": "Depois de anos tratando sua fé como obrigação fria, uma mulher percebe que a oração, a confissão e a caridade começaram a mudar também seus desejos e reações.",
+      "conference_question": "Como a graça age na pessoa inteira, e não apenas nas ideias ou regras que ela aceita?",
+      "anchors": [
+        "CEC 1770",
+        "Sl 84,3"
+      ],
+      "facilitator_note": "Explique que a fé cristã não despreza a sensibilidade; ela a cura e ordena.",
+      "reading_points": [
+        {
+          "title": "Mudança concreta",
+          "body": "A transformação aparece também no modo de desejar e reagir."
+        },
+        {
+          "title": "Integração da pessoa",
+          "body": "A graça não salva uma parte abstrata da pessoa."
+        },
+        {
+          "title": "Coração e carne",
+          "body": "CEC 1770 recorda que a perfeição moral envolve também o apetite sensível."
+        }
+      ]
+    },
+    {
+      "id": "B15",
+      "term_id": "B15",
+      "call_label": "B15 - Fim na bem-aventurança",
+      "case": "Um jovem profissional recusa uma proposta muito lucrativa ao perceber que ela exigiria mentir para clientes vulneráveis.",
+      "conference_question": "Como o fim último da vida humana muda a avaliação de prazer, ganho e vantagem imediata?",
+      "anchors": [
+        "CEC 1762",
+        "CEC 1770"
+      ],
+      "facilitator_note": "Destaque que sentimentos e atos precisam ser julgados pelo bem verdadeiro, não apenas pela satisfação.",
+      "reading_points": [
+        {
+          "title": "Vantagem atraente",
+          "body": "O dinheiro e o reconhecimento provocam desejo real."
+        },
+        {
+          "title": "Critério maior",
+          "body": "A vantagem não justifica cooperar com mentira e exploração."
+        },
+        {
+          "title": "Destino humano",
+          "body": "A vida se ordena à bem-aventurança, não ao ganho imediato."
+        }
+      ]
+    },
+    {
+      "id": "I01",
+      "term_id": "I01",
+      "call_label": "I01 - Explosão de raiva",
+      "case": "Durante uma discussão sobre herança, um irmão bate na mesa, chama a irmã de interesseira e depois diz que só falou assim porque estava nervoso.",
+      "conference_question": "Como reconhecer a raiva real sem aceitar que ela justifique a agressão verbal?",
+      "anchors": [
+        "Ef 4,26-27",
+        "Tg 1,19-20",
+        "B11"
+      ],
+      "facilitator_note": "Mostre que nomear a raiva não elimina a responsabilidade pela palavra ferida.",
+      "reading_points": [
+        {
+          "title": "Conflito inflamado",
+          "body": "A disputa familiar desperta tensão e raiva compreensíveis."
+        },
+        {
+          "title": "Palavra ferida",
+          "body": "A emoção foi usada como desculpa para insultar e humilhar."
+        },
+        {
+          "title": "Resposta moral",
+          "body": "A ira precisa ser governada para não abrir espaço ao pecado."
+        }
+      ]
+    },
+    {
+      "id": "I02",
+      "term_id": "I02",
+      "call_label": "I02 - Ansiedade paralisante",
+      "case": "Uma candidata a concurso adia a inscrição, evita abrir o edital e passa os dias imaginando reprovação antes mesmo de começar a estudar.",
+      "conference_question": "Que sinais mostram que a ansiedade deixou de ser alerta e virou paralisação?",
+      "anchors": [
+        "1Pd 5,7",
+        "Pr 24,10",
+        "B13"
+      ],
+      "facilitator_note": "Ajude a distinguir preocupação legítima de bloqueio que impede deveres concretos.",
+      "reading_points": [
+        {
+          "title": "Medo antecipado",
+          "body": "A possibilidade de fracassar ocupa a imaginação antes da ação."
+        },
+        {
+          "title": "Dever evitado",
+          "body": "A pessoa não apenas sente medo; ela deixa de fazer o que precisa."
+        },
+        {
+          "title": "Passo possível",
+          "body": "A fé convida a entregar a ansiedade e retomar uma ação concreta."
+        }
+      ]
+    },
+    {
+      "id": "I03",
+      "term_id": "I03",
+      "call_label": "I03 - Tristeza escondida",
+      "case": "Depois da separação dos pais, um rapaz diz a todos que está tudo normal, mas para de comer direito, abandona compromissos e evita qualquer conversa séria.",
+      "conference_question": "Por que esconder a tristeza pode aumentar o risco de isolamento e desordem interior?",
+      "anchors": [
+        "Mt 26,37-39",
+        "B12",
+        "O05"
+      ],
+      "facilitator_note": "Não force exposição pública; valorize escuta segura e proporcional.",
+      "reading_points": [
+        {
+          "title": "Dor negada",
+          "body": "A fala de normalidade não combina com os sinais concretos de sofrimento."
+        },
+        {
+          "title": "Isolamento perigoso",
+          "body": "Quando a dor fica sem palavra, ela pode governar hábitos e decisões."
+        },
+        {
+          "title": "Caminho humano",
+          "body": "Cristo mesmo pediu companhia no Getsêmani, mostrando que sofrimento não precisa ser escondido."
+        }
+      ]
+    },
+    {
+      "id": "I04",
+      "term_id": "I04",
+      "call_label": "I04 - Inveja silenciosa",
+      "case": "Uma comerciante vê a loja vizinha crescer e começa a espalhar pequenas suspeitas sobre a dona, sem ter prova de nada.",
+      "conference_question": "Como a comparação amarga pode transformar tristeza pelo bem alheio em injustiça concreta?",
+      "anchors": [
+        "CEC 1765",
+        "CEC 1766",
+        "Fl 4,8"
+      ],
+      "facilitator_note": "Mostre que a inveja não é só sentimento escondido; ela pode gerar dano real.",
+      "reading_points": [
+        {
+          "title": "Comparação ferida",
+          "body": "O sucesso da outra loja é percebido como ameaça pessoal."
+        },
+        {
+          "title": "Dano produzido",
+          "body": "A inveja passa da tristeza interior para a calúnia velada."
+        },
+        {
+          "title": "Amor desordenado",
+          "body": "Quando o amor ao próprio destaque governa, os afetos se tornam injustos."
+        }
+      ]
+    },
+    {
+      "id": "I05",
+      "term_id": "I05",
+      "call_label": "I05 - Medo de rejeição",
+      "case": "Em uma equipe de trabalho, uma funcionária percebe fraude em relatórios, mas cala porque teme ser excluída pelos superiores.",
+      "conference_question": "Como distinguir prudência real de medo de rejeição que leva a participar do erro pelo silêncio?",
+      "anchors": [
+        "Pr 24,10",
+        "G11",
+        "O12"
+      ],
+      "facilitator_note": "Evite respostas heroicas simplistas; fale de meios proporcionais e seguros para não cooperar com o mal.",
+      "reading_points": [
+        {
+          "title": "Pressão de pertencimento",
+          "body": "O medo de perder aprovação pesa sobre a decisão."
+        },
+        {
+          "title": "Silêncio cúmplice",
+          "body": "Calar pode proteger a própria imagem e deixar a fraude continuar."
+        },
+        {
+          "title": "Coragem prudente",
+          "body": "A resposta cristã busca a verdade por caminhos proporcionais e responsáveis."
+        }
+      ]
+    },
+    {
+      "id": "I06",
+      "term_id": "I06",
+      "call_label": "I06 - Ciúme controlador",
+      "case": "Um namorado exige ver o celular da namorada todos os dias e diz que, se ela não deve nada, não tem motivo para recusar.",
+      "conference_question": "Como perceber quando insegurança afetiva deixa de ser cuidado e passa a ser controle?",
+      "anchors": [
+        "CEC 1766",
+        "G14",
+        "O12"
+      ],
+      "facilitator_note": "Nomeie o controle com clareza e indique limite seguro, sem romantizar vigilância.",
+      "reading_points": [
+        {
+          "title": "Exigência invasiva",
+          "body": "O pedido diário de acesso ao celular ultrapassa confiança e respeito."
+        },
+        {
+          "title": "Falsa prova",
+          "body": "A frase transforma privacidade legítima em suspeita."
+        },
+        {
+          "title": "Amor sem posse",
+          "body": "Querer o bem do outro não autoriza vigiar e dominar sua liberdade."
+        }
+      ]
+    },
+    {
+      "id": "I07",
+      "term_id": "I07",
+      "call_label": "I07 - Vergonha tóxica",
+      "case": "Depois de cair em um pecado que prometeu abandonar, um homem deixa de rezar e evita a confissão porque conclui que não vale nada.",
+      "conference_question": "Como distinguir vergonha que reconhece o erro de vergonha que destrói a esperança e impede conversão?",
+      "anchors": [
+        "B02",
+        "G02",
+        "O06"
+      ],
+      "facilitator_note": "Fale com firmeza sobre pecado, mas sem confundir culpa moral com perda de dignidade.",
+      "reading_points": [
+        {
+          "title": "Queda real",
+          "body": "O pecado não deve ser minimizado nem chamado de detalhe."
+        },
+        {
+          "title": "Identidade falsa",
+          "body": "Concluir que não vale nada transforma o erro em definição da pessoa."
+        },
+        {
+          "title": "Retorno possível",
+          "body": "A resposta cristã é arrependimento, confissão e retomada do combate."
+        }
+      ]
+    },
+    {
+      "id": "I08",
+      "term_id": "I08",
+      "call_label": "I08 - Alegria desordenada",
+      "case": "Em uma comemoração, alguns adultos começam a zombar de um convidado embriagado e publicam vídeos enquanto riem.",
+      "conference_question": "Quando a alegria deixa de ser celebração de um bem e se torna desordem contra a dignidade de alguém?",
+      "anchors": [
+        "CEC 1767",
+        "G12",
+        "B09"
+      ],
+      "facilitator_note": "Mostre que emoção alegre também precisa de medida moral.",
+      "reading_points": [
+        {
+          "title": "Ambiente festivo",
+          "body": "A alegria do encontro é real e poderia ser boa."
+        },
+        {
+          "title": "Crueldade disfarçada",
+          "body": "A diversão passa a depender da exposição de alguém vulnerável."
+        },
+        {
+          "title": "Medida moral",
+          "body": "Nenhuma emoção boa autoriza perder respeito pela pessoa."
+        }
+      ]
+    },
+    {
+      "id": "I09",
+      "term_id": "I09",
+      "call_label": "I09 - Cansaço moral",
+      "case": "Após semanas sem descanso, uma cuidadora começa a responder com rispidez ao idoso que atende e percebe que está perto de perder a paciência com frequência.",
+      "conference_question": "Como o cansaço pode diminuir a vigilância moral sem eliminar a responsabilidade de buscar ordem e ajuda?",
+      "anchors": [
+        "Pr 24,10",
+        "B09",
+        "O09"
+      ],
+      "facilitator_note": "Reconheça o peso real do cuidado, mas não normalize maus-tratos.",
+      "reading_points": [
+        {
+          "title": "Desgaste acumulado",
+          "body": "A rotina pesada enfraquece a paciência e a clareza."
+        },
+        {
+          "title": "Risco para o outro",
+          "body": "A rispidez com alguém frágil não pode ser tratada como inevitável."
+        },
+        {
+          "title": "Ordem necessária",
+          "body": "Descanso, divisão de responsabilidades e ajuda são respostas morais concretas."
+        }
+      ]
+    },
+    {
+      "id": "I10",
+      "term_id": "I10",
+      "call_label": "I10 - Luto sem palavra",
+      "case": "Após a morte da mãe, um homem volta ao trabalho no dia seguinte, guarda todas as fotos em uma caixa e se irrita quando alguém menciona o assunto.",
+      "conference_question": "Por que o luto precisa de palavra, tempo e oração, sem ser forçado nem negado?",
+      "anchors": [
+        "Mt 26,37-39",
+        "Sl 42,6",
+        "O05"
+      ],
+      "facilitator_note": "Trate o luto com respeito; a carta não exige exposição pessoal da turma.",
+      "reading_points": [
+        {
+          "title": "Perda profunda",
+          "body": "A morte da mãe é um mal presente que provoca tristeza legítima."
+        },
+        {
+          "title": "Fechamento defensivo",
+          "body": "Trabalhar e calar podem ser tentativa de não tocar na dor."
+        },
+        {
+          "title": "Cuidado paciente",
+          "body": "A fé permite chorar, rezar e falar com alguém seguro."
+        }
+      ]
+    },
+    {
+      "id": "I11",
+      "term_id": "I11",
+      "call_label": "I11 - Ressentimento antigo",
+      "case": "Em cada reunião de família, uma tia traz à tona uma ofensa de dez anos atrás e interpreta qualquer gesto do sobrinho como nova prova contra ele.",
+      "conference_question": "Como uma ferida não trabalhada pode passar a governar lembranças e julgamentos?",
+      "anchors": [
+        "Ef 4,26-27",
+        "G09",
+        "O14"
+      ],
+      "facilitator_note": "Diferencie memória responsável de ruminação vingativa.",
+      "reading_points": [
+        {
+          "title": "Ferida persistente",
+          "body": "A ofensa antiga continua presente nas reações atuais."
+        },
+        {
+          "title": "Leitura contaminada",
+          "body": "Tudo passa a ser interpretado como confirmação da mágoa."
+        },
+        {
+          "title": "Perdão com verdade",
+          "body": "A resposta cristã não nega o dano, mas recusa alimentar vingança interior."
+        }
+      ]
+    },
+    {
+      "id": "I12",
+      "term_id": "I12",
+      "call_label": "I12 - Atração imprudente",
+      "case": "Um homem casado percebe atração por uma colega e começa a prolongar conversas privadas, escondendo mensagens da esposa.",
+      "conference_question": "Como distinguir sentir uma atração de consentir nela por escolhas que alimentam perigo moral?",
+      "anchors": [
+        "CEC 1767",
+        "G03",
+        "O02"
+      ],
+      "facilitator_note": "Seja direto: a atração sentida não é licença para alimentar ocasião de pecado.",
+      "reading_points": [
+        {
+          "title": "Atração sentida",
+          "body": "O movimento afetivo pode aparecer sem ter sido escolhido."
+        },
+        {
+          "title": "Ocasião alimentada",
+          "body": "Prolongar conversas escondidas já envolve decisão e consentimento."
+        },
+        {
+          "title": "Prudência exigida",
+          "body": "A resposta adequada é cortar a ambiguidade antes que o pecado cresça."
+        }
+      ]
+    },
+    {
+      "id": "I13",
+      "term_id": "I13",
+      "call_label": "I13 - Humor como fuga",
+      "case": "Sempre que a esposa tenta falar sobre dívidas atrasadas, o marido faz piada, muda de assunto e transforma a conversa em brincadeira.",
+      "conference_question": "Quando o humor deixa de aliviar a tensão e passa a fugir da verdade necessária?",
+      "anchors": [
+        "Fl 4,8",
+        "G13",
+        "O03"
+      ],
+      "facilitator_note": "Mostre que nem toda leveza é ruim, mas fuga persistente impede responsabilidade.",
+      "reading_points": [
+        {
+          "title": "Assunto sério",
+          "body": "As dívidas pedem conversa real e decisão concreta."
+        },
+        {
+          "title": "Fuga disfarçada",
+          "body": "A piada impede tocar na responsabilidade que incomoda."
+        },
+        {
+          "title": "Verdade necessária",
+          "body": "A maturidade exige nomear o problema sem humilhar nem fugir."
+        }
+      ]
+    },
+    {
+      "id": "I14",
+      "term_id": "I14",
+      "call_label": "I14 - Pressão emocional",
+      "case": "Uma mãe exige que a filha adulta entregue parte do salário dizendo: 'Depois de tudo que fiz por você, eu mereço isso', mesmo sabendo que a filha está endividada.",
+      "conference_question": "Como reconhecer manipulação emocional quando culpa e gratidão são usadas para controlar decisões?",
+      "anchors": [
+        "G14",
+        "O12",
+        "CEC 1806"
+      ],
+      "facilitator_note": "Afirme a obrigação de honrar os pais sem legitimar exploração ou manipulação.",
+      "reading_points": [
+        {
+          "title": "Culpa usada",
+          "body": "A gratidão filial é transformada em ferramenta de pressão."
+        },
+        {
+          "title": "Injustiça concreta",
+          "body": "A situação financeira da filha é ignorada para impor uma cobrança."
+        },
+        {
+          "title": "Limite prudente",
+          "body": "Caridade e respeito podem exigir dizer não de modo firme e justo."
+        }
+      ]
+    },
+    {
+      "id": "I15",
+      "term_id": "I15",
+      "call_label": "I15 - Vazio depois do prazer",
+      "case": "Depois de gastar a madrugada consumindo conteúdo inútil e comprando por impulso, uma pessoa acorda atrasada, inquieta e mais vazia do que antes.",
+      "conference_question": "O que esse vazio revela sobre a diferença entre prazer imediato e bem verdadeiro?",
+      "anchors": [
+        "B15",
+        "N09",
+        "Fl 4,8"
+      ],
+      "facilitator_note": "Não trate prazer como mal em si; mostre que ele não é critério último.",
+      "reading_points": [
+        {
+          "title": "Prazer procurado",
+          "body": "A pessoa buscou alívio imediato em consumo e distração."
+        },
+        {
+          "title": "Fruto vazio",
+          "body": "O resultado foi desordem, inquietação e atraso no dever."
+        },
+        {
+          "title": "Bem maior",
+          "body": "O coração precisa ser orientado para o que realmente sustenta a vida."
+        }
+      ]
+    },
+    {
+      "id": "N01",
+      "term_id": "N01",
+      "call_label": "N01 - Sentimento soberano",
+      "case": "Um rapaz encerra um compromisso sério dizendo apenas: 'Não sinto mais nada, então não devo explicação a ninguém'.",
+      "conference_question": "Por que o que alguém sente não basta para decidir se uma obrigação moral continua existindo?",
+      "anchors": [
+        "CEC 1767",
+        "B03",
+        "G03"
+      ],
+      "facilitator_note": "Desmonte a ideia de que emoção é tribunal supremo da verdade e do dever.",
+      "reading_points": [
+        {
+          "title": "Sentimento como regra",
+          "body": "A ausência de afeto é usada como critério total da decisão."
+        },
+        {
+          "title": "Dever ignorado",
+          "body": "Compromissos reais exigem verdade, justiça e responsabilidade."
+        },
+        {
+          "title": "Ordem moral",
+          "body": "A razão e a vontade devem julgar o sentimento à luz do bem."
+        }
+      ]
+    },
+    {
+      "id": "N02",
+      "term_id": "N02",
+      "call_label": "N02 - Ilusão de controle",
+      "case": "Um homem diz que controla a bebida, mas continua comprando garrafas escondidas e faltando ao trabalho depois de beber.",
+      "conference_question": "Que fatos concretos desmontam a afirmação de que ele está no controle?",
+      "anchors": [
+        "CEC 1767",
+        "O02",
+        "O08"
+      ],
+      "facilitator_note": "Mostre que controle real aparece em atos, não em discurso defensivo.",
+      "reading_points": [
+        {
+          "title": "Discurso defensivo",
+          "body": "A pessoa afirma controle enquanto esconde o comportamento."
+        },
+        {
+          "title": "Frutos visíveis",
+          "body": "Faltas, segredo e repetição mostram perda de liberdade prática."
+        },
+        {
+          "title": "Corte necessário",
+          "body": "Prudência exige afastar estímulos e buscar ajuda quando o impulso domina."
+        }
+      ]
+    },
+    {
+      "id": "N03",
+      "term_id": "N03",
+      "call_label": "N03 - Repressão virtuosa",
+      "case": "Um pai perde o filho e diz que cristão forte não chora; meses depois, passa a agir com dureza e irritação com todos em casa.",
+      "conference_question": "Por que negar a dor não é o mesmo que viver fortaleza cristã?",
+      "anchors": [
+        "B02",
+        "B06",
+        "CEC 1763"
+      ],
+      "facilitator_note": "Corrija a falsa espiritualidade que confunde repressão com virtude.",
+      "reading_points": [
+        {
+          "title": "Dor negada",
+          "body": "A perda pede luto, palavra e oração, não máscara de invulnerabilidade."
+        },
+        {
+          "title": "Fruto amargo",
+          "body": "A dor reprimida aparece como dureza contra pessoas próximas."
+        },
+        {
+          "title": "Cristo humano",
+          "body": "Jesus chorou e se angustiou; sentir não destrói a santidade."
+        }
+      ]
+    },
+    {
+      "id": "N04",
+      "term_id": "N04",
+      "call_label": "N04 - Explosão justificada",
+      "case": "Depois de gritar com a atendente de um hospital, um homem diz: 'Quem está preocupado com a mãe tem direito de perder a cabeça'.",
+      "conference_question": "Como reconhecer a dor legítima sem transformá-la em licença para ferir inocentes?",
+      "anchors": [
+        "Ef 4,26-27",
+        "Tg 1,19-20",
+        "B11"
+      ],
+      "facilitator_note": "Nomeie a preocupação real e a injustiça da agressão verbal.",
+      "reading_points": [
+        {
+          "title": "Angústia legítima",
+          "body": "A preocupação com a mãe é séria e humana."
+        },
+        {
+          "title": "Licença falsa",
+          "body": "A dor não dá direito de humilhar quem está atendendo."
+        },
+        {
+          "title": "Ira governada",
+          "body": "A Escritura pede lentidão para a ira e domínio da palavra."
+        }
+      ]
+    },
+    {
+      "id": "N05",
+      "term_id": "N05",
+      "call_label": "N05 - Tristeza como identidade",
+      "case": "Após uma reprovação, uma estudante passa a dizer que é um fracasso e recusa qualquer plano de retomada.",
+      "conference_question": "Como distinguir uma tristeza real de uma narrativa que define a pessoa pelo fracasso?",
+      "anchors": [
+        "B12",
+        "B13",
+        "Sl 42,6"
+      ],
+      "facilitator_note": "Não negue a dor da reprovação; ataque a mentira que transforma episódio em identidade.",
+      "reading_points": [
+        {
+          "title": "Perda concreta",
+          "body": "A reprovação pode gerar tristeza, vergonha e frustração."
+        },
+        {
+          "title": "Identidade falsa",
+          "body": "Dizer 'sou um fracasso' transforma um fato doloroso em sentença total."
+        },
+        {
+          "title": "Esperança responsável",
+          "body": "A fé permite sofrer e ainda buscar o próximo passo."
+        }
+      ]
+    },
+    {
+      "id": "N06",
+      "term_id": "N06",
+      "call_label": "N06 - Ansiedade como destino",
+      "case": "Um trabalhador evita procurar atendimento, organizar dívidas ou conversar com a família porque diz que nasceu ansioso e nada vai mudar.",
+      "conference_question": "Como essa narrativa impede passos reais de cuidado e responsabilidade?",
+      "anchors": [
+        "1Pd 5,7",
+        "Pr 24,10",
+        "O11"
+      ],
+      "facilitator_note": "Evite prometer solução simples; destaque que fatalismo bloqueia ajuda possível.",
+      "reading_points": [
+        {
+          "title": "Sofrimento real",
+          "body": "A ansiedade pode ser pesada e exigir cuidado sério."
+        },
+        {
+          "title": "Fatalismo paralisante",
+          "body": "A frase 'nada vai mudar' dispensa toda ação concreta."
+        },
+        {
+          "title": "Ajuda possível",
+          "body": "Entregar a Deus e pedir auxílio competente não são sinais de fraqueza."
+        }
+      ]
+    },
+    {
+      "id": "N07",
+      "term_id": "N07",
+      "call_label": "N07 - Vingança terapêutica",
+      "case": "Depois de ser traída por uma sócia, uma mulher quer expor conversas privadas nas redes e diz que precisa fazer isso para se curar.",
+      "conference_question": "Por que chamar vingança de cura pode tornar a ferida ainda mais desordenada?",
+      "anchors": [
+        "G09",
+        "O14",
+        "Ef 4,26-27"
+      ],
+      "facilitator_note": "Diferencie denúncia justa de exposição movida por desejo de destruir.",
+      "reading_points": [
+        {
+          "title": "Ferida real",
+          "body": "A traição da sócia precisa ser levada a sério."
+        },
+        {
+          "title": "Cura falsa",
+          "body": "Expor intimidade para ferir não restaura justiça."
+        },
+        {
+          "title": "Perdão exigente",
+          "body": "Renunciar à vingança não impede buscar reparação por meios justos."
+        }
+      ]
+    },
+    {
+      "id": "N08",
+      "term_id": "N08",
+      "call_label": "N08 - Ciúme prova amor",
+      "case": "Uma mulher diz às amigas que o namorado só controla suas roupas e amizades porque a ama demais.",
+      "conference_question": "Como desmontar a falsa ideia de que posse e vigilância são prova de amor?",
+      "anchors": [
+        "G14",
+        "I06",
+        "CEC 1766"
+      ],
+      "facilitator_note": "Seja claro: controle afetivo não é sinal de amor maduro.",
+      "reading_points": [
+        {
+          "title": "Controle romantizado",
+          "body": "Restrições injustas são apresentadas como intensidade afetiva."
+        },
+        {
+          "title": "Liberdade ferida",
+          "body": "A pessoa começa a perder vínculos e decisões legítimas."
+        },
+        {
+          "title": "Amor verdadeiro",
+          "body": "Amar é querer o bem do outro, não possuir sua vida."
+        }
+      ]
+    },
+    {
+      "id": "N09",
+      "term_id": "N09",
+      "call_label": "N09 - Prazer como critério",
+      "case": "Um rapaz justifica trair a namorada dizendo que se sentiu vivo pela primeira vez em meses.",
+      "conference_question": "Por que intensidade emocional e prazer não bastam para tornar uma escolha moralmente boa?",
+      "anchors": [
+        "B15",
+        "CEC 1762",
+        "Fl 4,8"
+      ],
+      "facilitator_note": "Nomeie a traição sem rodeio e mostre que prazer não é critério final.",
+      "reading_points": [
+        {
+          "title": "Experiência intensa",
+          "body": "A emoção forte é usada para dar aparência de verdade ao ato."
+        },
+        {
+          "title": "Bem violado",
+          "body": "A traição fere compromisso, confiança e justiça."
+        },
+        {
+          "title": "Critério cristão",
+          "body": "O bem humano se mede pela verdade e pela finalidade da vida, não pelo prazer."
+        }
+      ]
+    },
+    {
+      "id": "N10",
+      "term_id": "N10",
+      "call_label": "N10 - Impulso sincero",
+      "case": "Em uma reunião, um coordenador interrompe todos e diz frases duras porque 'prefere ser autêntico a ficar medindo palavras'.",
+      "conference_question": "Como distinguir autenticidade de submissão ao primeiro impulso?",
+      "anchors": [
+        "CEC 1767",
+        "G03",
+        "B09"
+      ],
+      "facilitator_note": "Mostre que sinceridade sem caridade e prudência pode ser vaidade agressiva.",
+      "reading_points": [
+        {
+          "title": "Espontaneidade usada",
+          "body": "A pessoa usa autenticidade para justificar falta de domínio."
+        },
+        {
+          "title": "Dano na fala",
+          "body": "Interromper e ferir impede a busca comum da verdade."
+        },
+        {
+          "title": "Liberdade madura",
+          "body": "A virtude permite falar verdade sem obedecer a todo impulso."
+        }
+      ]
+    },
+    {
+      "id": "N11",
+      "term_id": "N11",
+      "call_label": "N11 - Deus não entende",
+      "case": "Uma mulher evita rezar sobre sua depressão e diz que Deus só quer pessoas fortes e alegres diante dEle.",
+      "conference_question": "Como o Getsêmani desmonta a mentira de que Deus não acolhe angústia real?",
+      "anchors": [
+        "Mt 26,37-39",
+        "B06",
+        "1Pd 5,7"
+      ],
+      "facilitator_note": "Afirme que oração não substitui tratamento necessário, mas a dor deve poder entrar na oração.",
+      "reading_points": [
+        {
+          "title": "Imagem falsa de Deus",
+          "body": "A pessoa imagina que precisa esconder sua dor para rezar."
+        },
+        {
+          "title": "Cristo angustiado",
+          "body": "Jesus apresentou sua tristeza ao Pai sem pecado e sem máscara."
+        },
+        {
+          "title": "Confiança filial",
+          "body": "A fé permite lançar sobre Deus as preocupações reais."
+        }
+      ]
+    },
+    {
+      "id": "N12",
+      "term_id": "N12",
+      "call_label": "N12 - Oração sem ação",
+      "case": "Um homem percebe que sua raiva está virando agressão dentro de casa, mas recusa conversa e ajuda dizendo que apenas vai rezar mais.",
+      "conference_question": "Como distinguir oração verdadeira de linguagem religiosa usada para evitar mudança concreta?",
+      "anchors": [
+        "G15",
+        "O04",
+        "O11"
+      ],
+      "facilitator_note": "Valorize a oração e mostre que ela deve abrir caminho para responsabilidade.",
+      "reading_points": [
+        {
+          "title": "Risco concreto",
+          "body": "A agressividade em casa exige resposta imediata e responsável."
+        },
+        {
+          "title": "Fuga religiosa",
+          "body": "Usar a oração para recusar ajuda pode manter o dano."
+        },
+        {
+          "title": "Oração encarnada",
+          "body": "Rezar de verdade deve levar a limite, reparação e busca de auxílio."
+        }
+      ]
+    },
+    {
+      "id": "N13",
+      "term_id": "N13",
+      "call_label": "N13 - Correção como ataque",
+      "case": "Uma médica recebe uma advertência por atrasos repetidos e responde que todos a perseguem porque não aceitam sua personalidade.",
+      "conference_question": "Como distinguir correção justa de ataque pessoal sem cair no orgulho defensivo?",
+      "anchors": [
+        "G02",
+        "G13",
+        "CEC 1804"
+      ],
+      "facilitator_note": "Mostre que nem toda crítica é justa, mas a defesa automática impede exame honesto.",
+      "reading_points": [
+        {
+          "title": "Fato verificável",
+          "body": "Os atrasos repetidos são um comportamento concreto a ser examinado."
+        },
+        {
+          "title": "Defesa emocional",
+          "body": "A pessoa transforma correção de ato em rejeição da pessoa."
+        },
+        {
+          "title": "Crescimento moral",
+          "body": "A virtude aceita ser corrigida quando há verdade a reparar."
+        }
+      ]
+    },
+    {
+      "id": "N14",
+      "term_id": "N14",
+      "call_label": "N14 - Culpa do temperamento",
+      "case": "Um chefe humilha funcionários e depois diz que todos já sabem que ele é explosivo e que precisam aprender a lidar com isso.",
+      "conference_question": "Por que o temperamento pode explicar uma dificuldade, mas não autoriza ferir os outros?",
+      "anchors": [
+        "CEC 1767",
+        "CEC 1735",
+        "B09"
+      ],
+      "facilitator_note": "Trate a influência do temperamento com seriedade sem eliminar responsabilidade moral.",
+      "reading_points": [
+        {
+          "title": "Padrão repetido",
+          "body": "A explosividade virou hábito que atinge outras pessoas."
+        },
+        {
+          "title": "Desculpa pronta",
+          "body": "O temperamento é usado como licença para não mudar."
+        },
+        {
+          "title": "Virtude necessária",
+          "body": "A formação cristã chama a educar inclinações e reparar danos."
+        }
+      ]
+    },
+    {
+      "id": "N15",
+      "term_id": "N15",
+      "call_label": "N15 - Desespero disfarçado",
+      "case": "Depois de várias recaídas, uma pessoa abandona tratamento e confissão dizendo que finalmente aceitou a realidade: ela nunca vai mudar.",
+      "conference_question": "Como distinguir humildade diante da própria fraqueza de desespero que desiste da graça e da ajuda?",
+      "anchors": [
+        "B13",
+        "Pr 24,10",
+        "Sl 42,6"
+      ],
+      "facilitator_note": "Fale com firmeza contra o desespero, sem prometer mudança instantânea.",
+      "reading_points": [
+        {
+          "title": "Fraqueza reconhecida",
+          "body": "As recaídas mostram uma luta séria que não deve ser negada."
+        },
+        {
+          "title": "Lucidez falsa",
+          "body": "Chamar desistência de realidade fecha a porta para graça e auxílio."
+        },
+        {
+          "title": "Esperança concreta",
+          "body": "A resposta cristã retoma tratamento, confissão e próximo passo possível."
+        }
+      ]
+    },
+    {
+      "id": "G01",
+      "term_id": "G01",
+      "call_label": "G01 - Sentir ou consentir",
+      "case": "Uma pessoa sente inveja ao ver a promoção de um colega, mas corta o pensamento de desmerecê-lo e decide parabenizá-lo com sobriedade.",
+      "conference_question": "Como esse caso mostra a diferença entre sentir inveja e consentir nela?",
+      "anchors": [
+        "CEC 1767",
+        "B02"
+      ],
+      "facilitator_note": "Mostre que o combate começa quando a pessoa percebe o movimento interior e não o alimenta.",
+      "reading_points": [
+        {
+          "title": "Sentimento aparecido",
+          "body": "A inveja surge sem ter sido planejada."
+        },
+        {
+          "title": "Consentimento negado",
+          "body": "A pessoa não alimenta desmerecimento nem age para diminuir o outro."
+        },
+        {
+          "title": "Escolha do bem",
+          "body": "A vontade opõe obstáculo ao afeto desordenado e escolhe justiça."
+        }
+      ]
+    },
+    {
+      "id": "G02",
+      "term_id": "G02",
+      "call_label": "G02 - Ato e inclinação",
+      "case": "Um homem percebe inclinação a responder com sarcasmo quando é contrariado, mas prepara por escrito o que precisa dizer para não ferir a esposa.",
+      "conference_question": "Por que uma inclinação difícil não deve ser confundida com o ato que a pessoa escolhe praticar?",
+      "anchors": [
+        "CEC 1767",
+        "CEC 1849",
+        "I07"
+      ],
+      "facilitator_note": "Ajude a evitar tanto a desculpa da inclinação quanto a vergonha que paralisa.",
+      "reading_points": [
+        {
+          "title": "Inclinação percebida",
+          "body": "O sarcasmo aparece como tendência habitual."
+        },
+        {
+          "title": "Ato evitado",
+          "body": "A pessoa escolhe meios concretos para não ferir."
+        },
+        {
+          "title": "Responsabilidade real",
+          "body": "A moral julga o consentimento e os atos, sem negar a luta interior."
+        }
+      ]
+    },
+    {
+      "id": "G03",
+      "term_id": "G03",
+      "call_label": "G03 - Emoção e decisão",
+      "case": "Uma família recebe uma proposta para vender a casa às pressas; o medo das dívidas pesa, mas eles esperam um dia e consultam alguém antes de assinar.",
+      "conference_question": "Como a emoção pode informar uma decisão sem governá-la sozinha?",
+      "anchors": [
+        "CEC 1763",
+        "CEC 1767",
+        "B03"
+      ],
+      "facilitator_note": "Explique que emoção pode indicar urgência, mas não substitui prudência.",
+      "reading_points": [
+        {
+          "title": "Medo informativo",
+          "body": "As dívidas tornam o medo compreensível e relevante."
+        },
+        {
+          "title": "Decisão suspensa",
+          "body": "Esperar e consultar impede que a pressão decida sozinha."
+        },
+        {
+          "title": "Juízo prudente",
+          "body": "A razão e a vontade devem examinar o bem concreto antes do ato."
+        }
+      ]
+    },
+    {
+      "id": "G04",
+      "term_id": "G04",
+      "call_label": "G04 - Culpa e responsabilidade",
+      "case": "Um adolescente criado em ambiente violento repete agressões verbais em casa; ao mesmo tempo, começa a perceber o dano e a buscar ajuda para mudar.",
+      "conference_question": "Como reconhecer fatores que diminuem a responsabilidade sem negar a gravidade objetiva do ato?",
+      "anchors": [
+        "CEC 1735",
+        "CEC 1849"
+      ],
+      "facilitator_note": "Evite julgamento simplista: fatores condicionam, mas não transformam agressão em bem.",
+      "reading_points": [
+        {
+          "title": "História pesada",
+          "body": "O ambiente violento influencia modos de reagir e falar."
+        },
+        {
+          "title": "Ato grave",
+          "body": "A agressão verbal continua sendo um mal que fere pessoas."
+        },
+        {
+          "title": "Responsabilidade crescente",
+          "body": "Ao perceber o dano, a pessoa é chamada a buscar mudança concreta."
+        }
+      ]
+    },
+    {
+      "id": "G05",
+      "term_id": "G05",
+      "call_label": "G05 - Acolhida e aprovação",
+      "case": "Uma amiga escuta alguém que está tomado de ódio pelo ex-marido, permanece próxima, mas não concorda quando ela planeja destruir a reputação dele.",
+      "conference_question": "Como acolher uma pessoa ferida sem aprovar uma resposta injusta?",
+      "anchors": [
+        "B05",
+        "G13",
+        "G15"
+      ],
+      "facilitator_note": "Mostre que caridade não é validar tudo o que a pessoa sente ou quer fazer.",
+      "reading_points": [
+        {
+          "title": "Pessoa acolhida",
+          "body": "A dor da amiga merece escuta e proximidade."
+        },
+        {
+          "title": "Plano injusto",
+          "body": "Destruir reputação por ódio não se torna bom por nascer da ferida."
+        },
+        {
+          "title": "Caridade verdadeira",
+          "body": "Acolher inclui ajudar a pessoa a não pecar contra a justiça."
+        }
+      ]
+    },
+    {
+      "id": "G06",
+      "term_id": "G06",
+      "call_label": "G06 - Prudência e fuga",
+      "case": "Uma mulher evita encontrar sozinha o ex-companheiro que a manipula, mas marca conversa acompanhada para resolver documentos pendentes.",
+      "conference_question": "Como distinguir prudência de fuga quando há risco emocional real e dever concreto a cumprir?",
+      "anchors": [
+        "CEC 1806",
+        "O08",
+        "O15"
+      ],
+      "facilitator_note": "Mostre que prudência não é covardia; ela escolhe meios seguros para cumprir o bem.",
+      "reading_points": [
+        {
+          "title": "Risco reconhecido",
+          "body": "A pessoa sabe que a conversa sozinha a deixa vulnerável."
+        },
+        {
+          "title": "Dever mantido",
+          "body": "Ela não foge dos documentos que precisam ser resolvidos."
+        },
+        {
+          "title": "Meio proporcional",
+          "body": "A prudência busca proteção sem abandonar a responsabilidade."
+        }
+      ]
+    },
+    {
+      "id": "G07",
+      "term_id": "G07",
+      "call_label": "G07 - Paciência e passividade",
+      "case": "Uma funcionária suporta um chefe grosseiro por medo de parecer difícil, mas começa a registrar as agressões e procurar orientação quando os insultos se repetem.",
+      "conference_question": "Quando suportar uma situação deixa de ser paciência e passa a permitir injustiça?",
+      "anchors": [
+        "Pr 24,10",
+        "O12",
+        "B07"
+      ],
+      "facilitator_note": "Evite incentivar confronto imprudente; mostre que paciência pode exigir ação ordenada.",
+      "reading_points": [
+        {
+          "title": "Suportar não basta",
+          "body": "A repetição dos insultos mostra um padrão injusto."
+        },
+        {
+          "title": "Passividade perigosa",
+          "body": "Calado absoluto pode proteger o agressor e aumentar o dano."
+        },
+        {
+          "title": "Fortaleza prudente",
+          "body": "Registrar e buscar orientação são passos proporcionais."
+        }
+      ]
+    },
+    {
+      "id": "G08",
+      "term_id": "G08",
+      "call_label": "G08 - Desabafo e exposição",
+      "case": "Após uma briga conjugal, um homem quase publica detalhes íntimos da esposa, mas decide falar com um conselheiro discreto e capaz de ajudá-lo.",
+      "conference_question": "Como distinguir falar para receber ajuda de expor alguém para descarregar dor?",
+      "anchors": [
+        "Fl 4,8",
+        "O05",
+        "G13"
+      ],
+      "facilitator_note": "Valorize o desabafo seguro e condene a exposição injusta da intimidade.",
+      "reading_points": [
+        {
+          "title": "Dor precisa de palavra",
+          "body": "Guardar tudo sozinho pode aumentar confusão e ressentimento."
+        },
+        {
+          "title": "Exposição injusta",
+          "body": "Publicar intimidade transforma dor em dano contra outra pessoa."
+        },
+        {
+          "title": "Escuta adequada",
+          "body": "Falar com alguém discreto e capaz de ajudar é caminho prudente."
+        }
+      ]
+    },
+    {
+      "id": "G09",
+      "term_id": "G09",
+      "call_label": "G09 - Ira justa e vingança",
+      "case": "Um comerciante descobre que foi roubado por um funcionário e quer recuperar o prejuízo, mas recusa espalhar boatos sobre a família dele.",
+      "conference_question": "Como buscar justiça sem alimentar desejo de destruir quem cometeu o erro?",
+      "anchors": [
+        "Ef 4,26-27",
+        "Tg 1,19-20",
+        "B11"
+      ],
+      "facilitator_note": "Destaque que justiça pode exigir consequência, mas não autoriza crueldade.",
+      "reading_points": [
+        {
+          "title": "Indignação legítima",
+          "body": "O roubo pede reparação e consequência justa."
+        },
+        {
+          "title": "Vingança recusada",
+          "body": "Atacar a família do culpado seria mal adicional."
+        },
+        {
+          "title": "Ira ordenada",
+          "body": "A ira deve servir à justiça, não à destruição."
+        }
+      ]
+    },
+    {
+      "id": "G10",
+      "term_id": "G10",
+      "call_label": "G10 - Tristeza e acídia",
+      "case": "Depois de meses desanimado, um homem deixa de rezar, abandona as obras de caridade que fazia e passa a chamar todo compromisso bom de peso inútil.",
+      "conference_question": "Como distinguir tristeza humana de acídia que abandona o bem espiritual e concreto?",
+      "anchors": [
+        "B12",
+        "Pr 24,10",
+        "Sl 42,6"
+      ],
+      "facilitator_note": "Explique a acídia de modo simples: peso que leva a fugir do bem devido.",
+      "reading_points": [
+        {
+          "title": "Desânimo prolongado",
+          "body": "A tristeza pode ser real e precisa ser acolhida com cuidado."
+        },
+        {
+          "title": "Fuga do bem",
+          "body": "Abandonar oração e caridade por aversão ao bem revela algo mais profundo."
+        },
+        {
+          "title": "Retomada humilde",
+          "body": "A resposta cristã começa por passos pequenos e ajuda adequada."
+        }
+      ]
+    },
+    {
+      "id": "G11",
+      "term_id": "G11",
+      "call_label": "G11 - Medo e covardia",
+      "case": "Um síndico sabe que um morador ameaça idosos no prédio, mas evita comunicar o caso para não se indispor com ninguém.",
+      "conference_question": "Quando o medo deixa de ser prudência e se torna covardia diante do dever?",
+      "anchors": [
+        "Pr 24,10",
+        "B07",
+        "O15"
+      ],
+      "facilitator_note": "Mostre que prudência escolhe meio seguro; covardia abandona o bem por autoproteção.",
+      "reading_points": [
+        {
+          "title": "Medo compreensível",
+          "body": "Enfrentar ameaça real pode causar receio."
+        },
+        {
+          "title": "Dever abandonado",
+          "body": "O silêncio deixa pessoas vulneráveis expostas."
+        },
+        {
+          "title": "Coragem ordenada",
+          "body": "A fortaleza busca uma ação segura e justa, não omissão."
+        }
+      ]
+    },
+    {
+      "id": "G12",
+      "term_id": "G12",
+      "call_label": "G12 - Alegria e euforia",
+      "case": "Após uma vitória esportiva, torcedores saem comemorando, mas alguns começam a quebrar bancos da praça e assustar famílias que passavam.",
+      "conference_question": "Como distinguir alegria por um bem de euforia que perde medida e causa dano?",
+      "anchors": [
+        "CEC 1765",
+        "CEC 1767",
+        "B09"
+      ],
+      "facilitator_note": "Mostre que alegria também precisa ser ordenada pela justiça e pela prudência.",
+      "reading_points": [
+        {
+          "title": "Alegria legítima",
+          "body": "A vitória pode ser celebrada com entusiasmo."
+        },
+        {
+          "title": "Medida perdida",
+          "body": "Quebrar patrimônio e assustar famílias transforma festa em injustiça."
+        },
+        {
+          "title": "Domínio necessário",
+          "body": "Sentimento bom não dispensa responsabilidade pelos atos."
+        }
+      ]
+    },
+    {
+      "id": "G13",
+      "term_id": "G13",
+      "call_label": "G13 - Sinceridade e verdade",
+      "case": "Uma gerente diz a um funcionário que seu desempenho caiu, mas evita insultos e apresenta fatos, consequências e um prazo de melhoria.",
+      "conference_question": "Como dizer a verdade sem usar a sinceridade como desculpa para humilhar?",
+      "anchors": [
+        "Fl 4,8",
+        "Tg 1,19-20",
+        "O02"
+      ],
+      "facilitator_note": "Destaque que verdade cristã exige justiça, caridade e proporção na fala.",
+      "reading_points": [
+        {
+          "title": "Verdade necessária",
+          "body": "O problema de desempenho precisa ser comunicado."
+        },
+        {
+          "title": "Forma justa",
+          "body": "Fatos e prazo substituem ataque pessoal e humilhação."
+        },
+        {
+          "title": "Sinceridade ordenada",
+          "body": "Falar a verdade não elimina o dever de caridade."
+        }
+      ]
+    },
+    {
+      "id": "G14",
+      "term_id": "G14",
+      "call_label": "G14 - Cuidado e controle",
+      "case": "Um filho instala rastreador no celular do pai idoso sem avisar, embora o pai seja lúcido e apenas costume sair sozinho para caminhar.",
+      "conference_question": "Como distinguir proteção prudente de controle indevido sobre a vida do outro?",
+      "anchors": [
+        "CEC 1766",
+        "I06",
+        "O12"
+      ],
+      "facilitator_note": "Mostre que cuidado real precisa respeitar verdade, liberdade e proporção.",
+      "reading_points": [
+        {
+          "title": "Preocupação possível",
+          "body": "A segurança do pai idoso pode ser uma preocupação legítima."
+        },
+        {
+          "title": "Medida invasiva",
+          "body": "Rastrear sem avisar ignora a lucidez e a liberdade dele."
+        },
+        {
+          "title": "Cuidado proporcional",
+          "body": "Amar pede diálogo e medidas adequadas, não domínio escondido."
+        }
+      ]
+    },
+    {
+      "id": "G15",
+      "term_id": "G15",
+      "call_label": "G15 - Misericórdia e banalização",
+      "case": "Um homem pede perdão por gritar com a esposa, e a família responde que não foi nada, embora as crianças estejam assustadas e a agressão se repita.",
+      "conference_question": "Como oferecer misericórdia sem banalizar o mal nem impedir conversão real?",
+      "anchors": [
+        "B05",
+        "CEC 1849",
+        "O07"
+      ],
+      "facilitator_note": "Explique que misericórdia não apaga consequências nem dispensa reparação.",
+      "reading_points": [
+        {
+          "title": "Pedido importante",
+          "body": "Pedir perdão pode ser começo de conversão."
+        },
+        {
+          "title": "Mal minimizado",
+          "body": "Dizer que não foi nada ignora medo, repetição e dano concreto."
+        },
+        {
+          "title": "Misericórdia verdadeira",
+          "body": "Acolher arrependimento exige mudança, reparação e proteção dos feridos."
+        }
+      ]
+    },
+    {
+      "id": "O01",
+      "term_id": "O01",
+      "call_label": "O01 - Nomear o que sente",
+      "case": "Antes de responder a uma mensagem agressiva, uma mulher escreve em um papel: 'Estou com raiva, estou humilhada, estou com medo de parecer fraca'.",
+      "conference_question": "Por que dar nome ao sentimento ajuda a pessoa a não ser governada por ele?",
+      "anchors": [
+        "CEC 1763",
+        "O03",
+        "B04"
+      ],
+      "facilitator_note": "Mostre que nomear não resolve tudo, mas tira a pessoa da confusão inicial.",
+      "reading_points": [
+        {
+          "title": "Confusão organizada",
+          "body": "O papel separa raiva, humilhação e medo em vez de misturar tudo."
+        },
+        {
+          "title": "Distância interior",
+          "body": "Nomear permite olhar o sentimento sem obedecer imediatamente."
+        },
+        {
+          "title": "Começo do discernimento",
+          "body": "A partir do nome, a razão pode perguntar o que é justo fazer."
+        }
+      ]
+    },
+    {
+      "id": "O02",
+      "term_id": "O02",
+      "call_label": "O02 - Pausar antes de agir",
+      "case": "Ao receber uma acusação injusta no aplicativo da empresa, um funcionário digita uma resposta agressiva, apaga tudo e decide responder só no dia seguinte.",
+      "conference_question": "Como a pausa protege a pessoa de transformar emoção forte em pecado ou dano?",
+      "anchors": [
+        "Tg 1,19-20",
+        "CEC 1767",
+        "G03"
+      ],
+      "facilitator_note": "Mostre que pausar é ação concreta, não passividade.",
+      "reading_points": [
+        {
+          "title": "Impulso interrompido",
+          "body": "A resposta agressiva já estava pronta, mas não foi enviada."
+        },
+        {
+          "title": "Tempo para juízo",
+          "body": "Esperar diminui a força do impulso e abre espaço para prudência."
+        },
+        {
+          "title": "Lentidão para a ira",
+          "body": "A Escritura orienta a ser pronto para ouvir e tardio para falar."
+        }
+      ]
+    },
+    {
+      "id": "O03",
+      "term_id": "O03",
+      "call_label": "O03 - Examinar o pensamento",
+      "case": "Uma mãe sente culpa por descansar e percebe que repete a frase: 'Se eu parar, estou abandonando minha família'.",
+      "conference_question": "Como examinar o pensamento que alimenta uma emoção pode revelar uma mentira prática?",
+      "anchors": [
+        "Fl 4,8",
+        "Rm 12,2",
+        "B08"
+      ],
+      "facilitator_note": "Ajude a turma a ver que sentimentos muitas vezes são alimentados por interpretações.",
+      "reading_points": [
+        {
+          "title": "Pensamento escondido",
+          "body": "A culpa nasce ligada a uma frase interior rígida."
+        },
+        {
+          "title": "Verdade testada",
+          "body": "Descansar de modo justo não é abandonar a família."
+        },
+        {
+          "title": "Mente formada",
+          "body": "Fl 4,8 chama a ocupar o pensamento com o que é verdadeiro e justo."
+        }
+      ]
+    },
+    {
+      "id": "O04",
+      "term_id": "O04",
+      "call_label": "O04 - Rezar com verdade",
+      "case": "Um homem entra na capela depois de uma demissão e reza sem enfeitar: 'Senhor, estou com medo e com raiva; não quero mentir para mim nem para Ti'.",
+      "conference_question": "Como rezar com verdade evita tanto a máscara religiosa quanto a entrega ao desespero?",
+      "anchors": [
+        "Mt 26,37-39",
+        "1Pd 5,7",
+        "B06"
+      ],
+      "facilitator_note": "Destaque que oração madura inclui sentimentos reais e submissão à vontade de Deus.",
+      "reading_points": [
+        {
+          "title": "Sem máscara",
+          "body": "A pessoa leva a Deus medo e raiva como realmente estão."
+        },
+        {
+          "title": "Verdade diante do Pai",
+          "body": "A oração não nega a dor nem a transforma em acusação contra Deus."
+        },
+        {
+          "title": "Forma de Cristo",
+          "body": "No Getsêmani, Jesus apresenta a angústia e entrega sua vontade ao Pai."
+        }
+      ]
+    },
+    {
+      "id": "O05",
+      "term_id": "O05",
+      "call_label": "O05 - Conversa confiável",
+      "case": "Uma viúva percebe que está bebendo para dormir e marca conversa com uma amiga madura e discreta antes que isso se torne hábito escondido.",
+      "conference_question": "Que critérios tornam uma conversa realmente confiável e não apenas um desabafo sem direção?",
+      "anchors": [
+        "Mt 26,37-38",
+        "G08",
+        "I03"
+      ],
+      "facilitator_note": "Mostre que ajuda confiável une discrição, maturidade e capacidade de orientar.",
+      "reading_points": [
+        {
+          "title": "Sinal de risco",
+          "body": "Beber para dormir revela sofrimento que precisa de cuidado."
+        },
+        {
+          "title": "Ajuda escolhida",
+          "body": "A viúva procura alguém discreto antes de se isolar no hábito."
+        },
+        {
+          "title": "Companhia necessária",
+          "body": "Mesmo Cristo pediu vigilância e proximidade na hora da angústia."
+        }
+      ]
+    },
+    {
+      "id": "O06",
+      "term_id": "O06",
+      "call_label": "O06 - Confessar desordens",
+      "case": "Depois de alimentar ressentimento e desejar mal a um parente por meses, uma pessoa prepara a confissão nomeando o pecado sem se esconder atrás da mágoa.",
+      "conference_question": "Por que a confissão exige reconhecer o sentimento consentido em pecado, e não apenas a emoção inicial?",
+      "anchors": [
+        "CEC 1849",
+        "G01",
+        "G15"
+      ],
+      "facilitator_note": "Distinga mágoa sentida de ódio alimentado e consentido.",
+      "reading_points": [
+        {
+          "title": "Mágoa inicial",
+          "body": "A ferida pode explicar a origem do ressentimento."
+        },
+        {
+          "title": "Pecado consentido",
+          "body": "Desejar mal por meses já envolve vontade alimentada."
+        },
+        {
+          "title": "Reconciliação concreta",
+          "body": "Confessar é levar a desordem à misericórdia com verdade e propósito."
+        }
+      ]
+    },
+    {
+      "id": "O07",
+      "term_id": "O07",
+      "call_label": "O07 - Reparar palavra ferida",
+      "case": "Um supervisor chama um funcionário de incompetente diante da equipe; depois, reconhece o erro, pede desculpas ao funcionário e corrige a fala diante dos mesmos colegas.",
+      "conference_question": "Por que a reparação da palavra deve considerar onde e como o dano aconteceu?",
+      "anchors": [
+        "Tg 1,19-20",
+        "G13",
+        "G15"
+      ],
+      "facilitator_note": "Mostre que pedido de desculpa privado pode ser insuficiente quando a humilhação foi pública.",
+      "reading_points": [
+        {
+          "title": "Dano público",
+          "body": "A humilhação aconteceu diante da equipe e feriu a reputação."
+        },
+        {
+          "title": "Reparação proporcional",
+          "body": "Corrigir diante dos mesmos colegas enfrenta o alcance do dano."
+        },
+        {
+          "title": "Conversão visível",
+          "body": "A misericórdia pede verdade, reconhecimento e mudança concreta."
+        }
+      ]
+    },
+    {
+      "id": "O08",
+      "term_id": "O08",
+      "call_label": "O08 - Cortar estímulo nocivo",
+      "case": "Percebendo que certos perfis alimentam comparação, inveja e desejo de consumo, uma pessoa deixa de segui-los e limita o tempo de tela à noite.",
+      "conference_question": "Por que cortar estímulos nocivos é prudência, e não medo da realidade?",
+      "anchors": [
+        "Fl 4,8",
+        "G06",
+        "N02"
+      ],
+      "facilitator_note": "Mostre que renúncia concreta protege a liberdade quando já se conhece o dano.",
+      "reading_points": [
+        {
+          "title": "Efeito percebido",
+          "body": "Os conteúdos aumentam inveja, comparação e inquietação."
+        },
+        {
+          "title": "Corte voluntário",
+          "body": "A pessoa não espera estar dominada para mudar o ambiente."
+        },
+        {
+          "title": "Coração guardado",
+          "body": "Fl 4,8 orienta escolher o que alimenta pensamento e afeto."
+        }
+      ]
+    },
+    {
+      "id": "O09",
+      "term_id": "O09",
+      "call_label": "O09 - Ordenar o descanso",
+      "case": "Um pai percebe que, quando dorme pouco por vários dias, grita mais com os filhos; decide reorganizar horários e pedir ajuda na rotina da noite.",
+      "conference_question": "Como descanso ordenado pode ser uma resposta moral ligada à caridade concreta?",
+      "anchors": [
+        "B09",
+        "I09",
+        "CEC 1806"
+      ],
+      "facilitator_note": "Não reduza tudo a sono, mas mostre que corpo cansado fragiliza a prudência.",
+      "reading_points": [
+        {
+          "title": "Padrão reconhecido",
+          "body": "A falta de sono aparece ligada a gritos e impaciência."
+        },
+        {
+          "title": "Responsabilidade prática",
+          "body": "Reorganizar horários e pedir ajuda protege os filhos."
+        },
+        {
+          "title": "Prudência encarnada",
+          "body": "A virtude considera as condições concretas para agir bem."
+        }
+      ]
+    },
+    {
+      "id": "O10",
+      "term_id": "O10",
+      "call_label": "O10 - Servir apesar do humor",
+      "case": "Uma voluntária acorda sem vontade de visitar uma idosa que acompanha, mas avisa que irá por menos tempo e cumpre a visita com respeito.",
+      "conference_question": "Como servir apesar do humor evita tanto falsidade quanto abandono do bem devido?",
+      "anchors": [
+        "CEC 1770",
+        "B09",
+        "O15"
+      ],
+      "facilitator_note": "Mostre que sentimentos podem não acompanhar a vontade no começo, mas podem ser educados pela fidelidade.",
+      "reading_points": [
+        {
+          "title": "Vontade sensível fraca",
+          "body": "A voluntária não sente ânimo para o serviço."
+        },
+        {
+          "title": "Bem preservado",
+          "body": "Ela ajusta a duração, mas não abandona a idosa sem motivo justo."
+        },
+        {
+          "title": "Afeto educado",
+          "body": "A perfeição moral busca integrar também a sensibilidade ao bem."
+        }
+      ]
+    },
+    {
+      "id": "O11",
+      "term_id": "O11",
+      "call_label": "O11 - Pedir ajuda competente",
+      "case": "Uma jovem percebe pensamentos de autodestruição e procura imediatamente um adulto responsável e atendimento profissional, sem ficar sozinha com o risco.",
+      "conference_question": "Por que pedir ajuda competente é resposta prudente quando o sofrimento envolve risco sério?",
+      "anchors": [
+        "B13",
+        "N06",
+        "CEC 1806"
+      ],
+      "facilitator_note": "Conduza com sobriedade: risco de autodestruição exige ajuda imediata de pessoas responsáveis e serviços adequados.",
+      "reading_points": [
+        {
+          "title": "Risco grave",
+          "body": "Pensamentos de autodestruição não devem ser tratados como drama passageiro."
+        },
+        {
+          "title": "Ajuda imediata",
+          "body": "A pessoa busca adulto responsável e atendimento adequado."
+        },
+        {
+          "title": "Prudência e esperança",
+          "body": "A vida deve ser protegida com meios concretos e sem isolamento."
+        }
+      ]
+    },
+    {
+      "id": "O12",
+      "term_id": "O12",
+      "call_label": "O12 - Estabelecer limite justo",
+      "case": "Uma funcionária diz ao colega que não aceitará mais mensagens ofensivas fora do expediente e encaminha os registros ao setor responsável.",
+      "conference_question": "Como estabelecer limite pode unir firmeza, justiça e proteção sem virar vingança?",
+      "anchors": [
+        "G07",
+        "G14",
+        "CEC 1806"
+      ],
+      "facilitator_note": "Mostre que limite justo protege a pessoa e chama a responsabilidade institucional quando necessário.",
+      "reading_points": [
+        {
+          "title": "Abuso repetido",
+          "body": "Mensagens ofensivas fora do expediente invadem e ferem."
+        },
+        {
+          "title": "Limite claro",
+          "body": "A funcionária comunica o que não aceita e guarda registros."
+        },
+        {
+          "title": "Meio proporcional",
+          "body": "Encaminhar ao setor responsável busca proteção e justiça, não revanche."
+        }
+      ]
+    },
+    {
+      "id": "O13",
+      "term_id": "O13",
+      "call_label": "O13 - Alimentar o coração",
+      "case": "Depois de notar que músicas, conversas e vídeos agressivos o deixam mais amargo, um rapaz troca parte do consumo por leitura, silêncio e contato com pessoas sensatas.",
+      "conference_question": "Como escolhas repetidas de conteúdo formam ou deformam os afetos?",
+      "anchors": [
+        "Fl 4,8",
+        "B08",
+        "B04"
+      ],
+      "facilitator_note": "Destaque que formar o coração é disciplina diária, não censura sem sentido.",
+      "reading_points": [
+        {
+          "title": "Influência reconhecida",
+          "body": "O rapaz percebe o efeito do que escuta, vê e conversa."
+        },
+        {
+          "title": "Troca concreta",
+          "body": "Ele substitui parte do alimento nocivo por fontes mais limpas."
+        },
+        {
+          "title": "Formação do coração",
+          "body": "A fé educa o olhar para o que é verdadeiro, justo e virtuoso."
+        }
+      ]
+    },
+    {
+      "id": "O14",
+      "term_id": "O14",
+      "call_label": "O14 - Perdoar sem negar dano",
+      "case": "Uma irmã decide parar de alimentar ódio pelo irmão que a prejudicou, mas mantém distância financeira e exige que qualquer acordo seja registrado por escrito.",
+      "conference_question": "Como perdoar pode caminhar junto com limite e justiça concreta?",
+      "anchors": [
+        "G09",
+        "G15",
+        "I11"
+      ],
+      "facilitator_note": "Evite apresentar perdão como retorno ingênuo à situação de dano.",
+      "reading_points": [
+        {
+          "title": "Ódio renunciado",
+          "body": "Ela não quer mais viver desejando mal ao irmão."
+        },
+        {
+          "title": "Dano reconhecido",
+          "body": "A distância financeira protege de repetição do prejuízo."
+        },
+        {
+          "title": "Perdão ordenado",
+          "body": "A misericórdia não elimina verdade, limite e reparação."
+        }
+      ]
+    },
+    {
+      "id": "O15",
+      "term_id": "O15",
+      "call_label": "O15 - Decidir pelo bem possível",
+      "case": "Depois de um dia de crise, uma pessoa não sente paz nem coragem, mas toma banho, envia a mensagem necessária e comparece ao compromisso que havia assumido.",
+      "conference_question": "Por que esperar sentir disposição perfeita pode impedir o bem que já é possível fazer?",
+      "anchors": [
+        "Pr 24,10",
+        "B07",
+        "B15"
+      ],
+      "facilitator_note": "Mostre que o próximo bem possível é frequentemente pequeno, concreto e fiel.",
+      "reading_points": [
+        {
+          "title": "Sentimento insuficiente",
+          "body": "A pessoa não se sente pronta, forte ou tranquila."
+        },
+        {
+          "title": "Passo concreto",
+          "body": "Ela realiza ações pequenas que retomam responsabilidade."
+        },
+        {
+          "title": "Fortaleza cotidiana",
+          "body": "Pr 24,10 chama a não se deixar abater no dia adverso."
+        }
+      ]
+    }
+  ]
+}

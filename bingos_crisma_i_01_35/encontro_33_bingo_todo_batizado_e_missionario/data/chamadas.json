@@ -1,0 +1,1966 @@
+{
+  "title": "Chamadas — Bingo Todo batizado é missionário",
+  "meeting": "Encontro 33 — Todo batizado é missionário",
+  "source_terms": "data/termos.json",
+  "method": {
+    "read_order": [
+      "call_label",
+      "case",
+      "reading_points"
+    ],
+    "rule": "A cada carta, anuncie código e conceito, leia o caso e explique brevemente a relação usando a Leitura do caso. Depois as equipes marcam o código, se estiver na cartela.",
+    "conference_rule": "Ao fechar duas linhas válidas, horizontais, verticais ou diagonais, a equipe escolhe uma dessas linhas completas, explica pelo menos três conceitos da linha escolhida e liga pelo menos um deles à base bíblica ou doutrinal do encontro. As duas linhas podem se cruzar. O centro livre já conta como casa marcada para completar linhas, mas não conta como um dos três conceitos explicados."
+  },
+  "cards": [
+    {
+      "id": "B01",
+      "term_id": "B01",
+      "call_label": "B01 - Filiação batismal",
+      "case": "Um homem evita dizer que é cristão no trabalho porque acha que religião é só detalhe da infância, embora continue pedindo sacramentos para os filhos.",
+      "conference_question": "O que muda quando a fé é entendida como identidade recebida no Batismo, e não como lembrança familiar ou costume privado?",
+      "anchors": [
+        "CEC 1270",
+        "1Pd 2,9"
+      ],
+      "facilitator_note": "Mostre que o Batismo dá pertença real a Cristo e responsabilidade pública.",
+      "reading_points": [
+        {
+          "title": "Identidade recebida",
+          "body": "O caso mostra alguém tratando a fé como lembrança social, não como filiação batismal."
+        },
+        {
+          "title": "Responsabilidade pública",
+          "body": "O batizado é chamado a professar a fé diante dos homens, sem ostentação e sem vergonha."
+        },
+        {
+          "title": "Missão começa na pertença",
+          "body": "A missão nasce de pertencer a Cristo antes de qualquer atividade religiosa externa."
+        }
+      ]
+    },
+    {
+      "id": "B02",
+      "term_id": "B02",
+      "call_label": "B02 - Envio do Espírito",
+      "case": "Uma mulher quer visitar uma vizinha em luto, mas desiste várias vezes por achar que não terá as palavras certas.",
+      "conference_question": "Como distinguir confiança no Espírito Santo de improvisação irresponsável ou de paralisia por medo?",
+      "anchors": [
+        "At 1,7-8",
+        "CEC 1303"
+      ],
+      "facilitator_note": "Conduza para a ordem de Atos: Espírito, força e testemunho.",
+      "reading_points": [
+        {
+          "title": "Medo real",
+          "body": "A dificuldade não é falta de boa intenção, mas medo de agir apenas com forças próprias."
+        },
+        {
+          "title": "Força recebida",
+          "body": "Atos ensina que o Espírito Santo dá força antes do testemunho."
+        },
+        {
+          "title": "Presença humilde",
+          "body": "A resposta pode começar por presença, oração e palavra simples, não por discurso perfeito."
+        }
+      ]
+    },
+    {
+      "id": "B03",
+      "term_id": "B03",
+      "call_label": "B03 - Testemunho de Cristo",
+      "case": "Um comerciante conhecido por ser católico trata funcionários com justiça, mas também explica com serenidade que sua fé orienta suas decisões.",
+      "conference_question": "Por que testemunhar Cristo exige mais do que parecer uma pessoa correta ou simpática?",
+      "anchors": [
+        "At 1,8",
+        "CEC 2472"
+      ],
+      "facilitator_note": "Evite reduzir testemunho a boa reputação; o centro é Cristo.",
+      "reading_points": [
+        {
+          "title": "Vida visível",
+          "body": "A justiça no trabalho torna o testemunho crível."
+        },
+        {
+          "title": "Centro nomeado",
+          "body": "Ele não aponta apenas para sua honestidade, mas para Cristo que orienta sua vida."
+        },
+        {
+          "title": "Testemunha, não vitrine",
+          "body": "A missão cristã faz a pessoa ver Cristo, não apenas admirar o cristão."
+        }
+      ]
+    },
+    {
+      "id": "B04",
+      "term_id": "B04",
+      "call_label": "B04 - Profissão da fé",
+      "case": "Durante uma conversa sobre decisões difíceis, alguém pergunta diretamente a uma médica por que ela não aceita qualquer solução para abreviar a vida de um paciente.",
+      "conference_question": "Como professar a fé com clareza sem transformar uma resposta moral séria em provocação ou disputa?",
+      "anchors": [
+        "CEC 1270",
+        "CEC 1816"
+      ],
+      "facilitator_note": "Destaque a diferença entre clareza pública e exibicionismo religioso.",
+      "reading_points": [
+        {
+          "title": "Pergunta direta",
+          "body": "A situação pede uma resposta honesta, não uma fuga envergonhada."
+        },
+        {
+          "title": "Fé confessada",
+          "body": "O batizado tem o dever de professar a fé recebida da Igreja."
+        },
+        {
+          "title": "Clareza respeitosa",
+          "body": "A profissão da fé deve ser firme, inteligível e respeitosa diante de temas graves."
+        }
+      ]
+    },
+    {
+      "id": "B05",
+      "term_id": "B05",
+      "call_label": "B05 - Graça antes da tarefa",
+      "case": "Um voluntário aceita ajudar numa ação de visita a famílias pobres, mas começa a tratar tudo como projeto pessoal de eficiência e controle.",
+      "conference_question": "Que sinais mostram que alguém esqueceu que a missão nasce da graça e passou a agir só como dono da tarefa?",
+      "anchors": [
+        "At 1,7-8",
+        "CEC 1303"
+      ],
+      "facilitator_note": "Mostre que missão não é ativismo autossuficiente.",
+      "reading_points": [
+        {
+          "title": "Ativismo religioso",
+          "body": "A ação boa perde o eixo quando vira controle e afirmação pessoal."
+        },
+        {
+          "title": "Primado da graça",
+          "body": "O cristão não se envia sozinho; recebe força e direção de Deus."
+        },
+        {
+          "title": "Humildade missionária",
+          "body": "Rezar, escutar e obedecer protegem a missão de virar obra de vaidade."
+        }
+      ]
+    },
+    {
+      "id": "B06",
+      "term_id": "B06",
+      "call_label": "B06 - Igreja em missão",
+      "case": "Numa comunidade pequena, todos dizem que a evangelização é importante, mas só as mesmas três pessoas assumem visitas, acolhida e preparação das celebrações.",
+      "conference_question": "Por que a missão da Igreja não pode ser tratada como tarefa de poucos voluntários mais disponíveis?",
+      "anchors": [
+        "CEC 1270",
+        "CEC 849"
+      ],
+      "facilitator_note": "Ligue a responsabilidade missionária ao Batismo, não apenas a cargos.",
+      "reading_points": [
+        {
+          "title": "Cansaço de poucos",
+          "body": "O caso mostra uma comunidade que admira a missão sem assumi-la."
+        },
+        {
+          "title": "Povo missionário",
+          "body": "Todo batizado participa da atividade apostólica e missionária do povo de Deus."
+        },
+        {
+          "title": "Responsabilidade comum",
+          "body": "A Igreja evangeliza quando seus membros assumem presença e serviço conforme sua condição."
+        }
+      ]
+    },
+    {
+      "id": "B07",
+      "term_id": "B07",
+      "call_label": "B07 - União com Cristo",
+      "case": "Uma pessoa fala muito de valores cristãos em público, mas há meses abandonou a oração, a Missa e a Confissão.",
+      "conference_question": "Por que a missão perde força quando se separa da união real com Cristo?",
+      "anchors": [
+        "CEC 1303",
+        "Jo 15,5"
+      ],
+      "facilitator_note": "Evite moralismo: a coerência brota da vida unida a Cristo.",
+      "reading_points": [
+        {
+          "title": "Discurso sem fonte",
+          "body": "A pessoa ainda fala de valores, mas vai se afastando da fonte da fé."
+        },
+        {
+          "title": "União necessária",
+          "body": "Ninguém testemunha bem Cristo vivendo como se não precisasse dele."
+        },
+        {
+          "title": "Voltar à fonte",
+          "body": "O caminho passa por oração, sacramentos e conversão concreta."
+        }
+      ]
+    },
+    {
+      "id": "B08",
+      "term_id": "B08",
+      "call_label": "B08 - Dons do Espírito",
+      "case": "Num conflito familiar, um filho quer responder com raiva, outro quer fugir, e a avó pede que todos parem para rezar antes de decidir.",
+      "conference_question": "Como os dons do Espírito ajudam a transformar impulso, medo e raiva em decisão cristã?",
+      "anchors": [
+        "CEC 1303",
+        "Is 11,2"
+      ],
+      "facilitator_note": "Mostre que os dons não são enfeites devocionais, mas auxílio real para agir.",
+      "reading_points": [
+        {
+          "title": "Conflito concreto",
+          "body": "O problema exige mais que boa intenção, porque há raiva e fuga em jogo."
+        },
+        {
+          "title": "Dons para discernir",
+          "body": "Conselho, força, piedade e temor de Deus ajudam a escolher o bem."
+        },
+        {
+          "title": "Decisão guiada",
+          "body": "A oração abre espaço para agir com verdade, caridade e domínio de si."
+        }
+      ]
+    },
+    {
+      "id": "B09",
+      "term_id": "B09",
+      "call_label": "B09 - Coragem da cruz",
+      "case": "Um jovem profissional deixa de usar um pequeno crucifixo no crachá depois que colegas começaram a fazer piadas sobre fanatismo.",
+      "conference_question": "Quando evitar conflito é prudência legítima e quando se torna vergonha da cruz?",
+      "anchors": [
+        "CEC 1303",
+        "2Tm 1,7-8"
+      ],
+      "facilitator_note": "Não force sinais externos; trabalhe o motivo interior da vergonha ou fidelidade.",
+      "reading_points": [
+        {
+          "title": "Pressão social",
+          "body": "A zombaria cria custo real para um sinal simples de fé."
+        },
+        {
+          "title": "Cruz não escondida",
+          "body": "A Confirmação fortalece para não se envergonhar de Cristo e de sua cruz."
+        },
+        {
+          "title": "Coragem ordenada",
+          "body": "A resposta cristã não precisa provocar, mas também não deve negar Cristo por status."
+        }
+      ]
+    },
+    {
+      "id": "B10",
+      "term_id": "B10",
+      "call_label": "B10 - Caridade missionária",
+      "case": "Uma vizinha percebe que um idoso está sem comida suficiente e, em vez de só comentar a situação, combina uma ajuda discreta e procura familiares responsáveis.",
+      "conference_question": "Por que a caridade missionária une anúncio do bem, cuidado concreto e responsabilidade?",
+      "anchors": [
+        "Jo 13,34-35",
+        "Ef 4,15"
+      ],
+      "facilitator_note": "Mostre que caridade não é sentimento vago, mas busca do bem real.",
+      "reading_points": [
+        {
+          "title": "Necessidade vista",
+          "body": "A situação pede mais que pena ou comentário sobre o sofrimento."
+        },
+        {
+          "title": "Bem real",
+          "body": "A caridade procura alimento, proteção e encaminhamento responsável."
+        },
+        {
+          "title": "Sinal de Cristo",
+          "body": "O cuidado concreto torna visível o amor que Cristo manda viver."
+        }
+      ]
+    },
+    {
+      "id": "B11",
+      "term_id": "B11",
+      "call_label": "B11 - Verdade anunciada",
+      "case": "Num velório, uma pessoa consola a família dizendo apenas que o falecido deixou boas lembranças, mas evita qualquer palavra sobre Cristo e a ressurreição.",
+      "conference_question": "Como anunciar a verdade cristã sem transformar a dor do outro em ocasião de discurso frio?",
+      "anchors": [
+        "Mt 28,18-20",
+        "Rm 10,14-15"
+      ],
+      "facilitator_note": "Destaque que a fé cristã oferece esperança concreta, não frases genéricas.",
+      "reading_points": [
+        {
+          "title": "Consolo reduzido",
+          "body": "As boas lembranças ajudam, mas não esgotam a esperança cristã."
+        },
+        {
+          "title": "Cristo anunciado",
+          "body": "Evangelizar inclui falar de Cristo, sua promessa e sua vitória sobre a morte."
+        },
+        {
+          "title": "Palavra com delicadeza",
+          "body": "A verdade deve ser dita com respeito à dor e com linguagem simples."
+        }
+      ]
+    },
+    {
+      "id": "B12",
+      "term_id": "B12",
+      "call_label": "B12 - Vida coerente",
+      "case": "Um empresário publica mensagens religiosas todos os domingos, mas atrasa salários e ameaça quem reclama.",
+      "conference_question": "Por que a incoerência pública pode ferir a evangelização mesmo quando as palavras religiosas são verdadeiras?",
+      "anchors": [
+        "Tg 2,17",
+        "CEC 2044"
+      ],
+      "facilitator_note": "Nomeie o escândalo sem negar a possibilidade de conversão e reparação.",
+      "reading_points": [
+        {
+          "title": "Contradição visível",
+          "body": "A linguagem religiosa é desmentida por uma prática injusta."
+        },
+        {
+          "title": "Obras importam",
+          "body": "A fé sem obras fica morta e perde credibilidade diante dos outros."
+        },
+        {
+          "title": "Conversão necessária",
+          "body": "O testemunho pede justiça concreta, pedido de perdão e reparação possível."
+        }
+      ]
+    },
+    {
+      "id": "B13",
+      "term_id": "B13",
+      "call_label": "B13 - Sal e luz",
+      "case": "Num condomínio marcado por brigas, uma moradora evita fofocas, procura informações corretas e ajuda a organizar uma conversa respeitosa.",
+      "conference_question": "Como ser sal e luz sem querer dominar a situação nem desaparecer diante do conflito?",
+      "anchors": [
+        "Mt 5,13-16",
+        "CEC 1816"
+      ],
+      "facilitator_note": "Mostre que luz não é palco; é presença que ajuda a ver e escolher o bem.",
+      "reading_points": [
+        {
+          "title": "Ambiente estragado",
+          "body": "A fofoca e a confusão deformam a convivência."
+        },
+        {
+          "title": "Presença que preserva",
+          "body": "Ser sal e luz é impedir que o mal se espalhe e iluminar um caminho justo."
+        },
+        {
+          "title": "Ação discreta",
+          "body": "A missão pode aparecer em informação correta, paz e organização respeitosa."
+        }
+      ]
+    },
+    {
+      "id": "B14",
+      "term_id": "B14",
+      "call_label": "B14 - Palavra e ação",
+      "case": "Uma família conhece uma mãe desempregada; alguns querem apenas rezar por ela, outros querem ajudar sem tocar em nenhuma palavra de fé.",
+      "conference_question": "Como unir palavra e ação sem reduzir a missão a discurso nem a assistência muda?",
+      "anchors": [
+        "CEC 1303",
+        "Tg 2,17"
+      ],
+      "facilitator_note": "Conduza para a integração: anunciar, rezar, servir e respeitar o momento.",
+      "reading_points": [
+        {
+          "title": "Duas reduções",
+          "body": "O caso separa oração e ajuda concreta como se uma anulasse a outra."
+        },
+        {
+          "title": "Fé encarnada",
+          "body": "A missão cristã fala e age porque a caridade busca o bem inteiro da pessoa."
+        },
+        {
+          "title": "Resposta integral",
+          "body": "Ajudar, rezar e oferecer esperança podem caminhar juntos com prudência."
+        }
+      ]
+    },
+    {
+      "id": "B15",
+      "term_id": "B15",
+      "call_label": "B15 - Comunhão e envio",
+      "case": "Um pregador leigo começa a publicar ensinamentos duros sem consultar ninguém e se apresenta como mais fiel que toda a comunidade.",
+      "conference_question": "Por que a missão cristã precisa de comunhão com a Igreja para não virar projeto individual?",
+      "anchors": [
+        "CEC 1270",
+        "1Cor 12,4-7"
+      ],
+      "facilitator_note": "Destaque que fidelidade não autoriza isolamento arrogante.",
+      "reading_points": [
+        {
+          "title": "Isolamento perigoso",
+          "body": "A pessoa fala em nome da fé, mas rejeita comunhão e correção."
+        },
+        {
+          "title": "Corpo de Cristo",
+          "body": "Os dons são recebidos para o bem comum, não para superioridade pessoal."
+        },
+        {
+          "title": "Enviado em comunhão",
+          "body": "Quem testemunha Cristo deve permanecer unido à Igreja e ao seu discernimento."
+        }
+      ]
+    },
+    {
+      "id": "I01",
+      "term_id": "I01",
+      "call_label": "I01 - Fé ocultada",
+      "case": "Numa entrevista, a candidata evita mencionar que coordena um serviço católico de caridade porque teme parecer menos moderna.",
+      "conference_question": "Que critério ajuda a distinguir discrição prudente de ocultamento da fé por vergonha?",
+      "anchors": [
+        "B04",
+        "B09"
+      ],
+      "facilitator_note": "Evite impor exposição desnecessária; avalie motivo, pertinência e verdade.",
+      "reading_points": [
+        {
+          "title": "Medo de imagem",
+          "body": "A candidata não mente diretamente, mas apaga uma parte importante da própria vida."
+        },
+        {
+          "title": "Vergonha possível",
+          "body": "Quando a fé é pertinente e verdadeira, escondê-la por status revela fragilidade no testemunho."
+        },
+        {
+          "title": "Profissão simples",
+          "body": "Assumir a fé pode ser feito com naturalidade, sem transformar a entrevista em pregação."
+        }
+      ]
+    },
+    {
+      "id": "I02",
+      "term_id": "I02",
+      "call_label": "I02 - Conversa sobre Deus",
+      "case": "No intervalo de um plantão, um enfermeiro conta que perdeu a fé depois de ver muito sofrimento, e uma colega cristã percebe que a resposta não pode ser apressada.",
+      "conference_question": "Como falar de Deus diante de uma dor real sem fugir da pergunta nem responder com frases prontas?",
+      "anchors": [
+        "1Pd 3,15",
+        "B11"
+      ],
+      "facilitator_note": "Mostre que anúncio exige escuta, respeito e esperança concreta.",
+      "reading_points": [
+        {
+          "title": "Pergunta ferida",
+          "body": "A dúvida nasce de sofrimento visto de perto, não de simples provocação."
+        },
+        {
+          "title": "Escuta necessária",
+          "body": "Responder bem exige ouvir antes de explicar."
+        },
+        {
+          "title": "Esperança com razão",
+          "body": "A fé pode ser apresentada como esperança em Cristo, não como negação da dor."
+        }
+      ]
+    },
+    {
+      "id": "I03",
+      "term_id": "I03",
+      "call_label": "I03 - Rede que escandaliza",
+      "case": "Uma conta que posta versículos também compartilha humilhações, acusações sem prova e comentários cruéis sobre pessoas públicas.",
+      "conference_question": "Por que o comportamento digital também faz parte do testemunho cristão?",
+      "anchors": [
+        "B12",
+        "CEC 2044"
+      ],
+      "facilitator_note": "Trate redes sociais como espaço moral real, não como brincadeira sem consequência.",
+      "reading_points": [
+        {
+          "title": "Dupla mensagem",
+          "body": "A mesma conta anuncia coisas boas e espalha crueldade."
+        },
+        {
+          "title": "Escândalo público",
+          "body": "A incoerência digital enfraquece a credibilidade do testemunho."
+        },
+        {
+          "title": "Conversão online",
+          "body": "A missão inclui cortar mentira, agressão e vaidade também nas redes."
+        }
+      ]
+    },
+    {
+      "id": "I04",
+      "term_id": "I04",
+      "call_label": "I04 - Família sem perdão",
+      "case": "Depois de uma partilha de herança, irmãos passam anos sem se falar e usam festas familiares para reabrir acusações antigas.",
+      "conference_question": "Como a fé missionária aparece numa família ferida sem negar a justiça nem forçar reconciliação falsa?",
+      "anchors": [
+        "Jo 13,34-35",
+        "B10"
+      ],
+      "facilitator_note": "Diferencie perdão, reparação e convivência possível.",
+      "reading_points": [
+        {
+          "title": "Ferida prolongada",
+          "body": "O conflito virou modo permanente de relação."
+        },
+        {
+          "title": "Caridade exigente",
+          "body": "A fé chama a buscar perdão e verdade, não a alimentar ressentimento."
+        },
+        {
+          "title": "Passo possível",
+          "body": "Um pedido de perdão, uma conversa mediada ou uma reparação concreta podem iniciar caminho."
+        }
+      ]
+    },
+    {
+      "id": "I05",
+      "term_id": "I05",
+      "call_label": "I05 - Convite à fé",
+      "case": "Uma mulher percebe que a vizinha voltou a falar de Deus depois de anos afastada e pensa em convidá-la para a Missa dominical, mas teme parecer invasiva.",
+      "conference_question": "Como fazer um convite de fé que respeite a liberdade e ainda seja claro?",
+      "anchors": [
+        "B11",
+        "O05"
+      ],
+      "facilitator_note": "Mostre que convite respeitoso não é pressão nem omissão.",
+      "reading_points": [
+        {
+          "title": "Porta aberta",
+          "body": "A conversa indica uma abertura real para a fé."
+        },
+        {
+          "title": "Medo de invadir",
+          "body": "O receio pode proteger a liberdade, mas também pode esconder covardia."
+        },
+        {
+          "title": "Convite livre",
+          "body": "A resposta adequada é convidar com simplicidade e aceitar a decisão da pessoa."
+        }
+      ]
+    },
+    {
+      "id": "I06",
+      "term_id": "I06",
+      "call_label": "I06 - Doente esquecido",
+      "case": "Um idoso que antes ajudava muita gente passa meses acamado, e quase ninguém da rua o visita porque a doença incomoda.",
+      "conference_question": "O que torna a visita e o cuidado aos doentes uma forma concreta de missão?",
+      "anchors": [
+        "Mt 25,35-40",
+        "B10"
+      ],
+      "facilitator_note": "Evite idealizar cuidado; fale de presença possível e responsável.",
+      "reading_points": [
+        {
+          "title": "Isolamento",
+          "body": "A doença afastou as pessoas justamente quando a presença se tornou mais necessária."
+        },
+        {
+          "title": "Cristo no frágil",
+          "body": "O Evangelho reconhece Cristo no enfermo, no faminto e no abandonado."
+        },
+        {
+          "title": "Cuidado proporcional",
+          "body": "Visitar, levar alimento, avisar familiares ou procurar ajuda são respostas missionárias concretas."
+        }
+      ]
+    },
+    {
+      "id": "I07",
+      "term_id": "I07",
+      "call_label": "I07 - Vizinhança ferida",
+      "case": "Após um furto no bairro, moradores começam a acusar uma família recém-chegada sem prova, e a tensão cresce no grupo de mensagens.",
+      "conference_question": "Como ser presença cristã pacificadora sem ignorar a necessidade de segurança e justiça?",
+      "anchors": [
+        "Mt 5,9",
+        "B13"
+      ],
+      "facilitator_note": "Mostre que paz cristã não é ingenuidade, mas verdade com justiça.",
+      "reading_points": [
+        {
+          "title": "Acusação sem prova",
+          "body": "O medo coletivo está virando injustiça contra pessoas concretas."
+        },
+        {
+          "title": "Paz com verdade",
+          "body": "Ser pacificador exige conter boatos e buscar informação correta."
+        },
+        {
+          "title": "Ação ordenada",
+          "body": "O caminho passa por diálogo, registro adequado e proteção sem linchamento."
+        }
+      ]
+    },
+    {
+      "id": "I08",
+      "term_id": "I08",
+      "call_label": "I08 - Trabalho desonesto",
+      "case": "Num escritório, todos alteram pequenas datas em relatórios para evitar multas, e quem se recusa é chamado de problemático.",
+      "conference_question": "Por que a fidelidade cristã no trabalho pode exigir contrariar uma rotina aceita pelo ambiente?",
+      "anchors": [
+        "B12",
+        "Tg 2,17"
+      ],
+      "facilitator_note": "Trate a honestidade como testemunho concreto, não como ingenuidade.",
+      "reading_points": [
+        {
+          "title": "Fraude normalizada",
+          "body": "A mentira foi tratada como prática comum e sem gravidade."
+        },
+        {
+          "title": "Coerência exigida",
+          "body": "O cristão não pode separar fé dominical e desonestidade profissional."
+        },
+        {
+          "title": "Testemunho custoso",
+          "body": "Recusar a fraude pode trazer pressão, mas preserva a verdade e a justiça."
+        }
+      ]
+    },
+    {
+      "id": "I09",
+      "term_id": "I09",
+      "call_label": "I09 - Dor sem sentido",
+      "case": "Um homem perde o emprego depois de anos de dedicação e começa a dizer que Deus o abandonou.",
+      "conference_question": "Como uma presença cristã pode acolher a dor sem confirmar a mentira de que Deus abandonou a pessoa?",
+      "anchors": [
+        "2Cor 5,20",
+        "B10"
+      ],
+      "facilitator_note": "Evite respostas fáceis sobre sofrimento; una presença e esperança.",
+      "reading_points": [
+        {
+          "title": "Dor concreta",
+          "body": "A perda do trabalho atinge sustento, dignidade e futuro."
+        },
+        {
+          "title": "Risco espiritual",
+          "body": "O sofrimento pode virar leitura falsa sobre Deus."
+        },
+        {
+          "title": "Embaixador de Cristo",
+          "body": "A testemunha cristã pode oferecer presença, ajuda e esperança sem banalizar a perda."
+        }
+      ]
+    },
+    {
+      "id": "I10",
+      "term_id": "I10",
+      "call_label": "I10 - Ambiente de deboche",
+      "case": "Durante um almoço de família, alguns parentes começam a zombar da Igreja e olham para a única pessoa praticante esperando reação.",
+      "conference_question": "Como responder ao deboche sem negar a fé e sem transformar a mesa em campo de batalha?",
+      "anchors": [
+        "B09",
+        "2Tm 1,7-8"
+      ],
+      "facilitator_note": "Destaque firmeza, domínio de si e escolha do momento.",
+      "reading_points": [
+        {
+          "title": "Pressão provocada",
+          "body": "O deboche tenta obrigar a pessoa a calar por vergonha ou reagir com raiva."
+        },
+        {
+          "title": "Coragem cristã",
+          "body": "A fé não deve ser negada por medo de zombaria."
+        },
+        {
+          "title": "Resposta prudente",
+          "body": "Uma frase firme e serena pode marcar posição sem alimentar agressão."
+        }
+      ]
+    },
+    {
+      "id": "I11",
+      "term_id": "I11",
+      "call_label": "I11 - Festa sem limites",
+      "case": "Numa comemoração de empresa, a pressão por bebida e comportamentos imprudentes cresce, e alguns casados começam a tratar a infidelidade como piada.",
+      "conference_question": "Que critérios ajudam um cristão a decidir limites concretos em ambientes de pressão e excesso?",
+      "anchors": [
+        "Gl 5,22-23",
+        "B12"
+      ],
+      "facilitator_note": "Nomeie temperança e fidelidade sem tom moralista superficial.",
+      "reading_points": [
+        {
+          "title": "Pressão do ambiente",
+          "body": "A festa normaliza excessos e brincadeiras que ferem compromissos sérios."
+        },
+        {
+          "title": "Liberdade ordenada",
+          "body": "Temperança e fidelidade protegem a pessoa de agir por impulso ou aprovação."
+        },
+        {
+          "title": "Limite concreto",
+          "body": "A resposta pode ser sair, recusar bebida, cortar conversa ou proteger o vínculo conjugal."
+        }
+      ]
+    },
+    {
+      "id": "I12",
+      "term_id": "I12",
+      "call_label": "I12 - Luto sem esperança",
+      "case": "Uma mãe enterra o filho e se irrita quando alguém diz rapidamente que ela precisa ser forte, sem permanecer ao lado dela.",
+      "conference_question": "Como testemunhar esperança cristã no luto sem apagar a dor real de quem sofre?",
+      "anchors": [
+        "1Ts 4,13",
+        "B03"
+      ],
+      "facilitator_note": "Mostre que esperança cristã não é pressa para a pessoa parar de sofrer.",
+      "reading_points": [
+        {
+          "title": "Consolo apressado",
+          "body": "A frase tenta encerrar a dor em vez de acompanhá-la."
+        },
+        {
+          "title": "Esperança cristã",
+          "body": "A fé não nega o choro, mas o coloca diante de Cristo ressuscitado."
+        },
+        {
+          "title": "Presença fiel",
+          "body": "Ficar, escutar e rezar podem testemunhar mais que muitas explicações."
+        }
+      ]
+    },
+    {
+      "id": "I13",
+      "term_id": "I13",
+      "call_label": "I13 - Serviço escondido",
+      "case": "Um homem paga discretamente a conta de luz de uma família em dificuldade e pede que seu nome não seja comentado.",
+      "conference_question": "Por que um serviço escondido pode ser missionário mesmo sem visibilidade pública?",
+      "anchors": [
+        "Mt 6,1-4",
+        "B10"
+      ],
+      "facilitator_note": "Mostre que oculto não é irrelevante; a intenção também forma o testemunho.",
+      "reading_points": [
+        {
+          "title": "Ajuda concreta",
+          "body": "A necessidade é real e a resposta não fica só em palavras."
+        },
+        {
+          "title": "Sem vitrine",
+          "body": "O bem é feito sem usar a pobreza alheia para autopromoção."
+        },
+        {
+          "title": "Caridade diante de Deus",
+          "body": "O Pai vê o que é feito em segredo e a missão permanece limpa."
+        }
+      ]
+    },
+    {
+      "id": "I14",
+      "term_id": "I14",
+      "call_label": "I14 - Discussão pública",
+      "case": "Numa rede social, uma postagem acusa falsamente a Igreja de uma doutrina que ela não ensina, e os comentários viram insultos.",
+      "conference_question": "Como defender a fé numa discussão pública sem cair na mesma violência verbal do ambiente?",
+      "anchors": [
+        "1Pd 3,15",
+        "Ef 4,15"
+      ],
+      "facilitator_note": "Oriente para corrigir o erro com fonte, limite e mansidão.",
+      "reading_points": [
+        {
+          "title": "Erro divulgado",
+          "body": "A acusação falsa pode confundir muitas pessoas."
+        },
+        {
+          "title": "Risco da briga",
+          "body": "Responder com insultos desmente a própria defesa da fé."
+        },
+        {
+          "title": "Correção serena",
+          "body": "A resposta cristã apresenta a verdade com mansidão, fonte confiável e limite."
+        }
+      ]
+    },
+    {
+      "id": "I15",
+      "term_id": "I15",
+      "call_label": "I15 - Comunidade ausente",
+      "case": "Uma capela precisa de pessoas para visitar enfermos e preparar a liturgia, mas muitos batizados só aparecem quando precisam de um documento ou sacramento.",
+      "conference_question": "O que revela uma relação com a Igreja que só procura receber, mas não assume missão?",
+      "anchors": [
+        "B06",
+        "CEC 1270"
+      ],
+      "facilitator_note": "Evite acusação genérica; mostre o vínculo entre pertença e responsabilidade.",
+      "reading_points": [
+        {
+          "title": "Consumo religioso",
+          "body": "A comunidade é procurada como serviço, não como corpo do qual se participa."
+        },
+        {
+          "title": "Batismo compromete",
+          "body": "A pertença a Cristo inclui participar da missão do povo de Deus."
+        },
+        {
+          "title": "Compromisso possível",
+          "body": "Cada pessoa pode assumir uma presença concreta conforme sua condição real."
+        }
+      ]
+    },
+    {
+      "id": "N01",
+      "term_id": "N01",
+      "call_label": "N01 - Missão distante",
+      "case": "Um paroquiano diz que admira missionários em outros continentes, mas nunca pensou que sua própria família ferida pudesse ser lugar de testemunho.",
+      "conference_question": "Por que imaginar a missão apenas longe pode servir como desculpa para não testemunhar onde se vive?",
+      "anchors": [
+        "At 1,8",
+        "CEC 1270"
+      ],
+      "facilitator_note": "Mostre a sequência de Atos: Jerusalém, Judeia, Samaria e confins.",
+      "reading_points": [
+        {
+          "title": "Admiração que distancia",
+          "body": "A pessoa respeita a missão, mas a coloca sempre em outro lugar."
+        },
+        {
+          "title": "Envio próximo",
+          "body": "Atos começa pelo lugar onde os discípulos estão antes de falar dos confins."
+        },
+        {
+          "title": "Testemunho cotidiano",
+          "body": "Casa, trabalho, bairro e redes também são lugares de missão."
+        }
+      ]
+    },
+    {
+      "id": "N02",
+      "term_id": "N02",
+      "call_label": "N02 - Fé privada",
+      "case": "Num debate sobre liberdade religiosa, alguém afirma que cada um pode crer no que quiser desde que nunca deixe isso aparecer em decisões públicas.",
+      "conference_question": "Como distinguir respeito à liberdade dos outros de uma tentativa de apagar a fé da vida concreta?",
+      "anchors": [
+        "CEC 1270",
+        "CEC 1816"
+      ],
+      "facilitator_note": "Evite politização; foque no dever cristão de professar a fé diante dos homens.",
+      "reading_points": [
+        {
+          "title": "Privatização forçada",
+          "body": "A frase tolera a fé apenas se ela não orientar escolhas visíveis."
+        },
+        {
+          "title": "Fé recebida",
+          "body": "O Batismo obriga a professar diante dos homens a fé recebida da Igreja."
+        },
+        {
+          "title": "Presença respeitosa",
+          "body": "A fé pode aparecer na vida pública sem negar a dignidade de quem discorda."
+        }
+      ]
+    },
+    {
+      "id": "N03",
+      "term_id": "N03",
+      "call_label": "N03 - Neutralidade cômoda",
+      "case": "Num grupo de mensagens, uma mentira grave sobre uma família se espalha; quem sabe a verdade prefere calar para não se envolver.",
+      "conference_question": "Quando o silêncio deixa de ser prudência e se torna cumplicidade confortável com o dano?",
+      "anchors": [
+        "B04",
+        "G04"
+      ],
+      "facilitator_note": "Mostre que nem todo silêncio é neutro quando há dano concreto.",
+      "reading_points": [
+        {
+          "title": "Verdade conhecida",
+          "body": "A pessoa sabe que a informação é falsa e que alguém será ferido."
+        },
+        {
+          "title": "Conforto protegido",
+          "body": "O silêncio evita desgaste pessoal, mas permite que a injustiça continue."
+        },
+        {
+          "title": "Presença responsável",
+          "body": "A missão pode exigir corrigir com prudência, fonte e limite."
+        }
+      ]
+    },
+    {
+      "id": "N04",
+      "term_id": "N04",
+      "call_label": "N04 - Vergonha da cruz",
+      "case": "Um rapaz apaga fotos de uma peregrinação porque começa a seguir pessoas que zombam de cristãos e teme perder admiração.",
+      "conference_question": "O que a vergonha da cruz revela sobre o lugar que a aprovação dos outros ocupa no coração?",
+      "anchors": [
+        "CEC 1303",
+        "2Tm 1,7-8"
+      ],
+      "facilitator_note": "Trate a vergonha como tentação real, não como motivo para humilhar quem tem medo.",
+      "reading_points": [
+        {
+          "title": "Aprovação disputada",
+          "body": "A fé é escondida para proteger imagem e pertencimento."
+        },
+        {
+          "title": "Cruz rejeitada",
+          "body": "O problema não é a foto, mas a disposição de negar sinais de Cristo por status."
+        },
+        {
+          "title": "Força do Espírito",
+          "body": "A Confirmação fortalece para confessar Cristo sem vergonha."
+        }
+      ]
+    },
+    {
+      "id": "N05",
+      "term_id": "N05",
+      "call_label": "N05 - Exemplo sem palavra",
+      "case": "Um funcionário é conhecido por sua honestidade; quando perguntam de onde vem sua firmeza, ele responde só que cada um tem seu jeito e muda de assunto.",
+      "conference_question": "Quando o bom exemplo precisa ser acompanhado de palavra para não esconder Cristo?",
+      "anchors": [
+        "Rm 10,14-15",
+        "B14"
+      ],
+      "facilitator_note": "Explique que exemplo é indispensável, mas não elimina todo anúncio verbal.",
+      "reading_points": [
+        {
+          "title": "Boa vida visível",
+          "body": "A honestidade abre uma pergunta real sobre a fonte daquela conduta."
+        },
+        {
+          "title": "Omissão do nome",
+          "body": "A resposta evita qualquer referência a Cristo quando a ocasião é pertinente."
+        },
+        {
+          "title": "Palavra necessária",
+          "body": "A missão inclui dar razão da fé quando a vida desperta a pergunta."
+        }
+      ]
+    },
+    {
+      "id": "N06",
+      "term_id": "N06",
+      "call_label": "N06 - Palavra sem vida",
+      "case": "Uma pessoa corrige todos sobre moral nas redes, mas em casa humilha a esposa e trata os filhos com desprezo.",
+      "conference_question": "Por que defender verdades cristãs não dispensa conversão concreta na vida cotidiana?",
+      "anchors": [
+        "Tg 2,17",
+        "B12"
+      ],
+      "facilitator_note": "Não use a incoerência para negar a verdade ensinada; mostre a exigência de conversão.",
+      "reading_points": [
+        {
+          "title": "Discurso correto, vida ferida",
+          "body": "A pessoa pode dizer coisas verdadeiras e ainda assim desmenti-las pelo modo de viver."
+        },
+        {
+          "title": "Escândalo moral",
+          "body": "A incoerência fere pessoas concretas e enfraquece o anúncio."
+        },
+        {
+          "title": "Conversão antes da dureza",
+          "body": "A palavra cristã deve vir acompanhada de arrependimento, reparação e humildade."
+        }
+      ]
+    },
+    {
+      "id": "N07",
+      "term_id": "N07",
+      "call_label": "N07 - Medo de incomodar",
+      "case": "Uma amiga fala em se afastar de tudo e destruir a própria vida, mas a pessoa que ouve não chama ajuda porque diz que não quer invadir a liberdade dela.",
+      "conference_question": "Como distinguir respeito verdadeiro de medo de incomodar quando há risco grave para alguém?",
+      "anchors": [
+        "1Pd 3,15",
+        "B10"
+      ],
+      "facilitator_note": "Em risco grave, destaque pedido de ajuda responsável e proteção da vida.",
+      "reading_points": [
+        {
+          "title": "Sinal grave",
+          "body": "A fala indica sofrimento sério e possível risco de dano."
+        },
+        {
+          "title": "Respeito mal usado",
+          "body": "Chamar de liberdade o abandono de alguém em perigo é falsa delicadeza."
+        },
+        {
+          "title": "Caridade protetora",
+          "body": "A resposta cristã busca ajuda adulta e responsável para proteger a vida."
+        }
+      ]
+    },
+    {
+      "id": "N08",
+      "term_id": "N08",
+      "call_label": "N08 - Sucesso como critério",
+      "case": "Depois de poucas pessoas aparecerem numa visita missionária, o grupo conclui que a ação foi inútil e não vale continuar.",
+      "conference_question": "Por que a fidelidade não pode ser medida apenas por número imediato de participantes ou aplausos?",
+      "anchors": [
+        "1Cor 3,6-7",
+        "B05"
+      ],
+      "facilitator_note": "Mostre que avaliar é necessário, mas resultado visível não é o critério absoluto.",
+      "reading_points": [
+        {
+          "title": "Frustração rápida",
+          "body": "O grupo identifica pouco público com inutilidade."
+        },
+        {
+          "title": "Deus dá crescimento",
+          "body": "A missão depende da graça, não apenas de controle humano."
+        },
+        {
+          "title": "Fidelidade avaliada",
+          "body": "Pode ser preciso ajustar o modo, mas sem abandonar o bem por falta de aplauso."
+        }
+      ]
+    },
+    {
+      "id": "N09",
+      "term_id": "N09",
+      "call_label": "N09 - Tolerância sem verdade",
+      "case": "Um familiar decide abandonar esposa e filhos por uma relação passageira; todos dizem que o importante é apoiar qualquer escolha para não julgar.",
+      "conference_question": "Como amar uma pessoa sem aprovar uma decisão que fere compromissos e pessoas concretas?",
+      "anchors": [
+        "Ef 4,15",
+        "G03"
+      ],
+      "facilitator_note": "Nomeie a gravidade sem autorizar desprezo pela pessoa.",
+      "reading_points": [
+        {
+          "title": "Dano concreto",
+          "body": "A escolha não envolve só preferência pessoal, pois atinge cônjuge e filhos."
+        },
+        {
+          "title": "Apoio confundido",
+          "body": "Chamar toda aprovação de amor apaga a verdade moral."
+        },
+        {
+          "title": "Caridade verdadeira",
+          "body": "Amar inclui permanecer próximo, mas também nomear o mal e pedir responsabilidade."
+        }
+      ]
+    },
+    {
+      "id": "N10",
+      "term_id": "N10",
+      "call_label": "N10 - Zelo agressivo",
+      "case": "Numa discussão sobre aborto, um cristão passa a xingar quem discorda e publica nomes de mulheres em situação de sofrimento.",
+      "conference_question": "Por que uma causa verdadeira pode ser desfigurada quando defendida com agressão e exposição de pessoas?",
+      "anchors": [
+        "1Pd 3,15",
+        "G15"
+      ],
+      "facilitator_note": "Firmeza pela vida não autoriza humilhação nem exposição de pessoas vulneráveis.",
+      "reading_points": [
+        {
+          "title": "Tema gravíssimo",
+          "body": "A defesa da vida exige seriedade moral real."
+        },
+        {
+          "title": "Meio injusto",
+          "body": "Insultar e expor pessoas fere a dignidade e prejudica o testemunho."
+        },
+        {
+          "title": "Firmeza com mansidão",
+          "body": "A fé deve ser defendida com verdade, proteção dos vulneráveis e caridade."
+        }
+      ]
+    },
+    {
+      "id": "N11",
+      "term_id": "N11",
+      "call_label": "N11 - Esperar estar pronto",
+      "case": "Um adulto adia há anos ajudar na evangelização dos filhos porque diz que ainda precisa resolver todos os próprios pecados primeiro.",
+      "conference_question": "Como reconhecer a necessidade de conversão sem usar a própria imperfeição para abandonar a missão?",
+      "anchors": [
+        "At 1,8",
+        "B05"
+      ],
+      "facilitator_note": "Distinga humildade de adiamento indefinido.",
+      "reading_points": [
+        {
+          "title": "Imperfeição real",
+          "body": "A pessoa percebe pecados e fragilidades que precisam de conversão."
+        },
+        {
+          "title": "Desculpa paralisante",
+          "body": "Esperar estar impecável pode virar fuga da responsabilidade batismal."
+        },
+        {
+          "title": "Missão em conversão",
+          "body": "O cristão testemunha caminhando, buscando sacramentos e corrigindo a vida."
+        }
+      ]
+    },
+    {
+      "id": "N12",
+      "term_id": "N12",
+      "call_label": "N12 - Delegação ao padre",
+      "case": "Pais dizem que a fé dos filhos é assunto do padre e da comunidade, enquanto em casa nunca rezam, nunca conversam sobre Deus e nunca dão exemplo.",
+      "conference_question": "Por que delegar toda evangelização aos ministros da Igreja empobrece a responsabilidade batismal dos leigos?",
+      "anchors": [
+        "CEC 1270",
+        "CEC 905"
+      ],
+      "facilitator_note": "Mostre a missão própria da família e dos leigos sem desvalorizar o ministério ordenado.",
+      "reading_points": [
+        {
+          "title": "Responsabilidade transferida",
+          "body": "Os pais tratam a fé como serviço externo que alguém deve fornecer."
+        },
+        {
+          "title": "Batismo envia todos",
+          "body": "A atividade missionária do povo de Deus inclui os leigos em sua vida comum."
+        },
+        {
+          "title": "Casa evangeliza",
+          "body": "O exemplo, a oração e a palavra em família têm peso missionário insubstituível."
+        }
+      ]
+    },
+    {
+      "id": "N13",
+      "term_id": "N13",
+      "call_label": "N13 - Fé sem Igreja",
+      "case": "Um influenciador religioso diz que segue Jesus, mas rejeita sacramentos, comunidade, correção e qualquer autoridade eclesial.",
+      "conference_question": "Por que separar Cristo de sua Igreja torna a missão vulnerável ao individualismo e ao erro?",
+      "anchors": [
+        "B06",
+        "B15"
+      ],
+      "facilitator_note": "Fale de comunhão e correção, não de controle cego.",
+      "reading_points": [
+        {
+          "title": "Religião individual",
+          "body": "A pessoa escolhe Cristo como ideia, mas rejeita o corpo e os meios que Cristo dá."
+        },
+        {
+          "title": "Sem correção",
+          "body": "Quando não há Igreja, a própria opinião vira medida final."
+        },
+        {
+          "title": "Missão em comunhão",
+          "body": "O testemunho cristão precisa de sacramentos, doutrina e pertença ao povo de Deus."
+        }
+      ]
+    },
+    {
+      "id": "N14",
+      "term_id": "N14",
+      "call_label": "N14 - Crisma como formatura",
+      "case": "Depois da Confirmação, alguns tratam a vida sacramental como etapa concluída e só voltam à Igreja em casamentos ou emergências.",
+      "conference_question": "O que se perde quando a Crisma é vista como encerramento e não como fortalecimento para a missão?",
+      "anchors": [
+        "CEC 1303",
+        "At 1,8"
+      ],
+      "facilitator_note": "Use o encontro para corrigir a ideia de conclusão da catequese como abandono da fé.",
+      "reading_points": [
+        {
+          "title": "Encerramento falso",
+          "body": "A Confirmação é tratada como formatura religiosa."
+        },
+        {
+          "title": "Força para testemunhar",
+          "body": "O sacramento fortalece para difundir e defender a fé pela palavra e pela ação."
+        },
+        {
+          "title": "Vida enviada",
+          "body": "Depois da Crisma, a pergunta não é como sair, mas como testemunhar com maturidade."
+        }
+      ]
+    },
+    {
+      "id": "N15",
+      "term_id": "N15",
+      "call_label": "N15 - Algoritmo manda",
+      "case": "Uma página católica percebe que conteúdos agressivos dão mais engajamento e passa a publicar ataques porque o algoritmo recompensa.",
+      "conference_question": "Por que curtidas e alcance não podem governar a consciência missionária?",
+      "anchors": [
+        "B12",
+        "I03"
+      ],
+      "facilitator_note": "Trate engajamento como meio limitado, nunca como critério moral.",
+      "reading_points": [
+        {
+          "title": "Recompensa distorcida",
+          "body": "O sistema premia o conteúdo que provoca reação, mesmo quando fere a caridade."
+        },
+        {
+          "title": "Critério errado",
+          "body": "A missão não pode obedecer ao algoritmo contra a verdade e a dignidade."
+        },
+        {
+          "title": "Coerência digital",
+          "body": "O cristão precisa escolher conteúdo que evangeliza sem manipular ódio."
+        }
+      ]
+    },
+    {
+      "id": "G01",
+      "term_id": "G01",
+      "call_label": "G01 - Pessoa e proposta",
+      "case": "Uma irmã ama o irmão que abandonou a família, mas não aceita chamar a decisão dele de normal ou boa.",
+      "conference_question": "Como distinguir amor pela pessoa de aprovação da proposta ou da escolha que ela fez?",
+      "anchors": [
+        "Ef 4,15",
+        "G03"
+      ],
+      "facilitator_note": "Ajude a turma a evitar tanto rejeição da pessoa quanto aprovação automática do erro.",
+      "reading_points": [
+        {
+          "title": "Pessoa preservada",
+          "body": "O vínculo de amor não é rompido pela discordância moral."
+        },
+        {
+          "title": "Escolha avaliada",
+          "body": "A decisão pode ser julgada pelo dano e pela verdade moral."
+        },
+        {
+          "title": "Caridade com verdade",
+          "body": "O cristão ama a pessoa e ainda chama ao bem quando necessário."
+        }
+      ]
+    },
+    {
+      "id": "G02",
+      "term_id": "G02",
+      "call_label": "G02 - Testemunho e propaganda",
+      "case": "Um grupo publica fotos de uma visita a famílias pobres com legendas que destacam mais a generosidade dos voluntários do que a dignidade dos visitados.",
+      "conference_question": "Que critério diferencia testemunho cristão de propaganda de si mesmo?",
+      "anchors": [
+        "B03",
+        "Mt 5,16"
+      ],
+      "facilitator_note": "Mostre que tornar o bem visível pode ser legítimo, mas a intenção e a dignidade importam.",
+      "reading_points": [
+        {
+          "title": "Visibilidade ambígua",
+          "body": "A publicação pode informar e animar, mas também pode expor pessoas vulneráveis."
+        },
+        {
+          "title": "Centro deslocado",
+          "body": "Quando o foco vira a imagem dos voluntários, o testemunho perde Cristo de vista."
+        },
+        {
+          "title": "Glória a Deus",
+          "body": "As boas obras devem levar a glorificar o Pai, não a admirar a vaidade do grupo."
+        }
+      ]
+    },
+    {
+      "id": "G03",
+      "term_id": "G03",
+      "call_label": "G03 - Acolhida e aprovação",
+      "case": "Uma comunidade recebe uma pessoa afastada da fé, mas alguns querem evitar qualquer conversa sobre sua situação moral para que ela nunca se sinta contrariada.",
+      "conference_question": "Como acolher alguém sem transformar acolhida em aprovação silenciosa de tudo?",
+      "anchors": [
+        "Ef 4,15",
+        "N09"
+      ],
+      "facilitator_note": "Explique que acolher é abrir caminho para a verdade, não suspender a verdade.",
+      "reading_points": [
+        {
+          "title": "Entrada necessária",
+          "body": "A pessoa precisa ser recebida com respeito e sem humilhação."
+        },
+        {
+          "title": "Aprovação indevida",
+          "body": "Evitar para sempre a verdade impede conversão e amadurecimento."
+        },
+        {
+          "title": "Caminho paciente",
+          "body": "Acolhida cristã une proximidade, verdade e tempo oportuno."
+        }
+      ]
+    },
+    {
+      "id": "G04",
+      "term_id": "G04",
+      "call_label": "G04 - Prudência e covardia",
+      "case": "Um gerente sabe que uma funcionária está sendo explorada, mas diz que ainda não é o momento de falar e repete isso por meses.",
+      "conference_question": "Que sinais mostram que a prudência virou covardia diante de uma injustiça concreta?",
+      "anchors": [
+        "1Pd 3,15",
+        "N03"
+      ],
+      "facilitator_note": "Trabalhe tempo oportuno, meios corretos e omissão prolongada.",
+      "reading_points": [
+        {
+          "title": "Injustiça conhecida",
+          "body": "O gerente tem informação suficiente para agir ou encaminhar."
+        },
+        {
+          "title": "Adiar sem critério",
+          "body": "Repetir que não é o momento pode esconder medo de perder conforto."
+        },
+        {
+          "title": "Prudência verdadeira",
+          "body": "A prudência escolhe como agir; a covardia usa a cautela para não agir."
+        }
+      ]
+    },
+    {
+      "id": "G05",
+      "term_id": "G05",
+      "call_label": "G05 - Coragem e imprudência",
+      "case": "Alguém decide denunciar publicamente um problema grave sem confirmar fatos, expondo pessoas inocentes e destruindo reputações.",
+      "conference_question": "Como distinguir coragem cristã de imprudência que causa novos danos?",
+      "anchors": [
+        "CEC 1303",
+        "1Cor 14,33.40"
+      ],
+      "facilitator_note": "Afirmar a obrigação de enfrentar o mal sem dispensar verificação e meios justos.",
+      "reading_points": [
+        {
+          "title": "Problema sério",
+          "body": "Pode haver um mal real que não deve ser ignorado."
+        },
+        {
+          "title": "Meio perigoso",
+          "body": "Agir sem confirmar fatos pode ferir inocentes e criar confusão."
+        },
+        {
+          "title": "Coragem ordenada",
+          "body": "O Espírito dá força, mas a caridade exige verdade, justiça e ordem."
+        }
+      ]
+    },
+    {
+      "id": "G06",
+      "term_id": "G06",
+      "call_label": "G06 - Diálogo e relativismo",
+      "case": "Numa conversa sobre fé, uma pessoa escuta com atenção, mas termina dizendo que qualquer crença é igualmente verdadeira se fizer alguém se sentir bem.",
+      "conference_question": "Como dialogar de verdade sem abandonar a afirmação cristã da verdade?",
+      "anchors": [
+        "1Pd 3,15",
+        "Ef 4,15"
+      ],
+      "facilitator_note": "Mostre que escutar não exige fingir que contradições são todas verdadeiras.",
+      "reading_points": [
+        {
+          "title": "Escuta correta",
+          "body": "Ouvir com respeito é necessário para compreender a pessoa."
+        },
+        {
+          "title": "Relativismo",
+          "body": "Dizer que tudo é igualmente verdadeiro apaga a pergunta pela verdade."
+        },
+        {
+          "title": "Diálogo fiel",
+          "body": "O cristão escuta e responde com mansidão, mas não renuncia a Cristo."
+        }
+      ]
+    },
+    {
+      "id": "G07",
+      "term_id": "G07",
+      "call_label": "G07 - Convite e pressão",
+      "case": "Uma pessoa convida a irmã para voltar à Missa e, diante da recusa, começa a expô-la em reuniões familiares.",
+      "conference_question": "O que diferencia um convite missionário de uma pressão que fere a liberdade e a dignidade?",
+      "anchors": [
+        "O05",
+        "B10"
+      ],
+      "facilitator_note": "Aponte que liberdade não elimina convite, mas impede chantagem e exposição.",
+      "reading_points": [
+        {
+          "title": "Convite legítimo",
+          "body": "Chamar para a Missa pode ser gesto verdadeiro de caridade."
+        },
+        {
+          "title": "Pressão indevida",
+          "body": "Expor a pessoa transforma o bem desejado em constrangimento."
+        },
+        {
+          "title": "Liberdade respeitada",
+          "body": "A missão propõe o bem com clareza e paciência, sem humilhar."
+        }
+      ]
+    },
+    {
+      "id": "G08",
+      "term_id": "G08",
+      "call_label": "G08 - Exemplo e silêncio",
+      "case": "Uma senhora ajuda discretamente muitas pessoas, mas quando uma vizinha pergunta se ela reza, ela diz que esse assunto não importa.",
+      "conference_question": "Quando o silêncio protege a humildade e quando ele esconde a fonte cristã do bem realizado?",
+      "anchors": [
+        "B12",
+        "N05"
+      ],
+      "facilitator_note": "Mostre que humildade não exige negar a fé quando a pergunta é direta.",
+      "reading_points": [
+        {
+          "title": "Exemplo verdadeiro",
+          "body": "A ajuda concreta é sinal real de caridade."
+        },
+        {
+          "title": "Silêncio ambíguo",
+          "body": "A pergunta sobre oração abre espaço legítimo para nomear a fé."
+        },
+        {
+          "title": "Fonte reconhecida",
+          "body": "Responder com simplicidade pode apontar para Deus sem buscar aplauso."
+        }
+      ]
+    },
+    {
+      "id": "G09",
+      "term_id": "G09",
+      "call_label": "G09 - Erro público e humilhação",
+      "case": "Um palestrante ensina algo falso sobre a fé; alguém grava um corte dele, acrescenta zombarias e espalha para ridicularizá-lo.",
+      "conference_question": "Como corrigir um erro público sem transformar a correção em humilhação pessoal?",
+      "anchors": [
+        "Ef 4,15",
+        "G15"
+      ],
+      "facilitator_note": "Diferencie correção necessária de linchamento moral.",
+      "reading_points": [
+        {
+          "title": "Erro que confunde",
+          "body": "O ensinamento falso pode precisar de correção clara."
+        },
+        {
+          "title": "Humilhação acrescentada",
+          "body": "Ridicularizar a pessoa desvia o foco da verdade para a agressão."
+        },
+        {
+          "title": "Correção justa",
+          "body": "A resposta deve esclarecer a doutrina, proteger os ouvintes e respeitar a pessoa."
+        }
+      ]
+    },
+    {
+      "id": "G10",
+      "term_id": "G10",
+      "call_label": "G10 - Consciência e opinião",
+      "case": "Alguém afirma que sua consciência permite qualquer decisão porque o importante é estar em paz consigo mesmo.",
+      "conference_question": "Por que formar a consciência é diferente de tratar a própria opinião como medida final do bem?",
+      "anchors": [
+        "CEC 1816",
+        "B11"
+      ],
+      "facilitator_note": "Explique consciência sem entrar em tecnicismo; ela precisa ser formada na verdade.",
+      "reading_points": [
+        {
+          "title": "Paz aparente",
+          "body": "Sentir-se tranquilo não prova que a decisão é justa."
+        },
+        {
+          "title": "Consciência formada",
+          "body": "A consciência deve buscar a verdade, não apenas confirmar desejos."
+        },
+        {
+          "title": "Fé orienta",
+          "body": "O cristão forma escolhas pela Palavra, pela Igreja e pela razão iluminada."
+        }
+      ]
+    },
+    {
+      "id": "G11",
+      "term_id": "G11",
+      "call_label": "G11 - Liberdade e capricho",
+      "case": "Um motorista dirige embriagado depois de uma festa e diz que ninguém manda na vida dele.",
+      "conference_question": "Como distinguir liberdade verdadeira de capricho que põe outras vidas em risco?",
+      "anchors": [
+        "Gl 5,22-23",
+        "B10"
+      ],
+      "facilitator_note": "Nomeie a gravidade do risco sem perder o foco na liberdade orientada ao bem.",
+      "reading_points": [
+        {
+          "title": "Risco real",
+          "body": "A escolha coloca a própria vida e a vida de outros em perigo."
+        },
+        {
+          "title": "Capricho",
+          "body": "Chamar impulso de liberdade apaga responsabilidade moral."
+        },
+        {
+          "title": "Domínio de si",
+          "body": "A liberdade cristã busca o bem e aceita limites justos."
+        }
+      ]
+    },
+    {
+      "id": "G12",
+      "term_id": "G12",
+      "call_label": "G12 - Missão e protagonismo",
+      "case": "Uma liderança só aceita projetos em que seu nome apareça, e desanima quando outra pessoa conduz melhor a ação.",
+      "conference_question": "Que sinais indicam que a missão deixou de servir a Cristo e passou a servir ao protagonismo pessoal?",
+      "anchors": [
+        "B05",
+        "I13"
+      ],
+      "facilitator_note": "Mostre que protagonismo não é o mesmo que responsabilidade.",
+      "reading_points": [
+        {
+          "title": "Nome no centro",
+          "body": "A pessoa parece querer mais reconhecimento do que fruto espiritual."
+        },
+        {
+          "title": "Missão deslocada",
+          "body": "Quando Cristo deixa de ser o centro, a ação vira palco pessoal."
+        },
+        {
+          "title": "Serviço humilde",
+          "body": "Aceitar servir sem destaque purifica a intenção missionária."
+        }
+      ]
+    },
+    {
+      "id": "G13",
+      "term_id": "G13",
+      "call_label": "G13 - Serviço e autopromoção",
+      "case": "Uma empresa doa cestas básicas, mas exige que cada família beneficiada grave agradecimentos emocionados para a campanha de marketing.",
+      "conference_question": "Como distinguir divulgação legítima de uma ajuda que usa a necessidade alheia para autopromoção?",
+      "anchors": [
+        "Mt 6,1-4",
+        "B10"
+      ],
+      "facilitator_note": "Trabalhe dignidade dos pobres e intenção do serviço.",
+      "reading_points": [
+        {
+          "title": "Ajuda real",
+          "body": "As cestas podem atender uma necessidade concreta."
+        },
+        {
+          "title": "Exposição indevida",
+          "body": "Obrigar agradecimento público instrumentaliza a vulnerabilidade das famílias."
+        },
+        {
+          "title": "Serviço limpo",
+          "body": "A caridade protege a dignidade e não compra aplauso com a dor alheia."
+        }
+      ]
+    },
+    {
+      "id": "G14",
+      "term_id": "G14",
+      "call_label": "G14 - Paciência e omissão",
+      "case": "Um amigo com vício pede ajuda várias vezes; depois de recaídas, a família confunde paciência com deixar tudo como está.",
+      "conference_question": "Como acompanhar com paciência sem abandonar a pessoa à própria destruição?",
+      "anchors": [
+        "Jo 13,34-35",
+        "O11"
+      ],
+      "facilitator_note": "Em vício, destaque acompanhamento, limites e ajuda competente.",
+      "reading_points": [
+        {
+          "title": "Processo difícil",
+          "body": "A recaída mostra fragilidade real e necessidade de acompanhamento."
+        },
+        {
+          "title": "Omissão disfarçada",
+          "body": "Dizer que é preciso ter paciência pode virar abandono prático."
+        },
+        {
+          "title": "Paciência ativa",
+          "body": "Amar inclui limites, presença e encaminhamento responsável."
+        }
+      ]
+    },
+    {
+      "id": "G15",
+      "term_id": "G15",
+      "call_label": "G15 - Defesa da fé e briga",
+      "case": "Num jantar, alguém distorce a doutrina católica; outro responde elevando a voz e passa o resto da noite tentando vencer todos.",
+      "conference_question": "Como defender a fé com firmeza sem ser movido pelo orgulho de ganhar a discussão?",
+      "anchors": [
+        "1Pd 3,15",
+        "N10"
+      ],
+      "facilitator_note": "Destaque mansidão como força, não como fraqueza.",
+      "reading_points": [
+        {
+          "title": "Erro real",
+          "body": "A distorção da fé pode precisar de correção."
+        },
+        {
+          "title": "Orgulho na defesa",
+          "body": "A briga desloca a atenção da verdade para a vitória pessoal."
+        },
+        {
+          "title": "Mansidão firme",
+          "body": "A defesa cristã une razão, respeito e domínio de si."
+        }
+      ]
+    },
+    {
+      "id": "O01",
+      "term_id": "O01",
+      "call_label": "O01 - Nomear a fé",
+      "case": "Num formulário de voluntariado, há espaço para indicar motivações; uma participante escreve que serve também por sua fé católica, sem fazer discurso.",
+      "conference_question": "Como nomear a fé com simplicidade pode ser uma resposta missionária concreta?",
+      "anchors": [
+        "B04",
+        "CEC 1816"
+      ],
+      "facilitator_note": "Mostre que assumir a fé não exige tom de superioridade.",
+      "reading_points": [
+        {
+          "title": "Ocasião pertinente",
+          "body": "A pergunta sobre motivação permite mencionar a fé de modo natural."
+        },
+        {
+          "title": "Sem espetáculo",
+          "body": "A pessoa não força uma pregação, apenas não esconde a fonte."
+        },
+        {
+          "title": "Profissão simples",
+          "body": "Nomear a fé ajuda a reconhecer Cristo no motivo da ação."
+        }
+      ]
+    },
+    {
+      "id": "O02",
+      "term_id": "O02",
+      "call_label": "O02 - Escutar antes de falar",
+      "case": "Um homem procura a Igreja depois de anos afastado e começa a contar uma história de culpa, abandono e raiva antes de fazer qualquer pergunta doutrinal.",
+      "conference_question": "Por que a escuta pode ser parte da evangelização, e não apenas preparação para falar?",
+      "anchors": [
+        "1Pd 3,15",
+        "G06"
+      ],
+      "facilitator_note": "Não oponha escuta e verdade; escuta prepara palavra mais justa.",
+      "reading_points": [
+        {
+          "title": "História carregada",
+          "body": "A pessoa chega com feridas, não apenas com dúvida intelectual."
+        },
+        {
+          "title": "Escuta responsável",
+          "body": "Ouvir impede respostas apressadas que podem ferir ou simplificar."
+        },
+        {
+          "title": "Palavra adequada",
+          "body": "Depois de escutar, a fé pode ser anunciada com mais verdade e caridade."
+        }
+      ]
+    },
+    {
+      "id": "O03",
+      "term_id": "O03",
+      "call_label": "O03 - Dar razão da esperança",
+      "case": "No hospital, um paciente pergunta a uma enfermeira por que ela continua rezando mesmo vendo mortes e frustrações.",
+      "conference_question": "Como dar razão da esperança sem fingir que o sofrimento não existe?",
+      "anchors": [
+        "1Pd 3,15",
+        "B11"
+      ],
+      "facilitator_note": "Ajude a formular uma resposta pessoal, verdadeira e breve.",
+      "reading_points": [
+        {
+          "title": "Pergunta honesta",
+          "body": "O paciente quer entender a esperança diante da dor real."
+        },
+        {
+          "title": "Razão da fé",
+          "body": "A resposta cristã pode explicar confiança em Cristo sem negar a morte."
+        },
+        {
+          "title": "Mansidão",
+          "body": "Falar com respeito torna a esperança inteligível, não agressiva."
+        }
+      ]
+    },
+    {
+      "id": "O04",
+      "term_id": "O04",
+      "call_label": "O04 - Cortar escândalo digital",
+      "case": "Depois de compartilhar uma acusação falsa, uma pessoa descobre o erro e decide apagar, corrigir publicamente e pedir desculpa a quem foi atingido.",
+      "conference_question": "Por que reparar no ambiente digital exige mais que apenas apagar em silêncio o conteúdo errado?",
+      "anchors": [
+        "I03",
+        "B12"
+      ],
+      "facilitator_note": "Explique proporcionalidade: corrigir onde o dano circulou.",
+      "reading_points": [
+        {
+          "title": "Dano espalhado",
+          "body": "A mentira já alcançou outras pessoas por meio do compartilhamento."
+        },
+        {
+          "title": "Apagar não basta",
+          "body": "Sumir com a postagem pode esconder a responsabilidade sem corrigir quem acreditou."
+        },
+        {
+          "title": "Reparação pública",
+          "body": "A resposta cristã corrige, pede perdão e interrompe a circulação do mal."
+        }
+      ]
+    },
+    {
+      "id": "O05",
+      "term_id": "O05",
+      "call_label": "O05 - Convidar com respeito",
+      "case": "Um casal percebe que amigos afastados sentem falta de vida espiritual e os convida para ir à Missa e almoçar depois, deixando claro que não haverá cobrança.",
+      "conference_question": "O que torna esse convite claro, livre e missionário ao mesmo tempo?",
+      "anchors": [
+        "I05",
+        "G07"
+      ],
+      "facilitator_note": "Valorize clareza e liberdade juntas.",
+      "reading_points": [
+        {
+          "title": "Bem proposto",
+          "body": "O convite aponta para a Missa e para uma companhia concreta."
+        },
+        {
+          "title": "Sem chantagem",
+          "body": "A liberdade dos amigos é respeitada sem apagar o conteúdo do convite."
+        },
+        {
+          "title": "Hospitalidade missionária",
+          "body": "A fé é oferecida junto com proximidade e acolhida simples."
+        }
+      ]
+    },
+    {
+      "id": "O06",
+      "term_id": "O06",
+      "call_label": "O06 - Reparar mau testemunho",
+      "case": "Um coordenador cristão percebe que tratou voluntários com dureza injusta, reúne o grupo, pede perdão e muda o modo de distribuir tarefas.",
+      "conference_question": "Por que reparar o mau testemunho precisa incluir reconhecimento, pedido de perdão e mudança concreta?",
+      "anchors": [
+        "B12",
+        "N06"
+      ],
+      "facilitator_note": "Mostre que reparação não é humilhação, mas justiça e conversão.",
+      "reading_points": [
+        {
+          "title": "Dano reconhecido",
+          "body": "A dureza feriu pessoas e prejudicou a credibilidade da liderança."
+        },
+        {
+          "title": "Pedido de perdão",
+          "body": "Assumir o erro diante de quem foi atingido abre caminho de reparação."
+        },
+        {
+          "title": "Mudança verificável",
+          "body": "Reparar inclui alterar práticas para não repetir o mesmo dano."
+        }
+      ]
+    },
+    {
+      "id": "O07",
+      "term_id": "O07",
+      "call_label": "O07 - Buscar formação segura",
+      "case": "Antes de responder a uma dúvida difícil sobre Confissão, uma jovem consulta o Catecismo e conversa com um sacerdote confiável.",
+      "conference_question": "Por que buscar formação segura é mais responsável do que responder rapidamente para parecer preparado?",
+      "anchors": [
+        "G10",
+        "CEC 1816"
+      ],
+      "facilitator_note": "Valorize a humildade intelectual e o uso de fontes confiáveis.",
+      "reading_points": [
+        {
+          "title": "Dúvida séria",
+          "body": "A pergunta envolve doutrina e vida sacramental, não mera opinião."
+        },
+        {
+          "title": "Humildade",
+          "body": "Reconhecer que precisa estudar evita erro e improviso."
+        },
+        {
+          "title": "Fonte segura",
+          "body": "Bíblia, Catecismo e orientação madura ajudam a responder com fidelidade."
+        }
+      ]
+    },
+    {
+      "id": "O08",
+      "term_id": "O08",
+      "call_label": "O08 - Rezar antes de agir",
+      "case": "Antes de conversar com um filho envolvido com drogas, os pais rezam, combinam uma abordagem firme e procuram orientação adequada.",
+      "conference_question": "Como a oração antes da ação muda o modo de enfrentar uma situação grave sem substituir medidas concretas?",
+      "anchors": [
+        "At 1,7-8",
+        "B05"
+      ],
+      "facilitator_note": "Em tema grave, oração deve impulsionar responsabilidade, não passividade.",
+      "reading_points": [
+        {
+          "title": "Gravidade real",
+          "body": "O problema exige firmeza, ajuda e decisão, não reação impulsiva."
+        },
+        {
+          "title": "Dependência de Deus",
+          "body": "A oração reconhece que a missão precisa da força do Espírito."
+        },
+        {
+          "title": "Ação ordenada",
+          "body": "Rezar prepara uma resposta mais lúcida, firme e responsável."
+        }
+      ]
+    },
+    {
+      "id": "O09",
+      "term_id": "O09",
+      "call_label": "O09 - Servir quem sofre",
+      "case": "Uma família percebe que a vizinha com depressão não sai de casa, leva uma refeição, oferece companhia e incentiva buscar atendimento profissional.",
+      "conference_question": "Como servir quem sofre sem reduzir a dor a falta de fé nem tentar resolver sozinho o que exige ajuda competente?",
+      "anchors": [
+        "Mt 25,35-40",
+        "I06"
+      ],
+      "facilitator_note": "Nomeie depressão com seriedade e incentive encaminhamento responsável.",
+      "reading_points": [
+        {
+          "title": "Sofrimento concreto",
+          "body": "A pessoa está isolada e precisa de cuidado real."
+        },
+        {
+          "title": "Caridade responsável",
+          "body": "A ajuda une presença, alimento e incentivo a tratamento adequado."
+        },
+        {
+          "title": "Cristo servido",
+          "body": "Servir o frágil é forma concreta de reconhecer Cristo no sofredor."
+        }
+      ]
+    },
+    {
+      "id": "O10",
+      "term_id": "O10",
+      "call_label": "O10 - Defender sem ferir",
+      "case": "Em uma reunião, alguém diz que a Igreja odeia a ciência; uma pesquisadora católica responde com dados, serenidade e sem atacar a pessoa.",
+      "conference_question": "Que atitudes tornam a defesa da fé firme e respeitosa ao mesmo tempo?",
+      "anchors": [
+        "1Pd 3,15",
+        "G15"
+      ],
+      "facilitator_note": "Mostre que mansidão não é fraqueza intelectual.",
+      "reading_points": [
+        {
+          "title": "Acusação falsa",
+          "body": "A fala distorce a relação entre fé e razão."
+        },
+        {
+          "title": "Resposta competente",
+          "body": "A pesquisadora usa argumentos e mantém respeito pela pessoa."
+        },
+        {
+          "title": "Mansidão firme",
+          "body": "Defender a fé cristã exige clareza, domínio de si e caridade."
+        }
+      ]
+    },
+    {
+      "id": "O11",
+      "term_id": "O11",
+      "call_label": "O11 - Acompanhar sem substituir",
+      "case": "Uma madrinha caminha com a afilhada que voltou a rezar, mas evita decidir tudo por ela e a ajuda a procurar orientação e sacramentos.",
+      "conference_question": "Como acompanhar alguém na fé sem controlar sua consciência nem abandonar sua caminhada?",
+      "anchors": [
+        "G14",
+        "B10"
+      ],
+      "facilitator_note": "Destaque acompanhamento como presença fiel, não posse sobre a pessoa.",
+      "reading_points": [
+        {
+          "title": "Caminho retomado",
+          "body": "A afilhada precisa de apoio real para reordenar a vida espiritual."
+        },
+        {
+          "title": "Sem controle",
+          "body": "A madrinha ajuda sem tomar decisões no lugar dela."
+        },
+        {
+          "title": "Mediações concretas",
+          "body": "Orientação, sacramentos e presença fiel sustentam a caminhada."
+        }
+      ]
+    },
+    {
+      "id": "O12",
+      "term_id": "O12",
+      "call_label": "O12 - Assumir compromisso",
+      "case": "Depois de reclamar que ninguém visita os enfermos da comunidade, um homem se oferece para integrar a escala uma vez por mês.",
+      "conference_question": "Por que transformar reclamação em compromisso concreto é uma resposta missionária mais madura?",
+      "anchors": [
+        "B06",
+        "I15"
+      ],
+      "facilitator_note": "Mostre que compromisso deve ser proporcional e fiel, não impulsivo.",
+      "reading_points": [
+        {
+          "title": "Reclamação insuficiente",
+          "body": "Perceber a falha da comunidade não basta se ninguém assume responsabilidade."
+        },
+        {
+          "title": "Passo concreto",
+          "body": "A escala mensal é medida possível, clara e verificável."
+        },
+        {
+          "title": "Igreja em missão",
+          "body": "A comunidade evangeliza quando batizados assumem serviço real."
+        }
+      ]
+    },
+    {
+      "id": "O13",
+      "term_id": "O13",
+      "call_label": "O13 - Pedir ajuda pastoral",
+      "case": "Uma líder leiga percebe que uma pessoa relata abuso espiritual e decide não resolver sozinha, procurando orientação segura e proteção da vítima.",
+      "conference_question": "Por que pedir ajuda pastoral e competente é sinal de prudência, não de fraqueza?",
+      "anchors": [
+        "B15",
+        "G05"
+      ],
+      "facilitator_note": "Em situações de abuso, priorize proteção, canais responsáveis e não exposição da vítima.",
+      "reading_points": [
+        {
+          "title": "Gravidade do relato",
+          "body": "Abuso espiritual envolve dano sério e risco de manipulação."
+        },
+        {
+          "title": "Limite pessoal",
+          "body": "Resolver sozinha pode aumentar o dano ou encobrir responsabilidade."
+        },
+        {
+          "title": "Prudência e proteção",
+          "body": "Buscar ajuda adequada protege a vítima e ordena a resposta."
+        }
+      ]
+    },
+    {
+      "id": "O14",
+      "term_id": "O14",
+      "call_label": "O14 - Renunciar ao aplauso",
+      "case": "Um músico aceita tocar numa celebração simples sem postagem, destaque ou agradecimento público, porque havia necessidade real.",
+      "conference_question": "Como a renúncia ao aplauso purifica a intenção missionária?",
+      "anchors": [
+        "Mt 6,1-4",
+        "G13"
+      ],
+      "facilitator_note": "Não demonize reconhecimento legítimo; trate dependência de aplauso como risco.",
+      "reading_points": [
+        {
+          "title": "Serviço sem palco",
+          "body": "A necessidade da comunidade vem antes da visibilidade do músico."
+        },
+        {
+          "title": "Intenção purificada",
+          "body": "Servir sem aplauso revela se o bem era feito por Cristo ou por imagem."
+        },
+        {
+          "title": "Humildade missionária",
+          "body": "A missão cresce quando o servidor aceita desaparecer para que Deus seja servido."
+        }
+      ]
+    },
+    {
+      "id": "O15",
+      "term_id": "O15",
+      "call_label": "O15 - Perseverar no cotidiano",
+      "case": "Uma mãe reza com os filhos todas as noites, mesmo quando parecem distraídos e não há sinal imediato de mudança.",
+      "conference_question": "Por que pequenas fidelidades repetidas também pertencem à missão do batizado?",
+      "anchors": [
+        "At 1,8",
+        "N08"
+      ],
+      "facilitator_note": "Mostre que missão cotidiana forma ambiente, memória e consciência.",
+      "reading_points": [
+        {
+          "title": "Fidelidade pequena",
+          "body": "A oração diária parece simples e sem resultado imediato."
+        },
+        {
+          "title": "Missão no lar",
+          "body": "O testemunho começa onde a pessoa vive e tem responsabilidade concreta."
+        },
+        {
+          "title": "Perseverança",
+          "body": "A missão não depende de sinais rápidos, mas de fidelidade sustentada pelo Espírito."
+        }
+      ]
+    }
+  ]
+}

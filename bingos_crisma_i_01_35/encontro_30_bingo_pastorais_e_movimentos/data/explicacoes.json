@@ -1,0 +1,308 @@
+{
+  "title": "Carta de explicações rápidas — Bingo Pastorais e movimentos",
+  "meeting": "Encontro 30 — Pastorais e movimentos",
+  "source_calls": "data/chamadas.json",
+  "purpose": "Explicações breves para o condutor usar durante a chamada de cada carta.",
+  "entries": [
+    {
+      "id": "B01",
+      "explanation": "A **diversidade de dons** não é disputa por valor. O Espírito Santo distribui dons diferentes para que a Igreja seja servida de muitos modos. O critério cristão é perguntar se o dom edifica o bem comum."
+    },
+    {
+      "id": "B02",
+      "explanation": "A Igreja tem muitos serviços, mas **um só Espírito**. Diferenças legítimas não autorizam facções nem desprezo. O discernimento começa pela comunhão na mesma fé e na mesma caridade."
+    },
+    {
+      "id": "B03",
+      "explanation": "O dom espiritual é dado para **proveito comum**, não para vantagem privada. Quando um grupo se apropria do que deveria servir a todos, o serviço se desvia. A resposta é recolocar bens, talentos e decisões a serviço da Igreja."
+    },
+    {
+      "id": "B04",
+      "explanation": "O **Corpo de Cristo** tem muitos membros e nenhum é descartável. Serviços discretos também sustentam a vida da Igreja. Desprezar um membro fere a comunhão e empobrece a missão."
+    },
+    {
+      "id": "B05",
+      "explanation": "Todo carisma precisa ser conferido pela **caridade**. Um dom que impressiona, mas humilha ou divide, está deformado. O Espírito edifica a Igreja pelo amor concreto, não pela vaidade religiosa."
+    },
+    {
+      "id": "B06",
+      "explanation": "A **vocação ao serviço** nasce do Batismo e amadurece no compromisso. Ninguém é chamado a ser mero consumidor de vida religiosa. Cada fiel deve perguntar onde seus dons podem servir de modo real e proporcional."
+    },
+    {
+      "id": "B07",
+      "explanation": "A **humildade do dom** impede que talento vire domínio. Quem recebeu mais capacidade recebeu mais responsabilidade de servir. Cristo corrige a lógica de poder e mostra que grandeza cristã passa pelo serviço."
+    },
+    {
+      "id": "B08",
+      "explanation": "A **comunhão** da Igreja não é fechamento em grupos internos. Ela forma discípulos para a missão, a caridade e o testemunho. Quando a comunidade deixa de alcançar quem está fora, precisa revisar seu rumo."
+    },
+    {
+      "id": "B09",
+      "explanation": "O **bem da Igreja** é maior que o prestígio de qualquer pastoral ou movimento. Defender território interno pode parecer zelo, mas rompe a lógica do Corpo. O serviço autêntico pergunta o que edifica a Igreja inteira."
+    },
+    {
+      "id": "B10",
+      "explanation": "A **graça** não é só consolo interior. Ela capacita o fiel a colaborar com Deus na salvação dos outros e no crescimento da Igreja. Essa graça pede cooperação humilde, formação e perseverança."
+    },
+    {
+      "id": "B11",
+      "explanation": "A ação do Espírito não justifica confusão. A **ordem na comunhão** protege pessoas, decisões e responsabilidades. Fazer tudo com dignidade e paz também é exigência de caridade."
+    },
+    {
+      "id": "B12",
+      "explanation": "Os **leigos** não são espectadores da missão da Igreja. Pelo Batismo, participam da evangelização, da caridade e da vida comunitária. Respeitar o sacerdote não significa transferir a ele toda responsabilidade."
+    },
+    {
+      "id": "B13",
+      "explanation": "A unidade cristã não exige que todos sejam iguais. **Unidade sem uniformidade** significa mesma fé, mesmo Senhor e carismas diferentes em comunhão. Apagar toda diferença legítima empobrece a Igreja."
+    },
+    {
+      "id": "B14",
+      "explanation": "A **dignidade do pequeno** impede tratar pobres, doentes e frágeis como números. A caridade cristã ajuda de modo concreto e reconhece a pessoa. Em Mt 25, Cristo se identifica com os necessitados."
+    },
+    {
+      "id": "B15",
+      "explanation": "A **fidelidade eclesial** protege os carismas de virarem projetos pessoais. Nenhum grupo está acima da fé da Igreja, dos sacramentos e da comunhão. Invocar o Espírito não dispensa obediência à verdade católica."
+    },
+    {
+      "id": "I01",
+      "explanation": "A **pastoral isolada** pode ter boa intenção e ainda assim causar dano prático. Quando grupos não dialogam, surgem sobreposição, cansaço e desperdício. A comunhão precisa aparecer também na coordenação concreta."
+    },
+    {
+      "id": "I02",
+      "explanation": "Um **movimento fechado** confunde carisma próprio com totalidade da Igreja. Amar um caminho espiritual não autoriza desprezar outros. Nenhum movimento é a Igreja inteira; todos devem servir em comunhão."
+    },
+    {
+      "id": "I03",
+      "explanation": "A **escala sem gente** revela falta de formação e partilha de responsabilidades. Poucos não devem carregar tudo enquanto muitos permanecem sem caminho para servir. A resposta cristã inclui formar novos servidores."
+    },
+    {
+      "id": "I04",
+      "explanation": "O **talento desperdiçado** aparece quando alguém enterra um dom real por medo, vergonha ou comodismo. Falsa humildade não é virtude quando impede o bem possível. O dom recebido deve ser discernido e oferecido."
+    },
+    {
+      "id": "I05",
+      "explanation": "O **protagonismo vaidoso** transforma serviço em palco. A pessoa pode até fazer algo bom, mas a intenção e o modo começam a girar em torno de si. O Evangelho chama a servir sem dominar."
+    },
+    {
+      "id": "I06",
+      "explanation": "A **caridade sem rosto** ajuda materialmente, mas esquece a pessoa concreta. Eficiência não autoriza frieza, pressa humilhante ou indiferença. A caridade cristã une auxílio, respeito e escuta."
+    },
+    {
+      "id": "I07",
+      "explanation": "A **liturgia improvisada** trata a oração da Igreja como gosto privado. Boa intenção não substitui preparação, fidelidade e sobriedade. Cuidar da liturgia é servir a Deus e à assembleia."
+    },
+    {
+      "id": "I08",
+      "explanation": "O **dízimo manipulado** usa culpa, medo ou promessa de vantagem para obter dinheiro. A contribuição é necessária, mas deve respeitar liberdade e verdade. A oferta cristã não compra bênção nem prestígio."
+    },
+    {
+      "id": "I09",
+      "explanation": "A **saúde pastoral** exige respeito pela fragilidade do doente. Visita não é curiosidade, exposição nem pressa. O cuidado cristão inclui sigilo, escuta, oração e atenção à vida sacramental."
+    },
+    {
+      "id": "I10",
+      "explanation": "A **juventude descartada** é usada para tarefas menores ou aparência pública, sem formação nem responsabilidade. O Espírito chama também desde jovem. O serviço deve ser proporcional, mas verdadeiro."
+    },
+    {
+      "id": "I11",
+      "explanation": "O **conflito de agendas** mostra falta de caridade organizada. Atividades boas podem competir entre si quando não há diálogo. Combinar calendário é modo simples de proteger a comunhão."
+    },
+    {
+      "id": "I12",
+      "explanation": "A **formação rasa** coloca pessoas e sacramentos em risco. Boa vontade é importante, mas não basta para toda tarefa. Quem serve precisa aprender a fé, a função e os limites do próprio serviço."
+    },
+    {
+      "id": "I13",
+      "explanation": "O **serviço invisível** sustenta a comunidade sem aparecer. A falta de visibilidade não diminui seu valor. A Igreja precisa aprender a reconhecer esses membros necessários do Corpo de Cristo."
+    },
+    {
+      "id": "I14",
+      "explanation": "A **acolhida seletiva** contradiz o Evangelho. Tratar melhor quem tem prestígio e constranger quem é pobre ou ferido é injustiça concreta. A comunidade cristã deve acolher pela dignidade, não pela aparência."
+    },
+    {
+      "id": "I15",
+      "explanation": "A **missão esquecida** aparece quando o grupo conserva sua rotina, mas já não evangeliza nem serve. Atividade interna não é automaticamente fecunda. É preciso perguntar quem está sendo formado, alcançado e ajudado."
+    },
+    {
+      "id": "N01",
+      "explanation": "O erro do **dom como palco** é transformar graça recebida em exibição. Talento existe para servir, não para tomar o centro. Quando o destaque pessoal manda, a caridade perde espaço."
+    },
+    {
+      "id": "N02",
+      "explanation": "A frase **meu grupo basta** parece valorizar um carisma, mas rompe a comunhão. Um movimento pode ajudar muito sem substituir a Igreja. O cristão pertence ao Corpo inteiro, não a uma bolha espiritual."
+    },
+    {
+      "id": "N03",
+      "explanation": "**Sempre foi assim** pode esconder medo de conversão. Nem todo costume local é Tradição da Igreja. Quando uma prática fere a missão ou afasta injustamente as pessoas, precisa ser revista."
+    },
+    {
+      "id": "N04",
+      "explanation": "**Ninguém precisa de mim** pode ser ferida sincera, mas também falsa humildade. O corpo sente a falta dos membros que se omitem. O caminho é discernir o dom e oferecê-lo de modo concreto."
+    },
+    {
+      "id": "N05",
+      "explanation": "**Só os adultos servem** adia indevidamente o compromisso cristão. Jovens também recebem dons e podem assumir responsabilidades proporcionais. A Igreja deve formar, acompanhar e confiar tarefas reais."
+    },
+    {
+      "id": "N06",
+      "explanation": "**Servir é ocupar agenda** reduz a fidelidade a quantidade de reuniões. Serviço cristão exige caridade, oração, competência e limites. Agenda cheia sem discernimento pode virar ativismo e injustiça."
+    },
+    {
+      "id": "N07",
+      "explanation": "**Carisma sem Igreja** é contradição. O Espírito Santo não conduz à ruptura com a fé, os sacramentos e a comunhão. Toda inspiração precisa ser discernida dentro da Igreja."
+    },
+    {
+      "id": "N08",
+      "explanation": "A **crítica sem conversão** vê erros, mas se recusa a caminhar para corrigi-los. Criticar pode ser necessário, porém exige verdade, responsabilidade e caridade. O Evangelho propõe correção, não superioridade estéril."
+    },
+    {
+      "id": "N09",
+      "explanation": "**O padre resolve tudo** enfraquece a missão dos leigos e sobrecarrega o sacerdote. A comunidade não é infantil diante da missão. Pelo Batismo, muitos membros têm responsabilidades reais."
+    },
+    {
+      "id": "N10",
+      "explanation": "A ideia de **movimento perfeito** impede correção e encobre feridas. Amar um grupo não significa negar seus pecados. A fidelidade verdadeira aceita verdade, reparação e conversão."
+    },
+    {
+      "id": "N11",
+      "explanation": "**Só emoção confirma** é critério insuficiente. Emoções podem acompanhar a fé, mas não provam sozinhas a ação do Espírito. O discernimento cristão procura frutos de caridade, verdade e perseverança."
+    },
+    {
+      "id": "N12",
+      "explanation": "**Sem aplauso, sem valor** é mentira contra o serviço humilde. Reconhecimento justo é bom, mas não é a fonte do valor da caridade. Deus vê o bem feito no oculto."
+    },
+    {
+      "id": "N13",
+      "explanation": "**Unidade é concordar** confunde comunhão com silêncio forçado. A Igreja precisa de caridade e verdade, não de medo. Perguntas honestas podem ajudar a comunidade a discernir melhor."
+    },
+    {
+      "id": "N14",
+      "explanation": "**Obediência cega** é deformação da obediência cristã. Autoridade legítima não manda encobrir dano, abuso ou injustiça. Quando uma ordem exige cumplicidade com o mal, ela precisa ser recusada pelo caminho correto."
+    },
+    {
+      "id": "N15",
+      "explanation": "**Missão sem formação** coloca pessoas vulneráveis em risco. Boa vontade sem prudência pode ferir justamente quem se queria ajudar. A caridade exige preparação proporcional à gravidade da tarefa."
+    },
+    {
+      "id": "G01",
+      "explanation": "**Dom ou posse** distingue serviço recebido de território pessoal. Quem se apropria de uma tarefa impede outros de crescer e servir. O dom deve ser administrado para o bem comum."
+    },
+    {
+      "id": "G02",
+      "explanation": "**Pastoral ou movimento** não são a mesma coisa. Pastoral é serviço organizado diante de uma necessidade da comunidade; movimento tem carisma ou espiritualidade própria. Ambos devem permanecer em comunhão com a Igreja."
+    },
+    {
+      "id": "G03",
+      "explanation": "**Unidade ou uniformidade** é distinção essencial. Unidade é comunhão na fé e na caridade; uniformidade é exigir que todos façam tudo do mesmo modo. A diversidade legítima pode enriquecer a Igreja."
+    },
+    {
+      "id": "G04",
+      "explanation": "**Serviço ou ativismo** distingue caridade ordenada de correria vazia. Trabalhar muito não basta se falta oração, fruto e qualidade. O serviço cristão precisa de raiz espiritual e discernimento."
+    },
+    {
+      "id": "G05",
+      "explanation": "**Fidelidade ou fechamento** separa amor a um carisma de isolamento. Ter identidade própria é legítimo. Recusar comunhão, correção e colaboração já não é fidelidade, mas fechamento."
+    },
+    {
+      "id": "G06",
+      "explanation": "**Correção ou disputa** distingue busca de verdade de vontade de vencer. Erros reais precisam ser tratados com fatos, proporção e caridade. Humilhar não é corrigir segundo o Evangelho."
+    },
+    {
+      "id": "G07",
+      "explanation": "**Emoção ou fruto** ajuda a discernir experiências religiosas. A emoção pode ser sincera, mas precisa amadurecer em conversão. O fruto aparece em caridade, comunhão, perdão e serviço."
+    },
+    {
+      "id": "G08",
+      "explanation": "**Acolhida ou aprovação** evita dois erros opostos. Rejeitar a pessoa fere a misericórdia; aprovar tudo fere a verdade. Cristo acolhe o pecador e chama à conversão."
+    },
+    {
+      "id": "G09",
+      "explanation": "**Tradição ou costume** distingue fé recebida de prática local revisável. A Tradição deve ser guardada. Costumes que dificultam a missão sem necessidade podem ser corrigidos com prudência."
+    },
+    {
+      "id": "G10",
+      "explanation": "**Autoridade ou abuso** distingue serviço legítimo de domínio. A autoridade cristã orienta, protege e edifica. Quando usa medo, ameaça ou manipulação, deixa de agir segundo Cristo servidor."
+    },
+    {
+      "id": "G11",
+      "explanation": "**Oferta ou pressão** é distinção necessária no uso do dinheiro. A comunidade pode pedir ajuda com transparência e responsabilidade. Não pode constranger, manipular culpa ou vender bênçãos."
+    },
+    {
+      "id": "G12",
+      "explanation": "**Disponível ou esgotado** distingue generosidade de imprudência. Servir não autoriza destruir saúde, família, trabalho e oração. Limites bem discernidos protegem a missão e a pessoa."
+    },
+    {
+      "id": "G13",
+      "explanation": "**Silêncio ou omissão** exige prudência. Nem tudo deve ser exposto publicamente, mas calar diante de dano real pode ser cumplicidade. A caridade encontra o caminho correto para falar."
+    },
+    {
+      "id": "G14",
+      "explanation": "**Competência ou vaidade** distingue preparo de superioridade. A Igreja precisa de servidores bem formados. Mas conhecimento usado para humilhar deixa de edificar e precisa de conversão."
+    },
+    {
+      "id": "G15",
+      "explanation": "**Chamar ou explorar** distingue convite vocacional de uso da boa vontade. Quem chama deve explicar, formar e acompanhar. Cobrar sem preparar é injusto e pastoralmente irresponsável."
+    },
+    {
+      "id": "O01",
+      "explanation": "**Nomear o dom** é reconhecer com honestidade o que Deus confiou. Não é vaidade quando a finalidade é servir. Também não é humildade esconder sempre uma capacidade que pode edificar a Igreja."
+    },
+    {
+      "id": "O02",
+      "explanation": "**Escolher um serviço** transforma intenção vaga em compromisso real. Melhor assumir algo possível e fiel do que prometer tudo e abandonar. A caridade amadurece em decisão concreta."
+    },
+    {
+      "id": "O03",
+      "explanation": "**Buscar formação** é ato de responsabilidade. Quem serve em nome da Igreja precisa conhecer a fé, a função e os limites da tarefa. Formação protege contra improvisação e erro."
+    },
+    {
+      "id": "O04",
+      "explanation": "**Combinar agenda** parece simples, mas é caridade prática. Evita concorrência entre ações boas e cansaço dos mesmos servidores. A ordem ajuda a comunidade a servir melhor."
+    },
+    {
+      "id": "O05",
+      "explanation": "**Partilhar tarefas** combate a sobrecarga e forma novos servidores. Não basta pedir ajuda de qualquer jeito; é preciso ensinar, acompanhar e distribuir responsabilidades. O corpo cresce quando muitos membros servem."
+    },
+    {
+      "id": "O06",
+      "explanation": "**Acolher com critério** une misericórdia e verdade. A pessoa deve ser recebida sem exposição nem desprezo. Ao mesmo tempo, problemas reais pedem encaminhamento responsável, não respostas improvisadas."
+    },
+    {
+      "id": "O07",
+      "explanation": "**Servir sem aparecer** purifica a intenção e sustenta a comunidade. Tarefas ocultas também edificam a Igreja. A falta de aplauso não tira valor do serviço feito por amor."
+    },
+    {
+      "id": "O08",
+      "explanation": "**Prestar contas** protege a confiança. Dinheiro, decisões e critérios precisam de clareza. A transparência deve caminhar com sigilo e respeito pelas pessoas atendidas."
+    },
+    {
+      "id": "O09",
+      "explanation": "**Rezar e agir** impede dois desvios. Ativismo esquece Deus; passividade religiosa usa oração para fugir da caridade. A fé viva une oração, sacramentos e compromisso concreto."
+    },
+    {
+      "id": "O10",
+      "explanation": "**Corrigir com caridade** não é passar pano nem humilhar. O erro precisa ser tratado com verdade, proporção e finalidade de reparação. O caminho cristão busca conversão e proteção do bem comum."
+    },
+    {
+      "id": "O11",
+      "explanation": "**Encaminhar fragilidades** reconhece que nem todo problema cabe ao voluntário resolver. A oração continua necessária, mas não substitui ajuda competente quando há risco grave. Cuidar também é saber pedir apoio."
+    },
+    {
+      "id": "O12",
+      "explanation": "**Convidar com liberdade** respeita a consciência e a realidade da pessoa. O convite deve explicar tarefa, tempo e formação. Serviço assumido por pressão dificilmente amadurece em caridade estável."
+    },
+    {
+      "id": "O13",
+      "explanation": "**Sair do fechamento** é abrir colaboração sem apagar identidade. Um grupo pode manter seu carisma e ainda servir com outros. A comunhão concreta vence a lógica de bolha."
+    },
+    {
+      "id": "O14",
+      "explanation": "**Cuidar da liturgia** é servir à oração da Igreja. Preparação, sobriedade e fidelidade não são detalhe secundário. A celebração não pertence ao gosto da equipe, mas ao culto de Deus."
+    },
+    {
+      "id": "O15",
+      "explanation": "**Revisar a missão** é perguntar se a pastoral ainda evangeliza, forma e serve. Avaliar não é atacar pessoas. É buscar fidelidade, corrigir falhas e ordenar forças ao bem da Igreja."
+    }
+  ]
+}

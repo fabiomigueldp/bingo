@@ -1,0 +1,1159 @@
+{
+  "title": "Bingo — A consciência moral",
+  "meeting": "Encontro 10 — A consciência moral",
+  "meeting_label": "Encontro 10",
+  "output_slug": "bingo_a_consciencia_moral",
+  "core_message": "A consciência moral é o juízo da razão diante de Deus: deve ser obedecida quando reconhece o bem, mas precisa ser formada pela Palavra, pela Igreja e pela caridade para não transformar liberdade em queda para o irmão.",
+  "source_meeting_markdown": "projects/catequese/material_didatico/output/markdown/encontro_10.md",
+  "scripture": [
+    "1Cor 8,4-13",
+    "1Cor 8,9",
+    "1Cor 8,12-13",
+    "Rm 14,21",
+    "Mt 7,12",
+    "Gl 5,13",
+    "Sl 119,105",
+    "Rm 12,2",
+    "Jo 8,31-32",
+    "Tg 4,17",
+    "Mt 5,23-24",
+    "Lc 19,8",
+    "1Jo 1,8-9",
+    "Pr 12,15",
+    "Sl 139,23-24",
+    "Ef 4,25"
+  ],
+  "catechism": [
+    "CEC 1776",
+    "CEC 1778",
+    "CEC 1783",
+    "CEC 1784",
+    "CEC 1785",
+    "CEC 1789",
+    "CEC 1790",
+    "CEC 1792",
+    "CEC 1793",
+    "CEC 1735",
+    "CEC 1803",
+    "CEC 1849"
+  ],
+  "card_model": {
+    "total_terms": 75,
+    "columns": 5,
+    "terms_per_column": 15,
+    "grid": "5x5",
+    "center": {
+      "label": "LIVRE / 1Cor 8,4-13",
+      "fixed": true,
+      "called": false
+    },
+    "recommended_win_condition": "duas_linhas"
+  },
+  "columns": [
+    {
+      "key": "B",
+      "title": "Base moral",
+      "function": "Fundamentos bíblicos e doutrinais para ler o tema.",
+      "short_function": "fundamento cristão do tema"
+    },
+    {
+      "key": "I",
+      "title": "Situações concretas",
+      "function": "Formas reais em que o tema aparece na vida concreta, em situações inteligíveis para a turma.",
+      "short_function": "situações concretas do tema"
+    },
+    {
+      "key": "N",
+      "title": "Narrativas falsas",
+      "function": "Desculpas, autoenganos e frases que desviam do bem.",
+      "short_function": "desculpas que normalizam o erro"
+    },
+    {
+      "key": "G",
+      "title": "Discernimentos",
+      "function": "Distinções morais que evitam respostas simplistas.",
+      "short_function": "distinções para discernir"
+    },
+    {
+      "key": "O",
+      "title": "Orientações de resposta",
+      "function": "Ações concretas, prudentes e proporcionais diante do problema.",
+      "short_function": "respostas proporcionais e prudentes"
+    }
+  ],
+  "terms": [
+    {
+      "id": "B01",
+      "column": "B",
+      "label": "Sacrário da consciência",
+      "definition": "Lugar interior em que a pessoa se reconhece diante de Deus e escuta a exigência do bem, sem reduzir a consciência a gosto, medo ou pressão externa.",
+      "anchors": [
+        "CEC 1776",
+        "Gaudium et spes 16"
+      ],
+      "tags": [
+        "consciência",
+        "interioridade"
+      ]
+    },
+    {
+      "id": "B02",
+      "column": "B",
+      "label": "Juízo da razão",
+      "definition": "Ato pelo qual a pessoa reconhece a qualidade moral de uma ação concreta que planeja, executa ou já praticou.",
+      "anchors": [
+        "CEC 1778"
+      ],
+      "tags": [
+        "razão",
+        "ato concreto"
+      ]
+    },
+    {
+      "id": "B03",
+      "column": "B",
+      "label": "Lei inscrita por Deus",
+      "definition": "A consciência não inventa o bem e o mal; ela percebe uma lei moral que precede a vontade humana e chama a amar, fazer o bem e evitar o mal.",
+      "anchors": [
+        "CEC 1776",
+        "Rm 2,15"
+      ],
+      "tags": [
+        "lei moral",
+        "Deus"
+      ]
+    },
+    {
+      "id": "B04",
+      "column": "B",
+      "label": "Bem conhecido",
+      "definition": "Quando alguém reconhece com seriedade o que é justo, deve segui-lo; agir contra o bem conhecido fere a própria consciência.",
+      "anchors": [
+        "CEC 1790",
+        "Tg 4,17"
+      ],
+      "tags": [
+        "responsabilidade",
+        "obediência"
+      ]
+    },
+    {
+      "id": "B05",
+      "column": "B",
+      "label": "Consciência formada",
+      "definition": "Consciência educada pela verdade, capaz de julgar com retidão segundo a razão e o bem querido por Deus.",
+      "anchors": [
+        "CEC 1783",
+        "CEC 1784"
+      ],
+      "tags": [
+        "formação",
+        "verdade"
+      ]
+    },
+    {
+      "id": "B06",
+      "column": "B",
+      "label": "Palavra como luz",
+      "definition": "A Palavra de Deus ilumina o caminho moral, corrige enganos e dá critérios para aplicar a fé às escolhas concretas.",
+      "anchors": [
+        "CEC 1785",
+        "Sl 119,105"
+      ],
+      "tags": [
+        "Palavra de Deus",
+        "luz"
+      ]
+    },
+    {
+      "id": "B07",
+      "column": "B",
+      "label": "Magistério da Igreja",
+      "definition": "Ensinamento autorizado que ajuda a consciência a não se fechar no próprio julgamento e a permanecer ligada à verdade recebida de Cristo.",
+      "anchors": [
+        "CEC 1785",
+        "CEC 1792"
+      ],
+      "tags": [
+        "Igreja",
+        "ensinamento"
+      ]
+    },
+    {
+      "id": "B08",
+      "column": "B",
+      "label": "Exame de consciência",
+      "definition": "Prática de confrontar a vida concreta com Deus, reconhecendo atos, omissões, intenções e responsabilidades diante do bem.",
+      "anchors": [
+        "CEC 1785",
+        "Sl 139,23-24"
+      ],
+      "tags": [
+        "exame",
+        "conversão"
+      ]
+    },
+    {
+      "id": "B09",
+      "column": "B",
+      "label": "Caridade como critério",
+      "definition": "Critério cristão que impede usar a própria liberdade de modo a ferir, enfraquecer ou escandalizar a consciência do irmão.",
+      "anchors": [
+        "CEC 1789",
+        "1Cor 8,9",
+        "1Cor 8,12-13"
+      ],
+      "tags": [
+        "caridade",
+        "liberdade"
+      ]
+    },
+    {
+      "id": "B10",
+      "column": "B",
+      "label": "Liberdade responsável",
+      "definition": "Liberdade que busca o bem verdadeiro e aceita responder pelos efeitos dos próprios atos, especialmente sobre os mais frágeis.",
+      "anchors": [
+        "Gl 5,13",
+        "CEC 1789"
+      ],
+      "tags": [
+        "liberdade",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "B11",
+      "column": "B",
+      "label": "Escândalo moral",
+      "definition": "Ato, palavra ou exemplo que leva outra pessoa ao pecado, enfraquece sua consciência ou torna o mal mais aceitável.",
+      "anchors": [
+        "1Cor 8,9",
+        "Rm 14,21",
+        "CEC 1789"
+      ],
+      "tags": [
+        "escândalo",
+        "exemplo"
+      ]
+    },
+    {
+      "id": "B12",
+      "column": "B",
+      "label": "Pecado contra Cristo",
+      "definition": "Ferir a consciência do irmão não é dano neutro; a fé cristã reconhece que pecar contra o irmão é também pecar contra Cristo.",
+      "anchors": [
+        "1Cor 8,12",
+        "CEC 1849"
+      ],
+      "tags": [
+        "pecado",
+        "Cristo"
+      ]
+    },
+    {
+      "id": "B13",
+      "column": "B",
+      "label": "Regra de ouro",
+      "definition": "Critério moral que manda tratar o outro como se deseja ser tratado, impedindo vantagens injustas e julgamentos convenientes.",
+      "anchors": [
+        "CEC 1789",
+        "Mt 7,12"
+      ],
+      "tags": [
+        "justiça",
+        "próximo"
+      ]
+    },
+    {
+      "id": "B14",
+      "column": "B",
+      "label": "Hábito virtuoso",
+      "definition": "Disposição firme de praticar o bem, formada por escolhas repetidas que educam a liberdade e fortalecem a consciência.",
+      "anchors": [
+        "CEC 1803",
+        "Hb 5,14"
+      ],
+      "tags": [
+        "virtude",
+        "hábito"
+      ]
+    },
+    {
+      "id": "B15",
+      "column": "B",
+      "label": "Graça e conversão",
+      "definition": "A formação da consciência não é só esforço humano; precisa da graça de Deus, da conversão real e da abertura humilde ao perdão.",
+      "anchors": [
+        "CEC 1784",
+        "1Jo 1,8-9"
+      ],
+      "tags": [
+        "graça",
+        "conversão"
+      ]
+    },
+    {
+      "id": "I01",
+      "column": "I",
+      "label": "Contrato fraudado",
+      "definition": "Situação em que alguém usa letras miúdas, pressa ou linguagem técnica para obter consentimento injusto e esconder dano real.",
+      "anchors": [
+        "B02",
+        "B13",
+        "Ef 4,25"
+      ],
+      "tags": [
+        "fraude",
+        "contrato"
+      ]
+    },
+    {
+      "id": "I02",
+      "column": "I",
+      "label": "Repasse humilhante",
+      "definition": "Circulação de imagem, vídeo ou informação que expõe alguém ao desprezo, mesmo quando quem repassa não produziu o conteúdo.",
+      "anchors": [
+        "B11",
+        "B12",
+        "CEC 1789"
+      ],
+      "tags": [
+        "exposição",
+        "humilhação"
+      ]
+    },
+    {
+      "id": "I03",
+      "column": "I",
+      "label": "Atestado falso",
+      "definition": "Uso de documento médico ou profissional falso para obter vantagem indevida, escapar de dever ou enganar uma instituição.",
+      "anchors": [
+        "B02",
+        "B04",
+        "Ef 4,25"
+      ],
+      "tags": [
+        "mentira",
+        "dever"
+      ]
+    },
+    {
+      "id": "I04",
+      "column": "I",
+      "label": "Silêncio no acidente",
+      "definition": "Omissão de testemunho ou ajuda diante de um dano grave, por medo, conveniência ou desejo de não se envolver.",
+      "anchors": [
+        "Tg 4,17",
+        "B04",
+        "G11"
+      ],
+      "tags": [
+        "omissão",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "I05",
+      "column": "I",
+      "label": "Propina normalizada",
+      "definition": "Pagamento ou exigência de vantagem indevida tratado como costume, atalho ou condição prática para conseguir o que deveria ser justo.",
+      "anchors": [
+        "B13",
+        "N03",
+        "N05"
+      ],
+      "tags": [
+        "corrupção",
+        "injustiça"
+      ]
+    },
+    {
+      "id": "I06",
+      "column": "I",
+      "label": "Abandono de idoso",
+      "definition": "Negligência concreta de cuidado, presença, proteção ou sustento de pessoa vulnerável que depende de outros para viver com dignidade.",
+      "anchors": [
+        "B09",
+        "Mt 7,12",
+        "G10"
+      ],
+      "tags": [
+        "vulnerável",
+        "família"
+      ]
+    },
+    {
+      "id": "I07",
+      "column": "I",
+      "label": "Mentira no currículo",
+      "definition": "Falsificação da própria competência para obter cargo, confiança ou responsabilidade que exige verdade e preparo real.",
+      "anchors": [
+        "B02",
+        "B04",
+        "Ef 4,25"
+      ],
+      "tags": [
+        "verdade",
+        "trabalho"
+      ]
+    },
+    {
+      "id": "I08",
+      "column": "I",
+      "label": "Venda ao vulnerável",
+      "definition": "Oferta de produto, dívida ou serviço explorando confusão, dependência, medo ou fragilidade de quem não consegue avaliar bem.",
+      "anchors": [
+        "B09",
+        "B13",
+        "O11"
+      ],
+      "tags": [
+        "exploração",
+        "vulnerabilidade"
+      ]
+    },
+    {
+      "id": "I09",
+      "column": "I",
+      "label": "Exposição do doente",
+      "definition": "Uso da imagem ou sofrimento de uma pessoa enferma para comoção, aprovação social ou vantagem, sem respeito à sua dignidade.",
+      "anchors": [
+        "B12",
+        "G12",
+        "B13"
+      ],
+      "tags": [
+        "doença",
+        "dignidade"
+      ]
+    },
+    {
+      "id": "I10",
+      "column": "I",
+      "label": "Nota fiscal comprada",
+      "definition": "Fraude documental usada para esconder circulação de dinheiro, reduzir obrigação legítima ou simular serviço que não existiu.",
+      "anchors": [
+        "B02",
+        "B04",
+        "N05"
+      ],
+      "tags": [
+        "fraude",
+        "dinheiro"
+      ]
+    },
+    {
+      "id": "I11",
+      "column": "I",
+      "label": "Vício encoberto",
+      "definition": "Ocultação de dependência destrutiva por aparência, medo ou vergonha, permitindo que o dano avance sem ajuda real.",
+      "anchors": [
+        "G10",
+        "O04",
+        "O10"
+      ],
+      "tags": [
+        "vício",
+        "ajuda"
+      ]
+    },
+    {
+      "id": "I12",
+      "column": "I",
+      "label": "Dano ambiental oculto",
+      "definition": "Prática escondida que transfere poluição, risco ou prejuízo à comunidade para preservar lucro ou reputação.",
+      "anchors": [
+        "B13",
+        "B04",
+        "O13"
+      ],
+      "tags": [
+        "ambiente",
+        "ocultação"
+      ]
+    },
+    {
+      "id": "I13",
+      "column": "I",
+      "label": "Ordem injusta no trabalho",
+      "definition": "Comando de superior que exige mentira, fraude, exploração ou dano, colocando a obediência profissional contra a consciência moral.",
+      "anchors": [
+        "B04",
+        "G14",
+        "O06"
+      ],
+      "tags": [
+        "trabalho",
+        "autoridade"
+      ]
+    },
+    {
+      "id": "I14",
+      "column": "I",
+      "label": "Relação manipuladora",
+      "definition": "Vínculo em que cuidado, amor ou ciúme são usados para controlar decisões, amizades, corpo, tempo ou liberdade do outro.",
+      "anchors": [
+        "G07",
+        "G14",
+        "O11"
+      ],
+      "tags": [
+        "controle",
+        "afetividade"
+      ]
+    },
+    {
+      "id": "I15",
+      "column": "I",
+      "label": "Exemplo que derruba",
+      "definition": "Conduta pública de alguém com influência que torna o mal mais aceitável para outros e enfraquece a confiança no bem.",
+      "anchors": [
+        "B11",
+        "1Cor 8,9",
+        "Rm 14,21"
+      ],
+      "tags": [
+        "exemplo",
+        "escândalo"
+      ]
+    },
+    {
+      "id": "N01",
+      "column": "N",
+      "label": "Falsa autonomia",
+      "definition": "Engano de tratar a própria vontade como medida absoluta, sem reconhecer Deus, o bem objetivo, o próximo e as consequências dos atos.",
+      "anchors": [
+        "CEC 1792",
+        "B10"
+      ],
+      "tags": [
+        "autonomia",
+        "autoengano"
+      ]
+    },
+    {
+      "id": "N02",
+      "column": "N",
+      "label": "Consciência como sentimento",
+      "definition": "Redução da consciência a sensação de paz, culpa, gosto ou desconforto, como se sentir algo bastasse para tornar o ato bom.",
+      "anchors": [
+        "CEC 1778",
+        "B02"
+      ],
+      "tags": [
+        "sentimento",
+        "subjetivismo"
+      ]
+    },
+    {
+      "id": "N03",
+      "column": "N",
+      "label": "Todo mundo faz",
+      "definition": "Desculpa que transforma costume difundido em permissão moral, apagando responsabilidade pessoal diante do bem conhecido.",
+      "anchors": [
+        "CEC 1792",
+        "Rm 12,2"
+      ],
+      "tags": [
+        "pressão social",
+        "desculpa"
+      ]
+    },
+    {
+      "id": "N04",
+      "column": "N",
+      "label": "Meio mau, fim bom",
+      "definition": "Narrativa que justifica mentira, injustiça ou violência alegando que o resultado desejado é bom ou útil.",
+      "anchors": [
+        "CEC 1789"
+      ],
+      "tags": [
+        "meios",
+        "fim"
+      ]
+    },
+    {
+      "id": "N05",
+      "column": "N",
+      "label": "Legal é moral",
+      "definition": "Erro de confundir permissibilidade jurídica com bondade moral, como se uma brecha legal tornasse justo qualquer ganho.",
+      "anchors": [
+        "B02",
+        "B13"
+      ],
+      "tags": [
+        "legalismo",
+        "justiça"
+      ]
+    },
+    {
+      "id": "N06",
+      "column": "N",
+      "label": "Só obedeci ordens",
+      "definition": "Desculpa que tenta transferir toda a responsabilidade moral para a autoridade, apagando o dever de não cooperar com o mal.",
+      "anchors": [
+        "B04",
+        "G14",
+        "O06"
+      ],
+      "tags": [
+        "ordem injusta",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "N07",
+      "column": "N",
+      "label": "Ninguém está vendo",
+      "definition": "Autoengano que mede o mal pela chance de ser descoberto, e não pela verdade do ato diante de Deus e da consciência.",
+      "anchors": [
+        "B01",
+        "B04"
+      ],
+      "tags": [
+        "oculto",
+        "tentação"
+      ]
+    },
+    {
+      "id": "N08",
+      "column": "N",
+      "label": "Culpa diluída",
+      "definition": "Desculpa de reduzir a própria participação no mal porque muitos também participaram, como se a multidão apagasse a escolha pessoal.",
+      "anchors": [
+        "B04",
+        "I02"
+      ],
+      "tags": [
+        "cooperação",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "N09",
+      "column": "N",
+      "label": "Liberdade sem caridade",
+      "definition": "Uso da liberdade como licença para agir sem considerar a consciência do outro, os frágeis e o risco de escândalo.",
+      "anchors": [
+        "B09",
+        "Gl 5,13",
+        "1Cor 8,9"
+      ],
+      "tags": [
+        "liberdade",
+        "caridade"
+      ]
+    },
+    {
+      "id": "N10",
+      "column": "N",
+      "label": "Culpa sem reparação",
+      "definition": "Engano de substituir conversão por sentimento de culpa, lamento ou choro, sem reconhecer a verdade nem reparar o dano possível.",
+      "anchors": [
+        "O07",
+        "Mt 5,23-24",
+        "Lc 19,8"
+      ],
+      "tags": [
+        "culpa",
+        "reparação"
+      ]
+    },
+    {
+      "id": "N11",
+      "column": "N",
+      "label": "Relativismo cômodo",
+      "definition": "Negação prática do bem e do mal quando reconhecer a verdade exigiria conversão, perda de vantagem ou conflito necessário.",
+      "anchors": [
+        "CEC 1792",
+        "Jo 8,31-32"
+      ],
+      "tags": [
+        "relativismo",
+        "comodismo"
+      ]
+    },
+    {
+      "id": "N12",
+      "column": "N",
+      "label": "Hábito como desculpa",
+      "definition": "Uso do próprio costume errado como se fosse identidade fixa, sem admitir responsabilidade, formação da virtude e conversão.",
+      "anchors": [
+        "B14",
+        "CEC 1784"
+      ],
+      "tags": [
+        "hábito",
+        "desculpa"
+      ]
+    },
+    {
+      "id": "N13",
+      "column": "N",
+      "label": "Ciência sem amor",
+      "definition": "Uso de conhecimento correto para desprezar, confundir ou derrubar os fracos, em vez de servir à caridade e à verdade.",
+      "anchors": [
+        "1Cor 8,4-13",
+        "B09"
+      ],
+      "tags": [
+        "conhecimento",
+        "amor"
+      ]
+    },
+    {
+      "id": "N14",
+      "column": "N",
+      "label": "Covardia prudente",
+      "definition": "Nome falso dado à omissão quando a pessoa evita agir contra o mal por medo de desconforto, custo ou perda de imagem.",
+      "anchors": [
+        "G11",
+        "Tg 4,17"
+      ],
+      "tags": [
+        "prudência",
+        "omissão"
+      ]
+    },
+    {
+      "id": "N15",
+      "column": "N",
+      "label": "Tanto faz agora",
+      "definition": "Desânimo moral que usa o erro já cometido como licença para continuar errando, recusando correção, graça e recomeço.",
+      "anchors": [
+        "B15",
+        "1Jo 1,8-9"
+      ],
+      "tags": [
+        "desânimo",
+        "conversão"
+      ]
+    },
+    {
+      "id": "G01",
+      "column": "G",
+      "label": "Pessoa e ato",
+      "definition": "Distinção entre a dignidade da pessoa, que permanece, e a avaliação moral do ato, que pode ser bom ou mau.",
+      "anchors": [
+        "B12",
+        "CEC 1849"
+      ],
+      "tags": [
+        "dignidade",
+        "ato"
+      ]
+    },
+    {
+      "id": "G02",
+      "column": "G",
+      "label": "Consciência e capricho",
+      "definition": "Distinção entre juízo moral sério, formado pela verdade, e preferência pessoal usada para justificar o que se quer fazer.",
+      "anchors": [
+        "B02",
+        "N02"
+      ],
+      "tags": [
+        "juízo",
+        "capricho"
+      ]
+    },
+    {
+      "id": "G03",
+      "column": "G",
+      "label": "Juízo certo e erro",
+      "definition": "Distinção entre seguir a consciência quando ela julga com retidão e reconhecer que ela pode errar e precisa ser corrigida.",
+      "anchors": [
+        "CEC 1790",
+        "CEC 1793"
+      ],
+      "tags": [
+        "erro",
+        "retidão"
+      ]
+    },
+    {
+      "id": "G04",
+      "column": "G",
+      "label": "Ignorância vencível",
+      "definition": "Ignorância que poderia e deveria ser superada por busca honesta da verdade, conselho, estudo e conversão.",
+      "anchors": [
+        "CEC 1792",
+        "CEC 1783"
+      ],
+      "tags": [
+        "ignorância",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "G05",
+      "column": "G",
+      "label": "Ignorância invencível",
+      "definition": "Ignorância pela qual a pessoa não é moralmente culpável quando não tinha meios reais de saber, embora o ato errado continue sendo desordem.",
+      "anchors": [
+        "CEC 1793"
+      ],
+      "tags": [
+        "ignorância",
+        "imputabilidade"
+      ]
+    },
+    {
+      "id": "G06",
+      "column": "G",
+      "label": "Culpa e imputabilidade",
+      "definition": "Distinção entre a gravidade objetiva de um ato e a responsabilidade subjetiva da pessoa, que pode ser diminuída por fatores reais.",
+      "anchors": [
+        "CEC 1735",
+        "CEC 1793"
+      ],
+      "tags": [
+        "culpa",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "G07",
+      "column": "G",
+      "label": "Liberdade e impulso",
+      "definition": "Distinção entre escolher o bem com domínio de si e apenas obedecer a impulso, paixão, medo ou pressão do momento.",
+      "anchors": [
+        "B10",
+        "CEC 1784"
+      ],
+      "tags": [
+        "liberdade",
+        "impulso"
+      ]
+    },
+    {
+      "id": "G08",
+      "column": "G",
+      "label": "Lícito e conveniente",
+      "definition": "Distinção entre algo permitido em si e aquilo que convém fazer diante de pessoas concretas, riscos e caridade.",
+      "anchors": [
+        "1Cor 8,4-13",
+        "B09"
+      ],
+      "tags": [
+        "discernimento",
+        "caridade"
+      ]
+    },
+    {
+      "id": "G09",
+      "column": "G",
+      "label": "Escândalo e discordância",
+      "definition": "Distinção entre levar alguém ao mal por mau exemplo e simplesmente provocar incômodo porque se praticou o bem ou se disse a verdade.",
+      "anchors": [
+        "B11",
+        "1Cor 8,9"
+      ],
+      "tags": [
+        "escândalo",
+        "discordância"
+      ]
+    },
+    {
+      "id": "G10",
+      "column": "G",
+      "label": "Caridade e conivência",
+      "definition": "Distinção entre amar a pessoa com paciência e acobertar o mal de modo que ele continue ferindo a própria pessoa e os outros.",
+      "anchors": [
+        "B09",
+        "O11"
+      ],
+      "tags": [
+        "caridade",
+        "conivência"
+      ]
+    },
+    {
+      "id": "G11",
+      "column": "G",
+      "label": "Prudência e omissão",
+      "definition": "Distinção entre agir com sabedoria, tempo e proporção, e deixar de agir por medo, comodismo ou conveniência.",
+      "anchors": [
+        "Tg 4,17",
+        "B04"
+      ],
+      "tags": [
+        "prudência",
+        "omissão"
+      ]
+    },
+    {
+      "id": "G12",
+      "column": "G",
+      "label": "Verdade e humilhação",
+      "definition": "Distinção entre dizer a verdade necessária para corrigir o mal e expor alguém para ferir, dominar ou se vingar.",
+      "anchors": [
+        "Ef 4,25",
+        "B13"
+      ],
+      "tags": [
+        "verdade",
+        "humilhação"
+      ]
+    },
+    {
+      "id": "G13",
+      "column": "G",
+      "label": "Reparação e punição",
+      "definition": "Distinção entre restaurar o que foi ferido e simplesmente descarregar raiva sobre quem errou, sem justiça nem conversão.",
+      "anchors": [
+        "O07",
+        "Mt 5,23-24",
+        "Lc 19,8"
+      ],
+      "tags": [
+        "reparação",
+        "justiça"
+      ]
+    },
+    {
+      "id": "G14",
+      "column": "G",
+      "label": "Autoridade e abuso",
+      "definition": "Distinção entre autoridade legítima a serviço do bem comum e uso do poder para exigir mentira, medo, exploração ou obediência cega.",
+      "anchors": [
+        "N06",
+        "O06"
+      ],
+      "tags": [
+        "autoridade",
+        "abuso"
+      ]
+    },
+    {
+      "id": "G15",
+      "column": "G",
+      "label": "Misericórdia e banalização",
+      "definition": "Distinção entre perdoar e abrir caminho de conversão, e tratar o pecado como irrelevante, sem verdade, reparação ou mudança.",
+      "anchors": [
+        "B15",
+        "N10",
+        "O07"
+      ],
+      "tags": [
+        "misericórdia",
+        "pecado"
+      ]
+    },
+    {
+      "id": "O01",
+      "column": "O",
+      "label": "Parar antes do ato",
+      "definition": "Interromper a ação quando a consciência acusa risco moral, criando espaço para julgar melhor antes de falar, assinar, enviar ou decidir.",
+      "anchors": [
+        "B02",
+        "B04"
+      ],
+      "tags": [
+        "pausa",
+        "decisão"
+      ]
+    },
+    {
+      "id": "O02",
+      "column": "O",
+      "label": "Formar a consciência",
+      "definition": "Buscar formação moral contínua pela Palavra, Igreja, oração, bons conselhos e prática da virtude, em vez de improvisar critérios.",
+      "anchors": [
+        "CEC 1783",
+        "CEC 1785"
+      ],
+      "tags": [
+        "formação",
+        "discernimento"
+      ]
+    },
+    {
+      "id": "O03",
+      "column": "O",
+      "label": "Examinar o dia",
+      "definition": "Rever diante de Deus atos, palavras, omissões e intenções, reconhecendo onde houve fidelidade, queda ou reparação necessária.",
+      "anchors": [
+        "B08",
+        "Sl 139,23-24"
+      ],
+      "tags": [
+        "exame",
+        "oração"
+      ]
+    },
+    {
+      "id": "O04",
+      "column": "O",
+      "label": "Buscar bom conselho",
+      "definition": "Procurar pessoa prudente, fiel e competente quando a decisão moral é grave, confusa ou marcada por interesses próprios.",
+      "anchors": [
+        "CEC 1785",
+        "Pr 12,15"
+      ],
+      "tags": [
+        "conselho",
+        "prudência"
+      ]
+    },
+    {
+      "id": "O05",
+      "column": "O",
+      "label": "Confrontar com a Palavra",
+      "definition": "Colocar a decisão diante da Escritura, da oração e da Cruz de Cristo para não confundir desejo próprio com vontade de Deus.",
+      "anchors": [
+        "CEC 1785",
+        "Sl 119,105"
+      ],
+      "tags": [
+        "Palavra",
+        "oração"
+      ]
+    },
+    {
+      "id": "O06",
+      "column": "O",
+      "label": "Recusar ordem injusta",
+      "definition": "Negar cooperação com mentira, fraude, violência ou abuso, ainda que venha de autoridade, buscando proteção e meios responsáveis.",
+      "anchors": [
+        "B04",
+        "G14",
+        "N06"
+      ],
+      "tags": [
+        "recusa",
+        "autoridade"
+      ]
+    },
+    {
+      "id": "O07",
+      "column": "O",
+      "label": "Reparar o dano",
+      "definition": "Reconhecer o mal causado e restaurar, tanto quanto possível, a verdade, o bem material, a honra ou a confiança ferida.",
+      "anchors": [
+        "Mt 5,23-24",
+        "Lc 19,8",
+        "G13"
+      ],
+      "tags": [
+        "reparação",
+        "justiça"
+      ]
+    },
+    {
+      "id": "O08",
+      "column": "O",
+      "label": "Confessar o pecado",
+      "definition": "Levar o pecado real a Deus com arrependimento, verdade e abertura ao perdão, sem esconder-se atrás de desculpas.",
+      "anchors": [
+        "1Jo 1,8-9",
+        "B15"
+      ],
+      "tags": [
+        "confissão",
+        "perdão"
+      ]
+    },
+    {
+      "id": "O09",
+      "column": "O",
+      "label": "Pedir perdão direto",
+      "definition": "Dirigir-se à pessoa ofendida, nomear a falta sem desculpas e abrir caminho para reparação possível e mudança concreta.",
+      "anchors": [
+        "Mt 5,23-24",
+        "O07"
+      ],
+      "tags": [
+        "perdão",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "O10",
+      "column": "O",
+      "label": "Cortar a ocasião",
+      "definition": "Afastar-se de ambiente, objeto, aplicativo, relação ou rotina que favorece queda repetida, com medidas concretas e verificáveis.",
+      "anchors": [
+        "B14",
+        "CEC 1784"
+      ],
+      "tags": [
+        "ocasião",
+        "renúncia"
+      ]
+    },
+    {
+      "id": "O11",
+      "column": "O",
+      "label": "Proteger o vulnerável",
+      "definition": "Intervir com proporção para impedir exploração, abandono ou manipulação de quem está frágil, confuso ou dependente.",
+      "anchors": [
+        "B09",
+        "Mt 7,12",
+        "G10"
+      ],
+      "tags": [
+        "proteção",
+        "vulnerável"
+      ]
+    },
+    {
+      "id": "O12",
+      "column": "O",
+      "label": "Renunciar por caridade",
+      "definition": "Abrir mão de algo lícito quando seu uso concreto pode ferir a consciência do irmão ou favorecer sua queda.",
+      "anchors": [
+        "1Cor 8,13",
+        "Rm 14,21",
+        "B09"
+      ],
+      "tags": [
+        "renúncia",
+        "caridade"
+      ]
+    },
+    {
+      "id": "O13",
+      "column": "O",
+      "label": "Comunicar com verdade",
+      "definition": "Apresentar fatos reais, sem mentira, exagero ou humilhação, para corrigir o mal e proteger pessoas atingidas.",
+      "anchors": [
+        "Ef 4,25",
+        "G12"
+      ],
+      "tags": [
+        "verdade",
+        "comunicação"
+      ]
+    },
+    {
+      "id": "O14",
+      "column": "O",
+      "label": "Assumir consequência",
+      "definition": "Aceitar responsabilidade proporcional pelo que se fez, sem fugir, transferir culpa ou usar arrependimento como fuga do justo.",
+      "anchors": [
+        "B04",
+        "O07"
+      ],
+      "tags": [
+        "consequência",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "O15",
+      "column": "O",
+      "label": "Sustentar hábito virtuoso",
+      "definition": "Criar práticas estáveis que facilitem o bem, corrijam fragilidades e eduquem a liberdade para escolhas retas.",
+      "anchors": [
+        "B14",
+        "CEC 1803"
+      ],
+      "tags": [
+        "virtude",
+        "disciplina"
+      ]
+    }
+  ]
+}

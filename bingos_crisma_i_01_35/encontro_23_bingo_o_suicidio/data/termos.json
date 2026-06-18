@@ -1,0 +1,1140 @@
+{
+  "title": "Bingo — O suicídio",
+  "meeting": "Encontro 23 — O suicídio",
+  "meeting_label": "Encontro 23",
+  "output_slug": "bingo_o_suicidio",
+  "core_message": "A vida pertence a Deus e deve ser preservada com responsabilidade; diante do desespero, a Igreja afirma a gravidade do suicídio, reconhece a diminuição possível da culpa, reza pelos mortos e responde aos vivos com misericórdia, cuidado e ajuda concreta.",
+  "source_meeting_markdown": "projects/catequese/material_didatico/output/markdown/encontro_23.md",
+  "scripture": [
+    "Sl 33(34),19",
+    "Mt 11,28",
+    "Gn 1,27",
+    "Jo 10,10",
+    "Rm 14,7-8",
+    "Rm 8,38-39",
+    "1Cor 6,19-20",
+    "1Cor 12,26",
+    "Gl 6,2",
+    "Rm 12,15",
+    "Lc 10,33-35",
+    "Tg 5,14-15",
+    "Eclo 38,1-2",
+    "Mt 18,6",
+    "1Ts 5,14",
+    "Ef 4,29",
+    "Pr 18,21",
+    "Jo 11,35",
+    "Mt 25,35-40",
+    "Lc 15,20",
+    "1Cor 14,33.40"
+  ],
+  "catechism": [
+    "CEC 2280",
+    "CEC 2281",
+    "CEC 2282",
+    "CEC 2283",
+    "CEC 1735",
+    "CEC 2258",
+    "CEC 2278",
+    "CEC 2279",
+    "CEC 1806",
+    "CEC 1822",
+    "CEC 2447"
+  ],
+  "card_model": {
+    "total_terms": 75,
+    "columns": 5,
+    "terms_per_column": 15,
+    "grid": "5x5",
+    "center": {
+      "label": "LIVRE / Sl 33(34),19; Mt 11,28",
+      "fixed": true,
+      "called": false
+    },
+    "recommended_win_condition": "duas_linhas"
+  },
+  "columns": [
+    {
+      "key": "B",
+      "title": "Base moral",
+      "function": "Fundamentos bíblicos e doutrinais para ler o tema.",
+      "short_function": "fundamento cristão do tema"
+    },
+    {
+      "key": "I",
+      "title": "Situações concretas",
+      "function": "Formas reais em que o tema aparece na vida concreta, em situações inteligíveis para a turma.",
+      "short_function": "situações concretas do tema"
+    },
+    {
+      "key": "N",
+      "title": "Narrativas falsas",
+      "function": "Desculpas, autoenganos e frases que desviam do bem.",
+      "short_function": "desculpas que normalizam o erro"
+    },
+    {
+      "key": "G",
+      "title": "Discernimentos",
+      "function": "Distinções morais que evitam respostas simplistas.",
+      "short_function": "distinções para discernir"
+    },
+    {
+      "key": "O",
+      "title": "Orientações de resposta",
+      "function": "Ações concretas, prudentes e proporcionais diante do problema.",
+      "short_function": "respostas proporcionais e prudentes"
+    }
+  ],
+  "terms": [
+    {
+      "id": "B01",
+      "column": "B",
+      "label": "Vida como dom",
+      "definition": "A vida humana é recebida de Deus como bem confiado, não fabricado nem possuído de modo absoluto pela pessoa.",
+      "anchors": [
+        "CEC 2280",
+        "Gn 1,27"
+      ],
+      "tags": [
+        "vida",
+        "dom"
+      ]
+    },
+    {
+      "id": "B02",
+      "column": "B",
+      "label": "Administradores da vida",
+      "definition": "Somos responsáveis por cuidar da própria vida diante de Deus, porque não temos domínio absoluto para dispor dela.",
+      "anchors": [
+        "CEC 2280",
+        "1Cor 6,19-20"
+      ],
+      "tags": [
+        "responsabilidade",
+        "cuidado"
+      ]
+    },
+    {
+      "id": "B03",
+      "column": "B",
+      "label": "Senhorio de Deus",
+      "definition": "Só Deus é Senhor soberano da vida; a liberdade humana deve reconhecer esse limite e obedecer ao bem.",
+      "anchors": [
+        "CEC 2280",
+        "Rm 14,7-8"
+      ],
+      "tags": [
+        "Deus",
+        "liberdade"
+      ]
+    },
+    {
+      "id": "B04",
+      "column": "B",
+      "label": "Dignidade inviolável",
+      "definition": "A dignidade de uma pessoa não desaparece por doença, fracasso, vergonha, dependência, idade ou sofrimento.",
+      "anchors": [
+        "CEC 2258",
+        "Gn 1,27"
+      ],
+      "tags": [
+        "dignidade",
+        "pessoa"
+      ]
+    },
+    {
+      "id": "B05",
+      "column": "B",
+      "label": "Justo amor de si",
+      "definition": "Amar a si mesmo corretamente inclui proteger a própria vida, buscar ajuda e não tratar o próprio corpo como descartável.",
+      "anchors": [
+        "CEC 2281",
+        "Mt 22,39"
+      ],
+      "tags": [
+        "amor de si",
+        "virtude"
+      ]
+    },
+    {
+      "id": "B06",
+      "column": "B",
+      "label": "Vínculos de solidariedade",
+      "definition": "A vida de cada pessoa está ligada a famílias, comunidades e sociedades; o suicídio fere esses vínculos reais.",
+      "anchors": [
+        "CEC 2281",
+        "1Cor 12,26"
+      ],
+      "tags": [
+        "solidariedade",
+        "comunidade"
+      ]
+    },
+    {
+      "id": "B07",
+      "column": "B",
+      "label": "Deus perto do abatido",
+      "definition": "A Escritura afirma que Deus não abandona o coração quebrantado, mas se aproxima de quem está esmagado pela dor.",
+      "anchors": [
+        "Sl 33(34),19",
+        "Mt 11,28"
+      ],
+      "tags": [
+        "esperança",
+        "consolo"
+      ]
+    },
+    {
+      "id": "B08",
+      "column": "B",
+      "label": "Cristo alivia o fardo",
+      "definition": "Jesus chama os aflitos a irem a Ele, não como fuga da realidade, mas como fonte de descanso, graça e direção.",
+      "anchors": [
+        "Mt 11,28",
+        "Jo 10,10"
+      ],
+      "tags": [
+        "Cristo",
+        "sofrimento"
+      ]
+    },
+    {
+      "id": "B09",
+      "column": "B",
+      "label": "Esperança da salvação",
+      "definition": "A Igreja ensina que não se deve desesperar da salvação das pessoas que se mataram, confiando-as à misericórdia de Deus.",
+      "anchors": [
+        "CEC 2283",
+        "Rm 8,38-39"
+      ],
+      "tags": [
+        "misericórdia",
+        "salvação"
+      ]
+    },
+    {
+      "id": "B10",
+      "column": "B",
+      "label": "Oração pelos que morreram",
+      "definition": "A Igreja reza pelas pessoas que atentaram contra a própria vida e entrega seus destinos ao juízo misericordioso de Deus.",
+      "anchors": [
+        "CEC 2283",
+        "Rm 8,38-39"
+      ],
+      "tags": [
+        "oração",
+        "mortos"
+      ]
+    },
+    {
+      "id": "B11",
+      "column": "B",
+      "label": "Responsabilidade diminuída",
+      "definition": "Distúrbios psíquicos graves, angústia, medo intenso e sofrimento extremo podem diminuir a liberdade e a culpa subjetiva.",
+      "anchors": [
+        "CEC 2282",
+        "CEC 1735"
+      ],
+      "tags": [
+        "culpa",
+        "liberdade"
+      ]
+    },
+    {
+      "id": "B12",
+      "column": "B",
+      "label": "Gravidade objetiva",
+      "definition": "O suicídio, considerado em si mesmo, é gravemente contrário ao amor a si, ao próximo e a Deus, autor da vida.",
+      "anchors": [
+        "CEC 2281",
+        "CEC 2280"
+      ],
+      "tags": [
+        "moral",
+        "pecado"
+      ]
+    },
+    {
+      "id": "B13",
+      "column": "B",
+      "label": "Graça na provação",
+      "definition": "A provação não deve ser enfrentada como condenação solitária; a graça de Deus sustenta a pessoa por meios espirituais e humanos.",
+      "anchors": [
+        "Mt 11,28",
+        "Gl 6,2"
+      ],
+      "tags": [
+        "graça",
+        "provação"
+      ]
+    },
+    {
+      "id": "B14",
+      "column": "B",
+      "label": "Escândalo dos vulneráveis",
+      "definition": "Tratar o suicídio como exemplo, espetáculo ou gesto admirável pode arrastar outros frágeis para o mesmo erro.",
+      "anchors": [
+        "CEC 2282",
+        "Mt 18,6"
+      ],
+      "tags": [
+        "escândalo",
+        "vulnerabilidade"
+      ]
+    },
+    {
+      "id": "B15",
+      "column": "B",
+      "label": "Caridade que vigia",
+      "definition": "A caridade cristã não é curiosidade nem controle, mas atenção concreta aos que sofrem e prontidão para agir.",
+      "anchors": [
+        "CEC 1822",
+        "1Ts 5,14"
+      ],
+      "tags": [
+        "caridade",
+        "vigilância"
+      ]
+    },
+    {
+      "id": "I01",
+      "column": "I",
+      "label": "Pensamento suicida",
+      "definition": "Situação em que a pessoa começa a desejar morrer, imaginar a própria morte ou considerar tirar a própria vida.",
+      "anchors": [
+        "CEC 2282",
+        "Sl 33(34),19"
+      ],
+      "tags": [
+        "risco",
+        "sofrimento"
+      ]
+    },
+    {
+      "id": "I02",
+      "column": "I",
+      "label": "Autolesão",
+      "definition": "Ferir o próprio corpo sem necessariamente querer morrer é sinal grave de sofrimento e precisa ser levado a sério.",
+      "anchors": [
+        "CEC 2280",
+        "1Cor 6,19-20"
+      ],
+      "tags": [
+        "corpo",
+        "alerta"
+      ]
+    },
+    {
+      "id": "I03",
+      "column": "I",
+      "label": "Luto por suicídio",
+      "definition": "Dor específica de quem perde alguém por suicídio, marcada por choque, perguntas, culpa, raiva e necessidade de amparo.",
+      "anchors": [
+        "CEC 2283",
+        "Rm 12,15"
+      ],
+      "tags": [
+        "luto",
+        "família"
+      ]
+    },
+    {
+      "id": "I04",
+      "column": "I",
+      "label": "Depressão grave",
+      "definition": "Sofrimento psíquico sério que pode enfraquecer a esperança, a energia, o juízo e a capacidade de pedir ajuda.",
+      "anchors": [
+        "CEC 2282",
+        "CEC 1735"
+      ],
+      "tags": [
+        "doença",
+        "saúde mental"
+      ]
+    },
+    {
+      "id": "I05",
+      "column": "I",
+      "label": "Angústia intensa",
+      "definition": "Estado de aperto interior em que a pessoa pode sentir medo, sufocamento e incapacidade de enxergar uma saída boa.",
+      "anchors": [
+        "CEC 2282",
+        "Mt 11,28"
+      ],
+      "tags": [
+        "angústia",
+        "crise"
+      ]
+    },
+    {
+      "id": "I06",
+      "column": "I",
+      "label": "Dependência química",
+      "definition": "Uso compulsivo de álcool ou drogas que pode destruir vínculos, alterar o juízo e aumentar riscos graves.",
+      "anchors": [
+        "CEC 1735",
+        "Gl 6,2"
+      ],
+      "tags": [
+        "dependência",
+        "risco"
+      ]
+    },
+    {
+      "id": "I07",
+      "column": "I",
+      "label": "Dor sem trégua",
+      "definition": "Sofrimento físico persistente que pode levar a pessoa ao desespero quando ela se sente abandonada ou sem cuidado.",
+      "anchors": [
+        "CEC 2279",
+        "Mt 25,35-40"
+      ],
+      "tags": [
+        "doença",
+        "dor"
+      ]
+    },
+    {
+      "id": "I08",
+      "column": "I",
+      "label": "Ruína financeira",
+      "definition": "Perda econômica grave que pode gerar vergonha, medo do futuro e sensação falsa de que a própria vida perdeu valor.",
+      "anchors": [
+        "B04",
+        "Sl 33(34),19"
+      ],
+      "tags": [
+        "dinheiro",
+        "vergonha"
+      ]
+    },
+    {
+      "id": "I09",
+      "column": "I",
+      "label": "Vergonha pública",
+      "definition": "Exposição humilhante que faz a pessoa acreditar que sua história acabou e que não poderá mais ser olhada com respeito.",
+      "anchors": [
+        "B04",
+        "Ef 4,29"
+      ],
+      "tags": [
+        "humilhação",
+        "exposição"
+      ]
+    },
+    {
+      "id": "I10",
+      "column": "I",
+      "label": "Isolamento silencioso",
+      "definition": "Afastamento progressivo em que a pessoa some de relações e rotinas, sem conseguir dizer claramente o que está acontecendo.",
+      "anchors": [
+        "1Ts 5,14",
+        "B15"
+      ],
+      "tags": [
+        "isolamento",
+        "sinais"
+      ]
+    },
+    {
+      "id": "I11",
+      "column": "I",
+      "label": "Fala de despedida",
+      "definition": "Mensagens, gestos ou frases de encerramento que podem indicar risco e não devem ser tratadas como drama sem importância.",
+      "anchors": [
+        "Pr 18,21",
+        "O03"
+      ],
+      "tags": [
+        "alerta",
+        "palavra"
+      ]
+    },
+    {
+      "id": "I12",
+      "column": "I",
+      "label": "Humilhação persistente",
+      "definition": "Ataques repetidos, presença constante de zombaria ou perseguição que vão corroendo a pessoa por dentro.",
+      "anchors": [
+        "Ef 4,29",
+        "Mt 18,6"
+      ],
+      "tags": [
+        "violência",
+        "humilhação"
+      ]
+    },
+    {
+      "id": "I13",
+      "column": "I",
+      "label": "Abuso e medo grave",
+      "definition": "Violência, ameaça, tortura ou abuso podem gerar medo extremo e reduzir muito a liberdade interior da vítima.",
+      "anchors": [
+        "CEC 2282",
+        "CEC 1735"
+      ],
+      "tags": [
+        "abuso",
+        "medo"
+      ]
+    },
+    {
+      "id": "I14",
+      "column": "I",
+      "label": "Idoso abandonado",
+      "definition": "Pessoa idosa deixada sem presença, cuidado ou sentido de pertença pode cair em desespero e sentir-se descartada.",
+      "anchors": [
+        "Mt 25,35-40",
+        "B06"
+      ],
+      "tags": [
+        "abandono",
+        "idoso"
+      ]
+    },
+    {
+      "id": "I15",
+      "column": "I",
+      "label": "Exaustão profissional",
+      "definition": "Cansaço extremo no trabalho, sem repouso nem apoio, pode romper a resistência psíquica e espiritual da pessoa.",
+      "anchors": [
+        "Mt 11,28",
+        "CEC 2282"
+      ],
+      "tags": [
+        "trabalho",
+        "exaustão"
+      ]
+    },
+    {
+      "id": "N01",
+      "column": "N",
+      "label": "Falsa autonomia",
+      "definition": "Engano de pensar que, por ser minha vida, eu teria direito absoluto de destruí-la sem responder a Deus e aos vínculos.",
+      "anchors": [
+        "CEC 2280",
+        "B02"
+      ],
+      "tags": [
+        "autonomia",
+        "engano"
+      ]
+    },
+    {
+      "id": "N02",
+      "column": "N",
+      "label": "Saída única",
+      "definition": "Mentira que reduz toda a realidade a uma alternativa mortal e esconde a possibilidade de ajuda, tempo e graça.",
+      "anchors": [
+        "Mt 11,28",
+        "Sl 33(34),19"
+      ],
+      "tags": [
+        "desespero",
+        "autoengano"
+      ]
+    },
+    {
+      "id": "N03",
+      "column": "N",
+      "label": "Mentira de ser peso",
+      "definition": "Autoengano que transforma dependência, doença ou sofrimento em prova falsa de que a própria vida atrapalha os outros.",
+      "anchors": [
+        "B04",
+        "1Cor 12,26"
+      ],
+      "tags": [
+        "dignidade",
+        "mentira"
+      ]
+    },
+    {
+      "id": "N04",
+      "column": "N",
+      "label": "Romantização da morte",
+      "definition": "Narrativa que embeleza o suicídio como gesto poético, libertador ou heroico, escondendo sua gravidade e seus ferimentos.",
+      "anchors": [
+        "CEC 2281",
+        "CEC 2282"
+      ],
+      "tags": [
+        "romantização",
+        "escândalo"
+      ]
+    },
+    {
+      "id": "N05",
+      "column": "N",
+      "label": "Vingança pela dor",
+      "definition": "Tentação de usar a própria destruição para ferir, punir ou deixar culpa em outra pessoa.",
+      "anchors": [
+        "CEC 2281",
+        "Pr 18,21"
+      ],
+      "tags": [
+        "vingança",
+        "dor"
+      ]
+    },
+    {
+      "id": "N06",
+      "column": "N",
+      "label": "Vergonha sem volta",
+      "definition": "Engano de acreditar que um pecado, fracasso, exposição ou crime sofrido encerra definitivamente a possibilidade de recomeço.",
+      "anchors": [
+        "Lc 15,20",
+        "B09"
+      ],
+      "tags": [
+        "vergonha",
+        "recomeço"
+      ]
+    },
+    {
+      "id": "N07",
+      "column": "N",
+      "label": "Fé sem tratamento",
+      "definition": "Erro de opor oração e cuidado médico, como se buscar tratamento fosse falta de fé ou fraqueza espiritual.",
+      "anchors": [
+        "Tg 5,14-15",
+        "Eclo 38,1-2"
+      ],
+      "tags": [
+        "fé",
+        "tratamento"
+      ]
+    },
+    {
+      "id": "N08",
+      "column": "N",
+      "label": "Condenação apressada",
+      "definition": "Erro de afirmar com segurança o destino eterno de quem se matou, ignorando a misericórdia de Deus e a culpa diminuída.",
+      "anchors": [
+        "CEC 2283",
+        "CEC 2282"
+      ],
+      "tags": [
+        "juízo",
+        "misericórdia"
+      ]
+    },
+    {
+      "id": "N09",
+      "column": "N",
+      "label": "Silêncio protetor",
+      "definition": "Falsa prudência de guardar sozinho um sinal grave de risco para não criar constrangimento ou problema.",
+      "anchors": [
+        "O03",
+        "1Ts 5,14"
+      ],
+      "tags": [
+        "omissão",
+        "proteção"
+      ]
+    },
+    {
+      "id": "N10",
+      "column": "N",
+      "label": "Prova de amor falsa",
+      "definition": "Manipulação que usa ameaça de morte para prender alguém, exigir submissão ou impedir um limite justo.",
+      "anchors": [
+        "G11",
+        "CEC 2281"
+      ],
+      "tags": [
+        "manipulação",
+        "amor"
+      ]
+    },
+    {
+      "id": "N11",
+      "column": "N",
+      "label": "Desprezo da doença",
+      "definition": "Narrativa que chama depressão, crise ou autolesão de frescura, drama ou falta de Deus, impedindo ajuda real.",
+      "anchors": [
+        "CEC 2282",
+        "Eclo 38,1-2"
+      ],
+      "tags": [
+        "doença",
+        "desprezo"
+      ]
+    },
+    {
+      "id": "N12",
+      "column": "N",
+      "label": "Coragem invertida",
+      "definition": "Engano de apresentar a autodestruição como coragem, quando a coragem verdadeira persevera no bem e aceita ajuda.",
+      "anchors": [
+        "CEC 2281",
+        "B13"
+      ],
+      "tags": [
+        "coragem",
+        "virtude"
+      ]
+    },
+    {
+      "id": "N13",
+      "column": "N",
+      "label": "Exposição do sofrimento",
+      "definition": "Erro de transformar dor, crise ou morte em conteúdo de circulação, curiosidade, comentário ou espetáculo.",
+      "anchors": [
+        "CEC 2282",
+        "Ef 4,29"
+      ],
+      "tags": [
+        "exposição",
+        "escândalo"
+      ]
+    },
+    {
+      "id": "N14",
+      "column": "N",
+      "label": "Culpa total dos vivos",
+      "definition": "Narrativa que coloca sobre familiares e amigos toda a culpa pelo suicídio, como se eles controlassem a liberdade e a doença do outro.",
+      "anchors": [
+        "CEC 2282",
+        "G10"
+      ],
+      "tags": [
+        "culpa",
+        "luto"
+      ]
+    },
+    {
+      "id": "N15",
+      "column": "N",
+      "label": "Desespero como verdade",
+      "definition": "Engano de tratar o sentimento de desespero como descrição fiel da realidade, sem confrontá-lo com fé, razão e ajuda.",
+      "anchors": [
+        "Sl 33(34),19",
+        "Mt 11,28"
+      ],
+      "tags": [
+        "desespero",
+        "verdade"
+      ]
+    },
+    {
+      "id": "G01",
+      "column": "G",
+      "label": "Ato e pessoa",
+      "definition": "Distingue a gravidade moral do suicídio da dignidade da pessoa que sofre e deve ser tratada com respeito e misericórdia.",
+      "anchors": [
+        "CEC 2281",
+        "CEC 2283"
+      ],
+      "tags": [
+        "distinção",
+        "dignidade"
+      ]
+    },
+    {
+      "id": "G02",
+      "column": "G",
+      "label": "Culpa e responsabilidade",
+      "definition": "Distingue a gravidade objetiva de um ato da responsabilidade subjetiva, que pode ser diminuída por sofrimento psíquico ou medo grave.",
+      "anchors": [
+        "CEC 2282",
+        "CEC 1735"
+      ],
+      "tags": [
+        "culpa",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "G03",
+      "column": "G",
+      "label": "Impulso e consentimento",
+      "definition": "Distingue sentir um impulso destrutivo de consentir livremente nele; o impulso pede ajuda imediata, não culpa automática.",
+      "anchors": [
+        "CEC 1735",
+        "O02"
+      ],
+      "tags": [
+        "impulso",
+        "liberdade"
+      ]
+    },
+    {
+      "id": "G04",
+      "column": "G",
+      "label": "Sofrimento e pecado",
+      "definition": "Distingue a dor que precisa ser acolhida do ato mau que não pode ser aprovado nem apresentado como solução.",
+      "anchors": [
+        "CEC 2281",
+        "Sl 33(34),19"
+      ],
+      "tags": [
+        "sofrimento",
+        "pecado"
+      ]
+    },
+    {
+      "id": "G05",
+      "column": "G",
+      "label": "Compaixão e relativização",
+      "definition": "Distingue misericórdia verdadeira de relativizar o suicídio como se não houvesse mal objetivo a ser nomeado.",
+      "anchors": [
+        "CEC 2281",
+        "CEC 2283"
+      ],
+      "tags": [
+        "misericórdia",
+        "verdade"
+      ]
+    },
+    {
+      "id": "G06",
+      "column": "G",
+      "label": "Acolhida e aprovação",
+      "definition": "Distingue receber a pessoa ferida com ternura de aprovar palavras, planos ou condutas que a coloquem em risco.",
+      "anchors": [
+        "B15",
+        "O08"
+      ],
+      "tags": [
+        "acolhida",
+        "limite"
+      ]
+    },
+    {
+      "id": "G07",
+      "column": "G",
+      "label": "Sigilo e proteção",
+      "definition": "Distingue respeitar a intimidade de guardar segredo quando há risco de vida e é necessário chamar ajuda.",
+      "anchors": [
+        "O03",
+        "CEC 2281"
+      ],
+      "tags": [
+        "sigilo",
+        "proteção"
+      ]
+    },
+    {
+      "id": "G08",
+      "column": "G",
+      "label": "Prudência e omissão",
+      "definition": "Distingue agir com cuidado de adiar uma resposta necessária por medo de se envolver ou de errar.",
+      "anchors": [
+        "CEC 1806",
+        "Lc 10,33-35"
+      ],
+      "tags": [
+        "prudência",
+        "omissão"
+      ]
+    },
+    {
+      "id": "G09",
+      "column": "G",
+      "label": "Oração e tratamento",
+      "definition": "Distingue confiar em Deus de recusar os meios humanos legítimos que a Providência também pode usar para curar e sustentar.",
+      "anchors": [
+        "Tg 5,14-15",
+        "Eclo 38,1-2"
+      ],
+      "tags": [
+        "oração",
+        "tratamento"
+      ]
+    },
+    {
+      "id": "G10",
+      "column": "G",
+      "label": "Luto e acusação",
+      "definition": "Distingue o luto que precisa falar da dor da acusação simplista que destrói familiares e amigos sobreviventes.",
+      "anchors": [
+        "Rm 12,15",
+        "CEC 2282"
+      ],
+      "tags": [
+        "luto",
+        "culpa"
+      ]
+    },
+    {
+      "id": "G11",
+      "column": "G",
+      "label": "Alerta e chantagem",
+      "definition": "Distingue uma fala de risco, que exige proteção, de uma manipulação que também exige limite e ajuda adulta.",
+      "anchors": [
+        "I11",
+        "O03"
+      ],
+      "tags": [
+        "alerta",
+        "chantagem"
+      ]
+    },
+    {
+      "id": "G12",
+      "column": "G",
+      "label": "Cuidado e controle",
+      "definition": "Distingue acompanhar alguém em risco de tentar dominar sua vida, invadir tudo ou substituir profissionais e responsáveis.",
+      "anchors": [
+        "B15",
+        "O06"
+      ],
+      "tags": [
+        "cuidado",
+        "limite"
+      ]
+    },
+    {
+      "id": "G13",
+      "column": "G",
+      "label": "Fardo e dignidade",
+      "definition": "Distingue reconhecer que alguém precisa de ajuda de concluir falsamente que essa pessoa vale menos por precisar dos outros.",
+      "anchors": [
+        "B04",
+        "Gl 6,2"
+      ],
+      "tags": [
+        "dignidade",
+        "dependência"
+      ]
+    },
+    {
+      "id": "G14",
+      "column": "G",
+      "label": "Tratamento e obstinação",
+      "definition": "Distingue o suicídio e a eutanásia de decisões proporcionais sobre tratamentos excessivos, sem abandonar cuidados devidos.",
+      "anchors": [
+        "CEC 2278",
+        "CEC 2279"
+      ],
+      "tags": [
+        "tratamento",
+        "fim da vida"
+      ]
+    },
+    {
+      "id": "G15",
+      "column": "G",
+      "label": "Esperança e certeza",
+      "definition": "Distingue a esperança cristã na misericórdia de Deus de afirmar com certeza aquilo que só Deus julga plenamente.",
+      "anchors": [
+        "CEC 2283",
+        "Rm 8,38-39"
+      ],
+      "tags": [
+        "esperança",
+        "juízo"
+      ]
+    },
+    {
+      "id": "O01",
+      "column": "O",
+      "label": "Perguntar com clareza",
+      "definition": "Diante de sinais sérios, fazer uma pergunta direta, calma e respeitosa sobre risco de morte, sem rodeios nem acusação.",
+      "anchors": [
+        "Pr 18,21",
+        "B15"
+      ],
+      "tags": [
+        "pergunta",
+        "prevenção"
+      ]
+    },
+    {
+      "id": "O02",
+      "column": "O",
+      "label": "Permanecer junto",
+      "definition": "Quando há risco imediato, não abandonar a pessoa sozinha e buscar presença segura até chegar ajuda responsável.",
+      "anchors": [
+        "Lc 10,33-35",
+        "Gl 6,2"
+      ],
+      "tags": [
+        "presença",
+        "proteção"
+      ]
+    },
+    {
+      "id": "O03",
+      "column": "O",
+      "label": "Avisar responsável",
+      "definition": "Comunicar sinais graves a pais, responsáveis, liderança adequada ou autoridade competente, mesmo que a pessoa peça segredo.",
+      "anchors": [
+        "G07",
+        "CEC 2281"
+      ],
+      "tags": [
+        "responsável",
+        "proteção"
+      ]
+    },
+    {
+      "id": "O04",
+      "column": "O",
+      "label": "Acionar emergência",
+      "definition": "Em risco imediato, chamar serviço de emergência, atendimento de saúde ou autoridade competente, sem tentar resolver sozinho.",
+      "anchors": [
+        "Lc 10,33-35",
+        "CEC 2447"
+      ],
+      "tags": [
+        "emergência",
+        "segurança"
+      ]
+    },
+    {
+      "id": "O05",
+      "column": "O",
+      "label": "Reduzir riscos imediatos",
+      "definition": "Com ajuda responsável, afastar do alcance aquilo que possa aumentar o risco de autolesão ou suicídio, sem exposição nem pânico.",
+      "anchors": [
+        "O02",
+        "CEC 2280"
+      ],
+      "tags": [
+        "risco",
+        "proteção"
+      ]
+    },
+    {
+      "id": "O06",
+      "column": "O",
+      "label": "Encaminhar ao tratamento",
+      "definition": "Ajudar a pessoa a chegar a profissional de saúde, atendimento psicológico, médico ou serviço adequado, conforme a gravidade.",
+      "anchors": [
+        "Eclo 38,1-2",
+        "Tg 5,14-15"
+      ],
+      "tags": [
+        "tratamento",
+        "encaminhamento"
+      ]
+    },
+    {
+      "id": "O07",
+      "column": "O",
+      "label": "Acompanhar passos reais",
+      "definition": "Transformar preocupação em atos verificáveis: marcar atendimento, acompanhar deslocamento, confirmar retorno e manter contato responsável.",
+      "anchors": [
+        "Lc 10,33-35",
+        "B15"
+      ],
+      "tags": [
+        "acompanhamento",
+        "constância"
+      ]
+    },
+    {
+      "id": "O08",
+      "column": "O",
+      "label": "Falar sem julgamento",
+      "definition": "Escutar e responder com verdade e calma, sem humilhar, minimizar, condenar apressadamente ou prometer segredo absoluto.",
+      "anchors": [
+        "Ef 4,29",
+        "G06"
+      ],
+      "tags": [
+        "palavra",
+        "escuta"
+      ]
+    },
+    {
+      "id": "O09",
+      "column": "O",
+      "label": "Combinar segurança",
+      "definition": "Com a pessoa e responsáveis, estabelecer passos concretos para atravessar a crise, procurar ajuda e reduzir isolamento.",
+      "anchors": [
+        "O03",
+        "O06"
+      ],
+      "tags": [
+        "segurança",
+        "crise"
+      ]
+    },
+    {
+      "id": "O10",
+      "column": "O",
+      "label": "Rezar e sustentar",
+      "definition": "Rezar pela pessoa e com ela quando possível, mantendo presença concreta e sem substituir tratamento por piedade isolada.",
+      "anchors": [
+        "Mt 11,28",
+        "G09"
+      ],
+      "tags": [
+        "oração",
+        "sustento"
+      ]
+    },
+    {
+      "id": "O11",
+      "column": "O",
+      "label": "Buscar os sacramentos",
+      "definition": "Procurar a graça de Deus na confissão, Eucaristia, unção dos enfermos quando cabível e acompanhamento espiritual prudente.",
+      "anchors": [
+        "Tg 5,14-15",
+        "B13"
+      ],
+      "tags": [
+        "sacramentos",
+        "graça"
+      ]
+    },
+    {
+      "id": "O12",
+      "column": "O",
+      "label": "Amparar enlutados",
+      "definition": "Acompanhar quem perdeu alguém por suicídio com presença, oração, escuta e ajuda prática, sem acusações nem curiosidade.",
+      "anchors": [
+        "Rm 12,15",
+        "CEC 2283"
+      ],
+      "tags": [
+        "luto",
+        "amparo"
+      ]
+    },
+    {
+      "id": "O13",
+      "column": "O",
+      "label": "Cortar exposição",
+      "definition": "Não compartilhar imagens, mensagens, boatos ou detalhes de crise e morte; preservar a pessoa, a família e os vulneráveis.",
+      "anchors": [
+        "CEC 2282",
+        "Ef 4,29"
+      ],
+      "tags": [
+        "exposição",
+        "prudência"
+      ]
+    },
+    {
+      "id": "O14",
+      "column": "O",
+      "label": "Reparar vínculos",
+      "definition": "Onde houve abandono, humilhação ou dureza, tomar passos concretos de reconciliação, pedido de perdão e presença responsável.",
+      "anchors": [
+        "Mt 5,23-24",
+        "Gl 6,2"
+      ],
+      "tags": [
+        "reparação",
+        "vínculos"
+      ]
+    },
+    {
+      "id": "O15",
+      "column": "O",
+      "label": "Observar sinais",
+      "definition": "Prestar atenção a mudanças graves de comportamento, isolamento, despedidas e falas de morte, tratando-as como pedido de cuidado.",
+      "anchors": [
+        "B15",
+        "1Ts 5,14"
+      ],
+      "tags": [
+        "sinais",
+        "atenção"
+      ]
+    }
+  ]
+}

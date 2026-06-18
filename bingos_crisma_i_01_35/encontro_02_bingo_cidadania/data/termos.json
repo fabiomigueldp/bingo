@@ -1,0 +1,1145 @@
+{
+  "title": "Bingo — Cidadania",
+  "meeting": "Encontro 02 — Cidadania",
+  "meeting_label": "Encontro 02",
+  "output_slug": "bingo_cidadania",
+  "core_message": "O cidadão cristão serve à sociedade sem entregar a Deus o que pertence só a Deus: vive a caridade social, respeita a dignidade de cada pessoa e trabalha por instituições justas.",
+  "source_meeting_markdown": "projects/catequese/material_didatico/output/markdown/encontro_02.md",
+  "scripture": [
+    "Mt 22,15-21",
+    "Gn 1,27",
+    "Mc 12,28-31",
+    "Lc 10,25-37",
+    "Mt 25,31-46",
+    "Mt 5,13-16",
+    "At 5,29",
+    "Rm 13,1-7",
+    "1Tm 2,1-2",
+    "Tg 2,14-17",
+    "Ef 4,25",
+    "Rm 12,17-21",
+    "Gl 5,13",
+    "Jo 8,32",
+    "1Cor 14,33.40"
+  ],
+  "catechism": [
+    "CEC 1878",
+    "CEC 1879",
+    "CEC 1881",
+    "CEC 1882",
+    "CEC 1888",
+    "CEC 1889"
+  ],
+  "card_model": {
+    "total_terms": 75,
+    "columns": 5,
+    "terms_per_column": 15,
+    "grid": "5x5",
+    "center": {
+      "label": "LIVRE / Mt 22,15-21",
+      "fixed": true,
+      "called": false
+    },
+    "recommended_win_condition": "duas_linhas"
+  },
+  "columns": [
+    {
+      "key": "B",
+      "title": "Base moral",
+      "function": "Fundamentos bíblicos e doutrinais para ler o tema.",
+      "short_function": "fundamento cristão do tema"
+    },
+    {
+      "key": "I",
+      "title": "Situações concretas",
+      "function": "Formas reais em que o tema aparece na vida concreta, em situações inteligíveis para a turma.",
+      "short_function": "situações concretas do tema"
+    },
+    {
+      "key": "N",
+      "title": "Narrativas falsas",
+      "function": "Desculpas, autoenganos e frases que desviam do bem.",
+      "short_function": "desculpas que normalizam o erro"
+    },
+    {
+      "key": "G",
+      "title": "Discernimentos",
+      "function": "Distinções morais que evitam respostas simplistas.",
+      "short_function": "distinções para discernir"
+    },
+    {
+      "key": "O",
+      "title": "Orientações de resposta",
+      "function": "Ações concretas, prudentes e proporcionais diante do problema.",
+      "short_function": "respostas proporcionais e prudentes"
+    }
+  ],
+  "terms": [
+    {
+      "id": "B01",
+      "column": "B",
+      "label": "Deus acima de César",
+      "definition": "A autoridade civil deve ser respeitada em seus deveres legítimos, mas nenhuma instituição pode ocupar o lugar de Deus nem exigir obediência contra a consciência reta.",
+      "anchors": [
+        "Mt 22,15-21",
+        "At 5,29",
+        "CEC 1881"
+      ],
+      "tags": [
+        "autoridade",
+        "consciência"
+      ]
+    },
+    {
+      "id": "B02",
+      "column": "B",
+      "label": "Pessoa no centro",
+      "definition": "A pessoa humana é princípio, sujeito e fim das instituições sociais; Estado, mercado, escola e associações devem servir à pessoa, não sacrificá-la.",
+      "anchors": [
+        "CEC 1881",
+        "Gn 1,27"
+      ],
+      "tags": [
+        "dignidade",
+        "instituições"
+      ]
+    },
+    {
+      "id": "B03",
+      "column": "B",
+      "label": "Ser social",
+      "definition": "A vida em sociedade não é um acréscimo externo, mas uma exigência da natureza humana pela qual a pessoa cresce, serve, dialoga e amadurece.",
+      "anchors": [
+        "CEC 1879"
+      ],
+      "tags": [
+        "vida social",
+        "vocação"
+      ]
+    },
+    {
+      "id": "B04",
+      "column": "B",
+      "label": "Caridade social",
+      "definition": "O amor cristão ao próximo inclui responsabilidades sociais concretas: justiça, participação, cuidado dos frágeis e compromisso com o bem comum.",
+      "anchors": [
+        "CEC 1878",
+        "CEC 1889",
+        "Mc 12,28-31"
+      ],
+      "tags": [
+        "caridade",
+        "bem comum"
+      ]
+    },
+    {
+      "id": "B05",
+      "column": "B",
+      "label": "Bem comum",
+      "definition": "O bem comum é o conjunto de condições sociais que permitem às pessoas e comunidades alcançar mais plenamente sua dignidade e vocação.",
+      "anchors": [
+        "CEC 1881",
+        "CEC 1882"
+      ],
+      "tags": [
+        "sociedade",
+        "justiça"
+      ]
+    },
+    {
+      "id": "B06",
+      "column": "B",
+      "label": "Dignidade inviolável",
+      "definition": "Cada pessoa possui valor que não depende de utilidade, renda, opinião, origem, religião, saúde ou aceitação social, porque foi criada à imagem de Deus.",
+      "anchors": [
+        "Gn 1,27",
+        "CEC 1881"
+      ],
+      "tags": [
+        "dignidade",
+        "imagem de Deus"
+      ]
+    },
+    {
+      "id": "B07",
+      "column": "B",
+      "label": "Respeito ao próximo",
+      "definition": "Respeitar é reconhecer a dignidade do outro em palavras, atitudes e decisões, mesmo quando há discordância séria sobre ideias ou condutas.",
+      "anchors": [
+        "Mc 12,28-31",
+        "CEC 1889"
+      ],
+      "tags": [
+        "respeito",
+        "convivência"
+      ]
+    },
+    {
+      "id": "B08",
+      "column": "B",
+      "label": "Tolerância sem relativismo",
+      "definition": "Tolerar cristãmente é conviver com paciência e paz sem negar a verdade moral nem fingir que todas as escolhas têm o mesmo valor.",
+      "anchors": [
+        "Jo 8,32",
+        "CEC 1889"
+      ],
+      "tags": [
+        "tolerância",
+        "verdade"
+      ]
+    },
+    {
+      "id": "B09",
+      "column": "B",
+      "label": "Verdade e amor",
+      "definition": "A fraternidade humana deve ser construída na verdade e no amor; a verdade sem caridade fere, e a caridade sem verdade se torna falsa.",
+      "anchors": [
+        "CEC 1878",
+        "Ef 4,25"
+      ],
+      "tags": [
+        "verdade",
+        "caridade"
+      ]
+    },
+    {
+      "id": "B10",
+      "column": "B",
+      "label": "Participação responsável",
+      "definition": "A cidadania cristã exige participação real na vida comum, conforme a própria condição, sem comodismo, idolatria política ou fuga das responsabilidades.",
+      "anchors": [
+        "CEC 1882",
+        "Mt 5,13-16"
+      ],
+      "tags": [
+        "participação",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "B11",
+      "column": "B",
+      "label": "Conversão do coração",
+      "definition": "Mudanças sociais justas pedem estruturas melhores e também corações convertidos, pois leis corretas não bastam quando o egoísmo continua governando as ações.",
+      "anchors": [
+        "CEC 1888",
+        "Mc 12,28-31"
+      ],
+      "tags": [
+        "conversão",
+        "estruturas"
+      ]
+    },
+    {
+      "id": "B12",
+      "column": "B",
+      "label": "Justiça com caridade",
+      "definition": "A caridade não substitui a justiça nem a justiça dispensa a caridade; o cristão busca o direito do outro com amor, firmeza e misericórdia.",
+      "anchors": [
+        "CEC 1889",
+        "Tg 2,14-17"
+      ],
+      "tags": [
+        "justiça",
+        "caridade"
+      ]
+    },
+    {
+      "id": "B13",
+      "column": "B",
+      "label": "Deveres temporais",
+      "definition": "O cristão cumpre deveres civis legítimos, como leis justas, tributos, cuidado público e participação, iluminando tudo pelo amor a Deus.",
+      "anchors": [
+        "Mt 22,15-21",
+        "Rm 13,1-7"
+      ],
+      "tags": [
+        "dever civil",
+        "ordem social"
+      ]
+    },
+    {
+      "id": "B14",
+      "column": "B",
+      "label": "Graça contra extremos",
+      "definition": "Sem a graça, a pessoa tende a cair na covardia que cede ao mal ou na violência que agrava o mal fingindo combatê-lo.",
+      "anchors": [
+        "CEC 1889",
+        "Rm 12,17-21"
+      ],
+      "tags": [
+        "graça",
+        "discernimento"
+      ]
+    },
+    {
+      "id": "B15",
+      "column": "B",
+      "label": "Fraternidade em Deus",
+      "definition": "Todos são chamados ao mesmo fim, o próprio Deus; por isso a convivência humana deve buscar uma fraternidade fundada na verdade e no amor.",
+      "anchors": [
+        "CEC 1878",
+        "Mt 25,31-46"
+      ],
+      "tags": [
+        "fraternidade",
+        "vocação"
+      ]
+    },
+    {
+      "id": "I01",
+      "column": "I",
+      "label": "Imposto sonegado",
+      "definition": "Situação em que alguém evita contribuir para obrigações públicas justas enquanto exige serviços comuns, rompendo a responsabilidade para com a sociedade.",
+      "anchors": [
+        "Mt 22,15-21",
+        "B13"
+      ],
+      "tags": [
+        "tributos",
+        "dever civil"
+      ]
+    },
+    {
+      "id": "I02",
+      "column": "I",
+      "label": "Fila furada",
+      "definition": "Situação cotidiana em que a vantagem pessoal é buscada à custa da ordem comum e do direito dos que esperam legitimamente.",
+      "anchors": [
+        "B07",
+        "B05"
+      ],
+      "tags": [
+        "convivência",
+        "justiça cotidiana"
+      ]
+    },
+    {
+      "id": "I03",
+      "column": "I",
+      "label": "Funcionário explorado",
+      "definition": "Situação em que uma instituição usa sua força econômica para retirar descanso, salário ou segurança de quem trabalha e depende daquele emprego.",
+      "anchors": [
+        "CEC 1881",
+        "B02",
+        "B12"
+      ],
+      "tags": [
+        "trabalho",
+        "instituição"
+      ]
+    },
+    {
+      "id": "I04",
+      "column": "I",
+      "label": "Vizinho ignorado",
+      "definition": "Situação em que uma necessidade próxima e concreta é tratada como problema alheio, revelando indiferença diante da vida comum.",
+      "anchors": [
+        "Lc 10,25-37",
+        "B04"
+      ],
+      "tags": [
+        "proximidade",
+        "indiferença"
+      ]
+    },
+    {
+      "id": "I05",
+      "column": "I",
+      "label": "Mentira pública",
+      "definition": "Situação em que informação falsa é divulgada para manipular reputações, decisões ou conflitos, ferindo a verdade necessária à convivência.",
+      "anchors": [
+        "Ef 4,25",
+        "B09"
+      ],
+      "tags": [
+        "verdade",
+        "comunicação"
+      ]
+    },
+    {
+      "id": "I06",
+      "column": "I",
+      "label": "Associação abandonada",
+      "definition": "Situação em que pessoas deixam de participar de iniciativas legítimas de bairro, trabalho ou serviço, enfraquecendo respostas que dependem de cooperação.",
+      "anchors": [
+        "CEC 1882",
+        "B10"
+      ],
+      "tags": [
+        "participação",
+        "associação"
+      ]
+    },
+    {
+      "id": "I07",
+      "column": "I",
+      "label": "Idoso descartado",
+      "definition": "Situação em que uma pessoa idosa é tratada como peso ou obstáculo porque já não produz, decide rápido ou acompanha o ritmo dos outros.",
+      "anchors": [
+        "Gn 1,27",
+        "B06"
+      ],
+      "tags": [
+        "dignidade",
+        "fragilidade"
+      ]
+    },
+    {
+      "id": "I08",
+      "column": "I",
+      "label": "Debate humilhante",
+      "definition": "Situação em que a divergência vira ataque pessoal, ironia cruel ou exposição pública, destruindo a busca sincera da verdade.",
+      "anchors": [
+        "B07",
+        "B09"
+      ],
+      "tags": [
+        "diálogo",
+        "humilhação"
+      ]
+    },
+    {
+      "id": "I09",
+      "column": "I",
+      "label": "Corrupção pequena",
+      "definition": "Situação em que uma vantagem indevida é tratada como normal por parecer pequena, comum ou sem vítima visível.",
+      "anchors": [
+        "B11",
+        "B12"
+      ],
+      "tags": [
+        "corrupção",
+        "consciência"
+      ]
+    },
+    {
+      "id": "I10",
+      "column": "I",
+      "label": "Serviço público usado",
+      "definition": "Situação em que recursos comuns são usados como propriedade privada, moeda de troca ou favor pessoal de quem tem poder.",
+      "anchors": [
+        "CEC 1881",
+        "B05"
+      ],
+      "tags": [
+        "bem comum",
+        "poder"
+      ]
+    },
+    {
+      "id": "I11",
+      "column": "I",
+      "label": "Diferença religiosa",
+      "definition": "Situação em que alguém é pressionado, ridicularizado ou excluído por crer, rezar, não crer ou pertencer a outra tradição religiosa.",
+      "anchors": [
+        "B07",
+        "B08"
+      ],
+      "tags": [
+        "religião",
+        "tolerância"
+      ]
+    },
+    {
+      "id": "I12",
+      "column": "I",
+      "label": "Moradia precária",
+      "definition": "Situação em que famílias vivem sem condições mínimas enquanto decisões públicas e privadas tratam a precariedade como paisagem inevitável.",
+      "anchors": [
+        "B05",
+        "B12",
+        "Mt 25,31-46"
+      ],
+      "tags": [
+        "moradia",
+        "justiça social"
+      ]
+    },
+    {
+      "id": "I13",
+      "column": "I",
+      "label": "Descarte no bairro",
+      "definition": "Situação em que lixo, entulho ou barulho são jogados sobre a comunidade porque ninguém quer assumir o próprio impacto na vida dos outros.",
+      "anchors": [
+        "B03",
+        "B10"
+      ],
+      "tags": [
+        "bairro",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "I14",
+      "column": "I",
+      "label": "Medo de denunciar",
+      "definition": "Situação em que uma injustiça conhecida permanece escondida porque testemunhas temem represália, exposição ou conflito.",
+      "anchors": [
+        "CEC 1889",
+        "B14"
+      ],
+      "tags": [
+        "omissão",
+        "prudência"
+      ]
+    },
+    {
+      "id": "I15",
+      "column": "I",
+      "label": "Promessa vazia",
+      "definition": "Situação em que alguém assume compromisso público sem intenção real de cumprir, usando a confiança alheia como instrumento.",
+      "anchors": [
+        "Ef 4,25",
+        "B10"
+      ],
+      "tags": [
+        "compromisso",
+        "verdade"
+      ]
+    },
+    {
+      "id": "N01",
+      "column": "N",
+      "label": "Tudo é política",
+      "definition": "Narrativa que reduz toda relação humana a disputa de poder e impede reconhecer deveres diante de Deus, da verdade e da dignidade da pessoa.",
+      "anchors": [
+        "Mt 22,15-21",
+        "B01"
+      ],
+      "tags": [
+        "redução",
+        "poder"
+      ]
+    },
+    {
+      "id": "N02",
+      "column": "N",
+      "label": "Nada é comigo",
+      "definition": "Desculpa que transforma responsabilidade social em assunto dos outros, como se a vida comum não dependesse também de escolhas pessoais concretas.",
+      "anchors": [
+        "Lc 10,25-37",
+        "B04"
+      ],
+      "tags": [
+        "omissão",
+        "indiferença"
+      ]
+    },
+    {
+      "id": "N03",
+      "column": "N",
+      "label": "Todo mundo faz",
+      "definition": "Autoengano que usa a repetição do erro como desculpa moral, confundindo costume social com bem verdadeiro.",
+      "anchors": [
+        "B11",
+        "B12"
+      ],
+      "tags": [
+        "normalização",
+        "consciência"
+      ]
+    },
+    {
+      "id": "N04",
+      "column": "N",
+      "label": "Lei é sempre moral",
+      "definition": "Narrativa que identifica legalidade com justiça, esquecendo que uma lei pode ser legítima, insuficiente ou até injusta diante da dignidade humana.",
+      "anchors": [
+        "At 5,29",
+        "B01"
+      ],
+      "tags": [
+        "legalismo",
+        "consciência"
+      ]
+    },
+    {
+      "id": "N05",
+      "column": "N",
+      "label": "Minha opinião basta",
+      "definition": "Desculpa que trata opinião pessoal como critério final, fechando a pessoa à verdade, ao diálogo e à responsabilidade pelo que afirma.",
+      "anchors": [
+        "Jo 8,32",
+        "B09"
+      ],
+      "tags": [
+        "opinião",
+        "verdade"
+      ]
+    },
+    {
+      "id": "N06",
+      "column": "N",
+      "label": "Tolerar é concordar",
+      "definition": "Narrativa que confunde convivência pacífica com aprovação moral, tornando impossível discordar com respeito e amar sem renunciar à verdade.",
+      "anchors": [
+        "B08",
+        "B09"
+      ],
+      "tags": [
+        "tolerância",
+        "relativismo"
+      ]
+    },
+    {
+      "id": "N07",
+      "column": "N",
+      "label": "Respeito é silêncio",
+      "definition": "Desculpa que transforma respeito em omissão, como se falar a verdade com caridade fosse sempre agressão ou intolerância.",
+      "anchors": [
+        "Ef 4,25",
+        "B07"
+      ],
+      "tags": [
+        "omissão",
+        "verdade"
+      ]
+    },
+    {
+      "id": "N08",
+      "column": "N",
+      "label": "Os fins justificam",
+      "definition": "Narrativa que aceita mentira, humilhação ou violência quando a causa parece boa, rompendo a unidade entre meios justos e fim justo.",
+      "anchors": [
+        "Rm 12,17-21",
+        "CEC 1889"
+      ],
+      "tags": [
+        "meios",
+        "violência"
+      ]
+    },
+    {
+      "id": "N09",
+      "column": "N",
+      "label": "Instituição acima de tudo",
+      "definition": "Engano que sacrifica pessoas concretas para proteger imagem, números ou interesses da instituição, invertendo a ordem moral ensinada pela Igreja.",
+      "anchors": [
+        "CEC 1881",
+        "B02"
+      ],
+      "tags": [
+        "instituição",
+        "dignidade"
+      ]
+    },
+    {
+      "id": "N10",
+      "column": "N",
+      "label": "Caridade sem justiça",
+      "definition": "Narrativa que chama de bondade uma ajuda que alivia a dor imediata, mas se recusa a enfrentar a injustiça que produz a ferida.",
+      "anchors": [
+        "CEC 1888",
+        "CEC 1889",
+        "B12"
+      ],
+      "tags": [
+        "assistência",
+        "justiça"
+      ]
+    },
+    {
+      "id": "N11",
+      "column": "N",
+      "label": "Justiça como vingança",
+      "definition": "Autoengano que confunde reparar o mal com destruir o culpado, trocando justiça por revanche e alimentando novo ciclo de violência.",
+      "anchors": [
+        "Rm 12,17-21",
+        "B14"
+      ],
+      "tags": [
+        "vingança",
+        "justiça"
+      ]
+    },
+    {
+      "id": "N12",
+      "column": "N",
+      "label": "Neutralidade cômoda",
+      "definition": "Desculpa que se apresenta como equilíbrio, mas na prática protege o erro quando a pessoa tinha dever e possibilidade de agir prudentemente.",
+      "anchors": [
+        "CEC 1889",
+        "I14"
+      ],
+      "tags": [
+        "omissão",
+        "covardia"
+      ]
+    },
+    {
+      "id": "N13",
+      "column": "N",
+      "label": "Privado sem impacto",
+      "definition": "Narrativa que diz que escolhas privadas nunca afetam ninguém, ignorando que hábitos, consumo, fala e omissão também formam a vida comum.",
+      "anchors": [
+        "CEC 1879",
+        "B03"
+      ],
+      "tags": [
+        "vida privada",
+        "impacto social"
+      ]
+    },
+    {
+      "id": "N14",
+      "column": "N",
+      "label": "Poder merece privilégio",
+      "definition": "Engano que trata cargo, dinheiro ou influência como autorização para furar regras, receber favores ou escapar das consequências comuns.",
+      "anchors": [
+        "CEC 1881",
+        "I10"
+      ],
+      "tags": [
+        "poder",
+        "privilégio"
+      ]
+    },
+    {
+      "id": "N15",
+      "column": "N",
+      "label": "Só oração resolve",
+      "definition": "Desvio que usa linguagem religiosa para evitar deveres concretos de justiça, reparação, participação e saneamento das condições que favorecem o mal.",
+      "anchors": [
+        "CEC 1888",
+        "Tg 2,14-17"
+      ],
+      "tags": [
+        "oração",
+        "passividade"
+      ]
+    },
+    {
+      "id": "G01",
+      "column": "G",
+      "label": "Legal ou justo",
+      "definition": "Distinção entre cumprir uma norma existente e reconhecer se ela serve de fato à dignidade da pessoa, ao bem comum e à justiça.",
+      "anchors": [
+        "At 5,29",
+        "B01",
+        "N04"
+      ],
+      "tags": [
+        "lei",
+        "justiça"
+      ]
+    },
+    {
+      "id": "G02",
+      "column": "G",
+      "label": "Pessoa ou cargo",
+      "definition": "Distinção entre respeitar a dignidade de quem exerce autoridade e avaliar criticamente o uso concreto do cargo, da função ou do poder.",
+      "anchors": [
+        "CEC 1881",
+        "B02"
+      ],
+      "tags": [
+        "autoridade",
+        "dignidade"
+      ]
+    },
+    {
+      "id": "G03",
+      "column": "G",
+      "label": "Tolerar ou aprovar",
+      "definition": "Distinção entre suportar diferenças com paciência e paz e declarar moralmente boa uma ideia ou conduta que precisa ser questionada.",
+      "anchors": [
+        "B08",
+        "N06"
+      ],
+      "tags": [
+        "tolerância",
+        "aprovação"
+      ]
+    },
+    {
+      "id": "G04",
+      "column": "G",
+      "label": "Discordar ou humilhar",
+      "definition": "Distinção entre apresentar razões contra uma ideia e atacar a pessoa com desprezo, ridicularização ou exposição destrutiva.",
+      "anchors": [
+        "B07",
+        "I08"
+      ],
+      "tags": [
+        "diálogo",
+        "humilhação"
+      ]
+    },
+    {
+      "id": "G05",
+      "column": "G",
+      "label": "Prudência ou omissão",
+      "definition": "Distinção entre agir com tempo, modo e segurança adequados e usar cautela como desculpa para não enfrentar o mal.",
+      "anchors": [
+        "CEC 1889",
+        "I14",
+        "N12"
+      ],
+      "tags": [
+        "prudência",
+        "omissão"
+      ]
+    },
+    {
+      "id": "G06",
+      "column": "G",
+      "label": "Caridade ou conivência",
+      "definition": "Distinção entre amar a pessoa que erra e proteger o erro, negar o dano ou impedir a correção necessária.",
+      "anchors": [
+        "CEC 1889",
+        "N10"
+      ],
+      "tags": [
+        "caridade",
+        "correção"
+      ]
+    },
+    {
+      "id": "G07",
+      "column": "G",
+      "label": "Justiça ou revanche",
+      "definition": "Distinção entre buscar reparação proporcional e desejar que o culpado seja destruído, humilhado ou tratado sem dignidade.",
+      "anchors": [
+        "Rm 12,17-21",
+        "N11"
+      ],
+      "tags": [
+        "justiça",
+        "vingança"
+      ]
+    },
+    {
+      "id": "G08",
+      "column": "G",
+      "label": "Dever civil ou idolatria",
+      "definition": "Distinção entre cumprir obrigações legítimas para com a sociedade e colocar autoridade, partido, Estado ou ideologia no lugar de Deus.",
+      "anchors": [
+        "Mt 22,15-21",
+        "B13",
+        "B01"
+      ],
+      "tags": [
+        "cidadania",
+        "idolatria"
+      ]
+    },
+    {
+      "id": "G09",
+      "column": "G",
+      "label": "Consciência ou capricho",
+      "definition": "Distinção entre seguir uma consciência formada pela verdade e usar preferências pessoais para rejeitar qualquer limite ou obrigação.",
+      "anchors": [
+        "Jo 8,32",
+        "B09"
+      ],
+      "tags": [
+        "consciência",
+        "verdade"
+      ]
+    },
+    {
+      "id": "G10",
+      "column": "G",
+      "label": "Ajuda ou dependência",
+      "definition": "Distinção entre socorrer uma necessidade real e criar uma relação que prende, humilha ou impede a responsabilidade da pessoa ajudada.",
+      "anchors": [
+        "CEC 1882",
+        "B04"
+      ],
+      "tags": [
+        "serviço",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "G11",
+      "column": "G",
+      "label": "Estrutura ou coração",
+      "definition": "Distinção entre mudar condições sociais injustas e converter atitudes pessoais, reconhecendo que uma dimensão não elimina a outra.",
+      "anchors": [
+        "CEC 1888",
+        "B11"
+      ],
+      "tags": [
+        "conversão",
+        "estruturas"
+      ]
+    },
+    {
+      "id": "G12",
+      "column": "G",
+      "label": "Unidade ou uniformidade",
+      "definition": "Distinção entre buscar comunhão no bem e exigir que todos pensem, falem, rezem ou vivam do mesmo modo em tudo.",
+      "anchors": [
+        "CEC 1878",
+        "CEC 1879"
+      ],
+      "tags": [
+        "fraternidade",
+        "pluralidade"
+      ]
+    },
+    {
+      "id": "G13",
+      "column": "G",
+      "label": "Autoridade ou abuso",
+      "definition": "Distinção entre autoridade que serve ao fim justo da comunidade e abuso que usa a função para dominar, calar ou explorar.",
+      "anchors": [
+        "CEC 1881",
+        "G02"
+      ],
+      "tags": [
+        "autoridade",
+        "abuso"
+      ]
+    },
+    {
+      "id": "G14",
+      "column": "G",
+      "label": "Opinião ou testemunho",
+      "definition": "Distinção entre expressar preferência sem compromisso com a verdade e falar a partir de convicção formada, responsabilidade e coerência de vida.",
+      "anchors": [
+        "Ef 4,25",
+        "N05"
+      ],
+      "tags": [
+        "verdade",
+        "fala pública"
+      ]
+    },
+    {
+      "id": "G15",
+      "column": "G",
+      "label": "Paz ou acomodação",
+      "definition": "Distinção entre construir convivência ordenada na verdade e evitar conflito a qualquer custo, mesmo quando a injustiça continua ferindo.",
+      "anchors": [
+        "1Cor 14,33.40",
+        "CEC 1889"
+      ],
+      "tags": [
+        "paz",
+        "conflito"
+      ]
+    },
+    {
+      "id": "O01",
+      "column": "O",
+      "label": "Pagar o devido",
+      "definition": "Cumprir deveres civis justos, como tributos, regras comuns e responsabilidades públicas, sem transformar esperteza em virtude.",
+      "anchors": [
+        "Mt 22,15-21",
+        "B13",
+        "I01"
+      ],
+      "tags": [
+        "dever civil",
+        "honestidade"
+      ]
+    },
+    {
+      "id": "O02",
+      "column": "O",
+      "label": "Falar com caridade",
+      "definition": "Dizer a verdade necessária com respeito, clareza e proporção, sem humilhar a pessoa nem esconder o problema.",
+      "anchors": [
+        "Ef 4,25",
+        "B09",
+        "G04"
+      ],
+      "tags": [
+        "verdade",
+        "diálogo"
+      ]
+    },
+    {
+      "id": "O03",
+      "column": "O",
+      "label": "Reparar o dano",
+      "definition": "Assumir o mal causado e buscar correção concreta, devolução, pedido de perdão, retratação ou outra forma proporcional de reparação.",
+      "anchors": [
+        "B12",
+        "G07"
+      ],
+      "tags": [
+        "reparação",
+        "justiça"
+      ]
+    },
+    {
+      "id": "O04",
+      "column": "O",
+      "label": "Proteger o vulnerável",
+      "definition": "Tomar medidas prudentes para que quem está exposto, frágil ou ameaçado receba apoio real, segurança e encaminhamento adequado.",
+      "anchors": [
+        "Mt 25,31-46",
+        "B06",
+        "I07"
+      ],
+      "tags": [
+        "proteção",
+        "vulnerabilidade"
+      ]
+    },
+    {
+      "id": "O05",
+      "column": "O",
+      "label": "Participar do comum",
+      "definition": "Assumir uma parte possível na vida social, como reunião, conselho, mutirão, associação, fiscalização ou serviço, conforme a própria condição.",
+      "anchors": [
+        "CEC 1882",
+        "B10",
+        "I06"
+      ],
+      "tags": [
+        "participação",
+        "bem comum"
+      ]
+    },
+    {
+      "id": "O06",
+      "column": "O",
+      "label": "Verificar antes",
+      "definition": "Checar fonte, contexto e consequência antes de repassar informação, acusação ou denúncia, evitando colaborar com mentira e injustiça.",
+      "anchors": [
+        "Ef 4,25",
+        "I05",
+        "B09"
+      ],
+      "tags": [
+        "verdade",
+        "prudência"
+      ]
+    },
+    {
+      "id": "O07",
+      "column": "O",
+      "label": "Recusar privilégio injusto",
+      "definition": "Não aceitar vantagem indevida obtida por cargo, amizade, dinheiro ou influência, mesmo quando pareça normal ou pequena.",
+      "anchors": [
+        "B12",
+        "N14",
+        "I09"
+      ],
+      "tags": [
+        "corrupção",
+        "justiça"
+      ]
+    },
+    {
+      "id": "O08",
+      "column": "O",
+      "label": "Denunciar com prudência",
+      "definition": "Levar injustiça grave a quem pode agir, preservando provas, segurança e verdade, sem linchamento nem omissão que abandona.",
+      "anchors": [
+        "CEC 1889",
+        "I14",
+        "G05"
+      ],
+      "tags": [
+        "denúncia",
+        "prudência"
+      ]
+    },
+    {
+      "id": "O09",
+      "column": "O",
+      "label": "Escutar antes de julgar",
+      "definition": "Ouvir pessoas envolvidas, fatos relevantes e contexto real antes de concluir, acusar ou tomar partido em conflitos sociais.",
+      "anchors": [
+        "B07",
+        "G04"
+      ],
+      "tags": [
+        "escuta",
+        "discernimento"
+      ]
+    },
+    {
+      "id": "O10",
+      "column": "O",
+      "label": "Servir sem dominar",
+      "definition": "Ajudar de modo que respeite a liberdade e a responsabilidade do outro, sem usar o serviço para controlar, humilhar ou comprar gratidão.",
+      "anchors": [
+        "Gl 5,13",
+        "G10"
+      ],
+      "tags": [
+        "serviço",
+        "liberdade"
+      ]
+    },
+    {
+      "id": "O11",
+      "column": "O",
+      "label": "Corrigir a estrutura",
+      "definition": "Quando a regra, rotina ou instituição favorece injustiça, buscar mudança concreta e possível, em vez de culpar apenas indivíduos isolados.",
+      "anchors": [
+        "CEC 1888",
+        "G11"
+      ],
+      "tags": [
+        "estrutura",
+        "justiça"
+      ]
+    },
+    {
+      "id": "O12",
+      "column": "O",
+      "label": "Formar a consciência",
+      "definition": "Buscar verdade, doutrina, conselho prudente e exame sincero para decidir melhor, sem reduzir consciência a gosto pessoal.",
+      "anchors": [
+        "Jo 8,32",
+        "G09"
+      ],
+      "tags": [
+        "consciência",
+        "formação"
+      ]
+    },
+    {
+      "id": "O13",
+      "column": "O",
+      "label": "Orar e agir",
+      "definition": "Unir oração, conversão pessoal e ação concreta, sem usar a oração como desculpa para abandonar deveres de justiça e caridade.",
+      "anchors": [
+        "CEC 1888",
+        "Tg 2,14-17",
+        "N15"
+      ],
+      "tags": [
+        "oração",
+        "ação"
+      ]
+    },
+    {
+      "id": "O14",
+      "column": "O",
+      "label": "Assumir consequência",
+      "definition": "Aceitar responsabilização proporcional por escolhas erradas, sem terceirizar culpa, negar fatos ou fugir da reparação devida.",
+      "anchors": [
+        "B11",
+        "O03"
+      ],
+      "tags": [
+        "responsabilidade",
+        "consequência"
+      ]
+    },
+    {
+      "id": "O15",
+      "column": "O",
+      "label": "Construir paz justa",
+      "definition": "Buscar reconciliação, ordem e convivência sem encobrir feridas, negar a verdade ou abandonar a justiça necessária.",
+      "anchors": [
+        "1Cor 14,33.40",
+        "CEC 1889",
+        "G15"
+      ],
+      "tags": [
+        "paz",
+        "justiça"
+      ]
+    }
+  ]
+}

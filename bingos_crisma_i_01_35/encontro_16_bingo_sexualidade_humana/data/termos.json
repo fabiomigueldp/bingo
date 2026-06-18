@@ -1,0 +1,1202 @@
+{
+  "title": "Bingo — Sexualidade humana",
+  "meeting": "Encontro 16 — Sexualidade humana",
+  "meeting_label": "Encontro 16",
+  "output_slug": "bingo_sexualidade_humana",
+  "core_message": "A sexualidade é dom de Deus que alcança a pessoa inteira e só encontra sua verdade quando integrada pela castidade no amor fiel, fecundo e responsável.",
+  "source_meeting_markdown": "projects/catequese/material_didatico/output/markdown/encontro_16.md",
+  "scripture": [
+    "Gn 1,27",
+    "Tb 8,4-9",
+    "Mt 5,27-28",
+    "Mt 19,4-6",
+    "Jo 8,11",
+    "1Cor 6,18-20",
+    "1Ts 4,3-5",
+    "Ef 5,25-33",
+    "Tg 5,16"
+  ],
+  "catechism": [
+    "CEC 2337",
+    "CEC 2339",
+    "CEC 2342",
+    "CEC 2345",
+    "CEC 2346",
+    "CEC 2347",
+    "CEC 2348",
+    "CEC 2351",
+    "CEC 2352",
+    "CEC 2353",
+    "CEC 2354",
+    "CEC 2355",
+    "CEC 2356",
+    "CEC 2361",
+    "CEC 2362",
+    "CEC 2363",
+    "CEC 2370",
+    "CEC 2376",
+    "CEC 2377",
+    "CEC 2380",
+    "CEC 2390",
+    "CEC 2391"
+  ],
+  "card_model": {
+    "total_terms": 75,
+    "columns": 5,
+    "terms_per_column": 15,
+    "grid": "5x5",
+    "center": {
+      "label": "LIVRE / Gn 1,27",
+      "fixed": true,
+      "called": false
+    },
+    "recommended_win_condition": "duas_linhas"
+  },
+  "columns": [
+    {
+      "key": "B",
+      "title": "Base moral",
+      "function": "Fundamentos bíblicos e doutrinais para ler o tema.",
+      "short_function": "fundamento cristão do tema"
+    },
+    {
+      "key": "I",
+      "title": "Situações concretas",
+      "function": "Formas reais em que o tema aparece na vida concreta, em situações inteligíveis para a turma.",
+      "short_function": "situações concretas do tema"
+    },
+    {
+      "key": "N",
+      "title": "Narrativas falsas",
+      "function": "Desculpas, autoenganos e frases que desviam do bem.",
+      "short_function": "desculpas que normalizam o erro"
+    },
+    {
+      "key": "G",
+      "title": "Discernimentos",
+      "function": "Distinções morais que evitam respostas simplistas.",
+      "short_function": "distinções para discernir"
+    },
+    {
+      "key": "O",
+      "title": "Orientações de resposta",
+      "function": "Ações concretas, prudentes e proporcionais diante do problema.",
+      "short_function": "respostas proporcionais e prudentes"
+    }
+  ],
+  "terms": [
+    {
+      "id": "B01",
+      "column": "B",
+      "label": "Imagem de Deus",
+      "definition": "A pessoa humana possui dignidade recebida de Deus e não pode ser reduzida a corpo disponível, desejo passageiro, aparência, utilidade ou objeto de consumo.",
+      "anchors": [
+        "Gn 1,27",
+        "B02"
+      ],
+      "tags": [
+        "dignidade",
+        "antropologia"
+      ]
+    },
+    {
+      "id": "B02",
+      "column": "B",
+      "label": "Unidade corpo-alma",
+      "definition": "O corpo não é uma coisa separada da pessoa; aquilo que se faz com o corpo atinge a pessoa inteira, sua consciência, sua afetividade e sua história.",
+      "anchors": [
+        "CEC 2337",
+        "CEC 2361"
+      ],
+      "tags": [
+        "corpo",
+        "pessoa"
+      ]
+    },
+    {
+      "id": "B03",
+      "column": "B",
+      "label": "Dom da sexualidade",
+      "definition": "A sexualidade é boa porque foi criada por Deus, mas deve ser recebida como dom a ser ordenado ao amor, e não como licença para usar a si mesmo ou o outro.",
+      "anchors": [
+        "Gn 1,27",
+        "CEC 2361",
+        "CEC 2362"
+      ],
+      "tags": [
+        "dom",
+        "criação"
+      ]
+    },
+    {
+      "id": "B04",
+      "column": "B",
+      "label": "Núcleo íntimo",
+      "definition": "A sexualidade toca o centro da pessoa humana; por isso pede verdade, pudor, responsabilidade e compromisso, não banalização nem exposição curiosa.",
+      "anchors": [
+        "CEC 2361",
+        "B02"
+      ],
+      "tags": [
+        "intimidade",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "B05",
+      "column": "B",
+      "label": "Castidade integral",
+      "definition": "Castidade é a integração correta da sexualidade na pessoa, unindo corpo e espírito para amar segundo a verdade do próprio estado de vida.",
+      "anchors": [
+        "CEC 2337",
+        "CEC 2348"
+      ],
+      "tags": [
+        "castidade",
+        "integração"
+      ]
+    },
+    {
+      "id": "B06",
+      "column": "B",
+      "label": "Domínio de si",
+      "definition": "Domínio de si é a aprendizagem pela qual a pessoa deixa de ser arrastada por impulsos e passa a escolher o bem com liberdade responsável.",
+      "anchors": [
+        "CEC 2339",
+        "CEC 2342"
+      ],
+      "tags": [
+        "liberdade",
+        "virtude"
+      ]
+    },
+    {
+      "id": "B07",
+      "column": "B",
+      "label": "Escola de doação",
+      "definition": "A castidade não fecha a pessoa em si mesma; educa o coração para doar-se de modo verdadeiro, fiel e respeitoso.",
+      "anchors": [
+        "CEC 2346",
+        "B05"
+      ],
+      "tags": [
+        "doação",
+        "caridade"
+      ]
+    },
+    {
+      "id": "B08",
+      "column": "B",
+      "label": "Estado de vida",
+      "definition": "Todo cristão é chamado à castidade, mas ela se vive de modo concreto conforme a condição de solteiro, noivo, casado ou consagrado.",
+      "anchors": [
+        "CEC 2348",
+        "B05"
+      ],
+      "tags": [
+        "vocação",
+        "disciplina"
+      ]
+    },
+    {
+      "id": "B09",
+      "column": "B",
+      "label": "Amor conjugal",
+      "definition": "O amor conjugal é a entrega exclusiva e estável do homem e da mulher no matrimônio, ordenada ao bem dos esposos e aberta à vida.",
+      "anchors": [
+        "CEC 2361",
+        "CEC 2363",
+        "Ef 5,25-33"
+      ],
+      "tags": [
+        "matrimônio",
+        "aliança"
+      ]
+    },
+    {
+      "id": "B10",
+      "column": "B",
+      "label": "Unidade e fecundidade",
+      "definition": "Na moral católica, o sentido unitivo e o sentido procriativo do ato conjugal não devem ser separados, porque pertencem à verdade do matrimônio.",
+      "anchors": [
+        "CEC 2363",
+        "B09"
+      ],
+      "tags": [
+        "matrimônio",
+        "fecundidade"
+      ]
+    },
+    {
+      "id": "B11",
+      "column": "B",
+      "label": "Fidelidade",
+      "definition": "Fidelidade é a permanência concreta da promessa de amor, que protege a entrega conjugal contra a mentira, a duplicidade e a traição.",
+      "anchors": [
+        "CEC 2363",
+        "Mt 19,4-6"
+      ],
+      "tags": [
+        "promessa",
+        "aliança"
+      ]
+    },
+    {
+      "id": "B12",
+      "column": "B",
+      "label": "Fecundidade",
+      "definition": "Fecundidade é abertura responsável à vida e aos frutos do amor, não mero funcionamento biológico nem peso a ser eliminado por conveniência.",
+      "anchors": [
+        "CEC 2363",
+        "Gn 1,27"
+      ],
+      "tags": [
+        "vida",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "B13",
+      "column": "B",
+      "label": "Amizade casta",
+      "definition": "A amizade vivida na castidade permite proximidade verdadeira sem posse, erotização indevida ou manipulação afetiva.",
+      "anchors": [
+        "CEC 2347",
+        "B05"
+      ],
+      "tags": [
+        "amizade",
+        "afeto"
+      ]
+    },
+    {
+      "id": "B14",
+      "column": "B",
+      "label": "Pureza de Cristo",
+      "definition": "A pureza cristã não é desprezo do corpo, mas participação na vida de Cristo, que ensina a olhar, amar e agir com coração inteiro.",
+      "anchors": [
+        "CEC 2345",
+        "1Cor 6,18-20",
+        "Mt 5,27-28"
+      ],
+      "tags": [
+        "graça",
+        "pureza"
+      ]
+    },
+    {
+      "id": "B15",
+      "column": "B",
+      "label": "Graça e recomeço",
+      "definition": "A vida casta exige luta prolongada, queda e retomada; o cristão recomeça pela graça, pela verdade e pelos meios concretos de conversão.",
+      "anchors": [
+        "CEC 2342",
+        "CEC 2345",
+        "Jo 8,11"
+      ],
+      "tags": [
+        "conversão",
+        "esperança"
+      ]
+    },
+    {
+      "id": "I01",
+      "column": "I",
+      "label": "Exposição íntima",
+      "definition": "Situação em que imagens, conversas ou informações íntimas são compartilhadas ou ameaçadas, violando a dignidade e a segurança da pessoa.",
+      "anchors": [
+        "B04",
+        "G08",
+        "O02"
+      ],
+      "tags": [
+        "exposição",
+        "dignidade"
+      ]
+    },
+    {
+      "id": "I02",
+      "column": "I",
+      "label": "Pressão no namoro",
+      "definition": "Situação em que uma pessoa usa chantagem afetiva, medo de abandono ou falsa prova de amor para obter intimidade sexual.",
+      "anchors": [
+        "B05",
+        "N03",
+        "O09"
+      ],
+      "tags": [
+        "namoro",
+        "limite"
+      ]
+    },
+    {
+      "id": "I03",
+      "column": "I",
+      "label": "Pornografia",
+      "definition": "Uso de conteúdo sexual que transforma pessoas em objeto de consumo, deseduca o desejo e enfraquece a liberdade interior.",
+      "anchors": [
+        "CEC 2354",
+        "B06",
+        "O08"
+      ],
+      "tags": [
+        "pornografia",
+        "consumo"
+      ]
+    },
+    {
+      "id": "I04",
+      "column": "I",
+      "label": "Conversa erotizada",
+      "definition": "Troca de mensagens, imagens ou insinuações que estimula desejo sem compromisso, reduzindo a relação a excitação e curiosidade.",
+      "anchors": [
+        "B04",
+        "G09",
+        "O03"
+      ],
+      "tags": [
+        "digital",
+        "pudor"
+      ]
+    },
+    {
+      "id": "I05",
+      "column": "I",
+      "label": "Flerte comprometido",
+      "definition": "Situação em que alguém comprometido alimenta intimidade ambígua com outra pessoa, abrindo espaço para infidelidade e mentira.",
+      "anchors": [
+        "B11",
+        "CEC 2380",
+        "G10"
+      ],
+      "tags": [
+        "fidelidade",
+        "ambiguidade"
+      ]
+    },
+    {
+      "id": "I06",
+      "column": "I",
+      "label": "Sexo sem promessa",
+      "definition": "Relação sexual separada de aliança matrimonial e de entrega estável, tratando o corpo como linguagem sem compromisso correspondente.",
+      "anchors": [
+        "CEC 2353",
+        "CEC 2391",
+        "B09"
+      ],
+      "tags": [
+        "fornicação",
+        "compromisso"
+      ]
+    },
+    {
+      "id": "I07",
+      "column": "I",
+      "label": "Traição conjugal",
+      "definition": "Quebra da promessa matrimonial por relação, duplicidade ou intimidade sexual fora da aliança assumida.",
+      "anchors": [
+        "CEC 2380",
+        "B11",
+        "Mt 19,4-6"
+      ],
+      "tags": [
+        "adultério",
+        "promessa"
+      ]
+    },
+    {
+      "id": "I08",
+      "column": "I",
+      "label": "Relação descartável",
+      "definition": "Vínculo em que uma pessoa é procurada pelo prazer ou pela carência do momento e depois abandonada como se nada tivesse sido entregue.",
+      "anchors": [
+        "B01",
+        "B07",
+        "G11"
+      ],
+      "tags": [
+        "uso",
+        "descartabilidade"
+      ]
+    },
+    {
+      "id": "I09",
+      "column": "I",
+      "label": "Filho como estorvo",
+      "definition": "Situação em que a possível chegada de uma vida é tratada apenas como ameaça ao projeto do casal, ao conforto ou à imagem social.",
+      "anchors": [
+        "B12",
+        "CEC 2363",
+        "B10"
+      ],
+      "tags": [
+        "vida",
+        "fecundidade"
+      ]
+    },
+    {
+      "id": "I10",
+      "column": "I",
+      "label": "Técnica sem vínculo",
+      "definition": "Busca de geração humana como procedimento técnico separado da doação conjugal, do vínculo familiar e da dignidade da criança.",
+      "anchors": [
+        "CEC 2376",
+        "CEC 2377",
+        "G12"
+      ],
+      "tags": [
+        "procriação",
+        "técnica"
+      ]
+    },
+    {
+      "id": "I11",
+      "column": "I",
+      "label": "Assédio no trabalho",
+      "definition": "Uso de ambiente profissional, insinuação, ameaça ou promessa de vantagem para constranger sexualmente outra pessoa.",
+      "anchors": [
+        "B01",
+        "G03",
+        "O12"
+      ],
+      "tags": [
+        "assédio",
+        "trabalho"
+      ]
+    },
+    {
+      "id": "I12",
+      "column": "I",
+      "label": "Abuso de poder",
+      "definition": "Situação em que autoridade, dependência, idade, medo ou vulnerabilidade são usados para obter acesso ao corpo ou à intimidade de alguém.",
+      "anchors": [
+        "CEC 2356",
+        "B01",
+        "O12"
+      ],
+      "tags": [
+        "abuso",
+        "autoridade"
+      ]
+    },
+    {
+      "id": "I13",
+      "column": "I",
+      "label": "Prostituição",
+      "definition": "Exploração ou comércio do corpo e da sexualidade, frequentemente ligado a miséria, coação, vício ou vulnerabilidade social.",
+      "anchors": [
+        "CEC 2355",
+        "B01",
+        "O11"
+      ],
+      "tags": [
+        "exploração",
+        "vulnerabilidade"
+      ]
+    },
+    {
+      "id": "I14",
+      "column": "I",
+      "label": "Mercado pornográfico",
+      "definition": "Sistema que lucra com a exposição sexual, a degradação do corpo, o vício do consumidor e a exploração de pessoas reais.",
+      "anchors": [
+        "CEC 2354",
+        "I03",
+        "G08"
+      ],
+      "tags": [
+        "mercado",
+        "exploração"
+      ]
+    },
+    {
+      "id": "I15",
+      "column": "I",
+      "label": "Ferida de abuso",
+      "definition": "Consequência pessoal, espiritual e relacional causada por violência sexual, manipulação ou violação grave da intimidade.",
+      "anchors": [
+        "CEC 2356",
+        "O11",
+        "O07"
+      ],
+      "tags": [
+        "trauma",
+        "proteção"
+      ]
+    },
+    {
+      "id": "N01",
+      "column": "N",
+      "label": "Só desejo basta",
+      "definition": "Narrativa falsa que toma o desejo como autorização moral, ignorando verdade, compromisso, dignidade e finalidade do amor humano.",
+      "anchors": [
+        "G02",
+        "B06",
+        "CEC 2339"
+      ],
+      "tags": [
+        "autoengano",
+        "desejo"
+      ]
+    },
+    {
+      "id": "N02",
+      "column": "N",
+      "label": "Todo mundo faz",
+      "definition": "Desculpa que troca o critério do bem pela pressão cultural, como se frequência social transformasse erro em verdade.",
+      "anchors": [
+        "B06",
+        "G06",
+        "1Ts 4,3-5"
+      ],
+      "tags": [
+        "pressão",
+        "conformismo"
+      ]
+    },
+    {
+      "id": "N03",
+      "column": "N",
+      "label": "Prova de amor",
+      "definition": "Chantagem afetiva que exige entrega sexual como demonstração de amor, invertendo o sentido da liberdade e do respeito.",
+      "anchors": [
+        "I02",
+        "G03",
+        "O01"
+      ],
+      "tags": [
+        "chantagem",
+        "namoro"
+      ]
+    },
+    {
+      "id": "N04",
+      "column": "N",
+      "label": "Autonomia sem vínculo",
+      "definition": "Narrativa que usa a liberdade pessoal para negar que o corpo, a intimidade e as escolhas sexuais tenham efeitos sobre outras pessoas.",
+      "anchors": [
+        "B02",
+        "B04",
+        "G06"
+      ],
+      "tags": [
+        "liberdade",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "N05",
+      "column": "N",
+      "label": "Privado não fere",
+      "definition": "Autoengano que considera moralmente neutro tudo o que acontece escondido, mesmo quando alimenta vício, mentira ou uso do outro.",
+      "anchors": [
+        "Mt 5,27-28",
+        "I03",
+        "G08"
+      ],
+      "tags": [
+        "segredo",
+        "consciência"
+      ]
+    },
+    {
+      "id": "N06",
+      "column": "N",
+      "label": "Ilusão de controle",
+      "definition": "Desculpa de quem mantém práticas desordenadas dizendo que para quando quiser, enquanto os hábitos já enfraquecem a liberdade.",
+      "anchors": [
+        "B06",
+        "CEC 2342",
+        "O08"
+      ],
+      "tags": [
+        "vício",
+        "hábito"
+      ]
+    },
+    {
+      "id": "N07",
+      "column": "N",
+      "label": "Ciúme é amor",
+      "definition": "Narrativa que confunde amor com posse, vigilância e controle, escondendo insegurança ou dominação sob linguagem afetiva.",
+      "anchors": [
+        "G10",
+        "B13",
+        "O01"
+      ],
+      "tags": [
+        "controle",
+        "posse"
+      ]
+    },
+    {
+      "id": "N08",
+      "column": "N",
+      "label": "Consentiu uma vez",
+      "definition": "Mentira que transforma uma permissão passada em direito permanente sobre o corpo, a intimidade ou a atenção da outra pessoa.",
+      "anchors": [
+        "G03",
+        "I11",
+        "O01"
+      ],
+      "tags": [
+        "consentimento",
+        "limite"
+      ]
+    },
+    {
+      "id": "N09",
+      "column": "N",
+      "label": "Compromisso pesa",
+      "definition": "Narrativa que chama compromisso de prisão para manter benefícios afetivos ou sexuais sem promessa, responsabilidade ou fidelidade.",
+      "anchors": [
+        "B09",
+        "B11",
+        "I06"
+      ],
+      "tags": [
+        "compromisso",
+        "fuga"
+      ]
+    },
+    {
+      "id": "N10",
+      "column": "N",
+      "label": "Prazer sem consequência",
+      "definition": "Autoengano que separa prazer de responsabilidade, como se a sexualidade não tocasse corpo, alma, vínculos, família e futuro.",
+      "anchors": [
+        "B02",
+        "B10",
+        "G11"
+      ],
+      "tags": [
+        "prazer",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "N11",
+      "column": "N",
+      "label": "Fecundidade é defeito",
+      "definition": "Narrativa que vê a abertura à vida como falha a ser bloqueada, e não como dimensão humana a ser acolhida com responsabilidade.",
+      "anchors": [
+        "B12",
+        "CEC 2363",
+        "CEC 2370"
+      ],
+      "tags": [
+        "fecundidade",
+        "vida"
+      ]
+    },
+    {
+      "id": "N12",
+      "column": "N",
+      "label": "Ninguém saberá",
+      "definition": "Desculpa que reduz a gravidade moral ao risco de descoberta, esquecendo a consciência, Deus, a vítima e as consequências ocultas.",
+      "anchors": [
+        "B01",
+        "Mt 5,27-28",
+        "G14"
+      ],
+      "tags": [
+        "segredo",
+        "consciência"
+      ]
+    },
+    {
+      "id": "N13",
+      "column": "N",
+      "label": "Castidade é repressão",
+      "definition": "Narrativa que caricatura a castidade como medo do corpo, escondendo que ela é integração da sexualidade e pedagogia da liberdade.",
+      "anchors": [
+        "B05",
+        "B06",
+        "CEC 2337"
+      ],
+      "tags": [
+        "castidade",
+        "caricatura"
+      ]
+    },
+    {
+      "id": "N14",
+      "column": "N",
+      "label": "Queda definitiva",
+      "definition": "Mentira que transforma o pecado cometido em identidade sem saída, afastando a pessoa da verdade, da confissão e do recomeço.",
+      "anchors": [
+        "B15",
+        "Jo 8,11",
+        "O05"
+      ],
+      "tags": [
+        "desânimo",
+        "conversão"
+      ]
+    },
+    {
+      "id": "N15",
+      "column": "N",
+      "label": "Aprovação obrigatória",
+      "definition": "Narrativa que exige concordância moral como condição para acolher alguém, apagando a distinção entre amar a pessoa e aprovar o erro.",
+      "anchors": [
+        "G04",
+        "B01",
+        "O07"
+      ],
+      "tags": [
+        "acolhida",
+        "verdade"
+      ]
+    },
+    {
+      "id": "G01",
+      "column": "G",
+      "label": "Pessoa e ato",
+      "definition": "Discernimento que separa a dignidade inviolável da pessoa da avaliação moral de seus atos, sem negar nenhuma das duas verdades.",
+      "anchors": [
+        "B01",
+        "Jo 8,11"
+      ],
+      "tags": [
+        "dignidade",
+        "juízo moral"
+      ]
+    },
+    {
+      "id": "G02",
+      "column": "G",
+      "label": "Desejo e bem",
+      "definition": "Discernimento que reconhece o desejo como dado real, mas não como critério suficiente para decidir o que é verdadeiro, justo e santo.",
+      "anchors": [
+        "CEC 2339",
+        "N01",
+        "B06"
+      ],
+      "tags": [
+        "desejo",
+        "discernimento"
+      ]
+    },
+    {
+      "id": "G03",
+      "column": "G",
+      "label": "Consentimento e entrega",
+      "definition": "Discernimento que mostra que consentimento mínimo não basta para tornar verdadeira uma entrega que pede liberdade, compromisso e dignidade.",
+      "anchors": [
+        "B09",
+        "I02",
+        "N08"
+      ],
+      "tags": [
+        "consentimento",
+        "entrega"
+      ]
+    },
+    {
+      "id": "G04",
+      "column": "G",
+      "label": "Acolhida e aprovação",
+      "definition": "Discernimento que permite acolher pessoas com respeito e misericórdia sem chamar de bom aquilo que fere a verdade do amor.",
+      "anchors": [
+        "B01",
+        "N15",
+        "Jo 8,11"
+      ],
+      "tags": [
+        "misericórdia",
+        "verdade"
+      ]
+    },
+    {
+      "id": "G05",
+      "column": "G",
+      "label": "Prudência e omissão",
+      "definition": "Discernimento que distingue agir com cuidado de esconder o mal por medo, conveniência ou falsa paz.",
+      "anchors": [
+        "O11",
+        "O12",
+        "G14"
+      ],
+      "tags": [
+        "prudência",
+        "proteção"
+      ]
+    },
+    {
+      "id": "G06",
+      "column": "G",
+      "label": "Liberdade e impulso",
+      "definition": "Discernimento que diferencia liberdade responsável de reação impulsiva, vício ou desejo momentâneo tratado como ordem interior.",
+      "anchors": [
+        "CEC 2339",
+        "B06",
+        "N06"
+      ],
+      "tags": [
+        "liberdade",
+        "impulso"
+      ]
+    },
+    {
+      "id": "G07",
+      "column": "G",
+      "label": "Culpa e responsabilidade",
+      "definition": "Discernimento que distingue a gravidade objetiva do ato, a responsabilidade concreta de quem age e a necessidade de reparar o dano possível.",
+      "anchors": [
+        "B15",
+        "O06",
+        "CEC 2342"
+      ],
+      "tags": [
+        "culpa",
+        "reparação"
+      ]
+    },
+    {
+      "id": "G08",
+      "column": "G",
+      "label": "Intimidade e exposição",
+      "definition": "Discernimento que diferencia intimidade protegida, própria de confiança e pudor, de exposição que transforma a pessoa em objeto de olhar.",
+      "anchors": [
+        "B04",
+        "I01",
+        "O02"
+      ],
+      "tags": [
+        "intimidade",
+        "pudor"
+      ]
+    },
+    {
+      "id": "G09",
+      "column": "G",
+      "label": "Afeto e erotização",
+      "definition": "Discernimento que diferencia amizade, carinho e admiração de movimentos que sexualizam a relação e confundem proximidade com excitação.",
+      "anchors": [
+        "B13",
+        "I04",
+        "CEC 2347"
+      ],
+      "tags": [
+        "afeto",
+        "amizade"
+      ]
+    },
+    {
+      "id": "G10",
+      "column": "G",
+      "label": "Amor e posse",
+      "definition": "Discernimento que distingue amor, que busca o bem do outro, de posse, que controla, vigia e usa o outro para segurança própria.",
+      "anchors": [
+        "B07",
+        "N07",
+        "B13"
+      ],
+      "tags": [
+        "amor",
+        "controle"
+      ]
+    },
+    {
+      "id": "G11",
+      "column": "G",
+      "label": "Prazer e sentido",
+      "definition": "Discernimento que reconhece o prazer como bem criado, mas o submete ao sentido humano e conjugal da sexualidade.",
+      "anchors": [
+        "CEC 2362",
+        "B10",
+        "N10"
+      ],
+      "tags": [
+        "prazer",
+        "sentido"
+      ]
+    },
+    {
+      "id": "G12",
+      "column": "G",
+      "label": "Fertilidade e técnica",
+      "definition": "Discernimento que distingue cuidado responsável da fertilidade de domínio técnico que separa geração, amor conjugal e dignidade da criança.",
+      "anchors": [
+        "CEC 2363",
+        "CEC 2376",
+        "CEC 2377"
+      ],
+      "tags": [
+        "fertilidade",
+        "técnica"
+      ]
+    },
+    {
+      "id": "G13",
+      "column": "G",
+      "label": "Queda e identidade",
+      "definition": "Discernimento que impede transformar uma queda moral em definição total da pessoa, sem negar a necessidade de conversão.",
+      "anchors": [
+        "B15",
+        "N14",
+        "Jo 8,11"
+      ],
+      "tags": [
+        "queda",
+        "identidade"
+      ]
+    },
+    {
+      "id": "G14",
+      "column": "G",
+      "label": "Segredo e proteção",
+      "definition": "Discernimento que distingue confidencialidade legítima de segredo que acoberta abuso, manipulação ou risco grave.",
+      "anchors": [
+        "I12",
+        "O12",
+        "G05"
+      ],
+      "tags": [
+        "segredo",
+        "abuso"
+      ]
+    },
+    {
+      "id": "G15",
+      "column": "G",
+      "label": "Firmeza e dureza",
+      "definition": "Discernimento que separa a clareza moral necessária da agressividade que humilha, fecha portas e impede conversão.",
+      "anchors": [
+        "G04",
+        "B07",
+        "O07"
+      ],
+      "tags": [
+        "verdade",
+        "caridade"
+      ]
+    },
+    {
+      "id": "O01",
+      "column": "O",
+      "label": "Nomear o limite",
+      "definition": "Resposta concreta de dizer com clareza o que não será aceito, sem desculpas longas, ameaça injusta ou negociação da própria dignidade.",
+      "anchors": [
+        "B01",
+        "G03",
+        "N08"
+      ],
+      "tags": [
+        "limite",
+        "clareza"
+      ]
+    },
+    {
+      "id": "O02",
+      "column": "O",
+      "label": "Cortar circulação",
+      "definition": "Resposta de não repassar, apagar, denunciar e impedir a difusão de conteúdo íntimo, humilhante ou sexualizado.",
+      "anchors": [
+        "I01",
+        "G08",
+        "B01"
+      ],
+      "tags": [
+        "digital",
+        "proteção"
+      ]
+    },
+    {
+      "id": "O03",
+      "column": "O",
+      "label": "Sair da ocasião",
+      "definition": "Resposta de afastar-se de ambiente, conversa, aplicativo, encontro ou hábito que está conduzindo concretamente ao pecado.",
+      "anchors": [
+        "CEC 2342",
+        "B06",
+        "G06"
+      ],
+      "tags": [
+        "prudência",
+        "ocasião"
+      ]
+    },
+    {
+      "id": "O04",
+      "column": "O",
+      "label": "Pedir ajuda confiável",
+      "definition": "Resposta de procurar adulto responsável, orientador competente, família segura ou autoridade adequada quando a situação ultrapassa a força pessoal.",
+      "anchors": [
+        "Tg 5,16",
+        "G05",
+        "O12"
+      ],
+      "tags": [
+        "ajuda",
+        "proteção"
+      ]
+    },
+    {
+      "id": "O05",
+      "column": "O",
+      "label": "Buscar confissão",
+      "definition": "Resposta sacramental de reconhecer o pecado diante de Deus, receber perdão e retomar o caminho com propósito concreto de conversão.",
+      "anchors": [
+        "B15",
+        "Jo 8,11",
+        "CEC 2345"
+      ],
+      "tags": [
+        "sacramento",
+        "conversão"
+      ]
+    },
+    {
+      "id": "O06",
+      "column": "O",
+      "label": "Reparar o dano",
+      "definition": "Resposta de assumir a consequência do erro, pedir perdão, retirar conteúdo, corrigir mentira e restituir o que for possível.",
+      "anchors": [
+        "G07",
+        "B15",
+        "O02"
+      ],
+      "tags": [
+        "reparação",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "O07",
+      "column": "O",
+      "label": "Acompanhamento sério",
+      "definition": "Resposta de buscar orientação contínua, humana e espiritual, especialmente quando há vício, ferida, confusão recorrente ou relação abusiva.",
+      "anchors": [
+        "CEC 2342",
+        "B15",
+        "O04"
+      ],
+      "tags": [
+        "acompanhamento",
+        "cura"
+      ]
+    },
+    {
+      "id": "O08",
+      "column": "O",
+      "label": "Reordenar hábitos",
+      "definition": "Resposta de mudar rotina, filtros, horários, conteúdos, amizades digitais e práticas que alimentam pornografia, erotização ou perda de domínio de si.",
+      "anchors": [
+        "I03",
+        "N06",
+        "CEC 2342"
+      ],
+      "tags": [
+        "hábito",
+        "disciplina"
+      ]
+    },
+    {
+      "id": "O09",
+      "column": "O",
+      "label": "Conversa no namoro",
+      "definition": "Resposta de falar com clareza sobre limites, intenção, castidade, respeito e futuro do vínculo, sem chantagem nem ambiguidade calculada.",
+      "anchors": [
+        "I02",
+        "B05",
+        "G03"
+      ],
+      "tags": [
+        "namoro",
+        "diálogo"
+      ]
+    },
+    {
+      "id": "O10",
+      "column": "O",
+      "label": "Respeitar o tempo",
+      "definition": "Resposta de não antecipar gestos próprios de outra etapa da vida, preservando a verdade do amor e a liberdade do outro.",
+      "anchors": [
+        "B08",
+        "B09",
+        "CEC 2348"
+      ],
+      "tags": [
+        "tempo",
+        "continência"
+      ]
+    },
+    {
+      "id": "O11",
+      "column": "O",
+      "label": "Proteger a vítima",
+      "definition": "Resposta de priorizar segurança, escuta sem culpa, preservação de provas, apoio responsável e afastamento do agressor quando há violência ou exploração.",
+      "anchors": [
+        "I15",
+        "CEC 2356",
+        "G14"
+      ],
+      "tags": [
+        "vítima",
+        "proteção"
+      ]
+    },
+    {
+      "id": "O12",
+      "column": "O",
+      "label": "Denunciar abuso",
+      "definition": "Resposta de acionar responsáveis, autoridades civis ou canais competentes diante de abuso, coerção, exploração ou risco grave.",
+      "anchors": [
+        "I12",
+        "G05",
+        "G14"
+      ],
+      "tags": [
+        "denúncia",
+        "segurança"
+      ]
+    },
+    {
+      "id": "O13",
+      "column": "O",
+      "label": "Cultivar amizade",
+      "definition": "Resposta de investir em vínculos honestos, presença respeitosa, serviço e convivência que não dependam de sedução ou posse.",
+      "anchors": [
+        "B13",
+        "CEC 2347",
+        "G09"
+      ],
+      "tags": [
+        "amizade",
+        "castidade"
+      ]
+    },
+    {
+      "id": "O14",
+      "column": "O",
+      "label": "Discernir vocação",
+      "definition": "Resposta de perguntar diante de Deus qual forma concreta de amor e entrega se é chamado a viver, sem improvisar a vida afetiva por impulso.",
+      "anchors": [
+        "B08",
+        "CEC 2348",
+        "B07"
+      ],
+      "tags": [
+        "vocação",
+        "discernimento"
+      ]
+    },
+    {
+      "id": "O15",
+      "column": "O",
+      "label": "Recomeçar na graça",
+      "definition": "Resposta de unir arrependimento, confiança em Deus, meios concretos e perseverança, sem banalizar a queda nem se entregar ao desespero.",
+      "anchors": [
+        "B15",
+        "CEC 2345",
+        "G13"
+      ],
+      "tags": [
+        "graça",
+        "perseverança"
+      ]
+    }
+  ]
+}

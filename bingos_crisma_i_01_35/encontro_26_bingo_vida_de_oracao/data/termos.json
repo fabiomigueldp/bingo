@@ -1,0 +1,1129 @@
+{
+  "title": "Bingo — Vida de Oração",
+  "meeting": "Encontro 26 — Vida de Oração",
+  "meeting_label": "Encontro 26",
+  "output_slug": "bingo_vida_de_oracao",
+  "core_message": "A oração é relação viva com Deus: nela o discípulo aprende de Cristo a confiar, perseverar, pedir com humildade e unir a própria vida à vontade do Pai.",
+  "source_meeting_markdown": "projects/catequese/material_didatico/output/markdown/encontro_26.md",
+  "scripture": [
+    "Lc 5,15-16",
+    "Jo 17,1-26",
+    "Jo 17,1-3",
+    "Lc 11,1",
+    "Lc 11,5-8",
+    "Lc 18,1-8",
+    "Lc 18,9-14",
+    "Jo 15,16-17",
+    "Rm 8,26",
+    "Sl 130,1"
+  ],
+  "catechism": [
+    "CEC 2558",
+    "CEC 2559",
+    "CEC 2565",
+    "CEC 2600",
+    "CEC 2601",
+    "CEC 2613",
+    "CEC 2653",
+    "CEC 2697",
+    "CEC 2698",
+    "CEC 2699",
+    "CEC 2745"
+  ],
+  "card_model": {
+    "total_terms": 75,
+    "columns": 5,
+    "terms_per_column": 15,
+    "grid": "5x5",
+    "center": {
+      "label": "LIVRE / Lc 5,15-16; Jo 17,1-26; Lc 11,5-8; Lc 18,1-8; Lc 18,9-14",
+      "fixed": true,
+      "called": false
+    },
+    "recommended_win_condition": "duas_linhas"
+  },
+  "columns": [
+    {
+      "key": "B",
+      "title": "Base moral",
+      "function": "Fundamentos bíblicos e doutrinais para ler o tema.",
+      "short_function": "fundamento cristão do tema"
+    },
+    {
+      "key": "I",
+      "title": "Situações concretas",
+      "function": "Formas reais em que o tema aparece na vida concreta, em situações inteligíveis para a turma.",
+      "short_function": "situações concretas do tema"
+    },
+    {
+      "key": "N",
+      "title": "Narrativas falsas",
+      "function": "Desculpas, autoenganos e frases que desviam do bem.",
+      "short_function": "desculpas que normalizam o erro"
+    },
+    {
+      "key": "G",
+      "title": "Discernimentos",
+      "function": "Distinções morais que evitam respostas simplistas.",
+      "short_function": "distinções para discernir"
+    },
+    {
+      "key": "O",
+      "title": "Orientações de resposta",
+      "function": "Ações concretas, prudentes e proporcionais diante do problema.",
+      "short_function": "respostas proporcionais e prudentes"
+    }
+  ],
+  "terms": [
+    {
+      "id": "B01",
+      "column": "B",
+      "label": "Relação viva",
+      "definition": "A oração não é técnica de alívio nem formalidade religiosa; é relação pessoal com o Deus vivo e verdadeiro.",
+      "anchors": [
+        "CEC 2558",
+        "CEC 2565"
+      ],
+      "tags": [
+        "oração",
+        "comunhão"
+      ]
+    },
+    {
+      "id": "B02",
+      "column": "B",
+      "label": "Humildade orante",
+      "definition": "A oração nasce de um coração que reconhece a própria necessidade, abandona a soberba e se coloca diante de Deus com verdade.",
+      "anchors": [
+        "CEC 2559",
+        "Lc 18,9-14"
+      ],
+      "tags": [
+        "humildade",
+        "verdade"
+      ]
+    },
+    {
+      "id": "B03",
+      "column": "B",
+      "label": "Mendigo de Deus",
+      "definition": "O ser humano precisa receber de Deus a graça, a luz e os bens convenientes; não salva a si mesmo por força própria.",
+      "anchors": [
+        "CEC 2559",
+        "Rm 8,26"
+      ],
+      "tags": [
+        "dependência",
+        "graça"
+      ]
+    },
+    {
+      "id": "B04",
+      "column": "B",
+      "label": "Jesus orante",
+      "definition": "Cristo é o modelo do orante: mesmo em missão e cercado por necessidades, retirava-se para rezar ao Pai.",
+      "anchors": [
+        "Lc 5,15-16",
+        "CEC 2600"
+      ],
+      "tags": [
+        "Cristo",
+        "modelo"
+      ]
+    },
+    {
+      "id": "B05",
+      "column": "B",
+      "label": "Vontade do Pai",
+      "definition": "A oração cristã entrega a vontade humana à vontade amorosa do Pai, sem transformar Deus em executor dos próprios planos.",
+      "anchors": [
+        "CEC 2600",
+        "Jo 17,1-3"
+      ],
+      "tags": [
+        "obediência",
+        "confiança"
+      ]
+    },
+    {
+      "id": "B06",
+      "column": "B",
+      "label": "Comunhão com Cristo",
+      "definition": "A vida de oração é participação na comunhão com Cristo, que nos une ao Pai no Espírito e cresce no Corpo da Igreja.",
+      "anchors": [
+        "CEC 2565",
+        "Jo 17,1-26"
+      ],
+      "tags": [
+        "Cristo",
+        "Igreja"
+      ]
+    },
+    {
+      "id": "B07",
+      "column": "B",
+      "label": "Dom do Espírito",
+      "definition": "O Espírito Santo sustenta a oração, ensina o que convém pedir e conduz o coração à fé, à esperança e à caridade.",
+      "anchors": [
+        "Rm 8,26",
+        "CEC 2613"
+      ],
+      "tags": [
+        "Espírito Santo",
+        "dom"
+      ]
+    },
+    {
+      "id": "B08",
+      "column": "B",
+      "label": "Palavra rezada",
+      "definition": "A Escritura deve ser lida com oração, pois nela Deus fala ao homem e o homem responde a Deus.",
+      "anchors": [
+        "CEC 2653",
+        "Lc 11,1"
+      ],
+      "tags": [
+        "Bíblia",
+        "escuta"
+      ]
+    },
+    {
+      "id": "B09",
+      "column": "B",
+      "label": "Oração vocal",
+      "definition": "A oração vocal usa palavras do corpo e da fé, como salmos e orações da Igreja, para colocar o coração diante de Deus.",
+      "anchors": [
+        "CEC 2699",
+        "Lc 11,1"
+      ],
+      "tags": [
+        "expressões",
+        "palavra"
+      ]
+    },
+    {
+      "id": "B10",
+      "column": "B",
+      "label": "Meditação cristã",
+      "definition": "A meditação considera a Palavra, os mistérios da fé e a própria vida diante de Deus, buscando conversão concreta.",
+      "anchors": [
+        "CEC 2699",
+        "CEC 2653"
+      ],
+      "tags": [
+        "meditação",
+        "conversão"
+      ]
+    },
+    {
+      "id": "B11",
+      "column": "B",
+      "label": "Contemplação",
+      "definition": "A contemplação permanece em silêncio amoroso diante de Deus, com recolhimento do coração e presença fiel.",
+      "anchors": [
+        "CEC 2699",
+        "CEC 2565"
+      ],
+      "tags": [
+        "silêncio",
+        "presença"
+      ]
+    },
+    {
+      "id": "B12",
+      "column": "B",
+      "label": "Memória do coração",
+      "definition": "A oração educa a pessoa a lembrar-se de Deus ao longo do dia, para que a fé não fique confinada a momentos isolados.",
+      "anchors": [
+        "CEC 2697",
+        "CEC 2745"
+      ],
+      "tags": [
+        "recordação",
+        "cotidiano"
+      ]
+    },
+    {
+      "id": "B13",
+      "column": "B",
+      "label": "Ritmos de oração",
+      "definition": "A tradição cristã propõe tempos fortes de oração, como manhã, noite, refeições, domingo e ano litúrgico, para sustentar a vida espiritual.",
+      "anchors": [
+        "CEC 2697",
+        "CEC 2698"
+      ],
+      "tags": [
+        "ritmo",
+        "disciplina"
+      ]
+    },
+    {
+      "id": "B14",
+      "column": "B",
+      "label": "Oração e vida",
+      "definition": "Oração e vida cristã são inseparáveis: rezar sem viver a caridade falsifica a fé, e viver sem rezar seca a alma.",
+      "anchors": [
+        "CEC 2745",
+        "Jo 15,16-17"
+      ],
+      "tags": [
+        "coerência",
+        "caridade"
+      ]
+    },
+    {
+      "id": "B15",
+      "column": "B",
+      "label": "Perseverança da fé",
+      "definition": "A oração cristã persevera sem esmorecer, confiando em Deus mesmo quando a resposta não vem no tempo desejado.",
+      "anchors": [
+        "Lc 18,1-8",
+        "CEC 2613"
+      ],
+      "tags": [
+        "perseverança",
+        "fé"
+      ]
+    },
+    {
+      "id": "I01",
+      "column": "I",
+      "label": "Fama sem recolhimento",
+      "definition": "Situação em que a pessoa se deixa dominar por exposição, demanda ou reconhecimento e perde o recolhimento necessário para rezar.",
+      "anchors": [
+        "Lc 5,15-16",
+        "B04"
+      ],
+      "tags": [
+        "exposição",
+        "recolhimento"
+      ]
+    },
+    {
+      "id": "I02",
+      "column": "I",
+      "label": "Agenda sem Deus",
+      "definition": "Vida cheia de compromissos, tarefas e urgências, mas sem decisão concreta de reservar tempo para a oração.",
+      "anchors": [
+        "CEC 2697",
+        "B13"
+      ],
+      "tags": [
+        "tempo",
+        "prioridade"
+      ]
+    },
+    {
+      "id": "I03",
+      "column": "I",
+      "label": "Pedido no desespero",
+      "definition": "Aproximação de Deus apenas quando a situação aperta, sem cultivar relação viva, escuta e conversão.",
+      "anchors": [
+        "CEC 2558",
+        "Lc 11,5-8"
+      ],
+      "tags": [
+        "pedido",
+        "crise"
+      ]
+    },
+    {
+      "id": "I04",
+      "column": "I",
+      "label": "Reza de aparência",
+      "definition": "Uso de gestos religiosos para parecer justo diante dos outros, sem humildade, arrependimento e verdade interior.",
+      "anchors": [
+        "Lc 18,9-14",
+        "B02"
+      ],
+      "tags": [
+        "aparência",
+        "soberba"
+      ]
+    },
+    {
+      "id": "I05",
+      "column": "I",
+      "label": "Bíblia sem escuta",
+      "definition": "Leitura da Escritura feita com pressa, debate ou curiosidade, mas sem oração, obediência e abertura a Deus.",
+      "anchors": [
+        "CEC 2653",
+        "B08"
+      ],
+      "tags": [
+        "Escritura",
+        "escuta"
+      ]
+    },
+    {
+      "id": "I06",
+      "column": "I",
+      "label": "Domingo esvaziado",
+      "definition": "Domingo tratado como sobra de lazer ou trabalho, sem centralidade da Eucaristia, da oração e do descanso diante de Deus.",
+      "anchors": [
+        "CEC 2698",
+        "B13"
+      ],
+      "tags": [
+        "domingo",
+        "Eucaristia"
+      ]
+    },
+    {
+      "id": "I07",
+      "column": "I",
+      "label": "Decisão sem oração",
+      "definition": "Escolha importante tomada apenas por impulso, pressão ou cálculo, sem colocar a decisão diante de Deus.",
+      "anchors": [
+        "CEC 2600",
+        "B05"
+      ],
+      "tags": [
+        "decisão",
+        "discernimento"
+      ]
+    },
+    {
+      "id": "I08",
+      "column": "I",
+      "label": "Luto sem esperança",
+      "definition": "Dor diante da morte vivida como fechamento absoluto, sem recorrer à oração, à esperança cristã e ao amparo da comunidade.",
+      "anchors": [
+        "Jo 17,1-3",
+        "B06"
+      ],
+      "tags": [
+        "luto",
+        "esperança"
+      ]
+    },
+    {
+      "id": "I09",
+      "column": "I",
+      "label": "Culpa não confessada",
+      "definition": "Peso moral mantido em silêncio por vergonha ou orgulho, sem pedir misericórdia, orientação e reconciliação.",
+      "anchors": [
+        "Lc 18,13-14",
+        "B02"
+      ],
+      "tags": [
+        "culpa",
+        "misericórdia"
+      ]
+    },
+    {
+      "id": "I10",
+      "column": "I",
+      "label": "Cansaço espiritual",
+      "definition": "Estado em que a pessoa perde gosto pela fé, abandona os tempos de oração e passa a agir apenas no automático.",
+      "anchors": [
+        "CEC 2697",
+        "B12"
+      ],
+      "tags": [
+        "cansaço",
+        "fidelidade"
+      ]
+    },
+    {
+      "id": "I11",
+      "column": "I",
+      "label": "Ativismo seco",
+      "definition": "Acúmulo de obras, serviços ou tarefas religiosas sem alimento interior, escuta de Deus e caridade que brota da oração.",
+      "anchors": [
+        "CEC 2745",
+        "B14"
+      ],
+      "tags": [
+        "ativismo",
+        "coerência"
+      ]
+    },
+    {
+      "id": "I12",
+      "column": "I",
+      "label": "Silêncio evitado",
+      "definition": "Fuga constante do silêncio por medo de encarar Deus, a própria consciência, feridas e responsabilidades reais.",
+      "anchors": [
+        "CEC 2699",
+        "B11"
+      ],
+      "tags": [
+        "silêncio",
+        "consciência"
+      ]
+    },
+    {
+      "id": "I13",
+      "column": "I",
+      "label": "Família sem bênção",
+      "definition": "Casa em que refeições, decisões, conflitos e sofrimentos são vividos sem invocar Deus nem cultivar oração simples em comum.",
+      "anchors": [
+        "CEC 2698",
+        "B13"
+      ],
+      "tags": [
+        "família",
+        "bênção"
+      ]
+    },
+    {
+      "id": "I14",
+      "column": "I",
+      "label": "Dor que insiste",
+      "definition": "Situação prolongada de injustiça, doença ou aflição em que a pessoa precisa perseverar na oração sem desistir da fé.",
+      "anchors": [
+        "Lc 18,1-8",
+        "B15"
+      ],
+      "tags": [
+        "dor",
+        "perseverança"
+      ]
+    },
+    {
+      "id": "I15",
+      "column": "I",
+      "label": "Gratidão esquecida",
+      "definition": "Receber bens, proteção e perdão de Deus sem reconhecer, agradecer e transformar a gratidão em vida concreta.",
+      "anchors": [
+        "CEC 2558",
+        "B14"
+      ],
+      "tags": [
+        "gratidão",
+        "reconhecimento"
+      ]
+    },
+    {
+      "id": "N01",
+      "column": "N",
+      "label": "Rezar é sentir",
+      "definition": "Narrativa que reduz a oração a emoção agradável e abandona a fidelidade quando não há consolação sensível.",
+      "anchors": [
+        "CEC 2697",
+        "B15"
+      ],
+      "tags": [
+        "emoção",
+        "autoengano"
+      ]
+    },
+    {
+      "id": "N02",
+      "column": "N",
+      "label": "Só rezo quando preciso",
+      "definition": "Desculpa que trata Deus como recurso de emergência e não como Pai com quem se vive uma relação contínua.",
+      "anchors": [
+        "CEC 2558",
+        "B01"
+      ],
+      "tags": [
+        "emergência",
+        "relação"
+      ]
+    },
+    {
+      "id": "N03",
+      "column": "N",
+      "label": "Deus já sabe",
+      "definition": "Autoengano que usa a onisciência de Deus para justificar silêncio, distanciamento e falta de confiança filial.",
+      "anchors": [
+        "CEC 2559",
+        "Rm 8,26"
+      ],
+      "tags": [
+        "desculpa",
+        "confiança"
+      ]
+    },
+    {
+      "id": "N04",
+      "column": "N",
+      "label": "Não tenho tempo",
+      "definition": "Narrativa que apresenta a falta de oração como problema inevitável de agenda, escondendo escolhas de prioridade.",
+      "anchors": [
+        "CEC 2697",
+        "B13"
+      ],
+      "tags": [
+        "tempo",
+        "prioridade"
+      ]
+    },
+    {
+      "id": "N05",
+      "column": "N",
+      "label": "Deus falhou",
+      "definition": "Falsa conclusão de que Deus não escuta quando a resposta não coincide com o pedido, o prazo ou o controle desejado.",
+      "anchors": [
+        "Lc 18,1-8",
+        "B05"
+      ],
+      "tags": [
+        "frustração",
+        "confiança"
+      ]
+    },
+    {
+      "id": "N06",
+      "column": "N",
+      "label": "Oração mágica",
+      "definition": "Desvio que transforma a oração em fórmula para obter resultado, sem conversão, liberdade de Deus e entrega filial.",
+      "anchors": [
+        "CEC 2559",
+        "B05"
+      ],
+      "tags": [
+        "superstição",
+        "controle"
+      ]
+    },
+    {
+      "id": "N07",
+      "column": "N",
+      "label": "Piedade de vitrine",
+      "definition": "Narrativa que usa práticas religiosas para construir imagem de santidade, superioridade ou prestígio diante dos outros.",
+      "anchors": [
+        "Lc 18,9-14",
+        "B02"
+      ],
+      "tags": [
+        "aparência",
+        "soberba"
+      ]
+    },
+    {
+      "id": "N08",
+      "column": "N",
+      "label": "Autossuficiência",
+      "definition": "Engano de quem age como se bastasse a própria força, inteligência ou disciplina, dispensando a graça e a oração.",
+      "anchors": [
+        "CEC 2559",
+        "B03"
+      ],
+      "tags": [
+        "orgulho",
+        "graça"
+      ]
+    },
+    {
+      "id": "N09",
+      "column": "N",
+      "label": "Bíblia sem oração",
+      "definition": "Redução da Escritura a material de opinião, curiosidade ou prova de argumento, sem escuta humilde de Deus.",
+      "anchors": [
+        "CEC 2653",
+        "B08"
+      ],
+      "tags": [
+        "Escritura",
+        "escuta"
+      ]
+    },
+    {
+      "id": "N10",
+      "column": "N",
+      "label": "Fé sem prática",
+      "definition": "Narrativa que separa oração e vida, permitindo rezar com os lábios enquanto se conserva injustiça, mentira ou egoísmo.",
+      "anchors": [
+        "CEC 2745",
+        "Jo 15,16-17"
+      ],
+      "tags": [
+        "coerência",
+        "vida"
+      ]
+    },
+    {
+      "id": "N11",
+      "column": "N",
+      "label": "Barulho necessário",
+      "definition": "Desculpa que trata o silêncio como inútil ou perigoso e mantém o coração sempre ocupado para não se converter.",
+      "anchors": [
+        "CEC 2699",
+        "B11"
+      ],
+      "tags": [
+        "silêncio",
+        "fuga"
+      ]
+    },
+    {
+      "id": "N12",
+      "column": "N",
+      "label": "Culpa paralisante",
+      "definition": "Mentira que confunde arrependimento com desespero e faz a pessoa fugir de Deus justamente quando precisa de misericórdia.",
+      "anchors": [
+        "Lc 18,13-14",
+        "B02"
+      ],
+      "tags": [
+        "culpa",
+        "misericórdia"
+      ]
+    },
+    {
+      "id": "N13",
+      "column": "N",
+      "label": "Oração opcional",
+      "definition": "Narrativa que reduz a oração a gosto pessoal, acessório religioso ou enfeite, negando que ela seja vital para a fé.",
+      "anchors": [
+        "CEC 2697",
+        "CEC 2558"
+      ],
+      "tags": [
+        "necessidade",
+        "fé"
+      ]
+    },
+    {
+      "id": "N14",
+      "column": "N",
+      "label": "Comparação religiosa",
+      "definition": "Engano de medir a própria oração pela inferioridade dos outros, em vez de apresentar a Deus um coração humilde e contrito.",
+      "anchors": [
+        "Lc 18,9-14",
+        "B02"
+      ],
+      "tags": [
+        "comparação",
+        "orgulho"
+      ]
+    },
+    {
+      "id": "N15",
+      "column": "N",
+      "label": "Controle de Deus",
+      "definition": "Narrativa que tenta usar a oração para pressionar Deus, escapar da obediência ou manter a própria vontade como centro.",
+      "anchors": [
+        "CEC 2600",
+        "B05"
+      ],
+      "tags": [
+        "controle",
+        "obediência"
+      ]
+    },
+    {
+      "id": "G01",
+      "column": "G",
+      "label": "Rezar ou repetir?",
+      "definition": "Distinção entre oração vocal autêntica, que envolve o coração, e repetição vazia, que usa palavras sem presença interior.",
+      "anchors": [
+        "CEC 2699",
+        "B09"
+      ],
+      "tags": [
+        "distinção",
+        "oração vocal"
+      ]
+    },
+    {
+      "id": "G02",
+      "column": "G",
+      "label": "Insistência e teimosia",
+      "definition": "Distinção entre perseverar diante de Deus com fé e tentar impor a Deus um resultado fechado pela própria vontade.",
+      "anchors": [
+        "Lc 11,5-8",
+        "Lc 18,1-8"
+      ],
+      "tags": [
+        "perseverança",
+        "vontade"
+      ]
+    },
+    {
+      "id": "G03",
+      "column": "G",
+      "label": "Pedido e vontade do Pai",
+      "definition": "Distinção entre pedir bens convenientes com confiança e transformar a oração em cobrança contra a vontade amorosa de Deus.",
+      "anchors": [
+        "CEC 2559",
+        "CEC 2600"
+      ],
+      "tags": [
+        "pedido",
+        "discernimento"
+      ]
+    },
+    {
+      "id": "G04",
+      "column": "G",
+      "label": "Silêncio e fuga",
+      "definition": "Distinção entre silêncio orante, que abre espaço para Deus, e isolamento fechado, que evita pessoas, deveres e verdade.",
+      "anchors": [
+        "CEC 2699",
+        "B11"
+      ],
+      "tags": [
+        "silêncio",
+        "fuga"
+      ]
+    },
+    {
+      "id": "G05",
+      "column": "G",
+      "label": "Emoção e fidelidade",
+      "definition": "Distinção entre consolações sensíveis, que podem ajudar, e fidelidade real, que sustenta a oração também na aridez.",
+      "anchors": [
+        "CEC 2697",
+        "B15"
+      ],
+      "tags": [
+        "emoção",
+        "fidelidade"
+      ]
+    },
+    {
+      "id": "G06",
+      "column": "G",
+      "label": "Humildade e vergonha",
+      "definition": "Distinção entre reconhecer a própria pobreza diante de Deus e fugir dele por vergonha, medo ou desespero.",
+      "anchors": [
+        "CEC 2559",
+        "Lc 18,13-14"
+      ],
+      "tags": [
+        "humildade",
+        "vergonha"
+      ]
+    },
+    {
+      "id": "G07",
+      "column": "G",
+      "label": "Confiança e cobrança",
+      "definition": "Distinção entre confiar na bondade do Pai e tratar Deus como devedor obrigado a cumprir o que foi pedido.",
+      "anchors": [
+        "Lc 18,1-8",
+        "B05"
+      ],
+      "tags": [
+        "confiança",
+        "cobrança"
+      ]
+    },
+    {
+      "id": "G08",
+      "column": "G",
+      "label": "Interioridade e isolamento",
+      "definition": "Distinção entre cultivar vida interior diante de Deus e usar uma espiritualidade privada para evitar Igreja, vínculos e responsabilidade.",
+      "anchors": [
+        "CEC 2565",
+        "B06"
+      ],
+      "tags": [
+        "interioridade",
+        "Igreja"
+      ]
+    },
+    {
+      "id": "G09",
+      "column": "G",
+      "label": "Oração e passividade",
+      "definition": "Distinção entre entregar a vida a Deus e cruzar os braços diante do bem possível, da justiça devida e da caridade concreta.",
+      "anchors": [
+        "CEC 2745",
+        "Jo 15,16-17"
+      ],
+      "tags": [
+        "ação",
+        "caridade"
+      ]
+    },
+    {
+      "id": "G10",
+      "column": "G",
+      "label": "Culpa e contrição",
+      "definition": "Distinção entre peso moral que paralisa e contrição que reconhece o pecado, pede misericórdia e abre caminho de conversão.",
+      "anchors": [
+        "Lc 18,13-14",
+        "B02"
+      ],
+      "tags": [
+        "contrição",
+        "misericórdia"
+      ]
+    },
+    {
+      "id": "G11",
+      "column": "G",
+      "label": "Devoção e superstição",
+      "definition": "Distinção entre práticas piedosas vividas na fé da Igreja e uso de fórmulas religiosas como mecanismo de controle.",
+      "anchors": [
+        "CEC 2558",
+        "CEC 2559"
+      ],
+      "tags": [
+        "devoção",
+        "superstição"
+      ]
+    },
+    {
+      "id": "G12",
+      "column": "G",
+      "label": "Rotina e mecanicismo",
+      "definition": "Distinção entre ritmo fiel de oração, que educa o coração, e prática automática sem atenção, intenção e conversão.",
+      "anchors": [
+        "CEC 2697",
+        "CEC 2698"
+      ],
+      "tags": [
+        "rotina",
+        "atenção"
+      ]
+    },
+    {
+      "id": "G13",
+      "column": "G",
+      "label": "Discrição e omissão",
+      "definition": "Distinção entre rezar com sobriedade, sem exibicionismo, e esconder a fé por vergonha, medo ou conveniência.",
+      "anchors": [
+        "Lc 18,9-14",
+        "B14"
+      ],
+      "tags": [
+        "discrição",
+        "testemunho"
+      ]
+    },
+    {
+      "id": "G14",
+      "column": "G",
+      "label": "Comunidade e intimismo",
+      "definition": "Distinção entre oração pessoal legítima e intimismo que dispensa a Igreja, os sacramentos e a comunhão do Corpo de Cristo.",
+      "anchors": [
+        "CEC 2565",
+        "CEC 2698"
+      ],
+      "tags": [
+        "comunidade",
+        "Igreja"
+      ]
+    },
+    {
+      "id": "G15",
+      "column": "G",
+      "label": "Contemplação e vazio",
+      "definition": "Distinção entre silêncio contemplativo diante do Deus vivo e busca de esvaziamento sem relação, verdade e amor.",
+      "anchors": [
+        "CEC 2699",
+        "B11"
+      ],
+      "tags": [
+        "contemplação",
+        "silêncio"
+      ]
+    },
+    {
+      "id": "O01",
+      "column": "O",
+      "label": "Marcar horário de oração",
+      "definition": "Escolher um tempo concreto, possível e fiel para rezar, em vez de deixar a oração depender de sobra de agenda ou vontade passageira.",
+      "anchors": [
+        "CEC 2697",
+        "CEC 2698"
+      ],
+      "tags": [
+        "disciplina",
+        "tempo"
+      ]
+    },
+    {
+      "id": "O02",
+      "column": "O",
+      "label": "Rezar antes de decidir",
+      "definition": "Levar decisões importantes à presença de Deus, pedindo luz, liberdade interior e disposição para cumprir a vontade do Pai.",
+      "anchors": [
+        "CEC 2600",
+        "B05"
+      ],
+      "tags": [
+        "decisão",
+        "discernimento"
+      ]
+    },
+    {
+      "id": "O03",
+      "column": "O",
+      "label": "Ler a Palavra rezando",
+      "definition": "Unir leitura bíblica e oração, escutando Deus na Escritura e respondendo com fé, conversão e obediência.",
+      "anchors": [
+        "CEC 2653",
+        "B08"
+      ],
+      "tags": [
+        "Bíblia",
+        "escuta"
+      ]
+    },
+    {
+      "id": "O04",
+      "column": "O",
+      "label": "Pedir com humildade",
+      "definition": "Apresentar necessidades reais a Deus sem arrogância, manipulação ou desespero, pedindo os bens convenientes.",
+      "anchors": [
+        "CEC 2559",
+        "Lc 18,13-14"
+      ],
+      "tags": [
+        "pedido",
+        "humildade"
+      ]
+    },
+    {
+      "id": "O05",
+      "column": "O",
+      "label": "Perseverar sem esmorecer",
+      "definition": "Continuar rezando com fé quando a situação demora, sem abandonar Deus nem transformar a espera em amargura.",
+      "anchors": [
+        "Lc 18,1-8",
+        "CEC 2613"
+      ],
+      "tags": [
+        "perseverança",
+        "espera"
+      ]
+    },
+    {
+      "id": "O06",
+      "column": "O",
+      "label": "Examinar a consciência",
+      "definition": "Rever diante de Deus pensamentos, palavras, omissões e atos para reconhecer pecado, gratidão, responsabilidade e próximo passo.",
+      "anchors": [
+        "Lc 18,13-14",
+        "B14"
+      ],
+      "tags": [
+        "consciência",
+        "conversão"
+      ]
+    },
+    {
+      "id": "O07",
+      "column": "O",
+      "label": "Confessar e recomeçar",
+      "definition": "Buscar a misericórdia de Deus no arrependimento e na reconciliação sacramental, assumindo mudança concreta de vida.",
+      "anchors": [
+        "Lc 18,13-14",
+        "B02"
+      ],
+      "tags": [
+        "confissão",
+        "misericórdia"
+      ]
+    },
+    {
+      "id": "O08",
+      "column": "O",
+      "label": "Santificar o domingo",
+      "definition": "Ordenar o domingo em torno da Eucaristia, da oração, do descanso e da caridade, sem reduzi-lo a consumo ou produtividade.",
+      "anchors": [
+        "CEC 2698",
+        "B13"
+      ],
+      "tags": [
+        "domingo",
+        "Eucaristia"
+      ]
+    },
+    {
+      "id": "O09",
+      "column": "O",
+      "label": "Unir oração e obra",
+      "definition": "Fazer com que a oração ilumine escolhas, relações e serviços concretos, evitando separar piedade e vida moral.",
+      "anchors": [
+        "CEC 2745",
+        "Jo 15,16-17"
+      ],
+      "tags": [
+        "coerência",
+        "caridade"
+      ]
+    },
+    {
+      "id": "O10",
+      "column": "O",
+      "label": "Cortar distrações",
+      "definition": "Remover obstáculos concretos à oração, como ruído constante, telas sem limite e ocupações assumidas por fuga.",
+      "anchors": [
+        "CEC 2697",
+        "CEC 2699"
+      ],
+      "tags": [
+        "distração",
+        "disciplina"
+      ]
+    },
+    {
+      "id": "O11",
+      "column": "O",
+      "label": "Pedir ajuda espiritual",
+      "definition": "Procurar orientação segura quando a oração seca, confunde ou toca feridas graves, sem caminhar sozinho por orgulho.",
+      "anchors": [
+        "CEC 2601",
+        "B06"
+      ],
+      "tags": [
+        "acompanhamento",
+        "humildade"
+      ]
+    },
+    {
+      "id": "O12",
+      "column": "O",
+      "label": "Rezar em família",
+      "definition": "Introduzir gestos simples de oração na casa, como bênção das refeições, oração por doentes e pedido de perdão diante de Deus.",
+      "anchors": [
+        "CEC 2698",
+        "B13"
+      ],
+      "tags": [
+        "família",
+        "bênção"
+      ]
+    },
+    {
+      "id": "O13",
+      "column": "O",
+      "label": "Guardar silêncio real",
+      "definition": "Reservar momentos sem ruído e sem tela para permanecer diante de Deus, escutar a consciência e acolher a Palavra.",
+      "anchors": [
+        "CEC 2699",
+        "B11"
+      ],
+      "tags": [
+        "silêncio",
+        "escuta"
+      ]
+    },
+    {
+      "id": "O14",
+      "column": "O",
+      "label": "Agradecer concretamente",
+      "definition": "Nomear diante de Deus os dons recebidos e responder a eles com reconhecimento, serviço, reparação e generosidade.",
+      "anchors": [
+        "CEC 2558",
+        "B14"
+      ],
+      "tags": [
+        "gratidão",
+        "resposta"
+      ]
+    },
+    {
+      "id": "O15",
+      "column": "O",
+      "label": "Rezar pelo inimigo",
+      "definition": "Apresentar a Deus quem feriu, ofendeu ou ameaça, pedindo justiça, conversão e liberdade interior sem alimentar vingança.",
+      "anchors": [
+        "Jo 15,16-17",
+        "CEC 2745"
+      ],
+      "tags": [
+        "perdão",
+        "inimigo"
+      ]
+    }
+  ]
+}

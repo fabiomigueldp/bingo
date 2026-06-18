@@ -1,0 +1,1131 @@
+{
+  "title": "Bingo — O bem comum",
+  "meeting": "Encontro 03 — O bem comum",
+  "meeting_label": "Encontro 03",
+  "output_slug": "bingo_o_bem_comum",
+  "core_message": "O bem comum é a ordem social que coloca a pessoa acima das coisas e exige de cada um participação responsável na justiça, na paz e no cuidado da cidade.",
+  "source_meeting_markdown": "projects/catequese/material_didatico/output/markdown/encontro_03.md",
+  "scripture": [
+    "Jr 29,7",
+    "Mt 22,39",
+    "Lc 10,25-37",
+    "At 2,42-47",
+    "1Cor 12,26",
+    "Tg 2,15-17",
+    "Rm 13,1-7",
+    "Mq 6,8",
+    "Mt 25,35-40",
+    "Fl 2,4"
+  ],
+  "catechism": [
+    "CEC 1806",
+    "CEC 1807",
+    "CEC 1883",
+    "CEC 1897",
+    "CEC 1903",
+    "CEC 1906",
+    "CEC 1907",
+    "CEC 1908",
+    "CEC 1909",
+    "CEC 1912",
+    "CEC 1913",
+    "CEC 1914",
+    "CEC 1928",
+    "CEC 1931",
+    "CEC 1939",
+    "CEC 2402",
+    "CEC 2444"
+  ],
+  "card_model": {
+    "total_terms": 75,
+    "columns": 5,
+    "terms_per_column": 15,
+    "grid": "5x5",
+    "center": {
+      "label": "LIVRE / Jr 29,7",
+      "fixed": true,
+      "called": false
+    },
+    "recommended_win_condition": "duas_linhas"
+  },
+  "columns": [
+    {
+      "key": "B",
+      "title": "Base moral",
+      "function": "Fundamentos bíblicos e doutrinais para ler o tema.",
+      "short_function": "fundamento cristão do tema"
+    },
+    {
+      "key": "I",
+      "title": "Situações concretas",
+      "function": "Formas reais em que o tema aparece na vida concreta, em situações inteligíveis para a turma.",
+      "short_function": "situações concretas do tema"
+    },
+    {
+      "key": "N",
+      "title": "Narrativas falsas",
+      "function": "Desculpas, autoenganos e frases que desviam do bem.",
+      "short_function": "desculpas que normalizam o erro"
+    },
+    {
+      "key": "G",
+      "title": "Discernimentos",
+      "function": "Distinções morais que evitam respostas simplistas.",
+      "short_function": "distinções para discernir"
+    },
+    {
+      "key": "O",
+      "title": "Orientações de resposta",
+      "function": "Ações concretas, prudentes e proporcionais diante do problema.",
+      "short_function": "respostas proporcionais e prudentes"
+    }
+  ],
+  "terms": [
+    {
+      "id": "B01",
+      "column": "B",
+      "label": "Bem comum",
+      "definition": "Conjunto de condições sociais que permite às pessoas e aos grupos alcançar mais plenamente sua realização humana segundo a justiça e a verdade.",
+      "anchors": [
+        "CEC 1906",
+        "Jr 29,7"
+      ],
+      "tags": [
+        "doutrina social",
+        "vida social"
+      ]
+    },
+    {
+      "id": "B02",
+      "column": "B",
+      "label": "Pessoa acima das coisas",
+      "definition": "Princípio segundo o qual instituições, dinheiro, tecnologia e organização social devem servir às pessoas, e não sacrificar pessoas a coisas.",
+      "anchors": [
+        "CEC 1912"
+      ],
+      "tags": [
+        "dignidade",
+        "ordem social"
+      ]
+    },
+    {
+      "id": "B03",
+      "column": "B",
+      "label": "Direitos fundamentais",
+      "definition": "Bens inalienáveis da pessoa, como vida, consciência, intimidade e liberdade religiosa, que nenhuma conveniência social pode destruir.",
+      "anchors": [
+        "CEC 1907"
+      ],
+      "tags": [
+        "direitos",
+        "dignidade"
+      ]
+    },
+    {
+      "id": "B04",
+      "column": "B",
+      "label": "Bem-estar social",
+      "definition": "Acesso real aos bens necessários para uma vida verdadeiramente humana, como alimento, saúde, trabalho, moradia, educação e cultura.",
+      "anchors": [
+        "CEC 1908"
+      ],
+      "tags": [
+        "desenvolvimento",
+        "necessidades humanas"
+      ]
+    },
+    {
+      "id": "B05",
+      "column": "B",
+      "label": "Paz justa",
+      "definition": "Ordem duradoura e segura fundada na justiça, não simples ausência de conflito ou silêncio imposto aos mais fracos.",
+      "anchors": [
+        "CEC 1909",
+        "Mq 6,8"
+      ],
+      "tags": [
+        "paz",
+        "justiça"
+      ]
+    },
+    {
+      "id": "B06",
+      "column": "B",
+      "label": "Participação",
+      "definition": "Envolvimento voluntário e generoso da pessoa nas relações sociais, assumindo sua parte na promoção do bem comum.",
+      "anchors": [
+        "CEC 1913",
+        "Jr 29,7"
+      ],
+      "tags": [
+        "corresponsabilidade",
+        "cidadania"
+      ]
+    },
+    {
+      "id": "B07",
+      "column": "B",
+      "label": "Responsabilidade pessoal",
+      "definition": "Dever de contribuir para o bem dos outros a partir dos encargos concretos que cada pessoa já possui.",
+      "anchors": [
+        "CEC 1914"
+      ],
+      "tags": [
+        "dever",
+        "vida cotidiana"
+      ]
+    },
+    {
+      "id": "B08",
+      "column": "B",
+      "label": "Prudência social",
+      "definition": "Virtude que ajuda a escolher meios honestos, proporcionais e eficazes para servir ao bem comum sem ingenuidade nem omissão.",
+      "anchors": [
+        "CEC 1806",
+        "CEC 1906"
+      ],
+      "tags": [
+        "prudência",
+        "decisão"
+      ]
+    },
+    {
+      "id": "B09",
+      "column": "B",
+      "label": "Justiça social",
+      "definition": "Exigência de dar a cada pessoa o que lhe é devido, organizando relações e instituições de modo compatível com sua dignidade.",
+      "anchors": [
+        "CEC 1807",
+        "CEC 1928"
+      ],
+      "tags": [
+        "justiça",
+        "instituições"
+      ]
+    },
+    {
+      "id": "B10",
+      "column": "B",
+      "label": "Solidariedade",
+      "definition": "Determinação firme de reconhecer o outro como responsável por mim e de trabalhar pelo bem de todos, especialmente dos feridos e frágeis.",
+      "anchors": [
+        "CEC 1939",
+        "1Cor 12,26"
+      ],
+      "tags": [
+        "solidariedade",
+        "comunhão"
+      ]
+    },
+    {
+      "id": "B11",
+      "column": "B",
+      "label": "Subsidiariedade",
+      "definition": "Princípio que protege a iniciativa das pessoas e comunidades menores, sem dispensar a autoridade maior quando ela é necessária.",
+      "anchors": [
+        "CEC 1883"
+      ],
+      "tags": [
+        "autoridade",
+        "sociedade"
+      ]
+    },
+    {
+      "id": "B12",
+      "column": "B",
+      "label": "Autoridade servidora",
+      "definition": "Exercício legítimo do poder como serviço à pessoa e ao bem comum, e não como domínio, favoritismo ou autopromoção.",
+      "anchors": [
+        "CEC 1897",
+        "CEC 1903",
+        "Rm 13,1-7"
+      ],
+      "tags": [
+        "autoridade",
+        "serviço"
+      ]
+    },
+    {
+      "id": "B13",
+      "column": "B",
+      "label": "Destino comum dos bens",
+      "definition": "Verdade de que os bens da criação são destinados a todos, de modo que a propriedade deve ser usada com responsabilidade social.",
+      "anchors": [
+        "CEC 2402"
+      ],
+      "tags": [
+        "bens",
+        "propriedade"
+      ]
+    },
+    {
+      "id": "B14",
+      "column": "B",
+      "label": "Amor aos pobres",
+      "definition": "Exigência cristã de reconhecer Cristo nos necessitados e responder às carências reais sem desprezo, exploração ou indiferença.",
+      "anchors": [
+        "CEC 2444",
+        "Mt 25,35-40"
+      ],
+      "tags": [
+        "pobres",
+        "caridade"
+      ]
+    },
+    {
+      "id": "B15",
+      "column": "B",
+      "label": "Caridade social",
+      "definition": "Amor cristão vivido também nas relações públicas, nas estruturas e nas escolhas que afetam a vida de muitos.",
+      "anchors": [
+        "Mt 22,39",
+        "Fl 2,4",
+        "CEC 1939"
+      ],
+      "tags": [
+        "caridade",
+        "bem comum"
+      ]
+    },
+    {
+      "id": "I01",
+      "column": "I",
+      "label": "Remédio inacessível",
+      "definition": "Situação em que uma necessidade séria de saúde fica fora do alcance de uma pessoa ou família por preço, omissão ou injustiça.",
+      "anchors": [
+        "CEC 1908",
+        "B04"
+      ],
+      "tags": [
+        "saúde",
+        "necessidade"
+      ]
+    },
+    {
+      "id": "I02",
+      "column": "I",
+      "label": "Moradia indigna",
+      "definition": "Realidade de pessoas obrigadas a viver sem segurança, saneamento, espaço mínimo ou estabilidade suficiente para uma vida humana.",
+      "anchors": [
+        "CEC 1908",
+        "B09"
+      ],
+      "tags": [
+        "moradia",
+        "dignidade"
+      ]
+    },
+    {
+      "id": "I03",
+      "column": "I",
+      "label": "Trabalho explorado",
+      "definition": "Uso da força de trabalho sem respeito ao salário justo, ao descanso, à segurança ou à dignidade de quem trabalha.",
+      "anchors": [
+        "CEC 1908",
+        "Tg 5,4"
+      ],
+      "tags": [
+        "trabalho",
+        "exploração"
+      ]
+    },
+    {
+      "id": "I04",
+      "column": "I",
+      "label": "Transporte inseguro",
+      "definition": "Condição em que deslocamentos necessários expõem pessoas a risco, demora extrema ou humilhação por falhas evitáveis.",
+      "anchors": [
+        "CEC 1908",
+        "B05"
+      ],
+      "tags": [
+        "mobilidade",
+        "segurança"
+      ]
+    },
+    {
+      "id": "I05",
+      "column": "I",
+      "label": "Fura-fila de influência",
+      "definition": "Uso de amizade, cargo, dinheiro ou parentesco para passar à frente de quem esperou legitimamente por um direito ou serviço.",
+      "anchors": [
+        "CEC 1807",
+        "B09"
+      ],
+      "tags": [
+        "privilégio",
+        "justiça"
+      ]
+    },
+    {
+      "id": "I06",
+      "column": "I",
+      "label": "Lixo no bairro",
+      "definition": "Descaso com resíduos e espaços compartilhados que prejudica saúde, convivência, limpeza e segurança da comunidade.",
+      "anchors": [
+        "CEC 1914",
+        "B07"
+      ],
+      "tags": [
+        "espaço comum",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "I07",
+      "column": "I",
+      "label": "Corrupção pequena",
+      "definition": "Atos cotidianos de fraude, suborno ou vantagem indevida que parecem pequenos, mas corroem a confiança e a justiça comum.",
+      "anchors": [
+        "CEC 1807",
+        "B12"
+      ],
+      "tags": [
+        "corrupção",
+        "honestidade"
+      ]
+    },
+    {
+      "id": "I08",
+      "column": "I",
+      "label": "Desemprego ignorado",
+      "definition": "Indiferença diante de famílias sem trabalho, tratadas como culpadas ou invisíveis em vez de pessoas afetadas por ferida social real.",
+      "anchors": [
+        "CEC 1908",
+        "B10"
+      ],
+      "tags": [
+        "trabalho",
+        "indiferença"
+      ]
+    },
+    {
+      "id": "I09",
+      "column": "I",
+      "label": "Informação manipulada",
+      "definition": "Uso de notícia falsa, dado cortado ou mentira calculada para dirigir decisões públicas e destruir a confiança social.",
+      "anchors": [
+        "CEC 1912",
+        "Jo 8,32"
+      ],
+      "tags": [
+        "verdade",
+        "informação"
+      ]
+    },
+    {
+      "id": "I10",
+      "column": "I",
+      "label": "Idoso abandonado",
+      "definition": "Situação em que uma pessoa idosa fica sem cuidado, presença, defesa ou escuta, embora dependa de outros para viver com dignidade.",
+      "anchors": [
+        "Mt 25,35-40",
+        "B14"
+      ],
+      "tags": [
+        "idosos",
+        "cuidado"
+      ]
+    },
+    {
+      "id": "I11",
+      "column": "I",
+      "label": "Criança sem vaga",
+      "definition": "Falta de acesso a educação e cuidado básico que bloqueia o desenvolvimento de uma criança e atinge toda a família.",
+      "anchors": [
+        "CEC 1908",
+        "B04"
+      ],
+      "tags": [
+        "educação",
+        "infância"
+      ]
+    },
+    {
+      "id": "I12",
+      "column": "I",
+      "label": "Violência no território",
+      "definition": "Domínio do medo em uma região, quando moradores mudam sua rotina por ameaça, tráfico, abuso ou insegurança constante.",
+      "anchors": [
+        "CEC 1909",
+        "B05"
+      ],
+      "tags": [
+        "segurança",
+        "paz"
+      ]
+    },
+    {
+      "id": "I13",
+      "column": "I",
+      "label": "Atendimento discriminatório",
+      "definition": "Tratamento desigual em serviço, comércio ou instituição por aparência, origem, pobreza, deficiência ou condição social.",
+      "anchors": [
+        "CEC 1907",
+        "CEC 1931"
+      ],
+      "tags": [
+        "discriminação",
+        "direitos"
+      ]
+    },
+    {
+      "id": "I14",
+      "column": "I",
+      "label": "Privacidade violada",
+      "definition": "Exposição indevida de dados, imagem, doença, intimidade ou história de alguém, ferindo sua dignidade e segurança.",
+      "anchors": [
+        "CEC 1907",
+        "B03"
+      ],
+      "tags": [
+        "privacidade",
+        "dignidade"
+      ]
+    },
+    {
+      "id": "I15",
+      "column": "I",
+      "label": "Saneamento ausente",
+      "definition": "Falta de água limpa, esgoto e coleta adequada que torna a vida cotidiana perigosa e revela uma injustiça pública concreta.",
+      "anchors": [
+        "CEC 1908",
+        "B04"
+      ],
+      "tags": [
+        "saneamento",
+        "saúde pública"
+      ]
+    },
+    {
+      "id": "N01",
+      "column": "N",
+      "label": "Soma de interesses",
+      "definition": "Engano de reduzir o bem comum à simples soma de vontades particulares, sem perguntar se elas respeitam a dignidade e a justiça.",
+      "anchors": [
+        "CEC 1906",
+        "G03"
+      ],
+      "tags": [
+        "individualismo",
+        "engano"
+      ]
+    },
+    {
+      "id": "N02",
+      "column": "N",
+      "label": "Ditadura da maioria",
+      "definition": "Narrativa que chama de justo tudo o que a maioria quer, mesmo quando a maioria fere direitos fundamentais de alguns.",
+      "anchors": [
+        "CEC 1907",
+        "G04"
+      ],
+      "tags": [
+        "maioria",
+        "injustiça"
+      ]
+    },
+    {
+      "id": "N03",
+      "column": "N",
+      "label": "Estado acima da pessoa",
+      "definition": "Erro de tratar a pessoa como peça sacrificável de um projeto político, administrativo ou econômico supostamente superior.",
+      "anchors": [
+        "CEC 1912",
+        "B02"
+      ],
+      "tags": [
+        "totalitarismo",
+        "dignidade"
+      ]
+    },
+    {
+      "id": "N04",
+      "column": "N",
+      "label": "Só os meus importam",
+      "definition": "Fechamento moral que reconhece dever apenas com o próprio grupo e torna invisível a necessidade real dos outros.",
+      "anchors": [
+        "Mt 22,39",
+        "B10"
+      ],
+      "tags": [
+        "fechamento",
+        "solidariedade"
+      ]
+    },
+    {
+      "id": "N05",
+      "column": "N",
+      "label": "Impotência cômoda",
+      "definition": "Desculpa de que ninguém pode fazer nada, usada para abandonar responsabilidades pequenas, reais e possíveis.",
+      "anchors": [
+        "CEC 1913",
+        "B06"
+      ],
+      "tags": [
+        "omissão",
+        "participação"
+      ]
+    },
+    {
+      "id": "N06",
+      "column": "N",
+      "label": "Todo mundo faz",
+      "definition": "Autoengano que transforma a repetição de um erro em permissão moral para praticá-lo sem consciência.",
+      "anchors": [
+        "Rm 12,2",
+        "B08"
+      ],
+      "tags": [
+        "conformismo",
+        "consciência"
+      ]
+    },
+    {
+      "id": "N07",
+      "column": "N",
+      "label": "Favor injusto",
+      "definition": "Mentalidade que chama de ajuda uma vantagem indevida obtida às custas de quem tinha direito legítimo.",
+      "anchors": [
+        "CEC 1807",
+        "I05"
+      ],
+      "tags": [
+        "privilégio",
+        "corrupção"
+      ]
+    },
+    {
+      "id": "N08",
+      "column": "N",
+      "label": "Lucro sem limite",
+      "definition": "Lógica que trata ganho financeiro como critério absoluto, mesmo quando ele destrói saúde, descanso, dignidade ou justiça.",
+      "anchors": [
+        "CEC 1912",
+        "B13"
+      ],
+      "tags": [
+        "ganância",
+        "economia"
+      ]
+    },
+    {
+      "id": "N09",
+      "column": "N",
+      "label": "Paz como silêncio",
+      "definition": "Engano de chamar de paz a ausência de reclamação, mesmo quando o silêncio foi imposto por medo, vergonha ou dependência.",
+      "anchors": [
+        "CEC 1909",
+        "G07"
+      ],
+      "tags": [
+        "paz falsa",
+        "omissão"
+      ]
+    },
+    {
+      "id": "N10",
+      "column": "N",
+      "label": "Direito sem dever",
+      "definition": "Narrativa que exige benefícios da vida comum, mas recusa os deveres necessários para sustentá-la.",
+      "anchors": [
+        "CEC 1913",
+        "CEC 1914"
+      ],
+      "tags": [
+        "dever",
+        "participação"
+      ]
+    },
+    {
+      "id": "N11",
+      "column": "N",
+      "label": "Culpa só do governo",
+      "definition": "Desculpa que reconhece falhas públicas reais, mas usa isso para negar a própria responsabilidade familiar, profissional e comunitária.",
+      "anchors": [
+        "CEC 1914",
+        "B07"
+      ],
+      "tags": [
+        "omissão",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "N12",
+      "column": "N",
+      "label": "Neutralidade cômoda",
+      "definition": "Fuga moral que se apresenta como equilíbrio, mas deixa a injustiça continuar sem nome, limite ou reparação.",
+      "anchors": [
+        "Tg 2,15-17",
+        "G06"
+      ],
+      "tags": [
+        "omissão",
+        "injustiça"
+      ]
+    },
+    {
+      "id": "N13",
+      "column": "N",
+      "label": "Pretexto do bem comum",
+      "definition": "Uso do vocabulário do bem comum para encobrir abuso, censura, privilégio, violência ou interesses de grupo.",
+      "anchors": [
+        "CEC 1907",
+        "CEC 1912"
+      ],
+      "tags": [
+        "manipulação",
+        "abuso"
+      ]
+    },
+    {
+      "id": "N14",
+      "column": "N",
+      "label": "Problema dos pobres",
+      "definition": "Frase que empurra a miséria para longe da consciência, como se a dor dos vulneráveis não dissesse respeito a toda a sociedade.",
+      "anchors": [
+        "Mt 25,35-40",
+        "B14"
+      ],
+      "tags": [
+        "indiferença",
+        "pobreza"
+      ]
+    },
+    {
+      "id": "N15",
+      "column": "N",
+      "label": "Fé sem cidade",
+      "definition": "Separação falsa entre vida espiritual e responsabilidade social, como se rezar dispensasse buscar a justiça e a paz da cidade.",
+      "anchors": [
+        "Jr 29,7",
+        "CEC 1913"
+      ],
+      "tags": [
+        "fé",
+        "cidade"
+      ]
+    },
+    {
+      "id": "G01",
+      "column": "G",
+      "label": "Pessoa e coisa",
+      "definition": "Distinção entre servir pessoas por meio das coisas e sacrificar pessoas para conservar objetos, números, processos ou reputações.",
+      "anchors": [
+        "CEC 1912",
+        "B02"
+      ],
+      "tags": [
+        "dignidade",
+        "discernimento"
+      ]
+    },
+    {
+      "id": "G02",
+      "column": "G",
+      "label": "Necessidade e desejo",
+      "definition": "Distinção entre aquilo sem o qual a vida humana é ferida e aquilo que apenas satisfaz preferência, conforto ou consumo.",
+      "anchors": [
+        "CEC 1908",
+        "B04"
+      ],
+      "tags": [
+        "necessidade",
+        "consumo"
+      ]
+    },
+    {
+      "id": "G03",
+      "column": "G",
+      "label": "Interesse e bem comum",
+      "definition": "Distinção entre vantagem particular legítima e condição social justa que permite a todos viverem com dignidade.",
+      "anchors": [
+        "CEC 1906",
+        "N01"
+      ],
+      "tags": [
+        "interesse",
+        "bem comum"
+      ]
+    },
+    {
+      "id": "G04",
+      "column": "G",
+      "label": "Maioria e justiça",
+      "definition": "Distinção entre decisão numericamente vencedora e decisão moralmente justa, que não pode violar direitos fundamentais.",
+      "anchors": [
+        "CEC 1907",
+        "N02"
+      ],
+      "tags": [
+        "maioria",
+        "direitos"
+      ]
+    },
+    {
+      "id": "G05",
+      "column": "G",
+      "label": "Autoridade e abuso",
+      "definition": "Distinção entre poder legítimo orientado ao bem comum e uso do cargo para dominar, calar, favorecer ou explorar.",
+      "anchors": [
+        "CEC 1903",
+        "B12"
+      ],
+      "tags": [
+        "autoridade",
+        "abuso"
+      ]
+    },
+    {
+      "id": "G06",
+      "column": "G",
+      "label": "Prudência e omissão",
+      "definition": "Distinção entre agir com cuidado proporcional e usar a cautela como desculpa para não fazer o bem possível.",
+      "anchors": [
+        "CEC 1806",
+        "N12"
+      ],
+      "tags": [
+        "prudência",
+        "omissão"
+      ]
+    },
+    {
+      "id": "G07",
+      "column": "G",
+      "label": "Paz e ordem justa",
+      "definition": "Distinção entre paz verdadeira, fundada na justiça, e tranquilidade aparente mantida por medo, cansaço ou silenciamento.",
+      "anchors": [
+        "CEC 1909",
+        "N09"
+      ],
+      "tags": [
+        "paz",
+        "justiça"
+      ]
+    },
+    {
+      "id": "G08",
+      "column": "G",
+      "label": "Direito e privilégio",
+      "definition": "Distinção entre receber o que é devido a todos e obter vantagem particular negada injustamente aos demais.",
+      "anchors": [
+        "CEC 1807",
+        "I05"
+      ],
+      "tags": [
+        "direitos",
+        "privilégio"
+      ]
+    },
+    {
+      "id": "G09",
+      "column": "G",
+      "label": "Caridade e assistencialismo",
+      "definition": "Distinção entre ajuda que reconhece dignidade e dependência manipulada que mantém o necessitado inferiorizado.",
+      "anchors": [
+        "Mt 25,35-40",
+        "B14"
+      ],
+      "tags": [
+        "caridade",
+        "pobres"
+      ]
+    },
+    {
+      "id": "G10",
+      "column": "G",
+      "label": "Solidariedade e invasão",
+      "definition": "Distinção entre assumir responsabilidade pelo outro e controlar sua vida, decisões e intimidade sem respeito.",
+      "anchors": [
+        "CEC 1939",
+        "B10"
+      ],
+      "tags": [
+        "solidariedade",
+        "limites"
+      ]
+    },
+    {
+      "id": "G11",
+      "column": "G",
+      "label": "Subsídio e abandono",
+      "definition": "Distinção entre fortalecer quem pode agir e abandonar pessoas ou comunidades menores sob a desculpa de autonomia.",
+      "anchors": [
+        "CEC 1883",
+        "B11"
+      ],
+      "tags": [
+        "subsidiariedade",
+        "apoio"
+      ]
+    },
+    {
+      "id": "G12",
+      "column": "G",
+      "label": "Propriedade e destino comum",
+      "definition": "Distinção entre possuir legitimamente um bem e usá-lo como se não tivesse nenhuma responsabilidade diante dos outros.",
+      "anchors": [
+        "CEC 2402",
+        "B13"
+      ],
+      "tags": [
+        "propriedade",
+        "bens"
+      ]
+    },
+    {
+      "id": "G13",
+      "column": "G",
+      "label": "Participação e partidarismo",
+      "definition": "Distinção entre compromisso com o bem comum e redução da vida pública a torcida, propaganda ou idolatria de grupo.",
+      "anchors": [
+        "CEC 1913",
+        "B06"
+      ],
+      "tags": [
+        "participação",
+        "vida pública"
+      ]
+    },
+    {
+      "id": "G14",
+      "column": "G",
+      "label": "Consciência e capricho",
+      "definition": "Distinção entre agir segundo a consciência reta, formada pela verdade, e justificar qualquer vontade como se fosse consciência.",
+      "anchors": [
+        "CEC 1907",
+        "B03"
+      ],
+      "tags": [
+        "consciência",
+        "liberdade"
+      ]
+    },
+    {
+      "id": "G15",
+      "column": "G",
+      "label": "Misericórdia e impunidade",
+      "definition": "Distinção entre tratar o culpado com humanidade e negar a verdade do dano, a justiça devida e a necessidade de reparação.",
+      "anchors": [
+        "CEC 1807",
+        "Mt 5,7"
+      ],
+      "tags": [
+        "misericórdia",
+        "justiça"
+      ]
+    },
+    {
+      "id": "O01",
+      "column": "O",
+      "label": "Verificar a informação",
+      "definition": "Antes de repassar algo que afeta pessoas ou decisões comuns, checar fonte, contexto, data e intenção do conteúdo.",
+      "anchors": [
+        "Jo 8,32",
+        "I09"
+      ],
+      "tags": [
+        "verdade",
+        "comunicação"
+      ]
+    },
+    {
+      "id": "O02",
+      "column": "O",
+      "label": "Denunciar com prudência",
+      "definition": "Levar uma injustiça a quem pode agir, com fatos verificáveis, proteção das vítimas e meios proporcionais.",
+      "anchors": [
+        "CEC 1806",
+        "G06"
+      ],
+      "tags": [
+        "denúncia",
+        "prudência"
+      ]
+    },
+    {
+      "id": "O03",
+      "column": "O",
+      "label": "Reparar o dano",
+      "definition": "Assumir a consequência de um erro e fazer o possível para corrigir prejuízo, devolver o que foi tirado e restaurar a confiança.",
+      "anchors": [
+        "Lc 19,8",
+        "G15"
+      ],
+      "tags": [
+        "reparação",
+        "justiça"
+      ]
+    },
+    {
+      "id": "O04",
+      "column": "O",
+      "label": "Recusar vantagem indevida",
+      "definition": "Não aceitar fila furada, desconto injusto, cargo, documento ou benefício obtido por favor que prejudica outros.",
+      "anchors": [
+        "CEC 1807",
+        "I05"
+      ],
+      "tags": [
+        "honestidade",
+        "justiça"
+      ]
+    },
+    {
+      "id": "O05",
+      "column": "O",
+      "label": "Priorizar o vulnerável",
+      "definition": "Dar atenção prática a quem corre maior risco, ajustando tempo, recurso, escuta e decisão à gravidade da necessidade.",
+      "anchors": [
+        "Mt 25,35-40",
+        "B14"
+      ],
+      "tags": [
+        "vulneráveis",
+        "caridade"
+      ]
+    },
+    {
+      "id": "O06",
+      "column": "O",
+      "label": "Cumprir o dever comum",
+      "definition": "Fazer com seriedade a própria parte em casa, no trabalho, nos estudos, nos impostos, nas regras justas e no cuidado do espaço comum.",
+      "anchors": [
+        "CEC 1914",
+        "B07"
+      ],
+      "tags": [
+        "dever",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "O07",
+      "column": "O",
+      "label": "Participar do conselho",
+      "definition": "Entrar de modo ordenado em espaços de escuta e decisão comunitária, levando fatos, propostas e disposição para ouvir.",
+      "anchors": [
+        "CEC 1913",
+        "B06"
+      ],
+      "tags": [
+        "participação",
+        "comunidade"
+      ]
+    },
+    {
+      "id": "O08",
+      "column": "O",
+      "label": "Servir com constância",
+      "definition": "Escolher uma forma concreta de serviço e sustentá-la com regularidade, sem depender apenas de emoção ou visibilidade.",
+      "anchors": [
+        "CEC 1913",
+        "At 2,42-47"
+      ],
+      "tags": [
+        "serviço",
+        "perseverança"
+      ]
+    },
+    {
+      "id": "O09",
+      "column": "O",
+      "label": "Cobrar sem humilhar",
+      "definition": "Exigir responsabilidade com clareza e firmeza, sem exposição cruel, mentira, linchamento ou desejo de destruir a pessoa.",
+      "anchors": [
+        "Mt 18,15",
+        "G15"
+      ],
+      "tags": [
+        "correção",
+        "justiça"
+      ]
+    },
+    {
+      "id": "O10",
+      "column": "O",
+      "label": "Formar juízo público",
+      "definition": "Estudar fatos, princípios morais e consequências sociais antes de apoiar decisões que afetam a vida de muitos.",
+      "anchors": [
+        "CEC 1913",
+        "B08"
+      ],
+      "tags": [
+        "vida pública",
+        "consciência"
+      ]
+    },
+    {
+      "id": "O11",
+      "column": "O",
+      "label": "Partilhar recursos",
+      "definition": "Colocar tempo, dinheiro, competência ou bens disponíveis a serviço de uma necessidade real, com responsabilidade e discrição.",
+      "anchors": [
+        "At 2,42-47",
+        "B13"
+      ],
+      "tags": [
+        "partilha",
+        "bens"
+      ]
+    },
+    {
+      "id": "O12",
+      "column": "O",
+      "label": "Proteger a privacidade",
+      "definition": "Não expor imagem, dado, doença, história ou fragilidade de alguém sem necessidade justa e autorização adequada.",
+      "anchors": [
+        "CEC 1907",
+        "I14"
+      ],
+      "tags": [
+        "privacidade",
+        "proteção"
+      ]
+    },
+    {
+      "id": "O13",
+      "column": "O",
+      "label": "Mediar conflitos",
+      "definition": "Ajudar partes em conflito a falar com segurança, ouvir fatos, reconhecer limites e buscar acordo justo quando isso for possível.",
+      "anchors": [
+        "Mt 5,9",
+        "B05"
+      ],
+      "tags": [
+        "mediação",
+        "paz"
+      ]
+    },
+    {
+      "id": "O14",
+      "column": "O",
+      "label": "Cuidar do espaço comum",
+      "definition": "Assumir práticas concretas de limpeza, preservação, uso responsável e cobrança justa pelo ambiente compartilhado.",
+      "anchors": [
+        "CEC 1914",
+        "I06"
+      ],
+      "tags": [
+        "espaço comum",
+        "cuidado"
+      ]
+    },
+    {
+      "id": "O15",
+      "column": "O",
+      "label": "Rezar pela cidade",
+      "definition": "Interceder pelo lugar onde se vive e unir a oração a decisões concretas em favor da justiça, da paz e dos necessitados.",
+      "anchors": [
+        "Jr 29,7",
+        "N15"
+      ],
+      "tags": [
+        "oração",
+        "cidade"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1971 @@
+{
+  "title": "Chamadas — Bingo Vocação",
+  "meeting": "Encontro 27 — Vocação",
+  "source_terms": "data/termos.json",
+  "method": {
+    "read_order": [
+      "call_label",
+      "case",
+      "reading_points"
+    ],
+    "rule": "A cada carta, anuncie código e conceito, leia o caso e explique brevemente a relação usando a Leitura do caso. Depois as equipes marcam o código, se estiver na cartela.",
+    "conference_rule": "Ao fechar duas linhas válidas, horizontais, verticais ou diagonais, a equipe escolhe uma dessas linhas completas, explica pelo menos três conceitos da linha escolhida e liga pelo menos um deles à base bíblica ou doutrinal do encontro. As duas linhas podem se cruzar. O centro livre já conta como casa marcada para completar linhas, mas não conta como um dos três conceitos explicados."
+  },
+  "cards": [
+    {
+      "id": "B01",
+      "term_id": "B01",
+      "call_label": "B01 - Chamado à existência",
+      "case": "Uma gestante escuta que o filho só terá valor se nascer saudável e não atrapalhar os planos da família.",
+      "conference_question": "Por que a vocação começa antes de qualquer utilidade, saúde, desempenho ou aprovação social?",
+      "anchors": [
+        "Ef 1,3-14",
+        "B01"
+      ],
+      "facilitator_note": "Conduza com firmeza sem transformar o caso em debate técnico sobre saúde; o foco é a dignidade recebida de Deus.",
+      "reading_points": [
+        {
+          "title": "Vida recebida",
+          "body": "O caso mostra a tentação de medir a vida humana por conveniência e eficiência."
+        },
+        {
+          "title": "Dignidade anterior",
+          "body": "A fé ensina que a pessoa é querida por Deus antes de ser útil, forte ou aceita."
+        },
+        {
+          "title": "Chamado primeiro",
+          "body": "A vocação primordial é existir diante de Deus e ser acolhido como vida chamada por Ele."
+        }
+      ]
+    },
+    {
+      "id": "B02",
+      "term_id": "B02",
+      "call_label": "B02 - Eleição em Cristo",
+      "case": "Depois de perder o emprego, um homem passa a se apresentar apenas como fracassado e evita a família por vergonha.",
+      "conference_question": "O que muda quando a identidade da pessoa é lida a partir da eleição em Cristo, e não apenas do sucesso?",
+      "anchors": [
+        "Ef 1,3-14"
+      ],
+      "facilitator_note": "Evite negar a dor concreta da perda; mostre que o fracasso não é a palavra final sobre a pessoa.",
+      "reading_points": [
+        {
+          "title": "Identidade ferida",
+          "body": "A perda real do trabalho começa a virar definição total da pessoa."
+        },
+        {
+          "title": "Critério cristão",
+          "body": "Em Cristo, a pessoa é chamada a ser filha e santa antes de qualquer cargo ou resultado."
+        },
+        {
+          "title": "Esperança objetiva",
+          "body": "A eleição em Cristo permite recomeçar sem negar a responsabilidade prática."
+        }
+      ]
+    },
+    {
+      "id": "B03",
+      "term_id": "B03",
+      "call_label": "B03 - Santidade universal",
+      "case": "Uma empresária diz que santidade é assunto de convento e que no trabalho basta não ser pior que os outros.",
+      "conference_question": "Como a vocação universal à santidade corrige a separação entre fé e vida comum?",
+      "anchors": [
+        "Lv 19,2",
+        "Mt 5,48"
+      ],
+      "facilitator_note": "Mostre que santidade não é fuga do mundo nem privilégio de poucos.",
+      "reading_points": [
+        {
+          "title": "Separação falsa",
+          "body": "A fala coloca a santidade fora das decisões reais do trabalho."
+        },
+        {
+          "title": "Chamado comum",
+          "body": "Todo batizado é chamado a buscar a santidade no próprio estado de vida."
+        },
+        {
+          "title": "Vida inteira",
+          "body": "A vocação cristã alcança dinheiro, escolhas, palavras, relações e responsabilidades."
+        }
+      ]
+    },
+    {
+      "id": "B04",
+      "term_id": "B04",
+      "call_label": "B04 - Perfeição do amor",
+      "case": "Um homem conhecido por doações generosas humilha a esposa e os funcionários quando ninguém de fora está vendo.",
+      "conference_question": "Como distinguir aparência religiosa de crescimento real na perfeição do amor?",
+      "anchors": [
+        "Mt 5,48",
+        "1Jo 4,8.16"
+      ],
+      "facilitator_note": "Não ataque a doação em si; mostre que obra externa não dispensa conversão do amor concreto.",
+      "reading_points": [
+        {
+          "title": "Contradição visível",
+          "body": "A bondade pública convive com violência verbal no cotidiano."
+        },
+        {
+          "title": "Amor como critério",
+          "body": "A perfeição cristã não é imagem social, mas caridade concreta e conversão."
+        },
+        {
+          "title": "Resposta cristã",
+          "body": "A pessoa precisa reparar, buscar conversão e ordenar suas relações ao amor verdadeiro."
+        }
+      ]
+    },
+    {
+      "id": "B05",
+      "term_id": "B05",
+      "call_label": "B05 - Vocação como dom",
+      "case": "Ao comparar casamento, sacerdócio e vida consagrada, alguém só pergunta qual opção dará mais controle sobre a própria agenda.",
+      "conference_question": "Por que a vocação não pode ser tratada como posse privada ou escolha de consumo?",
+      "anchors": [
+        "Ef 1,3-14",
+        "CEC 1578"
+      ],
+      "facilitator_note": "Mostre que liberdade existe, mas é liberdade para responder a um dom, não para manipular Deus.",
+      "reading_points": [
+        {
+          "title": "Controle como critério",
+          "body": "A pergunta reduz a vocação ao que facilita a vida individual."
+        },
+        {
+          "title": "Dom recebido",
+          "body": "A vocação nasce do chamado de Deus e pede disponibilidade, não domínio absoluto."
+        },
+        {
+          "title": "Resposta livre",
+          "body": "Discernir é acolher o dom com liberdade responsável diante de Deus e da Igreja."
+        }
+      ]
+    },
+    {
+      "id": "B06",
+      "term_id": "B06",
+      "call_label": "B06 - Discernir, não inventar",
+      "case": "Uma pessoa decide mudar de cidade, terminar um relacionamento e abandonar compromissos em uma semana, chamando tudo de sinal de Deus.",
+      "conference_question": "Que critérios ajudam a distinguir discernimento verdadeiro de decisão impulsiva revestida de linguagem religiosa?",
+      "anchors": [
+        "Ef 1,9-10",
+        "CEC 1578"
+      ],
+      "facilitator_note": "Não ridicularize sinais interiores; mostre que sinais precisam de prudência, tempo e mediações.",
+      "reading_points": [
+        {
+          "title": "Linguagem espiritual",
+          "body": "A pessoa usa o nome de Deus para legitimar decisões precipitadas."
+        },
+        {
+          "title": "Prova dos sinais",
+          "body": "Discernimento exige oração, verdade, conselho e atenção aos frutos."
+        },
+        {
+          "title": "Vontade de Deus",
+          "body": "Buscar a vocação é procurar o desígnio de Deus, não impor a Ele um impulso."
+        }
+      ]
+    },
+    {
+      "id": "B07",
+      "term_id": "B07",
+      "call_label": "B07 - Vocação e missão",
+      "case": "Um médico aceita atender apenas quem aumenta seu prestígio e evita casos difíceis que não aparecem em sua rede profissional.",
+      "conference_question": "Como a ideia de missão corrige uma vida organizada só por prestígio pessoal?",
+      "anchors": [
+        "Ef 1,11-14",
+        "Mc 10,45"
+      ],
+      "facilitator_note": "Não reduza missão a profissão religiosa; toda vocação cristã tem dimensão de serviço.",
+      "reading_points": [
+        {
+          "title": "Prestígio no centro",
+          "body": "A profissão vira instrumento de imagem, não de serviço ao bem real."
+        },
+        {
+          "title": "Vocação envia",
+          "body": "Toda vocação cristã chama a servir e colaborar com o bem dos outros."
+        },
+        {
+          "title": "Missão concreta",
+          "body": "A pergunta vocacional inclui quem é servido e que bem Deus pede que seja assumido."
+        }
+      ]
+    },
+    {
+      "id": "B08",
+      "term_id": "B08",
+      "call_label": "B08 - Amor conjugal",
+      "case": "Durante os preparativos do casamento, o casal fala da festa por meses, mas evita conversar sobre fidelidade, filhos, dinheiro e fé.",
+      "conference_question": "Por que o amor conjugal exige mais do que festa, atração e convivência agradável?",
+      "anchors": [
+        "CEC 1601",
+        "CEC 1604"
+      ],
+      "facilitator_note": "Mostre a beleza do matrimônio sem esconder suas exigências objetivas.",
+      "reading_points": [
+        {
+          "title": "Centro deslocado",
+          "body": "A festa ocupa o lugar da aliança que será assumida."
+        },
+        {
+          "title": "Aliança de vida",
+          "body": "O matrimônio ordena uma comunhão da vida toda, não só um evento social."
+        },
+        {
+          "title": "Amor responsável",
+          "body": "O amor conjugal precisa integrar fidelidade, fecundidade, fé e responsabilidades concretas."
+        }
+      ]
+    },
+    {
+      "id": "B09",
+      "term_id": "B09",
+      "call_label": "B09 - Indissolubilidade",
+      "case": "Depois de anos difíceis, um casal sem violência nem grave abandono decide que o voto só valia enquanto tudo era leve.",
+      "conference_question": "Como a indissolubilidade protege o matrimônio sem negar que crises reais exigem ajuda e conversão?",
+      "anchors": [
+        "CEC 1601",
+        "CEC 1641-1642"
+      ],
+      "facilitator_note": "Aponte a força do vínculo, mas não use o caso para silenciar situações de abuso ou perigo.",
+      "reading_points": [
+        {
+          "title": "Voto enfraquecido",
+          "body": "O casal trata a promessa como dependente apenas de facilidade emocional."
+        },
+        {
+          "title": "Vínculo real",
+          "body": "A indissolubilidade afirma que a aliança matrimonial não é descartável."
+        },
+        {
+          "title": "Caminho de cura",
+          "body": "A crise pede verdade, ajuda, perdão e responsabilidade diante da graça do sacramento."
+        }
+      ]
+    },
+    {
+      "id": "B10",
+      "term_id": "B10",
+      "call_label": "B10 - Fecundidade",
+      "case": "Um casal diz que filhos só atrapalhariam viagens, consumo e liberdade, e nunca admite perguntar a Deus sobre abertura à vida.",
+      "conference_question": "Como falar de fecundidade sem reduzir filhos a obrigação mecânica nem a obstáculo aos planos pessoais?",
+      "anchors": [
+        "Gn 1,28",
+        "CEC 1601",
+        "CEC 1604"
+      ],
+      "facilitator_note": "Mantenha a linguagem responsável; fecundidade envolve abertura à vida, generosidade e discernimento moral sério.",
+      "reading_points": [
+        {
+          "title": "Vida como incômodo",
+          "body": "Os filhos são vistos somente como perda de conforto e autonomia."
+        },
+        {
+          "title": "Amor fecundo",
+          "body": "O matrimônio é ordenado também à geração e educação dos filhos."
+        },
+        {
+          "title": "Generosidade responsável",
+          "body": "A fecundidade pede abertura ao dom da vida e responsabilidade diante de Deus."
+        }
+      ]
+    },
+    {
+      "id": "B11",
+      "term_id": "B11",
+      "call_label": "B11 - Graça matrimonial",
+      "case": "Após uma traição, os esposos procuram ajuda séria e reconhecem que só força de vontade não sustentará a reconstrução.",
+      "conference_question": "Como a graça matrimonial sustenta a conversão sem apagar a necessidade de reparação concreta?",
+      "anchors": [
+        "CEC 1617",
+        "CEC 1641-1642"
+      ],
+      "facilitator_note": "Não banalize traição; destaque graça, verdade, justiça, perdão e acompanhamento adequado.",
+      "reading_points": [
+        {
+          "title": "Ferida real",
+          "body": "A traição rompe confiança e exige mais do que uma promessa rápida."
+        },
+        {
+          "title": "Graça própria",
+          "body": "Cristo oferece aos esposos graça para carregar a cruz, levantar-se e perdoar."
+        },
+        {
+          "title": "Reconstrução responsável",
+          "body": "A graça não dispensa verdade, mudança concreta e ajuda proporcional."
+        }
+      ]
+    },
+    {
+      "id": "B12",
+      "term_id": "B12",
+      "call_label": "B12 - Igreja doméstica",
+      "case": "Os pais exigem que os filhos tenham fé, mas em casa nunca rezam, zombam da Missa e terceirizam toda formação cristã.",
+      "conference_question": "Por que a família transmite vocação mais pelo conjunto da vida do que por cobrança isolada?",
+      "anchors": [
+        "CEC 1656"
+      ],
+      "facilitator_note": "Evite culpar famílias feridas de modo simplista; foque na responsabilidade possível de testemunho.",
+      "reading_points": [
+        {
+          "title": "Contradição doméstica",
+          "body": "A cobrança religiosa não é sustentada por exemplo e prática cotidiana."
+        },
+        {
+          "title": "Lar de fé",
+          "body": "A família cristã é chamada a ser Igreja doméstica pela palavra e pelo exemplo."
+        },
+        {
+          "title": "Vocação favorecida",
+          "body": "Um lar que reza e vive a fé ajuda cada pessoa a escutar o chamado próprio."
+        }
+      ]
+    },
+    {
+      "id": "B13",
+      "term_id": "B13",
+      "call_label": "B13 - Ordem apostólica",
+      "case": "Em uma região sem padre residente, a comunidade percebe que a Eucaristia e o pastoreio apostólico não são funções inventadas conforme a necessidade local.",
+      "conference_question": "Por que a Ordem não é apenas uma tarefa comunitária, mas sacramento ligado à missão dos Apóstolos?",
+      "anchors": [
+        "CEC 1536",
+        "CEC 1554"
+      ],
+      "facilitator_note": "Explique a importância do sacerdócio ministerial sem diminuir o sacerdócio comum dos fiéis.",
+      "reading_points": [
+        {
+          "title": "Necessidade real",
+          "body": "A ausência de ministro ordenado mostra que nem tudo na Igreja é substituível por boa vontade."
+        },
+        {
+          "title": "Missão apostólica",
+          "body": "A Ordem continua sacramentalmente a missão confiada por Cristo aos Apóstolos."
+        },
+        {
+          "title": "Serviço ao povo",
+          "body": "O ministério ordenado existe para edificar e conduzir a Igreja em Cristo."
+        }
+      ]
+    },
+    {
+      "id": "B14",
+      "term_id": "B14",
+      "call_label": "B14 - Serviço ministerial",
+      "case": "Um padre prefere ser tratado como autoridade intocável e evita ouvir pessoas feridas que procuram orientação.",
+      "conference_question": "Como o modelo de Cristo Servo corrige o exercício deformado da autoridade ministerial?",
+      "anchors": [
+        "CEC 1547-1548",
+        "CEC 1551",
+        "Mc 10,45"
+      ],
+      "facilitator_note": "Seja claro: reverência ao ministério não significa blindagem de atitudes contrárias ao serviço.",
+      "reading_points": [
+        {
+          "title": "Autoridade deformada",
+          "body": "O ministério é usado como proteção de status e distância."
+        },
+        {
+          "title": "Cristo como medida",
+          "body": "A autoridade ordenada deve ser medida por Cristo, que se fez servo."
+        },
+        {
+          "title": "Serviço pastoral",
+          "body": "O ministro age em favor de Cristo e do povo, não em favor da própria importância."
+        }
+      ]
+    },
+    {
+      "id": "B15",
+      "term_id": "B15",
+      "call_label": "B15 - Virgindade pelo Reino",
+      "case": "Uma mulher deixa uma carreira estável para entrar na vida consagrada, e parentes dizem que ela está jogando fora a chance de amar.",
+      "conference_question": "Por que a virgindade pelo Reino não nega o amor, mas testemunha uma forma específica de entrega?",
+      "anchors": [
+        "Mt 19,12",
+        "CEC 1620",
+        "CEC 1579"
+      ],
+      "facilitator_note": "Apresente o celibato pelo Reino como dom, sem desprezar o matrimônio.",
+      "reading_points": [
+        {
+          "title": "Amor mal entendido",
+          "body": "Os parentes identificam amor apenas com casamento e descendência."
+        },
+        {
+          "title": "Dom do Reino",
+          "body": "A virgindade pelo Reino é entrega real ao Senhor e à missão."
+        },
+        {
+          "title": "Bens que se iluminam",
+          "body": "Matrimônio e virgindade pelo Reino são bens distintos que se ajudam a ser compreendidos."
+        }
+      ]
+    },
+    {
+      "id": "I01",
+      "term_id": "I01",
+      "call_label": "I01 - Medo de escolher",
+      "case": "Um jovem adulto recusa emprego estável, compromisso afetivo e serviço constante porque teme fechar qualquer porta.",
+      "conference_question": "Como distinguir prudência diante de uma decisão grande de medo que impede qualquer resposta vocacional?",
+      "anchors": [
+        "B06",
+        "G15"
+      ],
+      "facilitator_note": "Mostre que adiar pode ser prudente em alguns casos, mas também pode virar fuga.",
+      "reading_points": [
+        {
+          "title": "Portas abertas",
+          "body": "A pessoa tenta manter todas as possibilidades e acaba não assumindo nenhuma."
+        },
+        {
+          "title": "Medo paralisante",
+          "body": "O problema não é pensar antes de decidir, mas usar o medo como regra de vida."
+        },
+        {
+          "title": "Passo proporcional",
+          "body": "Discernimento exige passos reais, mesmo sem dominar todo o futuro."
+        }
+      ]
+    },
+    {
+      "id": "I02",
+      "term_id": "I02",
+      "call_label": "I02 - Pressa de decidir tudo",
+      "case": "Depois de um retiro intenso, alguém quer largar o trabalho, vender o carro e entrar imediatamente em uma comunidade sem conversar com ninguém maduro.",
+      "conference_question": "Por que uma experiência forte pode ser importante, mas ainda precisa de tempo, conselho e verificação?",
+      "anchors": [
+        "B06",
+        "G13"
+      ],
+      "facilitator_note": "Valorize a graça de uma experiência espiritual sem permitir que emoção vire decisão total sem discernimento.",
+      "reading_points": [
+        {
+          "title": "Intensidade imediata",
+          "body": "A experiência desperta algo real, mas a reação vem sem mediação."
+        },
+        {
+          "title": "Tempo de prova",
+          "body": "Sinais vocacionais precisam ser acompanhados, purificados e confrontados com frutos."
+        },
+        {
+          "title": "Prudência cristã",
+          "body": "Deus pode chamar com força, mas a resposta deve amadurecer com obediência e verdade."
+        }
+      ]
+    },
+    {
+      "id": "I03",
+      "term_id": "I03",
+      "call_label": "I03 - Carreira como absoluto",
+      "case": "Uma promoção exige viagens constantes, abandono da vida familiar e ausência total de prática religiosa, mas o salário parece justificar tudo.",
+      "conference_question": "Que critério vocacional impede que carreira e dinheiro ocupem o lugar de Deus?",
+      "anchors": [
+        "B01",
+        "B07"
+      ],
+      "facilitator_note": "Não demonize o trabalho; mostre o risco de transformar carreira em absoluto.",
+      "reading_points": [
+        {
+          "title": "Preço oculto",
+          "body": "A promoção oferece vantagens, mas cobra bens essenciais da vida cristã."
+        },
+        {
+          "title": "Hierarquia de bens",
+          "body": "Trabalho e dinheiro são importantes, mas não podem governar toda a vocação."
+        },
+        {
+          "title": "Missão ordenada",
+          "body": "A profissão deve servir à vida diante de Deus, não substituir o chamado de Deus."
+        }
+      ]
+    },
+    {
+      "id": "I04",
+      "term_id": "I04",
+      "call_label": "I04 - Namoro sem horizonte",
+      "case": "Um casal namora há anos, mas evita falar sobre casamento, fé, castidade, filhos e fidelidade porque isso poderia trazer conflito.",
+      "conference_question": "Por que fugir das conversas difíceis pode tornar o namoro menos verdadeiro e menos livre?",
+      "anchors": [
+        "CEC 1632",
+        "B08"
+      ],
+      "facilitator_note": "Conduza sem fiscalizar intimidades; o foco é responsabilidade e verdade do caminho.",
+      "reading_points": [
+        {
+          "title": "Futuro evitado",
+          "body": "O relacionamento se prolonga sem encarar as perguntas que definem sua direção."
+        },
+        {
+          "title": "Afeto sem verdade",
+          "body": "Evitar conflito pode esconder incompatibilidades e fragilizar a liberdade."
+        },
+        {
+          "title": "Preparação real",
+          "body": "O namoro que caminha ao matrimônio precisa cultivar diálogo, castidade e clareza."
+        }
+      ]
+    },
+    {
+      "id": "I05",
+      "term_id": "I05",
+      "call_label": "I05 - Noivado sem preparação",
+      "case": "Os noivos contratam buffet e fotografia, mas nunca conversaram seriamente sobre dívidas, filhos, fé, trabalho e temperamento.",
+      "conference_question": "Como distinguir preparação para festa de preparação para o sacramento do Matrimônio?",
+      "anchors": [
+        "CEC 1632",
+        "B08"
+      ],
+      "facilitator_note": "Mostre que festa é legítima, mas não pode substituir a preparação humana e cristã.",
+      "reading_points": [
+        {
+          "title": "Prioridade deslocada",
+          "body": "O planejamento externo cresce enquanto o diálogo essencial é adiado."
+        },
+        {
+          "title": "Sim responsável",
+          "body": "O sim matrimonial deve ser livre, maduro e sustentado por bases sólidas."
+        },
+        {
+          "title": "Preparação cristã",
+          "body": "Fé, filhos, dinheiro e caráter precisam entrar no discernimento antes das núpcias."
+        }
+      ]
+    },
+    {
+      "id": "I06",
+      "term_id": "I06",
+      "call_label": "I06 - Casamento ferido",
+      "case": "Depois de muitas agressões verbais, um casal já não conversa sem atacar e rejeita procurar ajuda porque diz que nada tem conserto.",
+      "conference_question": "Como reconhecer a gravidade da ferida sem declarar inútil a graça e a responsabilidade do matrimônio?",
+      "anchors": [
+        "CEC 1641-1642",
+        "G06"
+      ],
+      "facilitator_note": "Se houver risco ou violência, a proteção vem primeiro; não use reconciliação como obrigação cega.",
+      "reading_points": [
+        {
+          "title": "Ferida acumulada",
+          "body": "O casal normalizou palavras que machucam e destroem confiança."
+        },
+        {
+          "title": "Verdade necessária",
+          "body": "Crise matrimonial não se resolve com negação nem com desprezo pelo vínculo."
+        },
+        {
+          "title": "Ajuda proporcional",
+          "body": "A resposta pode exigir conversão, acompanhamento, limites e busca de proteção quando necessário."
+        }
+      ]
+    },
+    {
+      "id": "I07",
+      "term_id": "I07",
+      "call_label": "I07 - Família que transmite fé",
+      "case": "Uma avó reza com os netos, conta a vida dos santos e mostra no cuidado dos doentes que a fé não é só palavra.",
+      "conference_question": "Como o exemplo cotidiano da família pode favorecer a vocação própria de cada pessoa?",
+      "anchors": [
+        "CEC 1656",
+        "B12"
+      ],
+      "facilitator_note": "Evite idealizar famílias; destaque o valor real de gestos simples e perseverantes.",
+      "reading_points": [
+        {
+          "title": "Fé encarnada",
+          "body": "A oração aparece junto de cuidado concreto e testemunho de vida."
+        },
+        {
+          "title": "Primeira escola",
+          "body": "A família é lugar privilegiado de transmissão da fé por palavra e exemplo."
+        },
+        {
+          "title": "Vocação favorecida",
+          "body": "Um ambiente de fé ajuda a pessoa a perceber que Deus chama a vida inteira."
+        }
+      ]
+    },
+    {
+      "id": "I08",
+      "term_id": "I08",
+      "call_label": "I08 - Solteiro invisível",
+      "case": "Um homem idoso, solteiro e sem parentes próximos, passa semanas doente sem visitas porque todos pensam que alguém da família cuidará dele.",
+      "conference_question": "O que a fé cristã exige quando uma pessoa sem família próxima fica invisível para a comunidade?",
+      "anchors": [
+        "CEC 1658",
+        "B03"
+      ],
+      "facilitator_note": "Mostre que o solteiro não é fracasso vocacional nem sobra pastoral.",
+      "reading_points": [
+        {
+          "title": "Solidão concreta",
+          "body": "A ausência de família próxima se transforma em abandono prático."
+        },
+        {
+          "title": "Dignidade vocacional",
+          "body": "Pessoas solteiras também são chamadas à santidade e pertencem à família da Igreja."
+        },
+        {
+          "title": "Cuidado comunitário",
+          "body": "A resposta cristã abre portas, vínculos e ajuda real, não apenas palavras."
+        }
+      ]
+    },
+    {
+      "id": "I09",
+      "term_id": "I09",
+      "call_label": "I09 - Sinais de sacerdócio",
+      "case": "Um homem percebe desejo persistente de celebrar os sacramentos, pregar a Palavra e servir o povo, mas teme submeter isso ao discernimento da Igreja.",
+      "conference_question": "Por que sinais interiores de sacerdócio precisam ser levados à Igreja, e não decididos sozinho?",
+      "anchors": [
+        "CEC 1536",
+        "CEC 1578"
+      ],
+      "facilitator_note": "Fale de sinais com respeito, sem prometer que desejo pessoal equivale a chamado confirmado.",
+      "reading_points": [
+        {
+          "title": "Desejo persistente",
+          "body": "Há sinais internos ligados ao ministério, mas ainda não há confirmação."
+        },
+        {
+          "title": "Chamado e Igreja",
+          "body": "A Ordem não é assumida por iniciativa privada, mas recebida como dom reconhecido pela Igreja."
+        },
+        {
+          "title": "Humildade vocacional",
+          "body": "Discernir o sacerdócio exige abertura, formação e submissão aos critérios eclesiais."
+        }
+      ]
+    },
+    {
+      "id": "I10",
+      "term_id": "I10",
+      "call_label": "I10 - Serviço sem aplauso",
+      "case": "Depois de um funeral, uma voluntária fica lavando xícaras e arrumando cadeiras enquanto todos elogiam apenas quem falou em público.",
+      "conference_question": "Como o serviço escondido revela se a missão é buscada por amor ou por reconhecimento?",
+      "anchors": [
+        "B07",
+        "B14",
+        "Mc 10,45"
+      ],
+      "facilitator_note": "Evite desprezar funções públicas; destaque a purificação da intenção no serviço escondido.",
+      "reading_points": [
+        {
+          "title": "Tarefa invisível",
+          "body": "O serviço necessário não recebe o mesmo reconhecimento que a fala pública."
+        },
+        {
+          "title": "Intenção provada",
+          "body": "O escondimento revela se a pessoa serve por missão ou por aplauso."
+        },
+        {
+          "title": "Cristo Servo",
+          "body": "A vocação cristã aprende com Cristo a servir sem transformar tudo em palco."
+        }
+      ]
+    },
+    {
+      "id": "I11",
+      "term_id": "I11",
+      "call_label": "I11 - Atração pela consagração",
+      "case": "Uma profissional competente sente alegria ao pensar em pobreza, castidade e obediência pelo Reino, mas teme que isso pareça desperdício.",
+      "conference_question": "Como discernir uma atração pela vida consagrada sem confundi-la com fuga nem descartá-la por medo social?",
+      "anchors": [
+        "B15",
+        "CEC 1620"
+      ],
+      "facilitator_note": "Mostre que consagração precisa ser discernida com realismo e alegria, não com desprezo da vida comum.",
+      "reading_points": [
+        {
+          "title": "Atração incomum",
+          "body": "A pessoa percebe alegria diante de renúncias que só fazem sentido por causa do Reino."
+        },
+        {
+          "title": "Medo do desperdício",
+          "body": "A cultura pode medir valor apenas por carreira, renda e visibilidade."
+        },
+        {
+          "title": "Discernimento realista",
+          "body": "A atração deve ser acompanhada, provada e orientada dentro da Igreja."
+        }
+      ]
+    },
+    {
+      "id": "I12",
+      "term_id": "I12",
+      "call_label": "I12 - Resistência da família",
+      "case": "Os pais insistem para que o filho assuma a empresa da família e tratam qualquer conversa sobre sacerdócio como ingratidão.",
+      "conference_question": "Como respeitar a família sem permitir que ela substitua a consciência diante do chamado de Deus?",
+      "anchors": [
+        "B05",
+        "G12"
+      ],
+      "facilitator_note": "Mostre que família merece respeito, mas não posse sobre a vocação.",
+      "reading_points": [
+        {
+          "title": "Projeto imposto",
+          "body": "A família transforma expectativa legítima em pressão sobre o futuro do filho."
+        },
+        {
+          "title": "Dom não possuído",
+          "body": "A vocação pertence a Deus e não pode ser reduzida ao plano familiar."
+        },
+        {
+          "title": "Diálogo com firmeza",
+          "body": "A resposta exige respeito, verdade, acompanhamento e liberdade diante de Deus."
+        }
+      ]
+    },
+    {
+      "id": "I13",
+      "term_id": "I13",
+      "call_label": "I13 - Uso religioso de poder",
+      "case": "Um líder espiritual diz que discordar de suas decisões é resistir a Deus e ameaça afastar quem pede explicações.",
+      "conference_question": "Como reconhecer quando a linguagem religiosa deixa de servir à verdade e passa a controlar consciências?",
+      "anchors": [
+        "B14",
+        "G10"
+      ],
+      "facilitator_note": "Seja firme contra abuso espiritual sem atacar a autoridade legítima da Igreja.",
+      "reading_points": [
+        {
+          "title": "Consciência controlada",
+          "body": "A autoridade usa Deus como escudo para não prestar contas."
+        },
+        {
+          "title": "Abuso espiritual",
+          "body": "Linguagem religiosa pode ser deformada para manipular medo e obediência."
+        },
+        {
+          "title": "Serviço da verdade",
+          "body": "A autoridade cristã deve conduzir a Cristo, respeitando verdade, liberdade e justiça."
+        }
+      ]
+    },
+    {
+      "id": "I14",
+      "term_id": "I14",
+      "call_label": "I14 - Chamado em meio à queda",
+      "case": "Depois de cair gravemente em pecado, uma pessoa deixa de rezar e conclui que Deus não poderia mais chamá-la a nada sério.",
+      "conference_question": "Como distinguir arrependimento verdadeiro de desespero que paralisa a resposta vocacional?",
+      "anchors": [
+        "B04",
+        "G14"
+      ],
+      "facilitator_note": "Nomeie o pecado sem transformar a pessoa em caso perdido.",
+      "reading_points": [
+        {
+          "title": "Queda grave",
+          "body": "O pecado precisa ser reconhecido sem maquiagem."
+        },
+        {
+          "title": "Desespero enganoso",
+          "body": "A pessoa transforma a queda em sentença definitiva sobre si mesma."
+        },
+        {
+          "title": "Conversão possível",
+          "body": "A resposta cristã passa por confissão, reparação e retomada responsável do caminho."
+        }
+      ]
+    },
+    {
+      "id": "I15",
+      "term_id": "I15",
+      "call_label": "I15 - Escolha por conveniência",
+      "case": "Alguém pensa em casar porque isso acalma a família, ou em entrar no seminário porque evita enfrentar trabalho e responsabilidades.",
+      "conference_question": "Por que uma escolha aparentemente boa pode ser vocacionalmente falsa quando nasce de fuga ou conveniência?",
+      "anchors": [
+        "B05",
+        "B06"
+      ],
+      "facilitator_note": "Mostre que estados de vida bons podem ser buscados por motivações desordenadas.",
+      "reading_points": [
+        {
+          "title": "Motivo encoberto",
+          "body": "A decisão parece nobre, mas pode esconder fuga de conflito ou responsabilidade."
+        },
+        {
+          "title": "Bem não manipulado",
+          "body": "Matrimônio e sacerdócio não são refúgios para evitar amadurecimento."
+        },
+        {
+          "title": "Verdade da intenção",
+          "body": "Discernir exige examinar motivos, frutos e capacidade real de entrega."
+        }
+      ]
+    },
+    {
+      "id": "N01",
+      "term_id": "N01",
+      "call_label": "N01 - Autonomia sem Deus",
+      "case": "Uma pessoa organiza casamento, trabalho e fé dizendo que sua vida não deve contas a ninguém, nem mesmo a Deus.",
+      "conference_question": "Como desmontar a falsa autonomia sem negar que a resposta vocacional precisa ser livre?",
+      "anchors": [
+        "B05",
+        "G02"
+      ],
+      "facilitator_note": "Diferencie liberdade responsável de autossuficiência fechada.",
+      "reading_points": [
+        {
+          "title": "Vida como posse",
+          "body": "A pessoa trata a própria existência como propriedade sem origem nem finalidade."
+        },
+        {
+          "title": "Liberdade deformada",
+          "body": "Quando Deus é excluído, a liberdade perde o critério do bem verdadeiro."
+        },
+        {
+          "title": "Resposta filial",
+          "body": "A vocação pede liberdade, mas liberdade que reconhece o dom recebido."
+        }
+      ]
+    },
+    {
+      "id": "N02",
+      "term_id": "N02",
+      "call_label": "N02 - Santidade de poucos",
+      "case": "No escritório, uma funcionária diz que santidade é para padre e freira, e que nas negociações basta não ser pego fazendo coisa errada.",
+      "conference_question": "Por que essa narrativa torna a vida comum um lugar sem exigência cristã?",
+      "anchors": [
+        "B03",
+        "Lv 19,2",
+        "Mt 5,48"
+      ],
+      "facilitator_note": "Mostre que santidade é chamada universal, não privilégio de especialistas religiosos.",
+      "reading_points": [
+        {
+          "title": "Exceção confortável",
+          "body": "A fala transforma santidade em coisa distante para aliviar a própria consciência."
+        },
+        {
+          "title": "Chamado de todos",
+          "body": "Deus chama todo o seu povo à santidade, também no trabalho e nos negócios."
+        },
+        {
+          "title": "Vida sem divisão",
+          "body": "A vocação cristã impede separar fé dominical e moral cotidiana."
+        }
+      ]
+    },
+    {
+      "id": "N03",
+      "term_id": "N03",
+      "call_label": "N03 - Vocação como carreira",
+      "case": "Um rapaz compara seminário, casamento e concurso público perguntando qual caminho trará mais prestígio e segurança social.",
+      "conference_question": "Como diferenciar discernimento vocacional de cálculo de carreira disfarçado de escolha religiosa?",
+      "anchors": [
+        "B07",
+        "B14"
+      ],
+      "facilitator_note": "Não despreze necessidades materiais; mostre que prestígio não pode ser o critério decisivo.",
+      "reading_points": [
+        {
+          "title": "Critério de status",
+          "body": "O centro da escolha é a vantagem social, não a missão."
+        },
+        {
+          "title": "Vocação reduzida",
+          "body": "Quando vira carreira, a vocação perde o caráter de dom e serviço."
+        },
+        {
+          "title": "Missão purifica",
+          "body": "A pergunta correta inclui amor, entrega, obediência e fecundidade espiritual."
+        }
+      ]
+    },
+    {
+      "id": "N04",
+      "term_id": "N04",
+      "call_label": "N04 - Sentimento manda",
+      "case": "Um casal decide abandonar qualquer plano de casamento porque a empolgação inicial diminuiu e conclui que amor verdadeiro nunca exige esforço.",
+      "conference_question": "Como reconhecer o valor dos sentimentos sem permitir que eles governem compromissos e vocações?",
+      "anchors": [
+        "G01",
+        "G05"
+      ],
+      "facilitator_note": "Não negue os sentimentos; coloque-os no lugar correto dentro do discernimento.",
+      "reading_points": [
+        {
+          "title": "Emoção como juiz",
+          "body": "A diminuição da intensidade vira prova automática contra o compromisso."
+        },
+        {
+          "title": "Amor maior",
+          "body": "Sentimentos importam, mas não substituem aliança, decisão e virtude."
+        },
+        {
+          "title": "Discernir afetos",
+          "body": "A vocação pede afetos ordenados pela verdade, não impulsos comandando tudo."
+        }
+      ]
+    },
+    {
+      "id": "N05",
+      "term_id": "N05",
+      "call_label": "N05 - Pressa como certeza",
+      "case": "Após uma conversa emocionante, uma pessoa marca data para uma decisão definitiva e recusa qualquer conselho que peça tempo.",
+      "conference_question": "Por que a pressa pode parecer fé, mas esconder medo de discernir com profundidade?",
+      "anchors": [
+        "I02",
+        "G13"
+      ],
+      "facilitator_note": "Mostre que rapidez nem sempre é generosidade; às vezes é fuga da prova.",
+      "reading_points": [
+        {
+          "title": "Decisão acelerada",
+          "body": "A emoção empurra uma escolha que ainda não foi provada."
+        },
+        {
+          "title": "Certeza falsa",
+          "body": "Pressa pode criar sensação de segurança sem fundamento suficiente."
+        },
+        {
+          "title": "Tempo prudente",
+          "body": "O discernimento cristão respeita sinais, conselho, frutos e maturação."
+        }
+      ]
+    },
+    {
+      "id": "N06",
+      "term_id": "N06",
+      "call_label": "N06 - Casamento descartável",
+      "case": "Diante de desgastes ordinários, sem violência nem grave abandono, um casal trata a separação como primeira solução porque a relação ficou trabalhosa.",
+      "conference_question": "Como denunciar a lógica descartável sem ignorar que existem situações graves que exigem proteção?",
+      "anchors": [
+        "B09",
+        "CEC 1641-1642"
+      ],
+      "facilitator_note": "Inclua a distinção pastoral: fidelidade não é licença para abuso.",
+      "reading_points": [
+        {
+          "title": "Desgaste comum",
+          "body": "O cansaço real é tratado como motivo suficiente para descartar a aliança."
+        },
+        {
+          "title": "Vínculo sério",
+          "body": "O matrimônio não é contrato provisório dependente de facilidade."
+        },
+        {
+          "title": "Ajuda antes do descarte",
+          "body": "Crises ordinárias pedem conversão, diálogo e ajuda proporcional."
+        }
+      ]
+    },
+    {
+      "id": "N07",
+      "term_id": "N07",
+      "call_label": "N07 - Filhos como obstáculo",
+      "case": "Em uma roda de casais, alguém afirma que ter filhos é perder liberdade e que gente inteligente evita esse peso para sempre.",
+      "conference_question": "Como responder a essa narrativa sem negar que gerar e educar filhos exige responsabilidade real?",
+      "anchors": [
+        "B10",
+        "CEC 1601"
+      ],
+      "facilitator_note": "Evite simplismo; abertura à vida não é irresponsabilidade, e responsabilidade não é fechamento egoísta.",
+      "reading_points": [
+        {
+          "title": "Filho como peso",
+          "body": "A criança é descrita apenas como perda e ameaça ao conforto."
+        },
+        {
+          "title": "Amor fecundo",
+          "body": "A fé vê a fecundidade como dimensão do amor conjugal, não como acidente."
+        },
+        {
+          "title": "Responsabilidade generosa",
+          "body": "O casal discerne com Deus, sem transformar os filhos em inimigos da liberdade."
+        }
+      ]
+    },
+    {
+      "id": "N08",
+      "term_id": "N08",
+      "call_label": "N08 - Celibato inútil",
+      "case": "Durante um almoço, alguém zomba de um consagrado dizendo que uma vida sem casamento e sem filhos não deixa nada no mundo.",
+      "conference_question": "Que visão de fecundidade permite reconhecer o valor do celibato pelo Reino?",
+      "anchors": [
+        "B15",
+        "CEC 1620"
+      ],
+      "facilitator_note": "Não coloque celibato contra matrimônio; ambos são bens quando vividos em Deus.",
+      "reading_points": [
+        {
+          "title": "Fecundidade reduzida",
+          "body": "A fala mede uma vida apenas por descendência biológica e patrimônio."
+        },
+        {
+          "title": "Entrega fecunda",
+          "body": "O celibato pelo Reino testemunha amor real e fecundidade espiritual."
+        },
+        {
+          "title": "Sinal do Reino",
+          "body": "Essa vocação aponta para Deus como bem definitivo e para a vida futura."
+        }
+      ]
+    },
+    {
+      "id": "N09",
+      "term_id": "N09",
+      "call_label": "N09 - Sacerdócio como status",
+      "case": "Um seminarista gosta de ser servido, exige tratamento especial e evita visitar doentes porque isso não combina com a imagem que deseja passar.",
+      "conference_question": "Por que o desejo de status é incompatível com o sacerdócio entendido como serviço ministerial?",
+      "anchors": [
+        "B14",
+        "CEC 1551"
+      ],
+      "facilitator_note": "Não use o caso para julgar vocações reais; use-o para discernir motivações.",
+      "reading_points": [
+        {
+          "title": "Imagem buscada",
+          "body": "O foco está em deferência e aparência, não no cuidado do povo."
+        },
+        {
+          "title": "Ministério deformado",
+          "body": "A autoridade ordenada existe para servir, não para alimentar vaidade."
+        },
+        {
+          "title": "Critério de Cristo",
+          "body": "O chamado sacerdotal precisa ser purificado pelo modelo de Cristo Pastor e Servo."
+        }
+      ]
+    },
+    {
+      "id": "N10",
+      "term_id": "N10",
+      "call_label": "N10 - Direito à ordenação",
+      "case": "Um candidato afirma que, por desejar muito o sacerdócio, a Igreja é injusta se não o ordenar.",
+      "conference_question": "Como distinguir desejo sincero de pretensão de exigir um sacramento como direito pessoal?",
+      "anchors": [
+        "CEC 1577",
+        "CEC 1578"
+      ],
+      "facilitator_note": "Explique com serenidade a doutrina: ninguém se ordena a si mesmo, e a Igreja discerne o chamado.",
+      "reading_points": [
+        {
+          "title": "Desejo exigente",
+          "body": "O desejo pessoal é transformado em cobrança contra a Igreja."
+        },
+        {
+          "title": "Dom imerecido",
+          "body": "A Ordem é sacramento recebido como dom, não conquista por insistência."
+        },
+        {
+          "title": "Autoridade da Igreja",
+          "body": "Cabe à Igreja reconhecer e convocar quem deve receber as ordens."
+        }
+      ]
+    },
+    {
+      "id": "N11",
+      "term_id": "N11",
+      "call_label": "N11 - Serviço só se aparece",
+      "case": "Um voluntário aceita conduzir eventos no microfone, mas sempre falta quando a tarefa é limpar, carregar caixas ou visitar discretamente alguém doente.",
+      "conference_question": "Como perceber quando o serviço virou busca de palco, e não resposta à missão?",
+      "anchors": [
+        "B07",
+        "I10",
+        "Mc 10,45"
+      ],
+      "facilitator_note": "Não oponha visibilidade e serviço; o problema é recusar tudo que não rende reconhecimento.",
+      "reading_points": [
+        {
+          "title": "Seleção interessada",
+          "body": "A pessoa escolhe tarefas pelo brilho que dão, não pela necessidade real."
+        },
+        {
+          "title": "Serviço condicionado",
+          "body": "Quando só aparece onde há aplauso, a missão fica subordinada ao ego."
+        },
+        {
+          "title": "Purificação da intenção",
+          "body": "Servir no escondido ajuda a ordenar a vocação ao amor e não à vaidade."
+        }
+      ]
+    },
+    {
+      "id": "N12",
+      "term_id": "N12",
+      "call_label": "N12 - Família perfeita primeiro",
+      "case": "Um casal que veio de lares feridos acha que não pode ensinar a fé aos filhos porque sua história familiar não foi exemplar.",
+      "conference_question": "Como distinguir reconhecer feridas reais de concluir falsamente que só famílias perfeitas transmitem fé?",
+      "anchors": [
+        "B12",
+        "CEC 1656"
+      ],
+      "facilitator_note": "Evite romantizar feridas; mostre que graça e responsabilidade podem agir em famílias concretas.",
+      "reading_points": [
+        {
+          "title": "Ferida herdada",
+          "body": "A história familiar pesa e pode gerar insegurança real."
+        },
+        {
+          "title": "Ideal impossível",
+          "body": "A mentira está em exigir perfeição prévia para começar a transmitir a fé."
+        },
+        {
+          "title": "Fidelidade possível",
+          "body": "A Igreja doméstica cresce com passos concretos de oração, exemplo e reparação."
+        }
+      ]
+    },
+    {
+      "id": "N13",
+      "term_id": "N13",
+      "call_label": "N13 - Deus não chama pecador",
+      "case": "Depois de confessar um pecado grave, uma pessoa continua repetindo que Deus só chama gente limpa e que ela perdeu seu lugar para sempre.",
+      "conference_question": "Como responder a essa mentira sem diminuir a gravidade do pecado cometido?",
+      "anchors": [
+        "B04",
+        "I14"
+      ],
+      "facilitator_note": "Mantenha juntos arrependimento, misericórdia, reparação e esperança.",
+      "reading_points": [
+        {
+          "title": "Vergonha prolongada",
+          "body": "A pessoa não nega o pecado, mas transforma a culpa em identidade definitiva."
+        },
+        {
+          "title": "Mentira espiritual",
+          "body": "Dizer que Deus não chama pecadores cancela a força da graça e da conversão."
+        },
+        {
+          "title": "Caminho de retorno",
+          "body": "A resposta cristã passa por confissão, reparação e perseverança humilde."
+        }
+      ]
+    },
+    {
+      "id": "N14",
+      "term_id": "N14",
+      "call_label": "N14 - Amor sem compromisso",
+      "case": "Um homem quer morar com a namorada, manter outras possibilidades abertas e evitar qualquer promessa, mas chama isso de amor maduro.",
+      "conference_question": "Por que compromisso, fidelidade e verdade não são inimigos do amor, mas critérios para reconhecê-lo?",
+      "anchors": [
+        "B08",
+        "G05"
+      ],
+      "facilitator_note": "Use linguagem limpa e direta; não banalize união sem compromisso como simples etapa neutra.",
+      "reading_points": [
+        {
+          "title": "Vínculo evitado",
+          "body": "A pessoa quer benefícios afetivos sem entrega estável e responsável."
+        },
+        {
+          "title": "Nome falso",
+          "body": "Chamar de maturidade a recusa da fidelidade distorce o amor."
+        },
+        {
+          "title": "Amor verdadeiro",
+          "body": "O amor conjugal pede aliança, verdade, abertura ao bem do outro e responsabilidade."
+        }
+      ]
+    },
+    {
+      "id": "N15",
+      "term_id": "N15",
+      "call_label": "N15 - Qualquer caminho serve",
+      "case": "Uma pessoa afirma que tanto faz casar, viver sem compromisso ou ignorar a fé, desde que cada escolha traga felicidade imediata.",
+      "conference_question": "Como a fé cristã distingue caminhos legítimos de escolhas que contradizem a verdade da vocação?",
+      "anchors": [
+        "B06",
+        "G03"
+      ],
+      "facilitator_note": "Não transforme discernimento em gosto pessoal; vocação tem relação com verdade e santidade.",
+      "reading_points": [
+        {
+          "title": "Relativismo prático",
+          "body": "Todas as escolhas são niveladas pelo prazer imediato."
+        },
+        {
+          "title": "Verdade da vocação",
+          "body": "Nem todo caminho que agrada conduz ao bem, à santidade e à missão."
+        },
+        {
+          "title": "Discernimento cristão",
+          "body": "A resposta a Deus exige avaliar objeto moral, frutos, compromissos e fidelidade à fé."
+        }
+      ]
+    },
+    {
+      "id": "G01",
+      "term_id": "G01",
+      "call_label": "G01 - Desejo e chamado",
+      "case": "Uma pessoa sente atração por vida familiar, missão entre pobres e oração litúrgica, e não sabe se isso é entusiasmo, talento ou vocação.",
+      "conference_question": "Como distinguir desejo passageiro, talento natural e possível sinal de chamado?",
+      "anchors": [
+        "B06",
+        "CEC 1578"
+      ],
+      "facilitator_note": "Ensine que desejos são dados importantes, mas precisam ser purificados e interpretados.",
+      "reading_points": [
+        {
+          "title": "Desejos misturados",
+          "body": "Há várias atrações boas, mas elas ainda não formam uma decisão clara."
+        },
+        {
+          "title": "Sinal não é prova",
+          "body": "Desejo pode apontar um caminho, mas não confirma sozinho a vocação."
+        },
+        {
+          "title": "Purificação",
+          "body": "O discernimento observa permanência, frutos, conselhos e liberdade diante de Deus."
+        }
+      ]
+    },
+    {
+      "id": "G02",
+      "term_id": "G02",
+      "call_label": "G02 - Liberdade e capricho",
+      "case": "Alguém cancela compromissos assumidos sempre que aparece uma vontade nova e chama isso de ser livre.",
+      "conference_question": "Qual é a diferença entre liberdade cristã e capricho que foge de qualquer vínculo?",
+      "anchors": [
+        "B05",
+        "N01"
+      ],
+      "facilitator_note": "Mostre que compromisso não é inimigo automático da liberdade.",
+      "reading_points": [
+        {
+          "title": "Vontade instável",
+          "body": "A pessoa confunde cada impulso novo com direito de romper tudo."
+        },
+        {
+          "title": "Capricho sem bem",
+          "body": "Capricho busca satisfação imediata; liberdade busca o bem verdadeiro."
+        },
+        {
+          "title": "Resposta vocacional",
+          "body": "A liberdade madura permite assumir uma vocação e permanecer nela com responsabilidade."
+        }
+      ]
+    },
+    {
+      "id": "G03",
+      "term_id": "G03",
+      "call_label": "G03 - Dom e projeto pessoal",
+      "case": "Uma mulher organiza a vida como plano perfeito de sucesso e só aceita uma vocação que confirme exatamente o roteiro que escreveu.",
+      "conference_question": "Como integrar projetos pessoais sem fazer deles a medida final do chamado de Deus?",
+      "anchors": [
+        "B05",
+        "B06"
+      ],
+      "facilitator_note": "Não despreze planejamento; mostre que plano pessoal precisa permanecer aberto ao dom.",
+      "reading_points": [
+        {
+          "title": "Roteiro fechado",
+          "body": "A pessoa aceita Deus apenas se Ele confirmar seu plano prévio."
+        },
+        {
+          "title": "Projeto limitado",
+          "body": "Projetos ajudam, mas podem se tornar ídolos quando não aceitam correção."
+        },
+        {
+          "title": "Dom acolhido",
+          "body": "A vocação pede disponibilidade para receber de Deus um caminho maior que o controle pessoal."
+        }
+      ]
+    },
+    {
+      "id": "G04",
+      "term_id": "G04",
+      "call_label": "G04 - Santidade e estado de vida",
+      "case": "Em uma conversa, alguém afirma que padre é automaticamente mais santo que casado, e que solteiro no mundo quase não tem vocação.",
+      "conference_question": "Como distinguir a dignidade dos estados de vida da santidade concreta de quem os vive?",
+      "anchors": [
+        "B03",
+        "CEC 1620"
+      ],
+      "facilitator_note": "Evite competição entre vocações; cada estado tem exigências e graças próprias.",
+      "reading_points": [
+        {
+          "title": "Ranking falso",
+          "body": "A fala transforma estados de vida em escala automática de santidade."
+        },
+        {
+          "title": "Chamado comum",
+          "body": "Todo batizado é chamado à santidade no próprio caminho."
+        },
+        {
+          "title": "Fidelidade concreta",
+          "body": "A santidade aparece na resposta fiel à graça, não apenas no título do estado de vida."
+        }
+      ]
+    },
+    {
+      "id": "G05",
+      "term_id": "G05",
+      "call_label": "G05 - Matrimônio e paixão",
+      "case": "Um casal atravessa um período de pouca emoção, mas continua dialogando, rezando, cuidando dos filhos e buscando ajuda.",
+      "conference_question": "O que esse caso mostra sobre a diferença entre paixão e amor conjugal?",
+      "anchors": [
+        "B08",
+        "B11"
+      ],
+      "facilitator_note": "Não negue a importância da afetividade; coloque-a dentro do amor de aliança.",
+      "reading_points": [
+        {
+          "title": "Afeto oscilante",
+          "body": "A emoção diminui, mas a responsabilidade assumida permanece."
+        },
+        {
+          "title": "Aliança mais profunda",
+          "body": "O matrimônio não depende apenas da intensidade afetiva do momento."
+        },
+        {
+          "title": "Graça e decisão",
+          "body": "O amor conjugal amadurece com fidelidade, cuidado, oração e ajuda concreta."
+        }
+      ]
+    },
+    {
+      "id": "G06",
+      "term_id": "G06",
+      "call_label": "G06 - Fidelidade e prisão",
+      "case": "Uma mulher sofre agressões do marido, e parentes dizem que, por ser casada na Igreja, ela deve ficar calada e suportar tudo.",
+      "conference_question": "Como defender a fidelidade matrimonial sem transformar a vítima em prisioneira da violência?",
+      "anchors": [
+        "B09",
+        "CEC 1641-1642"
+      ],
+      "facilitator_note": "Seja inequívoco: violência exige proteção, ajuda e providências; fidelidade não manda sofrer abuso calado.",
+      "reading_points": [
+        {
+          "title": "Violência nomeada",
+          "body": "O caso envolve agressão, não simples desgaste conjugal."
+        },
+        {
+          "title": "Fidelidade mal usada",
+          "body": "A doutrina é deformada quando serve para prender a vítima no perigo."
+        },
+        {
+          "title": "Proteção justa",
+          "body": "Defender o vínculo não elimina o dever de proteger a vida e buscar ajuda competente."
+        }
+      ]
+    },
+    {
+      "id": "G07",
+      "term_id": "G07",
+      "call_label": "G07 - Fecundidade e utilidade",
+      "case": "Um casal que não consegue ter filhos ouve que seu casamento serve para pouco, já que não gerou descendência.",
+      "conference_question": "Como distinguir fecundidade cristã de uma visão utilitarista sobre o valor do casal?",
+      "anchors": [
+        "B10",
+        "CEC 1604"
+      ],
+      "facilitator_note": "Fale com delicadeza; infertilidade pode ser ferida real, e fecundidade não é produtividade.",
+      "reading_points": [
+        {
+          "title": "Ferida exposta",
+          "body": "A dor da infertilidade é agravada por uma avaliação cruel do casamento."
+        },
+        {
+          "title": "Utilidade falsa",
+          "body": "A dignidade dos esposos não depende de produtividade biológica."
+        },
+        {
+          "title": "Fecundidade ampla",
+          "body": "O amor conjugal permanece chamado à vida, ao cuidado, à educação e ao bem fecundo."
+        }
+      ]
+    },
+    {
+      "id": "G08",
+      "term_id": "G08",
+      "call_label": "G08 - Celibato e solidão",
+      "case": "Uma mulher solteira serve muito, mas volta sempre para uma casa vazia e começa a confundir a própria solidão com ausência de vocação.",
+      "conference_question": "Como distinguir celibato vivido como entrega de solidão ferida que precisa de cuidado e comunhão?",
+      "anchors": [
+        "B15",
+        "CEC 1658"
+      ],
+      "facilitator_note": "Não romantize solidão; a Igreja deve cuidar concretamente de pessoas sem família próxima.",
+      "reading_points": [
+        {
+          "title": "Solidão concreta",
+          "body": "A pessoa vive serviço real, mas também experimenta falta de vínculos."
+        },
+        {
+          "title": "Distinção necessária",
+          "body": "Celibato pelo Reino não é o mesmo que abandono afetivo ou invisibilidade."
+        },
+        {
+          "title": "Comunhão cristã",
+          "body": "A resposta inclui reconhecer vocação, abrir vínculos e cuidar da solidão real."
+        }
+      ]
+    },
+    {
+      "id": "G09",
+      "term_id": "G09",
+      "call_label": "G09 - Acolhida e aprovação",
+      "case": "Uma pessoa em situação moral irregular procura a comunidade; alguns querem expulsá-la, outros querem dizer que nada precisa mudar.",
+      "conference_question": "Como acolher uma pessoa com caridade sem aprovar o pecado nem humilhar quem precisa de conversão?",
+      "anchors": [
+        "B04",
+        "B03"
+      ],
+      "facilitator_note": "Mantenha juntos verdade e caridade; evite tanto dureza quanto relativização.",
+      "reading_points": [
+        {
+          "title": "Dois extremos",
+          "body": "A cena oscila entre rejeição da pessoa e negação da exigência moral."
+        },
+        {
+          "title": "Pessoa e ato",
+          "body": "Acolher a pessoa não significa aprovar tudo que ela vive."
+        },
+        {
+          "title": "Caminho de conversão",
+          "body": "A resposta cristã une respeito, verdade, acompanhamento e chamado à santidade."
+        }
+      ]
+    },
+    {
+      "id": "G10",
+      "term_id": "G10",
+      "call_label": "G10 - Autoridade e abuso",
+      "case": "Um diretor espiritual manda uma jovem romper com a família e escolher um caminho específico, sem permitir perguntas nem outro acompanhamento.",
+      "conference_question": "Como distinguir autoridade espiritual legítima de abuso que invade a consciência?",
+      "anchors": [
+        "B14",
+        "CEC 1551"
+      ],
+      "facilitator_note": "Afirme a necessidade de acompanhamento, mas também seus limites éticos e eclesiais.",
+      "reading_points": [
+        {
+          "title": "Controle da consciência",
+          "body": "A orientação deixa de iluminar e passa a substituir a liberdade da pessoa."
+        },
+        {
+          "title": "Autoridade servidora",
+          "body": "Autoridade espiritual legítima serve à verdade e não se apropria da vida alheia."
+        },
+        {
+          "title": "Limite necessário",
+          "body": "A pessoa pode buscar outro acompanhamento e proteção diante de manipulação."
+        }
+      ]
+    },
+    {
+      "id": "G11",
+      "term_id": "G11",
+      "call_label": "G11 - Serviço e protagonismo",
+      "case": "Um coordenador faz boas obras, mas precisa controlar todas as decisões e se irrita quando outra pessoa recebe reconhecimento.",
+      "conference_question": "Que sinais mostram que o serviço começou a virar protagonismo desordenado?",
+      "anchors": [
+        "B07",
+        "N11"
+      ],
+      "facilitator_note": "Ajude a turma a perceber que o bem feito não justifica posse da missão.",
+      "reading_points": [
+        {
+          "title": "Bem misturado",
+          "body": "Há serviço real, mas acompanhado de controle e ciúme."
+        },
+        {
+          "title": "Protagonismo desordenado",
+          "body": "A missão vira extensão da própria imagem quando não aceita partilha."
+        },
+        {
+          "title": "Serviço purificado",
+          "body": "Servir cristãmente é buscar o bem da obra, não a centralidade pessoal."
+        }
+      ]
+    },
+    {
+      "id": "G12",
+      "term_id": "G12",
+      "call_label": "G12 - Conselho e pressão",
+      "case": "Uma mãe diz à filha que a apoiará apenas se ela escolher o curso, o namoro e o futuro que a família considera aceitáveis.",
+      "conference_question": "Como distinguir conselho responsável de pressão que usa afeto para controlar a vocação?",
+      "anchors": [
+        "B06",
+        "I12"
+      ],
+      "facilitator_note": "Mostre que conselho pode ser firme sem virar chantagem emocional.",
+      "reading_points": [
+        {
+          "title": "Afeto condicionado",
+          "body": "O apoio familiar é oferecido como prêmio pela obediência ao plano dos pais."
+        },
+        {
+          "title": "Pressão disfarçada",
+          "body": "A pressão substitui discernimento por medo de perder amor ou aprovação."
+        },
+        {
+          "title": "Conselho verdadeiro",
+          "body": "O bom conselho ajuda a ver a verdade e respeita a consciência diante de Deus."
+        }
+      ]
+    },
+    {
+      "id": "G13",
+      "term_id": "G13",
+      "call_label": "G13 - Sinais e certeza total",
+      "case": "Um homem espera uma prova extraordinária de Deus antes de dar qualquer passo, mesmo recebendo conselhos, paz perseverante e frutos concretos.",
+      "conference_question": "Como distinguir busca prudente de sinais de exigência de certeza total antes de obedecer?",
+      "anchors": [
+        "B06",
+        "N05"
+      ],
+      "facilitator_note": "Mostre que Deus não é obrigado a dar controle absoluto do futuro.",
+      "reading_points": [
+        {
+          "title": "Paralisia piedosa",
+          "body": "A pessoa usa a espera por um sinal perfeito para não agir."
+        },
+        {
+          "title": "Sinais suficientes",
+          "body": "Discernimento trabalha com sinais prudentes, frutos, conselho e paz durável."
+        },
+        {
+          "title": "Passo de fé",
+          "body": "Responder à vocação exige confiança, não domínio completo do amanhã."
+        }
+      ]
+    },
+    {
+      "id": "G14",
+      "term_id": "G14",
+      "call_label": "G14 - Queda e identidade",
+      "case": "Um seminarista erra gravemente, assume a culpa, mas passa a dizer que agora é apenas hipócrita e não pode mais ser amado por Deus.",
+      "conference_question": "Como distinguir responsabilidade pelo pecado de identidade reduzida à própria queda?",
+      "anchors": [
+        "B04",
+        "N13"
+      ],
+      "facilitator_note": "Não minimize a queda; ensine a diferença entre culpa, conversão e desespero.",
+      "reading_points": [
+        {
+          "title": "Culpa real",
+          "body": "O erro foi grave e não deve ser explicado como detalhe sem importância."
+        },
+        {
+          "title": "Identidade reduzida",
+          "body": "A pessoa passa de reconhecer o pecado a se definir totalmente por ele."
+        },
+        {
+          "title": "Conversão concreta",
+          "body": "A resposta cristã pede verdade, reparação, acompanhamento e esperança."
+        }
+      ]
+    },
+    {
+      "id": "G15",
+      "term_id": "G15",
+      "call_label": "G15 - Espera e passividade",
+      "case": "Uma pessoa diz que espera Deus mostrar a vocação, mas não reza com constância, não se forma, não conversa com ninguém e não assume serviço algum.",
+      "conference_question": "Como distinguir espera confiante de passividade que evita qualquer passo concreto?",
+      "anchors": [
+        "B06",
+        "I01"
+      ],
+      "facilitator_note": "Mostre que esperar em Deus inclui cooperação ativa e prudente.",
+      "reading_points": [
+        {
+          "title": "Espera vazia",
+          "body": "A pessoa usa a palavra esperar para não dar passos de discernimento."
+        },
+        {
+          "title": "Passividade disfarçada",
+          "body": "Sem oração, formação e serviço, a espera perde conteúdo cristão."
+        },
+        {
+          "title": "Cooperação",
+          "body": "Esperar o tempo de Deus inclui agir com prudência e fidelidade cotidiana."
+        }
+      ]
+    },
+    {
+      "id": "O01",
+      "term_id": "O01",
+      "call_label": "O01 - Rezar pela vocação",
+      "case": "Uma pessoa separa dez minutos por dia para perguntar a Deus pelo próprio caminho e anotar o que percebe, sem decidir tudo no impulso.",
+      "conference_question": "Como a oração pela vocação pode ser concreta sem virar fuga das decisões reais?",
+      "anchors": [
+        "B06",
+        "Ef 1,9-10"
+      ],
+      "facilitator_note": "Aponte uma prática simples e sustentada, sem prometer respostas automáticas.",
+      "reading_points": [
+        {
+          "title": "Tempo reservado",
+          "body": "A oração deixa de ser ideia vaga e ganha lugar concreto na rotina."
+        },
+        {
+          "title": "Escuta ordenada",
+          "body": "A pessoa pergunta a Deus sem exigir resposta imediata ou espetacular."
+        },
+        {
+          "title": "Discernimento fiel",
+          "body": "Rezar prepara a liberdade para reconhecer sinais e dar passos proporcionais."
+        }
+      ]
+    },
+    {
+      "id": "O02",
+      "term_id": "O02",
+      "call_label": "O02 - Nomear desejos",
+      "case": "Antes de conversar com o orientador, uma jovem escreve o que a atrai, o que teme e quais motivações talvez sejam vaidade ou fuga.",
+      "conference_question": "Por que nomear desejos ajuda mais no discernimento do que escondê-los ou obedecer cegamente a eles?",
+      "anchors": [
+        "G01",
+        "B06"
+      ],
+      "facilitator_note": "Mostre que sinceridade interior não é seguir tudo que se sente, mas trazer tudo à luz.",
+      "reading_points": [
+        {
+          "title": "Interior organizado",
+          "body": "A pessoa coloca em palavras desejos, medos e motivações misturadas."
+        },
+        {
+          "title": "Verdade sobre si",
+          "body": "O que é nomeado pode ser discernido; o que é escondido costuma governar em silêncio."
+        },
+        {
+          "title": "Purificação",
+          "body": "Desejos trazidos à luz podem ser purificados pela oração, pelo conselho e pela razão."
+        }
+      ]
+    },
+    {
+      "id": "O03",
+      "term_id": "O03",
+      "call_label": "O03 - Buscar direção espiritual",
+      "case": "Um homem marca acompanhamento mensal com um padre prudente, leva fatos concretos e aceita ouvir perguntas difíceis sobre sua vocação.",
+      "conference_question": "Que condições tornam a direção espiritual uma ajuda real, e não dependência ou aprovação automática?",
+      "anchors": [
+        "B06",
+        "CEC 1578"
+      ],
+      "facilitator_note": "Destaque regularidade, liberdade, fidelidade à Igreja e honestidade concreta.",
+      "reading_points": [
+        {
+          "title": "Acompanhamento sério",
+          "body": "A pessoa procura ajuda estável e não apenas uma opinião que confirme seu desejo."
+        },
+        {
+          "title": "Fatos e verdade",
+          "body": "O discernimento melhora quando trabalha com vida concreta e perguntas honestas."
+        },
+        {
+          "title": "Liberdade diante de Deus",
+          "body": "Boa direção espiritual ilumina a consciência sem tomar posse dela."
+        }
+      ]
+    },
+    {
+      "id": "O04",
+      "term_id": "O04",
+      "call_label": "O04 - Escutar a Igreja",
+      "case": "Um candidato ao sacerdócio aceita que seu desejo seja avaliado pelo seminário e pelo bispo, mesmo temendo uma resposta negativa.",
+      "conference_question": "Por que escutar a Igreja é parte do discernimento, especialmente quando a vocação envolve sacramento e ministério?",
+      "anchors": [
+        "CEC 1578",
+        "B13"
+      ],
+      "facilitator_note": "Explique que obediência eclesial não é humilhação, mas caminho próprio de certos chamados.",
+      "reading_points": [
+        {
+          "title": "Desejo submetido",
+          "body": "O candidato não se coloca como juiz final da própria ordenação."
+        },
+        {
+          "title": "Discernimento eclesial",
+          "body": "A Igreja tem responsabilidade de reconhecer e convocar ao ministério ordenado."
+        },
+        {
+          "title": "Humildade vocacional",
+          "body": "Escutar a Igreja protege a pessoa, o sacramento e o povo de Deus."
+        }
+      ]
+    },
+    {
+      "id": "O05",
+      "term_id": "O05",
+      "call_label": "O05 - Cultivar castidade",
+      "case": "Um casal decide evitar situações que sempre levam ao pecado, conversa sobre limites e volta à confissão depois de cair.",
+      "conference_question": "Como a castidade se torna resposta concreta de amor, e não apenas proibição externa?",
+      "anchors": [
+        "CEC 1632",
+        "B08"
+      ],
+      "facilitator_note": "Use linguagem séria e limpa; castidade ordena o amor e exige meios práticos.",
+      "reading_points": [
+        {
+          "title": "Limites concretos",
+          "body": "O casal identifica ocasiões de pecado e decide não brincar com elas."
+        },
+        {
+          "title": "Amor ordenado",
+          "body": "Castidade não nega o corpo; ordena corpo e afeto ao amor verdadeiro."
+        },
+        {
+          "title": "Recomeço sacramental",
+          "body": "Depois da queda, a resposta inclui confissão, mudança de hábitos e perseverança."
+        }
+      ]
+    },
+    {
+      "id": "O06",
+      "term_id": "O06",
+      "call_label": "O06 - Preparar o noivado",
+      "case": "No noivado, o casal agenda conversas sobre fé, dinheiro, filhos, trabalho, temperamento e feridas familiares antes de marcar a data final.",
+      "conference_question": "Por que uma preparação responsável pode tornar o sim matrimonial mais livre?",
+      "anchors": [
+        "CEC 1632",
+        "B08"
+      ],
+      "facilitator_note": "Mostre que preparação séria não é desconfiança; é respeito pelo sacramento e pelo outro.",
+      "reading_points": [
+        {
+          "title": "Assuntos essenciais",
+          "body": "O casal enfrenta temas que realmente sustentam ou ferem a vida comum."
+        },
+        {
+          "title": "Liberdade informada",
+          "body": "O sim é mais livre quando conhece responsabilidades e fragilidades reais."
+        },
+        {
+          "title": "Base cristã",
+          "body": "A preparação para o Matrimônio deve formar amor, fé, castidade e responsabilidade."
+        }
+      ]
+    },
+    {
+      "id": "O07",
+      "term_id": "O07",
+      "call_label": "O07 - Servir no escondido",
+      "case": "Um diácono passa a tarde levando Comunhão a enfermos e depois organiza discretamente os documentos de famílias que pediram ajuda.",
+      "conference_question": "Como o serviço escondido educa a pessoa para uma vocação menos centrada em si mesma?",
+      "anchors": [
+        "I10",
+        "G11",
+        "Mc 10,45"
+      ],
+      "facilitator_note": "Use o exemplo para mostrar que serviço concreto molda o coração vocacional.",
+      "reading_points": [
+        {
+          "title": "Cuidado discreto",
+          "body": "A tarefa é concreta, necessária e pouco visível."
+        },
+        {
+          "title": "Intenção purificada",
+          "body": "Servir sem aplauso ajuda a combater vaidade e protagonismo."
+        },
+        {
+          "title": "Forma de Cristo",
+          "body": "A vocação cristã amadurece quando aprende o caminho de Cristo Servo."
+        }
+      ]
+    },
+    {
+      "id": "O08",
+      "term_id": "O08",
+      "call_label": "O08 - Honrar a família possível",
+      "case": "Uma filha adulta ajuda a mãe doente, mas coloca limites claros quando o pai tenta manipular dinheiro e decisões usando culpa religiosa.",
+      "conference_question": "Como honrar a família sem encobrir pecado, manipulação ou violência?",
+      "anchors": [
+        "CEC 1656",
+        "G06"
+      ],
+      "facilitator_note": "Mostre que honrar não significa permitir abuso; inclui cuidado, verdade e limites.",
+      "reading_points": [
+        {
+          "title": "Cuidado real",
+          "body": "A filha não abandona a família e assume uma ajuda concreta."
+        },
+        {
+          "title": "Limite necessário",
+          "body": "A culpa religiosa é usada para manipular, e isso precisa ser nomeado."
+        },
+        {
+          "title": "Honra com verdade",
+          "body": "A resposta cristã une gratidão, responsabilidade, proteção e limites proporcionais."
+        }
+      ]
+    },
+    {
+      "id": "O09",
+      "term_id": "O09",
+      "call_label": "O09 - Proteger silêncio",
+      "case": "Uma pessoa deixa o celular fora do quarto por meia hora, lê o Evangelho do dia e permanece em silêncio antes de decidir sobre uma proposta importante.",
+      "conference_question": "Por que proteger silêncio é uma ação concreta de discernimento, e não luxo espiritual?",
+      "anchors": [
+        "B06",
+        "O01"
+      ],
+      "facilitator_note": "Aponte meios simples: tempo, lugar, desligar ruídos e perseverar.",
+      "reading_points": [
+        {
+          "title": "Ruído interrompido",
+          "body": "A pessoa cria uma condição concreta para escutar melhor."
+        },
+        {
+          "title": "Consciência desperta",
+          "body": "Sem silêncio, desejos, medos e pressões externas dominam mais facilmente."
+        },
+        {
+          "title": "Escuta de Deus",
+          "body": "O silêncio favorece oração, exame e liberdade para dar o passo certo."
+        }
+      ]
+    },
+    {
+      "id": "O10",
+      "term_id": "O10",
+      "call_label": "O10 - Corrigir idealizações",
+      "case": "Antes de decidir, uma mulher visita uma comunidade religiosa, conversa sobre rotina, conflitos, obediência, alegria e cansaço, e não só sobre a imagem bonita da vocação.",
+      "conference_question": "Como conhecer as exigências reais de uma vocação evita decisões baseadas em fantasia?",
+      "anchors": [
+        "G13",
+        "B07"
+      ],
+      "facilitator_note": "Mostre que realismo não apaga beleza; protege a liberdade da ilusão.",
+      "reading_points": [
+        {
+          "title": "Imagem incompleta",
+          "body": "A pessoa procura ver a vocação além das partes mais bonitas."
+        },
+        {
+          "title": "Realismo vocacional",
+          "body": "Toda vocação tem alegria, cruz, rotina, limites e responsabilidades."
+        },
+        {
+          "title": "Decisão mais livre",
+          "body": "Conhecer a realidade ajuda a responder a Deus sem fantasia nem medo exagerado."
+        }
+      ]
+    },
+    {
+      "id": "O11",
+      "term_id": "O11",
+      "call_label": "O11 - Pedir perdão e recomeçar",
+      "case": "Depois de ferir a esposa com palavras cruéis, um homem pede perdão sem se justificar, procura confissão e aceita acompanhamento para mudar o modo de falar.",
+      "conference_question": "Por que recomeçar exige mais do que dizer desculpa e seguir como antes?",
+      "anchors": [
+        "G14",
+        "B04"
+      ],
+      "facilitator_note": "Mostre que perdão cristão inclui verdade, mudança e reparação possível.",
+      "reading_points": [
+        {
+          "title": "Dano reconhecido",
+          "body": "A pessoa admite a ferida causada sem transferir culpa."
+        },
+        {
+          "title": "Conversão concreta",
+          "body": "O pedido de perdão vem acompanhado de confissão e mudança prática."
+        },
+        {
+          "title": "Recomeço responsável",
+          "body": "A graça permite levantar, mas não dispensa reparação e vigilância."
+        }
+      ]
+    },
+    {
+      "id": "O12",
+      "term_id": "O12",
+      "call_label": "O12 - Apoiar vocações sagradas",
+      "case": "Uma família reza por um seminarista, ajuda nas necessidades concretas e evita tratá-lo como celebridade ou como empregado da família.",
+      "conference_question": "Como apoiar vocações sagradas sem idolatrar a pessoa nem explorá-la?",
+      "anchors": [
+        "B13",
+        "B15"
+      ],
+      "facilitator_note": "Mostre apoio equilibrado: oração, cuidado, respeito, limites e correção quando necessário.",
+      "reading_points": [
+        {
+          "title": "Apoio concreto",
+          "body": "A família oferece oração e ajuda real, não apenas elogios."
+        },
+        {
+          "title": "Risco de deformação",
+          "body": "Tratar vocacionados como celebridades ou empregados fere a vocação."
+        },
+        {
+          "title": "Cuidado eclesial",
+          "body": "Apoiar vocações sagradas exige respeito, sobriedade e amor pela missão da Igreja."
+        }
+      ]
+    },
+    {
+      "id": "O13",
+      "term_id": "O13",
+      "call_label": "O13 - Discernir com fatos",
+      "case": "Antes de decidir entrar no seminário, um homem avalia perseverança na oração, maturidade afetiva, capacidade de serviço, saúde, estudos e conselhos recebidos.",
+      "conference_question": "Por que fatos concretos são necessários para discernir, além de entusiasmo e imaginação?",
+      "anchors": [
+        "G01",
+        "G13"
+      ],
+      "facilitator_note": "Explique que fatos não eliminam fé; ajudam a fé a discernir com prudência.",
+      "reading_points": [
+        {
+          "title": "Realidade observada",
+          "body": "A pessoa olha para sinais verificáveis da própria vida."
+        },
+        {
+          "title": "Entusiasmo insuficiente",
+          "body": "Emoção e desejo precisam ser confrontados com frutos e capacidades reais."
+        },
+        {
+          "title": "Prudência cristã",
+          "body": "Discernir com fatos protege a vocação de fantasia, fuga e precipitação."
+        }
+      ]
+    },
+    {
+      "id": "O14",
+      "term_id": "O14",
+      "call_label": "O14 - Escolher renúncias",
+      "case": "Uma pessoa percebe que certos ambientes, vícios digitais e relações ambíguas a afastam de Deus, e decide cortar acessos concretos.",
+      "conference_question": "Como a renúncia pode ser expressão de liberdade, e não perda sem sentido?",
+      "anchors": [
+        "G02",
+        "B05"
+      ],
+      "facilitator_note": "Mantenha a resposta concreta: cortar acesso, mudar rotina, pedir ajuda e sustentar decisão.",
+      "reading_points": [
+        {
+          "title": "Impedimentos nomeados",
+          "body": "A pessoa identifica hábitos e vínculos que enfraquecem a resposta a Deus."
+        },
+        {
+          "title": "Liberdade ordenada",
+          "body": "Renunciar não é desprezar a vida, mas escolher o bem maior."
+        },
+        {
+          "title": "Passo prático",
+          "body": "A vocação amadurece quando a pessoa corta ocasiões de pecado e assume meios de perseverança."
+        }
+      ]
+    },
+    {
+      "id": "O15",
+      "term_id": "O15",
+      "call_label": "O15 - Integrar solteiros",
+      "case": "Uma família passa a convidar uma vizinha viúva para refeições, inclui-a em decisões de ajuda comunitária e não a trata com pena.",
+      "conference_question": "Como integrar pessoas solteiras, viúvas ou sem família próxima de modo concreto e respeitoso?",
+      "anchors": [
+        "CEC 1658",
+        "I08"
+      ],
+      "facilitator_note": "Mostre que integração não é paternalismo; é pertença real na família da Igreja.",
+      "reading_points": [
+        {
+          "title": "Porta aberta",
+          "body": "A vizinha deixa de ser lembrada apenas em situações de emergência."
+        },
+        {
+          "title": "Sem pena humilhante",
+          "body": "Ela é incluída como pessoa capaz de conviver e servir, não como problema."
+        },
+        {
+          "title": "Família da Igreja",
+          "body": "A comunidade cristã deve abrir vínculos reais a quem está sem família próxima."
+        }
+      ]
+    }
+  ]
+}

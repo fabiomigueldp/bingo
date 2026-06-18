@@ -1,0 +1,308 @@
+{
+  "title": "Carta de explicações rápidas — Bingo A eutanásia",
+  "meeting": "Encontro 24 — A eutanásia",
+  "source_calls": "data/chamadas.json",
+  "purpose": "Explicações breves para o condutor usar durante a chamada de cada carta.",
+  "entries": [
+    {
+      "id": "B01",
+      "explanation": "O mandamento **Não matarás** protege a vida inocente também quando ela está frágil. A dor não autoriza transformar a morte em solução. A resposta cristã é cuidar, aliviar e acompanhar."
+    },
+    {
+      "id": "B02",
+      "explanation": "A pessoa vale porque é **imagem de Deus**, não porque conserva memória, força ou autonomia. A doença pode tirar capacidades, mas não tira dignidade. Por isso o cuidado não depende do desempenho do paciente."
+    },
+    {
+      "id": "B03",
+      "explanation": "A vida é **dom**, não propriedade absoluta. Isso não diminui a dor de quem sofre, mas corrige a ideia de poder total sobre a própria morte. A liberdade cristã responde a Deus e ao bem."
+    },
+    {
+      "id": "B04",
+      "explanation": "Deus é o **Criador e Senhor** da vida. Nenhum hospital, família ou Estado recebe autoridade para decidir que uma vida inocente deve ser eliminada. A gestão de crises não pode virar poder de matar."
+    },
+    {
+      "id": "B05",
+      "explanation": "A **dignidade do enfermo** exige respeito especial. Falar sobre ele como problema, custo ou peso já fere essa dignidade. A fé manda reconhecer a pessoa presente e cuidar dela."
+    },
+    {
+      "id": "B06",
+      "explanation": "A pessoa continua pessoa **até o fim**. Coma, terminalidade ou deficiência grave não transformam alguém em coisa. O discernimento clínico deve existir sem apagar a dignidade pessoal."
+    },
+    {
+      "id": "B07",
+      "explanation": "A vulnerabilidade exige **respeito especial**. Quem tem menos voz precisa de mais proteção, não de menos cuidado. A omissão diante do frágil abre caminho para abusos e falsas soluções."
+    },
+    {
+      "id": "B08",
+      "explanation": "A **eutanásia direta** provoca a morte para suprimir sofrimento. O Catecismo a considera moralmente inadmissível. A compaixão verdadeira nunca transforma matar em cuidado."
+    },
+    {
+      "id": "B09",
+      "explanation": "Na eutanásia, a **intenção de matar** é decisiva. Uma medicação pode aliviar dor, mas também pode ser usada para causar morte. O critério moral pergunta o que se quer, por que se quer e por que meio se age."
+    },
+    {
+      "id": "B10",
+      "explanation": "A **caridade que cuida** permanece quando a cura já não vem. Ela limpa, visita, alivia e escuta. Não é misericórdia matar; é misericórdia cuidar."
+    },
+    {
+      "id": "B11",
+      "explanation": "A **visita ao doente** é encontro concreto com Cristo. Muitas vezes ninguém consegue resolver a doença, mas pode romper o abandono. Presença fiel é cuidado real."
+    },
+    {
+      "id": "B12",
+      "explanation": "Os **cuidados devidos** permanecem mesmo quando a morte é iminente. Higiene, conforto, presença e alívio proporcionado não podem ser abandonados. Alimentação e hidratação pedem avaliação de proporção, nunca intenção de matar."
+    },
+    {
+      "id": "B13",
+      "explanation": "A **esperança cristã** não nega a gravidade da morte. Ela impede que o sofrimento seja lido como perda de valor ou abandono de Deus. A pessoa pode ser sustentada pela graça e pelo cuidado."
+    },
+    {
+      "id": "B14",
+      "explanation": "A **consciência formada** não decide por impulso, medo ou pressão. Diante da morte, é preciso buscar verdade, doutrina, informação médica séria e prudência. Consciência não é palpite; é juízo moral responsável."
+    },
+    {
+      "id": "B15",
+      "explanation": "O **sofrimento acompanhado** não é romantizado nem usado para justificar morte. A dor precisa ser aliviada com seriedade. A fé acompanha a pessoa no limite, sem abandonar nem eliminar."
+    },
+    {
+      "id": "I01",
+      "explanation": "O **pedido de morte** pode esconder dor, medo, solidão ou depressão. Ele deve ser levado a sério, mas não executado. A resposta correta é investigar o sofrimento e oferecer cuidado."
+    },
+    {
+      "id": "I02",
+      "explanation": "A **dor sem controle** é uma falha grave de cuidado. Quando a dor é abandonada, a morte começa a parecer solução. O caminho cristão exige analgesia proporcional e cuidados paliativos."
+    },
+    {
+      "id": "I03",
+      "explanation": "O **tratamento fútil** pode prolongar sofrimento sem servir ao paciente. Recusar esse tipo de procedimento pode ser legítimo. Isso é diferente de desejar ou provocar a morte."
+    },
+    {
+      "id": "I04",
+      "explanation": "A **UTI sem benefício** pode virar obstinação terapêutica. Nem todo suporte técnico é cuidado verdadeiro. A decisão prudente aceita limites da medicina e mantém cuidados devidos."
+    },
+    {
+      "id": "I05",
+      "explanation": "A **sedação no fim** pode ser moralmente lícita quando busca aliviar sofrimento intolerável. O ponto decisivo é não desejar a morte como fim nem como meio. A intenção e a proporção devem ficar claras."
+    },
+    {
+      "id": "I06",
+      "explanation": "A **alimentação suspensa** exige discernimento sério. Retirar cuidado proporcionado porque a pessoa não fala ou incomoda pode ser abandono. É preciso avaliar benefício, possibilidade e intenção."
+    },
+    {
+      "id": "I07",
+      "explanation": "O **idoso pressionado** pode aceitar a morte para não pesar sobre os outros. Essa pressão nem sempre aparece como ameaça direta. Proteger sua liberdade exige afirmar valor e oferecer apoio concreto."
+    },
+    {
+      "id": "I08",
+      "explanation": "No **coma prolongado**, a comunicação visível desaparece. A dignidade da pessoa, porém, permanece. O cuidado deve ser proporcional sem tratar o paciente como coisa."
+    },
+    {
+      "id": "I09",
+      "explanation": "A **deficiência grave** nunca torna a vida menos humana. A sociedade pode ter dificuldade de cuidar, mas não pode medir dignidade por autonomia. A resposta cristã é amparo e respeito especial."
+    },
+    {
+      "id": "I10",
+      "explanation": "A **família exausta** precisa de ajuda real. O cansaço explica a crise, mas não pode decidir o valor da vida do doente. Apoiar cuidadores protege todos."
+    },
+    {
+      "id": "I11",
+      "explanation": "O **médico pressionado** deve guardar a consciência e a finalidade da medicina. A competência profissional serve para cuidar, não para eliminar. Recusar eutanásia não é abandonar o paciente."
+    },
+    {
+      "id": "I12",
+      "explanation": "A **herança apressada** contamina o discernimento. Dinheiro, patrimônio e pressa não podem entrar no lugar do bem do paciente. O vulnerável precisa ser protegido contra interesses ocultos."
+    },
+    {
+      "id": "I13",
+      "explanation": "Quando o **seguro nega cuidado**, a pressão econômica cresce. A falta de alívio e orientação pode empurrar para escolhas erradas. Defender cuidado proporcional também é defender a vida."
+    },
+    {
+      "id": "I14",
+      "explanation": "A **solidão hospitalar** aumenta o sofrimento. Procedimento correto não substitui presença humana. Visitar, ligar e permanecer podem impedir que a pessoa se sinta descartada."
+    },
+    {
+      "id": "I15",
+      "explanation": "O **documento ambíguo** mistura coisas moralmente diferentes. Recusar tratamento fútil pode ser lícito; pedir morte provocada não. A vontade razoável deve ser registrada com clareza."
+    },
+    {
+      "id": "N01",
+      "explanation": "A **falsa compaixão** quer acabar com a dor eliminando quem sofre. Ela parece sensível, mas erra o objeto da ação. A compaixão cristã trata a dor e permanece com a pessoa."
+    },
+    {
+      "id": "N02",
+      "explanation": "A **falsa dignidade** usa palavras nobres para defender morte provocada. Dignidade não significa poder ser morto quando a vida pesa. Morrer com dignidade é ser cuidado e respeitado até o fim."
+    },
+    {
+      "id": "N03",
+      "explanation": "A **mentira de ser peso** nasce quando a pessoa mede sua vida pelo trabalho que dá. Dependência não retira valor. A resposta é afirmar dignidade e organizar ajuda concreta."
+    },
+    {
+      "id": "N04",
+      "explanation": "A lógica da **vida sem utilidade** mede pessoas por produção, autonomia ou economia. Isso contradiz a fé cristã. O ser humano vale por ser pessoa criada por Deus."
+    },
+    {
+      "id": "N05",
+      "explanation": "A **autonomia absoluta** transforma liberdade em poder ilimitado. Mas a vida é dom e responsabilidade diante de Deus. Nenhuma escolha pessoal autoriza exigir que outro mate."
+    },
+    {
+      "id": "N06",
+      "explanation": "Quando o **custo decide a vida**, os vulneráveis se tornam descartáveis. Limites econômicos existem, mas não podem definir quem deve morrer. A justiça administra recursos sem eliminar pessoas."
+    },
+    {
+      "id": "N07",
+      "explanation": "A narrativa da **dor sem sentido** conclui que sofrer é perder valor. Isso é falso. A dor deve ser aliviada e acompanhada, não usada como sentença contra a vida."
+    },
+    {
+      "id": "N08",
+      "explanation": "Chamar a **morte como cuidado** confunde palavras e consciências. Cuidar é aliviar e acompanhar; eutanásia é provocar a morte. A verdade da linguagem protege o doente."
+    },
+    {
+      "id": "N09",
+      "explanation": "O **progresso que elimina** chama de avanço aquilo que enfraquece os frágeis. Uma sociedade não se torna mais humana quando facilita matar vulneráveis. O progresso real cuida melhor."
+    },
+    {
+      "id": "N10",
+      "explanation": "A ideia **legal então moral** confunde lei civil com lei moral. Uma prática permitida pode continuar gravemente errada. A consciência cristã deve ser formada pela verdade."
+    },
+    {
+      "id": "N11",
+      "explanation": "Dizer **só antecipar o fim** minimiza um ato grave. A proximidade da morte não autoriza provocá-la. Até o último momento permanece o dever de não matar e de cuidar."
+    },
+    {
+      "id": "N12",
+      "explanation": "O **amor que elimina** é amor ferido e desordenado. Ele quer tirar a dor, mas acaba tirando a vida da pessoa amada. A caridade verdadeira permanece e protege."
+    },
+    {
+      "id": "N13",
+      "explanation": "A **invisibilidade cômoda** abandona o doente e depois chama a morte de solução. Quando ninguém visita, a vida parece mais descartável. A resposta cristã rompe o isolamento."
+    },
+    {
+      "id": "N14",
+      "explanation": "O **cansaço como critério** nasce de um sofrimento real dos cuidadores. Mesmo assim, cansaço não mede o valor do doente. Ele pede apoio, revezamento e orientação."
+    },
+    {
+      "id": "N15",
+      "explanation": "A **escolha sem ferida** apresenta a eutanásia como ato privado e limpo. Mas ela envolve paciente, família, profissionais e cultura. Normalizar matar fere todo o tecido moral."
+    },
+    {
+      "id": "G01",
+      "explanation": "**Matar ou permitir morrer** são realidades diferentes. Recusar obstinação aceita que a morte não pode ser impedida. Eutanásia provoca a morte e por isso é inadmissível."
+    },
+    {
+      "id": "G02",
+      "explanation": "**Intenção ou efeito** é distinção decisiva. Aliviar dor pode ter riscos previstos, mas não desejados. Querer a morte como fim ou meio muda a natureza moral do ato."
+    },
+    {
+      "id": "G03",
+      "explanation": "**Dor ou desespero** pedem respostas diferentes. Dor física exige tratamento; desespero exige escuta, presença e proteção. O pedido de morte não deve ser lido de modo simplista."
+    },
+    {
+      "id": "G04",
+      "explanation": "**Ordinário ou extraordinário** evita confusões graves. Cuidados comumente devidos permanecem. Tratamentos extraordinários e desproporcionais podem ser recusados sem intenção de matar."
+    },
+    {
+      "id": "G05",
+      "explanation": "**Proporcionado ou fútil** pergunta se o recurso serve ao bem real do paciente. Nem todo procedimento possível é obrigatório. A técnica deve estar a serviço da pessoa."
+    },
+    {
+      "id": "G06",
+      "explanation": "**Sedação ou eutanásia** podem parecer próximas por fora. A diferença está na intenção, no meio e na proporção. Sedar para aliviar pode ser lícito; sedar para matar não."
+    },
+    {
+      "id": "G07",
+      "explanation": "**Cuidado ou obstinação** distingue permanecer fiel de insistir em técnica inútil. Recusar obstinação não significa abandonar. Significa cuidar de modo proporcionado quando curar não é possível."
+    },
+    {
+      "id": "G08",
+      "explanation": "**Pessoa ou condição** é distinção fundamental. Terminal, inconsciente ou dependente descreve uma situação clínica. Nenhuma dessas palavras substitui o nome e a dignidade da pessoa."
+    },
+    {
+      "id": "G09",
+      "explanation": "**Autonomia ou abandono** mostra que escolha sem apoio pode ser pressão disfarçada. Respeitar o paciente inclui oferecer cuidado real. Sem alternativas, a liberdade fica ferida."
+    },
+    {
+      "id": "G10",
+      "explanation": "**Culpa ou responsabilidade** une verdade e misericórdia. O ato de eutanásia continua grave em si. A responsabilidade pessoal pode ser diminuída por medo, ignorância ou pressão."
+    },
+    {
+      "id": "G11",
+      "explanation": "**Desejo ou pedido** não são sempre decisão estável. A frase quero morrer pode surgir no auge da dor ou solidão. Escutar bem significa cuidar antes de concluir."
+    },
+    {
+      "id": "G12",
+      "explanation": "**Consciência ou pressão** pergunta de onde nasce a decisão. Medo, custos e pressa podem deformar a liberdade. A consciência precisa de verdade, tempo e orientação."
+    },
+    {
+      "id": "G13",
+      "explanation": "**Misericórdia ou banalização** distingue cuidado profundo de linguagem fácil. A misericórdia se aproxima do sofredor. A banalização transforma a morte provocada em rotina aceitável."
+    },
+    {
+      "id": "G14",
+      "explanation": "**Aceitar ou provocar** é uma distinção central. Aceitar a morte inevitável pode ser prudente. Provocar a morte de alguém inocente é eutanásia e deve ser excluído."
+    },
+    {
+      "id": "G15",
+      "explanation": "**Prudência ou omissão** ajuda a não confundir limites da medicina com abandono. Pode ser prudente não insistir em tratamento inútil. Mas cuidados devidos e presença devem continuar."
+    },
+    {
+      "id": "O01",
+      "explanation": "**Controlar a dor** é resposta concreta e urgente. Dor mal tratada pode alimentar pedidos de morte. Buscar analgesia proporcional é forma séria de cuidado cristão."
+    },
+    {
+      "id": "O02",
+      "explanation": "**Buscar paliativos** não é desistir do paciente. É mudar o foco para aliviar sofrimento e acompanhar integralmente. O Catecismo chama esse cuidado de caridade desinteressada."
+    },
+    {
+      "id": "O03",
+      "explanation": "**Recusar obstinação** pode ser moralmente correto. Não se quer matar; aceita-se que certo tratamento já não serve ao paciente. O cuidado devido deve continuar."
+    },
+    {
+      "id": "O04",
+      "explanation": "**Manter cuidados devidos** impede que o fim da cura vire abandono. Higiene, conforto, alívio e presença expressam dignidade. Cuidar continua mesmo quando curar não é possível."
+    },
+    {
+      "id": "O05",
+      "explanation": "**Escutar sem matar** leva o pedido de morte a sério. A resposta não é executar a morte, mas descobrir dor, medo e solidão. Escuta verdadeira abre caminho de cuidado."
+    },
+    {
+      "id": "O06",
+      "explanation": "**Decidir em conjunto** reduz pressa, pressão e erro. O paciente capaz deve ser ouvido, e os responsáveis legítimos devem buscar seu bem. A decisão precisa ser informada e prudente."
+    },
+    {
+      "id": "O07",
+      "explanation": "**Pedir segunda opinião** é prudente quando há dúvida grave. Isso ajuda a avaliar diagnóstico, proporção e alternativas. Não é fuga, desde que conduza a uma decisão responsável."
+    },
+    {
+      "id": "O08",
+      "explanation": "**Proteger o vulnerável** é dever cristão e humano. Idosos, doentes e inconscientes podem sofrer pressão sem conseguir se defender. A proteção exige escuta segura e medidas competentes."
+    },
+    {
+      "id": "O09",
+      "explanation": "**Acompanhar a família** também protege o doente. Cuidadores exaustos precisam de descanso, revezamento e orientação. Sem apoio, o cansaço pode deformar decisões graves."
+    },
+    {
+      "id": "O10",
+      "explanation": "**Chamar assistência espiritual** é cuidado real. Oração, sacramentos e escuta ajudam a pessoa a viver o fim diante de Deus. Isso não substitui tratamento nem justifica abandono."
+    },
+    {
+      "id": "O11",
+      "explanation": "**Falar com verdade** protege a consciência. Termos vagos podem esconder eutanásia ou confundir recusa de obstinação com abandono. Decisões sérias exigem palavras claras."
+    },
+    {
+      "id": "O12",
+      "explanation": "**Organizar presença** transforma intenção em cuidado concreto. Visitas curtas, ligações e ajuda prática combatem a solidão. A caridade precisa de tempo e compromisso possível."
+    },
+    {
+      "id": "O13",
+      "explanation": "**Registrar vontade razoável** pode evitar confusão no fim da vida. O registro deve recusar tratamentos fúteis e pedir cuidados devidos. Não pode incluir pedido de morte provocada."
+    },
+    {
+      "id": "O14",
+      "explanation": "**Denunciar abandono** é proteger a vida vulnerável. Negligência, maus-tratos e recusa injusta de cuidado não devem ser escondidos. A ação deve ser factual, prudente e dirigida a responsáveis competentes."
+    },
+    {
+      "id": "O15",
+      "explanation": "**Sustentar profissionais** fiéis à consciência protege a medicina. Recusar cooperar com eutanásia não é abandonar o paciente. É manter o cuidado sem transformar a profissão em instrumento de morte."
+    }
+  ]
+}

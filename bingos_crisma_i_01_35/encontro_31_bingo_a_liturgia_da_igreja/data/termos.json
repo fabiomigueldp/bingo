@@ -1,0 +1,1134 @@
+{
+  "title": "Bingo — A liturgia da Igreja",
+  "meeting": "Encontro 31 — A liturgia da Igreja",
+  "meeting_label": "Encontro 31",
+  "output_slug": "bingo_a_liturgia_da_igreja",
+  "core_message": "Na liturgia, Cristo age em sua Igreja para glorificar o Pai e santificar os homens; por isso, participar dela exige fé, reverência, atenção e obediência ao mistério celebrado.",
+  "source_meeting_markdown": "projects/catequese/material_didatico/output/markdown/encontro_31.md",
+  "scripture": [
+    "Ap 7,9-12",
+    "1Pd 2,9",
+    "At 2,42",
+    "Lc 22,19-20",
+    "1Cor 11,23-26",
+    "Hb 10,25",
+    "Jo 4,23-24",
+    "Sl 95,6",
+    "1Cor 14,33.40",
+    "Cl 3,16"
+  ],
+  "catechism": [
+    "CEC 1136",
+    "CEC 1140",
+    "CEC 1141",
+    "CEC 1144",
+    "CEC 1153",
+    "CEC 1154",
+    "CEC 1157",
+    "CEC 1166",
+    "CEC 1167",
+    "CEC 1181",
+    "CEC 1182",
+    "CEC 1183",
+    "CEC 1184",
+    "CEC 1185"
+  ],
+  "card_model": {
+    "total_terms": 75,
+    "columns": 5,
+    "terms_per_column": 15,
+    "grid": "5x5",
+    "center": {
+      "label": "LIVRE / Ap 7,9-12",
+      "fixed": true,
+      "called": false
+    },
+    "recommended_win_condition": "duas_linhas"
+  },
+  "columns": [
+    {
+      "key": "B",
+      "title": "Base moral",
+      "function": "Fundamentos bíblicos e doutrinais para ler o tema.",
+      "short_function": "fundamento cristão do tema"
+    },
+    {
+      "key": "I",
+      "title": "Situações concretas",
+      "function": "Formas reais em que o tema aparece na vida concreta, em situações inteligíveis para a turma.",
+      "short_function": "situações concretas do tema"
+    },
+    {
+      "key": "N",
+      "title": "Narrativas falsas",
+      "function": "Desculpas, autoenganos e frases que desviam do bem.",
+      "short_function": "desculpas que normalizam o erro"
+    },
+    {
+      "key": "G",
+      "title": "Discernimentos",
+      "function": "Distinções morais que evitam respostas simplistas.",
+      "short_function": "distinções para discernir"
+    },
+    {
+      "key": "O",
+      "title": "Orientações de resposta",
+      "function": "Ações concretas, prudentes e proporcionais diante do problema.",
+      "short_function": "respostas proporcionais e prudentes"
+    }
+  ],
+  "terms": [
+    {
+      "id": "B01",
+      "column": "B",
+      "label": "Christus totus",
+      "definition": "Na liturgia, Cristo Cabeça e seu Corpo, a Igreja, atuam unidos; a celebração não é obra privada de um grupo, mas ação do Cristo inteiro.",
+      "anchors": [
+        "CEC 1136",
+        "Ap 7,9-12"
+      ],
+      "tags": [
+        "liturgia",
+        "cristo"
+      ]
+    },
+    {
+      "id": "B02",
+      "column": "B",
+      "label": "Sacerdócio de Cristo",
+      "definition": "Toda ação litúrgica nasce do único sacerdócio de Cristo, que oferece ao Pai o louvor perfeito e santifica seu povo.",
+      "anchors": [
+        "CEC 1136",
+        "Lc 22,19-20"
+      ],
+      "tags": [
+        "sacerdócio",
+        "cristo"
+      ]
+    },
+    {
+      "id": "B03",
+      "column": "B",
+      "label": "Igreja celebrante",
+      "definition": "A liturgia é celebração da Igreja inteira, povo santo unido e ordenado sob seus pastores, não reunião privada de indivíduos isolados.",
+      "anchors": [
+        "CEC 1140",
+        "At 2,42"
+      ],
+      "tags": [
+        "igreja",
+        "assembleia"
+      ]
+    },
+    {
+      "id": "B04",
+      "column": "B",
+      "label": "Sacerdócio batismal",
+      "definition": "Pelo Batismo, os fiéis participam do sacerdócio de Cristo e podem oferecer sua vida como sacrifício espiritual unido à liturgia.",
+      "anchors": [
+        "CEC 1141",
+        "1Pd 2,9"
+      ],
+      "tags": [
+        "batismo",
+        "participação"
+      ]
+    },
+    {
+      "id": "B05",
+      "column": "B",
+      "label": "Participação ativa",
+      "definition": "Participar da liturgia é entrar conscientemente na ação sagrada, com corpo, voz, atenção, fé e disposição interior.",
+      "anchors": [
+        "CEC 1141",
+        "CEC 1144"
+      ],
+      "tags": [
+        "participação",
+        "atenção"
+      ]
+    },
+    {
+      "id": "B06",
+      "column": "B",
+      "label": "Ação pública da Igreja",
+      "definition": "As ações litúrgicas pertencem ao corpo da Igreja e manifestam sua unidade; por isso não podem ser tratadas como cerimônias particulares.",
+      "anchors": [
+        "CEC 1140",
+        "1Cor 14,33.40"
+      ],
+      "tags": [
+        "igreja",
+        "unidade"
+      ]
+    },
+    {
+      "id": "B07",
+      "column": "B",
+      "label": "Domingo pascal",
+      "definition": "O domingo é o dia do Senhor, memorial semanal da Ressurreição, cujo centro é a assembleia reunida para a Palavra e a Eucaristia.",
+      "anchors": [
+        "CEC 1166",
+        "CEC 1167"
+      ],
+      "tags": [
+        "domingo",
+        "ressurreição"
+      ]
+    },
+    {
+      "id": "B08",
+      "column": "B",
+      "label": "Palavra e sacramento",
+      "definition": "Na liturgia, a Palavra de Deus e os sinais sacramentais se iluminam mutuamente, formando diálogo real entre Deus e seu povo.",
+      "anchors": [
+        "CEC 1153",
+        "CEC 1154"
+      ],
+      "tags": [
+        "palavra",
+        "sacramentos"
+      ]
+    },
+    {
+      "id": "B09",
+      "column": "B",
+      "label": "Linguagem dos sinais",
+      "definition": "Gestos, palavras, silêncio, canto, objetos e espaços litúrgicos são sinais que educam a fé e devem corresponder ao mistério celebrado.",
+      "anchors": [
+        "CEC 1153",
+        "CEC 1181"
+      ],
+      "tags": [
+        "sinais",
+        "rito"
+      ]
+    },
+    {
+      "id": "B10",
+      "column": "B",
+      "label": "Canto unido ao rito",
+      "definition": "O canto litúrgico serve à oração da assembleia e à ação sagrada quando une beleza, participação e fidelidade ao momento celebrado.",
+      "anchors": [
+        "CEC 1157",
+        "Cl 3,16"
+      ],
+      "tags": [
+        "canto",
+        "oração"
+      ]
+    },
+    {
+      "id": "B11",
+      "column": "B",
+      "label": "Altar: cruz e mesa",
+      "definition": "O altar é centro da igreja porque nele se faz presente o Sacrifício da Cruz e a mesa do Senhor para seu povo.",
+      "anchors": [
+        "CEC 1182",
+        "1Cor 11,23-26"
+      ],
+      "tags": [
+        "altar",
+        "eucaristia"
+      ]
+    },
+    {
+      "id": "B12",
+      "column": "B",
+      "label": "Presença no sacrário",
+      "definition": "O sacrário guarda com decoro a presença real de Cristo no Santíssimo Sacramento e orienta a adoração da comunidade.",
+      "anchors": [
+        "CEC 1183",
+        "Jo 6,51"
+      ],
+      "tags": [
+        "sacrário",
+        "adoração"
+      ]
+    },
+    {
+      "id": "B13",
+      "column": "B",
+      "label": "Ambão da Palavra",
+      "definition": "O ambão é o lugar próprio da proclamação da Palavra de Deus e deve manifestar sua dignidade na celebração.",
+      "anchors": [
+        "CEC 1184",
+        "CEC 1154"
+      ],
+      "tags": [
+        "ambão",
+        "palavra"
+      ]
+    },
+    {
+      "id": "B14",
+      "column": "B",
+      "label": "Casa de oração",
+      "definition": "A igreja deve ser bela, adequada à oração e ordenada aos sacramentos, ao recolhimento e à presença de Cristo.",
+      "anchors": [
+        "CEC 1181",
+        "CEC 1185"
+      ],
+      "tags": [
+        "igreja",
+        "oração"
+      ]
+    },
+    {
+      "id": "B15",
+      "column": "B",
+      "label": "Louvor do Céu",
+      "definition": "A liturgia terrena participa do louvor celeste, em que anjos, santos e multidão redimida adoram a Deus e ao Cordeiro.",
+      "anchors": [
+        "CEC 1136",
+        "Ap 7,9-12"
+      ],
+      "tags": [
+        "céu",
+        "adoração"
+      ]
+    },
+    {
+      "id": "I01",
+      "column": "I",
+      "label": "Missa-espetáculo",
+      "definition": "Situação em que a celebração é tratada como apresentação a ser avaliada por desempenho, aplauso, imagem ou entretenimento religioso.",
+      "anchors": [
+        "B06",
+        "G11"
+      ],
+      "tags": [
+        "espetáculo",
+        "assembleia"
+      ]
+    },
+    {
+      "id": "I02",
+      "column": "I",
+      "label": "Presença automática",
+      "definition": "Estar fisicamente na celebração sem atenção, resposta de fé ou disposição interior, reduzindo a Missa a costume externo.",
+      "anchors": [
+        "B05",
+        "G01"
+      ],
+      "tags": [
+        "presença",
+        "distração"
+      ]
+    },
+    {
+      "id": "I03",
+      "column": "I",
+      "label": "Celular no rito",
+      "definition": "Uso indevido do celular durante a ação litúrgica, quebrando a atenção ao mistério e enfraquecendo a participação da assembleia.",
+      "anchors": [
+        "B05",
+        "O03"
+      ],
+      "tags": [
+        "atenção",
+        "disciplina"
+      ]
+    },
+    {
+      "id": "I04",
+      "column": "I",
+      "label": "Música de palco",
+      "definition": "Modo de conduzir o canto que destaca o executante e impede a oração comum da assembleia no momento previsto.",
+      "anchors": [
+        "B10",
+        "G04"
+      ],
+      "tags": [
+        "música",
+        "vaidade"
+      ]
+    },
+    {
+      "id": "I05",
+      "column": "I",
+      "label": "Palavra inaudível",
+      "definition": "Proclamação descuidada da Escritura, feita sem clareza, preparo ou respeito pela assembleia que deve escutar a Palavra de Deus.",
+      "anchors": [
+        "B13",
+        "CEC 1154"
+      ],
+      "tags": [
+        "palavra",
+        "leitura"
+      ]
+    },
+    {
+      "id": "I06",
+      "column": "I",
+      "label": "Função sem preparo",
+      "definition": "Assumir um serviço litúrgico sem formação, ensaio ou consciência de sua natureza, prejudicando a oração da Igreja.",
+      "anchors": [
+        "CEC 1144",
+        "O12"
+      ],
+      "tags": [
+        "serviço",
+        "formação"
+      ]
+    },
+    {
+      "id": "I07",
+      "column": "I",
+      "label": "Altar banalizado",
+      "definition": "Tratar o altar como suporte comum ou objeto funcional, esquecendo que ele significa a cruz e a mesa do Senhor.",
+      "anchors": [
+        "B11",
+        "CEC 1182"
+      ],
+      "tags": [
+        "altar",
+        "reverência"
+      ]
+    },
+    {
+      "id": "I08",
+      "column": "I",
+      "label": "Sacrário esquecido",
+      "definition": "Agir dentro da igreja sem reconhecer a presença real de Cristo no Santíssimo Sacramento conservado no sacrário.",
+      "anchors": [
+        "B12",
+        "O09"
+      ],
+      "tags": [
+        "sacrário",
+        "presença"
+      ]
+    },
+    {
+      "id": "I09",
+      "column": "I",
+      "label": "Ambão para avisos",
+      "definition": "Usar o lugar da Palavra para recados comuns, confundindo a dignidade da proclamação bíblica com comunicação administrativa.",
+      "anchors": [
+        "B13",
+        "G10"
+      ],
+      "tags": [
+        "ambão",
+        "ordem"
+      ]
+    },
+    {
+      "id": "I10",
+      "column": "I",
+      "label": "Domingo negociável",
+      "definition": "Organizar a semana de modo que a Eucaristia dominical seja sempre deslocada por compras, lazer, descanso ou conveniência.",
+      "anchors": [
+        "B07",
+        "Hb 10,25"
+      ],
+      "tags": [
+        "domingo",
+        "prioridade"
+      ]
+    },
+    {
+      "id": "I11",
+      "column": "I",
+      "label": "Comunhão sem exame",
+      "definition": "Aproximar-se da Eucaristia sem arrependimento, consciência ou disposição de conversão, tratando o sacramento como gesto social.",
+      "anchors": [
+        "1Cor 11,23-26",
+        "B11"
+      ],
+      "tags": [
+        "eucaristia",
+        "conversão"
+      ]
+    },
+    {
+      "id": "I12",
+      "column": "I",
+      "label": "Silêncio preenchido",
+      "definition": "Eliminar pausas de oração por medo de silêncio, ansiedade de controle ou necessidade de ocupar todo espaço litúrgico com som.",
+      "anchors": [
+        "B09",
+        "G05"
+      ],
+      "tags": [
+        "silêncio",
+        "oração"
+      ]
+    },
+    {
+      "id": "I13",
+      "column": "I",
+      "label": "Gestos apressados",
+      "definition": "Executar posturas e gestos litúrgicos de modo mecânico, sem atenção ao que significam e sem respeito à ação sagrada.",
+      "anchors": [
+        "B09",
+        "CEC 1153"
+      ],
+      "tags": [
+        "gestos",
+        "atenção"
+      ]
+    },
+    {
+      "id": "I14",
+      "column": "I",
+      "label": "Celebração privatizada",
+      "definition": "Submeter a liturgia a preferências de uma família, equipe ou grupo, como se o rito fosse propriedade de quem organiza.",
+      "anchors": [
+        "B06",
+        "CEC 1140"
+      ],
+      "tags": [
+        "privatização",
+        "rito"
+      ]
+    },
+    {
+      "id": "I15",
+      "column": "I",
+      "label": "Espaço sem recolhimento",
+      "definition": "Transformar a igreja em ambiente de conversa, circulação ou exposição, enfraquecendo a oração silenciosa e a reverência devida.",
+      "anchors": [
+        "B14",
+        "CEC 1185"
+      ],
+      "tags": [
+        "espaço",
+        "recolhimento"
+      ]
+    },
+    {
+      "id": "N01",
+      "column": "N",
+      "label": "Redução a programa",
+      "definition": "Narrativa que confunde liturgia com sequência de tarefas, músicas e avisos, perdendo de vista a ação sagrada de Cristo.",
+      "anchors": [
+        "B02",
+        "B06"
+      ],
+      "tags": [
+        "redução",
+        "liturgia"
+      ]
+    },
+    {
+      "id": "N02",
+      "column": "N",
+      "label": "É só símbolo",
+      "definition": "Desculpa que esvazia os sinais sacramentais e a presença real, como se a liturgia apenas lembrasse ideias religiosas.",
+      "anchors": [
+        "B12",
+        "CEC 1183"
+      ],
+      "tags": [
+        "sinal",
+        "presença"
+      ]
+    },
+    {
+      "id": "N03",
+      "column": "N",
+      "label": "O importante é sentir",
+      "definition": "Autoengano que mede a liturgia pela emoção pessoal, substituindo adoração, fé e obediência ao rito por sensação interior.",
+      "anchors": [
+        "G03",
+        "Jo 4,23-24"
+      ],
+      "tags": [
+        "emoção",
+        "adoração"
+      ]
+    },
+    {
+      "id": "N04",
+      "column": "N",
+      "label": "Tem que animar",
+      "definition": "Narrativa que transforma a celebração em experiência de entusiasmo constante, confundindo participação com agitação e recolhimento com fracasso.",
+      "anchors": [
+        "B10",
+        "G05"
+      ],
+      "tags": [
+        "animação",
+        "silêncio"
+      ]
+    },
+    {
+      "id": "N05",
+      "column": "N",
+      "label": "Cada um faz seu jeito",
+      "definition": "Desculpa que trata a criatividade pessoal como superior à fidelidade litúrgica, ferindo a unidade e o sentido do rito.",
+      "anchors": [
+        "CEC 1144",
+        "G02"
+      ],
+      "tags": [
+        "obediência",
+        "criatividade"
+      ]
+    },
+    {
+      "id": "N06",
+      "column": "N",
+      "label": "Deus entende a distração",
+      "definition": "Frase que usa a misericórdia de Deus para justificar negligência voluntária, falta de recolhimento e descuido com a assembleia.",
+      "anchors": [
+        "B05",
+        "O03"
+      ],
+      "tags": [
+        "distração",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "N07",
+      "column": "N",
+      "label": "Rito é formalismo",
+      "definition": "Narrativa que separa fé interior e forma litúrgica, como se gestos comuns, palavras e posturas fossem obstáculos à verdade da oração.",
+      "anchors": [
+        "B09",
+        "CEC 1153"
+      ],
+      "tags": [
+        "rito",
+        "forma"
+      ]
+    },
+    {
+      "id": "N08",
+      "column": "N",
+      "label": "Rezo em casa",
+      "definition": "Desculpa que usa a oração pessoal para abandonar a assembleia dominical e a Eucaristia sem motivo sério.",
+      "anchors": [
+        "B07",
+        "Hb 10,25"
+      ],
+      "tags": [
+        "domingo",
+        "assembleia"
+      ]
+    },
+    {
+      "id": "N09",
+      "column": "N",
+      "label": "Palco da vaidade",
+      "definition": "Lógica que transforma serviço musical, leitura ou ministério em ocasião de autopromoção, tirando o foco de Cristo e da assembleia.",
+      "anchors": [
+        "B10",
+        "G04"
+      ],
+      "tags": [
+        "vaidade",
+        "serviço"
+      ]
+    },
+    {
+      "id": "N10",
+      "column": "N",
+      "label": "Gosto como medida",
+      "definition": "Autoengano que julga a liturgia principalmente por preferência estética ou costume pessoal, ignorando seu sentido e sua norma eclesial.",
+      "anchors": [
+        "B06",
+        "G02"
+      ],
+      "tags": [
+        "gosto",
+        "discernimento"
+      ]
+    },
+    {
+      "id": "N11",
+      "column": "N",
+      "label": "Padre faz tudo",
+      "definition": "Narrativa que reduz a assembleia a espectadores e transfere toda responsabilidade litúrgica ao ministro ordenado.",
+      "anchors": [
+        "CEC 1141",
+        "CEC 1144"
+      ],
+      "tags": [
+        "clericalismo",
+        "assembleia"
+      ]
+    },
+    {
+      "id": "N12",
+      "column": "N",
+      "label": "Silêncio é vazio",
+      "definition": "Engano que interpreta a ausência de som como falta de conteúdo, sem reconhecer o silêncio como linguagem de adoração e escuta.",
+      "anchors": [
+        "G05",
+        "CEC 1185"
+      ],
+      "tags": [
+        "silêncio",
+        "oração"
+      ]
+    },
+    {
+      "id": "N13",
+      "column": "N",
+      "label": "Improviso piedoso",
+      "definition": "Desculpa que chama de confiança em Deus aquilo que na prática é negligência, falta de preparo e desrespeito ao serviço litúrgico.",
+      "anchors": [
+        "I06",
+        "O12"
+      ],
+      "tags": [
+        "preparo",
+        "negligência"
+      ]
+    },
+    {
+      "id": "N14",
+      "column": "N",
+      "label": "Espaço tanto faz",
+      "definition": "Narrativa que banaliza altar, sacrário, ambão e lugar de oração, como se o espaço litúrgico fosse neutro ou meramente funcional.",
+      "anchors": [
+        "CEC 1181",
+        "CEC 1182",
+        "CEC 1183",
+        "CEC 1184"
+      ],
+      "tags": [
+        "espaço",
+        "sinais"
+      ]
+    },
+    {
+      "id": "N15",
+      "column": "N",
+      "label": "Domingo é tempo meu",
+      "definition": "Autoengano que absolutiza lazer, descanso ou autonomia pessoal e retira do domingo seu centro pascal e eucarístico.",
+      "anchors": [
+        "B07",
+        "G15"
+      ],
+      "tags": [
+        "domingo",
+        "prioridade"
+      ]
+    },
+    {
+      "id": "G01",
+      "column": "G",
+      "label": "Assistir ou participar",
+      "definition": "Distingue presença externa de participação litúrgica real, sem desprezar situações em que alguém participa à distância por necessidade grave.",
+      "anchors": [
+        "B05",
+        "CEC 1141"
+      ],
+      "tags": [
+        "participação",
+        "presença"
+      ]
+    },
+    {
+      "id": "G02",
+      "column": "G",
+      "label": "Fidelidade ou invenção",
+      "definition": "Distingue adaptação legítima e obediência ao rito de alterações arbitrárias que deformam a ação litúrgica da Igreja.",
+      "anchors": [
+        "CEC 1144",
+        "B06"
+      ],
+      "tags": [
+        "fidelidade",
+        "rito"
+      ]
+    },
+    {
+      "id": "G03",
+      "column": "G",
+      "label": "Emoção ou adoração",
+      "definition": "Distingue emoção religiosa, que pode acompanhar a oração, da adoração que permanece válida mesmo sem sentimento intenso.",
+      "anchors": [
+        "Jo 4,23-24",
+        "B15"
+      ],
+      "tags": [
+        "emoção",
+        "adoração"
+      ]
+    },
+    {
+      "id": "G04",
+      "column": "G",
+      "label": "Função ou protagonismo",
+      "definition": "Distingue serviço litúrgico necessário de busca de destaque pessoal, lembrando que cada um faz tudo e só o que lhe compete.",
+      "anchors": [
+        "CEC 1144",
+        "B05"
+      ],
+      "tags": [
+        "serviço",
+        "protagonismo"
+      ]
+    },
+    {
+      "id": "G05",
+      "column": "G",
+      "label": "Silêncio ou vazio",
+      "definition": "Distingue silêncio litúrgico, que favorece escuta e oração, de abandono desordenado ou falta de condução.",
+      "anchors": [
+        "CEC 1185",
+        "B09"
+      ],
+      "tags": [
+        "silêncio",
+        "discernimento"
+      ]
+    },
+    {
+      "id": "G06",
+      "column": "G",
+      "label": "Beleza ou luxo",
+      "definition": "Distingue beleza digna, que serve ao mistério, de ostentação cara ou vaidosa que desvia do essencial.",
+      "anchors": [
+        "CEC 1181",
+        "B14"
+      ],
+      "tags": [
+        "beleza",
+        "simplicidade"
+      ]
+    },
+    {
+      "id": "G07",
+      "column": "G",
+      "label": "Simplicidade ou descuido",
+      "definition": "Distingue pobreza material vivida com dignidade de negligência que trata os sinais sagrados sem zelo.",
+      "anchors": [
+        "CEC 1181",
+        "I13"
+      ],
+      "tags": [
+        "simplicidade",
+        "zelo"
+      ]
+    },
+    {
+      "id": "G08",
+      "column": "G",
+      "label": "Inculturação ou ruptura",
+      "definition": "Distingue expressões culturais assumidas com critério litúrgico de inserções que quebram o rito ou obscurecem o mistério.",
+      "anchors": [
+        "B06",
+        "B10"
+      ],
+      "tags": [
+        "cultura",
+        "rito"
+      ]
+    },
+    {
+      "id": "G09",
+      "column": "G",
+      "label": "Acolhida ou banalização",
+      "definition": "Distingue receber com paciência quem não sabe de aprovar qualquer atitude que fere a reverência e a fé da assembleia.",
+      "anchors": [
+        "B14",
+        "O08"
+      ],
+      "tags": [
+        "acolhida",
+        "reverência"
+      ]
+    },
+    {
+      "id": "G10",
+      "column": "G",
+      "label": "Palavra ou recado",
+      "definition": "Distingue a proclamação litúrgica da Palavra de Deus de avisos e comunicações comuns da comunidade.",
+      "anchors": [
+        "CEC 1154",
+        "CEC 1184"
+      ],
+      "tags": [
+        "palavra",
+        "ordem"
+      ]
+    },
+    {
+      "id": "G11",
+      "column": "G",
+      "label": "Assembleia ou plateia",
+      "definition": "Distingue povo que celebra com Cristo de público que apenas assiste, avalia e consome uma apresentação religiosa.",
+      "anchors": [
+        "CEC 1140",
+        "CEC 1141"
+      ],
+      "tags": [
+        "assembleia",
+        "participação"
+      ]
+    },
+    {
+      "id": "G12",
+      "column": "G",
+      "label": "Reverência ou rigidez",
+      "definition": "Distingue cuidado real com o sagrado de dureza que corrige sem caridade, humilha ou transforma norma em arma.",
+      "anchors": [
+        "B09",
+        "1Cor 14,33.40"
+      ],
+      "tags": [
+        "reverência",
+        "caridade"
+      ]
+    },
+    {
+      "id": "G13",
+      "column": "G",
+      "label": "Serviço ou posse",
+      "definition": "Distingue ministério exercido para servir a oração da Igreja de controle de função como propriedade pessoal ou de grupo.",
+      "anchors": [
+        "CEC 1144",
+        "O11"
+      ],
+      "tags": [
+        "serviço",
+        "poder"
+      ]
+    },
+    {
+      "id": "G14",
+      "column": "G",
+      "label": "Sinal ou decoração",
+      "definition": "Distingue sinal litúrgico que manifesta o mistério de ornamento que apenas enfeita, distrai ou ocupa lugar indevido.",
+      "anchors": [
+        "B09",
+        "CEC 1181"
+      ],
+      "tags": [
+        "sinal",
+        "beleza"
+      ]
+    },
+    {
+      "id": "G15",
+      "column": "G",
+      "label": "Domingo ou lazer absoluto",
+      "definition": "Distingue descanso legítimo e convivência familiar de uma organização da vida que elimina o culto devido a Deus.",
+      "anchors": [
+        "CEC 1166",
+        "CEC 1167"
+      ],
+      "tags": [
+        "domingo",
+        "lazer"
+      ]
+    },
+    {
+      "id": "O01",
+      "column": "O",
+      "label": "Preparar-se antes",
+      "definition": "Ler, estudar, ensaiar e dispor o coração antes de servir ou participar da celebração, evitando improviso e dispersão.",
+      "anchors": [
+        "O12",
+        "CEC 1144"
+      ],
+      "tags": [
+        "preparo",
+        "serviço"
+      ]
+    },
+    {
+      "id": "O02",
+      "column": "O",
+      "label": "Chegar com recolhimento",
+      "definition": "Entrar na igreja com antecedência, reduzir conversas, reconhecer o lugar sagrado e preparar-se interiormente para a ação litúrgica.",
+      "anchors": [
+        "B14",
+        "CEC 1185"
+      ],
+      "tags": [
+        "recolhimento",
+        "entrada"
+      ]
+    },
+    {
+      "id": "O03",
+      "column": "O",
+      "label": "Guardar o celular",
+      "definition": "Silenciar e afastar o celular durante a celebração, exceto por necessidade real, para proteger a atenção e a reverência.",
+      "anchors": [
+        "B05",
+        "I03"
+      ],
+      "tags": [
+        "atenção",
+        "disciplina"
+      ]
+    },
+    {
+      "id": "O04",
+      "column": "O",
+      "label": "Responder em voz",
+      "definition": "Participar das respostas, aclamações e orações da assembleia com voz adequada, consciência e unidade com o povo que celebra.",
+      "anchors": [
+        "CEC 1141",
+        "CEC 1154"
+      ],
+      "tags": [
+        "assembleia",
+        "resposta"
+      ]
+    },
+    {
+      "id": "O05",
+      "column": "O",
+      "label": "Cantar com a assembleia",
+      "definition": "Escolher e executar o canto de modo que a assembleia possa rezar unida, sem transformar a música em apresentação individual.",
+      "anchors": [
+        "CEC 1157",
+        "B10"
+      ],
+      "tags": [
+        "canto",
+        "assembleia"
+      ]
+    },
+    {
+      "id": "O06",
+      "column": "O",
+      "label": "Escutar a Palavra",
+      "definition": "Voltar atenção ao ambão, ouvir as leituras com fé e permitir que a Palavra julgue, console e converta a vida.",
+      "anchors": [
+        "CEC 1154",
+        "B13"
+      ],
+      "tags": [
+        "palavra",
+        "escuta"
+      ]
+    },
+    {
+      "id": "O07",
+      "column": "O",
+      "label": "Respeitar funções",
+      "definition": "Assumir somente a função litúrgica que compete a cada um, sem invadir, omitir ou acumular serviços por vaidade ou controle.",
+      "anchors": [
+        "CEC 1144",
+        "G04"
+      ],
+      "tags": [
+        "ordem",
+        "serviço"
+      ]
+    },
+    {
+      "id": "O08",
+      "column": "O",
+      "label": "Corrigir com prudência",
+      "definition": "Tratar abusos e descuidos litúrgicos com verdade, momento adequado, caridade e referência objetiva ao rito, sem humilhação pública.",
+      "anchors": [
+        "G12",
+        "1Cor 14,33.40"
+      ],
+      "tags": [
+        "correção",
+        "prudência"
+      ]
+    },
+    {
+      "id": "O09",
+      "column": "O",
+      "label": "Reverenciar o sacrário",
+      "definition": "Reconhecer a presença real de Cristo no sacrário com gesto corporal adequado, silêncio e comportamento coerente no espaço sagrado.",
+      "anchors": [
+        "CEC 1183",
+        "B12"
+      ],
+      "tags": [
+        "sacrário",
+        "adoração"
+      ]
+    },
+    {
+      "id": "O10",
+      "column": "O",
+      "label": "Proteger o silêncio",
+      "definition": "Resguardar tempos reais de silêncio antes, durante e depois da celebração, para que a oração seja escutada e interiorizada.",
+      "anchors": [
+        "CEC 1185",
+        "G05"
+      ],
+      "tags": [
+        "silêncio",
+        "oração"
+      ]
+    },
+    {
+      "id": "O11",
+      "column": "O",
+      "label": "Servir sem aparecer",
+      "definition": "Exercer ministérios e tarefas litúrgicas com discrição, competência e obediência, colocando a oração da Igreja acima da imagem pessoal.",
+      "anchors": [
+        "CEC 1144",
+        "G13"
+      ],
+      "tags": [
+        "humildade",
+        "serviço"
+      ]
+    },
+    {
+      "id": "O12",
+      "column": "O",
+      "label": "Formar ministros",
+      "definition": "Garantir preparação séria para leitores, músicos, ministros e servidores, unindo técnica, fé, normas litúrgicas e vida espiritual.",
+      "anchors": [
+        "CEC 1144",
+        "I06"
+      ],
+      "tags": [
+        "formação",
+        "ministérios"
+      ]
+    },
+    {
+      "id": "O13",
+      "column": "O",
+      "label": "Santificar o domingo",
+      "definition": "Organizar trabalho, descanso, família e compromissos para dar centralidade real à Eucaristia dominical sempre que não houver impedimento sério.",
+      "anchors": [
+        "CEC 1166",
+        "CEC 1167"
+      ],
+      "tags": [
+        "domingo",
+        "eucaristia"
+      ]
+    },
+    {
+      "id": "O14",
+      "column": "O",
+      "label": "Reparar irreverência",
+      "definition": "Quando houver descuido com o sagrado, reconhecer o erro, pedir desculpas, corrigir o dano possível e retomar atitude reverente.",
+      "anchors": [
+        "B09",
+        "G12"
+      ],
+      "tags": [
+        "reparação",
+        "reverência"
+      ]
+    },
+    {
+      "id": "O15",
+      "column": "O",
+      "label": "Levar à vida",
+      "definition": "Permitir que a liturgia celebrada transforme decisões, relações, trabalho, perdão e serviço concreto depois da celebração.",
+      "anchors": [
+        "CEC 1153",
+        "1Pd 2,9"
+      ],
+      "tags": [
+        "vida",
+        "conversão"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "title": "Carta de explicações rápidas — Bingo Discípulos missionários",
+  "meeting": "Encontro 35 — Discípulos missionários",
+  "source_calls": "data/chamadas.json",
+  "purpose": "Explicações breves para o condutor usar durante a chamada de cada carta.",
+  "entries": [
+    {
+      "id": "B01",
+      "explanation": "A missão não começa quando alguém recebe um cargo. Ela nasce do **Batismo** e da pertença a Cristo. Cada cristão participa do envio da Igreja conforme sua condição concreta. Ter fé sem responsabilidade missionária é reduzir a vocação recebida."
+    },
+    {
+      "id": "B02",
+      "explanation": "São Paulo mostra que anunciar o Evangelho não é vaidade espiritual. É uma **necessidade interior** de quem foi tocado por Cristo. Essa urgência precisa de prudência, mas não pode virar medo. O discípulo aprende a reconhecer oportunidades reais de testemunho."
+    },
+    {
+      "id": "B03",
+      "explanation": "Jesus adverte que dizer 'Senhor' não basta. O critério é fazer a **vontade do Pai**. A linguagem religiosa sem obediência concreta vira aparência. O discípulo missionário precisa confrontar palavras e escolhas."
+    },
+    {
+      "id": "B04",
+      "explanation": "A fé deve ser vivida e também **professada**. O cristão não precisa fazer espetáculo, mas não deve negar Cristo por vergonha. Há momentos em que o silêncio esconde medo. Confessar a fé exige firmeza, sobriedade e coragem."
+    },
+    {
+      "id": "B05",
+      "explanation": "O anúncio do Evangelho pede **testemunho de vida**. Quando a conduta contradiz a mensagem, a fé fica desacreditada diante dos outros. A coerência não é perfeição sem queda, mas conversão real. A vida do cristão deve autenticar sua palavra."
+    },
+    {
+      "id": "B06",
+      "explanation": "Aparecida recorda que o amor se mostra em **obras concretas**. Discurso sobre caridade não alimenta, não visita, não repara e não acompanha. A fé viva toca a dor real do próximo. O discípulo missionário transforma compaixão em resposta proporcional."
+    },
+    {
+      "id": "B07",
+      "explanation": "Sem Cristo, até uma ação boa pode virar **ativismo**. A comunhão com Ele purifica a intenção, sustenta a paciência e dá fecundidade. O missionário verdadeiro não vive só de agenda. Ele serve a partir da união com o Senhor."
+    },
+    {
+      "id": "B08",
+      "explanation": "A missão cristã nasce da **caridade**. Defender a fé para vencer, humilhar ou aparecer desfigura o Evangelho. A verdade deve ser anunciada com amor real ao outro. O modo de falar também testemunha ou contradiz Cristo."
+    },
+    {
+      "id": "B09",
+      "explanation": "O cristão deve saber dar razão da **esperança**. Isso não significa discurso forçado em qualquer momento. Significa estar pronto para responder com clareza, mansidão e respeito. A esperança recebida não foi dada para ficar escondida."
+    },
+    {
+      "id": "B10",
+      "explanation": "Seguir Cristo inclui a **cruz**. Às vezes a fidelidade traz perda, rejeição ou pressão. Isso não deve ser buscado por orgulho, mas aceito quando nasce da obediência ao bem. O discípulo não abandona Cristo quando a fé custa."
+    },
+    {
+      "id": "B11",
+      "explanation": "A conversão não é pura força de vontade. Ela é resposta à **graça** que transforma. A fraqueza deve ser reconhecida sem virar desculpa para desistir. Quem permanece em Cristo pode recomeçar com humildade e meios concretos."
+    },
+    {
+      "id": "B12",
+      "explanation": "A Igreja é **enviada** por Cristo. Ela não existe para conservar um círculo confortável de pessoas religiosas. Sua missão é comunicar a vida de Jesus por Palavra, sacramentos e caridade. Toda comunidade cristã precisa se perguntar a quem está sendo enviada."
+    },
+    {
+      "id": "B13",
+      "explanation": "A verdade cristã pede **mansidão**. Mansidão não é covardia, e firmeza não é agressão. O discípulo deve dizer a verdade sem desprezar a pessoa. Essa precisão pastoral protege ao mesmo tempo a fé e a caridade."
+    },
+    {
+      "id": "B14",
+      "explanation": "A santidade aparece no **cotidiano**. Honestidade, perdão, trabalho justo, serviço discreto e palavra verdadeira também evangelizam. Nem todo testemunho é grande ou visível. Muitas vezes a fé brilha em decisões pequenas e fiéis."
+    },
+    {
+      "id": "B15",
+      "explanation": "Encontrar Cristo não termina numa experiência privada. O **encontro** verdadeiro converte a vida e envia ao próximo. Quem recebeu o tesouro da fé é chamado a partilhá-lo. O anúncio se faz com palavras, vida e obras concretas."
+    },
+    {
+      "id": "I01",
+      "explanation": "A **fé de gaveta** aparece quando Deus fica fora das decisões reais. A pessoa mantém uma identidade religiosa, mas age como se o Evangelho não tivesse critério moral. Isso divide a vida por dentro. O discípulo missionário deixa a fé iluminar também trabalho, dinheiro e escolhas difíceis."
+    },
+    {
+      "id": "I02",
+      "explanation": "A **religião de fachada** usa sinais religiosos para cobrir injustiça. O problema não é aparecer publicamente como cristão, mas usar isso para esconder corrupção, abuso ou mentira. Jesus chama a fazer a vontade do Pai. Aparência religiosa sem conversão não é testemunho."
+    },
+    {
+      "id": "I03",
+      "explanation": "A **omissão por vergonha** nasce do medo de ser ridicularizado. Nem toda situação exige discurso longo, mas algumas pedem uma palavra firme. Silenciar diante da humilhação da fé pode reforçar o desprezo. O cristão aprende a confessar Cristo com sobriedade."
+    },
+    {
+      "id": "I04",
+      "explanation": "O **ativismo sem oração** esvazia a missão por dentro. A pessoa faz muitas coisas, mas já não escuta Deus nem discerne a caridade. O serviço pode virar peso, irritação ou vaidade. Permanecer em Cristo é condição para servir bem."
+    },
+    {
+      "id": "I05",
+      "explanation": "O **anúncio sem coerência** fere a credibilidade da fé. Palavras religiosas não compensam práticas desonestas. A mensagem cristã precisa ser autenticada pela vida. Quando há incoerência, a resposta é conversão e reparação, não defesa da aparência."
+    },
+    {
+      "id": "I06",
+      "explanation": "A **caridade sem rosto** ajuda sem realmente encontrar a pessoa. Pode aliviar uma necessidade, mas expõe, ignora ou trata o pobre como cenário. A caridade cristã escuta a dor concreta. O próximo não é objeto de campanha, é pessoa com dignidade."
+    },
+    {
+      "id": "I07",
+      "explanation": "O **trabalho injusto** contradiz o Evangelho. Lucro, meta ou promoção não autorizam exploração. A fé cristã alcança contratos, intervalos, salários e respeito ao trabalhador. A santidade cotidiana inclui justiça no ambiente profissional."
+    },
+    {
+      "id": "I08",
+      "explanation": "A **família sem testemunho** ensina uma contradição dolorosa. Oração em casa é bem real, mas não encobre humilhação, mentira ou agressão. A fé precisa aparecer no modo de tratar os mais próximos. Pedir perdão e mudar atitudes também é missão."
+    },
+    {
+      "id": "I09",
+      "explanation": "A **vitrine digital** usa linguagem religiosa para construir imagem. O problema não é publicar a fé, mas contradizê-la com crueldade, vaidade ou mentira. A rede social também é lugar de testemunho moral. Quem anuncia Cristo precisa cuidar do modo como fala e expõe os outros."
+    },
+    {
+      "id": "I10",
+      "explanation": "O **serviço invisível** mostra uma caridade sem palco. Ele responde a uma necessidade real sem buscar aplauso. Isso educa contra a vaidade espiritual. Deus vê a fidelidade pequena que protege e serve o próximo."
+    },
+    {
+      "id": "I11",
+      "explanation": "A **escuta do ferido** impede respostas prontas e superficiais. Quem sofre não precisa primeiro de frases rápidas, mas de presença respeitosa. Escutar não resolve tudo, mas abre caminho para caridade verdadeira. O discípulo missionário aprende a reconhecer a dor antes de falar."
+    },
+    {
+      "id": "I12",
+      "explanation": "A **perseguição discreta** nem sempre aparece como violência aberta. Pode vir como ridicularização, isolamento e pressão para abandonar a coerência. O cristão não deve dramatizar tudo, mas também não deve negar a pressão real. A cruz aparece também nesses ambientes cotidianos."
+    },
+    {
+      "id": "I13",
+      "explanation": "A **comunidade fechada** conserva atividades, mas perde o envio. Formação e comunhão são necessárias, porém devem abrir para a missão. Quando o grupo só protege seu conforto, esquece os afastados e necessitados. A Igreja é enviada para comunicar a vida de Cristo."
+    },
+    {
+      "id": "I14",
+      "explanation": "A **boa obra exibida** pode começar com ajuda real e terminar em exposição do vulnerável. Tornar uma ação conhecida pode ser legítimo, mas a dignidade de quem sofre vem primeiro. Caridade não usa a dor alheia como palco. O bem precisa ser feito com respeito."
+    },
+    {
+      "id": "I15",
+      "explanation": "O **medo de convidar** pode esconder omissão. Convidar alguém para rezar, voltar à fé ou buscar a comunidade não é invasão quando feito com respeito. A resposta do outro permanece livre. O missionário oferece a esperança sem controlar a pessoa."
+    },
+    {
+      "id": "N01",
+      "explanation": "A narrativa da **fé só privada** reduz o cristianismo a sentimento íntimo. A fé tem dimensão pessoal, mas também forma consciência, escolhas e testemunho público. Não se trata de impor religião, mas de viver a verdade recebida. Cristo deve iluminar a vida inteira."
+    },
+    {
+      "id": "N02",
+      "explanation": "A frase **basta dizer Senhor** é uma ilusão religiosa. Palavras piedosas sem obediência podem encobrir abuso, mentira e injustiça. Jesus é claro: entra no Reino quem faz a vontade do Pai. A oração verdadeira precisa converter a vida."
+    },
+    {
+      "id": "N03",
+      "explanation": "**Missão é para especialistas** é desculpa para terceirizar o chamado. Existem ministérios e responsabilidades diferentes, mas todos os batizados são enviados. O leigo evangeliza no trabalho, na família, na vida pública e no serviço. Não atrapalhar é pouco para quem recebeu Cristo."
+    },
+    {
+      "id": "N04",
+      "explanation": "**Sem tempo para Deus** muitas vezes revela prioridade deslocada. Agenda cheia pode ser real, mas sempre mostra o que está no centro. Quando Deus fica sempre para depois, a missão perde raiz. Reordenar o tempo também é ato de conversão."
+    },
+    {
+      "id": "N05",
+      "explanation": "A **vida dupla normal** transforma fraqueza em desculpa permanente. O cristão pode cair, mas não deve fazer da contradição uma moradia. A incoerência habitual precisa ser nomeada e enfrentada. A misericórdia chama à conversão, não à acomodação."
+    },
+    {
+      "id": "N06",
+      "explanation": "A **caridade de vitrine** usa o bem para fabricar reputação. Pode até entregar algo útil, mas coloca a imagem do benfeitor no centro. A caridade cristã protege a dignidade de quem recebe ajuda. Servir não é explorar a dor do outro."
+    },
+    {
+      "id": "N07",
+      "explanation": "**Não quero incomodar** pode ser respeito verdadeiro ou medo disfarçado. Quando alguém pede conselho ou abre espaço para a fé, o silêncio total pode ser omissão. A resposta cristã não precisa pressionar. Ela deve oferecer luz com mansidão e responsabilidade."
+    },
+    {
+      "id": "N08",
+      "explanation": "**Todo mundo decide sozinho** parece defender liberdade, mas pode esconder fechamento à verdade. A liberdade humana não é isolamento moral. Nossas escolhas tocam Deus, o próximo e a própria consciência. A vontade do Pai orienta a liberdade para o bem."
+    },
+    {
+      "id": "N09",
+      "explanation": "Dizer que a **coerência é impossível** pode virar rendição. A dificuldade real deve levar à humildade, à graça e à ajuda concreta. Ela não autoriza desistir da conversão. Em Cristo, recomeçar é parte séria da vida cristã."
+    },
+    {
+      "id": "N10",
+      "explanation": "**Falar já é cumprir** confunde formulação correta com obediência. Bons documentos, promessas e discursos podem orientar a ação, mas não a substituem. A fé viva se verifica também nas obras. O discípulo missionário não para na frase bonita."
+    },
+    {
+      "id": "N11",
+      "explanation": "O **silêncio prudente** pode ser prudência falsa. Prudência escolhe momento, prova, canal e modo adequado. Ela não protege injustiça nem abandona vítimas. Quando há dano real, o silêncio precisa ser examinado com seriedade."
+    },
+    {
+      "id": "N12",
+      "explanation": "**Resultado acima de tudo** é uma tentação missionária grave. Um fim aparentemente bom não justifica mentira, manipulação ou agressão. O Evangelho não precisa de meios falsos para ser anunciado. A fidelidade inclui também o modo de agir."
+    },
+    {
+      "id": "N13",
+      "explanation": "**Só vale o visível** destrói a fidelidade pequena. O bem que ninguém aplaude continua sendo bem. Quando o elogio vira critério, a caridade se deforma. O discípulo serve diante de Deus, não apenas diante de plateia."
+    },
+    {
+      "id": "N14",
+      "explanation": "**Dor alheia é assunto deles** desloca a responsabilidade até sobrar indiferença. É verdade que nem tudo cabe a uma pessoa resolver. Mas quase sempre há uma resposta proporcional possível. A caridade pergunta o que pode ser feito com justiça agora."
+    },
+    {
+      "id": "N15",
+      "explanation": "A **Igreja como clube** troca missão por conforto interno. A comunidade cristã precisa de ordem e vínculos, mas não pode fechar as portas ao envio. Acolher e formar novos dá trabalho. Esse trabalho pertence à missão da Igreja."
+    },
+    {
+      "id": "G01",
+      "explanation": "**Discípulo e missionário** não são identidades separadas. Quem escuta Cristo é formado por Ele e enviado por Ele. Há amadurecimento e etapas, mas não uma fé destinada a ficar parada. O seguimento verdadeiro abre para o anúncio e o serviço."
+    },
+    {
+      "id": "G02",
+      "explanation": "**Liberdade e envio** precisam ser bem distinguidos. Liberdade cristã não é recusar qualquer chamado. É capacidade de responder ao bem que Deus mostra. A autonomia fechada pode parecer maturidade, mas muitas vezes foge da conversão."
+    },
+    {
+      "id": "G03",
+      "explanation": "**Palavra e vida** devem caminhar juntas. Uma palavra correta perde força quando a prática a contradiz. Isso vale de modo especial para quem exerce poder ou influência. A missão pede integridade entre o que se anuncia e o que se vive."
+    },
+    {
+      "id": "G04",
+      "explanation": "**Obra e intenção** não são a mesma coisa. Uma ação pode ajudar de fato e ainda ter intenção misturada com vaidade. O discernimento cristão reconhece o bem objetivo sem deixar de purificar o coração. Servir o próximo deve vir antes de aparecer."
+    },
+    {
+      "id": "G05",
+      "explanation": "**Zelo e imposição** se parecem por fora, mas têm espírito diferente. O zelo quer o bem e respeita a pessoa. A imposição tenta controlar, ameaçar ou humilhar. O Evangelho deve ser anunciado com verdade e liberdade."
+    },
+    {
+      "id": "G06",
+      "explanation": "**Mansidão e covardia** não são iguais. Mansidão regula o modo da fala; covardia abandona a verdade. O cristão pode ser calmo e firme ao mesmo tempo. Diante da injustiça, calar por medo não é virtude."
+    },
+    {
+      "id": "G07",
+      "explanation": "**Prudência e omissão** precisam ser separadas. Prudência procura fatos, meios justos e momento adequado. Omissão usa a complexidade como desculpa para nada fazer. Quando há dano real, a caridade exige algum passo responsável."
+    },
+    {
+      "id": "G08",
+      "explanation": "**Acolhida e aprovação** não são a mesma resposta. A pessoa deve ser recebida com respeito e cuidado. Isso não obriga a chamar todo comportamento de bom. A caridade cristã une misericórdia e verdade."
+    },
+    {
+      "id": "G09",
+      "explanation": "**Ferida e desculpa** exigem discernimento. A dor real deve ser reconhecida e cuidada. Mas a ferida não autoriza ferir outros nem permanecer no pecado. A graça chama à cura, à responsabilidade e à conversão."
+    },
+    {
+      "id": "G10",
+      "explanation": "**Testemunho e fama** podem se confundir. Alcançar muitas pessoas não é erro, mas não pode virar centro da missão. Quando a mensagem é adaptada para agradar, Cristo deixa de ser o foco. O testemunho verdadeiro aponta para Deus, não para o mensageiro."
+    },
+    {
+      "id": "G11",
+      "explanation": "**Firmeza e dureza** precisam ser distinguidas. Firmeza defende a verdade e protege o bem. Dureza usa a verdade para ferir ou dominar. A correção cristã deve ser clara, proporcional e caridosa."
+    },
+    {
+      "id": "G12",
+      "explanation": "**Obras e obras mortas** mostram que ação externa não basta. Um projeto pode funcionar por fora e estar doente por dentro. A obra cristã precisa de fé viva, caridade e conversão. Sem Cristo, até o serviço pode perder alma."
+    },
+    {
+      "id": "G13",
+      "explanation": "**Convite e invasão** são diferentes. O convite oferece um caminho e respeita a liberdade do outro. A invasão pressiona, interpreta recusa como ofensa e tenta controlar a consciência. A missão cristã anuncia sem violentar."
+    },
+    {
+      "id": "G14",
+      "explanation": "**Êxito e fidelidade** não podem ser confundidos. Resultados visíveis ajudam a avaliar, mas não medem toda a fecundidade da missão. Há sementes que crescem devagar. O discípulo permanece fiel ao envio mesmo sem aplauso imediato."
+    },
+    {
+      "id": "G15",
+      "explanation": "**Comunidade e gueto** se distinguem pelo envio. Comunidade forma, protege e alimenta a fé para a missão. Gueto se fecha por medo ou conforto. A Igreja vive comunhão para sair, servir e anunciar."
+    },
+    {
+      "id": "O01",
+      "explanation": "**Examinar a vida** é confrontar a própria conduta com Deus. Não basta sentir culpa vaga ou fazer balanço sentimental. É preciso nomear hábitos, omissões e decisões. O exame cristão deve levar a passos concretos de conversão."
+    },
+    {
+      "id": "O02",
+      "explanation": "**Assumir a fé** é dizer e viver a pertença a Cristo. Isso não exige exibicionismo nem agressividade. Exige clareza quando a situação pede uma resposta. O discípulo não se esconde por vergonha."
+    },
+    {
+      "id": "O03",
+      "explanation": "**Rezar antes de agir** ordena a resposta missionária. A oração ajuda a distinguir zelo de impulso e verdade de orgulho ferido. Ela não substitui a ação necessária. Ela purifica o modo, o tempo e a intenção da ação."
+    },
+    {
+      "id": "O04",
+      "explanation": "**Falar com mansidão** é responder sem abandonar a verdade. A mansidão não torna a fé fraca; torna a fala mais cristã. Insulto não defende o Evangelho. Clareza, respeito e domínio de si fazem parte do testemunho."
+    },
+    {
+      "id": "O05",
+      "explanation": "**Servir uma dor real** evita promessas vagas. A caridade começa quando a necessidade concreta é vista e assumida proporcionalmente. Nem todos resolvem tudo, mas alguém pode fazer algo fiel. Obras concretas tornam o amor verificável."
+    },
+    {
+      "id": "O06",
+      "explanation": "**Reparar incoerência** é mais que sentir vergonha. Quando o erro feriu alguém, a conversão procura reparar o dano possível. Isso pode exigir pedido de perdão, correção pública ou mudança de prática. A fé pede responsabilidade concreta."
+    },
+    {
+      "id": "O07",
+      "explanation": "**Convidar sem pressionar** une anúncio e respeito. O cristão oferece a fé porque sabe que ela é um bem. Mas a resposta do outro não deve ser manipulada. O convite missionário é claro, humilde e livre."
+    },
+    {
+      "id": "O08",
+      "explanation": "**Escutar antes de responder** evita conselho precipitado. A verdade moral continua valendo, mas precisa ser aplicada com prudência. Escutar ajuda a conhecer responsabilidades, feridas e riscos. A resposta cristã deve ser firme e justa."
+    },
+    {
+      "id": "O09",
+      "explanation": "**Escolher fidelidade pequena** forma a consciência. Muitas infidelidades começam em coisas chamadas de detalhe. Dizer a verdade, devolver o que é devido e cumprir o justo também evangelizam. O cotidiano é campo real de missão."
+    },
+    {
+      "id": "O10",
+      "explanation": "**Cortar a vida dupla** exige decisão visível. Não basta admitir contradição; é preciso romper com práticas que desmentem a fé. Às vezes será necessário buscar orientação e reparar danos. A vontade do Pai pede conversão concreta."
+    },
+    {
+      "id": "O11",
+      "explanation": "**Formar a consciência** é buscar critérios verdadeiros para agir. Opinião rápida, preferência pessoal e pressão do ambiente não bastam. A fé precisa ser conhecida, rezada e aconselhada por pessoas maduras. Quem anuncia Cristo deve também aprender de Cristo."
+    },
+    {
+      "id": "O12",
+      "explanation": "**Dar bom exemplo público** é deixar a fé aparecer na conduta. Nem todo testemunho precisa começar com palavras religiosas. Justiça, respeito e caridade em público também apontam para Deus. A vida coerente torna a mensagem cristã crível."
+    },
+    {
+      "id": "O13",
+      "explanation": "**Pedir acompanhamento** é ato de humildade. Algumas feridas e confusões não devem ser enfrentadas sozinho. Ajuda espiritual e ajuda profissional podem colaborar quando cada uma ocupa seu lugar. Buscar apoio pode proteger a fé, a moral e a missão."
+    },
+    {
+      "id": "O14",
+      "explanation": "**Enviar em comunidade** evita missão individualista. A Igreja forma, acompanha, corrige e sustenta quem sai em missão. Preparação, oração e critérios concretos protegem as pessoas envolvidas. O envio cristão nasce da comunhão, não do improviso isolado."
+    },
+    {
+      "id": "O15",
+      "explanation": "**Perseverar na cruz** é continuar fiel quando o serviço pesa. A falta de reconhecimento não deve apagar o sentido da missão. Também é preciso cuidar do cansaço e dividir responsabilidades. A fidelidade a Cristo vale mais que aplauso imediato."
+    }
+  ]
+}

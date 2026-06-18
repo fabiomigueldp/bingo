@@ -1,0 +1,1966 @@
+{
+  "title": "Chamadas — Bingo A liturgia da Igreja",
+  "meeting": "Encontro 31 — A liturgia da Igreja",
+  "source_terms": "data/termos.json",
+  "method": {
+    "read_order": [
+      "call_label",
+      "case",
+      "reading_points"
+    ],
+    "rule": "A cada carta, anuncie código e conceito, leia o caso e explique brevemente a relação usando a Leitura do caso. Depois as equipes marcam o código, se estiver na cartela.",
+    "conference_rule": "Ao fechar duas linhas válidas, horizontais, verticais ou diagonais, a equipe escolhe uma dessas linhas completas, explica pelo menos três conceitos da linha escolhida e liga pelo menos um deles à base bíblica ou doutrinal do encontro. As duas linhas podem se cruzar. O centro livre já conta como casa marcada para completar linhas, mas não conta como um dos três conceitos explicados."
+  },
+  "cards": [
+    {
+      "id": "B01",
+      "term_id": "B01",
+      "call_label": "B01 - Christus totus",
+      "case": "Numa celebração solene, alguém diz que a Missa é apenas a reunião de quem conseguiu ir à igreja naquele dia.",
+      "conference_question": "O que muda quando entendemos que a liturgia é ação do Cristo todo, e não apenas atividade do grupo presente?",
+      "anchors": [
+        "CEC 1136",
+        "Ap 7,9-12"
+      ],
+      "facilitator_note": "Conduza a turma da ideia de reunião humana para a ação de Cristo Cabeça unido à Igreja.",
+      "reading_points": [
+        {
+          "title": "Redução humana",
+          "body": "O caso trata a Missa como encontro de pessoas, mas a liturgia envolve Cristo, a Igreja terrena e a liturgia celeste."
+        },
+        {
+          "title": "Cristo inteiro",
+          "body": "Christus totus significa Cristo Cabeça agindo com seu Corpo, a Igreja, na ação sagrada."
+        },
+        {
+          "title": "Reverência real",
+          "body": "Se Cristo age, a participação exige fé, atenção e reverência diante do mistério celebrado."
+        }
+      ]
+    },
+    {
+      "id": "B02",
+      "term_id": "B02",
+      "call_label": "B02 - Sacerdócio de Cristo",
+      "case": "Depois de um batizado, familiares comentam apenas a beleza das fotos e a recepção, sem mencionar que Cristo santificou uma vida pelo sacramento.",
+      "conference_question": "Por que reduzir um sacramento a cerimônia familiar obscurece o sacerdócio de Cristo?",
+      "anchors": [
+        "CEC 1136",
+        "Lc 22,19-20"
+      ],
+      "facilitator_note": "Mostre que a celebração tem dimensão familiar, mas sua realidade principal é a ação santificadora de Cristo.",
+      "reading_points": [
+        {
+          "title": "Centro deslocado",
+          "body": "A família viu o evento, mas perdeu de vista a ação principal do sacramento."
+        },
+        {
+          "title": "Cristo oferece",
+          "body": "Na liturgia, Cristo é o sacerdote que age para glorificar o Pai e santificar os homens."
+        },
+        {
+          "title": "Olhar de fé",
+          "body": "A resposta adequada é reconhecer que o rito não é enfeite social, mas ação salvadora."
+        }
+      ]
+    },
+    {
+      "id": "B03",
+      "term_id": "B03",
+      "call_label": "B03 - Igreja celebrante",
+      "case": "Em uma capela pequena, moradores dizem que a celebração não vale muito porque são poucos, simples e sem grande estrutura.",
+      "conference_question": "Como a noção de Igreja celebrante impede medir a liturgia por número, aparência ou prestígio?",
+      "anchors": [
+        "CEC 1140",
+        "At 2,42"
+      ],
+      "facilitator_note": "Evite romantizar a pobreza; destaque que a dignidade da liturgia vem da ação da Igreja unida a Cristo.",
+      "reading_points": [
+        {
+          "title": "Medida errada",
+          "body": "O valor da liturgia não depende de quantidade de pessoas, recursos ou impacto externo."
+        },
+        {
+          "title": "Corpo reunido",
+          "body": "A celebração é da Igreja, povo santo unido à sua Cabeça, mesmo em comunidade pequena."
+        },
+        {
+          "title": "Dignidade comum",
+          "body": "O zelo deve ser real, mas a assembleia simples não é uma celebração menor."
+        }
+      ]
+    },
+    {
+      "id": "B04",
+      "term_id": "B04",
+      "call_label": "B04 - Sacerdócio batismal",
+      "case": "Um fiel afirma que só o padre oferece algo a Deus na Missa e que o povo apenas observa em silêncio.",
+      "conference_question": "Como distinguir o sacerdócio ministerial do padre e o sacerdócio batismal dos fiéis sem confundir as funções?",
+      "anchors": [
+        "CEC 1141",
+        "1Pd 2,9"
+      ],
+      "facilitator_note": "Explique que todos participam, mas não todos do mesmo modo; unidade não elimina diversidade de funções.",
+      "reading_points": [
+        {
+          "title": "Povo não é plateia",
+          "body": "O caso reduz os batizados a observadores, como se não oferecessem sua vida a Deus."
+        },
+        {
+          "title": "Batismo consagra",
+          "body": "Pelo Batismo, os fiéis participam do sacerdócio de Cristo e oferecem sacrifício espiritual."
+        },
+        {
+          "title": "Funções distintas",
+          "body": "O padre preside em nome de Cristo, e a assembleia participa conforme sua vocação batismal."
+        }
+      ]
+    },
+    {
+      "id": "B05",
+      "term_id": "B05",
+      "call_label": "B05 - Participação ativa",
+      "case": "Durante uma Missa de corpo presente, parte da família permanece respeitosa, mas alheia às respostas, leituras e orações.",
+      "conference_question": "Por que participação ativa não significa agitação, mas também não se reduz a presença silenciosa e distante?",
+      "anchors": [
+        "CEC 1141",
+        "CEC 1144"
+      ],
+      "facilitator_note": "Mostre que participação ativa envolve atenção, fé, escuta, respostas e disposição interior.",
+      "reading_points": [
+        {
+          "title": "Respeito insuficiente",
+          "body": "A família não faz escândalo, mas permanece fora da ação que a liturgia realiza."
+        },
+        {
+          "title": "Entrar no rito",
+          "body": "Participação ativa é tomar parte com consciência, corpo, voz e coração."
+        },
+        {
+          "title": "Fé concreta",
+          "body": "A resposta cristã é unir o luto à oração da Igreja, não apenas assistir ao rito."
+        }
+      ]
+    },
+    {
+      "id": "B06",
+      "term_id": "B06",
+      "call_label": "B06 - Ação pública da Igreja",
+      "case": "Uma família quer transformar uma bênção comunitária em cerimônia particular, com músicas e falas escolhidas sem relação com o rito.",
+      "conference_question": "Que critério ajuda a distinguir legítimas intenções familiares de apropriação privada da liturgia?",
+      "anchors": [
+        "CEC 1140",
+        "1Cor 14,33.40"
+      ],
+      "facilitator_note": "Reconheça a intenção afetiva da família, mas afirme que a liturgia pertence à Igreja.",
+      "reading_points": [
+        {
+          "title": "Apropriação do rito",
+          "body": "O caso mostra uma família tentando submeter a celebração ao próprio roteiro."
+        },
+        {
+          "title": "Ação eclesial",
+          "body": "A liturgia é pública porque pertence ao corpo da Igreja e manifesta sua unidade."
+        },
+        {
+          "title": "Ordem recebida",
+          "body": "A resposta é acolher a intenção sem deformar a ação sagrada da Igreja."
+        }
+      ]
+    },
+    {
+      "id": "B07",
+      "term_id": "B07",
+      "call_label": "B07 - Domingo pascal",
+      "case": "Uma loja escala o mesmo empregado para todos os domingos, e ele passa meses sem participar da Eucaristia.",
+      "conference_question": "Como afirmar a centralidade do domingo sem ignorar pressões reais de trabalho e sustento?",
+      "anchors": [
+        "CEC 1166",
+        "CEC 1167"
+      ],
+      "facilitator_note": "Trate com seriedade a injustiça de algumas escalas e a responsabilidade de buscar meios proporcionais para viver o domingo.",
+      "reading_points": [
+        {
+          "title": "Centro perdido",
+          "body": "A rotina de trabalho engole o dia do Senhor e afasta o fiel da assembleia."
+        },
+        {
+          "title": "Páscoa semanal",
+          "body": "O domingo é memorial da Ressurreição e centro da semana cristã."
+        },
+        {
+          "title": "Discernimento concreto",
+          "body": "A resposta pode exigir diálogo, reorganização de horários e busca real da Eucaristia possível."
+        }
+      ]
+    },
+    {
+      "id": "B08",
+      "term_id": "B08",
+      "call_label": "B08 - Palavra e sacramento",
+      "case": "Numa celebração, as leituras são apressadas porque todos querem chegar logo à comunhão.",
+      "conference_question": "Por que a pressa diante da Palavra enfraquece a compreensão do sacramento celebrado?",
+      "anchors": [
+        "CEC 1153",
+        "CEC 1154"
+      ],
+      "facilitator_note": "Explique que Palavra e sacramento não competem; a Palavra prepara e ilumina a resposta de fé.",
+      "reading_points": [
+        {
+          "title": "Pressa espiritual",
+          "body": "O caso separa a comunhão da escuta que alimenta a fé."
+        },
+        {
+          "title": "Diálogo de Deus",
+          "body": "A liturgia une ações e palavras no encontro dos filhos com o Pai."
+        },
+        {
+          "title": "Escuta necessária",
+          "body": "A resposta adequada é valorizar a Palavra para participar melhor do sacramento."
+        }
+      ]
+    },
+    {
+      "id": "B09",
+      "term_id": "B09",
+      "call_label": "B09 - Linguagem dos sinais",
+      "case": "Alguém entra na igreja, faz uma genuflexão apressada sem olhar para o sacrário e continua conversando enquanto caminha.",
+      "conference_question": "Como um gesto correto por fora pode perder força quando não corresponde ao sentido do sinal?",
+      "anchors": [
+        "CEC 1153",
+        "CEC 1181"
+      ],
+      "facilitator_note": "Não ridicularize o gesto; mostre que sinais litúrgicos precisam de corpo e intenção unidos.",
+      "reading_points": [
+        {
+          "title": "Gesto esvaziado",
+          "body": "A genuflexão aparece como movimento automático, não como reconhecimento da presença de Cristo."
+        },
+        {
+          "title": "Sinais ensinam",
+          "body": "A liturgia fala por gestos, palavras, objetos, silêncio e espaço."
+        },
+        {
+          "title": "Unidade interior",
+          "body": "A resposta é fazer os sinais com atenção ao que eles expressam."
+        }
+      ]
+    },
+    {
+      "id": "B10",
+      "term_id": "B10",
+      "call_label": "B10 - Canto unido ao rito",
+      "case": "O grupo escolhe uma música conhecida e emocionante, mas a letra não corresponde ao momento litúrgico em que será cantada.",
+      "conference_question": "Por que uma música bonita pode ser inadequada para a liturgia quando não serve ao rito?",
+      "anchors": [
+        "CEC 1157",
+        "Cl 3,16"
+      ],
+      "facilitator_note": "Distinga valor musical e adequação litúrgica; nem tudo que emociona serve ao momento celebrado.",
+      "reading_points": [
+        {
+          "title": "Beleza isolada",
+          "body": "A música pode ser bonita, mas ainda assim deslocada da ação litúrgica."
+        },
+        {
+          "title": "Função do canto",
+          "body": "O canto serve à oração, à participação unânime e ao caráter solene da celebração."
+        },
+        {
+          "title": "Escolha obediente",
+          "body": "A resposta é escolher cantos que expressem o mistério daquele momento."
+        }
+      ]
+    },
+    {
+      "id": "B11",
+      "term_id": "B11",
+      "call_label": "B11 - Altar: cruz e mesa",
+      "case": "Após a Missa, pessoas deixam bolsas, copos e papéis sobre o altar enquanto organizam uma confraternização.",
+      "conference_question": "O que a fé da Igreja ensina sobre o altar que torna esse uso inadequado?",
+      "anchors": [
+        "CEC 1182",
+        "1Cor 11,23-26"
+      ],
+      "facilitator_note": "Mostre que o problema não é o objeto material em si, mas o significado sacramental do altar.",
+      "reading_points": [
+        {
+          "title": "Uso comum",
+          "body": "O altar é tratado como mesa de apoio, como se não tivesse significado próprio."
+        },
+        {
+          "title": "Centro sagrado",
+          "body": "O altar é sinal da cruz do Senhor e mesa da Eucaristia."
+        },
+        {
+          "title": "Zelo concreto",
+          "body": "A resposta é retirar objetos comuns e preservar o altar para sua função sagrada."
+        }
+      ]
+    },
+    {
+      "id": "B12",
+      "term_id": "B12",
+      "call_label": "B12 - Presença no sacrário",
+      "case": "Visitantes entram na igreja, fotografam vitrais e passam diante do sacrário sem nenhum gesto de reconhecimento.",
+      "conference_question": "Como explicar a reverência ao sacrário sem reduzir o gesto a costume externo?",
+      "anchors": [
+        "CEC 1183",
+        "Jo 6,51"
+      ],
+      "facilitator_note": "Ligue o gesto corporal à presença real de Cristo, evitando tratar reverência como etiqueta vazia.",
+      "reading_points": [
+        {
+          "title": "Olhar turístico",
+          "body": "Os visitantes percebem a beleza do prédio, mas não reconhecem a presença de Cristo."
+        },
+        {
+          "title": "Presença real",
+          "body": "O sacrário guarda o Santíssimo Sacramento e orienta a adoração."
+        },
+        {
+          "title": "Gesto de fé",
+          "body": "A reverência corporal expressa reconhecimento, não apenas costume religioso."
+        }
+      ]
+    },
+    {
+      "id": "B13",
+      "term_id": "B13",
+      "call_label": "B13 - Ambão da Palavra",
+      "case": "Antes da liturgia da Palavra, o responsável usa o ambão para anunciar venda de rifas e uma lista de recados.",
+      "conference_question": "Por que o lugar da proclamação da Palavra não deve ser confundido com um púlpito de avisos comuns?",
+      "anchors": [
+        "CEC 1184",
+        "CEC 1154"
+      ],
+      "facilitator_note": "Firme a dignidade do ambão sem criar desprezo pelas comunicações necessárias da comunidade.",
+      "reading_points": [
+        {
+          "title": "Lugar confundido",
+          "body": "O caso mistura comunicação comum com o lugar reservado à Palavra de Deus."
+        },
+        {
+          "title": "Dignidade da Palavra",
+          "body": "O ambão orienta a atenção da assembleia para a proclamação bíblica."
+        },
+        {
+          "title": "Ordem litúrgica",
+          "body": "Avisos podem ser necessários, mas precisam de lugar e modo adequados."
+        }
+      ]
+    },
+    {
+      "id": "B14",
+      "term_id": "B14",
+      "call_label": "B14 - Casa de oração",
+      "case": "Uma igreja recém-reformada ficou bonita para fotos, mas sem lugar adequado para silêncio, confissão e adoração.",
+      "conference_question": "Que diferença existe entre um espaço bonito e uma casa de oração adequada à liturgia?",
+      "anchors": [
+        "CEC 1181",
+        "CEC 1185"
+      ],
+      "facilitator_note": "Valorize a beleza, mas mostre que a igreja existe para culto, sacramentos e recolhimento.",
+      "reading_points": [
+        {
+          "title": "Beleza incompleta",
+          "body": "O espaço agrada aos olhos, mas não favorece plenamente a oração e os sacramentos."
+        },
+        {
+          "title": "Finalidade sagrada",
+          "body": "A casa de oração deve manifestar Cristo presente e agir a favor da vida espiritual."
+        },
+        {
+          "title": "Adequação real",
+          "body": "A resposta é ordenar beleza, silêncio e funcionalidade ao culto de Deus."
+        }
+      ]
+    },
+    {
+      "id": "B15",
+      "term_id": "B15",
+      "call_label": "B15 - Louvor do Céu",
+      "case": "No domingo, um fiel chega abatido e pensa que sua oração isolada não conta; ao ouvir o Santo, percebe a assembleia unida ao louvor dos anjos.",
+      "conference_question": "Como a visão de Apocalipse 7 ajuda a entender que a Missa une a terra ao louvor do Céu?",
+      "anchors": [
+        "CEC 1136",
+        "Ap 7,9-12"
+      ],
+      "facilitator_note": "Mostre a grandeza da liturgia sem transformar a explicação em imagem fantasiosa; use a fé da Igreja.",
+      "reading_points": [
+        {
+          "title": "Oração ampliada",
+          "body": "O fiel descobre que sua oração não está isolada, mas unida à Igreja inteira."
+        },
+        {
+          "title": "Liturgia celeste",
+          "body": "Apocalipse mostra uma multidão adorando diante do trono e do Cordeiro."
+        },
+        {
+          "title": "Esperança concreta",
+          "body": "A liturgia terrena nos coloca dentro desse louvor, mesmo quando chegamos cansados."
+        }
+      ]
+    },
+    {
+      "id": "I01",
+      "term_id": "I01",
+      "call_label": "I01 - Missa-espetáculo",
+      "case": "Em uma transmissão, a câmera procura aplausos, closes no cantor e comentários sobre desempenho, como se a celebração fosse show religioso.",
+      "conference_question": "Como distinguir uso legítimo de transmissão e linguagem de espetáculo que distorce a liturgia?",
+      "anchors": [
+        "B06",
+        "G11"
+      ],
+      "facilitator_note": "Evite atacar transmissão em si; o problema é transformar a celebração em produto para consumo.",
+      "reading_points": [
+        {
+          "title": "Lógica de show",
+          "body": "O foco passa da ação sagrada para desempenho, imagem e reação do público."
+        },
+        {
+          "title": "Assembleia celebrante",
+          "body": "A liturgia não é apresentação diante de espectadores, mas ação da Igreja com Cristo."
+        },
+        {
+          "title": "Uso ordenado",
+          "body": "Transmitir pode ajudar, mas deve servir ao mistério e não à autopromoção."
+        }
+      ]
+    },
+    {
+      "id": "I02",
+      "term_id": "I02",
+      "call_label": "I02 - Presença automática",
+      "case": "Uma família vai à Missa por costume, chega no horário, mas conversa sobre compras e sai sem lembrar o Evangelho.",
+      "conference_question": "Que diferença existe entre cumprir um costume religioso e participar conscientemente da ação litúrgica?",
+      "anchors": [
+        "B05",
+        "G01"
+      ],
+      "facilitator_note": "Não despreze o hábito religioso; mostre que o hábito precisa ser habitado pela fé.",
+      "reading_points": [
+        {
+          "title": "Costume sem atenção",
+          "body": "A família está presente, mas a mente e o coração ficam fora da celebração."
+        },
+        {
+          "title": "Participação consciente",
+          "body": "A liturgia pede escuta, resposta, memória e adesão interior."
+        },
+        {
+          "title": "Conversão do hábito",
+          "body": "O costume se torna fecundo quando conduz a uma participação real."
+        }
+      ]
+    },
+    {
+      "id": "I03",
+      "term_id": "I03",
+      "call_label": "I03 - Celular no rito",
+      "case": "Durante a consagração, um homem responde mensagens de trabalho porque acha que só precisa estar fisicamente no banco.",
+      "conference_question": "Como avaliar a diferença entre necessidade real e distração voluntária durante a celebração?",
+      "anchors": [
+        "B05",
+        "O03"
+      ],
+      "facilitator_note": "Aponte a gravidade do momento sem ignorar emergências reais; o foco é a negligência escolhida.",
+      "reading_points": [
+        {
+          "title": "Presença dividida",
+          "body": "O corpo está na igreja, mas a atenção é entregue a outra urgência não necessária."
+        },
+        {
+          "title": "Ação sagrada",
+          "body": "A consagração exige recolhimento diante do mistério eucarístico."
+        },
+        {
+          "title": "Limite prático",
+          "body": "Guardar o celular é uma decisão concreta para proteger a participação."
+        }
+      ]
+    },
+    {
+      "id": "I04",
+      "term_id": "I04",
+      "call_label": "I04 - Música de palco",
+      "case": "O microfone do cantor fica mais alto que a assembleia, e os refrões difíceis impedem o povo de cantar.",
+      "conference_question": "Por que o canto litúrgico deve conduzir a assembleia, e não substituir a voz dela?",
+      "anchors": [
+        "B10",
+        "G04"
+      ],
+      "facilitator_note": "Distinga competência musical de protagonismo; o bom músico ajuda o povo a rezar.",
+      "reading_points": [
+        {
+          "title": "Voz centralizada",
+          "body": "A música deixa de sustentar a assembleia e passa a destacar o executante."
+        },
+        {
+          "title": "Participação comum",
+          "body": "O canto litúrgico deve favorecer a oração unânime nos momentos previstos."
+        },
+        {
+          "title": "Serviço musical",
+          "body": "A resposta é escolher tom, volume e repertório que permitam participação."
+        }
+      ]
+    },
+    {
+      "id": "I05",
+      "term_id": "I05",
+      "call_label": "I05 - Palavra inaudível",
+      "case": "No funeral, a leitura é feita sem preparação, com voz baixa e pressa; muitos não entendem nada.",
+      "conference_question": "Por que proclamar mal a Palavra prejudica especialmente uma assembleia ferida pelo luto?",
+      "anchors": [
+        "B13",
+        "CEC 1154"
+      ],
+      "facilitator_note": "Mostre que a clareza da leitura é caridade concreta com quem precisa ouvir a Palavra.",
+      "reading_points": [
+        {
+          "title": "Escuta impedida",
+          "body": "A assembleia não recebe a Palavra porque o leitor não preparou a proclamação."
+        },
+        {
+          "title": "Dignidade bíblica",
+          "body": "A Palavra de Deus deve ser audível, inteligível e tratada com veneração."
+        },
+        {
+          "title": "Preparo necessário",
+          "body": "Quem lê serve a fé do povo e precisa preparar voz, ritmo e sentido."
+        }
+      ]
+    },
+    {
+      "id": "I06",
+      "term_id": "I06",
+      "call_label": "I06 - Função sem preparo",
+      "case": "Um leitor aceita a escala sem ter lido o texto antes e se perde em nomes, pausas e sentido da Escritura.",
+      "conference_question": "Por que aceitar uma função litúrgica sem preparo pode ser falta de caridade com a assembleia?",
+      "anchors": [
+        "CEC 1144",
+        "O12"
+      ],
+      "facilitator_note": "Trate a falha como responsabilidade formativa, não como humilhação do leitor.",
+      "reading_points": [
+        {
+          "title": "Serviço assumido mal",
+          "body": "A pessoa aceitou uma função sem cuidar do que ela exige."
+        },
+        {
+          "title": "Competência litúrgica",
+          "body": "Cada função deve ser exercida segundo sua natureza e com preparo proporcional."
+        },
+        {
+          "title": "Formação concreta",
+          "body": "A comunidade precisa formar e acompanhar quem serve."
+        }
+      ]
+    },
+    {
+      "id": "I07",
+      "term_id": "I07",
+      "call_label": "I07 - Altar banalizado",
+      "case": "Durante a montagem de uma decoração, a equipe usa o altar como apoio para tesoura, fita adesiva e caixas.",
+      "conference_question": "Como explicar que zelo pelo altar não é exagero, mas coerência com o que ele significa?",
+      "anchors": [
+        "B11",
+        "CEC 1182"
+      ],
+      "facilitator_note": "Não transforme a equipe em vilã; mostre a necessidade de formar a consciência sobre os sinais.",
+      "reading_points": [
+        {
+          "title": "Objeto comum",
+          "body": "O altar é usado como bancada, sem respeito por sua função litúrgica."
+        },
+        {
+          "title": "Sinal central",
+          "body": "Ele significa a cruz e a mesa do Senhor, centro da igreja."
+        },
+        {
+          "title": "Correção simples",
+          "body": "A resposta é retirar os materiais e organizar outro apoio adequado."
+        }
+      ]
+    },
+    {
+      "id": "I08",
+      "term_id": "I08",
+      "call_label": "I08 - Sacrário esquecido",
+      "case": "No fim de uma reunião pastoral, todos saem conversando alto pelo corredor central e ninguém percebe a lâmpada acesa junto ao sacrário.",
+      "conference_question": "O que a presença real de Cristo exige do comportamento dentro da igreja, mesmo fora da Missa?",
+      "anchors": [
+        "B12",
+        "O09"
+      ],
+      "facilitator_note": "Ligue reverência ao sacrário com comportamento concreto no espaço sagrado.",
+      "reading_points": [
+        {
+          "title": "Presença ignorada",
+          "body": "A conversa alta revela esquecimento prático da presença eucarística."
+        },
+        {
+          "title": "Cristo realmente presente",
+          "body": "O sacrário não é detalhe decorativo, mas lugar de adoração do Senhor."
+        },
+        {
+          "title": "Atitude coerente",
+          "body": "A resposta é reduzir ruído, fazer reverência e favorecer oração."
+        }
+      ]
+    },
+    {
+      "id": "I09",
+      "term_id": "I09",
+      "call_label": "I09 - Ambão para avisos",
+      "case": "Depois do Evangelho, alguém sobe ao ambão para convidar para uma feijoada e fazer agradecimentos longos.",
+      "conference_question": "Como comunicar necessidades da comunidade sem enfraquecer a dignidade do ambão?",
+      "anchors": [
+        "B13",
+        "G10"
+      ],
+      "facilitator_note": "Os avisos podem ser legítimos; discirna lugar, momento e brevidade.",
+      "reading_points": [
+        {
+          "title": "Mistura de funções",
+          "body": "O ambão passa de lugar da Palavra a ponto de comunicação geral."
+        },
+        {
+          "title": "Sinal específico",
+          "body": "Durante a liturgia da Palavra, a atenção se volta ao lugar da proclamação bíblica."
+        },
+        {
+          "title": "Comunicação ordenada",
+          "body": "Avisos devem ser breves e feitos de modo que não confundam os sinais."
+        }
+      ]
+    },
+    {
+      "id": "I10",
+      "term_id": "I10",
+      "call_label": "I10 - Domingo negociável",
+      "case": "Uma família marca sempre almoço, compras e viagem no horário da Missa, e a Eucaristia fica para quando sobrar tempo.",
+      "conference_question": "Que critério mostra quando o domingo cristão foi subordinado ao resto da agenda?",
+      "anchors": [
+        "B07",
+        "Hb 10,25"
+      ],
+      "facilitator_note": "Mostre que descanso e convivência são bons, mas não devem apagar o centro eucarístico do domingo.",
+      "reading_points": [
+        {
+          "title": "Prioridade invertida",
+          "body": "A Missa não é recusada em palavras, mas desaparece na prática."
+        },
+        {
+          "title": "Dia do Senhor",
+          "body": "O domingo é memorial da Ressurreição e dia próprio da assembleia litúrgica."
+        },
+        {
+          "title": "Agenda convertida",
+          "body": "Santificar o domingo exige organizar os compromissos ao redor do essencial."
+        }
+      ]
+    },
+    {
+      "id": "I11",
+      "term_id": "I11",
+      "call_label": "I11 - Comunhão sem exame",
+      "case": "Depois de uma semana de mentira grave no trabalho, alguém comunga sem arrependimento porque não quer parecer diferente na fila.",
+      "conference_question": "Por que o respeito à Eucaristia pede exame de consciência, arrependimento e busca de reconciliação?",
+      "anchors": [
+        "1Cor 11,23-26",
+        "B11"
+      ],
+      "facilitator_note": "Fale com seriedade sem expor consciências; o ponto é a coerência entre comunhão e conversão.",
+      "reading_points": [
+        {
+          "title": "Gesto social",
+          "body": "A pessoa comunga para manter aparência, não por disposição de fé e conversão."
+        },
+        {
+          "title": "Mistério recebido",
+          "body": "A Eucaristia é o Corpo do Senhor, não um sinal social de pertença externa."
+        },
+        {
+          "title": "Caminho de verdade",
+          "body": "A resposta é examinar a consciência, arrepender-se e buscar confissão quando necessário."
+        }
+      ]
+    },
+    {
+      "id": "I12",
+      "term_id": "I12",
+      "call_label": "I12 - Silêncio preenchido",
+      "case": "Na adoração, qualquer pausa é logo preenchida com música, comentário ou aviso, porque o silêncio deixa a equipe insegura.",
+      "conference_question": "Como distinguir silêncio fecundo de falta de condução ou abandono da assembleia?",
+      "anchors": [
+        "B09",
+        "G05"
+      ],
+      "facilitator_note": "Ensine que silêncio litúrgico não é improviso vazio; precisa de lugar, sentido e medida.",
+      "reading_points": [
+        {
+          "title": "Medo da pausa",
+          "body": "A equipe ocupa todo espaço sonoro para evitar insegurança."
+        },
+        {
+          "title": "Silêncio que fala",
+          "body": "O silêncio pode ser linguagem de escuta, adoração e interiorização."
+        },
+        {
+          "title": "Condução madura",
+          "body": "A resposta é prever pausas reais e explicar seu sentido quando necessário."
+        }
+      ]
+    },
+    {
+      "id": "I13",
+      "term_id": "I13",
+      "call_label": "I13 - Gestos apressados",
+      "case": "O sinal da cruz, a inclinação e as respostas são feitos de modo mecânico, como gestos que atrapalham a pressa de sair.",
+      "conference_question": "O que se perde quando os gestos litúrgicos são executados sem atenção ao que significam?",
+      "anchors": [
+        "B09",
+        "CEC 1153"
+      ],
+      "facilitator_note": "Mostre que o corpo também participa da fé; não se trata de teatralidade.",
+      "reading_points": [
+        {
+          "title": "Corpo sem atenção",
+          "body": "Os gestos acontecem, mas não conduzem a pessoa ao mistério."
+        },
+        {
+          "title": "Sinal corporal",
+          "body": "A liturgia educa a fé também por posturas e movimentos."
+        },
+        {
+          "title": "Ritmo reverente",
+          "body": "A resposta é fazer cada gesto com calma, sentido e unidade interior."
+        }
+      ]
+    },
+    {
+      "id": "I14",
+      "term_id": "I14",
+      "call_label": "I14 - Celebração privatizada",
+      "case": "Em um casamento, a família exige músicas e entradas que transformam a liturgia em roteiro de evento social.",
+      "conference_question": "Como acolher a alegria de uma família sem permitir que a liturgia vire propriedade do evento?",
+      "anchors": [
+        "B06",
+        "CEC 1140"
+      ],
+      "facilitator_note": "Reconheça a importância do casamento, mas afirme que a celebração sacramental não é espetáculo social.",
+      "reading_points": [
+        {
+          "title": "Rito apropriado",
+          "body": "A família quer moldar a celebração segundo expectativas de festa."
+        },
+        {
+          "title": "Ação da Igreja",
+          "body": "Mesmo em ocasiões familiares, a liturgia pertence à Igreja e segue sua natureza."
+        },
+        {
+          "title": "Alegria ordenada",
+          "body": "A resposta é celebrar com beleza e fidelidade, sem deformar o rito."
+        }
+      ]
+    },
+    {
+      "id": "I15",
+      "term_id": "I15",
+      "call_label": "I15 - Espaço sem recolhimento",
+      "case": "Antes da Missa, o interior da igreja vira ponto de conversa alta, fotos e combinações, enquanto pessoas tentam rezar.",
+      "conference_question": "Por que a caridade com quem reza exige cuidado concreto com o ambiente da igreja?",
+      "anchors": [
+        "B14",
+        "CEC 1185"
+      ],
+      "facilitator_note": "Mostre que silêncio não é antipatia; é respeito pelo lugar e pelas pessoas em oração.",
+      "reading_points": [
+        {
+          "title": "Ambiente tomado",
+          "body": "Conversas e fotos impedem outros fiéis de recolher-se."
+        },
+        {
+          "title": "Casa de oração",
+          "body": "A igreja deve favorecer recolhimento, oração silenciosa e celebração digna."
+        },
+        {
+          "title": "Caridade prática",
+          "body": "A resposta é deslocar conversas, baixar a voz e preparar-se para a Missa."
+        }
+      ]
+    },
+    {
+      "id": "N01",
+      "term_id": "N01",
+      "call_label": "N01 - Redução a programa",
+      "case": "Na reunião de organização, alguém diz que liturgia é só escolher entrada, leitura, música e avisos.",
+      "conference_question": "Por que essa frase parece prática, mas empobrece gravemente o sentido da liturgia?",
+      "anchors": [
+        "B02",
+        "B06"
+      ],
+      "facilitator_note": "Mostre que organização é necessária, mas não define a essência da liturgia.",
+      "reading_points": [
+        {
+          "title": "Lista sem mistério",
+          "body": "A liturgia aparece como programação de itens, não como ação sagrada."
+        },
+        {
+          "title": "Cristo age",
+          "body": "O centro da liturgia é o sacerdócio de Cristo exercido pela Igreja."
+        },
+        {
+          "title": "Organizar com fé",
+          "body": "A preparação deve servir ao mistério, não substituí-lo por logística."
+        }
+      ]
+    },
+    {
+      "id": "N02",
+      "term_id": "N02",
+      "call_label": "N02 - É só símbolo",
+      "case": "Diante do sacrário, alguém fala que não há motivo para genuflexão, porque tudo é apenas lembrança religiosa.",
+      "conference_question": "Como distinguir símbolo litúrgico de sinal vazio, especialmente diante da presença real no sacrário?",
+      "anchors": [
+        "B12",
+        "CEC 1183"
+      ],
+      "facilitator_note": "Evite opor símbolo e realidade; na fé católica, certos sinais comunicam uma realidade sagrada.",
+      "reading_points": [
+        {
+          "title": "Símbolo esvaziado",
+          "body": "A frase reduz o sinal a lembrança subjetiva."
+        },
+        {
+          "title": "Presença real",
+          "body": "O sacrário guarda Cristo presente no Santíssimo Sacramento."
+        },
+        {
+          "title": "Reverência de fé",
+          "body": "A genuflexão expressa reconhecimento de uma presença, não apego a costume."
+        }
+      ]
+    },
+    {
+      "id": "N03",
+      "term_id": "N03",
+      "call_label": "N03 - O importante é sentir",
+      "case": "Uma pessoa troca de Missa toda semana procurando a celebração que mais a emocione, sem se perguntar se participa do mistério celebrado.",
+      "conference_question": "Como discernir o lugar legítimo da emoção sem fazer dela a medida da liturgia?",
+      "anchors": [
+        "G03",
+        "Jo 4,23-24"
+      ],
+      "facilitator_note": "Reconheça que emoção pode acontecer, mas não governa a verdade da adoração.",
+      "reading_points": [
+        {
+          "title": "Critério instável",
+          "body": "A pessoa julga a Missa principalmente pelo que sente."
+        },
+        {
+          "title": "Adoração maior",
+          "body": "A liturgia é verdadeira mesmo quando a emoção é pequena ou ausente."
+        },
+        {
+          "title": "Fidelidade de fé",
+          "body": "A resposta é participar por amor a Deus, não por busca de sensação."
+        }
+      ]
+    },
+    {
+      "id": "N04",
+      "term_id": "N04",
+      "call_label": "N04 - Tem que animar",
+      "case": "O grupo escolhe palmas e falas constantes para evitar que a assembleia fique quieta, mesmo nos momentos de recolhimento.",
+      "conference_question": "Por que confundir participação com agitação pode impedir a oração da assembleia?",
+      "anchors": [
+        "B10",
+        "G05"
+      ],
+      "facilitator_note": "Não oponha alegria e liturgia; critique a ideia de que silêncio é fracasso.",
+      "reading_points": [
+        {
+          "title": "Agitação como regra",
+          "body": "A equipe tenta manter estímulo constante, como se quietude fosse problema."
+        },
+        {
+          "title": "Rito tem tempos",
+          "body": "A liturgia inclui canto, palavra, gesto e silêncio conforme cada momento."
+        },
+        {
+          "title": "Participação ordenada",
+          "body": "A resposta é respeitar os tempos do rito, sem forçar clima artificial."
+        }
+      ]
+    },
+    {
+      "id": "N05",
+      "term_id": "N05",
+      "call_label": "N05 - Cada um faz seu jeito",
+      "case": "Um responsável acrescenta gestos próprios ao rito porque acha que a comunidade precisa de novidade.",
+      "conference_question": "Como distinguir criatividade pastoral de alteração arbitrária que fere a unidade litúrgica?",
+      "anchors": [
+        "CEC 1144",
+        "G02"
+      ],
+      "facilitator_note": "Mostre que fidelidade ao rito não é falta de vida; é comunhão com a Igreja.",
+      "reading_points": [
+        {
+          "title": "Novidade sem critério",
+          "body": "A pessoa muda o rito por iniciativa própria e gosto pessoal."
+        },
+        {
+          "title": "Obediência eclesial",
+          "body": "Cada um deve fazer tudo e só aquilo que lhe compete na celebração."
+        },
+        {
+          "title": "Criatividade ordenada",
+          "body": "A resposta é agir dentro das possibilidades reais previstas pela Igreja."
+        }
+      ]
+    },
+    {
+      "id": "N06",
+      "term_id": "N06",
+      "call_label": "N06 - Deus entende a distração",
+      "case": "Durante toda a celebração, alguém conversa, mexe no celular e depois diz que Deus conhece seu coração.",
+      "conference_question": "Por que a confiança na misericórdia de Deus não justifica descuido voluntário na liturgia?",
+      "anchors": [
+        "B05",
+        "O03"
+      ],
+      "facilitator_note": "Afirme a misericórdia de Deus sem permitir que ela vire desculpa para negligência.",
+      "reading_points": [
+        {
+          "title": "Desculpa piedosa",
+          "body": "A frase usa uma verdade sobre Deus para evitar responsabilidade concreta."
+        },
+        {
+          "title": "Coração e corpo",
+          "body": "Participar envolve atenção interior e atitudes exteriores coerentes."
+        },
+        {
+          "title": "Conversão prática",
+          "body": "A resposta é cortar distrações voluntárias e entrar de fato na celebração."
+        }
+      ]
+    },
+    {
+      "id": "N07",
+      "term_id": "N07",
+      "call_label": "N07 - Rito é formalismo",
+      "case": "Uma pessoa despreza posturas e respostas comuns, dizendo que o que importa é a fé interior.",
+      "conference_question": "Como responder a essa frase sem cair nem no ritualismo vazio nem no desprezo pela forma litúrgica?",
+      "anchors": [
+        "B09",
+        "CEC 1153"
+      ],
+      "facilitator_note": "Use a distinção entre forma vazia e forma habitada pela fé.",
+      "reading_points": [
+        {
+          "title": "Separação falsa",
+          "body": "A pessoa opõe fé interior e forma litúrgica como se uma anulasse a outra."
+        },
+        {
+          "title": "Sinais da fé",
+          "body": "A liturgia expressa o encontro com Deus por ações e palavras."
+        },
+        {
+          "title": "Forma vivida",
+          "body": "A resposta é unir sinceridade interior e obediência aos sinais comuns."
+        }
+      ]
+    },
+    {
+      "id": "N08",
+      "term_id": "N08",
+      "call_label": "N08 - Rezo em casa",
+      "case": "Alguém abandona a Missa dominical por meses e afirma que suas orações pessoais substituem a assembleia e a Eucaristia.",
+      "conference_question": "Por que a oração pessoal não substitui sem motivo grave a assembleia dominical e a Eucaristia?",
+      "anchors": [
+        "B07",
+        "Hb 10,25"
+      ],
+      "facilitator_note": "Valorize a oração em casa, mas mostre que ela não cancela o domingo eucarístico.",
+      "reading_points": [
+        {
+          "title": "Substituição indevida",
+          "body": "A pessoa usa uma prática boa para abandonar outra que é central."
+        },
+        {
+          "title": "Domingo e assembleia",
+          "body": "A Igreja se reúne no dia do Senhor para Palavra e Eucaristia."
+        },
+        {
+          "title": "Vida integrada",
+          "body": "A oração pessoal deve conduzir à liturgia, não servir de desculpa contra ela."
+        }
+      ]
+    },
+    {
+      "id": "N09",
+      "term_id": "N09",
+      "call_label": "N09 - Palco da vaidade",
+      "case": "Um músico escolhe solos longos e reclama quando a assembleia canta junto, porque quer mostrar sua habilidade.",
+      "conference_question": "Que sinais revelam quando um serviço litúrgico deixou de servir e virou autopromoção?",
+      "anchors": [
+        "B10",
+        "G04"
+      ],
+      "facilitator_note": "Não critique talento; critique a vaidade que tira o canto de sua função litúrgica.",
+      "reading_points": [
+        {
+          "title": "Talento desordenado",
+          "body": "A habilidade musical é usada para aparecer, não para conduzir a oração."
+        },
+        {
+          "title": "Função do canto",
+          "body": "O canto deve favorecer participação, beleza expressiva da oração e solenidade."
+        },
+        {
+          "title": "Humildade litúrgica",
+          "body": "A resposta é ajustar escolhas para que a assembleia reze, não admire o músico."
+        }
+      ]
+    },
+    {
+      "id": "N10",
+      "term_id": "N10",
+      "call_label": "N10 - Gosto como medida",
+      "case": "Ao sair da Missa, alguém julga a celebração inteira apenas por ter gostado ou não do estilo musical.",
+      "conference_question": "Por que gosto pessoal é critério insuficiente para avaliar a fidelidade e a fecundidade da liturgia?",
+      "anchors": [
+        "B06",
+        "G02"
+      ],
+      "facilitator_note": "Explique que preferências existem, mas não são a norma principal da liturgia.",
+      "reading_points": [
+        {
+          "title": "Avaliação estreita",
+          "body": "A pessoa reduz toda a celebração a uma preferência musical."
+        },
+        {
+          "title": "Critério da Igreja",
+          "body": "A liturgia deve ser julgada por fidelidade ao rito e participação no mistério."
+        },
+        {
+          "title": "Gosto educado",
+          "body": "A resposta é formar o gosto pela fé, não submeter a fé ao gosto."
+        }
+      ]
+    },
+    {
+      "id": "N11",
+      "term_id": "N11",
+      "call_label": "N11 - Padre faz tudo",
+      "case": "Na preparação de uma celebração, todos recusam funções simples e dizem que o padre resolve sozinho.",
+      "conference_question": "Como essa frase revela uma assembleia passiva e empobrece a participação batismal?",
+      "anchors": [
+        "CEC 1141",
+        "CEC 1144"
+      ],
+      "facilitator_note": "Diferencie a função própria do sacerdote da responsabilidade real dos fiéis.",
+      "reading_points": [
+        {
+          "title": "Passividade transferida",
+          "body": "A comunidade entrega tudo ao padre para não assumir sua parte."
+        },
+        {
+          "title": "Povo sacerdotal",
+          "body": "Os batizados têm direito e obrigação de participar da liturgia."
+        },
+        {
+          "title": "Funções ordenadas",
+          "body": "A resposta é que cada um sirva conforme sua função, sem clericalismo prático."
+        }
+      ]
+    },
+    {
+      "id": "N12",
+      "term_id": "N12",
+      "call_label": "N12 - Silêncio é vazio",
+      "case": "Uma equipe corta os minutos de silêncio após a comunhão porque acha que ausência de som é falta de conteúdo.",
+      "conference_question": "Como explicar que o silêncio após a comunhão pode ser parte real da participação litúrgica?",
+      "anchors": [
+        "G05",
+        "CEC 1185"
+      ],
+      "facilitator_note": "Mostre que silêncio não é pausa morta quando está ligado ao mistério recebido.",
+      "reading_points": [
+        {
+          "title": "Vazio presumido",
+          "body": "A equipe interpreta ausência de fala como falta de oração."
+        },
+        {
+          "title": "Interiorização",
+          "body": "O silêncio ajuda a prolongar e interiorizar a grande oração da Eucaristia."
+        },
+        {
+          "title": "Tempo respeitado",
+          "body": "A resposta é preservar a pausa como espaço de adoração e ação de graças."
+        }
+      ]
+    },
+    {
+      "id": "N13",
+      "term_id": "N13",
+      "call_label": "N13 - Improviso piedoso",
+      "case": "Um leitor diz que não precisa preparar a leitura, pois o Espírito Santo dará um jeito na hora.",
+      "conference_question": "Por que invocar o Espírito Santo não dispensa responsabilidade, estudo e preparo litúrgico?",
+      "anchors": [
+        "I06",
+        "O12"
+      ],
+      "facilitator_note": "Corrija a falsa piedade sem negar a ação do Espírito; graça não substitui negligência.",
+      "reading_points": [
+        {
+          "title": "Piedade mal usada",
+          "body": "A pessoa usa linguagem espiritual para justificar falta de preparo."
+        },
+        {
+          "title": "Serviço responsável",
+          "body": "Quem proclama a Palavra precisa servir a escuta da assembleia."
+        },
+        {
+          "title": "Cooperação com a graça",
+          "body": "A resposta é preparar-se e pedir ao Espírito que fecunde o serviço."
+        }
+      ]
+    },
+    {
+      "id": "N14",
+      "term_id": "N14",
+      "call_label": "N14 - Espaço tanto faz",
+      "case": "Na reforma da igreja, alguém propõe deslocar o sacrário para um canto qualquer para abrir espaço a fotos e eventos.",
+      "conference_question": "Por que o modo de organizar o espaço da igreja expressa a fé que a comunidade professa?",
+      "anchors": [
+        "CEC 1181",
+        "CEC 1183"
+      ],
+      "facilitator_note": "Mostre que organização do espaço não é capricho estético, mas catequese visível.",
+      "reading_points": [
+        {
+          "title": "Função invertida",
+          "body": "O espaço sagrado é subordinado a eventos e aparência."
+        },
+        {
+          "title": "Sinal da fé",
+          "body": "A disposição do sacrário deve favorecer adoração e decoro."
+        },
+        {
+          "title": "Arquitetura catequética",
+          "body": "A resposta é organizar o templo para manifestar Cristo presente e a ação litúrgica."
+        }
+      ]
+    },
+    {
+      "id": "N15",
+      "term_id": "N15",
+      "call_label": "N15 - Domingo é tempo meu",
+      "case": "Uma pessoa reserva o domingo apenas para descanso e lazer, tratando a Missa como invasão de agenda.",
+      "conference_question": "Como distinguir descanso legítimo de uma autonomia que exclui Deus do dia do Senhor?",
+      "anchors": [
+        "B07",
+        "G15"
+      ],
+      "facilitator_note": "Não ataque o descanso; mostre que o domingo cristão ordena o descanso ao Senhor ressuscitado.",
+      "reading_points": [
+        {
+          "title": "Autonomia fechada",
+          "body": "A pessoa trata o domingo como propriedade privada sem referência a Deus."
+        },
+        {
+          "title": "Dia recebido",
+          "body": "O domingo é dia do Senhor, memorial da Ressurreição e centro da semana cristã."
+        },
+        {
+          "title": "Descanso ordenado",
+          "body": "A resposta é integrar lazer e família sem apagar a Eucaristia."
+        }
+      ]
+    },
+    {
+      "id": "G01",
+      "term_id": "G01",
+      "call_label": "G01 - Assistir ou participar",
+      "case": "Uma pessoa acompanha a Missa pela internet sem necessidade real, enquanto outra, doente e sem poder sair, acompanha a transmissão com recolhimento.",
+      "conference_question": "Como distinguir comodismo de impossibilidade real quando alguém acompanha a Missa à distância?",
+      "anchors": [
+        "B05",
+        "CEC 1141"
+      ],
+      "facilitator_note": "Evite condenação simplista; a diferença moral está na possibilidade concreta e na disposição de participar.",
+      "reading_points": [
+        {
+          "title": "Casos diferentes",
+          "body": "A mesma transmissão pode ser comodismo para um e auxílio legítimo para outro."
+        },
+        {
+          "title": "Participação possível",
+          "body": "Participar envolve fazer o que a própria condição permite diante de Deus."
+        },
+        {
+          "title": "Critério concreto",
+          "body": "Quando há possibilidade real, a assembleia presencial não deve ser trocada por conveniência."
+        }
+      ]
+    },
+    {
+      "id": "G02",
+      "term_id": "G02",
+      "call_label": "G02 - Fidelidade ou invenção",
+      "case": "Uma equipe quer adaptar uma celebração para ficar compreensível, mas começa a retirar partes essenciais do rito.",
+      "conference_question": "Que critério ajuda a saber quando uma adaptação legítima virou invenção indevida?",
+      "anchors": [
+        "CEC 1144",
+        "B06"
+      ],
+      "facilitator_note": "Mostre que compreender melhor a liturgia não exige deformar sua estrutura.",
+      "reading_points": [
+        {
+          "title": "Boa intenção insuficiente",
+          "body": "O desejo de facilitar pode acabar ferindo a natureza do rito."
+        },
+        {
+          "title": "Fidelidade eclesial",
+          "body": "A liturgia recebida da Igreja não pertence à criatividade privada da equipe."
+        },
+        {
+          "title": "Adaptação obediente",
+          "body": "A resposta é explicar, preparar e escolher opções previstas, sem retirar o essencial."
+        }
+      ]
+    },
+    {
+      "id": "G03",
+      "term_id": "G03",
+      "call_label": "G03 - Emoção ou adoração",
+      "case": "Num canto litúrgico, alguns se emocionam; em outra Missa, quase ninguém demonstra emoção, mas todos rezam com atenção.",
+      "conference_question": "Por que emoção pode acompanhar a liturgia, mas não prova sozinha que houve adoração?",
+      "anchors": [
+        "Jo 4,23-24",
+        "B15"
+      ],
+      "facilitator_note": "Valide a emoção quando ordenada, mas não permita que ela seja o medidor da fé.",
+      "reading_points": [
+        {
+          "title": "Sinais ambíguos",
+          "body": "Emoção visível pode existir, e recolhimento silencioso também pode ser oração verdadeira."
+        },
+        {
+          "title": "Adoração objetiva",
+          "body": "A liturgia é voltada a Deus, não à produção de uma experiência sensível."
+        },
+        {
+          "title": "Fé perseverante",
+          "body": "A resposta é adorar com ou sem emoção intensa, conforme a verdade do mistério."
+        }
+      ]
+    },
+    {
+      "id": "G04",
+      "term_id": "G04",
+      "call_label": "G04 - Função ou protagonismo",
+      "case": "Um ministro cumpre bem sua tarefa, mas outro prolonga falas e gestos para ser notado.",
+      "conference_question": "Como distinguir serviço bem executado de protagonismo pessoal dentro da liturgia?",
+      "anchors": [
+        "CEC 1144",
+        "B05"
+      ],
+      "facilitator_note": "A clareza da função é boa; o problema é buscar atenção para si.",
+      "reading_points": [
+        {
+          "title": "Mesma função, intenção diversa",
+          "body": "Um serve a ação litúrgica; o outro desloca a atenção para si."
+        },
+        {
+          "title": "Competência com limite",
+          "body": "Cada ministro ou fiel deve fazer tudo e só o que lhe compete."
+        },
+        {
+          "title": "Discrição fecunda",
+          "body": "A resposta é cumprir bem a função sem transformar o serviço em cena pessoal."
+        }
+      ]
+    },
+    {
+      "id": "G05",
+      "term_id": "G05",
+      "call_label": "G05 - Silêncio ou vazio",
+      "case": "Depois da comunhão, alguns ficam em silêncio; outros acham que nada acontece porque ninguém fala.",
+      "conference_question": "Que sinais ajudam a distinguir silêncio litúrgico fecundo de abandono ou falta de condução?",
+      "anchors": [
+        "CEC 1185",
+        "B09"
+      ],
+      "facilitator_note": "Explique que silêncio precisa ter sentido e lugar, mas não deve ser tratado como buraco.",
+      "reading_points": [
+        {
+          "title": "Interpretação apressada",
+          "body": "Alguns confundem ausência de fala com ausência de oração."
+        },
+        {
+          "title": "Silêncio orante",
+          "body": "O silêncio permite adoração, ação de graças e interiorização do sacramento."
+        },
+        {
+          "title": "Tempo discernido",
+          "body": "A resposta é preservar pausas reais sem abandonar a assembleia."
+        }
+      ]
+    },
+    {
+      "id": "G06",
+      "term_id": "G06",
+      "call_label": "G06 - Beleza ou luxo",
+      "case": "Uma comunidade pobre conserva vasos simples e limpos; outra gasta em enfeites caros enquanto descuida do essencial.",
+      "conference_question": "Como distinguir beleza digna de luxo que desvia a comunidade do mistério celebrado?",
+      "anchors": [
+        "CEC 1181",
+        "B14"
+      ],
+      "facilitator_note": "Não faça elogio automático da pobreza nem crítica automática ao belo; o critério é dignidade e finalidade.",
+      "reading_points": [
+        {
+          "title": "Dignidade não é preço",
+          "body": "Objetos simples podem ser dignos, e objetos caros podem ser vaidosos."
+        },
+        {
+          "title": "Beleza a serviço",
+          "body": "A casa de oração deve manifestar Cristo e favorecer a celebração."
+        },
+        {
+          "title": "Critério do essencial",
+          "body": "A resposta é cuidar da beleza sem abandonar sacramentos, Palavra e oração."
+        }
+      ]
+    },
+    {
+      "id": "G07",
+      "term_id": "G07",
+      "call_label": "G07 - Simplicidade ou descuido",
+      "case": "Por falta de recursos, uma capela usa objetos simples; por preguiça, outra deixa toalhas sujas e livros rasgados.",
+      "conference_question": "Por que simplicidade material pode ser digna, enquanto descuido revela falta de zelo?",
+      "anchors": [
+        "CEC 1181",
+        "I13"
+      ],
+      "facilitator_note": "Dê critério: pobreza não é desculpa para sujeira, abandono ou negligência evitável.",
+      "reading_points": [
+        {
+          "title": "Duas pobrezas diferentes",
+          "body": "Uma comunidade é limitada por recursos; outra negligencia o que poderia cuidar."
+        },
+        {
+          "title": "Zelo possível",
+          "body": "A liturgia pede dignidade proporcional às condições reais."
+        },
+        {
+          "title": "Cuidado concreto",
+          "body": "A resposta é limpar, reparar e organizar o que está ao alcance."
+        }
+      ]
+    },
+    {
+      "id": "G08",
+      "term_id": "G08",
+      "call_label": "G08 - Inculturação ou ruptura",
+      "case": "Uma comunidade usa canto local com texto adequado, mas alguém quer inserir danças e falas que interrompem a ação litúrgica.",
+      "conference_question": "Como distinguir expressão cultural legítima de ruptura que obscurece o rito?",
+      "anchors": [
+        "B06",
+        "B10"
+      ],
+      "facilitator_note": "Evite tratar cultura local como problema; o critério é se ela serve ao rito ou o quebra.",
+      "reading_points": [
+        {
+          "title": "Cultura discernida",
+          "body": "Nem toda expressão cultural é inadequada, e nem toda novidade serve à liturgia."
+        },
+        {
+          "title": "Unidade do rito",
+          "body": "A liturgia acolhe expressões que respeitam sua ação e seu sentido."
+        },
+        {
+          "title": "Critério de serviço",
+          "body": "A resposta é perguntar se a expressão ajuda a assembleia a celebrar o mistério."
+        }
+      ]
+    },
+    {
+      "id": "G09",
+      "term_id": "G09",
+      "call_label": "G09 - Acolhida ou banalização",
+      "case": "Um visitante chega sem saber como se portar; um responsável o acolhe, mas não transforma a irreverência em norma.",
+      "conference_question": "Como acolher alguém que não sabe se portar sem banalizar o lugar sagrado?",
+      "anchors": [
+        "B14",
+        "O08"
+      ],
+      "facilitator_note": "Mostre a diferença entre paciência com ignorância e aprovação de desrespeito.",
+      "reading_points": [
+        {
+          "title": "Ignorância real",
+          "body": "O visitante pode não conhecer os gestos e silêncios da igreja."
+        },
+        {
+          "title": "Acolhida com verdade",
+          "body": "A caridade recebe a pessoa e, no momento adequado, educa sua atitude."
+        },
+        {
+          "title": "Reverência preservada",
+          "body": "A resposta é orientar sem humilhar e sem declarar normal o que fere o sagrado."
+        }
+      ]
+    },
+    {
+      "id": "G10",
+      "term_id": "G10",
+      "call_label": "G10 - Palavra ou recado",
+      "case": "No mesmo microfone se proclamam leituras e se passam avisos de estacionamento, sem distinguir o que pertence à Palavra.",
+      "conference_question": "Por que a assembleia precisa perceber diferença entre proclamação bíblica e comunicação comum?",
+      "anchors": [
+        "CEC 1154",
+        "CEC 1184"
+      ],
+      "facilitator_note": "Ensine que a comunicação comunitária deve ser ordenada para não obscurecer a Palavra.",
+      "reading_points": [
+        {
+          "title": "Tudo nivelado",
+          "body": "O caso coloca Palavra de Deus e recados práticos no mesmo nível simbólico."
+        },
+        {
+          "title": "Proclamação litúrgica",
+          "body": "A Palavra tem lugar, rito, respostas e veneração próprios."
+        },
+        {
+          "title": "Separação saudável",
+          "body": "A resposta é dar aos avisos modo breve e lugar que não confundam os sinais."
+        }
+      ]
+    },
+    {
+      "id": "G11",
+      "term_id": "G11",
+      "call_label": "G11 - Assembleia ou plateia",
+      "case": "Numa celebração transmitida, quem está presente passa a se comportar como público de gravação, esperando comandos de câmera e reação dos cantores.",
+      "conference_question": "Como reconhecer quando a assembleia deixou de celebrar e virou plateia?",
+      "anchors": [
+        "CEC 1140",
+        "CEC 1141"
+      ],
+      "facilitator_note": "Mostre que transmissão não deve alterar a identidade litúrgica da assembleia.",
+      "reading_points": [
+        {
+          "title": "Postura de público",
+          "body": "Os presentes agem como espectadores de produção, não como povo celebrante."
+        },
+        {
+          "title": "Assembleia litúrgica",
+          "body": "A comunidade dos batizados participa da ação de Cristo na Igreja."
+        },
+        {
+          "title": "Recuperar o foco",
+          "body": "A resposta é ordenar câmera, música e condução ao rito, não à imagem."
+        }
+      ]
+    },
+    {
+      "id": "G12",
+      "term_id": "G12",
+      "call_label": "G12 - Reverência ou rigidez",
+      "case": "Uma pessoa corrige a postura do outro com grosseria, enquanto outra mantém reverência sem humilhar quem errou por ignorância.",
+      "conference_question": "Como defender a reverência sem transformar a correção em dureza ou humilhação?",
+      "anchors": [
+        "B09",
+        "1Cor 14,33.40"
+      ],
+      "facilitator_note": "Afirme que reverência e caridade não se anulam; uma corrige o modo da outra.",
+      "reading_points": [
+        {
+          "title": "Dois modos",
+          "body": "Um zelo vira agressividade; o outro conserva o sagrado e respeita a pessoa."
+        },
+        {
+          "title": "Verdade com caridade",
+          "body": "A liturgia pede ordem, mas a correção não deve ferir a dignidade do outro."
+        },
+        {
+          "title": "Correção prudente",
+          "body": "A resposta é escolher momento, palavra e proporção adequados."
+        }
+      ]
+    },
+    {
+      "id": "G13",
+      "term_id": "G13",
+      "call_label": "G13 - Serviço ou posse",
+      "case": "Uma equipe antiga trata a função litúrgica como direito adquirido e dificulta a entrada de novos servidores preparados.",
+      "conference_question": "Que diferença existe entre zelar por um serviço e agir como dono dele?",
+      "anchors": [
+        "CEC 1144",
+        "O11"
+      ],
+      "facilitator_note": "Mostre que estabilidade pode ajudar, mas posse de função fere a natureza do serviço.",
+      "reading_points": [
+        {
+          "title": "Cargo apropriado",
+          "body": "A função deixa de ser serviço e vira território controlado."
+        },
+        {
+          "title": "Ministério ordenado ao rito",
+          "body": "Cada serviço existe para a oração da Igreja, não para afirmação de grupo."
+        },
+        {
+          "title": "Abertura responsável",
+          "body": "A resposta é formar novos servidores e manter critérios objetivos."
+        }
+      ]
+    },
+    {
+      "id": "G14",
+      "term_id": "G14",
+      "call_label": "G14 - Sinal ou decoração",
+      "case": "Flores e tecidos são escolhidos para combinar com fotos, mas escondem o altar e distraem da ação sagrada.",
+      "conference_question": "Como distinguir ornamentação que serve ao sinal litúrgico de decoração que o encobre?",
+      "anchors": [
+        "B09",
+        "CEC 1181"
+      ],
+      "facilitator_note": "Não condene decoração; ensine que ela deve favorecer, não competir com os sinais centrais.",
+      "reading_points": [
+        {
+          "title": "Enfeite invasivo",
+          "body": "A decoração passa a competir com o altar e com a atenção da assembleia."
+        },
+        {
+          "title": "Sinal orientador",
+          "body": "Os elementos visíveis devem manifestar Cristo presente e o mistério celebrado."
+        },
+        {
+          "title": "Beleza subordinada",
+          "body": "A resposta é ajustar ornamentos para servir à liturgia."
+        }
+      ]
+    },
+    {
+      "id": "G15",
+      "term_id": "G15",
+      "call_label": "G15 - Domingo ou lazer absoluto",
+      "case": "Uma família descansa, visita parentes e passeia, mas organiza o dia de modo que a Eucaristia não desapareça.",
+      "conference_question": "Como esse caso mostra que santificar o domingo não elimina descanso, mas ordena o dia?",
+      "anchors": [
+        "CEC 1166",
+        "CEC 1167"
+      ],
+      "facilitator_note": "Mostre equilíbrio: o domingo cristão não é ativismo religioso nem lazer sem Deus.",
+      "reading_points": [
+        {
+          "title": "Lazer ordenado",
+          "body": "A família descansa sem retirar a Missa do centro do domingo."
+        },
+        {
+          "title": "Dia pascal",
+          "body": "O domingo é o dia da Ressurreição e da assembleia eucarística."
+        },
+        {
+          "title": "Prioridade concreta",
+          "body": "A resposta é organizar convivência e descanso em torno do Senhor."
+        }
+      ]
+    },
+    {
+      "id": "O01",
+      "term_id": "O01",
+      "call_label": "O01 - Preparar-se antes",
+      "case": "Antes de servir na leitura, uma pessoa lê o texto em casa, verifica pronúncia e chega cedo.",
+      "conference_question": "Por que essa preparação é parte do serviço litúrgico, e não apenas cuidado técnico?",
+      "anchors": [
+        "O12",
+        "CEC 1144"
+      ],
+      "facilitator_note": "Mostre que técnica e fé caminham juntas quando alguém serve à Palavra.",
+      "reading_points": [
+        {
+          "title": "Preparo visível",
+          "body": "A pessoa não improvisa; ela assume a função com responsabilidade."
+        },
+        {
+          "title": "Serviço à assembleia",
+          "body": "Preparar a leitura ajuda o povo a escutar a Palavra de Deus."
+        },
+        {
+          "title": "Fé encarnada",
+          "body": "A resposta une estudo, pontualidade e disposição interior."
+        }
+      ]
+    },
+    {
+      "id": "O02",
+      "term_id": "O02",
+      "call_label": "O02 - Chegar com recolhimento",
+      "case": "Uma família chega alguns minutos antes, evita conversas no banco e faz uma oração breve antes da Missa.",
+      "conference_question": "Como a chegada ao templo já pode educar a participação na liturgia?",
+      "anchors": [
+        "B14",
+        "CEC 1185"
+      ],
+      "facilitator_note": "Mostre que recolhimento começa antes do canto de entrada.",
+      "reading_points": [
+        {
+          "title": "Entrada ordenada",
+          "body": "A família não entra como quem chega a qualquer ambiente social."
+        },
+        {
+          "title": "Casa de oração",
+          "body": "O espaço da igreja pede atitude que favoreça silêncio e atenção."
+        },
+        {
+          "title": "Preparação interior",
+          "body": "A resposta é chegar com tempo e dispor o coração para a ação sagrada."
+        }
+      ]
+    },
+    {
+      "id": "O03",
+      "term_id": "O03",
+      "call_label": "O03 - Guardar o celular",
+      "case": "Ao entrar na igreja, alguém silencia o celular e decide não checar mensagens durante a celebração.",
+      "conference_question": "Como esse gesto simples protege a participação interior e a caridade com a assembleia?",
+      "anchors": [
+        "B05",
+        "I03"
+      ],
+      "facilitator_note": "Trate o celular como instrumento que precisa de limite, não como inimigo absoluto.",
+      "reading_points": [
+        {
+          "title": "Limite escolhido",
+          "body": "A pessoa antecipa a distração e toma uma decisão concreta."
+        },
+        {
+          "title": "Atenção litúrgica",
+          "body": "Participar exige presença real da mente e do coração."
+        },
+        {
+          "title": "Caridade discreta",
+          "body": "Guardar o celular evita dispersão própria e perturbação dos outros."
+        }
+      ]
+    },
+    {
+      "id": "O04",
+      "term_id": "O04",
+      "call_label": "O04 - Responder em voz",
+      "case": "Na assembleia, uma pessoa acompanha as respostas, o salmo e as aclamações sem gritar nem se calar por vergonha.",
+      "conference_question": "Por que responder com a assembleia é participação litúrgica real, e não detalhe secundário?",
+      "anchors": [
+        "CEC 1141",
+        "CEC 1154"
+      ],
+      "facilitator_note": "Mostre que voz adequada expressa unidade; não é performance individual.",
+      "reading_points": [
+        {
+          "title": "Voz comum",
+          "body": "A pessoa une sua voz à oração do povo sem buscar destaque."
+        },
+        {
+          "title": "Resposta de fé",
+          "body": "Aclamações, salmos e respostas pertencem ao diálogo litúrgico."
+        },
+        {
+          "title": "Participação simples",
+          "body": "A resposta é rezar com a assembleia, com clareza e sobriedade."
+        }
+      ]
+    },
+    {
+      "id": "O05",
+      "term_id": "O05",
+      "call_label": "O05 - Cantar com a assembleia",
+      "case": "O músico escolhe tom acessível, reduz solos e conduz o canto para que o povo reze junto.",
+      "conference_question": "Que escolhas concretas mostram que o músico está servindo a assembleia e não se apresentando?",
+      "anchors": [
+        "CEC 1157",
+        "B10"
+      ],
+      "facilitator_note": "Ajude a turma a ver que técnica musical boa é aquela que serve ao rito.",
+      "reading_points": [
+        {
+          "title": "Condução servidora",
+          "body": "O músico escolhe elementos que permitem a participação do povo."
+        },
+        {
+          "title": "Canto litúrgico",
+          "body": "A música é sinal quando está ligada à ação litúrgica e à oração comum."
+        },
+        {
+          "title": "Critério prático",
+          "body": "A resposta é ajustar tom, volume e repertório para a assembleia rezar."
+        }
+      ]
+    },
+    {
+      "id": "O06",
+      "term_id": "O06",
+      "call_label": "O06 - Escutar a Palavra",
+      "case": "Durante as leituras, alguém fecha o folheto de avisos, olha para o ambão e escuta sem antecipar conversas.",
+      "conference_question": "Como a postura corporal ajuda a Palavra de Deus a ser realmente acolhida?",
+      "anchors": [
+        "CEC 1154",
+        "B13"
+      ],
+      "facilitator_note": "Mostre que escuta não é passividade; é ato de fé.",
+      "reading_points": [
+        {
+          "title": "Atenção escolhida",
+          "body": "A pessoa afasta distrações e volta o corpo para a proclamação."
+        },
+        {
+          "title": "Dignidade da Palavra",
+          "body": "A liturgia da Palavra é parte integrante da celebração sacramental."
+        },
+        {
+          "title": "Escuta obediente",
+          "body": "A resposta é deixar a Palavra iluminar a fé e a vida."
+        }
+      ]
+    },
+    {
+      "id": "O07",
+      "term_id": "O07",
+      "call_label": "O07 - Respeitar funções",
+      "case": "Uma pessoa quer ajudar em tudo, mas aceita fazer apenas a função que lhe foi confiada naquele rito.",
+      "conference_question": "Por que respeitar a própria função favorece a unidade da celebração?",
+      "anchors": [
+        "CEC 1144",
+        "G04"
+      ],
+      "facilitator_note": "Mostre que boa vontade precisa de ordem; fazer tudo pode virar desordem ou protagonismo.",
+      "reading_points": [
+        {
+          "title": "Boa vontade ordenada",
+          "body": "A pessoa quer servir, mas aceita o limite da função recebida."
+        },
+        {
+          "title": "Unidade do rito",
+          "body": "Na liturgia, cada um faz tudo e só aquilo que lhe compete."
+        },
+        {
+          "title": "Serviço maduro",
+          "body": "A resposta é servir com obediência, sem invadir funções alheias."
+        }
+      ]
+    },
+    {
+      "id": "O08",
+      "term_id": "O08",
+      "call_label": "O08 - Corrigir com prudência",
+      "case": "Ao notar uso indevido do ambão, um coordenador conversa depois com o responsável, sem exposição pública e com referência às normas.",
+      "conference_question": "Como corrigir um abuso litúrgico sem cair em omissão nem em humilhação?",
+      "anchors": [
+        "G12",
+        "1Cor 14,33.40"
+      ],
+      "facilitator_note": "Apresente a correção prudente como união de verdade, caridade, tempo adequado e critério objetivo.",
+      "reading_points": [
+        {
+          "title": "Momento escolhido",
+          "body": "O coordenador não ignora o erro, mas evita transformar a correção em cena pública."
+        },
+        {
+          "title": "Critério objetivo",
+          "body": "A conversa se apoia na natureza do ambão e nas normas, não em gosto pessoal."
+        },
+        {
+          "title": "Caridade firme",
+          "body": "A resposta une clareza sobre o erro e respeito pela pessoa."
+        }
+      ]
+    },
+    {
+      "id": "O09",
+      "term_id": "O09",
+      "call_label": "O09 - Reverenciar o sacrário",
+      "case": "Ao entrar e sair da igreja, alguém localiza o sacrário e faz genuflexão ou inclinação conforme a presença e a possibilidade física.",
+      "conference_question": "Por que a reverência ao sacrário deve ser consciente e adaptada à condição real da pessoa?",
+      "anchors": [
+        "CEC 1183",
+        "B12"
+      ],
+      "facilitator_note": "Inclua pessoas com limitação física; o ponto é reconhecimento de Cristo, não padronização mecânica.",
+      "reading_points": [
+        {
+          "title": "Gesto consciente",
+          "body": "A pessoa identifica o sacrário e responde com um gesto adequado."
+        },
+        {
+          "title": "Presença adorada",
+          "body": "O sacrário guarda o Senhor realmente presente no Santíssimo Sacramento."
+        },
+        {
+          "title": "Reverência possível",
+          "body": "A resposta corporal deve expressar fé, respeitando limites físicos reais."
+        }
+      ]
+    },
+    {
+      "id": "O10",
+      "term_id": "O10",
+      "call_label": "O10 - Proteger o silêncio",
+      "case": "A equipe combina que, após a comunhão, haverá tempo real de oração sem música invasiva nem recados.",
+      "conference_question": "Por que proteger o silêncio exige decisão concreta da equipe e não apenas boa intenção?",
+      "anchors": [
+        "CEC 1185",
+        "G05"
+      ],
+      "facilitator_note": "Mostre que silêncio litúrgico precisa ser planejado com sobriedade.",
+      "reading_points": [
+        {
+          "title": "Decisão comum",
+          "body": "A equipe combina previamente como evitar interrupções no momento de oração."
+        },
+        {
+          "title": "Interiorização",
+          "body": "O silêncio ajuda a assembleia a rezar depois de receber a Eucaristia."
+        },
+        {
+          "title": "Proteção prática",
+          "body": "A resposta é retirar excessos e reservar tempo real para a oração."
+        }
+      ]
+    },
+    {
+      "id": "O11",
+      "term_id": "O11",
+      "call_label": "O11 - Servir sem aparecer",
+      "case": "Um ministro organiza discretamente o que faltava e volta ao seu lugar sem transformar a falha em cena.",
+      "conference_question": "Como a discrição pode ser sinal de verdadeiro serviço litúrgico?",
+      "anchors": [
+        "CEC 1144",
+        "G13"
+      ],
+      "facilitator_note": "Valorize a competência silenciosa; ela protege a assembleia e o rito.",
+      "reading_points": [
+        {
+          "title": "Correção discreta",
+          "body": "O ministro resolve uma necessidade sem chamar atenção para si."
+        },
+        {
+          "title": "Serviço ao rito",
+          "body": "A função litúrgica existe para favorecer a ação sagrada, não a imagem pessoal."
+        },
+        {
+          "title": "Humildade concreta",
+          "body": "A resposta é agir com precisão e desaparecer no serviço."
+        }
+      ]
+    },
+    {
+      "id": "O12",
+      "term_id": "O12",
+      "call_label": "O12 - Formar ministros",
+      "case": "A comunidade chama leitores e músicos para estudo do rito, ensaio e revisão fraterna, em vez de escalar qualquer um.",
+      "conference_question": "Por que formação litúrgica deve unir técnica, fé e obediência ao rito?",
+      "anchors": [
+        "CEC 1144",
+        "I06"
+      ],
+      "facilitator_note": "Mostre que formação não é burocracia; é cuidado com a oração da Igreja.",
+      "reading_points": [
+        {
+          "title": "Escala responsável",
+          "body": "A comunidade não preenche funções de qualquer modo."
+        },
+        {
+          "title": "Serviço formado",
+          "body": "Quem serve precisa compreender o rito e desempenhar sua função com competência."
+        },
+        {
+          "title": "Revisão fraterna",
+          "body": "A resposta é preparar, acompanhar e corrigir com caridade."
+        }
+      ]
+    },
+    {
+      "id": "O13",
+      "term_id": "O13",
+      "call_label": "O13 - Santificar o domingo",
+      "case": "Um trabalhador conversa com a família e ajusta compromissos para recuperar a Missa dominical sempre que a escala permite.",
+      "conference_question": "Como essa resposta evita tanto o abandono do domingo quanto a culpa injusta diante de impedimentos reais?",
+      "anchors": [
+        "CEC 1166",
+        "CEC 1167"
+      ],
+      "facilitator_note": "Trate com justiça quem tem escala pesada; a orientação é buscar o possível com seriedade.",
+      "reading_points": [
+        {
+          "title": "Busca real",
+          "body": "O trabalhador não usa a dificuldade como desculpa para desistir."
+        },
+        {
+          "title": "Centro dominical",
+          "body": "A Eucaristia é centro do dia do Senhor e da semana cristã."
+        },
+        {
+          "title": "Responsabilidade possível",
+          "body": "A resposta é reorganizar o que depende dele e não fingir que o domingo tanto faz."
+        }
+      ]
+    },
+    {
+      "id": "O14",
+      "term_id": "O14",
+      "call_label": "O14 - Reparar irreverência",
+      "case": "Depois de perceber brincadeira inadequada dentro da igreja, alguém pede desculpas e ajuda a recolocar o espaço em ordem.",
+      "conference_question": "Por que reconhecer e reparar uma irreverência é mais cristão do que fingir que nada aconteceu?",
+      "anchors": [
+        "B09",
+        "G12"
+      ],
+      "facilitator_note": "Mostre que reparação não é teatro de culpa; é verdade prática diante do sagrado.",
+      "reading_points": [
+        {
+          "title": "Erro reconhecido",
+          "body": "A pessoa percebe que sua atitude não combinou com a casa de oração."
+        },
+        {
+          "title": "Reverência restaurada",
+          "body": "Pedir desculpas e ordenar o espaço expressa respeito pelo sagrado e pelos outros."
+        },
+        {
+          "title": "Conversão concreta",
+          "body": "A resposta cristã inclui assumir o erro e corrigir o dano possível."
+        }
+      ]
+    },
+    {
+      "id": "O15",
+      "term_id": "O15",
+      "call_label": "O15 - Levar à vida",
+      "case": "Após a Missa, uma família decide reconciliar-se antes do almoço, porque ouviu a Palavra e recebeu a Eucaristia.",
+      "conference_question": "Como a liturgia celebrada deve transformar decisões concretas depois que a celebração termina?",
+      "anchors": [
+        "CEC 1153",
+        "1Pd 2,9"
+      ],
+      "facilitator_note": "Evite moralismo genérico; ligue Palavra, Eucaristia e conversão concreta.",
+      "reading_points": [
+        {
+          "title": "Fruto visível",
+          "body": "A família permite que a celebração toque uma ferida real de convivência."
+        },
+        {
+          "title": "Resposta de fé",
+          "body": "A liturgia une iniciativa de Deus e resposta do povo."
+        },
+        {
+          "title": "Vida oferecida",
+          "body": "A resposta é levar a graça celebrada para perdão, trabalho, família e serviço."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "title": "Carta de explicações rápidas — Bingo A vida em comunidade",
+  "meeting": "Encontro 28 — A vida em comunidade",
+  "source_calls": "data/chamadas.json",
+  "purpose": "Explicações breves para o condutor usar durante a chamada de cada carta.",
+  "entries": [
+    {
+      "id": "B01",
+      "explanation": "A fé cristã não é vida religiosa solitária. A Igreja é o **Corpo de Cristo**, e cada membro precisa dos outros. Pertencer à comunidade inclui sacramentos, doutrina, serviço e correção fraterna."
+    },
+    {
+      "id": "B02",
+      "explanation": "A comunidade não inventa a fé conforme a pressão do momento. Ela persevera na **doutrina dos Apóstolos**, recebida e guardada pela Igreja. Sem esse fundamento, a comunhão vira acordo frágil de opiniões."
+    },
+    {
+      "id": "B03",
+      "explanation": "Comunhão não é apenas simpatia entre pessoas parecidas. A **comunhão fraterna** nasce de Cristo e cria responsabilidade real pelo irmão. Ela exige abertura, partilha, paciência e verdade."
+    },
+    {
+      "id": "B04",
+      "explanation": "A Eucaristia não é detalhe da comunidade. A **fração do pão** une os fiéis a Cristo e uns aos outros. Sem esse centro, o serviço cristão perde sua fonte e pode virar simples atividade."
+    },
+    {
+      "id": "B05",
+      "explanation": "A oração pessoal é necessária, mas não substitui a **oração comum** da Igreja. Rezar juntos educa a fé e sustenta a perseverança. A comunidade que não reza junto tende a se dispersar."
+    },
+    {
+      "id": "B06",
+      "explanation": "Ser um só coração não significa pensar igual em tudo. A **unidade cristã** nasce da graça, da fé comum e da caridade. Diferenças legítimas podem servir à mesma missão quando são ordenadas pelo amor."
+    },
+    {
+      "id": "B07",
+      "explanation": "Atos mostra que a comunhão de fé alcança os bens concretos. **Bens em comum** não significa confusão ou imposição cega, mas coração aberto à necessidade do irmão. A posse cristã tem responsabilidade moral."
+    },
+    {
+      "id": "B08",
+      "explanation": "O cristão não é dono absoluto do que recebeu. Ele é **administrador de Deus** nos bens, dons, tempo e capacidades. Isso pede generosidade, justiça e disponibilidade para servir."
+    },
+    {
+      "id": "B09",
+      "explanation": "Caridade não é só sentir pena ou falar bonito. A **caridade concreta** toca a necessidade real com presença, ajuda, renúncia e responsabilidade. A fé sem obras não responde ao irmão ferido."
+    },
+    {
+      "id": "B10",
+      "explanation": "Partilhar bem exige olhar para a **necessidade real**. Tratar todos exatamente igual pode ser injusto quando as situações são diferentes. A comunidade discerne para proteger quem está mais vulnerável."
+    },
+    {
+      "id": "B11",
+      "explanation": "O bem comum supera a soma de interesses particulares. Buscar o **bem comum** é criar condições justas para que todos vivam com dignidade. Isso exige renúncia, ordem e responsabilidade compartilhada."
+    },
+    {
+      "id": "B12",
+      "explanation": "Solidariedade cristã não é pena distante. É carregar, de modo proporcional, o peso que fere o irmão. A **solidariedade** ajuda sem dominar e acompanha sem expor."
+    },
+    {
+      "id": "B13",
+      "explanation": "A unidade cristã precisa da verdade. Sem **verdade**, a paz vira aparência; sem caridade, a verdade vira dureza. A comunidade sadia corrige com clareza e sem humilhação."
+    },
+    {
+      "id": "B14",
+      "explanation": "A comunidade existe para testemunhar Cristo ressuscitado. O **testemunho pascal** une palavra, coragem e caridade visível. A Ressurreição é anunciada também por uma vida comunitária coerente."
+    },
+    {
+      "id": "B15",
+      "explanation": "A caridade precisa de ordem. **Ordem e paz** protegem pessoas, fatos e decisões em momentos de tensão. Deus não é Deus de confusão, e a comunidade deve agir com dignidade."
+    },
+    {
+      "id": "I01",
+      "explanation": "A fé isolada parece confortável, mas deixa a pessoa sem sacramentos, correção e pertença real. O cristão é chamado a viver no **Corpo de Cristo**. Conteúdo religioso não substitui comunidade concreta."
+    },
+    {
+      "id": "I02",
+      "explanation": "Ir à Missa sem vínculo pode reduzir a vida cristã a presença ocasional. A Eucaristia forma **comunhão**, não espectadores desligados. A participação madura gera pertença, serviço e responsabilidade."
+    },
+    {
+      "id": "I03",
+      "explanation": "O necessitado invisível mostra uma falha do olhar comunitário. Antes de julgar afastamento ou silêncio, é preciso perguntar e conhecer a situação. A comunhão cristã torna a **necessidade** visível."
+    },
+    {
+      "id": "I04",
+      "explanation": "A partilha seletiva ajuda primeiro quem é próximo ou simpático. Isso pode abandonar necessidades mais graves. A caridade cristã exige **critério justo**, não preferência afetiva."
+    },
+    {
+      "id": "I05",
+      "explanation": "Panelinha comunitária não é comunhão. Ela fecha decisões, convites e espaços em torno dos mesmos. A **fraternidade cristã** precisa abrir lugar para quem também pertence ao corpo."
+    },
+    {
+      "id": "I06",
+      "explanation": "A fofoca de corredor multiplica versões e fere a confiança. Falar sobre a pessoa sem buscar o bem dela não é correção. O caminho cristão pede **verdade direta**, caridade e responsabilidade."
+    },
+    {
+      "id": "I07",
+      "explanation": "Serviço de vitrine usa a dor do outro para construir imagem. A caridade não transforma o pobre em propaganda. O bem deve ser feito com **discrição**, respeito e prestação de contas adequada."
+    },
+    {
+      "id": "I08",
+      "explanation": "Liderança dominadora confunde função com posse. Ela cala, controla e depende do próprio prestígio. A autoridade cristã é **serviço** ordenado ao bem comum."
+    },
+    {
+      "id": "I09",
+      "explanation": "Conflitos de serviço existem e precisam ser tratados. O erro é deixá-los virar facção, acusação e abandono. A comunidade madura busca **escuta**, fatos e decisão justa."
+    },
+    {
+      "id": "I10",
+      "explanation": "O doente esquecido revela quando a pessoa é lembrada só enquanto produz. A dignidade não diminui com a doença. A comunidade responde com **visita**, oração, escuta e ajuda proporcional."
+    },
+    {
+      "id": "I11",
+      "explanation": "Uma família ferida não deve ser julgada de longe. Luto, desemprego, vício e conflito pedem presença responsável. A comunidade carrega fardos com **respeito**, discrição e encaminhamento adequado."
+    },
+    {
+      "id": "I12",
+      "explanation": "Dinheiro opaco destrói confiança. Recursos comuns exigem clareza, registro e critério. A **prestação de contas** protege tanto quem administra quanto quem contribui."
+    },
+    {
+      "id": "I13",
+      "explanation": "Sem formação, a comunidade fica vulnerável a frases fortes e opiniões soltas. A fé precisa da **doutrina dos Apóstolos**. Estudar a fé é condição para discernir e servir melhor."
+    },
+    {
+      "id": "I14",
+      "explanation": "Oração fragmentada não sustenta comunhão por si só. Mensagens religiosas podem ajudar, mas não substituem a oração comum. A comunidade precisa rezar junta para permanecer em **Deus**."
+    },
+    {
+      "id": "I15",
+      "explanation": "Comunidade cansada costuma ter poucos carregando quase tudo. Isso gera amargura, desistência e dependência de pessoas específicas. O corpo cresce quando há **corresponsabilidade** real."
+    },
+    {
+      "id": "N01",
+      "explanation": "A frase só eu e Deus parece piedosa, mas corta a forma eclesial da fé. Deus nos chama ao **Corpo de Cristo**, não a uma espiritualidade isolada. Relação pessoal com Deus não dispensa Igreja, sacramentos e irmãos."
+    },
+    {
+      "id": "N02",
+      "explanation": "Frequência conveniente usa a comunidade quando há vantagem. Isso não é pertença, mas consumo religioso. A fé madura pede **constância** e compromisso, mesmo quando não há benefício imediato."
+    },
+    {
+      "id": "N03",
+      "explanation": "Posse absoluta é tratar bens e capacidades como se Deus e o próximo não tivessem nada a ver com eles. O cristão é **administrador**, não dono fechado em si. Justiça e caridade atravessam o uso dos bens."
+    },
+    {
+      "id": "N04",
+      "explanation": "Cada um por si nega a solidariedade cristã. A dor do outro não é assunto totalmente estranho a mim. A comunidade deve responder com **responsabilidade proporcional**, sem indiferença e sem controle."
+    },
+    {
+      "id": "N05",
+      "explanation": "A vitrine da ajuda desvia a caridade para a autopromoção. Quem precisa de ajuda não deve pagar com exposição. A caridade cristã protege a **dignidade** e busca o bem sem palco."
+    },
+    {
+      "id": "N06",
+      "explanation": "Panelinha disfarçada chama fechamento de comunhão. A união de alguns não pode excluir silenciosamente os demais. A verdadeira **comunhão** abre participação e reconhece outros dons."
+    },
+    {
+      "id": "N07",
+      "explanation": "Verdade sem caridade usa a verdade como arma. A correção cristã busca conversão, não humilhação. A **verdade** deve ser dita com justiça, proporção e caridade."
+    },
+    {
+      "id": "N08",
+      "explanation": "Caridade sem verdade evita o desconforto, mas deixa o mal agir. Acolher a pessoa não significa aprovar tudo. A **caridade verdadeira** une misericórdia, clareza e chamado à conversão."
+    },
+    {
+      "id": "N09",
+      "explanation": "Cargo como privilégio corrompe a autoridade. Função comunitária não é status, território ou posse. Na Igreja, autoridade legítima é **serviço** ao bem comum."
+    },
+    {
+      "id": "N10",
+      "explanation": "Silêncio cúmplice chama omissão de paz. Quando há injustiça ou humilhação conhecida, calar pode proteger o agressor. A verdadeira **prudência** procura o modo justo de agir."
+    },
+    {
+      "id": "N11",
+      "explanation": "Transformar toda crítica em perseguição impede a conversão. Há críticas injustas, mas também há correções necessárias. A humildade cristã sabe escutar fatos e assumir **responsabilidade**."
+    },
+    {
+      "id": "N12",
+      "explanation": "Oração sem resposta usa linguagem religiosa para evitar dever concreto. Rezar é necessário, mas não substitui uma ajuda possível. A oração verdadeira move a **caridade** e dá força para agir."
+    },
+    {
+      "id": "N13",
+      "explanation": "Ativismo sem oração enche a agenda e esvazia a alma. A comunidade pode trabalhar muito e perder o centro. Palavra, Eucaristia e **oração** protegem o serviço de virar mera tarefa."
+    },
+    {
+      "id": "N14",
+      "explanation": "Doutrina descartável troca a fé recebida por conveniência. Prudência pastoral adapta a linguagem, não abandona a verdade. A comunidade persevera na **doutrina dos Apóstolos**."
+    },
+    {
+      "id": "N15",
+      "explanation": "Vergonha da necessidade faz a pessoa sofrer sozinha. A comunidade também erra quando transforma fragilidade em assunto ou humilhação. A comunhão cristã cria **confiança** para pedir e oferecer ajuda."
+    },
+    {
+      "id": "G01",
+      "explanation": "Comunhão e simpatia não são a mesma coisa. Simpatia aproxima semelhantes; **comunhão** une pessoas em Cristo. O teste aparece quando alguém diferente precisa de lugar, escuta e cuidado."
+    },
+    {
+      "id": "G02",
+      "explanation": "Unidade não exige uniformidade total. O Corpo de Cristo tem membros e dons diversos. A **unidade** cristã guarda a mesma fé e missão sem sufocar diferenças legítimas."
+    },
+    {
+      "id": "G03",
+      "explanation": "Partilha e exibição podem parecer iguais por fora. A diferença aparece na intenção, no modo e no cuidado com a dignidade de quem recebe. A **caridade** não precisa humilhar para ser vista."
+    },
+    {
+      "id": "G04",
+      "explanation": "Necessidade e desejo não têm o mesmo peso moral. Discernir prioridades não é desprezar a pessoa. A comunidade deve ajudar com **justiça**, escuta e respeito."
+    },
+    {
+      "id": "G05",
+      "explanation": "Autoridade e domínio são opostos na vida cristã. A autoridade serve, ordena e protege; o domínio usa a função para controlar. O critério de Cristo é **servir**, não mandar por vaidade."
+    },
+    {
+      "id": "G06",
+      "explanation": "Serviço e protagonismo podem se misturar. Alguém pode trabalhar muito e ainda impedir que outros cresçam. O **serviço cristão** forma corresponsabilidade e não precisa ocupar o centro."
+    },
+    {
+      "id": "G07",
+      "explanation": "Correção e humilhação têm finalidades diferentes. Corrigir busca salvar e reparar; humilhar busca ferir e vencer. A correção cristã precisa de **verdade**, proporção e caridade."
+    },
+    {
+      "id": "G08",
+      "explanation": "Prudência não é paralisia. Ela escolhe o tempo, o modo e os meios justos para agir. Quando a palavra prudência encobre medo ou conveniência, vira **omissão**."
+    },
+    {
+      "id": "G09",
+      "explanation": "Acolher não é aprovar tudo. A pessoa deve ser recebida com dignidade, mas a verdade moral não desaparece. A **misericórdia** cristã acompanha e chama à conversão."
+    },
+    {
+      "id": "G10",
+      "explanation": "Pertencer é diferente de consumir serviços religiosos. Quem pertence assume vínculo, escuta, sacramentos, serviço e correção. A Igreja é **comunidade**, não balcão de demandas."
+    },
+    {
+      "id": "G11",
+      "explanation": "Conflito não é sempre divisão. Um conflito real pode revelar uma necessidade que precisa ser tratada. A divisão nasce quando a comunidade abandona **verdade**, escuta e caridade."
+    },
+    {
+      "id": "G12",
+      "explanation": "Tradição e costume não são idênticos. A **Tradição** guarda a fé apostólica; costumes locais podem ajudar ou atrapalhar. A comunidade deve purificar costumes quando ferem a comunhão."
+    },
+    {
+      "id": "G13",
+      "explanation": "Oração e fuga religiosa precisam ser distinguidas. Rezar é essencial, mas não elimina responsabilidades concretas. A **oração verdadeira** dá luz e coragem para agir bem."
+    },
+    {
+      "id": "G14",
+      "explanation": "Solidariedade não é controle da vida alheia. Ajudar não dá posse sobre a pessoa ajudada. A **solidariedade cristã** preserva dignidade, limites e responsabilidade."
+    },
+    {
+      "id": "G15",
+      "explanation": "Misericórdia não banaliza o pecado. Deus perdoa, mas chama à verdade, conversão e reparação possível. A **misericórdia** levanta a pessoa sem negar a gravidade do mal."
+    },
+    {
+      "id": "O01",
+      "explanation": "Vincular-se de fato começa com passos concretos e sustentáveis. Constância, presença e pequeno serviço valem mais que entusiasmo passageiro. A **pertença** amadurece quando se torna compromisso real."
+    },
+    {
+      "id": "O02",
+      "explanation": "Procurar o necessitado é sair da suposição e da fofoca. A comunidade pergunta, visita e escuta com respeito. A **caridade** começa quando a necessidade real deixa de ser invisível."
+    },
+    {
+      "id": "O03",
+      "explanation": "Partilhar com critério não é esfriar a caridade. É usar bem recursos limitados para atender necessidades reais. A **partilha cristã** une generosidade, justiça e prudência."
+    },
+    {
+      "id": "O04",
+      "explanation": "Repartir responsabilidades cura a sobrecarga e forma novos servidores. Poucos não devem sustentar tudo enquanto muitos assistem. O **Corpo de Cristo** cresce quando os dons são chamados a servir."
+    },
+    {
+      "id": "O05",
+      "explanation": "Prestar contas é cuidado normal com a confiança. Recursos e decisões comuns pedem clareza. A **transparência** protege a comunidade contra boatos, injustiças e suspeitas desnecessárias."
+    },
+    {
+      "id": "O06",
+      "explanation": "Corrigir em privado é o primeiro caminho para muitas falhas ordinárias. Isso evita humilhação e busca recuperar o irmão. A **correção fraterna** deve unir fatos, caridade e desejo de reparação."
+    },
+    {
+      "id": "O07",
+      "explanation": "Cortar a fofoca não é fingir que nada aconteceu. É impedir que o dano cresça por comentários inúteis. A resposta cristã encaminha a informação para **correção** ou ajuda responsável."
+    },
+    {
+      "id": "O08",
+      "explanation": "Pedir ajuda pode ser ato de verdade e responsabilidade. Certas feridas, vícios e crises não devem ser enfrentados sozinho. A **humildade** abre caminho para cuidado espiritual, familiar e profissional."
+    },
+    {
+      "id": "O09",
+      "explanation": "Visitar quem sofre torna a comunhão concreta. A visita cristã não invade, não pesa e não transforma a dor em curiosidade. Ela oferece **presença**, oração e ajuda proporcional."
+    },
+    {
+      "id": "O10",
+      "explanation": "Formar-se na fé protege a comunidade do improviso. Antes de decidir e ensinar, é preciso aprender da Bíblia, do Catecismo e da Igreja. A **doutrina** forma o discernimento comum."
+    },
+    {
+      "id": "O11",
+      "explanation": "Rezar em comum coloca a obra diante de Deus. A oração comunitária purifica intenções e sustenta a perseverança. Sem **oração**, o serviço cristão facilmente perde o centro."
+    },
+    {
+      "id": "O12",
+      "explanation": "Servir sem palco é fazer o bem sem usar a dor alheia. Transparência não exige exposição de pessoas vulneráveis. A **discrição** protege a dignidade e purifica a intenção."
+    },
+    {
+      "id": "O13",
+      "explanation": "Mediar com justiça exige mais que boa vontade. É preciso ouvir, distinguir fatos de boatos e decidir encaminhamentos proporcionais. A **paz cristã** nasce da verdade conduzida com ordem."
+    },
+    {
+      "id": "O14",
+      "explanation": "Reparar o dano é parte da conversão. Pedir perdão é necessário, mas nem sempre basta. Quando o erro teve alcance público, a **reparação** deve alcançar o possível desse mesmo alcance."
+    },
+    {
+      "id": "O15",
+      "explanation": "Discernir compromissos impede promessas irresponsáveis. Generosidade cristã precisa de verdade sobre tempo, saúde, deveres e limites. Assumir menos com **fidelidade** pode servir melhor que prometer muito e falhar."
+    }
+  ]
+}

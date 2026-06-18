@@ -1,0 +1,2044 @@
+{
+  "title": "Chamadas — Bingo A missão de Jesus",
+  "meeting": "Encontro 32 — A missão de Jesus",
+  "source_terms": "data/termos.json",
+  "method": {
+    "read_order": [
+      "call_label",
+      "case",
+      "reading_points"
+    ],
+    "rule": "A cada carta, anuncie código e conceito, leia o caso e explique brevemente a relação usando a Leitura do caso. Depois as equipes marcam o código, se estiver na cartela.",
+    "conference_rule": "Ao fechar duas linhas válidas, horizontais, verticais ou diagonais, a equipe escolhe uma dessas linhas completas, explica pelo menos três conceitos da linha escolhida e liga pelo menos um deles à base bíblica ou doutrinal do encontro. As duas linhas podem se cruzar. O centro livre já conta como casa marcada para completar linhas, mas não conta como um dos três conceitos explicados."
+  },
+  "cards": [
+    {
+      "id": "B01",
+      "term_id": "B01",
+      "call_label": "B01 - Espírito do Senhor",
+      "case": "Uma obra social começa a crescer e alguns responsáveis passam a falar mais da própria marca do que das pessoas atendidas.",
+      "conference_question": "Que critério ajuda a distinguir uma missão movida pelo Espírito de uma ação religiosa usada para prestígio?",
+      "anchors": [
+        "Lc 4,14-18",
+        "At 10,38",
+        "CEC 436"
+      ],
+      "facilitator_note": "Mostre que a missão de Jesus nasce do Espírito e permanece orientada ao Pai e aos necessitados.",
+      "reading_points": [
+        {
+          "title": "Origem da missão",
+          "body": "A cena mostra uma obra boa correndo o risco de trocar a unção pelo brilho humano."
+        },
+        {
+          "title": "Desvio possível",
+          "body": "Quando a ação gira em torno da imagem dos responsáveis, os pobres viram instrumento de promoção."
+        },
+        {
+          "title": "Critério cristão",
+          "body": "Em Nazaré, Jesus age ungido pelo Espírito para cumprir a vontade do Pai e servir os feridos."
+        }
+      ]
+    },
+    {
+      "id": "B02",
+      "term_id": "B02",
+      "call_label": "B02 - Unção do Messias",
+      "case": "Alguém trata Jesus apenas como mestre de valores úteis, mas evita reconhecê-lo como o Cristo enviado por Deus.",
+      "conference_question": "O que muda na fé quando Jesus é reconhecido como Messias, e não apenas como exemplo moral?",
+      "anchors": [
+        "CEC 436",
+        "Is 61,1-2",
+        "Lc 4,18-21"
+      ],
+      "facilitator_note": "Conduza para a identidade de Jesus: sacerdote, profeta e rei, não simples líder inspirador.",
+      "reading_points": [
+        {
+          "title": "Redução de Jesus",
+          "body": "A cena transforma Jesus em referência ética, mas esvazia sua missão divina."
+        },
+        {
+          "title": "Sentido de Cristo",
+          "body": "Cristo significa Ungido, aquele que recebe missão de Deus e a realiza plenamente."
+        },
+        {
+          "title": "Fé completa",
+          "body": "Reconhecer Jesus como Messias muda a resposta: não basta admirá-lo, é preciso segui-lo."
+        }
+      ]
+    },
+    {
+      "id": "B03",
+      "term_id": "B03",
+      "call_label": "B03 - Boa-Nova aos pobres",
+      "case": "Numa reunião, propõem evangelizar um bairro pobre, mas retiram do plano toda escuta sobre fome, trabalho e moradia para evitar assuntos difíceis.",
+      "conference_question": "Por que anunciar o Evangelho aos pobres não pode ignorar as necessidades concretas que eles vivem?",
+      "anchors": [
+        "Lc 4,18",
+        "Mt 5,3",
+        "CEC 544"
+      ],
+      "facilitator_note": "Evite reduzir o Evangelho a assistência material, mas também rejeite uma fé desligada dos pobres.",
+      "reading_points": [
+        {
+          "title": "Pobreza concreta",
+          "body": "A cena mostra uma evangelização que quer falar de Deus sem tocar a vida real dos pobres."
+        },
+        {
+          "title": "Risco espiritual",
+          "body": "Separar anúncio e caridade contradiz a missão que Jesus assume em Nazaré."
+        },
+        {
+          "title": "Boa-Nova inteira",
+          "body": "Jesus anuncia salvação que alcança coração, corpo, relações e dignidade."
+        }
+      ]
+    },
+    {
+      "id": "B04",
+      "term_id": "B04",
+      "call_label": "B04 - Reino dos pequenos",
+      "case": "Num conselho, a fala de uma senhora simples é ignorada até que uma pessoa influente repete a mesma ideia e todos aplaudem.",
+      "conference_question": "Como o Reino de Deus muda o modo de ouvir pessoas pequenas ou sem prestígio?",
+      "anchors": [
+        "Mt 5,3",
+        "CEC 544",
+        "Mt 25,40"
+      ],
+      "facilitator_note": "Destaque que os pequenos não entram como enfeite, mas como destinatários privilegiados do Reino.",
+      "reading_points": [
+        {
+          "title": "Prestígio que pesa",
+          "body": "A cena mostra que a verdade pode ser rejeitada quando vem de quem não tem status."
+        },
+        {
+          "title": "Olhar do Reino",
+          "body": "Jesus revela que pobres e pequenos têm lugar central diante de Deus."
+        },
+        {
+          "title": "Conversão do ouvido",
+          "body": "O discípulo aprende a ouvir com justiça, não apenas segundo influência social."
+        }
+      ]
+    },
+    {
+      "id": "B05",
+      "term_id": "B05",
+      "call_label": "B05 - Cura dos feridos",
+      "case": "Depois de perder o filho, um homem escuta que precisa superar logo porque a vida continua, e se cala cada vez mais.",
+      "conference_question": "Como a missão de Jesus ajuda a responder a uma ferida sem negar sua gravidade?",
+      "anchors": [
+        "Lc 4,18",
+        "Lc 7,22",
+        "Mt 11,28"
+      ],
+      "facilitator_note": "Mostre que consolo cristão não é apressar a dor nem abandonar a pessoa nela.",
+      "reading_points": [
+        {
+          "title": "Ferida real",
+          "body": "O caso apresenta uma dor profunda tratada como incômodo a ser resolvido rapidamente."
+        },
+        {
+          "title": "Falsa dureza",
+          "body": "Mandar superar pode aumentar solidão e vergonha em quem já está quebrado."
+        },
+        {
+          "title": "Cristo se aproxima",
+          "body": "Jesus é enviado também aos contritos de coração e cura sem desprezar a ferida."
+        }
+      ]
+    },
+    {
+      "id": "B06",
+      "term_id": "B06",
+      "call_label": "B06 - Libertação dos cativos",
+      "case": "Um homem endividado aceita trabalhar sem folga para pagar juros que nunca diminuem, enquanto o credor chama isso de acordo livre.",
+      "conference_question": "Como distinguir uma escolha livre de uma situação em que a necessidade vira cativeiro?",
+      "anchors": [
+        "Lc 4,18-19",
+        "Jo 8,32",
+        "CEC 544"
+      ],
+      "facilitator_note": "Aponte prisões interiores e exteriores, sem reduzir a libertação cristã a uma só dimensão.",
+      "reading_points": [
+        {
+          "title": "Cativeiro disfarçado",
+          "body": "O caso mostra uma pessoa presa por dívida, medo e falta de alternativa real."
+        },
+        {
+          "title": "Liberdade ferida",
+          "body": "Nem todo acordo formal é justo quando a necessidade extrema pressiona a decisão."
+        },
+        {
+          "title": "Missão libertadora",
+          "body": "Jesus anuncia libertação que alcança pecado, mentira e opressões concretas."
+        }
+      ]
+    },
+    {
+      "id": "B07",
+      "term_id": "B07",
+      "call_label": "B07 - Vista aos cegos",
+      "case": "Uma empresa esconde dados de contaminação e repete que não há problema, até que os moradores passam a duvidar da própria percepção.",
+      "conference_question": "Por que a restauração da vista também pode significar libertar a consciência da mentira?",
+      "anchors": [
+        "Lc 4,18",
+        "Lc 7,22",
+        "Jo 9,39"
+      ],
+      "facilitator_note": "Mostre a cegueira moral como perda de verdade, não apenas falta de informação.",
+      "reading_points": [
+        {
+          "title": "Mentira organizada",
+          "body": "A cena mostra uma falsidade repetida para confundir quem sofre as consequências."
+        },
+        {
+          "title": "Cegueira moral",
+          "body": "Quando a mentira domina, a consciência tem dificuldade de nomear o mal."
+        },
+        {
+          "title": "Luz de Cristo",
+          "body": "Jesus devolve a vista também quando permite ver a verdade e agir conforme ela."
+        }
+      ]
+    },
+    {
+      "id": "B08",
+      "term_id": "B08",
+      "call_label": "B08 - Ano da graça",
+      "case": "Depois de anos enganando clientes, um comerciante diz que um dia mudará, mas continua aproveitando a confiança das pessoas.",
+      "conference_question": "O que significa acolher o tempo da graça sem transformar misericórdia em adiamento da conversão?",
+      "anchors": [
+        "Lc 4,19-21",
+        "Is 61,2",
+        "2Cor 6,2"
+      ],
+      "facilitator_note": "Ligue o hoje de Jesus à urgência da conversão concreta.",
+      "reading_points": [
+        {
+          "title": "Adiamento moral",
+          "body": "O caso mostra alguém que reconhece o erro, mas usa o futuro para não mudar agora."
+        },
+        {
+          "title": "Graça exigente",
+          "body": "A misericórdia não encobre a injustiça nem dispensa decisão presente."
+        },
+        {
+          "title": "Hoje de Deus",
+          "body": "Em Nazaré, Jesus anuncia que o tempo da salvação chegou e pede resposta."
+        }
+      ]
+    },
+    {
+      "id": "B09",
+      "term_id": "B09",
+      "call_label": "B09 - Sacerdote que se oferece",
+      "case": "Um líder religioso fala muito de sacrifício, mas sempre exige que outros paguem o preço enquanto ele se preserva.",
+      "conference_question": "Como a entrega de Cristo corrige uma autoridade que exige sacrifícios sem se oferecer?",
+      "anchors": [
+        "CEC 436",
+        "Mc 10,45",
+        "Hb 4,14-16"
+      ],
+      "facilitator_note": "Destaque que Jesus não explora o sacrifício alheio; ele se entrega por amor.",
+      "reading_points": [
+        {
+          "title": "Sacrifício deslocado",
+          "body": "A cena mostra uma fala religiosa usada para transferir custo aos outros."
+        },
+        {
+          "title": "Critério sacerdotal",
+          "body": "Jesus é sacerdote porque oferece a si mesmo, não porque manipula a entrega alheia."
+        },
+        {
+          "title": "Misericórdia real",
+          "body": "A missão de Cristo une obediência ao Pai e amor concreto pelos que salva."
+        }
+      ]
+    },
+    {
+      "id": "B10",
+      "term_id": "B10",
+      "call_label": "B10 - Profeta da Palavra",
+      "case": "Para não perder apoio, um pregador evita qualquer assunto que exija conversão e só repete mensagens agradáveis.",
+      "conference_question": "Como distinguir anúncio profético de discurso religioso feito para agradar?",
+      "anchors": [
+        "CEC 436",
+        "Lc 4,16-21",
+        "Jo 8,32"
+      ],
+      "facilitator_note": "Evite tom acusatório contra pessoas específicas; fale do critério da fidelidade à Palavra.",
+      "reading_points": [
+        {
+          "title": "Silêncio conveniente",
+          "body": "O caso mostra a tentação de trocar a Palavra de Deus por aprovação pública."
+        },
+        {
+          "title": "Profecia verdadeira",
+          "body": "O profeta não inventa a mensagem nem a suaviza para preservar imagem."
+        },
+        {
+          "title": "Jesus revela",
+          "body": "Cristo anuncia a Palavra do Pai e chama à conversão com verdade salvadora."
+        }
+      ]
+    },
+    {
+      "id": "B11",
+      "term_id": "B11",
+      "call_label": "B11 - Rei servidor",
+      "case": "Um gestor público inaugura um serviço essencial, mas usa a cerimônia para autopromoção e impede críticas dos moradores.",
+      "conference_question": "Que diferença existe entre governar para servir e usar o serviço como instrumento de domínio?",
+      "anchors": [
+        "CEC 436",
+        "Jo 18,36",
+        "Mc 10,45",
+        "CEC 786"
+      ],
+      "facilitator_note": "Mostre que o reinado de Cristo ilumina qualquer autoridade: poder legítimo deve servir.",
+      "reading_points": [
+        {
+          "title": "Poder sobre o povo",
+          "body": "A cena apresenta uma autoridade que transforma serviço público em palco pessoal."
+        },
+        {
+          "title": "Reino diferente",
+          "body": "Jesus afirma que seu Reino não é deste mundo e não se impõe como dominação."
+        },
+        {
+          "title": "Servir é reinar",
+          "body": "O discípulo mede autoridade pela capacidade de proteger, servir e conduzir ao bem."
+        }
+      ]
+    },
+    {
+      "id": "B12",
+      "term_id": "B12",
+      "call_label": "B12 - Hoje da salvação",
+      "case": "Uma família sabe que precisa reconciliar-se depois de uma injustiça antiga, mas sempre empurra a conversa para depois.",
+      "conference_question": "Por que o hoje da salvação incomoda a decisão de adiar indefinidamente uma conversão possível?",
+      "anchors": [
+        "Lc 4,21",
+        "2Cor 6,2",
+        "B08"
+      ],
+      "facilitator_note": "Ajude a turma a perceber que graça não é ideia abstrata; ela pede resposta no presente.",
+      "reading_points": [
+        {
+          "title": "Conversão adiada",
+          "body": "O caso mostra uma ferida conhecida que continua aberta por medo ou comodidade."
+        },
+        {
+          "title": "Tempo desperdiçado",
+          "body": "Adiar sempre pode virar forma de rejeitar a graça que já chama agora."
+        },
+        {
+          "title": "Cumprimento hoje",
+          "body": "Jesus anuncia que a Palavra se cumpre hoje, chamando a uma decisão real."
+        }
+      ]
+    },
+    {
+      "id": "B13",
+      "term_id": "B13",
+      "call_label": "B13 - Pobreza de coração",
+      "case": "Um empresário generoso nas doações humilha funcionários e não admite precisar de perdão ou correção.",
+      "conference_question": "Como distinguir generosidade externa de pobreza de coração diante de Deus?",
+      "anchors": [
+        "Mt 5,3",
+        "CEC 544",
+        "B03"
+      ],
+      "facilitator_note": "Mostre que pobreza de coração não é falta de dinheiro, mas humildade diante de Deus.",
+      "reading_points": [
+        {
+          "title": "Contradição interior",
+          "body": "O caso mostra doação material sem humildade e sem conversão nas relações."
+        },
+        {
+          "title": "Risco da autossuficiência",
+          "body": "Quem se acha superior não acolhe o Reino como pobre diante de Deus."
+        },
+        {
+          "title": "Humildade evangélica",
+          "body": "Jesus declara bem-aventurados os pobres de coração, abertos à graça e à verdade."
+        }
+      ]
+    },
+    {
+      "id": "B14",
+      "term_id": "B14",
+      "call_label": "B14 - Amor ativo aos pobres",
+      "case": "Uma campanha arrecada alimentos, mas entrega tudo sem escutar as famílias e sem perceber que algumas precisam de remédio e transporte.",
+      "conference_question": "O que torna o amor aos pobres ativo e concreto, e não apenas gesto genérico de boa vontade?",
+      "anchors": [
+        "CEC 544",
+        "Mt 25,31-46",
+        "CEC 2447"
+      ],
+      "facilitator_note": "Valorize a ajuda material, mas destaque inteligência, escuta e continuidade na caridade.",
+      "reading_points": [
+        {
+          "title": "Ajuda incompleta",
+          "body": "O caso mostra uma ação boa que pode errar por não conhecer a necessidade real."
+        },
+        {
+          "title": "Caridade concreta",
+          "body": "Amar os pobres exige atenção ao rosto, à história e ao bem possível."
+        },
+        {
+          "title": "Porta do Reino",
+          "body": "Jesus faz do amor ativo aos pobres condição concreta de entrada no Reino."
+        }
+      ]
+    },
+    {
+      "id": "B15",
+      "term_id": "B15",
+      "call_label": "B15 - Missão do batizado",
+      "case": "Uma mulher diz que missão é tarefa de padres e religiosas, embora veja diariamente injustiça e sofrimento no próprio trabalho.",
+      "conference_question": "Como o Batismo muda a responsabilidade de um cristão diante da missão de Jesus no mundo?",
+      "anchors": [
+        "Jo 20,21",
+        "Mt 28,18-20",
+        "CEC 783",
+        "CEC 1816"
+      ],
+      "facilitator_note": "Mostre que a missão continua na Igreja inteira, sem confundir vocações diferentes.",
+      "reading_points": [
+        {
+          "title": "Missão terceirizada",
+          "body": "A cena mostra a tentação de deixar a missão apenas para ministros ordenados ou consagrados."
+        },
+        {
+          "title": "Batismo envia",
+          "body": "Todo batizado participa de Cristo e é chamado a testemunhar conforme sua vocação."
+        },
+        {
+          "title": "Continuidade de Jesus",
+          "body": "O que Jesus começou continua na Igreja e na vida concreta dos seus discípulos."
+        }
+      ]
+    },
+    {
+      "id": "I01",
+      "term_id": "I01",
+      "call_label": "I01 - Despejo de família",
+      "case": "Uma família recebe ordem de despejo depois de meses sem renda, e os vizinhos discutem se aquilo é apenas problema particular.",
+      "conference_question": "Como ler essa situação sem negar o direito envolvido nem apagar a dignidade da família vulnerável?",
+      "anchors": [
+        "B03",
+        "B14",
+        "Mt 25,35"
+      ],
+      "facilitator_note": "Evite simplificar juridicamente; a carta pede olhar moral sobre moradia, pobreza e responsabilidade.",
+      "reading_points": [
+        {
+          "title": "Necessidade exposta",
+          "body": "O caso mostra pobreza concreta ligada a moradia, renda e fragilidade familiar."
+        },
+        {
+          "title": "Mais que papel",
+          "body": "A legalidade do processo não elimina a pergunta moral sobre proteção e ajuda possível."
+        },
+        {
+          "title": "Boa-Nova aos pobres",
+          "body": "A missão de Jesus leva o cristão a enxergar a família pobre como destinatária de cuidado real."
+        }
+      ]
+    },
+    {
+      "id": "I02",
+      "term_id": "I02",
+      "call_label": "I02 - Fila do hospital",
+      "case": "Um homem com dor intensa espera horas no corredor, enquanto funcionários acostumados à superlotação já não olham para o rosto dele.",
+      "conference_question": "O que muda quando a pessoa doente deixa de ser tratada como número e volta a ser vista como alguém com dignidade?",
+      "anchors": [
+        "B05",
+        "Mt 25,36",
+        "CEC 1931"
+      ],
+      "facilitator_note": "Não transforme a cena em acusação genérica aos profissionais; destaque desumanização e cuidado possível.",
+      "reading_points": [
+        {
+          "title": "Sofrimento invisível",
+          "body": "A cena mostra a dor física somada ao risco de ser tratado como volume de atendimento."
+        },
+        {
+          "title": "Dignidade ferida",
+          "body": "A rotina pode endurecer o olhar e apagar a pessoa concreta diante de nós."
+        },
+        {
+          "title": "Cristo no doente",
+          "body": "Jesus se identifica com os enfermos e chama a cuidado possível, mesmo em sistemas difíceis."
+        }
+      ]
+    },
+    {
+      "id": "I03",
+      "term_id": "I03",
+      "call_label": "I03 - Salário retido",
+      "case": "Uma pequena construtora atrasa salários por meses, mas o dono mantém gastos de luxo e pede paciência aos empregados.",
+      "conference_question": "Por que reter salário devido não é apenas dificuldade administrativa, mas questão grave de justiça?",
+      "anchors": [
+        "Tg 5,4",
+        "B06",
+        "B14"
+      ],
+      "facilitator_note": "Mostre a relação entre trabalho, sustento familiar e pecado contra a justiça.",
+      "reading_points": [
+        {
+          "title": "Trabalho lesado",
+          "body": "O caso mostra pessoas que já entregaram trabalho e continuam sem receber o devido."
+        },
+        {
+          "title": "Injustiça concreta",
+          "body": "O salário retido prende famílias em dívida, humilhação e insegurança."
+        },
+        {
+          "title": "Deus ouve o clamor",
+          "body": "A Escritura trata o salário injustamente retido como pecado que clama por justiça."
+        }
+      ]
+    },
+    {
+      "id": "I04",
+      "term_id": "I04",
+      "call_label": "I04 - Idoso abandonado",
+      "case": "Uma senhora passa semanas sem visitas; os parentes justificam que ela já não reconhece ninguém e dá trabalho demais.",
+      "conference_question": "Como a missão de Jesus corrige a ideia de que uma pessoa perde valor quando se torna dependente?",
+      "anchors": [
+        "Mt 25,36",
+        "CEC 1931",
+        "B14"
+      ],
+      "facilitator_note": "Trate o abandono com firmeza, sem acusar famílias concretas que podem viver situações complexas.",
+      "reading_points": [
+        {
+          "title": "Dependência ignorada",
+          "body": "O caso mostra uma pessoa vulnerável tratada como peso porque exige cuidado."
+        },
+        {
+          "title": "Valor não produtivo",
+          "body": "A dignidade humana não diminui com doença, idade ou perda de autonomia."
+        },
+        {
+          "title": "Amor ativo",
+          "body": "Cristo chama a presença, visita e cuidado proporcionais aos pequenos e frágeis."
+        }
+      ]
+    },
+    {
+      "id": "I05",
+      "term_id": "I05",
+      "call_label": "I05 - Dependência química",
+      "case": "Um pai promete parar de beber depois de cada crise, mas esconde garrafas e a família já vive esperando a próxima queda.",
+      "conference_question": "Como responder à dependência química unindo verdade, compaixão e busca de ajuda real?",
+      "anchors": [
+        "B06",
+        "Jo 8,32",
+        "Lc 4,18"
+      ],
+      "facilitator_note": "Evite tratar vício como pura falta de caráter ou como desculpa total para qualquer dano.",
+      "reading_points": [
+        {
+          "title": "Escravidão real",
+          "body": "A cena mostra uma vontade ferida que promete mudança, mas permanece presa ao consumo."
+        },
+        {
+          "title": "Dano familiar",
+          "body": "A dependência não atinge só quem consome; ela fere confiança, segurança e responsabilidade."
+        },
+        {
+          "title": "Libertação com verdade",
+          "body": "A missão de Jesus abre esperança, mas pede reconhecimento do problema e ajuda competente."
+        }
+      ]
+    },
+    {
+      "id": "I06",
+      "term_id": "I06",
+      "call_label": "I06 - Prisão sem esperança",
+      "case": "Um preso que quer estudar ou trabalhar ouve que gente como ele nunca muda e deveria apodrecer ali.",
+      "conference_question": "Como afirmar a justiça pelo crime cometido sem negar a dignidade e a possibilidade de conversão?",
+      "anchors": [
+        "Lc 4,18",
+        "Mt 25,36",
+        "B06"
+      ],
+      "facilitator_note": "Mantenha a distinção entre responsabilidade penal, dignidade da pessoa e esperança de conversão.",
+      "reading_points": [
+        {
+          "title": "Culpa não apaga dignidade",
+          "body": "O caso envolve alguém que deve responder pelo mal, mas continua sendo pessoa."
+        },
+        {
+          "title": "Desespero como prisão",
+          "body": "Dizer que ninguém muda fecha a porta para conversão e reparação possível."
+        },
+        {
+          "title": "Cristo visita os cativos",
+          "body": "Jesus anuncia libertação que inclui verdade, justiça e esperança de vida nova."
+        }
+      ]
+    },
+    {
+      "id": "I07",
+      "term_id": "I07",
+      "call_label": "I07 - Mentira que cega",
+      "case": "Uma família normaliza a corrupção de um parente dizendo que ele só é esperto, e ninguém mais consegue nomear o roubo.",
+      "conference_question": "Como uma mentira repetida pode deformar a consciência de uma casa inteira?",
+      "anchors": [
+        "B07",
+        "Jo 8,32",
+        "Jo 9,39"
+      ],
+      "facilitator_note": "Mostre que a cegueira moral muitas vezes começa com palavras que suavizam o pecado.",
+      "reading_points": [
+        {
+          "title": "Palavra que encobre",
+          "body": "O caso mostra uma fraude sendo renomeada como esperteza."
+        },
+        {
+          "title": "Consciência deformada",
+          "body": "Quando o mal ganha nome aceitável, fica mais difícil converter-se."
+        },
+        {
+          "title": "Vista restaurada",
+          "body": "Cristo devolve luz quando permite chamar o pecado pelo nome e buscar reparação."
+        }
+      ]
+    },
+    {
+      "id": "I08",
+      "term_id": "I08",
+      "call_label": "I08 - Dívida impagável",
+      "case": "Uma família pega dinheiro para comprar remédio e depois paga juros tão altos que nunca consegue sair da dívida.",
+      "conference_question": "Que sinais mostram que uma dívida deixou de ser ajuda e virou cativeiro?",
+      "anchors": [
+        "B06",
+        "B08",
+        "Mt 6,12"
+      ],
+      "facilitator_note": "Aponte a diferença entre responsabilidade financeira e exploração da necessidade extrema.",
+      "reading_points": [
+        {
+          "title": "Necessidade aproveitada",
+          "body": "A cena mostra uma urgência de saúde transformada em dependência financeira."
+        },
+        {
+          "title": "Cativeiro econômico",
+          "body": "Juros abusivos podem prender a pessoa numa obrigação que nunca se resolve."
+        },
+        {
+          "title": "Libertação e graça",
+          "body": "A missão de Jesus ilumina práticas de perdão, justiça e alívio de cargas injustas."
+        }
+      ]
+    },
+    {
+      "id": "I09",
+      "term_id": "I09",
+      "call_label": "I09 - Luto sem consolo",
+      "case": "Depois do funeral, todos voltam à rotina e a viúva passa meses sem que alguém pergunte como ela está vivendo.",
+      "conference_question": "Como consolar uma pessoa em luto sem pressa, invasão ou frases vazias?",
+      "anchors": [
+        "B05",
+        "Mt 5,4",
+        "Lc 4,18"
+      ],
+      "facilitator_note": "Mostre que presença fiel pode ser resposta cristã concreta, mesmo sem resolver a dor.",
+      "reading_points": [
+        {
+          "title": "Solidão depois da perda",
+          "body": "O caso mostra que a dor continua quando a atenção pública do funeral acaba."
+        },
+        {
+          "title": "Consolo verdadeiro",
+          "body": "Consolar não é explicar tudo, mas permanecer com respeito e ajuda possível."
+        },
+        {
+          "title": "Coração ferido",
+          "body": "Jesus é enviado aos contritos de coração e chama seus discípulos a presença compassiva."
+        }
+      ]
+    },
+    {
+      "id": "I10",
+      "term_id": "I10",
+      "call_label": "I10 - Migrante sem rede",
+      "case": "Uma mulher chega à cidade sem parentes e aceita qualquer trabalho porque não conhece seus direitos nem tem onde ficar.",
+      "conference_question": "Como acolher o migrante de modo concreto sem ingenuidade e sem indiferença?",
+      "anchors": [
+        "Mt 25,35",
+        "B03",
+        "B14"
+      ],
+      "facilitator_note": "Equilibre prudência e caridade; acolhida cristã não é curiosidade nem abandono.",
+      "reading_points": [
+        {
+          "title": "Vulnerabilidade de chegada",
+          "body": "A cena mostra alguém sem rede, exposto a exploração e medo."
+        },
+        {
+          "title": "Estrangeiro concreto",
+          "body": "O migrante não é tema abstrato; é pessoa com rosto, necessidade e dignidade."
+        },
+        {
+          "title": "Cristo acolhido",
+          "body": "Jesus liga a acolhida do estrangeiro ao amor concreto pelo próprio Senhor."
+        }
+      ]
+    },
+    {
+      "id": "I11",
+      "term_id": "I11",
+      "call_label": "I11 - Criança sem cuidado",
+      "case": "Uma criança pequena fica sozinha em casa durante turnos inteiros porque os adultos não têm com quem deixá-la.",
+      "conference_question": "Como discernir essa situação sem acusação apressada, mas também sem normalizar risco contra a criança?",
+      "anchors": [
+        "Mt 18,5-6",
+        "CEC 1931",
+        "B04"
+      ],
+      "facilitator_note": "Mostre que vulnerabilidade infantil exige proteção e encaminhamento responsável.",
+      "reading_points": [
+        {
+          "title": "Risco concreto",
+          "body": "O caso mostra uma criança exposta por falta de cuidado seguro."
+        },
+        {
+          "title": "Complexidade real",
+          "body": "A pobreza pode explicar a situação, mas não elimina a necessidade de proteger."
+        },
+        {
+          "title": "Pequenos do Reino",
+          "body": "Jesus leva a sério os pequenos e exige responsabilidade diante deles."
+        }
+      ]
+    },
+    {
+      "id": "I12",
+      "term_id": "I12",
+      "call_label": "I12 - Violência doméstica",
+      "case": "Uma mulher aparece com marcas de agressão e diz que foi acidente, enquanto o marido controla dinheiro, telefone e visitas.",
+      "conference_question": "Por que a falsa paz familiar não pode ser usada para encobrir violência e controle?",
+      "anchors": [
+        "B06",
+        "CEC 1931",
+        "Mt 25,40"
+      ],
+      "facilitator_note": "Conduza com seriedade; destaque proteção, denúncia adequada e cuidado da vítima.",
+      "reading_points": [
+        {
+          "title": "Controle e medo",
+          "body": "A cena apresenta sinais de violência física e domínio sobre a vida da vítima."
+        },
+        {
+          "title": "Silêncio perigoso",
+          "body": "Chamar isso de assunto de casal pode abandonar a pessoa em cativeiro."
+        },
+        {
+          "title": "Libertação cristã",
+          "body": "A missão de Jesus não protege aparências; ela busca vida, verdade e segurança."
+        }
+      ]
+    },
+    {
+      "id": "I13",
+      "term_id": "I13",
+      "call_label": "I13 - Comércio explorador",
+      "case": "Durante uma enchente, uma loja triplica o preço da água potável e diz que só está aproveitando a procura.",
+      "conference_question": "Que critério moral mostra que nem todo lucro permitido pelo mercado é justo diante de Deus?",
+      "anchors": [
+        "B14",
+        "Tg 5,4",
+        "CEC 2447"
+      ],
+      "facilitator_note": "Não faça debate econômico amplo; foque exploração da necessidade extrema.",
+      "reading_points": [
+        {
+          "title": "Lucro sobre desespero",
+          "body": "O caso mostra necessidade básica usada como oportunidade de ganho abusivo."
+        },
+        {
+          "title": "Mercado não absolve",
+          "body": "Preço e procura não eliminam a obrigação moral de justiça e caridade."
+        },
+        {
+          "title": "Amor aos pobres",
+          "body": "A missão de Cristo exige atenção aos que sofrem e recusa vantagem sobre sua dor."
+        }
+      ]
+    },
+    {
+      "id": "I14",
+      "term_id": "I14",
+      "call_label": "I14 - Recrutamento pelo crime",
+      "case": "Um chefe do tráfico oferece dinheiro rápido a um rapaz sem trabalho e diz que ali ele finalmente será respeitado.",
+      "conference_question": "Como reconhecer a falsa promessa de libertação quando ela conduz a medo, violência e novo cativeiro?",
+      "anchors": [
+        "B06",
+        "Jo 8,32",
+        "Lc 4,18"
+      ],
+      "facilitator_note": "Evite romantizar o crime; mostre vulnerabilidade real e responsabilidade moral.",
+      "reading_points": [
+        {
+          "title": "Promessa sedutora",
+          "body": "A cena oferece dinheiro e pertencimento a alguém vulnerável."
+        },
+        {
+          "title": "Liberdade falsa",
+          "body": "O crime promete respeito, mas prende por medo, violência e dívida moral."
+        },
+        {
+          "title": "Verdade liberta",
+          "body": "Jesus oferece libertação que não exige vender a consciência nem ferir inocentes."
+        }
+      ]
+    },
+    {
+      "id": "I15",
+      "term_id": "I15",
+      "call_label": "I15 - Bairro esquecido",
+      "case": "Num bairro sem saneamento, as crianças adoecem com frequência e as autoridades só aparecem em época de eleição.",
+      "conference_question": "Como a fé cristã ajuda a ver uma pobreza coletiva sem reduzi-la a estatística ou promessa política vazia?",
+      "anchors": [
+        "B03",
+        "B14",
+        "CEC 2443"
+      ],
+      "facilitator_note": "Mantenha foco catequético: dignidade, justiça, caridade e responsabilidade pública.",
+      "reading_points": [
+        {
+          "title": "Pobreza estrutural",
+          "body": "O caso mostra uma comunidade inteira atingida por abandono básico."
+        },
+        {
+          "title": "Dignidade coletiva",
+          "body": "Falta de saneamento não é detalhe técnico; fere saúde, infância e vida familiar."
+        },
+        {
+          "title": "Reino e pobres",
+          "body": "A missão de Jesus impede indiferença diante de pobres tratados como invisíveis."
+        }
+      ]
+    },
+    {
+      "id": "N01",
+      "term_id": "N01",
+      "call_label": "N01 - Evangelho sem pobres",
+      "case": "Um grupo religioso investe em eventos caros, mas considera incômodo reservar tempo e dinheiro para famílias em necessidade.",
+      "conference_question": "Por que um cristianismo desligado dos pobres contradiz o manifesto de Jesus em Nazaré?",
+      "anchors": [
+        "Lc 4,18",
+        "CEC 544",
+        "B03"
+      ],
+      "facilitator_note": "Não reduza a fé a ação social; mostre que fé autêntica não abandona os pobres.",
+      "reading_points": [
+        {
+          "title": "Prioridade invertida",
+          "body": "A cena mostra energia para prestígio religioso e resistência ao cuidado dos necessitados."
+        },
+        {
+          "title": "Narrativa falsa",
+          "body": "O erro é imaginar que a missão de Jesus pode ser fiel sem amor concreto aos pobres."
+        },
+        {
+          "title": "Evangelho inteiro",
+          "body": "Jesus anuncia a Boa-Nova aos pobres e faz deles porta concreta do Reino."
+        }
+      ]
+    },
+    {
+      "id": "N02",
+      "term_id": "N02",
+      "call_label": "N02 - Espiritualismo vazio",
+      "case": "Depois de ver uma família sem comida, alguém responde com frases religiosas, mas não procura saber se há algo possível a fazer.",
+      "conference_question": "Como distinguir confiança em Deus de uso de linguagem religiosa para fugir da caridade?",
+      "anchors": [
+        "Tg 2,14-17",
+        "Mt 25,31-46",
+        "B14"
+      ],
+      "facilitator_note": "Mostre que oração e fé são necessárias, mas não substituem a caridade possível.",
+      "reading_points": [
+        {
+          "title": "Palavra sem obra",
+          "body": "A cena mostra linguagem piedosa que não se torna cuidado concreto."
+        },
+        {
+          "title": "Fuga espiritual",
+          "body": "Quando a fé vira desculpa para omissão, ela deixa de testemunhar Cristo."
+        },
+        {
+          "title": "Fé viva",
+          "body": "A Escritura une fé e obras, especialmente diante de necessidades reais."
+        }
+      ]
+    },
+    {
+      "id": "N03",
+      "term_id": "N03",
+      "call_label": "N03 - Falsa neutralidade",
+      "case": "Num condomínio, todos sabem que uma cuidadora é explorada, mas dizem que não querem se meter em problema alheio.",
+      "conference_question": "Quando a neutralidade vira cumplicidade prática com uma injustiça que todos enxergam?",
+      "anchors": [
+        "Lc 10,25-37",
+        "B14",
+        "CEC 2447"
+      ],
+      "facilitator_note": "Diferencie prudência de omissão; nem toda intervenção é possível, mas a indiferença não é virtude.",
+      "reading_points": [
+        {
+          "title": "Injustiça conhecida",
+          "body": "O caso mostra um mal visível que permanece porque muitos preferem conforto."
+        },
+        {
+          "title": "Neutralidade falsa",
+          "body": "Não se envolver pode proteger o injusto e deixar a vítima sozinha."
+        },
+        {
+          "title": "Próximo ferido",
+          "body": "O bom samaritano ensina que a caridade rompe a indiferença diante do ferido."
+        }
+      ]
+    },
+    {
+      "id": "N04",
+      "term_id": "N04",
+      "call_label": "N04 - Culpa da vítima",
+      "case": "Após um golpe contra idosos, comentários dizem que eles foram ingênuos demais, enquanto quase ninguém fala da crueldade dos golpistas.",
+      "conference_question": "Por que culpar a vítima enfraquece a justiça e desvia o olhar do mal cometido?",
+      "anchors": [
+        "Lc 10,30-37",
+        "CEC 1931",
+        "B05"
+      ],
+      "facilitator_note": "Mostre que prudência da vítima pode ser discutida sem deslocar a culpa principal do agressor.",
+      "reading_points": [
+        {
+          "title": "Desvio da culpa",
+          "body": "O caso transfere atenção do crime para a fragilidade de quem sofreu."
+        },
+        {
+          "title": "Ferida aumentada",
+          "body": "Culpar a vítima acrescenta humilhação ao dano já recebido."
+        },
+        {
+          "title": "Cristo se aproxima",
+          "body": "A missão de Jesus cura feridos e chama o mal pelo nome sem abandonar quem sofreu."
+        }
+      ]
+    },
+    {
+      "id": "N05",
+      "term_id": "N05",
+      "call_label": "N05 - Pena sem compromisso",
+      "case": "Todos lamentam a situação de uma família sem gás de cozinha, mas ninguém se dispõe a verificar uma ajuda possível ou encaminhar o caso.",
+      "conference_question": "O que diferencia uma pena passageira de uma compaixão cristã que se compromete com o bem possível?",
+      "anchors": [
+        "Tg 2,15-17",
+        "B14",
+        "CEC 2447"
+      ],
+      "facilitator_note": "Não exija soluções perfeitas; destaque uma ação proporcionada ao alcance real.",
+      "reading_points": [
+        {
+          "title": "Lamento estéril",
+          "body": "A cena mostra como sentir pena pode terminar sem nenhum gesto concreto."
+        },
+        {
+          "title": "Compromisso necessário",
+          "body": "A caridade começa quando alguém pergunta o que pode ser feito com prudência."
+        },
+        {
+          "title": "Fé com obras",
+          "body": "A Escritura rejeita palavras de compaixão que deixam o necessitado sem ajuda."
+        }
+      ]
+    },
+    {
+      "id": "N06",
+      "term_id": "N06",
+      "call_label": "N06 - Liberdade sem verdade",
+      "case": "Um homem justifica apostas compulsivas dizendo que faz o que quer com seu dinheiro, enquanto a família já falta com contas básicas.",
+      "conference_question": "Por que nem todo ato escolhido é sinal de liberdade verdadeira?",
+      "anchors": [
+        "Jo 8,32",
+        "B06",
+        "B07"
+      ],
+      "facilitator_note": "Mostre que liberdade cristã não é seguir impulso; é viver na verdade e no bem.",
+      "reading_points": [
+        {
+          "title": "Escolha escravizada",
+          "body": "O caso apresenta uma decisão repetida que prejudica a família e domina a pessoa."
+        },
+        {
+          "title": "Autonomia falsa",
+          "body": "Dizer faço o que quero não torna bom o que destrói responsabilidade e verdade."
+        },
+        {
+          "title": "Verdade que liberta",
+          "body": "Jesus ensina que a liberdade nasce da verdade, não da entrega ao impulso."
+        }
+      ]
+    },
+    {
+      "id": "N07",
+      "term_id": "N07",
+      "call_label": "N07 - Misericórdia barata",
+      "case": "Um funcionário desvia dinheiro e a chefia prefere abafar tudo dizendo que é melhor perdoar, sem restituição nem proteção da equipe.",
+      "conference_question": "Como distinguir misericórdia cristã de encobrimento que evita conversão e reparação?",
+      "anchors": [
+        "B08",
+        "Jo 8,11",
+        "CEC 1825"
+      ],
+      "facilitator_note": "Ensine que misericórdia não é impunidade automática nem exposição vingativa.",
+      "reading_points": [
+        {
+          "title": "Perdão sem verdade",
+          "body": "O caso usa a palavra perdão para evitar enfrentar o mal cometido."
+        },
+        {
+          "title": "Vítimas esquecidas",
+          "body": "Sem reparação e proteção, a falsa misericórdia pode favorecer nova injustiça."
+        },
+        {
+          "title": "Conversão real",
+          "body": "Jesus perdoa e chama a não pecar mais, unindo misericórdia e mudança de vida."
+        }
+      ]
+    },
+    {
+      "id": "N08",
+      "term_id": "N08",
+      "call_label": "N08 - Reino como poder",
+      "case": "Um movimento religioso mede sucesso por influência, acesso a autoridades e capacidade de impor medo aos opositores.",
+      "conference_question": "Por que a missão de Jesus não pode ser confundida com conquista de domínio social ou religioso?",
+      "anchors": [
+        "Jo 18,36",
+        "Mc 10,45",
+        "B11"
+      ],
+      "facilitator_note": "Evite debate partidário; foque o contraste entre Reino de Cristo e lógica de dominação.",
+      "reading_points": [
+        {
+          "title": "Poder como medida",
+          "body": "A cena avalia a fé pela força de controlar e intimidar."
+        },
+        {
+          "title": "Reino deformado",
+          "body": "Quando o Reino vira domínio, o serviço de Cristo é substituído por ambição."
+        },
+        {
+          "title": "Rei servidor",
+          "body": "Jesus reina servindo e entregando a vida, não impondo prestígio pela força."
+        }
+      ]
+    },
+    {
+      "id": "N09",
+      "term_id": "N09",
+      "call_label": "N09 - Fé só privada",
+      "case": "Uma empresária diz que sua fé é importante, mas que não tem relação com contratos injustos, propaganda enganosa ou tratamento dos empregados.",
+      "conference_question": "Como evitar que a fé seja isolada da vida concreta onde decisões morais são tomadas?",
+      "anchors": [
+        "Mt 5,14-16",
+        "CEC 1816",
+        "B15"
+      ],
+      "facilitator_note": "Mostre que testemunho público não é exibicionismo religioso, mas coerência de vida.",
+      "reading_points": [
+        {
+          "title": "Divisão da vida",
+          "body": "A cena separa oração e decisões econômicas como se Deus não iluminasse ambas."
+        },
+        {
+          "title": "Privatização falsa",
+          "body": "A fé reduzida ao íntimo perde força de conversão sobre relações e responsabilidades."
+        },
+        {
+          "title": "Testemunho do batizado",
+          "body": "O discípulo é enviado a viver a missão de Cristo também no trabalho e na vida pública."
+        }
+      ]
+    },
+    {
+      "id": "N10",
+      "term_id": "N10",
+      "call_label": "N10 - Cada um por si",
+      "case": "Depois de um incêndio atingir casas vizinhas, alguns moradores dizem que cada família deve resolver sozinha porque ninguém é responsável pelos outros.",
+      "conference_question": "Como a parábola do próximo desmonta a lógica de cada um por si?",
+      "anchors": [
+        "Lc 10,25-37",
+        "Mt 25,40",
+        "B14"
+      ],
+      "facilitator_note": "Mostre responsabilidade proporcional; ninguém resolve tudo, mas a indiferença não é cristã.",
+      "reading_points": [
+        {
+          "title": "Indiferença organizada",
+          "body": "O caso mostra a dor do outro sendo empurrada para fora da responsabilidade comum."
+        },
+        {
+          "title": "Individualismo moral",
+          "body": "Cada um por si nega a pergunta cristã sobre quem se torna próximo."
+        },
+        {
+          "title": "Próximo concreto",
+          "body": "Jesus ensina que o amor se mede por aproximação e cuidado possível ao ferido."
+        }
+      ]
+    },
+    {
+      "id": "N11",
+      "term_id": "N11",
+      "call_label": "N11 - Pobre como ameaça",
+      "case": "Moradores querem remover pessoas em situação de rua da praça apenas para não vê-las, sem discutir abrigo, saúde ou segurança.",
+      "conference_question": "Como distinguir preocupação legítima com ordem pública de desprezo pela dignidade dos pobres?",
+      "anchors": [
+        "CEC 544",
+        "Mt 25,40",
+        "CEC 1931"
+      ],
+      "facilitator_note": "Reconheça problemas reais de convivência, mas rejeite a desumanização do pobre.",
+      "reading_points": [
+        {
+          "title": "Invisibilidade desejada",
+          "body": "A cena trata pessoas pobres como incômodo visual a ser removido."
+        },
+        {
+          "title": "Dignidade negada",
+          "body": "Problemas reais não autorizam transformar seres humanos em ameaça sem rosto."
+        },
+        {
+          "title": "Cristo nos pobres",
+          "body": "Jesus se identifica com os pobres e exige amor ativo, não simples afastamento."
+        }
+      ]
+    },
+    {
+      "id": "N12",
+      "term_id": "N12",
+      "call_label": "N12 - Sucesso como salvação",
+      "case": "Uma família só considera vitorioso quem ganha muito dinheiro; quem cuida de doentes ou serve discretamente é tratado como fracassado.",
+      "conference_question": "Que critério do Reino corrige a ideia de que sucesso visível mede o valor de uma vida?",
+      "anchors": [
+        "Mt 5,3",
+        "Lc 12,15",
+        "B04"
+      ],
+      "facilitator_note": "Mostre que trabalho e prosperidade não são males, mas não podem virar medida de salvação.",
+      "reading_points": [
+        {
+          "title": "Medida falsa",
+          "body": "O caso avalia pessoas apenas por dinheiro, visibilidade e desempenho."
+        },
+        {
+          "title": "Pequenos desprezados",
+          "body": "Quem serve sem prestígio é desvalorizado pela lógica do sucesso."
+        },
+        {
+          "title": "Reino dos humildes",
+          "body": "Jesus anuncia o Reino aos pequenos e liberta da idolatria da aparência."
+        }
+      ]
+    },
+    {
+      "id": "N13",
+      "term_id": "N13",
+      "call_label": "N13 - Sofrimento romantizado",
+      "case": "Diante de uma família sem saneamento, alguém diz que os pobres são mais puros porque sofrem mais, e nada é feito.",
+      "conference_question": "Por que romantizar o sofrimento pode impedir a caridade e a justiça que o Evangelho exige?",
+      "anchors": [
+        "B05",
+        "CEC 544",
+        "Mt 25,35-36"
+      ],
+      "facilitator_note": "Destaque que Deus pode agir no sofrimento, mas não manda amar a miséria injusta.",
+      "reading_points": [
+        {
+          "title": "Dor embelezada",
+          "body": "A cena transforma uma privação grave em imagem bonita de pureza."
+        },
+        {
+          "title": "Omissão escondida",
+          "body": "Romantizar a pobreza pode dispensar quem poderia ajudar ou cobrar justiça."
+        },
+        {
+          "title": "Jesus cura",
+          "body": "Cristo se aproxima dos feridos para salvar, não para usar sua dor como enfeite."
+        }
+      ]
+    },
+    {
+      "id": "N14",
+      "term_id": "N14",
+      "call_label": "N14 - Oração sem conversão",
+      "case": "Um homem pede orações pela paz em casa, mas se recusa a parar as ofensas e a procurar ajuda para sua agressividade.",
+      "conference_question": "Como unir oração sincera e conversão concreta sem usar Deus para adiar mudança de vida?",
+      "anchors": [
+        "Mt 7,21",
+        "Tg 2,14-17",
+        "B12"
+      ],
+      "facilitator_note": "Trate oração com reverência; o erro é usá-la como fuga da conversão.",
+      "reading_points": [
+        {
+          "title": "Pedido contraditório",
+          "body": "O caso mostra alguém pedindo paz enquanto mantém atitudes que ferem."
+        },
+        {
+          "title": "Oração manipulada",
+          "body": "Rezar sem querer mudar pode virar linguagem religiosa para evitar responsabilidade."
+        },
+        {
+          "title": "Hoje da resposta",
+          "body": "A graça chama a pessoa a rezar e agir no presente, não a empurrar a conversão."
+        }
+      ]
+    },
+    {
+      "id": "N15",
+      "term_id": "N15",
+      "call_label": "N15 - Justiça sem misericórdia",
+      "case": "Após um crime grave, comentários públicos deixam de pedir proteção e julgamento justo e passam a desejar tortura e destruição do culpado.",
+      "conference_question": "Como buscar justiça para o mal cometido sem perder a misericórdia e a dignidade do pecador?",
+      "anchors": [
+        "Mt 5,7",
+        "Jo 8,11",
+        "B08"
+      ],
+      "facilitator_note": "Não minimize o crime; mostre que a resposta cristã rejeita vingança e desumanização.",
+      "reading_points": [
+        {
+          "title": "Indignação deformada",
+          "body": "O caso começa com desejo legítimo de justiça, mas escorrega para ódio destrutivo."
+        },
+        {
+          "title": "Dignidade preservada",
+          "body": "O pecado deve ser julgado, mas a pessoa não perde sua dignidade diante de Deus."
+        },
+        {
+          "title": "Misericórdia verdadeira",
+          "body": "Jesus chama à conversão e não autoriza transformar justiça em vingança."
+        }
+      ]
+    },
+    {
+      "id": "G01",
+      "term_id": "G01",
+      "call_label": "G01 - Pobreza e miséria",
+      "case": "Um pregador elogia a simplicidade dos pobres, mas usa essa fala para dizer que não é necessário combater moradias insalubres.",
+      "conference_question": "Como distinguir pobreza de coração, que é virtude, de miséria injusta, que deve ser enfrentada?",
+      "anchors": [
+        "Mt 5,3",
+        "CEC 544",
+        "B13"
+      ],
+      "facilitator_note": "Explique que humildade evangélica não justifica abandono material grave.",
+      "reading_points": [
+        {
+          "title": "Confusão perigosa",
+          "body": "O caso mistura simplicidade evangélica com aceitação de condições indignas."
+        },
+        {
+          "title": "Duas realidades",
+          "body": "Pobreza de coração é abertura a Deus; miséria injusta fere a dignidade humana."
+        },
+        {
+          "title": "Resposta cristã",
+          "body": "Jesus ama os pobres e chama a combater o que destrói sua vida."
+        }
+      ]
+    },
+    {
+      "id": "G02",
+      "term_id": "G02",
+      "call_label": "G02 - Pessoa e pecado",
+      "case": "Uma mulher que cometeu fraude é tratada como lixo por todos, e qualquer tentativa de falar em dignidade é vista como defesa do crime.",
+      "conference_question": "Como condenar claramente o pecado sem negar a dignidade de quem pecou?",
+      "anchors": [
+        "CEC 1931",
+        "Jo 8,11",
+        "B07"
+      ],
+      "facilitator_note": "Mantenha juntos verdade moral e dignidade pessoal.",
+      "reading_points": [
+        {
+          "title": "Erro real",
+          "body": "O caso não nega a fraude nem a necessidade de justiça."
+        },
+        {
+          "title": "Pessoa não é pecado",
+          "body": "Reduzir alguém ao mal cometido impede conversão e viola sua dignidade."
+        },
+        {
+          "title": "Verdade que salva",
+          "body": "Jesus chama o pecado pelo nome e, ao mesmo tempo, chama a pessoa à vida nova."
+        }
+      ]
+    },
+    {
+      "id": "G03",
+      "term_id": "G03",
+      "call_label": "G03 - Compaixão e pena",
+      "case": "Ao ver um acidentado na estrada, motoristas diminuem para olhar, comentam a tristeza da cena e seguem viagem sem acionar socorro.",
+      "conference_question": "Que diferença existe entre sentir pena e agir com compaixão diante de uma necessidade concreta?",
+      "anchors": [
+        "Lc 10,33-37",
+        "B14",
+        "N05"
+      ],
+      "facilitator_note": "Use a parábola do samaritano para mostrar proximidade e ação proporcional.",
+      "reading_points": [
+        {
+          "title": "Pena passiva",
+          "body": "O caso mostra emoção diante da dor sem uma decisão mínima de socorro."
+        },
+        {
+          "title": "Compaixão ativa",
+          "body": "Compaixão cristã se aproxima da pessoa e busca o bem possível."
+        },
+        {
+          "title": "Próximo verdadeiro",
+          "body": "O samaritano não apenas sente; ele interrompe o caminho e cuida do ferido."
+        }
+      ]
+    },
+    {
+      "id": "G04",
+      "term_id": "G04",
+      "call_label": "G04 - Cura e controle",
+      "case": "Uma filha cuida da mãe doente, mas decide tudo sem ouvi-la e usa a doença para retirar dela qualquer escolha.",
+      "conference_question": "Como cuidar de alguém fragilizado sem transformar ajuda em domínio sobre sua vida?",
+      "anchors": [
+        "B05",
+        "Mc 10,46-52",
+        "CEC 1931"
+      ],
+      "facilitator_note": "Destaque respeito à autonomia possível e cuidado proporcional.",
+      "reading_points": [
+        {
+          "title": "Ajuda ambígua",
+          "body": "O caso mostra cuidado real misturado com controle excessivo."
+        },
+        {
+          "title": "Dignidade permanece",
+          "body": "A doença pode limitar escolhas, mas não apaga a pessoa nem sua voz."
+        },
+        {
+          "title": "Cura de Cristo",
+          "body": "Jesus cura levantando a pessoa, não transformando-a em objeto de domínio."
+        }
+      ]
+    },
+    {
+      "id": "G05",
+      "term_id": "G05",
+      "call_label": "G05 - Libertação e licença",
+      "case": "Depois de sair de uma relação abusiva, alguém começa a ferir outras pessoas e diz que agora ninguém pode impor limites.",
+      "conference_question": "Como distinguir libertação verdadeira de licença para repetir o mal sob outro nome?",
+      "anchors": [
+        "Jo 8,32",
+        "B06",
+        "N06"
+      ],
+      "facilitator_note": "Mostre que sair de uma opressão não autoriza perder a verdade moral.",
+      "reading_points": [
+        {
+          "title": "Saída necessária",
+          "body": "A libertação de uma relação abusiva pode ser justa e necessária."
+        },
+        {
+          "title": "Novo desvio",
+          "body": "A dor sofrida não dá licença para ferir inocentes ou negar limites."
+        },
+        {
+          "title": "Liberdade na verdade",
+          "body": "Jesus liberta para o bem, não para trocar uma escravidão por outra."
+        }
+      ]
+    },
+    {
+      "id": "G06",
+      "term_id": "G06",
+      "call_label": "G06 - Verdade e humilhação",
+      "case": "Um gerente expõe publicamente o erro de uma funcionária em uma reunião, dizendo que todos precisam aprender com o exemplo.",
+      "conference_question": "Quando dizer a verdade corrige e quando se torna humilhação que fere a pessoa?",
+      "anchors": [
+        "Jo 8,32",
+        "Ef 4,15",
+        "B10"
+      ],
+      "facilitator_note": "Ensine que verdade cristã deve buscar correção e salvação, não espetáculo.",
+      "reading_points": [
+        {
+          "title": "Erro exposto",
+          "body": "A cena envolve um erro real, mas tratado como exposição pública."
+        },
+        {
+          "title": "Verdade mal usada",
+          "body": "A verdade pode ser instrumentalizada para dominar ou envergonhar."
+        },
+        {
+          "title": "Caridade na verdade",
+          "body": "O cristão deve corrigir buscando o bem da pessoa e da comunidade."
+        }
+      ]
+    },
+    {
+      "id": "G07",
+      "term_id": "G07",
+      "call_label": "G07 - Acolhida e aprovação",
+      "case": "Uma família recebe de volta um parente que saiu da prisão, mas alguns dizem que acolher significa fingir que nada aconteceu.",
+      "conference_question": "Como acolher uma pessoa sem aprovar o mal cometido nem negar a necessidade de reparação?",
+      "anchors": [
+        "Jo 8,11",
+        "CEC 1931",
+        "G02"
+      ],
+      "facilitator_note": "Mantenha a distinção entre receber com dignidade e apagar responsabilidade.",
+      "reading_points": [
+        {
+          "title": "Retorno difícil",
+          "body": "O caso exige acolhida de uma pessoa marcada por culpa real."
+        },
+        {
+          "title": "Dois erros opostos",
+          "body": "Rejeitar a pessoa é errado, mas fingir que não houve mal também é."
+        },
+        {
+          "title": "Conversão acompanhada",
+          "body": "Jesus acolhe e chama a não pecar mais, unindo dignidade e verdade."
+        }
+      ]
+    },
+    {
+      "id": "G08",
+      "term_id": "G08",
+      "call_label": "G08 - Serviço e protagonismo",
+      "case": "Durante uma distribuição de marmitas, o organizador insiste em filmar rostos de pessoas vulneráveis para mostrar seu trabalho nas redes.",
+      "conference_question": "Como servir os pobres sem usar a necessidade deles para autopromoção?",
+      "anchors": [
+        "Mc 10,45",
+        "Jo 13,14-15",
+        "B11"
+      ],
+      "facilitator_note": "Mostre que divulgação pode ser legítima quando protege dignidade e finalidade, mas exposição humilhante é grave.",
+      "reading_points": [
+        {
+          "title": "Serviço contaminado",
+          "body": "A cena apresenta ajuda real misturada com busca de visibilidade pessoal."
+        },
+        {
+          "title": "Dignidade exposta",
+          "body": "A dor dos pobres não deve virar material de autopromoção."
+        },
+        {
+          "title": "Cristo servidor",
+          "body": "Jesus serve sem usar os necessitados como palco para si mesmo."
+        }
+      ]
+    },
+    {
+      "id": "G09",
+      "term_id": "G09",
+      "call_label": "G09 - Urgência e prudência",
+      "case": "Ao saber de uma agressão, alguém publica nomes e endereço do suspeito antes de confirmar os fatos ou proteger a vítima.",
+      "conference_question": "Como agir com urgência diante de um mal grave sem aumentar o dano por imprudência?",
+      "anchors": [
+        "Lc 10,33-35",
+        "Mt 10,16",
+        "B14"
+      ],
+      "facilitator_note": "Destaque proteção da vítima, verificação responsável e autoridade competente.",
+      "reading_points": [
+        {
+          "title": "Urgência real",
+          "body": "O caso envolve uma possível violência que exige resposta séria e rápida."
+        },
+        {
+          "title": "Precipitação danosa",
+          "body": "Exposição pública sem cuidado pode ferir inocentes, atrapalhar apuração e expor a vítima."
+        },
+        {
+          "title": "Prudência cristã",
+          "body": "A caridade age, mas busca meios justos e proporcionais ao bem."
+        }
+      ]
+    },
+    {
+      "id": "G10",
+      "term_id": "G10",
+      "call_label": "G10 - Caridade e assistencialismo",
+      "case": "Uma instituição entrega cestas há anos à mesma comunidade, mas nunca conversa sobre trabalho, documentos, saúde ou autonomia das famílias.",
+      "conference_question": "Como distinguir ajuda necessária de uma prática que mantém distância e dependência?",
+      "anchors": [
+        "CEC 2447",
+        "B14",
+        "Tg 2,14-17"
+      ],
+      "facilitator_note": "Não desvalorize a ajuda emergencial; mostre que caridade madura também promove dignidade.",
+      "reading_points": [
+        {
+          "title": "Ajuda repetida",
+          "body": "O caso mostra uma assistência que alivia a fome, mas talvez não enfrente causas e caminhos."
+        },
+        {
+          "title": "Risco de dependência",
+          "body": "Quando não há escuta nem promoção, o pobre pode permanecer sempre como receptor distante."
+        },
+        {
+          "title": "Caridade integral",
+          "body": "O amor ativo busca aliviar a urgência e favorecer responsabilidade e dignidade."
+        }
+      ]
+    },
+    {
+      "id": "G11",
+      "term_id": "G11",
+      "call_label": "G11 - Justiça e vingança",
+      "case": "Depois de um roubo, moradores querem recuperar os bens, mas alguns defendem espancar qualquer suspeito que aparecer.",
+      "conference_question": "Como buscar justiça e proteção sem cair na vingança que também comete injustiça?",
+      "anchors": [
+        "Rm 12,19-21",
+        "Mt 5,7",
+        "N15"
+      ],
+      "facilitator_note": "Não enfraqueça a gravidade do crime; mostre que vingança não é justiça cristã.",
+      "reading_points": [
+        {
+          "title": "Justiça necessária",
+          "body": "O caso envolve um dano real que pede proteção e responsabilização."
+        },
+        {
+          "title": "Vingança destrutiva",
+          "body": "Agredir suspeitos abandona a justiça e cria novo mal."
+        },
+        {
+          "title": "Vencer o mal",
+          "body": "A fé manda vencer o mal com o bem, sem renunciar à verdade e à proteção."
+        }
+      ]
+    },
+    {
+      "id": "G12",
+      "term_id": "G12",
+      "call_label": "G12 - Profecia e ideologia",
+      "case": "Um líder seleciona frases do Evangelho apenas quando ajudam sua posição política e ignora as partes que exigem conversão dele mesmo.",
+      "conference_question": "Como distinguir anúncio profético da Palavra de Deus de uso ideológico do Evangelho?",
+      "anchors": [
+        "B10",
+        "Lc 4,18-21",
+        "CEC 436"
+      ],
+      "facilitator_note": "Seja neutral no plano partidário; o ponto é fidelidade integral ao Evangelho.",
+      "reading_points": [
+        {
+          "title": "Seleção interessada",
+          "body": "A cena usa o Evangelho como ferramenta para confirmar um projeto próprio."
+        },
+        {
+          "title": "Ideologia religiosa",
+          "body": "Quando só aceito a Palavra que me favorece, deixo de ser discípulo para ser manipulador."
+        },
+        {
+          "title": "Profeta fiel",
+          "body": "Jesus anuncia a Palavra do Pai inteira, inclusive quando ela corrige seus ouvintes."
+        }
+      ]
+    },
+    {
+      "id": "G13",
+      "term_id": "G13",
+      "call_label": "G13 - Autoridade e domínio",
+      "case": "Um coordenador controla horários, informações e decisões para que todos dependam dele, dizendo que faz isso para manter ordem.",
+      "conference_question": "Como distinguir autoridade legítima de domínio que prende as pessoas na dependência?",
+      "anchors": [
+        "Mc 10,42-45",
+        "B11",
+        "CEC 786"
+      ],
+      "facilitator_note": "Mostre que autoridade serve ao bem comum e não à necessidade de controle.",
+      "reading_points": [
+        {
+          "title": "Ordem aparente",
+          "body": "O caso apresenta controle excessivo disfarçado de organização."
+        },
+        {
+          "title": "Domínio sobre pessoas",
+          "body": "Autoridade vira abuso quando impede responsabilidade, liberdade e participação justa."
+        },
+        {
+          "title": "Rei servidor",
+          "body": "Cristo ensina que quem governa deve servir, não tornar os outros dependentes de si."
+        }
+      ]
+    },
+    {
+      "id": "G14",
+      "term_id": "G14",
+      "call_label": "G14 - Graça e esforço humano",
+      "case": "Uma pessoa diz que Deus a libertará do vício quando quiser, mas se recusa a evitar ocasiões de queda ou procurar tratamento.",
+      "conference_question": "Como cooperar com a graça sem cair nem no orgulho de salvar-se sozinho nem na passividade?",
+      "anchors": [
+        "B08",
+        "2Cor 6,2",
+        "Fl 2,12-13"
+      ],
+      "facilitator_note": "Ensine cooperação com a graça: Deus age, e a pessoa responde concretamente.",
+      "reading_points": [
+        {
+          "title": "Passividade religiosa",
+          "body": "O caso usa a confiança em Deus para evitar decisões necessárias."
+        },
+        {
+          "title": "Esforço insuficiente sozinho",
+          "body": "A pessoa não se salva pela própria força, mas também não deve recusar os meios."
+        },
+        {
+          "title": "Graça acolhida",
+          "body": "O ano da graça pede resposta, vigilância e cooperação concreta."
+        }
+      ]
+    },
+    {
+      "id": "G15",
+      "term_id": "G15",
+      "call_label": "G15 - Missão e ativismo",
+      "case": "Uma voluntária assume muitas tarefas sociais, abandona a oração, trata todos com irritação e diz que não tem tempo para Deus.",
+      "conference_question": "Como distinguir missão cristã de ativismo que perde a fonte espiritual e a caridade?",
+      "anchors": [
+        "Jo 20,21",
+        "B15",
+        "Lc 10,38-42"
+      ],
+      "facilitator_note": "Não critique o serviço; mostre que missão precisa permanecer unida a Cristo.",
+      "reading_points": [
+        {
+          "title": "Muito fazer",
+          "body": "O caso mostra atividade intensa que já não nasce de oração nem gera caridade."
+        },
+        {
+          "title": "Fonte perdida",
+          "body": "Sem escuta de Cristo, o serviço pode virar ansiedade, dureza e vaidade."
+        },
+        {
+          "title": "Missão recebida",
+          "body": "O batizado é enviado por Jesus e precisa voltar a ele para servir bem."
+        }
+      ]
+    },
+    {
+      "id": "O01",
+      "term_id": "O01",
+      "call_label": "O01 - Anunciar com clareza",
+      "case": "Num velório, alguém pede uma palavra de esperança, e o cristão evita falar de Cristo por medo de parecer religioso demais.",
+      "conference_question": "Como anunciar a esperança cristã com clareza e respeito, sem esconder Jesus nem invadir a dor alheia?",
+      "anchors": [
+        "B10",
+        "CEC 1816",
+        "2Cor 5,20"
+      ],
+      "facilitator_note": "Mostre que clareza não é agressividade; anúncio cristão precisa de verdade e caridade.",
+      "reading_points": [
+        {
+          "title": "Omissão por medo",
+          "body": "O caso mostra uma chance real de testemunho sendo bloqueada por receio."
+        },
+        {
+          "title": "Palavra adequada",
+          "body": "Anunciar não exige discurso longo, mas uma palavra fiel, respeitosa e compreensível."
+        },
+        {
+          "title": "Missão profética",
+          "body": "O batizado participa da missão de Cristo ao dar razão da esperança."
+        }
+      ]
+    },
+    {
+      "id": "O02",
+      "term_id": "O02",
+      "call_label": "O02 - Escutar o ferido",
+      "case": "Uma pessoa conta que foi humilhada no trabalho, e o ouvinte interrompe rapidamente para dar conselhos e defender o chefe.",
+      "conference_question": "Por que escutar primeiro pode ser uma forma concreta de respeitar e cuidar do ferido?",
+      "anchors": [
+        "B05",
+        "Lc 10,33",
+        "CEC 1931"
+      ],
+      "facilitator_note": "Destaque escuta como ação, não passividade; depois podem vir orientação e encaminhamento.",
+      "reading_points": [
+        {
+          "title": "Dor interrompida",
+          "body": "O caso mostra alguém ferido sendo calado antes de ser compreendido."
+        },
+        {
+          "title": "Conselho precipitado",
+          "body": "Responder rápido demais pode defender o agressor e aumentar a solidão da vítima."
+        },
+        {
+          "title": "Cuidado inicial",
+          "body": "Escutar com atenção reconhece dignidade e abre caminho para ajuda prudente."
+        }
+      ]
+    },
+    {
+      "id": "O03",
+      "term_id": "O03",
+      "call_label": "O03 - Encaminhar ajuda real",
+      "case": "Uma vizinha percebe sinais de depressão grave em um homem sozinho e decide não guardar o caso apenas para si.",
+      "conference_question": "Quando uma situação ultrapassa a boa conversa e exige encaminhamento a ajuda competente?",
+      "anchors": [
+        "B14",
+        "G09",
+        "Mt 25,35-36"
+      ],
+      "facilitator_note": "Mostre que pedir ajuda adequada é responsabilidade, não traição de confiança.",
+      "reading_points": [
+        {
+          "title": "Limite da conversa",
+          "body": "O caso indica sofrimento que pode exigir cuidado profissional ou rede segura."
+        },
+        {
+          "title": "Responsabilidade prudente",
+          "body": "Nem toda ajuda deve ficar nas mãos de uma pessoa sem preparo."
+        },
+        {
+          "title": "Caridade concreta",
+          "body": "Amar é buscar o meio real de proteção e cuidado, não apenas boas intenções."
+        }
+      ]
+    },
+    {
+      "id": "O04",
+      "term_id": "O04",
+      "call_label": "O04 - Cortar exploração",
+      "case": "Um mercado descobre que um fornecedor usa trabalho degradante e precisa decidir se continua comprando mais barato.",
+      "conference_question": "Como cortar participação em uma exploração sem fingir que o preço baixo não tem vítimas?",
+      "anchors": [
+        "I13",
+        "Tg 5,4",
+        "B14"
+      ],
+      "facilitator_note": "Mostre resposta concreta: investigar, mudar fornecedor, pressionar correção e assumir custo justo.",
+      "reading_points": [
+        {
+          "title": "Vantagem injusta",
+          "body": "O caso mostra economia obtida pela exploração de trabalhadores."
+        },
+        {
+          "title": "Cumplicidade possível",
+          "body": "Continuar comprando sabendo do abuso torna a decisão moralmente comprometida."
+        },
+        {
+          "title": "Ruptura necessária",
+          "body": "A caridade e a justiça pedem cortar a prática injusta e buscar alternativa honesta."
+        }
+      ]
+    },
+    {
+      "id": "O05",
+      "term_id": "O05",
+      "call_label": "O05 - Reparar o dano",
+      "case": "Um contador altera documentos para favorecer um cliente; depois se arrepende, mas teme perder reputação se corrigir a fraude.",
+      "conference_question": "Por que arrependimento verdadeiro pede reparação possível, e não apenas sentimento de culpa?",
+      "anchors": [
+        "Lc 19,8",
+        "B08",
+        "G14"
+      ],
+      "facilitator_note": "Mostre que reparar pode ter custo, mas é parte concreta da conversão.",
+      "reading_points": [
+        {
+          "title": "Culpa reconhecida",
+          "body": "O caso mostra alguém que percebe o mal, mas teme assumir consequências."
+        },
+        {
+          "title": "Conversão incompleta",
+          "body": "Sentir remorso sem corrigir o dano mantém a injustiça em funcionamento."
+        },
+        {
+          "title": "Restituição possível",
+          "body": "Como Zaqueu, a resposta à graça inclui devolver, corrigir e buscar perdão."
+        }
+      ]
+    },
+    {
+      "id": "O06",
+      "term_id": "O06",
+      "call_label": "O06 - Defender o vulnerável",
+      "case": "Uma funcionária nova é pressionada a aceitar assédio do supervisor para manter o emprego, e uma colega presencia a situação.",
+      "conference_question": "Como defender uma pessoa vulnerável com coragem e prudência, sem expô-la ainda mais?",
+      "anchors": [
+        "I11",
+        "I12",
+        "Mt 25,40",
+        "CEC 1931"
+      ],
+      "facilitator_note": "Destaque apoio à vítima, registro seguro, canal competente e proteção contra retaliação.",
+      "reading_points": [
+        {
+          "title": "Vulnerabilidade explorada",
+          "body": "O caso mostra abuso de poder contra alguém em posição frágil."
+        },
+        {
+          "title": "Defesa prudente",
+          "body": "A resposta precisa proteger a vítima, não transformá-la em espetáculo."
+        },
+        {
+          "title": "Cristo no pequeno",
+          "body": "Defender o vulnerável é reconhecer a dignidade daquele com quem Cristo se identifica."
+        }
+      ]
+    },
+    {
+      "id": "O07",
+      "term_id": "O07",
+      "call_label": "O07 - Visitar sem invadir",
+      "case": "Um grupo decide visitar um homem doente, mas alguns querem fazer perguntas íntimas e divulgar fotos da visita.",
+      "conference_question": "Como uma visita cristã pode levar presença e ajuda sem curiosidade, exposição ou controle?",
+      "anchors": [
+        "Mt 25,36",
+        "G04",
+        "B14"
+      ],
+      "facilitator_note": "Mostre práticas simples: pedir permissão, respeitar silêncio, oferecer ajuda concreta e preservar discrição.",
+      "reading_points": [
+        {
+          "title": "Boa intenção em risco",
+          "body": "A visita pode ser caridade real, mas também pode invadir a intimidade do doente."
+        },
+        {
+          "title": "Respeito necessário",
+          "body": "A pessoa fragilizada não perde direito a privacidade, escolha e dignidade."
+        },
+        {
+          "title": "Presença cristã",
+          "body": "Visitar como Cristo é aproximar-se para servir, não para satisfazer curiosidade."
+        }
+      ]
+    },
+    {
+      "id": "O08",
+      "term_id": "O08",
+      "call_label": "O08 - Perdoar com verdade",
+      "case": "Depois de agressões repetidas, parentes pressionam a vítima a voltar para casa em nome do perdão cristão.",
+      "conference_question": "Como compreender o perdão sem exigir que a vítima se coloque novamente em perigo?",
+      "anchors": [
+        "Jo 8,11",
+        "G11",
+        "B08"
+      ],
+      "facilitator_note": "Seja claro: perdão não elimina necessidade de proteção, justiça e limites.",
+      "reading_points": [
+        {
+          "title": "Perdão pressionado",
+          "body": "O caso usa linguagem cristã para apressar uma vítima e ignorar risco real."
+        },
+        {
+          "title": "Verdade e limite",
+          "body": "Perdoar não significa negar agressão, dispensar reparação ou abandonar proteção."
+        },
+        {
+          "title": "Misericórdia justa",
+          "body": "A graça chama à reconciliação verdadeira, não à volta imprudente ao perigo."
+        }
+      ]
+    },
+    {
+      "id": "O09",
+      "term_id": "O09",
+      "call_label": "O09 - Formar a consciência",
+      "case": "Um jovem empresário aprendeu que sonegar é normal no ramo e começa a perguntar se todos fazerem isso torna o ato aceitável.",
+      "conference_question": "Como formar a consciência quando um ambiente inteiro chama o erro de prática normal?",
+      "anchors": [
+        "B07",
+        "Jo 8,32",
+        "CEC 1816"
+      ],
+      "facilitator_note": "Mostre meios concretos: Palavra de Deus, doutrina, exame, orientação séria e decisão responsável.",
+      "reading_points": [
+        {
+          "title": "Normalização do erro",
+          "body": "O caso mostra uma prática injusta defendida pelo costume do grupo."
+        },
+        {
+          "title": "Consciência precisa de luz",
+          "body": "O fato de muitos fazerem não torna o ato verdadeiro ou justo."
+        },
+        {
+          "title": "Formação cristã",
+          "body": "A luz de Cristo ajuda a consciência a reconhecer o bem e escolher com coragem."
+        }
+      ]
+    },
+    {
+      "id": "O10",
+      "term_id": "O10",
+      "call_label": "O10 - Servir com constância",
+      "case": "Após uma tragédia, muitas doações chegam na primeira semana, mas as famílias continuam precisando de acompanhamento meses depois.",
+      "conference_question": "Por que a caridade cristã precisa de constância e não apenas de emoção diante da notícia?",
+      "anchors": [
+        "B11",
+        "B14",
+        "Jo 13,14-15"
+      ],
+      "facilitator_note": "Valorize o impulso inicial, mas mostre necessidade de compromisso simples e sustentado.",
+      "reading_points": [
+        {
+          "title": "Comoção inicial",
+          "body": "O caso mostra solidariedade forte no começo, mas risco de abandono posterior."
+        },
+        {
+          "title": "Necessidade prolongada",
+          "body": "Muitas feridas continuam depois que a atenção pública desaparece."
+        },
+        {
+          "title": "Serviço fiel",
+          "body": "Jesus ensina um serviço humilde e constante, não dependente apenas de emoção."
+        }
+      ]
+    },
+    {
+      "id": "O11",
+      "term_id": "O11",
+      "call_label": "O11 - Denunciar o abuso",
+      "case": "Uma trabalhadora doméstica relata agressões do patrão, mas tem medo de perder emprego e documentos se procurar ajuda.",
+      "conference_question": "Como denunciar abuso de modo responsável, protegendo a vítima e buscando autoridade competente?",
+      "anchors": [
+        "I12",
+        "G09",
+        "O06"
+      ],
+      "facilitator_note": "Destaque segurança, documentação, rede confiável e canais adequados; não incentive confronto isolado perigoso.",
+      "reading_points": [
+        {
+          "title": "Medo justificado",
+          "body": "O caso mostra uma vítima dependente do agressor e temerosa de retaliação."
+        },
+        {
+          "title": "Denúncia prudente",
+          "body": "Denunciar não é espalhar boatos; é acionar meios competentes com proteção."
+        },
+        {
+          "title": "Libertação concreta",
+          "body": "A missão de Jesus pede romper cativeiros reais com verdade, justiça e cuidado."
+        }
+      ]
+    },
+    {
+      "id": "O12",
+      "term_id": "O12",
+      "call_label": "O12 - Partilhar bens",
+      "case": "Uma família guarda roupas, alimentos e dinheiro sobrando enquanto parentes próximos passam necessidade silenciosa.",
+      "conference_question": "Como partilhar bens sem humilhar quem recebe e sem transformar caridade em sobra sem amor?",
+      "anchors": [
+        "CEC 2447",
+        "Tg 2,15-17",
+        "B14"
+      ],
+      "facilitator_note": "Mostre que partilha envolve discrição, justiça, proporcionalidade e cuidado com a dignidade do outro.",
+      "reading_points": [
+        {
+          "title": "Necessidade próxima",
+          "body": "O caso mostra carência concreta diante de recursos disponíveis."
+        },
+        {
+          "title": "Sobra não basta",
+          "body": "Partilhar cristãmente não é despejar excedente, mas reconhecer o irmão com dignidade."
+        },
+        {
+          "title": "Obra de misericórdia",
+          "body": "A fé viva se manifesta em alimento, roupa, presença e ajuda real."
+        }
+      ]
+    },
+    {
+      "id": "O13",
+      "term_id": "O13",
+      "call_label": "O13 - Rezar e agir",
+      "case": "Moradores rezam por uma criança negligenciada, mas ninguém conversa com um adulto responsável nem procura orientação segura.",
+      "conference_question": "Como unir oração e ação concreta sem cair na omissão nem na precipitação?",
+      "anchors": [
+        "N14",
+        "B12",
+        "Tg 2,14-17"
+      ],
+      "facilitator_note": "Explique que oração ilumina a ação; ela não substitui proteção prudente quando há risco.",
+      "reading_points": [
+        {
+          "title": "Oração necessária",
+          "body": "O caso não despreza rezar por uma situação grave."
+        },
+        {
+          "title": "Omissão possível",
+          "body": "Quando há risco concreto, rezar sem buscar ajuda pode deixar a criança desprotegida."
+        },
+        {
+          "title": "Graça em ação",
+          "body": "O hoje da salvação pede oração, discernimento e passo responsável."
+        }
+      ]
+    },
+    {
+      "id": "O14",
+      "term_id": "O14",
+      "call_label": "O14 - Buscar sacramentos",
+      "case": "Um voluntário começa a servir os pobres, mas se afasta da confissão e da Eucaristia, dizendo que boas obras já bastam.",
+      "conference_question": "Por que a missão cristã precisa da graça dos sacramentos e não apenas de esforço generoso?",
+      "anchors": [
+        "B09",
+        "B08",
+        "G14"
+      ],
+      "facilitator_note": "Mostre que sacramentos não substituem caridade; eles sustentam a conversão e a missão.",
+      "reading_points": [
+        {
+          "title": "Serviço sem fonte",
+          "body": "O caso mostra uma boa obra perdendo ligação com a graça sacramental."
+        },
+        {
+          "title": "Esforço limitado",
+          "body": "Generosidade humana é importante, mas não salva nem sustenta sozinha a missão."
+        },
+        {
+          "title": "Cristo se oferece",
+          "body": "Nos sacramentos, o discípulo volta à graça de Cristo para servir com conversão."
+        }
+      ]
+    },
+    {
+      "id": "O15",
+      "term_id": "O15",
+      "call_label": "O15 - Assumir envio",
+      "case": "Depois de ouvir o Evangelho de Nazaré, uma pessoa escolhe visitar mensalmente um idoso sozinho e falar de Cristo quando houver abertura real.",
+      "conference_question": "Como transformar a missão de Jesus em um compromisso concreto, possível e fiel à própria vocação?",
+      "anchors": [
+        "B15",
+        "Jo 20,21",
+        "Mt 28,18-20"
+      ],
+      "facilitator_note": "Mostre que compromisso pequeno e fiel pode ser verdadeira participação na missão de Cristo.",
+      "reading_points": [
+        {
+          "title": "Resposta concreta",
+          "body": "O caso mostra alguém saindo da ideia geral para um compromisso definido."
+        },
+        {
+          "title": "Proporção e fidelidade",
+          "body": "A missão não exige resolver tudo, mas assumir um envio real com constância."
+        },
+        {
+          "title": "Continuação de Jesus",
+          "body": "O batizado participa da missão de Cristo anunciando, servindo e cuidando."
+        }
+      ]
+    }
+  ]
+}

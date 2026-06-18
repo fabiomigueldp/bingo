@@ -1,0 +1,1277 @@
+{
+  "title": "Bingo — A verdadeira liberdade",
+  "meeting": "Encontro 13 — A verdadeira liberdade",
+  "meeting_label": "Encontro 13",
+  "output_slug": "bingo_a_verdadeira_liberdade",
+  "core_message": "A verdadeira liberdade é dom de Cristo: o pecado promete autonomia e produz escravidão, mas a graça liberta o coração para viver no bem, na verdade e na caridade como filhos de Deus.",
+  "source_meeting_markdown": "projects/catequese/material_didatico/output/markdown/encontro_13.md",
+  "scripture": [
+    "Jo 8,34",
+    "Jo 8,35-36",
+    "Gl 5,1",
+    "Gl 5,13",
+    "2Cor 3,17",
+    "Rm 6,16-18",
+    "1Cor 6,12",
+    "Tg 1,14-15",
+    "1Jo 1,8-9",
+    "Mt 6,24",
+    "Mt 5,37",
+    "Mt 18,15",
+    "Ef 4,25",
+    "Ef 4,26-27",
+    "Lc 15,11-32",
+    "Sl 51"
+  ],
+  "catechism": [
+    "CEC 1731",
+    "CEC 1733",
+    "CEC 1741",
+    "CEC 1742"
+  ],
+  "card_model": {
+    "total_terms": 75,
+    "columns": 5,
+    "terms_per_column": 15,
+    "grid": "5x5",
+    "center": {
+      "label": "LIVRE / Jo 8,34",
+      "fixed": true,
+      "called": false
+    },
+    "recommended_win_condition": "duas_linhas"
+  },
+  "columns": [
+    {
+      "key": "B",
+      "title": "Base moral",
+      "function": "Fundamentos bíblicos e doutrinais para ler o tema.",
+      "short_function": "fundamento cristão do tema"
+    },
+    {
+      "key": "I",
+      "title": "Situações concretas",
+      "function": "Formas reais em que o tema aparece na vida concreta, em situações inteligíveis para a turma.",
+      "short_function": "situações concretas do tema"
+    },
+    {
+      "key": "N",
+      "title": "Narrativas falsas",
+      "function": "Desculpas, autoenganos e frases que desviam do bem.",
+      "short_function": "desculpas que normalizam o erro"
+    },
+    {
+      "key": "G",
+      "title": "Discernimentos",
+      "function": "Distinções morais que evitam respostas simplistas.",
+      "short_function": "distinções para discernir"
+    },
+    {
+      "key": "O",
+      "title": "Orientações de resposta",
+      "function": "Ações concretas, prudentes e proporcionais diante do problema.",
+      "short_function": "respostas proporcionais e prudentes"
+    }
+  ],
+  "terms": [
+    {
+      "id": "B01",
+      "column": "B",
+      "label": "Escravidão do pecado",
+      "definition": "O pecado não é apenas um erro isolado; quando consentido e repetido, ele prende a pessoa, enfraquece sua vontade e a torna dependente do mal que escolheu.",
+      "anchors": [
+        "Jo 8,34",
+        "CEC 1733",
+        "Rm 6,16-18"
+      ],
+      "tags": [
+        "pecado",
+        "escravidão",
+        "liberdade"
+      ]
+    },
+    {
+      "id": "B02",
+      "column": "B",
+      "label": "Liberdade dos filhos",
+      "definition": "A liberdade cristã nasce de pertencer a Deus como filho, não de viver sem vínculos; Cristo liberta para permanecer na casa do Pai.",
+      "anchors": [
+        "Jo 8,35-36",
+        "CEC 1741",
+        "Gl 5,1"
+      ],
+      "tags": [
+        "filiação",
+        "graça",
+        "salvação"
+      ]
+    },
+    {
+      "id": "B03",
+      "column": "B",
+      "label": "Serviço do bem",
+      "definition": "A liberdade se realiza quando escolhe o bem e a justiça; escolher o mal é abuso da liberdade, não expressão plena dela.",
+      "anchors": [
+        "CEC 1733",
+        "Gl 5,13",
+        "1Pd 2,16"
+      ],
+      "tags": [
+        "bem",
+        "justiça",
+        "moral"
+      ]
+    },
+    {
+      "id": "B04",
+      "column": "B",
+      "label": "Graça que fortalece",
+      "definition": "A graça de Cristo não compete com a liberdade humana; ela cura, educa e fortalece a vontade para aderir ao bem.",
+      "anchors": [
+        "CEC 1742",
+        "2Cor 3,17"
+      ],
+      "tags": [
+        "graça",
+        "vontade",
+        "Espírito Santo"
+      ]
+    },
+    {
+      "id": "B05",
+      "column": "B",
+      "label": "Verdade que liberta",
+      "definition": "A liberdade precisa da verdade sobre Deus, sobre a pessoa e sobre o bem; mentira e autoengano produzem dependência e confusão.",
+      "anchors": [
+        "Jo 8,32",
+        "Jo 8,34",
+        "Ef 4,25"
+      ],
+      "tags": [
+        "verdade",
+        "mentira",
+        "discernimento"
+      ]
+    },
+    {
+      "id": "B06",
+      "column": "B",
+      "label": "Domínio de si",
+      "definition": "A verdadeira liberdade inclui governar desejos, impulsos e hábitos, em vez de ser arrastado por eles como por senhores interiores.",
+      "anchors": [
+        "1Cor 6,12",
+        "CEC 1731",
+        "CEC 1733"
+      ],
+      "tags": [
+        "temperança",
+        "impulso",
+        "autodomínio"
+      ]
+    },
+    {
+      "id": "B07",
+      "column": "B",
+      "label": "Bem último",
+      "definition": "O coração humano não se entende sem sua finalidade em Deus; quando bens menores ocupam o lugar de Deus, tornam-se ídolos e escravizam.",
+      "anchors": [
+        "Mt 6,24",
+        "CEC 1731",
+        "Jo 8,36"
+      ],
+      "tags": [
+        "Deus",
+        "fim último",
+        "idolatria"
+      ]
+    },
+    {
+      "id": "B08",
+      "column": "B",
+      "label": "Batismo libertador",
+      "definition": "Pelo Batismo, a pessoa é incorporada a Cristo e recebe uma vida nova, chamada a viver como filho livre e não como escravo do pecado.",
+      "anchors": [
+        "Jo 8,35-36",
+        "Rm 6,16-18",
+        "CEC 1741"
+      ],
+      "tags": [
+        "batismo",
+        "vida nova",
+        "filiação"
+      ]
+    },
+    {
+      "id": "B09",
+      "column": "B",
+      "label": "Confissão restauradora",
+      "definition": "Quando o pecado grave rompe a liberdade da graça, a Reconciliação é o caminho sacramental pelo qual Cristo perdoa, levanta e restaura.",
+      "anchors": [
+        "1Jo 1,8-9",
+        "Sl 51",
+        "Jo 8,36"
+      ],
+      "tags": [
+        "confissão",
+        "perdão",
+        "reconciliação"
+      ]
+    },
+    {
+      "id": "B10",
+      "column": "B",
+      "label": "Eucaristia que alimenta",
+      "definition": "A Eucaristia sustenta a vida da graça, une a Cristo e fortalece a pessoa para resistir ao pecado e viver a caridade.",
+      "anchors": [
+        "Jo 6,56",
+        "Jo 8,36",
+        "CEC 1742"
+      ],
+      "tags": [
+        "Eucaristia",
+        "graça",
+        "caridade"
+      ]
+    },
+    {
+      "id": "B11",
+      "column": "B",
+      "label": "Pecado mortal",
+      "definition": "Há escolhas que ferem gravemente a amizade com Deus quando envolvem matéria grave, consciência suficiente e consentimento deliberado.",
+      "anchors": [
+        "Jo 8,34",
+        "1Jo 1,8-9",
+        "B09"
+      ],
+      "tags": [
+        "pecado grave",
+        "consentimento",
+        "conversão"
+      ]
+    },
+    {
+      "id": "B12",
+      "column": "B",
+      "label": "Conversão do coração",
+      "definition": "Liberdade cristã não é apenas mudar comportamento externo, mas permitir que Cristo ordene desejos, escolhas e afetos para Deus.",
+      "anchors": [
+        "Lc 15,11-32",
+        "Sl 51",
+        "CEC 1742"
+      ],
+      "tags": [
+        "conversão",
+        "coração",
+        "graça"
+      ]
+    },
+    {
+      "id": "B13",
+      "column": "B",
+      "label": "Docilidade ao Espírito",
+      "definition": "Ser dócil ao Espírito Santo é acolher a ação de Deus que educa a consciência e torna a pessoa mais firme diante de pressões externas.",
+      "anchors": [
+        "CEC 1742",
+        "2Cor 3,17",
+        "Gl 5,1"
+      ],
+      "tags": [
+        "Espírito Santo",
+        "consciência",
+        "graça"
+      ]
+    },
+    {
+      "id": "B14",
+      "column": "B",
+      "label": "Caridade ordenada",
+      "definition": "A liberdade cristã se expressa no amor verdadeiro, que busca o bem do outro sem usar pessoas, manipular afetos ou chamar egoísmo de amor.",
+      "anchors": [
+        "Gl 5,13",
+        "Jo 8,36",
+        "CEC 1733"
+      ],
+      "tags": [
+        "caridade",
+        "amor",
+        "ordem"
+      ]
+    },
+    {
+      "id": "B15",
+      "column": "B",
+      "label": "Liberdade no Céu",
+      "definition": "A liberdade plena se consumará na união definitiva com Deus, quando o coração não poderá mais escolher o mal porque estará totalmente unido ao Bem.",
+      "anchors": [
+        "CEC 1731",
+        "Jo 8,35-36",
+        "Ap 21,4"
+      ],
+      "tags": [
+        "céu",
+        "plenitude",
+        "bem"
+      ]
+    },
+    {
+      "id": "I01",
+      "column": "I",
+      "label": "Mentira sustentada",
+      "definition": "Situação em que uma mentira inicial obriga novas mentiras, silêncios e manipulações para não ser descoberta.",
+      "anchors": [
+        "Jo 8,34",
+        "Ef 4,25",
+        "B05"
+      ],
+      "tags": [
+        "mentira",
+        "autoengano",
+        "dependência"
+      ]
+    },
+    {
+      "id": "I02",
+      "column": "I",
+      "label": "Pornografia habitual",
+      "definition": "Uso repetido de pornografia que deforma o desejo, enfraquece o domínio de si e transforma pessoas em objetos de consumo.",
+      "anchors": [
+        "1Cor 6,12",
+        "Jo 8,34",
+        "B06"
+      ],
+      "tags": [
+        "pornografia",
+        "desejo",
+        "vício"
+      ]
+    },
+    {
+      "id": "I03",
+      "column": "I",
+      "label": "Ódio alimentado",
+      "definition": "Situação em que a pessoa conserva ressentimento, fantasia vingança e passa a organizar sua visão do outro pela raiva.",
+      "anchors": [
+        "Ef 4,26-27",
+        "Jo 8,34",
+        "B14"
+      ],
+      "tags": [
+        "ódio",
+        "ressentimento",
+        "vingança"
+      ]
+    },
+    {
+      "id": "I04",
+      "column": "I",
+      "label": "Compra compulsiva",
+      "definition": "Busca repetida de consumo como fuga do vazio, da ansiedade ou da comparação, gerando dívida, culpa e perda de governo interior.",
+      "anchors": [
+        "Mt 6,24",
+        "1Cor 6,12",
+        "B07"
+      ],
+      "tags": [
+        "consumo",
+        "ansiedade",
+        "dinheiro"
+      ]
+    },
+    {
+      "id": "I05",
+      "column": "I",
+      "label": "Imagem fabricada",
+      "definition": "Construção de aparência pública calculada para aprovação, escondendo a vida real e prendendo a pessoa ao olhar dos outros.",
+      "anchors": [
+        "Mt 6,1",
+        "Jo 8,32",
+        "B05"
+      ],
+      "tags": [
+        "aparência",
+        "vaidade",
+        "reputação"
+      ]
+    },
+    {
+      "id": "I06",
+      "column": "I",
+      "label": "Jogo que domina",
+      "definition": "Prática de aposta, jogo ou plataforma que passa de entretenimento a dependência, consumindo dinheiro, tempo e honestidade.",
+      "anchors": [
+        "1Cor 6,12",
+        "Mt 6,24",
+        "B06"
+      ],
+      "tags": [
+        "jogo",
+        "vício",
+        "dinheiro"
+      ]
+    },
+    {
+      "id": "I07",
+      "column": "I",
+      "label": "Bebida como fuga",
+      "definition": "Uso de álcool ou outras fugas para anestesiar dor, vergonha ou ansiedade, sem enfrentar a verdade nem buscar ajuda.",
+      "anchors": [
+        "1Cor 6,12",
+        "Jo 8,34",
+        "B12"
+      ],
+      "tags": [
+        "fuga",
+        "dependência",
+        "dor"
+      ]
+    },
+    {
+      "id": "I08",
+      "column": "I",
+      "label": "Namoro controlador",
+      "definition": "Relação afetiva em que ciúme, vigilância, chantagem ou medo são apresentados como prova de amor.",
+      "anchors": [
+        "Gl 5,13",
+        "B14",
+        "G13"
+      ],
+      "tags": [
+        "namoro",
+        "controle",
+        "amor"
+      ]
+    },
+    {
+      "id": "I09",
+      "column": "I",
+      "label": "Trabalho desonesto",
+      "definition": "Aceitação de fraude, propina, falsificação ou exploração como se fossem condições normais para vencer na vida.",
+      "anchors": [
+        "Mt 5,37",
+        "Ef 4,25",
+        "CEC 1733"
+      ],
+      "tags": [
+        "trabalho",
+        "corrupção",
+        "honestidade"
+      ]
+    },
+    {
+      "id": "I10",
+      "column": "I",
+      "label": "Humilhação digital",
+      "definition": "Exposição de alguém em redes ou grupos para rir, punir ou destruir reputação, frequentemente com cumplicidade de quem compartilha.",
+      "anchors": [
+        "Gl 5,13",
+        "Ef 4,29",
+        "B14"
+      ],
+      "tags": [
+        "exposição",
+        "humilhação",
+        "internet"
+      ]
+    },
+    {
+      "id": "I11",
+      "column": "I",
+      "label": "Raiva como identidade",
+      "definition": "Situação em que a pessoa passa a se definir por ressentimento, oposição e agressividade, perdendo liberdade para reconhecer o bem.",
+      "anchors": [
+        "Ef 4,26-27",
+        "Jo 8,34",
+        "G10"
+      ],
+      "tags": [
+        "raiva",
+        "identidade",
+        "ressentimento"
+      ]
+    },
+    {
+      "id": "I12",
+      "column": "I",
+      "label": "Segredo de vício",
+      "definition": "Dependência escondida que cresce no isolamento, sustentada por vergonha, mentira e recusa de ajuda.",
+      "anchors": [
+        "1Jo 1,8-9",
+        "Jo 8,34",
+        "O06"
+      ],
+      "tags": [
+        "vício",
+        "segredo",
+        "ajuda"
+      ]
+    },
+    {
+      "id": "I13",
+      "column": "I",
+      "label": "Pressão do grupo",
+      "definition": "Situação em que alguém age contra a consciência para não perder aprovação, lugar ou segurança entre os demais.",
+      "anchors": [
+        "Gl 5,1",
+        "CEC 1742",
+        "G02"
+      ],
+      "tags": [
+        "pressão",
+        "consciência",
+        "grupo"
+      ]
+    },
+    {
+      "id": "I14",
+      "column": "I",
+      "label": "Dinheiro como senhor",
+      "definition": "Quando ganho, status ou segurança financeira passam a governar decisões, relações e consciência acima de Deus e da justiça.",
+      "anchors": [
+        "Mt 6,24",
+        "CEC 1733",
+        "B07"
+      ],
+      "tags": [
+        "dinheiro",
+        "idolatria",
+        "justiça"
+      ]
+    },
+    {
+      "id": "I15",
+      "column": "I",
+      "label": "Culpa sem retorno",
+      "definition": "Estado em que a pessoa se fixa no erro cometido e conclui que não há perdão, reparação possível nem caminho de volta.",
+      "anchors": [
+        "Lc 15,11-32",
+        "1Jo 1,8-9",
+        "B09"
+      ],
+      "tags": [
+        "culpa",
+        "desespero",
+        "perdão"
+      ]
+    },
+    {
+      "id": "N01",
+      "column": "N",
+      "label": "Falsa autonomia",
+      "definition": "Engano de achar que a vida pertence totalmente à própria vontade e que ninguém, nem Deus, pode pedir conversão ou responsabilidade.",
+      "anchors": [
+        "Gl 5,13",
+        "Jo 8,34",
+        "B03"
+      ],
+      "tags": [
+        "autonomia",
+        "egoísmo",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "N02",
+      "column": "N",
+      "label": "Ilusão de controle",
+      "definition": "Autoengano de quem afirma dominar um hábito nocivo, embora já organize tempo, afeto e decisões em torno dele.",
+      "anchors": [
+        "1Cor 6,12",
+        "Jo 8,34",
+        "B06"
+      ],
+      "tags": [
+        "controle",
+        "vício",
+        "autoengano"
+      ]
+    },
+    {
+      "id": "N03",
+      "column": "N",
+      "label": "Todo mundo faz",
+      "definition": "Desculpa que transforma a frequência do erro em critério moral, como se a repetição social tornasse o mal aceitável.",
+      "anchors": [
+        "Rm 12,2",
+        "CEC 1733",
+        "I13"
+      ],
+      "tags": [
+        "conformismo",
+        "pressão",
+        "normalização"
+      ]
+    },
+    {
+      "id": "N04",
+      "column": "N",
+      "label": "Prazer como critério",
+      "definition": "Narrativa que mede o bem apenas pela intensidade do prazer imediato, ignorando verdade, responsabilidade e consequência espiritual.",
+      "anchors": [
+        "Tg 1,14-15",
+        "CEC 1733",
+        "B07"
+      ],
+      "tags": [
+        "prazer",
+        "desejo",
+        "critério"
+      ]
+    },
+    {
+      "id": "N05",
+      "column": "N",
+      "label": "Liberdade sem limite",
+      "definition": "Ideia falsa de que ser livre é poder fazer qualquer coisa, mesmo quando a escolha destrói a pessoa ou fere o outro.",
+      "anchors": [
+        "Gl 5,13",
+        "1Pd 2,16",
+        "CEC 1733"
+      ],
+      "tags": [
+        "limite",
+        "liberdade",
+        "abuso"
+      ]
+    },
+    {
+      "id": "N06",
+      "column": "N",
+      "label": "Sinceridade brutal",
+      "definition": "Desculpa que usa a verdade como arma para humilhar, ferir ou dominar, sem caridade nem responsabilidade.",
+      "anchors": [
+        "Ef 4,15",
+        "B14",
+        "G11"
+      ],
+      "tags": [
+        "verdade",
+        "humilhação",
+        "caridade"
+      ]
+    },
+    {
+      "id": "N07",
+      "column": "N",
+      "label": "Amor possessivo",
+      "definition": "Engano de chamar controle, ciúme e vigilância de cuidado, quando na verdade reduzem o outro a propriedade afetiva.",
+      "anchors": [
+        "Gl 5,13",
+        "B14",
+        "I08"
+      ],
+      "tags": [
+        "amor",
+        "posse",
+        "controle"
+      ]
+    },
+    {
+      "id": "N08",
+      "column": "N",
+      "label": "Vingança justa",
+      "definition": "Narrativa que apresenta a retaliação como justiça, confundindo corrigir o mal com devolver mal por mal.",
+      "anchors": [
+        "Rm 12,19-21",
+        "Ef 4,26-27",
+        "G10"
+      ],
+      "tags": [
+        "vingança",
+        "justiça",
+        "ira"
+      ]
+    },
+    {
+      "id": "N09",
+      "column": "N",
+      "label": "Privado sem dano",
+      "definition": "Desculpa de que o pecado escondido não afeta ninguém, ignorando que hábitos secretos deformam o coração e atingem relações reais.",
+      "anchors": [
+        "Jo 8,34",
+        "1Cor 6,12",
+        "I12"
+      ],
+      "tags": [
+        "segredo",
+        "hábito",
+        "dano"
+      ]
+    },
+    {
+      "id": "N10",
+      "column": "N",
+      "label": "Sem volta",
+      "definition": "Mentira espiritual que transforma o pecado cometido em sentença final, negando a misericórdia de Deus e a possibilidade de conversão.",
+      "anchors": [
+        "Lc 15,11-32",
+        "1Jo 1,8-9",
+        "B09"
+      ],
+      "tags": [
+        "desespero",
+        "misericórdia",
+        "conversão"
+      ]
+    },
+    {
+      "id": "N11",
+      "column": "N",
+      "label": "Mereço me aliviar",
+      "definition": "Desculpa que usa cansaço, dor ou frustração para autorizar fuga destrutiva, como se sofrimento anulasse responsabilidade moral.",
+      "anchors": [
+        "Mt 26,41",
+        "Tg 1,14-15",
+        "I07"
+      ],
+      "tags": [
+        "fuga",
+        "cansaço",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "N12",
+      "column": "N",
+      "label": "Só uma vez",
+      "definition": "Narrativa que minimiza o primeiro consentimento ao mal e ignora que escolhas pequenas podem abrir caminho para dependências maiores.",
+      "anchors": [
+        "Tg 1,14-15",
+        "Jo 8,34",
+        "B06"
+      ],
+      "tags": [
+        "tentação",
+        "consentimento",
+        "hábito"
+      ]
+    },
+    {
+      "id": "N13",
+      "column": "N",
+      "label": "Deus entende tudo",
+      "definition": "Uso falso da misericórdia para evitar conversão, como se Deus perdoasse sem chamar a pessoa a sair do pecado.",
+      "anchors": [
+        "Jo 8,11",
+        "1Jo 1,8-9",
+        "G15"
+      ],
+      "tags": [
+        "misericórdia",
+        "conversão",
+        "relativização"
+      ]
+    },
+    {
+      "id": "N14",
+      "column": "N",
+      "label": "Minha verdade basta",
+      "definition": "Autoengano de reduzir a verdade ao sentimento pessoal do momento, fechando-se à realidade, à consciência reta e à Palavra de Deus.",
+      "anchors": [
+        "Jo 8,32",
+        "Ef 4,25",
+        "B05"
+      ],
+      "tags": [
+        "verdade",
+        "relativismo",
+        "consciência"
+      ]
+    },
+    {
+      "id": "N15",
+      "column": "N",
+      "label": "O mal me define",
+      "definition": "Mentira que identifica a pessoa com seu pecado, ferida ou vício, impedindo arrependimento, esperança e recomeço.",
+      "anchors": [
+        "Lc 15,11-32",
+        "Jo 8,36",
+        "G01"
+      ],
+      "tags": [
+        "identidade",
+        "pecado",
+        "esperança"
+      ]
+    },
+    {
+      "id": "G01",
+      "column": "G",
+      "label": "Ato e pessoa",
+      "definition": "Discernimento que condena o mal praticado sem reduzir a pessoa ao próprio pecado, preservando verdade e dignidade.",
+      "anchors": [
+        "Jo 8,34",
+        "Lc 15,11-32",
+        "B14"
+      ],
+      "tags": [
+        "dignidade",
+        "pecado",
+        "pessoa"
+      ]
+    },
+    {
+      "id": "G02",
+      "column": "G",
+      "label": "Impulso e liberdade",
+      "definition": "Distinção entre sentir um impulso e consentir nele; a liberdade aparece quando a pessoa pode reconhecer o impulso sem obedecer automaticamente.",
+      "anchors": [
+        "1Cor 6,12",
+        "CEC 1731",
+        "B06"
+      ],
+      "tags": [
+        "impulso",
+        "consentimento",
+        "liberdade"
+      ]
+    },
+    {
+      "id": "G03",
+      "column": "G",
+      "label": "Desejo e bem",
+      "definition": "Distinção entre aquilo que atrai no momento e aquilo que realmente corresponde ao bem da pessoa diante de Deus.",
+      "anchors": [
+        "Tg 1,14-15",
+        "CEC 1733",
+        "B07"
+      ],
+      "tags": [
+        "desejo",
+        "bem",
+        "discernimento"
+      ]
+    },
+    {
+      "id": "G04",
+      "column": "G",
+      "label": "Culpa e responsabilidade",
+      "definition": "Discernimento entre a gravidade objetiva do ato e o grau de responsabilidade subjetiva, sem negar o mal nem julgar a consciência como se fosse Deus.",
+      "anchors": [
+        "Jo 8,34",
+        "CEC 1733",
+        "B11"
+      ],
+      "tags": [
+        "culpa",
+        "responsabilidade",
+        "juízo"
+      ]
+    },
+    {
+      "id": "G05",
+      "column": "G",
+      "label": "Tentação e consentimento",
+      "definition": "Distinção entre ser tentado e escolher o pecado; a tentação pede vigilância, mas o consentimento exige conversão.",
+      "anchors": [
+        "Mt 26,41",
+        "Tg 1,14-15",
+        "B06"
+      ],
+      "tags": [
+        "tentação",
+        "consentimento",
+        "vigilância"
+      ]
+    },
+    {
+      "id": "G06",
+      "column": "G",
+      "label": "Hábito e ato isolado",
+      "definition": "Distinção entre uma queda pontual e um padrão repetido que começa a organizar a vida e pedir ruptura mais firme.",
+      "anchors": [
+        "Jo 8,34",
+        "Rm 6,16-18",
+        "I12"
+      ],
+      "tags": [
+        "hábito",
+        "queda",
+        "dependência"
+      ]
+    },
+    {
+      "id": "G07",
+      "column": "G",
+      "label": "Fraqueza e licença",
+      "definition": "Distinção entre reconhecer a própria fragilidade e usar essa fragilidade como autorização para permanecer no pecado.",
+      "anchors": [
+        "1Jo 1,8-9",
+        "CEC 1742",
+        "N13"
+      ],
+      "tags": [
+        "fraqueza",
+        "licença",
+        "conversão"
+      ]
+    },
+    {
+      "id": "G08",
+      "column": "G",
+      "label": "Acolhida e aprovação",
+      "definition": "Discernimento entre acolher a pessoa com caridade e aprovar escolhas que a afastam do bem e da verdade.",
+      "anchors": [
+        "Gl 5,13",
+        "Jo 8,11",
+        "B14"
+      ],
+      "tags": [
+        "acolhida",
+        "aprovação",
+        "caridade"
+      ]
+    },
+    {
+      "id": "G09",
+      "column": "G",
+      "label": "Prudência e omissão",
+      "definition": "Distinção entre agir no tempo e modo certos e usar a prudência como desculpa para nunca enfrentar o mal.",
+      "anchors": [
+        "Mt 18,15",
+        "Gl 5,13",
+        "O08"
+      ],
+      "tags": [
+        "prudência",
+        "omissão",
+        "correção"
+      ]
+    },
+    {
+      "id": "G10",
+      "column": "G",
+      "label": "Justiça e vingança",
+      "definition": "Distinção entre buscar reparação justa e devolver mal por mal movido por raiva, humilhação ou desejo de castigo.",
+      "anchors": [
+        "Rm 12,19-21",
+        "Ef 4,26-27",
+        "N08"
+      ],
+      "tags": [
+        "justiça",
+        "vingança",
+        "reparação"
+      ]
+    },
+    {
+      "id": "G11",
+      "column": "G",
+      "label": "Verdade e humilhação",
+      "definition": "Discernimento entre falar a verdade para curar ou corrigir e usar a verdade para expor, esmagar ou controlar.",
+      "anchors": [
+        "Ef 4,15",
+        "Mt 18,15",
+        "N06"
+      ],
+      "tags": [
+        "verdade",
+        "humilhação",
+        "correção"
+      ]
+    },
+    {
+      "id": "G12",
+      "column": "G",
+      "label": "Oração e passividade",
+      "definition": "Distinção entre rezar de verdade e usar a oração para evitar decisões necessárias, ajuda concreta ou ruptura com o pecado.",
+      "anchors": [
+        "Mt 26,41",
+        "CEC 1742",
+        "O10"
+      ],
+      "tags": [
+        "oração",
+        "ação",
+        "decisão"
+      ]
+    },
+    {
+      "id": "G13",
+      "column": "G",
+      "label": "Amor e controle",
+      "definition": "Discernimento entre amar buscando o bem do outro e controlar o outro por medo, posse ou insegurança.",
+      "anchors": [
+        "Gl 5,13",
+        "B14",
+        "I08"
+      ],
+      "tags": [
+        "amor",
+        "controle",
+        "relações"
+      ]
+    },
+    {
+      "id": "G14",
+      "column": "G",
+      "label": "Firmeza e dureza",
+      "definition": "Distinção entre manter um limite justo com clareza e agir com frieza, desprezo ou crueldade sob aparência de firmeza.",
+      "anchors": [
+        "Ef 4,15",
+        "Gl 5,13",
+        "O05"
+      ],
+      "tags": [
+        "firmeza",
+        "dureza",
+        "limite"
+      ]
+    },
+    {
+      "id": "G15",
+      "column": "G",
+      "label": "Misericórdia e banalização",
+      "definition": "Discernimento entre confiar no perdão de Deus e tratar o pecado como algo sem gravidade, sem arrependimento e sem mudança.",
+      "anchors": [
+        "1Jo 1,8-9",
+        "Jo 8,11",
+        "N13"
+      ],
+      "tags": [
+        "misericórdia",
+        "pecado",
+        "arrependimento"
+      ]
+    },
+    {
+      "id": "O01",
+      "column": "O",
+      "label": "Nomear a prisão",
+      "definition": "Reconhecer com clareza o hábito, pecado ou apego que domina a pessoa, sem esconder o problema em desculpas vagas.",
+      "anchors": [
+        "Jo 8,34",
+        "B01",
+        "G06"
+      ],
+      "tags": [
+        "reconhecimento",
+        "verdade",
+        "ruptura"
+      ]
+    },
+    {
+      "id": "O02",
+      "column": "O",
+      "label": "Cortar ocasião",
+      "definition": "Remover acesso, ambiente, contato ou rotina que facilita a queda, antes que a vontade esteja novamente arrastada pelo impulso.",
+      "anchors": [
+        "Mt 26,41",
+        "G05",
+        "B06"
+      ],
+      "tags": [
+        "ocasião",
+        "prevenção",
+        "temperança"
+      ]
+    },
+    {
+      "id": "O03",
+      "column": "O",
+      "label": "Confessar com verdade",
+      "definition": "Levar o pecado a Cristo no sacramento da Reconciliação, sem maquiar a culpa nem esconder o que precisa ser curado.",
+      "anchors": [
+        "1Jo 1,8-9",
+        "B09",
+        "Sl 51"
+      ],
+      "tags": [
+        "confissão",
+        "verdade",
+        "perdão"
+      ]
+    },
+    {
+      "id": "O04",
+      "column": "O",
+      "label": "Reparar o dano",
+      "definition": "Assumir consequências proporcionais do erro, pedindo perdão, restituindo, corrigindo mentira ou diminuindo o prejuízo causado.",
+      "anchors": [
+        "Lc 19,8",
+        "Mt 5,37",
+        "G10"
+      ],
+      "tags": [
+        "reparação",
+        "justiça",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "O05",
+      "column": "O",
+      "label": "Pôr limite claro",
+      "definition": "Comunicar um limite justo, concreto e sustentado diante de pressão, abuso, manipulação ou ambiente que favorece o pecado.",
+      "anchors": [
+        "Gl 5,1",
+        "G14",
+        "B03"
+      ],
+      "tags": [
+        "limite",
+        "firmeza",
+        "proteção"
+      ]
+    },
+    {
+      "id": "O06",
+      "column": "O",
+      "label": "Pedir ajuda concreta",
+      "definition": "Procurar uma pessoa madura, direção espiritual, família, profissional ou serviço adequado quando a luta ultrapassa forças isoladas.",
+      "anchors": [
+        "CEC 1742",
+        "1Jo 1,8-9",
+        "I12"
+      ],
+      "tags": [
+        "ajuda",
+        "acompanhamento",
+        "humildade"
+      ]
+    },
+    {
+      "id": "O07",
+      "column": "O",
+      "label": "Ordenar a rotina",
+      "definition": "Organizar sono, tempo, trabalho, estudo, oração e descanso para não deixar a vida entregue ao impulso e à fuga.",
+      "anchors": [
+        "1Cor 6,12",
+        "CEC 1742",
+        "B06"
+      ],
+      "tags": [
+        "rotina",
+        "disciplina",
+        "liberdade"
+      ]
+    },
+    {
+      "id": "O08",
+      "column": "O",
+      "label": "Corrigir em privado",
+      "definition": "Quando possível e seguro, falar primeiro com a pessoa envolvida, com clareza e caridade, sem exposição pública desnecessária.",
+      "anchors": [
+        "Mt 18,15",
+        "G11",
+        "B14"
+      ],
+      "tags": [
+        "correção",
+        "privado",
+        "caridade"
+      ]
+    },
+    {
+      "id": "O09",
+      "column": "O",
+      "label": "Romper cumplicidade",
+      "definition": "Parar de alimentar, repassar, encobrir ou lucrar com o erro de outros, mesmo que isso custe aprovação ou vantagem.",
+      "anchors": [
+        "Ef 4,25",
+        "Gl 5,13",
+        "I10"
+      ],
+      "tags": [
+        "cumplicidade",
+        "ruptura",
+        "verdade"
+      ]
+    },
+    {
+      "id": "O10",
+      "column": "O",
+      "label": "Rezar com decisão",
+      "definition": "Unir oração sincera a passos concretos de conversão, pedindo a graça sem usar a oração para adiar o que deve ser feito.",
+      "anchors": [
+        "Mt 26,41",
+        "CEC 1742",
+        "G12"
+      ],
+      "tags": [
+        "oração",
+        "decisão",
+        "graça"
+      ]
+    },
+    {
+      "id": "O11",
+      "column": "O",
+      "label": "Alimentar a graça",
+      "definition": "Sustentar a liberdade cristã por vida sacramental, Palavra de Deus, oração e comunhão com a Igreja, não apenas por força de vontade.",
+      "anchors": [
+        "Jo 8,36",
+        "B10",
+        "CEC 1742"
+      ],
+      "tags": [
+        "sacramentos",
+        "graça",
+        "perseverança"
+      ]
+    },
+    {
+      "id": "O12",
+      "column": "O",
+      "label": "Dizer a verdade inteira",
+      "definition": "Comunicar a verdade necessária sem manipular, omitir o essencial ou ferir de propósito, mantendo clareza e caridade.",
+      "anchors": [
+        "Ef 4,15",
+        "Ef 4,25",
+        "G11"
+      ],
+      "tags": [
+        "verdade",
+        "clareza",
+        "caridade"
+      ]
+    },
+    {
+      "id": "O13",
+      "column": "O",
+      "label": "Escolher o bem possível",
+      "definition": "Dar o próximo passo concreto no bem, mesmo pequeno, em vez de esperar uma força perfeita para só então mudar.",
+      "anchors": [
+        "CEC 1733",
+        "CEC 1742",
+        "B03"
+      ],
+      "tags": [
+        "bem",
+        "passo concreto",
+        "perseverança"
+      ]
+    },
+    {
+      "id": "O14",
+      "column": "O",
+      "label": "Restituir o senhorio",
+      "definition": "Retirar dinheiro, prazer, imagem, poder ou aprovação do centro da vida e recolocar Deus como Bem último.",
+      "anchors": [
+        "Mt 6,24",
+        "B07",
+        "Jo 8,36"
+      ],
+      "tags": [
+        "idolatria",
+        "Deus",
+        "ordem"
+      ]
+    },
+    {
+      "id": "O15",
+      "column": "O",
+      "label": "Perseverar no caminho",
+      "definition": "Retomar a luta depois de quedas, renovar compromissos e permanecer nos meios concretos de graça e conversão.",
+      "anchors": [
+        "Lc 15,11-32",
+        "CEC 1742",
+        "B12"
+      ],
+      "tags": [
+        "perseverança",
+        "conversão",
+        "recomeço"
+      ]
+    }
+  ]
+}

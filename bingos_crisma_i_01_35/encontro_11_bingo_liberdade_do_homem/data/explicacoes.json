@@ -1,0 +1,308 @@
+{
+  "title": "Carta de explicações rápidas — Bingo Liberdade do homem",
+  "meeting": "Encontro 11 — Liberdade do homem",
+  "source_calls": "data/chamadas.json",
+  "purpose": "Explicações breves para o condutor usar durante a chamada de cada carta.",
+  "entries": [
+    {
+      "id": "B01",
+      "explanation": "A liberdade humana é dom de Deus, não desculpa para o descontrole. A pessoa foi criada com **dignidade** e capacidade de responder por seus atos. Mesmo quando há feridas e impulsos, o mal precisa ser nomeado e enfrentado."
+    },
+    {
+      "id": "B02",
+      "explanation": "Liberdade não é obedecer ao primeiro impulso. O Catecismo fala de **razão e vontade**, isto é, de escolha deliberada. Quanto mais a pessoa pensa e quer o bem, mais livre se torna."
+    },
+    {
+      "id": "B03",
+      "explanation": "Nem todo acontecimento é apenas acidente ou circunstância. Há atos que são escolhidos com consciência e vontade. Esses **atos deliberados** trazem responsabilidade moral diante de Deus e dos outros."
+    },
+    {
+      "id": "B04",
+      "explanation": "A liberdade tem finalidade: Deus é o **bem último** da pessoa. Quando uma vantagem exige mentira ou injustiça, ela desordena a liberdade. Escolher bem é perguntar para onde aquela decisão está levando a vida."
+    },
+    {
+      "id": "B05",
+      "explanation": "A liberdade não fica maior quando se coloca acima do bem. Ela cresce no **serviço do bem** e da justiça. Por isso, nem toda oportunidade lícita por fora é moralmente reta por dentro."
+    },
+    {
+      "id": "B06",
+      "explanation": "Ser livre inclui governar os próprios atos. Pressão, medo e temperamento podem pesar, mas não devem tomar o lugar da consciência. O cristão é chamado ao **domínio de si** diante do bem."
+    },
+    {
+      "id": "B07",
+      "explanation": "A liberdade torna possível mérito e culpa. Uma escolha escondida ainda tem valor moral, porque Deus vê a verdade do coração. O ponto é reconhecer a **responsabilidade** real das decisões."
+    },
+    {
+      "id": "B08",
+      "explanation": "A liberdade humana é real, mas é **finita** e pode enfraquecer. Há situações em que a pessoa precisa reconhecer limite, risco e ocasião de queda. Isso não elimina a responsabilidade; orienta uma resposta mais prudente."
+    },
+    {
+      "id": "B09",
+      "explanation": "O pecado promete autonomia, mas costuma criar dependência. Mentira, vício e injustiça prendem a pessoa a novas escolhas más. Cristo liberta da **escravidão do pecado** para uma vida nova."
+    },
+    {
+      "id": "B10",
+      "explanation": "A graça não compete com a liberdade. Deus cura, ilumina e fortalece a pessoa para escolher o bem. A **graça libertadora** pede cooperação concreta, não passividade."
+    },
+    {
+      "id": "B11",
+      "explanation": "A mentira pode parecer proteção, mas prende. A **verdade** pode doer, mas abre caminho para reparação e conversão. Jesus ensina que a verdade liberta porque tira a pessoa da duplicidade."
+    },
+    {
+      "id": "B12",
+      "explanation": "A liberdade cristã não depende apenas da força de caráter. O **Espírito Santo** educa interiormente para resistir a pressões e coações. Onde está o Espírito do Senhor, a pessoa pode permanecer firme no bem."
+    },
+    {
+      "id": "B13",
+      "explanation": "A lei moral não existe para sufocar a pessoa. Ela orienta a liberdade para o bem e protege contra o capricho. Uma norma justa serve à **verdade do bem**."
+    },
+    {
+      "id": "B14",
+      "explanation": "Toda decisão moral envolve pessoas, não objetos. A **dignidade da pessoa** não depende de força, lucidez, utilidade ou produtividade. A liberdade se torna injusta quando descarta o frágil."
+    },
+    {
+      "id": "B15",
+      "explanation": "A liberdade é chamada a crescer. O bem praticado repetidamente forma a vontade e amadurece a pessoa. Essa **vocação à perfeição** não é perfeccionismo, mas caminho de santidade."
+    },
+    {
+      "id": "I01",
+      "explanation": "A mentira raramente fica sozinha. Uma falsidade inicial cria novas falsidades para se proteger. A **verdade** é o primeiro passo para romper essa cadeia."
+    },
+    {
+      "id": "I02",
+      "explanation": "O vício aparece quando algo começa a dominar a pessoa. Não basta dizer que é escolha privada se há perda de sono, dever e segurança. A liberdade ferida precisa de **limites concretos** e ajuda."
+    },
+    {
+      "id": "I03",
+      "explanation": "O consumo pode ser legítimo, mas pode virar prisão quando serve à aparência. A dívida injusta ou imprudente ameaça deveres reais. A liberdade precisa de **prudência** diante dos bens."
+    },
+    {
+      "id": "I04",
+      "explanation": "A corrupção cotidiana parece pequena porque se repete muito. Mas o costume não transforma fraude em justiça. A liberdade cristã recusa o **jeitinho injusto** mesmo quando ele parece normal."
+    },
+    {
+      "id": "I05",
+      "explanation": "A pressão no trabalho pode diminuir a liberdade, mas não transforma ordem injusta em bem. A consciência não pertence ao patrão nem ao medo. A resposta deve unir **prudência** e firmeza."
+    },
+    {
+      "id": "I06",
+      "explanation": "Controle não é prova de amor. Exigir senhas, vigiar e chantagear fere a dignidade e a liberdade do outro. O amor verdadeiro respeita **limites justos**."
+    },
+    {
+      "id": "I07",
+      "explanation": "A exposição por vingança usa informação privada como arma. Dor e raiva não autorizam humilhar alguém. A dignidade pede **proteção**, contenção do dano e reparação."
+    },
+    {
+      "id": "I08",
+      "explanation": "Conflitos não suspendem deveres justos. Usar uma obrigação como arma contra outra pessoa é abuso de liberdade. A responsabilidade moral inclui **cumprir o dever** mesmo quando há briga."
+    },
+    {
+      "id": "I09",
+      "explanation": "Fraudar assinatura de pessoa frágil é abuso de confiança. A vulnerabilidade do outro aumenta a obrigação de proteger, não a chance de lucrar. A liberdade deve servir à **justiça**."
+    },
+    {
+      "id": "I10",
+      "explanation": "Propaganda enganosa rouba a liberdade de quem decide comprar. A pessoa manipulada não recebe a verdade necessária para escolher. A comunicação moral exige **honestidade**."
+    },
+    {
+      "id": "I11",
+      "explanation": "Explorar fraqueza é lucrar sobre desespero, ignorância ou dependência. Mesmo quando há contrato, pode haver injustiça grave. A liberdade econômica deve respeitar a **dignidade** do vulnerável."
+    },
+    {
+      "id": "I12",
+      "explanation": "A dor precisa ser acolhida, mas não pode justificar destruição. A fuga pela bebida pode virar prisão e ferir quem está perto. A resposta cristã une **compaixão** e verdade."
+    },
+    {
+      "id": "I13",
+      "explanation": "O medo pode ser real, mas o silêncio pode permitir que o mal continue. Prudência não é fingir que nada acontece. A liberdade responsável procura **meios seguros** de proteger a vítima."
+    },
+    {
+      "id": "I14",
+      "explanation": "Promessa quebrada fere confiança e justiça. A palavra dada cria responsabilidade, especialmente quando o outro já contou com ela. A liberdade madura sustenta **compromissos justos**."
+    },
+    {
+      "id": "I15",
+      "explanation": "O frágil nunca pode ser tratado como peso inútil. Interesse, cansaço ou herança não apagam a dignidade da pessoa. O discernimento cristão protege o **vulnerável** com seriedade."
+    },
+    {
+      "id": "N01",
+      "explanation": "A narrativa sem limites confunde liberdade com licença. Mas liberdade sem responsabilidade costuma ferir pessoas e destruir vínculos. O critério cristão é a **liberdade para o bem**."
+    },
+    {
+      "id": "N02",
+      "explanation": "Falsa autonomia usa a frase minha vida para negar deveres reais. A pessoa é livre, mas não existe isolada de Deus e dos outros. A verdadeira autonomia inclui **responsabilidade**."
+    },
+    {
+      "id": "N03",
+      "explanation": "Desejo intenso não é prova de bem. A vontade precisa ser educada pela razão e pela verdade. A liberdade cristã distingue **desejo** e escolha moral."
+    },
+    {
+      "id": "N04",
+      "explanation": "Ninguém manda em mim pode esconder orgulho e rejeição de toda correção. Há autoridades abusivas, mas também há normas justas. A liberdade amadurece quando reconhece a **verdade** que orienta."
+    },
+    {
+      "id": "N05",
+      "explanation": "Todo mundo faz é uma desculpa forte porque dá sensação de segurança. Mas o número de pessoas errando não muda o bem e o mal. O cristão não deve se conformar ao **costume injusto**."
+    },
+    {
+      "id": "N06",
+      "explanation": "Eu mereço agora usa cansaço ou carência para justificar imprudência. Descanso e consolo podem ser bons, mas não quando destroem deveres. A liberdade precisa ordenar o **desejo imediato**."
+    },
+    {
+      "id": "N07",
+      "explanation": "Nem todo dano aparece na hora. Escolhas escondidas podem atingir confiança, família, trabalho e liberdade interior. A frase não prejudico ninguém precisa ser examinada com **responsabilidade**."
+    },
+    {
+      "id": "N08",
+      "explanation": "Depois eu paro é a linguagem comum da ilusão de controle. Enquanto a conversão é adiada, o hábito mau cresce. A liberdade pede **ruptura concreta** antes que a prisão aumente."
+    },
+    {
+      "id": "N09",
+      "explanation": "Injustiças sociais podem ser reais e graves. Mas elas não autorizam qualquer resposta escolhida pela pessoa. A liberdade cristã busca justiça sem negar a **responsabilidade pessoal**."
+    },
+    {
+      "id": "N10",
+      "explanation": "Misericórdia barata usa Deus para evitar conversão. A misericórdia verdadeira perdoa o pecador arrependido e o chama a reparar o mal. Deus não é desculpa para manter **injustiça**."
+    },
+    {
+      "id": "N11",
+      "explanation": "Sinceridade sem caridade pode virar violência verbal. A verdade não deve ser usada para dominar ou humilhar. A palavra livre precisa unir **verdade e caridade**."
+    },
+    {
+      "id": "N12",
+      "explanation": "Um resultado desejado não purifica meios maus. Mentira, fraude e injustiça continuam sendo males mesmo quando prometem vantagem. A liberdade cristã não escolhe o **mal como ferramenta**."
+    },
+    {
+      "id": "N13",
+      "explanation": "Amor não é posse. Ciúme dominador, chantagem e isolamento deformam o vínculo. Amar é buscar o bem do outro respeitando sua **dignidade**."
+    },
+    {
+      "id": "N14",
+      "explanation": "Nem toda correção é agressão. Às vezes a acusação de violência serve para fugir da prestação de contas. A verdade deve ser dita com **caridade**, mas não pode ser cancelada."
+    },
+    {
+      "id": "N15",
+      "explanation": "Regras podem ser abusivas, mas nem toda regra oprime. Muitas normas protegem vida, justiça e convivência. A liberdade precisa distinguir **limite justo** de controle injusto."
+    },
+    {
+      "id": "G01",
+      "explanation": "Impulso não é a mesma coisa que liberdade. A raiva, o medo e o prazer podem empurrar a pessoa, mas não precisam governá-la. A pausa permite uma **escolha deliberada**."
+    },
+    {
+      "id": "G02",
+      "explanation": "Desejar algo não prova que esse algo é bom. O bem precisa ser julgado pela verdade, pela justiça e pela finalidade da vida. A liberdade ordena o **desejo** ao bem real."
+    },
+    {
+      "id": "G03",
+      "explanation": "A pessoa nunca deve ser reduzida ao ato mau que praticou. O ato pode ser condenado com clareza, e a dignidade da pessoa deve permanecer reconhecida. Essa distinção evita **relativismo** e desprezo."
+    },
+    {
+      "id": "G04",
+      "explanation": "Um ato pode ser objetivamente errado e, ao mesmo tempo, ter responsabilidade subjetiva afetada por medo ou coação. Isso não chama o mal de bem. Ajuda a fazer um juízo **justo e completo**."
+    },
+    {
+      "id": "G05",
+      "explanation": "Limite não é sempre prisão. Às vezes o limite protege a pessoa justamente porque ela conhece sua fragilidade. A liberdade cresce quando aceita **proteções justas**."
+    },
+    {
+      "id": "G06",
+      "explanation": "Consciência não é sinônimo de vontade momentânea. Ela deve julgar à luz da verdade e do bem. Usar consciência para fugir de dever é **capricho moralizado**."
+    },
+    {
+      "id": "G07",
+      "explanation": "Autonomia madura não é isolamento. A pessoa livre pode aceitar ajuda, conselho e cuidado sem perder dignidade. O orgulho fechado pode ferir a **liberdade real**."
+    },
+    {
+      "id": "G08",
+      "explanation": "Deus não decide no lugar da pessoa como se ela fosse objeto. A graça fortalece a liberdade e chama à cooperação. Rezar e agir podem ser uma única resposta **cristã e livre**."
+    },
+    {
+      "id": "G09",
+      "explanation": "Acolher a pessoa não significa aprovar todo ato. A misericórdia cristã une dignidade, verdade e limite. Essa distinção impede tanto a dureza quanto a **banalização do pecado**."
+    },
+    {
+      "id": "G10",
+      "explanation": "Prudência é cuidado ativo, não desculpa para omissão. Quando há dano provável, a resposta deve buscar meios seguros e proporcionais. O medo não pode apagar a **caridade responsável**."
+    },
+    {
+      "id": "G11",
+      "explanation": "A verdade pode ser dita de modo justo ou injusto. Quando a finalidade é humilhar, a verdade é usada como arma. A correção cristã precisa de **caridade e medida**."
+    },
+    {
+      "id": "G12",
+      "explanation": "Controle pode se esconder atrás de linguagem afetiva. Amor verdadeiro não invade consciência, vínculos e liberdade do outro. Amar exige **limites** e respeito pela dignidade."
+    },
+    {
+      "id": "G13",
+      "explanation": "A lei justa orienta e protege. O legalismo esquece a finalidade da lei e aplica regra sem sabedoria. O discernimento cristão procura o **bem real** que a norma deve servir."
+    },
+    {
+      "id": "G14",
+      "explanation": "Medo de ser descoberto pode iniciar uma mudança, mas não é ainda arrependimento pleno. Arrependimento reconhece o mal, assume consequência e busca reparação. A conversão precisa de **verdade interior**."
+    },
+    {
+      "id": "G15",
+      "explanation": "Licença é fazer do próprio querer a regra final. Liberdade é escolher o bem com razão e vontade. A fé cristã rejeita a **licença para ferir**."
+    },
+    {
+      "id": "O01",
+      "explanation": "Nomear a escolha quebra a névoa das desculpas. Quando o ato é chamado pelo nome correto, a consciência enxerga melhor. A verdade abre espaço para uma **decisão livre**."
+    },
+    {
+      "id": "O02",
+      "explanation": "Cortar gatilhos é resposta concreta para liberdade enfraquecida. Não é covardia evitar uma ocasião conhecida de queda. É **prudência** a serviço da conversão."
+    },
+    {
+      "id": "O03",
+      "explanation": "Pedir ajuda concreta é mais que dizer que vai melhorar. Envolve pessoas, horários, serviços, limites e prestação de contas. A humildade pode ser ato forte de **liberdade responsável**."
+    },
+    {
+      "id": "O04",
+      "explanation": "Confessar é levar o pecado à luz de Deus. Mas recomeçar exige abandonar o mal e assumir passos concretos. A **graça** liberta para mudar, não para permanecer igual."
+    },
+    {
+      "id": "O05",
+      "explanation": "Reparar o dano é parte séria da conversão. Quando há prejuízo material, moral ou relacional, palavras não bastam. A justiça pede **restituição proporcional** quando ela é possível."
+    },
+    {
+      "id": "O06",
+      "explanation": "Limite claro protege a dignidade e diminui novas ocasiões de abuso. Ele deve ser comunicado de modo firme e prudente. A liberdade não precisa aceitar **pressão injusta**."
+    },
+    {
+      "id": "O07",
+      "explanation": "Dizer não ao erro pode ter custo. A firmeza cristã não precisa ser agressiva, mas precisa ser clara. Recusar fraude ou violência é serviço concreto ao **bem e à justiça**."
+    },
+    {
+      "id": "O08",
+      "explanation": "Rotina ordenada ajuda a razão e a vontade. Sono, tempo e limites influenciam escolhas morais reais. A liberdade cresce quando a vida não fica entregue ao **improviso dos impulsos**."
+    },
+    {
+      "id": "O09",
+      "explanation": "Servir é usar a própria liberdade para o bem de alguém. Não basta falar de amor em geral; é preciso dar forma concreta ao bem. A caridade educa a **liberdade para doar-se**."
+    },
+    {
+      "id": "O10",
+      "explanation": "Formar a consciência é procurar a verdade antes de decidir. Isso inclui oração, Escritura, ensinamento da Igreja e conselho sério. A liberdade madura não confunde **opinião imediata** com juízo moral."
+    },
+    {
+      "id": "O11",
+      "explanation": "Romper cumplicidade é parar de sustentar o mal. Isso pode envolver deixar de assinar, repassar, encobrir ou financiar. A resposta deve ser **firme e prudente**."
+    },
+    {
+      "id": "O12",
+      "explanation": "Acompanhamento ajuda quando a pessoa repete quedas e padrões que não consegue enfrentar sozinha. Ele não substitui a decisão pessoal. Sustenta a liberdade com **luz, constância e verdade**."
+    },
+    {
+      "id": "O13",
+      "explanation": "Renúncia não é desprezo pelo bem criado. É treino da vontade para que o prazer imediato não governe tudo. Pequenas renúncias podem fortalecer a **liberdade interior**."
+    },
+    {
+      "id": "O14",
+      "explanation": "Rezar com decisão une confiança em Deus e responsabilidade humana. A oração abre espaço para a graça iluminar a escolha. Ela não deve ser fuga, mas força para um **ato concreto**."
+    },
+    {
+      "id": "O15",
+      "explanation": "Perseverar no bem mostra liberdade amadurecida. O entusiasmo inicial pode passar, mas a vontade formada continua. Quanto mais a pessoa pratica o bem, mais cresce em **verdadeira liberdade**."
+    }
+  ]
+}

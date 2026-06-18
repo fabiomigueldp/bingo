@@ -1,0 +1,2037 @@
+{
+  "title": "Chamadas — Bingo Pastorais e movimentos",
+  "meeting": "Encontro 30 — Pastorais e movimentos",
+  "source_terms": "data/termos.json",
+  "method": {
+    "read_order": [
+      "call_label",
+      "case",
+      "reading_points"
+    ],
+    "rule": "A cada carta, anuncie código e conceito, leia o caso e explique brevemente a relação usando a Leitura do caso. Depois as equipes marcam o código, se estiver na cartela.",
+    "conference_rule": "Ao fechar duas linhas válidas, horizontais, verticais ou diagonais, a equipe escolhe uma dessas linhas completas, explica pelo menos três conceitos da linha escolhida e liga pelo menos um deles à base bíblica ou doutrinal do encontro. As duas linhas podem se cruzar. O centro livre já conta como casa marcada para completar linhas, mas não conta como um dos três conceitos explicados."
+  },
+  "cards": [
+    {
+      "id": "B01",
+      "term_id": "B01",
+      "call_label": "B01 - Diversidade de dons",
+      "case": "Numa comunidade, uma pessoa organiza bem visitas aos doentes, outra canta com seriedade e outra sabe administrar recursos; quando uma delas é elogiada, surge comparação sobre qual serviço vale mais.",
+      "conference_question": "Que critério ajuda a distinguir diversidade de dons de competição por importância dentro da Igreja?",
+      "anchors": [
+        "1Cor 12,4-7",
+        "CEC 951",
+        "CEC 2003"
+      ],
+      "facilitator_note": "Mostre que a diversidade vem do mesmo Espírito e se mede pelo serviço ao bem comum.",
+      "reading_points": [
+        {
+          "title": "Dons diferentes",
+          "body": "A cena mostra capacidades reais que não precisam ser iguais para serem necessárias."
+        },
+        {
+          "title": "Comparação indevida",
+          "body": "O erro começa quando um dom vira medida de superioridade sobre outro."
+        },
+        {
+          "title": "Mesmo Espírito",
+          "body": "Em 1Cor 12, os dons diversos vêm do mesmo Espírito e servem à edificação comum."
+        }
+      ]
+    },
+    {
+      "id": "B02",
+      "term_id": "B02",
+      "call_label": "B02 - Um só Espírito",
+      "case": "Dois grupos rezam de modos diferentes e passam a desconfiar um do outro, como se o estilo de oração de cada um provasse quem leva Deus mais a sério.",
+      "conference_question": "Como reconhecer diferenças legítimas de espiritualidade sem romper a unidade da fé?",
+      "anchors": [
+        "1Cor 12,4-6",
+        "Ef 4,4-6",
+        "CEC 791"
+      ],
+      "facilitator_note": "Ajude a turma a ver que o Espírito não cria facções rivais, mas comunhão na verdade.",
+      "reading_points": [
+        {
+          "title": "Estilos diferentes",
+          "body": "A diferença de linguagem, canto ou forma de oração não é automaticamente divisão."
+        },
+        {
+          "title": "Risco de facção",
+          "body": "A divisão nasce quando o próprio estilo passa a ser usado como critério de superioridade."
+        },
+        {
+          "title": "Unidade da fé",
+          "body": "O mesmo Espírito conduz os fiéis à comunhão com Cristo e com a Igreja."
+        }
+      ]
+    },
+    {
+      "id": "B03",
+      "term_id": "B03",
+      "call_label": "B03 - Proveito comum",
+      "case": "Uma equipe consegue doações para uma obra social, mas decide guardar parte dos melhores itens para eventos internos porque 'foi ela que conseguiu tudo'.",
+      "conference_question": "Por que o dom recebido para servir não pode ser tratado como propriedade de um grupo?",
+      "anchors": [
+        "1Cor 12,7",
+        "CEC 951",
+        "CEC 2003"
+      ],
+      "facilitator_note": "Aponte que o proveito comum corrige a apropriação egoísta do serviço.",
+      "reading_points": [
+        {
+          "title": "Bem desviado",
+          "body": "A doação foi buscada para uma necessidade comum, mas começa a ser apropriada."
+        },
+        {
+          "title": "Critério moral",
+          "body": "O serviço perde retidão quando o grupo usa o bem comum para vantagem própria."
+        },
+        {
+          "title": "Para todos",
+          "body": "1Cor 12,7 ensina que a manifestação do Espírito é dada para utilidade de todos."
+        }
+      ]
+    },
+    {
+      "id": "B04",
+      "term_id": "B04",
+      "call_label": "B04 - Corpo de Cristo",
+      "case": "Na preparação de uma grande celebração, quem aparece no microfone é tratado como essencial, enquanto quem limpa, abre portas e organiza cadeiras é ignorado.",
+      "conference_question": "O que muda quando a comunidade entende seus serviços como membros de um só corpo?",
+      "anchors": [
+        "1Cor 12,12-27",
+        "CEC 791"
+      ],
+      "facilitator_note": "Valorize a imagem paulina do corpo: membros menos visíveis continuam necessários.",
+      "reading_points": [
+        {
+          "title": "Membros ignorados",
+          "body": "A cena mostra serviços necessários sendo tratados como inferiores porque aparecem menos."
+        },
+        {
+          "title": "Ferida na comunhão",
+          "body": "Desprezar um membro enfraquece o corpo inteiro e alimenta ressentimento."
+        },
+        {
+          "title": "Um só corpo",
+          "body": "São Paulo ensina que os membros diferentes pertencem ao mesmo Corpo de Cristo."
+        }
+      ]
+    },
+    {
+      "id": "B05",
+      "term_id": "B05",
+      "call_label": "B05 - Carisma e caridade",
+      "case": "Uma pessoa conduz momentos de oração com força e beleza, mas fora deles trata os outros com dureza e humilha quem não acompanha seu ritmo.",
+      "conference_question": "Por que um carisma aparente precisa ser conferido pelos frutos de caridade?",
+      "anchors": [
+        "1Cor 13,1-7",
+        "CEC 2003"
+      ],
+      "facilitator_note": "Explique que o carisma não dispensa caridade; sem ela, o dom se deforma.",
+      "reading_points": [
+        {
+          "title": "Aparência religiosa",
+          "body": "A oração pública impressiona, mas o trato cotidiano revela uma contradição."
+        },
+        {
+          "title": "Critério da caridade",
+          "body": "O dom não é autenticado só pela intensidade, mas pelo amor concreto que edifica."
+        },
+        {
+          "title": "Serviço da Igreja",
+          "body": "O Catecismo ensina que os carismas estão a serviço da caridade que edifica a Igreja."
+        }
+      ]
+    },
+    {
+      "id": "B06",
+      "term_id": "B06",
+      "call_label": "B06 - Vocação ao serviço",
+      "case": "Depois da Crisma, alguém decide apenas 'assistir quando der', mesmo percebendo que tem tempo e capacidade para ajudar em uma ação concreta da comunidade.",
+      "conference_question": "Como a vocação batismal muda a postura de espectador para servidor?",
+      "anchors": [
+        "1Pd 4,10-11",
+        "Gl 5,13",
+        "CEC 897-900"
+      ],
+      "facilitator_note": "Mostre que servir não é acessório para alguns, mas resposta própria de quem recebeu a fé.",
+      "reading_points": [
+        {
+          "title": "Postura passiva",
+          "body": "A pessoa permanece consumidora de vida religiosa, sem assumir responsabilidade."
+        },
+        {
+          "title": "Capacidade real",
+          "body": "Quando há dom, tempo e possibilidade, a omissão também precisa ser discernida."
+        },
+        {
+          "title": "Chamado batismal",
+          "body": "Os fiéis leigos participam da missão da Igreja e servem conforme a graça recebida."
+        }
+      ]
+    },
+    {
+      "id": "B07",
+      "term_id": "B07",
+      "call_label": "B07 - Humildade do dom",
+      "case": "Um músico competente começa a exigir que todas as decisões passem por ele, alegando que sem seu talento a celebração perde qualidade.",
+      "conference_question": "Como distinguir competência necessária de apropriação vaidosa do serviço?",
+      "anchors": [
+        "Mc 10,42-45",
+        "Fl 2,3-4",
+        "CEC 2003"
+      ],
+      "facilitator_note": "Mostre que o dom aumenta responsabilidade, não direito de dominar.",
+      "reading_points": [
+        {
+          "title": "Talento real",
+          "body": "A competência existe e pode servir muito bem, mas começa a ser usada para controlar."
+        },
+        {
+          "title": "Dom apropriado",
+          "body": "O problema não é ter habilidade, mas transformá-la em poder sobre os outros."
+        },
+        {
+          "title": "Cristo servidor",
+          "body": "Jesus ensina que a autoridade cristã se expressa em serviço, não em domínio."
+        }
+      ]
+    },
+    {
+      "id": "B08",
+      "term_id": "B08",
+      "call_label": "B08 - Comunhão e missão",
+      "case": "Uma comunidade organiza muitos encontros internos, mas há anos não visita enfermos, não acolhe afastados e não anuncia a fé fora de seus círculos.",
+      "conference_question": "Por que a comunhão cristã se enfraquece quando perde a missão?",
+      "anchors": [
+        "At 2,42-47",
+        "Mt 28,19-20",
+        "CEC 849"
+      ],
+      "facilitator_note": "Evite oposição falsa entre vida interna e missão; a comunhão prepara o envio.",
+      "reading_points": [
+        {
+          "title": "Fechamento interno",
+          "body": "A comunidade tem atividades, mas parece girar em torno de si mesma."
+        },
+        {
+          "title": "Missão esquecida",
+          "body": "A comunhão vira conforto de grupo quando não alcança quem precisa do Evangelho."
+        },
+        {
+          "title": "Igreja enviada",
+          "body": "A vida da Igreja inclui oração, partilha, testemunho e anúncio de Cristo."
+        }
+      ]
+    },
+    {
+      "id": "B09",
+      "term_id": "B09",
+      "call_label": "B09 - Bem da Igreja",
+      "case": "Uma coordenação rejeita colaborar com outra pastoral porque teme perder espaço no calendário e diminuir a visibilidade do próprio trabalho.",
+      "conference_question": "Que sinais mostram que uma iniciativa está servindo à Igreja inteira, e não apenas ao próprio grupo?",
+      "anchors": [
+        "Ef 4,11-16",
+        "1Cor 12,7",
+        "CEC 2003"
+      ],
+      "facilitator_note": "Reforce que o bem da Igreja é mais amplo que o prestígio de uma equipe.",
+      "reading_points": [
+        {
+          "title": "Proteção de espaço",
+          "body": "A preocupação principal deixa de ser a missão e passa a ser visibilidade."
+        },
+        {
+          "title": "Interesse estreito",
+          "body": "Quando cada grupo defende território, a Igreja deixa de ser vista como corpo."
+        },
+        {
+          "title": "Edificação comum",
+          "body": "Os dons e ministérios existem para o crescimento do Corpo de Cristo."
+        }
+      ]
+    },
+    {
+      "id": "B10",
+      "term_id": "B10",
+      "call_label": "B10 - Graça que capacita",
+      "case": "Uma voluntária evita assumir uma visita a famílias enlutadas porque se sente incapaz, mas aceita formação, acompanha alguém experiente e descobre que pode servir com prudência.",
+      "conference_question": "Como a graça capacita sem dispensar formação, humildade e acompanhamento?",
+      "anchors": [
+        "CEC 2003",
+        "2Cor 12,9",
+        "1Pd 4,10"
+      ],
+      "facilitator_note": "Evite tanto voluntarismo quanto medo paralisante: a graça age com cooperação responsável.",
+      "reading_points": [
+        {
+          "title": "Medo compreensível",
+          "body": "A tarefa é delicada e a pessoa reconhece seus limites."
+        },
+        {
+          "title": "Cooperação responsável",
+          "body": "Ela não improvisa; aceita formação e aprende com quem já serve."
+        },
+        {
+          "title": "Graça eficaz",
+          "body": "A graça de Deus capacita o fiel a colaborar com sua obra na Igreja."
+        }
+      ]
+    },
+    {
+      "id": "B11",
+      "term_id": "B11",
+      "call_label": "B11 - Ordem na comunhão",
+      "case": "Durante uma reunião comunitária, cada equipe fala por cima da outra, decisões são refeitas sem registro e ninguém sabe o que foi combinado.",
+      "conference_question": "Por que ordem e clareza não são burocracia vazia quando servem à comunhão?",
+      "anchors": [
+        "1Cor 14,33.40",
+        "1Cor 12,7"
+      ],
+      "facilitator_note": "Mostre que paz e ordem protegem a missão e evitam desgaste injusto.",
+      "reading_points": [
+        {
+          "title": "Confusão prática",
+          "body": "A falta de método produz ruído, retrabalho e insegurança."
+        },
+        {
+          "title": "Dano comunitário",
+          "body": "A desordem prejudica a caridade porque cansa pessoas e obscurece responsabilidades."
+        },
+        {
+          "title": "Edificação em paz",
+          "body": "São Paulo pede que tudo seja feito com dignidade, ordem e paz."
+        }
+      ]
+    },
+    {
+      "id": "B12",
+      "term_id": "B12",
+      "call_label": "B12 - Serviço dos leigos",
+      "case": "Quando surge uma necessidade de visita, organização e formação, muitos dizem que isso é 'coisa do padre', embora haja leigos preparados na comunidade.",
+      "conference_question": "Como a missão dos leigos corrige a ideia de que só o sacerdote tem responsabilidade eclesial?",
+      "anchors": [
+        "CEC 897-900",
+        "CEC 901",
+        "Rm 12,4-8"
+      ],
+      "facilitator_note": "Destaque a corresponsabilidade batismal sem diminuir o ministério ordenado.",
+      "reading_points": [
+        {
+          "title": "Transferência indevida",
+          "body": "A comunidade descarrega toda missão em uma só pessoa."
+        },
+        {
+          "title": "Leigos chamados",
+          "body": "Os leigos têm vocação própria e responsabilidades reais na Igreja e no mundo."
+        },
+        {
+          "title": "Corpo com membros",
+          "body": "A diversidade de serviços manifesta que muitos membros colaboram no mesmo corpo."
+        }
+      ]
+    },
+    {
+      "id": "B13",
+      "term_id": "B13",
+      "call_label": "B13 - Unidade sem uniformidade",
+      "case": "Uma liderança quer que todos os grupos rezem, cantem e se organizem exatamente do mesmo modo, para evitar qualquer diferença visível.",
+      "conference_question": "Como preservar a unidade da Igreja sem apagar carismas legítimos?",
+      "anchors": [
+        "1Cor 12,4-6",
+        "Ef 4,11-16",
+        "B02"
+      ],
+      "facilitator_note": "Explique que unidade católica não é padronização total, mas comunhão na fé.",
+      "reading_points": [
+        {
+          "title": "Medo da diferença",
+          "body": "A liderança tenta eliminar diferenças em nome de uma paz aparente."
+        },
+        {
+          "title": "Uniformidade empobrece",
+          "body": "Quando tudo precisa ser igual, dons legítimos deixam de enriquecer a Igreja."
+        },
+        {
+          "title": "Mesmo Senhor",
+          "body": "A diversidade de dons permanece cristã quando converge para o mesmo Senhor."
+        }
+      ]
+    },
+    {
+      "id": "B14",
+      "term_id": "B14",
+      "call_label": "B14 - Dignidade do pequeno",
+      "case": "Numa entrega de alimentos, os voluntários organizam fotos e números da ação, mas quase ninguém aprende o nome das famílias atendidas nem escuta suas necessidades reais.",
+      "conference_question": "O que muda quando a pastoral vê Cristo no pobre, e não apenas uma demanda a resolver?",
+      "anchors": [
+        "Mt 25,35-40",
+        "Tg 2,14-17",
+        "CEC 953"
+      ],
+      "facilitator_note": "Mostre que a caridade cristã une ajuda concreta e reconhecimento da dignidade pessoal.",
+      "reading_points": [
+        {
+          "title": "Ajuda impessoal",
+          "body": "Há auxílio material, mas as pessoas atendidas permanecem invisíveis."
+        },
+        {
+          "title": "Risco de vitrine",
+          "body": "A ação se desvia quando o resultado exibido importa mais que a pessoa servida."
+        },
+        {
+          "title": "Cristo no pequeno",
+          "body": "Jesus identifica sua presença nos famintos, doentes, presos e necessitados."
+        }
+      ]
+    },
+    {
+      "id": "B15",
+      "term_id": "B15",
+      "call_label": "B15 - Fidelidade eclesial",
+      "case": "Um grupo passa a ensinar práticas e ideias sem relação clara com a fé católica, mas evita prestar contas dizendo que 'o Espírito sopra onde quer'.",
+      "conference_question": "Por que invocar o Espírito não dispensa comunhão com a fé, os sacramentos e a Igreja?",
+      "anchors": [
+        "At 2,42",
+        "Ef 4,11-16",
+        "CEC 2030"
+      ],
+      "facilitator_note": "Conduza com firmeza: carisma autêntico não rompe com a Igreja.",
+      "reading_points": [
+        {
+          "title": "Autonomia perigosa",
+          "body": "O grupo usa linguagem espiritual para escapar de qualquer discernimento eclesial."
+        },
+        {
+          "title": "Critério católico",
+          "body": "A fé recebida, a vida sacramental e a comunhão protegem o serviço de desvios."
+        },
+        {
+          "title": "Igreja apostólica",
+          "body": "Desde o início, os fiéis perseveravam na doutrina dos apóstolos e na comunhão."
+        }
+      ]
+    },
+    {
+      "id": "I01",
+      "term_id": "I01",
+      "call_label": "I01 - Pastoral isolada",
+      "case": "A pastoral social organiza uma campanha no mesmo fim de semana de uma ação da saúde, usa os mesmos voluntários e só depois percebe que as duas poderiam ter se ajudado.",
+      "conference_question": "Como o isolamento pastoral prejudica o corpo inteiro, mesmo quando a intenção inicial é boa?",
+      "anchors": [
+        "1Cor 12,12-27",
+        "B04",
+        "B11"
+      ],
+      "facilitator_note": "Mostre que boa intenção não elimina a necessidade de comunhão prática.",
+      "reading_points": [
+        {
+          "title": "Boa obra fragmentada",
+          "body": "As duas ações são boas, mas a falta de diálogo as coloca em concorrência."
+        },
+        {
+          "title": "Cansaço e desperdício",
+          "body": "O isolamento multiplica esforço e sobrecarrega as mesmas pessoas."
+        },
+        {
+          "title": "Corpo coordenado",
+          "body": "Como Corpo de Cristo, os membros precisam agir em relação uns com os outros."
+        }
+      ]
+    },
+    {
+      "id": "I02",
+      "term_id": "I02",
+      "call_label": "I02 - Movimento fechado",
+      "case": "Participantes de um movimento começam a dizer que quem não vive aquela espiritualidade tem uma fé fraca e precisa 'conhecer a verdade de verdade'.",
+      "conference_question": "Como diferenciar amor por um carisma de fechamento que despreza outros caminhos legítimos na Igreja?",
+      "anchors": [
+        "1Cor 12,4-7",
+        "B13",
+        "B15"
+      ],
+      "facilitator_note": "Ajude a reconhecer que nenhum movimento é a Igreja inteira.",
+      "reading_points": [
+        {
+          "title": "Carisma absolutizado",
+          "body": "O grupo transforma uma espiritualidade particular em medida de toda fé."
+        },
+        {
+          "title": "Desprezo dos outros",
+          "body": "O fechamento aparece quando os demais são tratados como cristãos inferiores."
+        },
+        {
+          "title": "Parte do corpo",
+          "body": "Todo carisma autêntico serve à Igreja e não se coloca no lugar dela."
+        }
+      ]
+    },
+    {
+      "id": "I03",
+      "term_id": "I03",
+      "call_label": "I03 - Escala sem gente",
+      "case": "A mesma pessoa abre a igreja, canta, lê, ajuda na secretaria e organiza a ação social, enquanto vários frequentadores dizem que não sabem como começar.",
+      "conference_question": "Que responsabilidade comunitária aparece quando poucos carregam quase todas as tarefas?",
+      "anchors": [
+        "Rm 12,4-8",
+        "B06",
+        "O05"
+      ],
+      "facilitator_note": "Não culpabilize só quem está sobrecarregado; fale de formação e distribuição real.",
+      "reading_points": [
+        {
+          "title": "Sobrecarga visível",
+          "body": "Uma pessoa acumula funções que deveriam ser partilhadas."
+        },
+        {
+          "title": "Falta de formação",
+          "body": "A comunidade não cria caminho para novos servidores aprenderem e assumirem."
+        },
+        {
+          "title": "Muitos membros",
+          "body": "A variedade de dons pede distribuição de responsabilidades no corpo eclesial."
+        }
+      ]
+    },
+    {
+      "id": "I04",
+      "term_id": "I04",
+      "call_label": "I04 - Talento desperdiçado",
+      "case": "Uma mulher que sabe escutar com prudência evita participar da pastoral da escuta porque teme compromisso e prefere dizer que 'outros fazem melhor'.",
+      "conference_question": "Como distinguir humildade verdadeira de fuga diante de um dom que poderia servir?",
+      "anchors": [
+        "1Pd 4,10",
+        "Mt 25,14-30",
+        "B10"
+      ],
+      "facilitator_note": "Mostre que esconder o dom pode ser medo ou comodismo vestido de modéstia.",
+      "reading_points": [
+        {
+          "title": "Capacidade concreta",
+          "body": "A pessoa possui uma habilidade real que poderia servir a quem sofre."
+        },
+        {
+          "title": "Fuga disfarçada",
+          "body": "Dizer que outros fazem melhor pode ocultar medo de assumir responsabilidade."
+        },
+        {
+          "title": "Dom recebido",
+          "body": "A Escritura pede que cada um coloque o dom recebido a serviço dos outros."
+        }
+      ]
+    },
+    {
+      "id": "I05",
+      "term_id": "I05",
+      "call_label": "I05 - Protagonismo vaidoso",
+      "case": "O responsável por um evento aceita ajuda apenas quando continua aparecendo como único organizador e fica irritado se outra pessoa recebe agradecimento público.",
+      "conference_question": "Que sinais indicam que o serviço virou busca de protagonismo, e não edificação da comunidade?",
+      "anchors": [
+        "Mc 10,42-45",
+        "B07",
+        "N01"
+      ],
+      "facilitator_note": "Nomeie a vaidade sem ridicularizar a pessoa; o foco é conversão do serviço.",
+      "reading_points": [
+        {
+          "title": "Controle da visibilidade",
+          "body": "A ajuda é aceita, mas apenas se não diminuir o destaque de quem coordena."
+        },
+        {
+          "title": "Serviço deformado",
+          "body": "O bem comum passa a depender da vaidade e do reconhecimento pessoal."
+        },
+        {
+          "title": "Modelo de Cristo",
+          "body": "Jesus corrige a lógica do poder e coloca o serviço no centro da autoridade."
+        }
+      ]
+    },
+    {
+      "id": "I06",
+      "term_id": "I06",
+      "call_label": "I06 - Caridade sem rosto",
+      "case": "Numa ação de distribuição, os voluntários apressam as famílias na fila para terminar logo e tratam perguntas simples como incômodo.",
+      "conference_question": "Como a caridade material pode perder densidade cristã quando deixa de enxergar a pessoa?",
+      "anchors": [
+        "Mt 25,35-40",
+        "Tg 2,14-17",
+        "B14"
+      ],
+      "facilitator_note": "Mostre que eficiência não autoriza tratar os pobres como problema administrativo.",
+      "reading_points": [
+        {
+          "title": "Fila eficiente",
+          "body": "A entrega acontece, mas o modo de tratar as pessoas fere sua dignidade."
+        },
+        {
+          "title": "Pessoa reduzida",
+          "body": "A necessidade material não apaga a necessidade de escuta, respeito e atenção."
+        },
+        {
+          "title": "Caridade cristã",
+          "body": "Servir Cristo no necessitado exige ajuda concreta e reconhecimento pessoal."
+        }
+      ]
+    },
+    {
+      "id": "I07",
+      "term_id": "I07",
+      "call_label": "I07 - Liturgia improvisada",
+      "case": "A equipe muda leituras, escolhe cantos sem relação com a celebração e decide tudo minutos antes, porque 'Deus entende a intenção'.",
+      "conference_question": "Por que boa intenção não basta para cuidar de uma celebração da Igreja?",
+      "anchors": [
+        "1Cor 14,33.40",
+        "B11",
+        "B15"
+      ],
+      "facilitator_note": "Explique que a liturgia não é propriedade da equipe, mas oração da Igreja.",
+      "reading_points": [
+        {
+          "title": "Improviso repetido",
+          "body": "As escolhas são feitas sem preparação e sem respeito ao sentido da celebração."
+        },
+        {
+          "title": "Intenção insuficiente",
+          "body": "Boa vontade não substitui fidelidade, competência e responsabilidade litúrgica."
+        },
+        {
+          "title": "Ordem e fé",
+          "body": "A Igreja pede que tudo seja feito com dignidade, ordem e comunhão."
+        }
+      ]
+    },
+    {
+      "id": "I08",
+      "term_id": "I08",
+      "call_label": "I08 - Dízimo manipulado",
+      "case": "Numa fala sobre contribuição, alguém sugere que quem não dá certo valor não pode esperar bênção de Deus nem reconhecimento na comunidade.",
+      "conference_question": "Como distinguir convite responsável à contribuição de manipulação religiosa pelo dinheiro?",
+      "anchors": [
+        "2Cor 9,7",
+        "B03",
+        "G11"
+      ],
+      "facilitator_note": "Trate o tema com seriedade: contribuição é importante, mas não pode virar coerção espiritual.",
+      "reading_points": [
+        {
+          "title": "Pressão espiritual",
+          "body": "A contribuição é ligada a medo, culpa e promessa de vantagem."
+        },
+        {
+          "title": "Liberdade ferida",
+          "body": "Quando o dinheiro compra reconhecimento ou bênção, a confiança comunitária é ferida."
+        },
+        {
+          "title": "Oferta livre",
+          "body": "São Paulo ensina que Deus ama quem dá com alegria, não por constrangimento."
+        }
+      ]
+    },
+    {
+      "id": "I09",
+      "term_id": "I09",
+      "call_label": "I09 - Saúde pastoral",
+      "case": "Uma equipe visita um idoso doente, fala alto sobre sua situação na frente de vizinhos e sai sem perguntar se ele deseja receber os sacramentos.",
+      "conference_question": "Que cuidados distinguem visita pastoral de exposição imprudente da fragilidade de alguém?",
+      "anchors": [
+        "Mt 25,36",
+        "Tg 5,14",
+        "B14"
+      ],
+      "facilitator_note": "Destaque sigilo, respeito, escuta e vínculo com a vida sacramental.",
+      "reading_points": [
+        {
+          "title": "Fragilidade exposta",
+          "body": "A situação de doença é tratada sem discrição e sem escuta."
+        },
+        {
+          "title": "Cuidado incompleto",
+          "body": "A visita pastoral não é só presença social; precisa respeitar a pessoa e sua vida de fé."
+        },
+        {
+          "title": "Cristo no enfermo",
+          "body": "Jesus identifica o cuidado ao doente como lugar concreto de encontro com Ele."
+        }
+      ]
+    },
+    {
+      "id": "I10",
+      "term_id": "I10",
+      "call_label": "I10 - Juventude descartada",
+      "case": "Os jovens são chamados para carregar caixas e aparecer em fotos, mas nunca participam de decisões, formação ou responsabilidades de verdade.",
+      "conference_question": "Como diferenciar participação real de uso decorativo da juventude na comunidade?",
+      "anchors": [
+        "1Tm 4,12",
+        "B06",
+        "CEC 897-900"
+      ],
+      "facilitator_note": "Mostre que jovens podem servir com responsabilidade proporcional, não como enfeite.",
+      "reading_points": [
+        {
+          "title": "Presença sem voz",
+          "body": "Os jovens aparecem na ação, mas não recebem formação nem responsabilidade real."
+        },
+        {
+          "title": "Instrumentalização",
+          "body": "Usar pessoas apenas para tarefa menor ou imagem pública nega seus dons."
+        },
+        {
+          "title": "Chamado desde jovem",
+          "body": "A Escritura lembra que a juventude não impede testemunho, serviço e compromisso."
+        }
+      ]
+    },
+    {
+      "id": "I11",
+      "term_id": "I11",
+      "call_label": "I11 - Conflito de agendas",
+      "case": "Três grupos marcam reuniões no mesmo horário e depois reclamam que a comunidade não participa, embora ninguém tenha consultado o calendário comum.",
+      "conference_question": "Como a falta de coordenação transforma atividades boas em concorrência prática?",
+      "anchors": [
+        "1Cor 14,40",
+        "B11",
+        "O04"
+      ],
+      "facilitator_note": "Leve a turma a ver que agenda também é questão de caridade e ordem.",
+      "reading_points": [
+        {
+          "title": "Datas concorrentes",
+          "body": "Atividades boas se chocam por falta de diálogo simples."
+        },
+        {
+          "title": "Culpa mal colocada",
+          "body": "Culpar a comunidade pela baixa presença ignora a desorganização dos responsáveis."
+        },
+        {
+          "title": "Ordem pastoral",
+          "body": "Combinar agenda serve à comunhão e evita desgaste desnecessário."
+        }
+      ]
+    },
+    {
+      "id": "I12",
+      "term_id": "I12",
+      "call_label": "I12 - Formação rasa",
+      "case": "Alguém começa a orientar famílias sobre Batismo sem conhecer o rito, a doutrina básica e os encaminhamentos da comunidade.",
+      "conference_question": "Por que assumir uma função eclesial exige formação proporcional ao peso da tarefa?",
+      "anchors": [
+        "Ef 4,11-16",
+        "B09",
+        "O03"
+      ],
+      "facilitator_note": "Não desvalorize a boa vontade; mostre que ela precisa ser formada.",
+      "reading_points": [
+        {
+          "title": "Tarefa séria",
+          "body": "A orientação às famílias toca sacramento, fé e vida comunitária."
+        },
+        {
+          "title": "Risco da improvisação",
+          "body": "Sem formação, a pessoa pode confundir, ferir ou transmitir erro."
+        },
+        {
+          "title": "Crescimento do corpo",
+          "body": "A Igreja forma seus membros para que sirvam com verdade e maturidade."
+        }
+      ]
+    },
+    {
+      "id": "I13",
+      "term_id": "I13",
+      "call_label": "I13 - Serviço invisível",
+      "case": "Após um retiro, todos agradecem os palestrantes, mas ninguém menciona quem preparou alimento, limpou banheiros e garantiu que o lugar funcionasse.",
+      "conference_question": "Por que serviços discretos também pertencem à edificação do Corpo de Cristo?",
+      "anchors": [
+        "1Cor 12,22-24",
+        "B04",
+        "B07"
+      ],
+      "facilitator_note": "Mostre que reconhecimento não deve depender apenas de visibilidade pública.",
+      "reading_points": [
+        {
+          "title": "Trabalho oculto",
+          "body": "Tarefas básicas sustentaram o encontro, mas ficaram sem reconhecimento."
+        },
+        {
+          "title": "Valor não visível",
+          "body": "O que aparece menos pode ser indispensável para que o serviço aconteça."
+        },
+        {
+          "title": "Membros necessários",
+          "body": "São Paulo valoriza os membros que parecem mais fracos ou menos honrosos."
+        }
+      ]
+    },
+    {
+      "id": "I14",
+      "term_id": "I14",
+      "call_label": "I14 - Acolhida seletiva",
+      "case": "Uma família pobre chega à comunidade com roupas simples e é observada com estranhamento, enquanto visitantes conhecidos recebem sorrisos, nomes e lugares reservados.",
+      "conference_question": "Que critério cristão denuncia a diferença de tratamento entre pessoas com e sem prestígio?",
+      "anchors": [
+        "Tg 2,1-9",
+        "B14",
+        "O06"
+      ],
+      "facilitator_note": "Nomeie favoritismo sem transformar acolhida em mera simpatia social.",
+      "reading_points": [
+        {
+          "title": "Tratamento desigual",
+          "body": "A acolhida muda conforme aparência, prestígio e familiaridade."
+        },
+        {
+          "title": "Favoritismo ferido",
+          "body": "A comunidade contradiz o Evangelho quando constrange quem já está vulnerável."
+        },
+        {
+          "title": "Dignidade comum",
+          "body": "A fé cristã exige reconhecer a mesma dignidade em pobres, afastados e conhecidos."
+        }
+      ]
+    },
+    {
+      "id": "I15",
+      "term_id": "I15",
+      "call_label": "I15 - Missão esquecida",
+      "case": "Um movimento discute por meses detalhes internos de eventos próprios, mas não sabe responder quando perguntam quem está sendo evangelizado ou servido por aquilo.",
+      "conference_question": "Como avaliar se uma atividade alimenta a missão ou apenas conserva a rotina do grupo?",
+      "anchors": [
+        "Mt 28,19-20",
+        "At 2,47",
+        "B08"
+      ],
+      "facilitator_note": "Ajude a distinguir manutenção legítima de fechamento estéril.",
+      "reading_points": [
+        {
+          "title": "Energia para dentro",
+          "body": "O grupo trabalha muito, mas quase só para preservar a própria rotina."
+        },
+        {
+          "title": "Pergunta decisiva",
+          "body": "A missão aparece quando se pergunta quem está sendo evangelizado, formado e servido."
+        },
+        {
+          "title": "Igreja enviada",
+          "body": "Cristo envia a Igreja para fazer discípulos, não apenas manter estruturas internas."
+        }
+      ]
+    },
+    {
+      "id": "N01",
+      "term_id": "N01",
+      "call_label": "N01 - Dom como palco",
+      "case": "Uma pessoa aceita cantar na celebração, mas escolhe repertório para exibir extensão vocal e se irrita quando pedem cantos mais adequados à assembleia.",
+      "conference_question": "Como desmontar a lógica de transformar um dom recebido em palco pessoal?",
+      "anchors": [
+        "Mc 10,42-45",
+        "B07",
+        "I05"
+      ],
+      "facilitator_note": "Mostre que o problema não é talento, mas finalidade desviada.",
+      "reading_points": [
+        {
+          "title": "Exibição do talento",
+          "body": "A escolha serve mais à autopromoção do que à oração da comunidade."
+        },
+        {
+          "title": "Finalidade desviada",
+          "body": "O dom se corrompe quando a pessoa busca ser vista em vez de ajudar a Igreja a rezar."
+        },
+        {
+          "title": "Serviço humilde",
+          "body": "O modelo cristão é usar o dom para servir, não para dominar ou aparecer."
+        }
+      ]
+    },
+    {
+      "id": "N02",
+      "term_id": "N02",
+      "call_label": "N02 - Meu grupo basta",
+      "case": "Depois de entrar em um movimento, alguém abandona a vida comum da paróquia e diz que ali encontrou tudo, por isso não precisa de mais nada da Igreja.",
+      "conference_question": "Por que essa frase parece piedosa, mas fere a comunhão eclesial?",
+      "anchors": [
+        "1Cor 12,12-27",
+        "B04",
+        "B13"
+      ],
+      "facilitator_note": "Diga claramente que movimento não substitui Igreja, sacramentos e comunhão paroquial.",
+      "reading_points": [
+        {
+          "title": "Suficiência de grupo",
+          "body": "A experiência particular passa a ocupar o lugar da Igreja inteira."
+        },
+        {
+          "title": "Ruptura silenciosa",
+          "body": "A pessoa não nega a fé com palavras, mas enfraquece a comunhão concreta."
+        },
+        {
+          "title": "Corpo maior",
+          "body": "Nenhum membro ou grupo basta sozinho; todos pertencem ao Corpo de Cristo."
+        }
+      ]
+    },
+    {
+      "id": "N03",
+      "term_id": "N03",
+      "call_label": "N03 - Sempre foi assim",
+      "case": "Uma pastoral mantém um procedimento confuso que afasta famílias, mas rejeita qualquer revisão porque 'foi assim que aprendemos'.",
+      "conference_question": "Como distinguir fidelidade verdadeira de apego a costume que já não serve bem à missão?",
+      "anchors": [
+        "Ef 4,15-16",
+        "B09",
+        "G09"
+      ],
+      "facilitator_note": "Evite desprezar a história; mostre que costume local pode precisar de conversão.",
+      "reading_points": [
+        {
+          "title": "Costume protegido",
+          "body": "A prática antiga é defendida sem perguntar se ainda serve às pessoas."
+        },
+        {
+          "title": "Missão bloqueada",
+          "body": "O costume vira desculpa quando impede clareza, acolhida e correção necessária."
+        },
+        {
+          "title": "Crescer na verdade",
+          "body": "A Igreja cresce quando a caridade e a verdade orientam também as práticas concretas."
+        }
+      ]
+    },
+    {
+      "id": "N04",
+      "term_id": "N04",
+      "call_label": "N04 - Ninguém precisa de mim",
+      "case": "Um homem percebe que poderia ajudar na administração de uma obra, mas repete que sua ausência não fará diferença e nunca conversa com a coordenação.",
+      "conference_question": "Como a frase 'ninguém precisa de mim' pode esconder omissão diante do dom recebido?",
+      "anchors": [
+        "1Cor 12,21",
+        "1Pd 4,10",
+        "B06"
+      ],
+      "facilitator_note": "Trate a falsa inutilidade com cuidado, sem confundir ferida pessoal com comodismo.",
+      "reading_points": [
+        {
+          "title": "Dom não oferecido",
+          "body": "A pessoa tem competência, mas decide que ela não importa sem verificar a necessidade real."
+        },
+        {
+          "title": "Falsa humildade",
+          "body": "A autodepreciação pode impedir serviço e responsabilidade."
+        },
+        {
+          "title": "Membro necessário",
+          "body": "No corpo, nenhum membro deve dizer ao outro ou a si mesmo que não é necessário."
+        }
+      ]
+    },
+    {
+      "id": "N05",
+      "term_id": "N05",
+      "call_label": "N05 - Só os adultos servem",
+      "case": "Quando jovens se oferecem para ajudar na liturgia e na ação social, alguém responde que isso é melhor deixar para mais tarde, quando forem 'gente formada'.",
+      "conference_question": "Como corrigir a ideia de que juventude é apenas espera passiva para servir depois?",
+      "anchors": [
+        "1Tm 4,12",
+        "B06",
+        "I10"
+      ],
+      "facilitator_note": "Mostre que responsabilidade deve ser proporcional, mas real.",
+      "reading_points": [
+        {
+          "title": "Chamado adiado",
+          "body": "A juventude é tratada como incapacidade geral, não como tempo de resposta."
+        },
+        {
+          "title": "Desperdício de dons",
+          "body": "Impedir todo serviço jovem bloqueia formação, compromisso e pertença."
+        },
+        {
+          "title": "Testemunho jovem",
+          "body": "A Escritura reconhece que o jovem pode ser exemplo na palavra, conduta, fé e caridade."
+        }
+      ]
+    },
+    {
+      "id": "N06",
+      "term_id": "N06",
+      "call_label": "N06 - Servir é ocupar agenda",
+      "case": "Uma liderança elogia apenas quem está em todas as reuniões e trata como menos comprometido quem serve bem, mas precisa cuidar da família e do trabalho.",
+      "conference_question": "Por que medir serviço apenas por agenda cheia pode produzir injustiça e ativismo?",
+      "anchors": [
+        "Lc 10,38-42",
+        "B05",
+        "G12"
+      ],
+      "facilitator_note": "Mostre que compromisso tem qualidade, fidelidade e limite, não só quantidade.",
+      "reading_points": [
+        {
+          "title": "Métrica pobre",
+          "body": "A presença constante vira único sinal de compromisso."
+        },
+        {
+          "title": "Injustiça prática",
+          "body": "Quem tem limites legítimos é tratado como menos fiel, mesmo servindo com seriedade."
+        },
+        {
+          "title": "Serviço discernido",
+          "body": "A caridade exige ação concreta, mas também escuta de Deus e respeito aos deveres."
+        }
+      ]
+    },
+    {
+      "id": "N07",
+      "term_id": "N07",
+      "call_label": "N07 - Carisma sem Igreja",
+      "case": "Um pregador passa a reunir pessoas fora de qualquer acompanhamento, recusa correção doutrinal e afirma que sua inspiração pessoal é suficiente.",
+      "conference_question": "Como reconhecer quando a linguagem de carisma está sendo usada para escapar da comunhão eclesial?",
+      "anchors": [
+        "At 2,42",
+        "B02",
+        "B15"
+      ],
+      "facilitator_note": "Seja firme: inspiração pessoal precisa de discernimento eclesial.",
+      "reading_points": [
+        {
+          "title": "Inspiração isolada",
+          "body": "A pessoa separa sua experiência religiosa da doutrina e da comunhão."
+        },
+        {
+          "title": "Risco espiritual",
+          "body": "Sem Igreja, o carisma alegado pode virar opinião pessoal com autoridade indevida."
+        },
+        {
+          "title": "Comunhão apostólica",
+          "body": "A vida cristã persevera na doutrina dos apóstolos, na comunhão e nos sacramentos."
+        }
+      ]
+    },
+    {
+      "id": "N08",
+      "term_id": "N08",
+      "call_label": "N08 - Crítica sem conversão",
+      "case": "Uma pessoa aponta erros reais da comunidade em conversas paralelas, mas quando é convidada a ajudar na correção, diz que não quer se envolver.",
+      "conference_question": "Como diferenciar denúncia ou crítica necessária de postura que só acusa e não se compromete?",
+      "anchors": [
+        "Mt 7,3-5",
+        "Mt 18,15-17",
+        "O10"
+      ],
+      "facilitator_note": "Não negue as falhas reais; questione a recusa de conversão e compromisso.",
+      "reading_points": [
+        {
+          "title": "Falhas reais",
+          "body": "A crítica pode estar vendo problemas que precisam ser corrigidos."
+        },
+        {
+          "title": "Distância confortável",
+          "body": "O desvio está em usar o erro para se colocar acima, sem assumir caminho justo."
+        },
+        {
+          "title": "Correção evangélica",
+          "body": "Jesus propõe correção com responsabilidade, verdade e finalidade de reconciliação."
+        }
+      ]
+    },
+    {
+      "id": "N09",
+      "term_id": "N09",
+      "call_label": "N09 - O padre resolve tudo",
+      "case": "Uma obra de caridade atrasa porque todos esperam que o padre decida compras, lista, transporte e divulgação, embora haja uma equipe leiga capaz.",
+      "conference_question": "Como essa narrativa enfraquece a corresponsabilidade dos leigos sem respeitar melhor o padre?",
+      "anchors": [
+        "CEC 897-900",
+        "B12",
+        "B06"
+      ],
+      "facilitator_note": "Mostre que respeitar o sacerdote não significa infantilizar a comunidade.",
+      "reading_points": [
+        {
+          "title": "Dependência excessiva",
+          "body": "Decisões possíveis aos leigos ficam paradas por medo de assumir responsabilidade."
+        },
+        {
+          "title": "Missão reduzida",
+          "body": "A comunidade age como se o Batismo não desse participação real na missão."
+        },
+        {
+          "title": "Leigos corresponsáveis",
+          "body": "A vocação laical inclui colaborar na Igreja e no mundo segundo seus dons."
+        }
+      ]
+    },
+    {
+      "id": "N10",
+      "term_id": "N10",
+      "call_label": "N10 - Movimento perfeito",
+      "case": "Depois de uma queixa séria sobre humilhações internas, membros antigos minimizam tudo para proteger a imagem do movimento.",
+      "conference_question": "Por que amar um movimento não autoriza negar seus pecados ou impedir correção?",
+      "anchors": [
+        "1Jo 1,8-9",
+        "B15",
+        "G05"
+      ],
+      "facilitator_note": "Trate com seriedade: proteger imagem não vale mais que verdade e cuidado das pessoas.",
+      "reading_points": [
+        {
+          "title": "Queixa abafada",
+          "body": "Uma denúncia séria é diminuída para preservar reputação."
+        },
+        {
+          "title": "Orgulho institucional",
+          "body": "O grupo se trata como incapaz de erro e deixa pessoas feridas sem escuta."
+        },
+        {
+          "title": "Fidelidade verdadeira",
+          "body": "A comunhão com a Igreja inclui verdade, correção e conversão."
+        }
+      ]
+    },
+    {
+      "id": "N11",
+      "term_id": "N11",
+      "call_label": "N11 - Só emoção confirma",
+      "case": "Depois de um encontro intenso, alguns concluem que tudo foi de Deus porque choraram muito, embora não haja mudança de vida nem reconciliação concreta.",
+      "conference_question": "Que critérios ajudam a discernir experiência espiritual sem reduzi-la à emoção?",
+      "anchors": [
+        "Gl 5,22-23",
+        "1Cor 12,7",
+        "G07"
+      ],
+      "facilitator_note": "Não despreze emoção; coloque-a no lugar certo, abaixo dos frutos.",
+      "reading_points": [
+        {
+          "title": "Intensidade real",
+          "body": "A emoção aconteceu e pode acompanhar uma experiência de fé."
+        },
+        {
+          "title": "Critério insuficiente",
+          "body": "Sentir muito não prova conversão, comunhão ou caridade."
+        },
+        {
+          "title": "Frutos do Espírito",
+          "body": "O discernimento cristão procura frutos estáveis de amor, paz, fidelidade e serviço."
+        }
+      ]
+    },
+    {
+      "id": "N12",
+      "term_id": "N12",
+      "call_label": "N12 - Sem aplauso, sem valor",
+      "case": "Uma equipe desanima porque sua tarefa de manutenção quase nunca é citada publicamente, e começa a dizer que então não vale a pena servir.",
+      "conference_question": "Como desmontar a mentira de que só o serviço reconhecido publicamente tem valor?",
+      "anchors": [
+        "1Cor 12,22-24",
+        "Mt 6,1-4",
+        "I13"
+      ],
+      "facilitator_note": "Valorize reconhecimento justo, mas mostre que ele não é a fonte do valor do serviço.",
+      "reading_points": [
+        {
+          "title": "Ferida de reconhecimento",
+          "body": "A falta de agradecimento pesa e deve ser considerada."
+        },
+        {
+          "title": "Mentira do aplauso",
+          "body": "O erro é concluir que sem visibilidade o serviço não tem valor."
+        },
+        {
+          "title": "Deus vê o oculto",
+          "body": "Jesus ensina que o Pai vê o bem feito sem busca de exibição."
+        }
+      ]
+    },
+    {
+      "id": "N13",
+      "term_id": "N13",
+      "call_label": "N13 - Unidade é concordar",
+      "case": "Numa reunião, qualquer pergunta sobre decisões é tratada como falta de comunhão, e todos aprendem que o melhor é calar.",
+      "conference_question": "Como distinguir unidade cristã de concordância forçada que impede discernimento?",
+      "anchors": [
+        "1Cor 12,4-7",
+        "B13",
+        "G03"
+      ],
+      "facilitator_note": "Mostre que comunhão permite perguntas honestas dentro da caridade e da verdade.",
+      "reading_points": [
+        {
+          "title": "Pergunta silenciada",
+          "body": "A discordância respeitosa é tratada como ameaça."
+        },
+        {
+          "title": "Paz aparente",
+          "body": "Calma externa pode esconder medo, imaturidade e falta de discernimento."
+        },
+        {
+          "title": "Unidade real",
+          "body": "A diversidade de dons exige comunhão, não apagamento de toda diferença."
+        }
+      ]
+    },
+    {
+      "id": "N14",
+      "term_id": "N14",
+      "call_label": "N14 - Obediência cega",
+      "case": "Uma pessoa com função de liderança manda voluntários esconderem um erro grave e diz que questionar isso seria desobediência.",
+      "conference_question": "Por que a obediência cristã não pode ser usada para encobrir dano ou abuso?",
+      "anchors": [
+        "At 5,29",
+        "Mt 18,15-17",
+        "G10"
+      ],
+      "facilitator_note": "Fale com precisão: autoridade legítima serve a verdade e o bem, não o encobrimento.",
+      "reading_points": [
+        {
+          "title": "Comando injusto",
+          "body": "A liderança exige silêncio diante de um erro grave."
+        },
+        {
+          "title": "Religião manipulada",
+          "body": "A palavra obediência é usada para bloquear consciência, prudência e justiça."
+        },
+        {
+          "title": "Obedecer a Deus",
+          "body": "A autoridade humana não pode exigir cumplicidade com o mal."
+        }
+      ]
+    },
+    {
+      "id": "N15",
+      "term_id": "N15",
+      "call_label": "N15 - Missão sem formação",
+      "case": "Um grupo decide visitar dependentes químicos sem preparação, sem coordenação e sem saber para onde encaminhar casos graves, confiando apenas na boa intenção.",
+      "conference_question": "Por que boa vontade sem formação pode colocar pessoas vulneráveis em risco?",
+      "anchors": [
+        "Ef 4,11-16",
+        "B09",
+        "I12"
+      ],
+      "facilitator_note": "Mostre que a missão exige caridade e prudência, especialmente diante de fragilidades graves.",
+      "reading_points": [
+        {
+          "title": "Boa intenção",
+          "body": "O desejo de ajudar é real e não deve ser desprezado."
+        },
+        {
+          "title": "Risco concreto",
+          "body": "Sem preparação, o grupo pode piorar situações que exigem cuidado competente."
+        },
+        {
+          "title": "Formação para servir",
+          "body": "A Igreja forma seus membros para que a caridade seja verdadeira e responsável."
+        }
+      ]
+    },
+    {
+      "id": "G01",
+      "term_id": "G01",
+      "call_label": "G01 - Dom ou posse",
+      "case": "Quem sempre organizou uma ação social se recusa a ensinar outra pessoa, porque sente que aquela tarefa 'é sua' e não quer perder espaço.",
+      "conference_question": "Como distinguir zelo por uma missão de posse indevida sobre um serviço da Igreja?",
+      "anchors": [
+        "1Pd 4,10",
+        "B03",
+        "B07"
+      ],
+      "facilitator_note": "Mostre que o dom recebido deve circular em serviço, não virar propriedade.",
+      "reading_points": [
+        {
+          "title": "Zelo misturado",
+          "body": "Pode haver cuidado real pela ação, mas também medo de perder controle."
+        },
+        {
+          "title": "Posse do serviço",
+          "body": "A tarefa da Igreja é tratada como território pessoal."
+        },
+        {
+          "title": "Dom administrado",
+          "body": "O cristão administra o dom recebido para servir aos outros."
+        }
+      ]
+    },
+    {
+      "id": "G02",
+      "term_id": "G02",
+      "call_label": "G02 - Pastoral ou movimento",
+      "case": "Uma família pergunta a diferença entre pastoral do Batismo e um movimento de espiritualidade familiar, porque ambos convidam casais para reuniões.",
+      "conference_question": "Que distinção ajuda a entender a função própria de uma pastoral e de um movimento eclesial?",
+      "anchors": [
+        "1Cor 12,4-7",
+        "B15"
+      ],
+      "facilitator_note": "Explique de forma simples: pastoral é serviço organizado; movimento tem carisma ou espiritualidade própria.",
+      "reading_points": [
+        {
+          "title": "Pergunta legítima",
+          "body": "Os dois grupos atuam na Igreja, mas não têm exatamente a mesma natureza."
+        },
+        {
+          "title": "Funções distintas",
+          "body": "A pastoral serve uma necessidade organizada; o movimento vive e oferece um carisma próprio."
+        },
+        {
+          "title": "Mesma comunhão",
+          "body": "Ambos devem atuar dentro da fé e da missão da Igreja."
+        }
+      ]
+    },
+    {
+      "id": "G03",
+      "term_id": "G03",
+      "call_label": "G03 - Unidade ou uniformidade",
+      "case": "Uma coordenação quer proibir todos os cantos e formas de oração que não sejam do costume local, mesmo quando são católicos e adequados.",
+      "conference_question": "Como discernir quando uma diferença legítima enriquece a unidade, e quando realmente ameaça a comunhão?",
+      "anchors": [
+        "1Cor 12,4-6",
+        "B13",
+        "N13"
+      ],
+      "facilitator_note": "Ajude a turma a não confundir gosto pessoal com critério de comunhão.",
+      "reading_points": [
+        {
+          "title": "Diferença legítima",
+          "body": "Nem toda forma diferente de rezar ou cantar ameaça a fé."
+        },
+        {
+          "title": "Uniformidade imposta",
+          "body": "A tentativa de apagar tudo que é diferente pode empobrecer a comunidade."
+        },
+        {
+          "title": "Comunhão católica",
+          "body": "A unidade está na mesma fé, nos sacramentos e na caridade, não na cópia de costumes."
+        }
+      ]
+    },
+    {
+      "id": "G04",
+      "term_id": "G04",
+      "call_label": "G04 - Serviço ou ativismo",
+      "case": "Uma pessoa está em todas as ações, mas já não reza, responde com irritação e deixa tarefas malfeitas porque vive correndo.",
+      "conference_question": "Que sinais indicam que o serviço perdeu discernimento e virou ativismo?",
+      "anchors": [
+        "Lc 10,38-42",
+        "B05",
+        "N06"
+      ],
+      "facilitator_note": "Evite usar o termo para justificar preguiça; o problema é ação sem raiz e sem ordem.",
+      "reading_points": [
+        {
+          "title": "Atividade intensa",
+          "body": "Há muito trabalho, mas a vida interior e a qualidade do serviço se deterioram."
+        },
+        {
+          "title": "Sinal de desordem",
+          "body": "Irritação constante, descuido e falta de oração mostram que algo precisa ser revisto."
+        },
+        {
+          "title": "Serviço com raiz",
+          "body": "A ação cristã deve nascer da caridade, da escuta de Deus e do discernimento."
+        }
+      ]
+    },
+    {
+      "id": "G05",
+      "term_id": "G05",
+      "call_label": "G05 - Fidelidade ou fechamento",
+      "case": "Um grupo preserva sua espiritualidade com zelo, mas evita qualquer atividade comum com a paróquia para não 'misturar as coisas'.",
+      "conference_question": "Como distinguir identidade espiritual legítima de fechamento que rompe a comunhão?",
+      "anchors": [
+        "At 2,42",
+        "B15",
+        "N10"
+      ],
+      "facilitator_note": "Mostre que identidade própria e comunhão eclesial devem caminhar juntas.",
+      "reading_points": [
+        {
+          "title": "Identidade real",
+          "body": "O grupo pode ter um carisma próprio que merece ser preservado."
+        },
+        {
+          "title": "Fechamento prático",
+          "body": "A recusa de qualquer colaboração revela medo e isolamento."
+        },
+        {
+          "title": "Fidelidade eclesial",
+          "body": "Carismas autênticos permanecem ligados à vida e à missão da Igreja."
+        }
+      ]
+    },
+    {
+      "id": "G06",
+      "term_id": "G06",
+      "call_label": "G06 - Correção ou disputa",
+      "case": "Após erro na prestação de contas, uma pessoa quer expor os responsáveis em público antes de conversar com eles ou verificar os fatos.",
+      "conference_question": "Como corrigir um erro grave sem transformar justiça em disputa ou humilhação?",
+      "anchors": [
+        "Mt 18,15-17",
+        "Ef 4,15",
+        "N08"
+      ],
+      "facilitator_note": "Não minimize erro administrativo; ensine caminho justo, proporcional e verificável.",
+      "reading_points": [
+        {
+          "title": "Erro a esclarecer",
+          "body": "A prestação de contas pode ter falha real e precisa ser tratada."
+        },
+        {
+          "title": "Exposição precipitada",
+          "body": "Pular verificação e diálogo pode trocar correção por ataque."
+        },
+        {
+          "title": "Verdade na caridade",
+          "body": "A correção cristã busca verdade, reparação e comunhão, não vitória pessoal."
+        }
+      ]
+    },
+    {
+      "id": "G07",
+      "term_id": "G07",
+      "call_label": "G07 - Emoção ou fruto",
+      "case": "Uma experiência de oração emociona muitas pessoas, mas semanas depois continuam as mesmas fofocas, rivalidades e recusas de perdão.",
+      "conference_question": "Por que o fruto posterior ajuda a discernir melhor que a emoção do momento?",
+      "anchors": [
+        "Gl 5,22-23",
+        "1Cor 13,1-7",
+        "N11"
+      ],
+      "facilitator_note": "Valorize a emoção, mas ensine que conversão se verifica no fruto.",
+      "reading_points": [
+        {
+          "title": "Emoção sincera",
+          "body": "O momento pode ter sido tocante e importante para muitos."
+        },
+        {
+          "title": "Falta de fruto",
+          "body": "Quando não há mudança de caridade, a experiência precisa ser discernida."
+        },
+        {
+          "title": "Critério evangélico",
+          "body": "O Espírito produz frutos concretos de amor, paz, domínio de si e fidelidade."
+        }
+      ]
+    },
+    {
+      "id": "G08",
+      "term_id": "G08",
+      "call_label": "G08 - Acolhida ou aprovação",
+      "case": "Uma pessoa afastada procura a comunidade em situação moral confusa; alguns querem rejeitá-la, outros dizem que não se deve tocar em nenhum assunto difícil.",
+      "conference_question": "Como acolher uma pessoa sem rejeitá-la e sem fingir que todo caminho é igualmente bom?",
+      "anchors": [
+        "Jo 8,10-11",
+        "Tg 2,1-9",
+        "B14"
+      ],
+      "facilitator_note": "Mantenha juntos misericórdia e verdade; rejeição e relativização são erros opostos.",
+      "reading_points": [
+        {
+          "title": "Pessoa concreta",
+          "body": "Alguém procura a Igreja em uma situação que exige cuidado e verdade."
+        },
+        {
+          "title": "Dois desvios",
+          "body": "Rejeitar a pessoa fere a misericórdia; aprovar tudo fere a verdade."
+        },
+        {
+          "title": "Acolhida cristã",
+          "body": "Jesus acolhe o pecador e chama à conversão, sem humilhação e sem banalização."
+        }
+      ]
+    },
+    {
+      "id": "G09",
+      "term_id": "G09",
+      "call_label": "G09 - Tradição ou costume",
+      "case": "Uma comunidade preserva com cuidado a fé recebida, mas também mantém uma regra local que dificulta injustamente o acesso de trabalhadores aos encontros.",
+      "conference_question": "Como distinguir a Tradição da Igreja de costumes locais que podem e devem ser revistos?",
+      "anchors": [
+        "2Ts 2,15",
+        "Ef 4,15-16",
+        "N03"
+      ],
+      "facilitator_note": "Explique que rever costume local não significa desprezar a fé recebida.",
+      "reading_points": [
+        {
+          "title": "Fé recebida",
+          "body": "Há um núcleo de fé que deve ser guardado com fidelidade."
+        },
+        {
+          "title": "Costume revisável",
+          "body": "Uma regra local pode ser mudada quando impede pessoas de participar justamente."
+        },
+        {
+          "title": "Discernimento pastoral",
+          "body": "A missão pede fidelidade ao Evangelho e revisão prudente do que não serve mais."
+        }
+      ]
+    },
+    {
+      "id": "G10",
+      "term_id": "G10",
+      "call_label": "G10 - Autoridade ou abuso",
+      "case": "Um coordenador ameaça retirar pessoas da escala se elas não concordarem com suas preferências pessoais, mesmo sem motivo ligado ao serviço.",
+      "conference_question": "Que critério distingue autoridade legítima de uso abusivo de função e influência?",
+      "anchors": [
+        "Mc 10,42-45",
+        "At 5,29",
+        "N14"
+      ],
+      "facilitator_note": "Fale de autoridade como serviço responsável, não como domínio pessoal.",
+      "reading_points": [
+        {
+          "title": "Poder usado mal",
+          "body": "A função é usada para impor preferência pessoal."
+        },
+        {
+          "title": "Medo como instrumento",
+          "body": "A ameaça substitui diálogo, critério objetivo e justiça."
+        },
+        {
+          "title": "Autoridade servidora",
+          "body": "Jesus ensina que quem exerce autoridade deve servir, não dominar."
+        }
+      ]
+    },
+    {
+      "id": "G11",
+      "term_id": "G11",
+      "call_label": "G11 - Oferta ou pressão",
+      "case": "Uma campanha financeira apresenta a necessidade real da comunidade, mas depois expõe nomes de quem contribuiu pouco para constrangê-los.",
+      "conference_question": "Como pedir contribuição com responsabilidade sem ferir liberdade e dignidade?",
+      "anchors": [
+        "2Cor 9,7",
+        "I08",
+        "B03"
+      ],
+      "facilitator_note": "Mostre que transparência e convite são legítimos; constrangimento público não é.",
+      "reading_points": [
+        {
+          "title": "Necessidade real",
+          "body": "A comunidade pode precisar de recursos para sustentar sua missão."
+        },
+        {
+          "title": "Pressão indevida",
+          "body": "Expor nomes e valores transforma contribuição em constrangimento."
+        },
+        {
+          "title": "Liberdade cristã",
+          "body": "A oferta deve ser livre, responsável e sem manipulação espiritual."
+        }
+      ]
+    },
+    {
+      "id": "G12",
+      "term_id": "G12",
+      "call_label": "G12 - Disponível ou esgotado",
+      "case": "Uma voluntária aceita toda tarefa que aparece, mas começa a negligenciar família, trabalho, descanso e oração, até adoecer.",
+      "conference_question": "Como distinguir generosidade de uma disponibilidade sem limite que deixa de ser prudente?",
+      "anchors": [
+        "Mc 6,31",
+        "B06",
+        "N06"
+      ],
+      "facilitator_note": "Mostre que limite não é egoísmo quando protege deveres reais e serviço fiel.",
+      "reading_points": [
+        {
+          "title": "Generosidade inicial",
+          "body": "A pessoa quer servir e não foge facilmente das necessidades."
+        },
+        {
+          "title": "Limites ignorados",
+          "body": "O serviço se desordena quando destrói deveres, saúde e oração."
+        },
+        {
+          "title": "Prudência cristã",
+          "body": "Jesus também chama os discípulos ao descanso necessário para continuar a missão."
+        }
+      ]
+    },
+    {
+      "id": "G13",
+      "term_id": "G13",
+      "call_label": "G13 - Silêncio ou omissão",
+      "case": "Uma pessoa presencia tratamento humilhante contra um voluntário novo e decide calar para 'não criar problema'.",
+      "conference_question": "Como distinguir silêncio prudente de omissão diante de um dano concreto?",
+      "anchors": [
+        "Mt 18,15-17",
+        "Pr 31,8-9",
+        "O10"
+      ],
+      "facilitator_note": "Evite incentivar exposição precipitada; ensine intervenção justa e proporcional.",
+      "reading_points": [
+        {
+          "title": "Dano observado",
+          "body": "A humilhação não é boato; alguém viu uma pessoa ser ferida."
+        },
+        {
+          "title": "Paz falsa",
+          "body": "Calar para evitar desconforto pode proteger o agressor e abandonar a vítima."
+        },
+        {
+          "title": "Voz responsável",
+          "body": "A caridade pode exigir falar pelo caminho correto e defender quem é atingido."
+        }
+      ]
+    },
+    {
+      "id": "G14",
+      "term_id": "G14",
+      "call_label": "G14 - Competência ou vaidade",
+      "case": "Uma pessoa estuda liturgia com seriedade, mas passa a corrigir todos de modo humilhante e a tratar dúvidas simples como ignorância.",
+      "conference_question": "Como usar competência para edificar sem transformá-la em superioridade?",
+      "anchors": [
+        "Rm 12,6-8",
+        "B07",
+        "I12"
+      ],
+      "facilitator_note": "Valorize estudo e competência, mas una isso à humildade pastoral.",
+      "reading_points": [
+        {
+          "title": "Conhecimento necessário",
+          "body": "A formação ajuda a comunidade a servir melhor e evitar erros."
+        },
+        {
+          "title": "Vaidade intelectual",
+          "body": "O saber se desvia quando vira instrumento de humilhação."
+        },
+        {
+          "title": "Edificar com humildade",
+          "body": "Os dons devem ser exercidos com retidão, paciência e caridade."
+        }
+      ]
+    },
+    {
+      "id": "G15",
+      "term_id": "G15",
+      "call_label": "G15 - Chamar ou explorar",
+      "case": "Uma coordenação convida uma pessoa nova para ajudar, mas não explica a tarefa, não oferece formação e depois cobra resultados como se ela já fosse experiente.",
+      "conference_question": "Como distinguir convite ao serviço de exploração da boa vontade de alguém?",
+      "anchors": [
+        "1Pd 4,10",
+        "B06",
+        "O05"
+      ],
+      "facilitator_note": "Mostre que chamar alguém inclui cuidar do caminho de formação e acompanhamento.",
+      "reading_points": [
+        {
+          "title": "Convite incompleto",
+          "body": "A pessoa é chamada, mas sem clareza sobre função, tempo e responsabilidade."
+        },
+        {
+          "title": "Cobrança injusta",
+          "body": "Exigir maturidade sem formar é usar a boa vontade como solução barata."
+        },
+        {
+          "title": "Serviço acompanhado",
+          "body": "A vocação ao serviço precisa de liberdade, orientação e crescimento."
+        }
+      ]
+    },
+    {
+      "id": "O01",
+      "term_id": "O01",
+      "call_label": "O01 - Nomear o dom",
+      "case": "Antes de assumir uma função, uma pessoa conversa com alguém maduro da comunidade para reconhecer o que sabe fazer, onde precisa crescer e onde seu dom seria útil.",
+      "conference_question": "Como nomear um dom sem cair em vaidade nem em falsa humildade?",
+      "anchors": [
+        "1Pd 4,10",
+        "B01",
+        "B03"
+      ],
+      "facilitator_note": "Mostre que reconhecer dons é passo de responsabilidade, não autopromoção.",
+      "reading_points": [
+        {
+          "title": "Reconhecimento honesto",
+          "body": "A pessoa identifica capacidades reais e limites reais."
+        },
+        {
+          "title": "Discernimento comunitário",
+          "body": "Conversar com alguém maduro evita fantasia individual e ajuda a perceber necessidades."
+        },
+        {
+          "title": "Dom para servir",
+          "body": "O dom nomeado deve ser colocado a serviço do proveito comum."
+        }
+      ]
+    },
+    {
+      "id": "O02",
+      "term_id": "O02",
+      "call_label": "O02 - Escolher um serviço",
+      "case": "Depois de conhecer várias pastorais, alguém escolhe visitar doentes uma vez por mês, em vez de prometer presença em todos os grupos e falhar em todos.",
+      "conference_question": "Por que escolher um serviço proporcional pode ser mais fiel que assumir muitos compromissos sem sustentá-los?",
+      "anchors": [
+        "Gl 5,13",
+        "B06",
+        "G12"
+      ],
+      "facilitator_note": "Ajude a turma a ver compromisso concreto, não entusiasmo disperso.",
+      "reading_points": [
+        {
+          "title": "Escolha concreta",
+          "body": "A pessoa transforma interesse genérico em compromisso possível."
+        },
+        {
+          "title": "Proporção prudente",
+          "body": "Assumir menos com fidelidade pode servir melhor que prometer demais."
+        },
+        {
+          "title": "Liberdade para servir",
+          "body": "A caridade cristã toma forma em decisão real e perseverante."
+        }
+      ]
+    },
+    {
+      "id": "O03",
+      "term_id": "O03",
+      "call_label": "O03 - Buscar formação",
+      "case": "Antes de começar a preparar encontros de Batismo, uma equipe reserva tempo para estudar a doutrina, observar quem já serve e tirar dúvidas com a coordenação.",
+      "conference_question": "Como a formação protege tanto quem serve quanto quem será servido?",
+      "anchors": [
+        "Ef 4,11-16",
+        "I12",
+        "N15"
+      ],
+      "facilitator_note": "Mostre que formação não é obstáculo burocrático, mas caridade organizada.",
+      "reading_points": [
+        {
+          "title": "Preparação séria",
+          "body": "A equipe reconhece que a tarefa envolve fé, pessoas e responsabilidade."
+        },
+        {
+          "title": "Humildade prática",
+          "body": "Aprender antes de ensinar evita improvisação e erros evitáveis."
+        },
+        {
+          "title": "Edificação da Igreja",
+          "body": "A formação torna o serviço mais fiel, maduro e fecundo."
+        }
+      ]
+    },
+    {
+      "id": "O04",
+      "term_id": "O04",
+      "call_label": "O04 - Combinar agenda",
+      "case": "Antes de marcar um mutirão, as equipes consultam o calendário, conversam com responsáveis e ajustam data para não competir com outra ação importante.",
+      "conference_question": "Por que combinar agenda é uma forma concreta de caridade comunitária?",
+      "anchors": [
+        "1Cor 14,40",
+        "I11",
+        "B11"
+      ],
+      "facilitator_note": "Mostre que organização simples pode evitar conflito e cansaço.",
+      "reading_points": [
+        {
+          "title": "Diálogo prévio",
+          "body": "A equipe consulta antes de decidir sozinha."
+        },
+        {
+          "title": "Prevenção de conflito",
+          "body": "A coordenação evita concorrência, retrabalho e cobrança injusta."
+        },
+        {
+          "title": "Ordem que serve",
+          "body": "A ordem prática ajuda a comunidade a agir em paz e com mais fruto."
+        }
+      ]
+    },
+    {
+      "id": "O05",
+      "term_id": "O05",
+      "call_label": "O05 - Partilhar tarefas",
+      "case": "Uma coordenação cria duplas, registra procedimentos e convida novos voluntários para aprender, em vez de depender sempre das mesmas três pessoas.",
+      "conference_question": "Como partilhar tarefas fortalece a missão e protege as pessoas sobrecarregadas?",
+      "anchors": [
+        "Rm 12,4-8",
+        "I03",
+        "G15"
+      ],
+      "facilitator_note": "Aponte que partilha exige formação, não só jogar tarefas nos outros.",
+      "reading_points": [
+        {
+          "title": "Distribuição real",
+          "body": "As tarefas são organizadas para que mais pessoas possam aprender."
+        },
+        {
+          "title": "Proteção dos servidores",
+          "body": "A comunidade deixa de depender de poucos até o esgotamento."
+        },
+        {
+          "title": "Muitos dons",
+          "body": "A variedade de membros permite corresponsabilidade no serviço."
+        }
+      ]
+    },
+    {
+      "id": "O06",
+      "term_id": "O06",
+      "call_label": "O06 - Acolher com critério",
+      "case": "Uma pessoa afastada procura ajuda; a equipe escuta sem exposição, identifica a necessidade principal e encaminha para conversa adequada, sem prometer solução instantânea.",
+      "conference_question": "Como acolher com misericórdia sem improvisar respostas para problemas que exigem cuidado sério?",
+      "anchors": [
+        "Tg 2,1-9",
+        "G08",
+        "I14"
+      ],
+      "facilitator_note": "Mostre que acolhida madura une escuta, verdade, limite e encaminhamento.",
+      "reading_points": [
+        {
+          "title": "Escuta discreta",
+          "body": "A pessoa é recebida sem curiosidade pública nem constrangimento."
+        },
+        {
+          "title": "Critério e limite",
+          "body": "A equipe não finge resolver tudo; identifica o próximo passo responsável."
+        },
+        {
+          "title": "Misericórdia concreta",
+          "body": "A acolhida cristã protege a dignidade e busca o bem real da pessoa."
+        }
+      ]
+    },
+    {
+      "id": "O07",
+      "term_id": "O07",
+      "call_label": "O07 - Servir sem aparecer",
+      "case": "Uma equipe aceita organizar a limpeza após um evento, sabendo que quase ninguém verá esse trabalho, mas que sem ele a comunidade ficará prejudicada.",
+      "conference_question": "Como servir no oculto forma humildade sem justificar falta de reconhecimento dos outros?",
+      "anchors": [
+        "Mt 6,1-4",
+        "I13",
+        "B07"
+      ],
+      "facilitator_note": "Equilibre: o serviço oculto tem valor, e a comunidade também deve aprender a agradecer.",
+      "reading_points": [
+        {
+          "title": "Tarefa discreta",
+          "body": "O serviço não aparece no palco, mas sustenta a vida comunitária."
+        },
+        {
+          "title": "Humildade concreta",
+          "body": "Aceitar o oculto combate a vaidade e purifica a intenção."
+        },
+        {
+          "title": "Deus vê",
+          "body": "O valor do serviço não depende apenas de aplauso ou visibilidade."
+        }
+      ]
+    },
+    {
+      "id": "O08",
+      "term_id": "O08",
+      "call_label": "O08 - Prestar contas",
+      "case": "Depois de uma arrecadação, a equipe publica valores recebidos, despesas, critérios de uso e responsáveis, sem expor a intimidade de quem foi ajudado.",
+      "conference_question": "Como a prestação de contas protege a confiança sem transformar caridade em exposição?",
+      "anchors": [
+        "2Cor 8,20-21",
+        "G11",
+        "I08"
+      ],
+      "facilitator_note": "Mostre transparência como serviço à verdade, não como desconfiança automática.",
+      "reading_points": [
+        {
+          "title": "Clareza pública",
+          "body": "A equipe informa recursos e decisões de modo verificável."
+        },
+        {
+          "title": "Sigilo preservado",
+          "body": "A transparência financeira não exige expor a vulnerabilidade dos atendidos."
+        },
+        {
+          "title": "Confiança protegida",
+          "body": "Agir com lisura evita suspeitas e serve ao bem comum."
+        }
+      ]
+    },
+    {
+      "id": "O09",
+      "term_id": "O09",
+      "call_label": "O09 - Rezar e agir",
+      "case": "Diante de famílias sem alimento, a comunidade reza, organiza ajuda possível e busca encaminhamento responsável, sem separar espiritualidade de ação concreta.",
+      "conference_question": "Como unir oração e ação sem cair em ativismo nem em passividade religiosa?",
+      "anchors": [
+        "At 2,42-47",
+        "Tg 2,14-17",
+        "G04"
+      ],
+      "facilitator_note": "Mostre que oração verdadeira não substitui a caridade; ela a sustenta.",
+      "reading_points": [
+        {
+          "title": "Necessidade real",
+          "body": "A fome exige resposta concreta, não apenas palavras."
+        },
+        {
+          "title": "Oração com compromisso",
+          "body": "A comunidade busca Deus e organiza ajuda possível."
+        },
+        {
+          "title": "Fé viva",
+          "body": "A fé sem obras é morta; a ação cristã nasce da comunhão com Deus."
+        }
+      ]
+    },
+    {
+      "id": "O10",
+      "term_id": "O10",
+      "call_label": "O10 - Corrigir com caridade",
+      "case": "Ao perceber uma falha séria de um servidor, a coordenação conversa primeiro com ele, verifica fatos, propõe reparação e só amplia o assunto se for necessário.",
+      "conference_question": "Como corrigir com verdade sem transformar a correção em exposição ou vingança?",
+      "anchors": [
+        "Mt 18,15-17",
+        "Ef 4,15",
+        "G06"
+      ],
+      "facilitator_note": "Enfatize caminho proporcional: verdade, discrição, reparação e proteção do bem comum.",
+      "reading_points": [
+        {
+          "title": "Falha tratada",
+          "body": "O erro não é ignorado nem espalhado sem critério."
+        },
+        {
+          "title": "Caminho proporcional",
+          "body": "Verificar, conversar e reparar são passos mais justos que humilhar."
+        },
+        {
+          "title": "Caridade e verdade",
+          "body": "A correção cristã busca conversão, proteção e comunhão."
+        }
+      ]
+    },
+    {
+      "id": "O11",
+      "term_id": "O11",
+      "call_label": "O11 - Encaminhar fragilidades",
+      "case": "Durante uma visita, uma voluntária percebe sinais de depressão grave e avisa a coordenação para buscar ajuda adequada, em vez de prometer que apenas uma oração resolverá tudo.",
+      "conference_question": "Como reconhecer limites do próprio serviço sem abandonar a pessoa fragilizada?",
+      "anchors": [
+        "Gl 6,2",
+        "I09",
+        "G12"
+      ],
+      "facilitator_note": "Fale com responsabilidade: oração e acompanhamento não excluem ajuda competente.",
+      "reading_points": [
+        {
+          "title": "Sinal grave",
+          "body": "A voluntária percebe uma fragilidade que exige cuidado além da visita comum."
+        },
+        {
+          "title": "Limite reconhecido",
+          "body": "Ela não improvisa solução para algo que pode exigir ajuda especializada."
+        },
+        {
+          "title": "Cuidado cristão",
+          "body": "Carregar os fardos inclui encaminhar com prudência e permanecer próximo quando possível."
+        }
+      ]
+    },
+    {
+      "id": "O12",
+      "term_id": "O12",
+      "call_label": "O12 - Convidar com liberdade",
+      "case": "Ao chamar alguém para uma pastoral, a coordenação explica a função, o tempo esperado, a formação necessária e deixa claro que a pessoa pode discernir antes de aceitar.",
+      "conference_question": "Por que um convite ao serviço precisa respeitar liberdade, tempo e clareza da tarefa?",
+      "anchors": [
+        "1Pd 4,10",
+        "G15",
+        "B06"
+      ],
+      "facilitator_note": "Mostre que pressão pode até preencher escala, mas não forma servidores livres.",
+      "reading_points": [
+        {
+          "title": "Convite claro",
+          "body": "A pessoa sabe para que está sendo chamada e o que isso exige."
+        },
+        {
+          "title": "Liberdade respeitada",
+          "body": "O discernimento evita compromisso assumido por culpa ou constrangimento."
+        },
+        {
+          "title": "Serviço verdadeiro",
+          "body": "O dom deve ser oferecido livremente para o bem comum."
+        }
+      ]
+    },
+    {
+      "id": "O13",
+      "term_id": "O13",
+      "call_label": "O13 - Sair do fechamento",
+      "case": "Um movimento convida outra pastoral para planejar uma ação conjunta, escuta sua experiência e ajusta o projeto sem abandonar seu carisma próprio.",
+      "conference_question": "Como colaborar com outros grupos sem perder identidade nem cair em isolamento?",
+      "anchors": [
+        "1Cor 12,12-27",
+        "N02",
+        "G05"
+      ],
+      "facilitator_note": "Mostre que comunhão não apaga o carisma; purifica o fechamento.",
+      "reading_points": [
+        {
+          "title": "Abertura concreta",
+          "body": "O grupo busca colaboração real e escuta outra experiência."
+        },
+        {
+          "title": "Identidade preservada",
+          "body": "Colaborar não exige abandonar o próprio carisma legítimo."
+        },
+        {
+          "title": "Corpo em comunhão",
+          "body": "Os membros diferentes servem melhor quando atuam em relação uns com os outros."
+        }
+      ]
+    },
+    {
+      "id": "O14",
+      "term_id": "O14",
+      "call_label": "O14 - Cuidar da liturgia",
+      "case": "A equipe prepara a celebração com antecedência, escolhe cantos adequados, ensaia as leituras e respeita as orientações litúrgicas da Igreja.",
+      "conference_question": "Como o cuidado litúrgico serve a Deus e à assembleia, em vez de servir ao gosto da equipe?",
+      "anchors": [
+        "1Cor 14,33.40",
+        "I07",
+        "B15"
+      ],
+      "facilitator_note": "Explique que preparação litúrgica é forma de fidelidade e caridade.",
+      "reading_points": [
+        {
+          "title": "Preparação fiel",
+          "body": "A equipe não improvisa nem trata a celebração como propriedade própria."
+        },
+        {
+          "title": "Caridade com a assembleia",
+          "body": "Cuidado, sobriedade e ensaio ajudam todos a rezar melhor."
+        },
+        {
+          "title": "Oração da Igreja",
+          "body": "A liturgia pede dignidade, ordem e fidelidade à fé católica."
+        }
+      ]
+    },
+    {
+      "id": "O15",
+      "term_id": "O15",
+      "call_label": "O15 - Revisar a missão",
+      "case": "No fim do ano, uma pastoral avalia não só quantos encontros fez, mas se evangelizou, formou novos servidores, serviu os pobres e corrigiu falhas.",
+      "conference_question": "Que perguntas ajudam uma pastoral ou movimento a revisar sua missão com honestidade?",
+      "anchors": [
+        "Mt 28,19-20",
+        "I15",
+        "B08"
+      ],
+      "facilitator_note": "Mostre que avaliar não é atacar; é buscar fidelidade e fruto.",
+      "reading_points": [
+        {
+          "title": "Avaliação séria",
+          "body": "A equipe olha para frutos, falhas e necessidades, não apenas para números."
+        },
+        {
+          "title": "Conversão pastoral",
+          "body": "Revisar a missão permite corrigir rotina estéril e fortalecer o que dá fruto."
+        },
+        {
+          "title": "Igreja enviada",
+          "body": "Toda atividade deve servir ao anúncio de Cristo, à formação e à caridade."
+        }
+      ]
+    }
+  ]
+}

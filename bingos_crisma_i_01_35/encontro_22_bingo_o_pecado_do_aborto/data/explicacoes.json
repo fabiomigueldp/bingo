@@ -1,0 +1,308 @@
+{
+  "title": "Carta de explicações rápidas — Bingo O pecado do aborto",
+  "meeting": "Encontro 22 — O pecado do aborto",
+  "source_calls": "data/chamadas.json",
+  "purpose": "Explicações breves para o condutor usar durante a chamada de cada carta.",
+  "entries": [
+    {
+      "id": "B01",
+      "explanation": "A **dignidade desde a concepção** é o ponto de partida do encontro. A vida humana não começa a valer quando nasce, quando é desejada ou quando parece forte. CEC 2270 ensina que ela deve ser respeitada e protegida desde o primeiro instante."
+    },
+    {
+      "id": "B02",
+      "explanation": "Ser **imagem de Deus** significa que a pessoa vale antes de qualquer utilidade. O nascituro não é um obstáculo sem rosto. A fé cristã impede reduzir alguém a custo, incômodo ou projeto frustrado."
+    },
+    {
+      "id": "B03",
+      "explanation": "O **direito inviolável à vida** não é dado pelo Estado, pelos pais ou pela opinião pública. Ele pertence ao ser humano inocente por sua própria dignidade. Quando esse direito é negado ao nascituro, a justiça é ferida na raiz."
+    },
+    {
+      "id": "B04",
+      "explanation": "O **nascituro como pessoa** deve ser tratado com cuidado e proteção desde a concepção. A linguagem técnica não pode transformar embriões em coisas. O mais frágil não tem menos dignidade; precisa de defesa maior."
+    },
+    {
+      "id": "B05",
+      "explanation": "A Escritura mostra que Deus **conhece no ventre**. Jr 1,5 e Sl 138 afirmam que a vida escondida não está fora do olhar de Deus. Isso dá fundamento bíblico à proteção do nascituro."
+    },
+    {
+      "id": "B06",
+      "explanation": "A **vida como dom recebido** não é produto condicionado ao nosso controle. Ninguém tem direito de aceitar uma criança apenas se ela couber nos próprios planos. Receber a vida exige cuidado responsável, não domínio absoluto."
+    },
+    {
+      "id": "B07",
+      "explanation": "O mandamento **não matar o inocente** vale de modo especial para quem não pode se defender. A Didaqué já condenava matar uma criança por aborto. O ensinamento da Igreja é antigo, constante e claro."
+    },
+    {
+      "id": "B08",
+      "explanation": "O **aborto direto** é a morte do nascituro querida como fim ou como meio. Por isso não se torna lícito por medo, pressão ou intenção de aliviar dificuldades. A moral cristã não permite escolher a morte do inocente como solução."
+    },
+    {
+      "id": "B09",
+      "explanation": "A **cooperação formal** acontece quando alguém participa conscientemente do aborto e assume esse ato como solução. Pode aparecer em dinheiro, transporte, conselho ou organização. A responsabilidade não fica apenas em quem executa o procedimento."
+    },
+    {
+      "id": "B10",
+      "explanation": "A **gravidade do pecado** não é linguagem de choque, mas verdade moral. O aborto fere uma vida inocente, os envolvidos e a sociedade. Nomear a gravidade é necessário para que haja conversão e cura reais."
+    },
+    {
+      "id": "B11",
+      "explanation": "**Misericórdia e conversão** caminham juntas. Deus não chama o mal de bem, mas perdoa quem se arrepende. A resposta cristã evita tanto a condenação cruel quanto a banalização do pecado."
+    },
+    {
+      "id": "B12",
+      "explanation": "A **lei civil justa** deve proteger os mais fracos. Quando a lei deixa o nascituro sem defesa, ela falha em sua função básica. A defesa da vida é exigência de justiça, não apenas opinião privada."
+    },
+    {
+      "id": "B13",
+      "explanation": "O **cuidado do mais fraco** torna a defesa da vida concreta. O nascituro é indefeso, e a gestante em crise também pode estar vulnerável. A caridade cristã protege ambos com verdade e obras reais."
+    },
+    {
+      "id": "B14",
+      "explanation": "A **unidade da pessoa** impede tratar o corpo humano como material disponível. Embriões não são peças para seleção, descarte ou experimento. A dignidade pessoal inclui corpo, identidade e história única."
+    },
+    {
+      "id": "B15",
+      "explanation": "A **esperança de perdão** é essencial quando houve pecado grave. A Confissão não apaga magicamente as consequências, mas oferece perdão real e caminho de conversão. Ninguém deve ser empurrado ao desespero."
+    },
+    {
+      "id": "I01",
+      "explanation": "A **gravidez inesperada** pode trazer medo real e desorganização concreta. Esse medo precisa ser escutado, mas não pode decidir sozinho. A resposta cristã procura apoio para mãe e filho, sem eliminar o inocente."
+    },
+    {
+      "id": "I02",
+      "explanation": "A **pressão do namorado** revela chantagem e fuga de responsabilidade. Quem participou da origem da vida não pode usar medo, dinheiro ou abandono para empurrar o aborto. A resposta é recusar a pressão e assumir deveres concretos."
+    },
+    {
+      "id": "I03",
+      "explanation": "A **família que ameaça expulsar** transforma vergonha em violência moral. A correção familiar nunca pode exigir pecado grave. Quando há ameaça, é preciso proteger a gestante e a criança com ajuda responsável."
+    },
+    {
+      "id": "I04",
+      "explanation": "O **diagnóstico grave** exige verdade médica e cuidado maior. O exame pode servir à preparação, à cura possível e ao acompanhamento. Ele se torna moralmente errado quando vira sentença de morte."
+    },
+    {
+      "id": "I05",
+      "explanation": "O **risco médico real** deve ser tratado com seriedade, sem respostas simplistas. A Igreja distingue tratamento lícito de aborto direto. O ponto decisivo é o ato escolhido, sua intenção e seus meios."
+    },
+    {
+      "id": "I06",
+      "explanation": "A **clínica que lucra** se aproveita da vulnerabilidade e vende uma saída rápida. O problema não é só econômico; há uma vida inocente e uma consciência ferida. A resposta pede proteção e, quando necessário, denúncia prudente."
+    },
+    {
+      "id": "I07",
+      "explanation": "O **conselho apressado** parece ajuda, mas pode se tornar cooperação com o mal. Uma pessoa em crise precisa de escuta e alternativas lícitas. Indicar caminho para abortar não é compaixão cristã."
+    },
+    {
+      "id": "I08",
+      "explanation": "O **aborto clandestino** mostra isolamento, medo e risco. Esses males não tornam o aborto bom, mas revelam abandono grave. A comunidade cristã deve criar caminhos seguros de apoio antes que a crise vire desespero."
+    },
+    {
+      "id": "I09",
+      "explanation": "**Pobreza e abandono** são sofrimentos reais e precisam de resposta concreta. Mas pobreza não retira a dignidade da criança nem da mãe. A fé exige ajuda material, não eliminação do vulnerável."
+    },
+    {
+      "id": "I10",
+      "explanation": "A **violência sexual** é agressão gravíssima e exige proteção, justiça e tratamento. A criança concebida não é culpada pelo crime. A resposta cristã cuida da vítima sem transferir a culpa para outro inocente."
+    },
+    {
+      "id": "I11",
+      "explanation": "O **descarte de embriões** trata vidas humanas como material sobrante. A técnica não pode apagar a dignidade do embrião. O limite moral existe justamente para proteger quem é pequeno e indefeso."
+    },
+    {
+      "id": "I12",
+      "explanation": "A **seleção por deficiência** mede o direito de viver por saúde, eficiência ou padrão esperado. Isso é discriminação contra quem precisa de cuidado maior. O diagnóstico deve preparar para cuidar, não justificar eliminação."
+    },
+    {
+      "id": "I13",
+      "explanation": "O **pai que se omite** não é neutro quando sua ausência aumenta a pressão pelo aborto. A fuga pode funcionar como abandono moral. Responsabilidade paterna inclui presença, cuidado e proteção proporcional."
+    },
+    {
+      "id": "I14",
+      "explanation": "O **segredo após aborto** pode esconder vergonha, dor e endurecimento. O silêncio não é cura. A resposta cristã oferece verdade, Confissão e acompanhamento sem exposição nem curiosidade invasiva."
+    },
+    {
+      "id": "I15",
+      "explanation": "O **debate público e lei** precisa incluir o sujeito mais frágil: a criança no ventre. A lei não é justa quando exclui uma categoria humana da proteção. O cristão deve participar com ordem, argumentos e caridade."
+    },
+    {
+      "id": "N01",
+      "explanation": "A **falsa autonomia** absolutiza a vontade individual e apaga a vida do filho. A mulher nunca deve ser tratada como objeto, mas liberdade não é poder de matar o inocente. Autonomia verdadeira inclui responsabilidade pelo outro."
+    },
+    {
+      "id": "N02",
+      "explanation": "A narrativa de **vida sem valor ainda** adia a dignidade para depois. Esse critério muda conforme conveniência: nascimento, tamanho, consciência ou aceitação. A fé afirma valor desde a concepção."
+    },
+    {
+      "id": "N03",
+      "explanation": "**Menos sofrimento** pode parecer compaixão, mas se torna falsa quando propõe matar o vulnerável. O sofrimento real pede cuidado real. A resposta cristã alivia a carga sem eliminar a pessoa."
+    },
+    {
+      "id": "N04",
+      "explanation": "**Problema só da mulher** é frase que muitas vezes esconde abandono. Homens, familiares e sociedade também têm responsabilidades concretas. Deixar a gestante sozinha aumenta a pressão e não protege a vida."
+    },
+    {
+      "id": "N05",
+      "explanation": "**Ninguém precisa saber** confunde discrição com encobrimento. Segredo pode bloquear ajuda, proteger abusadores e acelerar uma decisão grave. A prudência busca apoio confiável sem expor a pessoa."
+    },
+    {
+      "id": "N06",
+      "explanation": "A **solução econômica** reduz a criança a despesa. A pobreza é real e deve comover a comunidade, mas não autoriza eliminar o inocente. A resposta cristã é apoio material concreto."
+    },
+    {
+      "id": "N07",
+      "explanation": "**Deficiência como sentença** transforma fragilidade em motivo para matar. Isso nega a dignidade de quem precisaria de mais cuidado. A vida humana não vale menos por doença, limitação ou dependência."
+    },
+    {
+      "id": "N08",
+      "explanation": "**Direito sem limite** usa linguagem justa de modo incompleto. Nenhum direito pode incluir a morte direta de um inocente. O discernimento cristão pergunta quem foi silenciado no discurso."
+    },
+    {
+      "id": "N09",
+      "explanation": "**Ciência pela metade** seleciona dados convenientes e omite o que compromete a narrativa. Reconhecer vida humana em desenvolvimento exige uma pergunta moral. A consciência precisa da verdade inteira."
+    },
+    {
+      "id": "N10",
+      "explanation": "**Compaixão que mata** parece sensível, mas troca cuidado por eliminação. O tom suave não torna justo o meio escolhido. A compaixão cristã se aproxima, sustenta e protege."
+    },
+    {
+      "id": "N11",
+      "explanation": "**Culpa sempre dos outros** reconhece pressões reais, mas pode apagar toda responsabilidade. Medo e coerção podem diminuir culpa subjetiva, não mudar a gravidade do aborto. A verdade abre caminho para conversão."
+    },
+    {
+      "id": "N12",
+      "explanation": "**Legalidade como moral** confunde permissão humana com bondade. Uma lei pode permitir algo injusto. A consciência cristã avalia a lei à luz da dignidade humana e da lei moral."
+    },
+    {
+      "id": "N13",
+      "explanation": "**Todo mundo faz** é anestesia da consciência. A repetição social não transforma mal em bem. O cristão não mede a verdade moral pela frequência de um comportamento."
+    },
+    {
+      "id": "N14",
+      "explanation": "**Religião no privado** tenta calar a defesa pública da vida. Proteger o inocente não é apenas interesse interno de uma comunidade religiosa. A dignidade humana tem consequência social e jurídica."
+    },
+    {
+      "id": "N15",
+      "explanation": "**Depois eu esqueço** trata um ato irreversível como incômodo passageiro. O aborto deixa uma vida morta e pode deixar feridas profundas. A esperança cristã cura pela verdade, não pela negação."
+    },
+    {
+      "id": "G01",
+      "explanation": "**Ato e pessoa** é distinção indispensável. O aborto deve ser condenado como pecado grave, mas a pessoa não deve ser reduzida ao pecado. Verdade e misericórdia caminham juntas."
+    },
+    {
+      "id": "G02",
+      "explanation": "**Culpa objetiva e subjetiva** evita dois erros. O ato pode ser objetivamente grave, e a liberdade concreta da pessoa pode estar ferida por medo, pressão ou ignorância. Discernir não é relativizar."
+    },
+    {
+      "id": "G03",
+      "explanation": "**Acolhida e aprovação** não são a mesma coisa. A Igreja deve acolher a pessoa ferida, mas não chamar o aborto de bem. Acolher corretamente conduz à verdade e à cura."
+    },
+    {
+      "id": "G04",
+      "explanation": "**Aborto e tratamento médico** exigem distinção séria. Tratar uma gestante doente não é o mesmo que escolher diretamente a morte do filho. O discernimento considera objeto do ato, intenção e proporção."
+    },
+    {
+      "id": "G05",
+      "explanation": "**Fim e meio** ajuda a ver o coração moral do ato. Um fim apresentado como bom não justifica usar a morte do inocente como meio. Não se faz o mal para conseguir um bem."
+    },
+    {
+      "id": "G06",
+      "explanation": "O **duplo efeito** distingue efeito mau previsto de efeito mau escolhido. Nem todo risco previsto é intenção direta. Mas o mal nunca pode ser usado como meio para alcançar o bem."
+    },
+    {
+      "id": "G07",
+      "explanation": "**Diagnóstico e sentença** separa medicina que cuida de medicina que elimina. O diagnóstico pré-natal é lícito quando busca salvaguarda, cura ou preparação. Torna-se grave quando conduz ao aborto."
+    },
+    {
+      "id": "G08",
+      "explanation": "**Pobreza e licença moral** não se confundem. A pobreza aumenta nossa obrigação de ajudar, não diminui o direito da criança à vida. A solidariedade é a resposta moral correta."
+    },
+    {
+      "id": "G09",
+      "explanation": "**Medo e liberdade** mostra que decisões sob pânico precisam de ajuda. O medo pode reduzir a responsabilidade subjetiva, mas não muda o bem a ser buscado. A resposta é pausar, proteger e chamar apoio seguro."
+    },
+    {
+      "id": "G10",
+      "explanation": "**Conselho e cooperação** distingue escutar de facilitar o mal. Ouvir a dor é bom; indicar meios para abortar é outra coisa. Quem aconselha precisa formar a consciência e proteger a vida."
+    },
+    {
+      "id": "G11",
+      "explanation": "**Perdão e banalização** não são iguais. Deus perdoa o pecado reconhecido, mas a misericórdia não chama o mal de detalhe. O caminho cristão inclui arrependimento, Confissão e mudança de vida."
+    },
+    {
+      "id": "G12",
+      "explanation": "**Lei civil e lei moral** evita confundir permitido com justo. A lei humana pode falhar quando abandona o inocente. A consciência cristã deve buscar uma ordem pública que proteja os mais fracos."
+    },
+    {
+      "id": "G13",
+      "explanation": "**Compaixão e relativização** precisam ser separadas. Compadecer-se é entrar na dor do outro com verdade e cuidado. Relativizar é evitar o peso moral e deixar a pessoa sem direção."
+    },
+    {
+      "id": "G14",
+      "explanation": "**Sigilo e encobrimento** exigem prudência. Proteger a intimidade é bom; esconder ameaça, coerção ou risco pode ser omissão grave. A resposta deve buscar ajuda confiável sem exposição desnecessária."
+    },
+    {
+      "id": "G15",
+      "explanation": "**Prudência e omissão** não são a mesma coisa. Prudência escolhe o modo correto de agir; omissão usa cautela como desculpa para não proteger ninguém. Diante de risco grave, é preciso agir com ordem."
+    },
+    {
+      "id": "O01",
+      "explanation": "**Escuta sem aprovação** acolhe a pessoa sem confundir o bem. Quem está em crise precisa ser ouvido com respeito. Mas escutar não significa dizer que qualquer decisão é moralmente correta."
+    },
+    {
+      "id": "O02",
+      "explanation": "**Encaminhar ajuda segura** é resposta concreta e prudente. Ninguém precisa resolver sozinho uma crise grave. A caridade conecta a pessoa a apoio médico lícito, familiar confiável, assistência e orientação espiritual."
+    },
+    {
+      "id": "O03",
+      "explanation": "**Proteger mãe e filho** rejeita a falsa oposição entre duas vidas. A gestante tem dignidade e precisa de cuidado real. O nascituro também é inocente e deve ser defendido."
+    },
+    {
+      "id": "O04",
+      "explanation": "**Chamar responsável confiável** é necessário quando há ameaça, pânico ou vulnerabilidade grave. Segredo absoluto pode aumentar o risco. A ajuda deve ser discreta, madura e capaz de proteger."
+    },
+    {
+      "id": "O05",
+      "explanation": "**Recusar pressão** significa não financiar, facilitar, ameaçar ou aconselhar o aborto. A recusa não deve virar abandono. Ela precisa vir acompanhada de responsabilidade concreta pelo bem possível."
+    },
+    {
+      "id": "O06",
+      "explanation": "**Sustentar o acompanhamento** impede que a ajuda desapareça depois da primeira conversa. Gestação em crise pode exigir meses de presença concreta. A caridade madura conhece seus limites, mas não abandona facilmente."
+    },
+    {
+      "id": "O07",
+      "explanation": "**Buscar Confissão** é resposta objetiva diante do pecado reconhecido. Não é teatro de culpa nem simples desabafo. É encontro sacramental com a misericórdia de Deus e início de conversão."
+    },
+    {
+      "id": "O08",
+      "explanation": "**Reparar cooperação** não desfaz a morte causada, mas manifesta conversão real. Quem participou do mal deve reconhecer, confessar e buscar reparar o possível. Obras em favor da vida podem nascer de arrependimento sincero."
+    },
+    {
+      "id": "O09",
+      "explanation": "**Formar a consciência** é obrigação antes de aconselhar em tema grave. Boa intenção sem verdade pode ferir. O cristão busca Escritura, Catecismo, orientação segura e prudência na fala."
+    },
+    {
+      "id": "O10",
+      "explanation": "**Apoio material concreto** torna a defesa da vida verificável. Fralda, transporte, alimento, moradia temporária ou encaminhamento social podem reduzir pressões reais. A fé sem obras fica incompleta."
+    },
+    {
+      "id": "O11",
+      "explanation": "**Orientar diagnóstico** significa usar exames para cuidar, não para condenar. Diante de notícia grave, é preciso informação honesta e preparação responsável. A criança doente continua sendo alguém a proteger."
+    },
+    {
+      "id": "O12",
+      "explanation": "**Denunciar exploração** protege pessoas vulneráveis contra abuso, coerção e comércio do aborto. A denúncia deve ser prudente e segura. Não se expõe a vítima para parecer corajoso."
+    },
+    {
+      "id": "O13",
+      "explanation": "**Defender lei justa** é parte da responsabilidade cristã na vida pública. O nascituro precisa de proteção jurídica, e a gestante precisa de amparo real. A ação deve ser ordenada, argumentada e caridosa."
+    },
+    {
+      "id": "O14",
+      "explanation": "**Rezar com compromisso** une confiança em Deus e responsabilidade prática. A oração não substitui o bem possível; ela o sustenta e purifica. Quem reza pela vida deve estar disposto a servir a vida."
+    },
+    {
+      "id": "O15",
+      "explanation": "**Guardar a esperança** é acompanhar quem está ferido sem negar a verdade. O pecado pode ser grave, mas não é maior que a misericórdia de Deus. Esperança concreta aponta para Confissão, cura e vida nova."
+    }
+  ]
+}

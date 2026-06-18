@@ -1,0 +1,308 @@
+{
+  "title": "Carta de explicações rápidas — Bingo A liturgia da Igreja",
+  "meeting": "Encontro 31 — A liturgia da Igreja",
+  "source_calls": "data/chamadas.json",
+  "purpose": "Explicações breves para o condutor usar durante a chamada de cada carta.",
+  "entries": [
+    {
+      "id": "B01",
+      "explanation": "A liturgia não é apenas reunião humana nem evento religioso organizado por pessoas. Nela age o **Christus totus**, Cristo Cabeça unido ao seu Corpo, a Igreja. Isso exige reverência, porque entramos numa ação maior que nós."
+    },
+    {
+      "id": "B02",
+      "explanation": "O centro da liturgia é o **sacerdócio de Cristo**. Ele oferece o louvor perfeito ao Pai e santifica seu povo pelos sinais da Igreja. Quando o rito vira só cerimônia social, esse centro é obscurecido."
+    },
+    {
+      "id": "B03",
+      "explanation": "A celebração pertence à **Igreja celebrante**, não a um grupo isolado. Mesmo uma comunidade pequena celebra unida ao corpo inteiro da Igreja. A dignidade da liturgia não se mede por número, aparência ou prestígio."
+    },
+    {
+      "id": "B04",
+      "explanation": "Pelo Batismo, os fiéis participam do **sacerdócio batismal**. Eles não substituem o sacerdote ordenado, mas oferecem a própria vida unidos a Cristo. A assembleia não é plateia muda."
+    },
+    {
+      "id": "B05",
+      "explanation": "Participação ativa não é barulho nem agitação. É entrar na ação litúrgica com **atenção**, voz, corpo, fé e disposição interior. Estar presente sem escutar e responder ainda é participação fraca."
+    },
+    {
+      "id": "B06",
+      "explanation": "A liturgia é **ação pública da Igreja**. Por isso não pode ser moldada como evento particular de uma família, equipe ou preferência pessoal. A obediência ao rito protege a unidade da fé."
+    },
+    {
+      "id": "B07",
+      "explanation": "O domingo é o **dia do Senhor**, memorial semanal da Ressurreição. A Eucaristia não é enfeite da agenda, mas centro da semana cristã. Dificuldades reais existem, mas não tornam o domingo indiferente."
+    },
+    {
+      "id": "B08",
+      "explanation": "A liturgia une **Palavra e sacramento**. Deus fala e seu povo responde pela fé nos sinais celebrados. Apressar a Palavra empobrece a participação no sacramento."
+    },
+    {
+      "id": "B09",
+      "explanation": "A liturgia fala por **sinais**: gestos, palavras, canto, silêncio, objetos e espaço. Quando esses sinais são feitos de modo automático, perdem força catequética. A resposta é unir gesto exterior e atenção interior."
+    },
+    {
+      "id": "B10",
+      "explanation": "O canto litúrgico não existe para destacar músicos. Ele serve ao **rito**, à oração e à participação da assembleia. Uma música bonita pode ser inadequada se não corresponde ao momento celebrado."
+    },
+    {
+      "id": "B11",
+      "explanation": "O altar não é mesa comum. Ele é **cruz e mesa**, lugar do Sacrifício de Cristo e do banquete eucarístico. Por isso pede cuidado concreto e não deve ser usado como apoio qualquer."
+    },
+    {
+      "id": "B12",
+      "explanation": "O sacrário guarda a presença real de Cristo no Santíssimo Sacramento. A reverência ao **sacrário** não é etiqueta vazia, mas resposta de fé. Quem reconhece essa presença muda seu modo de entrar, falar e permanecer na igreja."
+    },
+    {
+      "id": "B13",
+      "explanation": "O ambão é o lugar próprio da **Palavra de Deus**. Ele não deve ser confundido com palco de avisos comuns. Respeitar o ambão ajuda a assembleia a perceber a dignidade da proclamação."
+    },
+    {
+      "id": "B14",
+      "explanation": "A igreja é **casa de oração**, não apenas prédio bonito ou espaço de eventos. Sua disposição deve favorecer liturgia, sacramentos, silêncio e recolhimento. Beleza sem finalidade sagrada fica incompleta."
+    },
+    {
+      "id": "B15",
+      "explanation": "A liturgia da terra participa do **louvor do Céu**. Apocalipse mostra a multidão redimida adorando diante do trono e do Cordeiro. Na Missa, a assembleia entra nesse louvor, mesmo quando chega cansada ou ferida."
+    },
+    {
+      "id": "I01",
+      "explanation": "A **Missa-espetáculo** aparece quando a celebração é medida por aplauso, imagem e desempenho. A liturgia não é produto religioso para consumo. Transmitir ou cantar pode ajudar, mas deve servir ao mistério."
+    },
+    {
+      "id": "I02",
+      "explanation": "A **presença automática** cumpre o costume, mas não entra de fato na celebração. A pessoa está no banco, mas não escuta, não responde e não se deixa converter. O hábito religioso precisa ser habitado pela fé."
+    },
+    {
+      "id": "I03",
+      "explanation": "O **celular no rito** mostra uma atenção dividida. Há emergências reais, mas distração voluntária durante a ação sagrada precisa ser enfrentada. Guardar o aparelho é uma forma simples de reverência."
+    },
+    {
+      "id": "I04",
+      "explanation": "A **música de palco** coloca o executante no centro e cala a assembleia. O canto litúrgico deve conduzir a oração comum. Competência musical vira serviço quando ajuda o povo a rezar."
+    },
+    {
+      "id": "I05",
+      "explanation": "A **Palavra inaudível** fere a assembleia porque impede a escuta da Escritura. Ler mal não é detalhe técnico sem importância. Quem proclama serve a fé dos outros e precisa preparar-se."
+    },
+    {
+      "id": "I06",
+      "explanation": "Uma **função sem preparo** prejudica o rito e a assembleia. Boa vontade não substitui formação, ensaio e responsabilidade. Quem serve na liturgia deve saber o que faz e por que faz."
+    },
+    {
+      "id": "I07",
+      "explanation": "O **altar banalizado** é tratado como objeto comum. Isso enfraquece a fé que o altar sinaliza: cruz do Senhor e mesa da Eucaristia. A correção pode ser simples, mas precisa ser clara."
+    },
+    {
+      "id": "I08",
+      "explanation": "O **sacrário esquecido** revela perda de consciência da presença real de Cristo. A igreja não vira espaço neutro quando a Missa termina. Silêncio, reverência e cuidado continuam sendo respostas de fé."
+    },
+    {
+      "id": "I09",
+      "explanation": "Usar o **ambão para avisos** confunde sinais diferentes. A Palavra de Deus tem lugar e dignidade próprios. Avisos podem existir, mas precisam de momento, brevidade e modo adequados."
+    },
+    {
+      "id": "I10",
+      "explanation": "O **domingo negociável** acontece quando a Eucaristia sempre perde para o resto da agenda. Descanso e família são bens reais, mas devem ser ordenados ao dia do Senhor. A fé se mostra também na organização do tempo."
+    },
+    {
+      "id": "I11",
+      "explanation": "A **comunhão sem exame** trata a Eucaristia como gesto social. Receber o Corpo do Senhor pede arrependimento, fé e disposição de conversão. Quando há pecado grave, a resposta cristã inclui buscar reconciliação."
+    },
+    {
+      "id": "I12",
+      "explanation": "O **silêncio preenchido** nasce do medo de deixar a assembleia em oração. Nem todo espaço precisa ser ocupado por fala ou música. O silêncio litúrgico pode ser escuta, adoração e interiorização."
+    },
+    {
+      "id": "I13",
+      "explanation": "Os **gestos apressados** mostram que o corpo participa mal da oração. A liturgia educa a fé por posturas, sinais e movimentos. Fazer o gesto com atenção ajuda a alma a entrar no mistério."
+    },
+    {
+      "id": "I14",
+      "explanation": "A **celebração privatizada** submete o rito à vontade de um grupo ou família. Mesmo em casamento, batizado ou funeral, a liturgia continua sendo ação da Igreja. A alegria legítima deve obedecer ao mistério celebrado."
+    },
+    {
+      "id": "I15",
+      "explanation": "Um **espaço sem recolhimento** impede a oração de quem entrou para rezar. Conversa alta, fotos e circulação podem ferir a caridade. A igreja deve favorecer silêncio, preparação e reverência."
+    },
+    {
+      "id": "N01",
+      "explanation": "A **redução a programa** transforma a liturgia em lista de tarefas. Organização é necessária, mas não é o coração da celebração. O coração é Cristo agindo na Igreja para glorificar o Pai e santificar seu povo."
+    },
+    {
+      "id": "N02",
+      "explanation": "Dizer **é só símbolo** esvazia a linguagem sacramental. Na fé católica, os sinais sagrados não são lembranças vazias. Diante do sacrário, a reverência responde à presença real de Cristo."
+    },
+    {
+      "id": "N03",
+      "explanation": "A frase **o importante é sentir** coloca a emoção como juiz da liturgia. A emoção pode acompanhar a fé, mas não a substitui. A adoração permanece verdadeira mesmo quando não há sensação forte."
+    },
+    {
+      "id": "N04",
+      "explanation": "A lógica do **tem que animar** confunde participação com estímulo constante. A liturgia tem tempos de canto, palavra, gesto e silêncio. Agitar tudo pode impedir a assembleia de rezar."
+    },
+    {
+      "id": "N05",
+      "explanation": "A frase **cada um faz seu jeito** parece espontânea, mas fere a unidade litúrgica. O rito não é propriedade de quem organiza. A criatividade cristã precisa obedecer à Igreja e servir ao mistério."
+    },
+    {
+      "id": "N06",
+      "explanation": "A desculpa **Deus entende a distração** usa uma verdade para encobrir negligência. Deus conhece o coração, mas também chama à conversão concreta. Participar pede cortar distrações voluntárias."
+    },
+    {
+      "id": "N07",
+      "explanation": "Dizer que **rito é formalismo** separa falsamente o interior e o exterior. A liturgia expressa a fé por formas comuns, palavras e gestos. O problema não é a forma, mas a forma vazia de fé."
+    },
+    {
+      "id": "N08",
+      "explanation": "A frase **rezo em casa** pode esconder abandono da assembleia dominical. A oração pessoal é boa, mas não substitui sem motivo grave a Eucaristia. A fé católica une oração pessoal e liturgia da Igreja."
+    },
+    {
+      "id": "N09",
+      "explanation": "O **palco da vaidade** surge quando o serviço busca admiração. Talento é dom, mas precisa ser ordenado à oração da assembleia. Na liturgia, quem serve deve diminuir para que Cristo apareça."
+    },
+    {
+      "id": "N10",
+      "explanation": "O **gosto como medida** reduz a liturgia à preferência pessoal. Gostar ou não gostar de um estilo não decide a verdade da celebração. O critério cristão é fidelidade ao rito e participação no mistério."
+    },
+    {
+      "id": "N11",
+      "explanation": "A frase **padre faz tudo** produz uma assembleia passiva. O sacerdote tem função própria, mas todos os batizados participam da ação litúrgica. A Igreja celebra como corpo ordenado, não como plateia."
+    },
+    {
+      "id": "N12",
+      "explanation": "Dizer que **silêncio é vazio** mostra falta de compreensão litúrgica. O silêncio pode ser parte real da oração. Após a comunhão, ele ajuda a acolher e interiorizar o dom recebido."
+    },
+    {
+      "id": "N13",
+      "explanation": "O **improviso piedoso** usa linguagem espiritual para justificar desleixo. O Espírito Santo não é desculpa para negligência. Preparar-se bem é uma forma concreta de cooperar com a graça."
+    },
+    {
+      "id": "N14",
+      "explanation": "A ideia de que **espaço tanto faz** destrói a catequese dos sinais. Altar, sacrário, ambão e lugar de oração expressam a fé da Igreja. Organizar o templo é também formar a consciência."
+    },
+    {
+      "id": "N15",
+      "explanation": "A frase **domingo é tempo meu** fecha o dia do Senhor na autonomia individual. O descanso é legítimo, mas não absoluto. O domingo cristão recebe sua forma da Ressurreição e da Eucaristia."
+    },
+    {
+      "id": "G01",
+      "explanation": "**Assistir ou participar** não são a mesma coisa. A transmissão pode ajudar quem está realmente impedido, mas não deve substituir a assembleia por comodismo. O discernimento considera possibilidade concreta e disposição interior."
+    },
+    {
+      "id": "G02",
+      "explanation": "**Fidelidade ou invenção** é uma distinção necessária. Nem toda adaptação é abuso, mas retirar partes essenciais do rito fere a ação da Igreja. A compreensão do povo deve crescer sem deformar a liturgia."
+    },
+    {
+      "id": "G03",
+      "explanation": "**Emoção ou adoração** não se confundem. A emoção pode ser dom e consolo, mas não mede sozinha a fé. A adoração se dirige a Deus mesmo quando a sensibilidade está seca."
+    },
+    {
+      "id": "G04",
+      "explanation": "**Função ou protagonismo** se distinguem pelo foco do serviço. Cumprir bem uma função ajuda o rito; prolongar-se para aparecer desloca o centro. Na liturgia, competência e discrição devem caminhar juntas."
+    },
+    {
+      "id": "G05",
+      "explanation": "**Silêncio ou vazio** exigem discernimento. Silêncio litúrgico tem sentido quando favorece escuta, adoração e interiorização. Vazio é abandono sem critério; silêncio verdadeiro é parte da oração."
+    },
+    {
+      "id": "G06",
+      "explanation": "**Beleza ou luxo** não se medem apenas por preço. A beleza digna serve ao mistério e ajuda a oração. Luxo desordenado chama atenção para si e pode esconder descuido com o essencial."
+    },
+    {
+      "id": "G07",
+      "explanation": "**Simplicidade ou descuido** são realidades diferentes. Uma comunidade pobre pode celebrar com dignidade usando meios simples. Negligência, sujeira e abandono evitável não são simplicidade evangélica."
+    },
+    {
+      "id": "G08",
+      "explanation": "**Inculturação ou ruptura** pede critério litúrgico. A cultura local pode enriquecer a celebração quando serve ao rito. Ela se torna ruptura quando interrompe, confunde ou obscurece o mistério."
+    },
+    {
+      "id": "G09",
+      "explanation": "**Acolhida ou banalização** não são iguais. Acolher quem não sabe é ato de caridade. Banalizar é transformar a irreverência em norma e deixar de educar para o sagrado."
+    },
+    {
+      "id": "G10",
+      "explanation": "**Palavra ou recado** precisam ser distinguidos. Avisos podem ser necessários, mas não têm a mesma dignidade da proclamação bíblica. O ambão e a liturgia da Palavra educam a assembleia para escutar Deus."
+    },
+    {
+      "id": "G11",
+      "explanation": "**Assembleia ou plateia** é uma distinção central. Plateia assiste, avalia e consome; assembleia celebra com Cristo. Quando a Missa vira apresentação, a participação batismal é enfraquecida."
+    },
+    {
+      "id": "G12",
+      "explanation": "**Reverência ou rigidez** não devem ser confundidas. Reverência protege o sagrado; rigidez humilha e corrige sem caridade. A verdade litúrgica precisa de firmeza e prudência pastoral."
+    },
+    {
+      "id": "G13",
+      "explanation": "**Serviço ou posse** aparecem de modos parecidos por fora. Quem serve cuida da liturgia; quem possui a função controla pessoas e impede formação. Ministério litúrgico não é território privado."
+    },
+    {
+      "id": "G14",
+      "explanation": "**Sinal ou decoração** depende da finalidade. O ornamento litúrgico deve conduzir ao mistério, não competir com ele. Beleza que esconde o altar ou distrai da ação sagrada precisa ser corrigida."
+    },
+    {
+      "id": "G15",
+      "explanation": "**Domingo ou lazer absoluto** distingue descanso ordenado de autonomia fechada a Deus. A família pode descansar, visitar e passear. O problema é organizar o dia como se a Eucaristia não tivesse lugar."
+    },
+    {
+      "id": "O01",
+      "explanation": "**Preparar-se antes** é resposta concreta de quem serve a liturgia. Ler, ensaiar e chegar cedo não são detalhes técnicos vazios. São formas de caridade com a assembleia e reverência à Palavra."
+    },
+    {
+      "id": "O02",
+      "explanation": "**Chegar com recolhimento** já começa a participação litúrgica. Entrar com pressa, barulho e dispersão enfraquece a oração. Antecedência, silêncio e breve oração ajudam o coração a entrar no rito."
+    },
+    {
+      "id": "O03",
+      "explanation": "**Guardar o celular** é um limite simples e sério. O aparelho pode ser necessário em casos reais, mas muitas vezes alimenta distração voluntária. Silenciá-lo protege a atenção própria e a oração dos outros."
+    },
+    {
+      "id": "O04",
+      "explanation": "**Responder em voz** une a pessoa à assembleia. Não é gritar nem aparecer, mas rezar com o povo. As respostas litúrgicas fazem parte do diálogo entre Deus e sua Igreja."
+    },
+    {
+      "id": "O05",
+      "explanation": "**Cantar com a assembleia** é servir à oração comum. O músico escolhe tom, volume e repertório para que o povo participe. A música litúrgica falha quando vira apresentação individual."
+    },
+    {
+      "id": "O06",
+      "explanation": "**Escutar a Palavra** é ato de fé. O corpo voltado ao ambão, o silêncio e a atenção ajudam a acolher Deus que fala. A Palavra não é intervalo antes da Eucaristia; ela prepara a resposta do povo."
+    },
+    {
+      "id": "O07",
+      "explanation": "**Respeitar funções** protege a ordem da celebração. Boa vontade sem limite pode virar invasão, acúmulo ou protagonismo. Na liturgia, cada um serve melhor quando faz o que lhe compete."
+    },
+    {
+      "id": "O08",
+      "explanation": "**Corrigir com prudência** evita dois erros: omissão e humilhação. O abuso litúrgico deve ser tratado com verdade e referência objetiva. Mas o momento e o modo precisam preservar a caridade."
+    },
+    {
+      "id": "O09",
+      "explanation": "**Reverenciar o sacrário** é reconhecer Cristo realmente presente. O gesto pode variar conforme a condição física, mas a fé não deve ser indiferente. O corpo expressa aquilo que o coração professa."
+    },
+    {
+      "id": "O10",
+      "explanation": "**Proteger o silêncio** exige decisão e organização. Não basta desejar recolhimento se toda pausa é invadida por som ou recado. O silêncio litúrgico precisa de tempo real e respeito concreto."
+    },
+    {
+      "id": "O11",
+      "explanation": "**Servir sem aparecer** é maturidade litúrgica. O bom servidor resolve o necessário e não desloca o centro para si. A discrição protege a assembleia e deixa Cristo aparecer."
+    },
+    {
+      "id": "O12",
+      "explanation": "**Formar ministros** é cuidar da oração da Igreja. Leitores, músicos e servidores precisam de fé, técnica e compreensão do rito. Escalar qualquer pessoa sem preparo costuma gerar improviso e descuido."
+    },
+    {
+      "id": "O13",
+      "explanation": "**Santificar o domingo** pede escolhas concretas. Trabalho e impedimentos reais devem ser discernidos com justiça. Mas quando há possibilidade, a agenda precisa mostrar que a Eucaristia é centro do dia do Senhor."
+    },
+    {
+      "id": "O14",
+      "explanation": "**Reparar irreverência** é assumir a verdade do erro. Não é teatro de culpa nem exagero. Pedir desculpas, corrigir o dano possível e retomar atitude reverente educa a consciência."
+    },
+    {
+      "id": "O15",
+      "explanation": "**Levar à vida** impede que a liturgia fique isolada no templo. A Palavra escutada e a Eucaristia recebida pedem frutos concretos. Perdão, trabalho honesto, serviço e reconciliação mostram que a celebração tocou a vida."
+    }
+  ]
+}

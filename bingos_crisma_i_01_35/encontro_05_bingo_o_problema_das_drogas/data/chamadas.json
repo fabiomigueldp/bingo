@@ -1,0 +1,2029 @@
+{
+  "title": "Chamadas — Bingo O problema das drogas",
+  "meeting": "Encontro 05 — O problema das drogas",
+  "source_terms": "data/termos.json",
+  "method": {
+    "read_order": [
+      "call_label",
+      "case",
+      "reading_points"
+    ],
+    "rule": "A cada carta, anuncie código e conceito, leia o caso e explique brevemente a relação usando a Leitura do caso. Depois as equipes marcam o código, se estiver na cartela.",
+    "conference_rule": "Ao fechar duas linhas válidas, horizontais, verticais ou diagonais, a equipe escolhe uma dessas linhas completas, explica pelo menos três conceitos da linha escolhida e liga pelo menos um deles à base bíblica ou doutrinal do encontro. As duas linhas podem se cruzar. O centro livre já conta como casa marcada para completar linhas, mas não conta como um dos três conceitos explicados."
+  },
+  "cards": [
+    {
+      "id": "B01",
+      "term_id": "B01",
+      "call_label": "B01 - Templo do Espírito",
+      "case": "Depois de uma semana pesada, um homem diz que o corpo é dele e que ninguém tem direito de questionar o que ele cheira para relaxar.",
+      "conference_question": "Por que a fé cristã não trata o corpo como propriedade isolada da pessoa?",
+      "anchors": [
+        "1Cor 6,19-20",
+        "CEC 2291"
+      ],
+      "facilitator_note": "Conduza para 1Cor 6,19-20: cuidado do corpo não é vaidade, é resposta a Deus.",
+      "reading_points": [
+        {
+          "title": "Dom recebido",
+          "body": "O caso mostra alguém tratando o corpo como objeto de uso privado e sem referência a Deus."
+        },
+        {
+          "title": "Critério moral",
+          "body": "A droga fere o corpo e a liberdade, por isso não é simples escolha neutra."
+        },
+        {
+          "title": "Fundamento cristão",
+          "body": "Se o corpo é templo do Espírito, glorificar a Deus inclui cuidar concretamente dele."
+        }
+      ]
+    },
+    {
+      "id": "B02",
+      "term_id": "B02",
+      "call_label": "B02 - Vida como dom",
+      "case": "Um rapaz vende objetos de casa para sustentar o uso e repete que a vida dele não deve satisfação a ninguém.",
+      "conference_question": "Como a ideia de vida como dom muda a leitura dessa decisão?",
+      "anchors": [
+        "Gn 1,27",
+        "1Cor 6,20",
+        "CEC 2288"
+      ],
+      "facilitator_note": "Evite reduzir a conversa a 'ele prejudica a família'; comece pela vida recebida de Deus.",
+      "reading_points": [
+        {
+          "title": "Vida recebida",
+          "body": "A pessoa não inventou a própria vida nem a recebeu para destruí-la."
+        },
+        {
+          "title": "Responsabilidade real",
+          "body": "A escolha atinge a casa, mas antes disso fere o dom que Deus confiou."
+        },
+        {
+          "title": "Gratidão concreta",
+          "body": "Cuidar da saúde e buscar ajuda são modos de responder ao dom da vida."
+        }
+      ]
+    },
+    {
+      "id": "B03",
+      "term_id": "B03",
+      "call_label": "B03 - Liberdade para o bem",
+      "case": "Numa festa, alguns chamam de livre quem aceita usar droga e chamam de travado quem recusa.",
+      "conference_question": "Como distinguir liberdade verdadeira de pressão disfarçada de liberdade?",
+      "anchors": [
+        "Gl 5,1",
+        "CEC 1731"
+      ],
+      "facilitator_note": "Mostre que liberdade cristã não é obedecer ao impulso nem ao grupo.",
+      "reading_points": [
+        {
+          "title": "Pressão nomeada",
+          "body": "O grupo muda o nome da pressão e a apresenta como liberdade."
+        },
+        {
+          "title": "Liberdade ferida",
+          "body": "Uma decisão que escraviza a pessoa não realiza a liberdade."
+        },
+        {
+          "title": "Escolha do bem",
+          "body": "A liberdade cresce quando a pessoa consegue escolher o que preserva vida e verdade."
+        }
+      ]
+    },
+    {
+      "id": "B04",
+      "term_id": "B04",
+      "call_label": "B04 - Temperança cristã",
+      "case": "Num almoço, um parente se gaba de beber até cair e diz que isso prova que ele sabe aproveitar a vida.",
+      "conference_question": "Que critério a temperança oferece para julgar esse modo de aproveitar a vida?",
+      "anchors": [
+        "CEC 1809",
+        "CEC 2290"
+      ],
+      "facilitator_note": "Não apresente temperança como medo do prazer, mas como governo do prazer.",
+      "reading_points": [
+        {
+          "title": "Excesso apresentado",
+          "body": "O caso confunde aproveitar a vida com perder domínio de si."
+        },
+        {
+          "title": "Prazer desordenado",
+          "body": "Quando o prazer governa a pessoa, ele deixa de servir ao bem."
+        },
+        {
+          "title": "Virtude necessária",
+          "body": "A temperança educa o desejo para que saúde, vínculos e liberdade sejam protegidos."
+        }
+      ]
+    },
+    {
+      "id": "B05",
+      "term_id": "B05",
+      "call_label": "B05 - Pecado contra a vida",
+      "case": "Mesmo depois de uma internação por intoxicação, um homem volta a usar a mesma substância e diz que o risco faz parte.",
+      "conference_question": "Por que o dano à saúde e à vida torna esse uso moralmente grave?",
+      "anchors": [
+        "CEC 2291",
+        "1Cor 6,19-20"
+      ],
+      "facilitator_note": "Nomeie a gravidade sem transformar a pessoa em inimiga.",
+      "reading_points": [
+        {
+          "title": "Dano conhecido",
+          "body": "A pessoa já viu sinais concretos de destruição da saúde."
+        },
+        {
+          "title": "Matéria grave",
+          "body": "O Catecismo ensina que o uso de drogas causa gravíssimos danos à saúde e à vida."
+        },
+        {
+          "title": "Resposta de vida",
+          "body": "Reconhecer o pecado deve abrir caminho para socorro, conversão e proteção."
+        }
+      ]
+    },
+    {
+      "id": "B06",
+      "term_id": "B06",
+      "call_label": "B06 - Família ferida",
+      "case": "Uma mãe esconde o dinheiro do mercado porque o marido dependente já pegou dinheiro da casa para comprar droga.",
+      "conference_question": "Por que a dependência não pode ser tratada como problema apenas individual?",
+      "anchors": [
+        "CEC 2211",
+        "CEC 2207"
+      ],
+      "facilitator_note": "Ajude a turma a perceber o alcance familiar sem culpar a família pelo vício.",
+      "reading_points": [
+        {
+          "title": "Casa atingida",
+          "body": "O vício altera confiança, economia doméstica e segurança afetiva."
+        },
+        {
+          "title": "Vínculo ferido",
+          "body": "A família sofre consequências que o usuário muitas vezes tenta negar."
+        },
+        {
+          "title": "Dever de proteção",
+          "body": "Cuidar da família exige verdade, limites e ajuda adequada."
+        }
+      ]
+    },
+    {
+      "id": "B07",
+      "term_id": "B07",
+      "call_label": "B07 - Proteção social",
+      "case": "Moradores pedem ação contra a venda de drogas perto da praça, e uma autoridade responde que isso é escolha privada de quem compra.",
+      "conference_question": "Por que a proteção contra drogas também é dever social e político?",
+      "anchors": [
+        "CEC 2211"
+      ],
+      "facilitator_note": "Use o caso para ligar CEC 2211 à vida pública, sem transformar a conversa em disputa partidária.",
+      "reading_points": [
+        {
+          "title": "Problema público",
+          "body": "A venda de drogas ameaça famílias, segurança e saúde do bairro."
+        },
+        {
+          "title": "Dever social",
+          "body": "O Catecismo afirma que a comunidade política deve proteger famílias desses perigos."
+        },
+        {
+          "title": "Bem comum",
+          "body": "Não basta culpar indivíduos; é preciso proteger pessoas e ambientes vulneráveis."
+        }
+      ]
+    },
+    {
+      "id": "B08",
+      "term_id": "B08",
+      "call_label": "B08 - Cura e acolhida",
+      "case": "Uma mulher em recaída chega a um serviço de saúde e ouve de um funcionário que ela é caso perdido.",
+      "conference_question": "Como corrigir o mal do uso sem negar a dignidade da pessoa dependente?",
+      "anchors": [
+        "Mc 2,17",
+        "Lc 15,20",
+        "CEC 1931"
+      ],
+      "facilitator_note": "Conduza para misericórdia exigente: acolhe a pessoa e chama à mudança.",
+      "reading_points": [
+        {
+          "title": "Pessoa reduzida",
+          "body": "A fala transforma a dependência em identidade total da pessoa."
+        },
+        {
+          "title": "Verdade com dignidade",
+          "body": "O uso é grave, mas a pessoa continua merecendo cuidado e respeito."
+        },
+        {
+          "title": "Caminho de cura",
+          "body": "A resposta cristã une acolhida, tratamento, conversão e esperança."
+        }
+      ]
+    },
+    {
+      "id": "B09",
+      "term_id": "B09",
+      "call_label": "B09 - Cooperação com o mal",
+      "case": "Um motorista aceita guardar pacotes de droga no carro porque receberá dinheiro e diz que não vai usar nada.",
+      "conference_question": "Por que facilitar o uso dos outros também participa do mal?",
+      "anchors": [
+        "CEC 2291",
+        "CEC 1868"
+      ],
+      "facilitator_note": "Explique cooperação com o mal de modo direto, sem jargão excessivo.",
+      "reading_points": [
+        {
+          "title": "Facilitação concreta",
+          "body": "Ele não usa, mas torna possível a circulação da droga."
+        },
+        {
+          "title": "Cooperação moral",
+          "body": "A participação voluntária em prática má torna a pessoa responsável pelo dano."
+        },
+        {
+          "title": "Gravidade do tráfico",
+          "body": "Produção, transporte e venda de drogas incitam atos gravemente contrários à lei moral."
+        }
+      ]
+    },
+    {
+      "id": "B10",
+      "term_id": "B10",
+      "call_label": "B10 - Verdade sem moralismo",
+      "case": "Numa família, uma irmã chama o irmão dependente de lixo; outro parente se cala porque tem medo de parecer julgador.",
+      "conference_question": "Como falar a verdade sem cair nem na humilhação nem no silêncio?",
+      "anchors": [
+        "Ef 4,15",
+        "Jo 8,11"
+      ],
+      "facilitator_note": "Mostre as duas falsas saídas: brutalidade e omissão.",
+      "reading_points": [
+        {
+          "title": "Dois desvios",
+          "body": "Um parente humilha, outro evita qualquer palavra verdadeira."
+        },
+        {
+          "title": "Caridade na verdade",
+          "body": "A fé pede clareza sobre o mal sem desprezo pela pessoa."
+        },
+        {
+          "title": "Condução madura",
+          "body": "A palavra correta nomeia o risco, propõe ajuda e preserva a dignidade."
+        }
+      ]
+    },
+    {
+      "id": "B11",
+      "term_id": "B11",
+      "call_label": "B11 - Graça que liberta",
+      "case": "Depois de anos preso ao álcool e à cocaína, um homem começa tratamento e diz que talvez Deus já tenha desistido dele.",
+      "conference_question": "O que a graça de Cristo oferece a quem se vê escravo do vício?",
+      "anchors": [
+        "Jo 8,36",
+        "Gl 5,1",
+        "2Cor 5,17"
+      ],
+      "facilitator_note": "Não prometa cura mágica; fale de graça que sustenta caminho real.",
+      "reading_points": [
+        {
+          "title": "Escravidão sentida",
+          "body": "A pessoa percebe que perdeu liberdade e esperança."
+        },
+        {
+          "title": "Cristo liberta",
+          "body": "A graça não chama a pessoa a permanecer escrava do pecado."
+        },
+        {
+          "title": "Recomeço concreto",
+          "body": "Tratamento, oração, reconciliação e apoio podem ser passos de libertação."
+        }
+      ]
+    },
+    {
+      "id": "B12",
+      "term_id": "B12",
+      "call_label": "B12 - Corpo e vocação",
+      "case": "Para manter produtividade, uma trabalhadora passa a usar estimulantes sem orientação e diz que o corpo precisa aguentar.",
+      "conference_question": "Por que o corpo não deve ser tratado apenas como máquina de desempenho?",
+      "anchors": [
+        "1Cor 6,19-20",
+        "Rm 12,1"
+      ],
+      "facilitator_note": "Relacione corpo, vocação e trabalho sem ignorar pressões injustas.",
+      "reading_points": [
+        {
+          "title": "Corpo instrumentalizado",
+          "body": "A pessoa trata o corpo como ferramenta que pode ser forçada sem limite."
+        },
+        {
+          "title": "Vocação encarnada",
+          "body": "O corpo participa da vida, do serviço e da relação com Deus."
+        },
+        {
+          "title": "Cuidado devido",
+          "body": "Proteger a saúde também é respeitar a própria vocação."
+        }
+      ]
+    },
+    {
+      "id": "B13",
+      "term_id": "B13",
+      "call_label": "B13 - Escândalo grave",
+      "case": "Um adulto compra bebida e cigarros eletrônicos para menores e diz que eles precisam aprender a viver.",
+      "conference_question": "Por que levar outros ao vício agrava a responsabilidade moral?",
+      "anchors": [
+        "Mt 18,6",
+        "CEC 2284",
+        "CEC 2291"
+      ],
+      "facilitator_note": "Mostre que escândalo não é apenas mau exemplo abstrato, mas indução concreta ao mal.",
+      "reading_points": [
+        {
+          "title": "Influência direta",
+          "body": "O adulto facilita o acesso de pessoas vulneráveis ao abuso."
+        },
+        {
+          "title": "Escândalo grave",
+          "body": "Quem conduz outro ao mal aumenta o alcance do pecado."
+        },
+        {
+          "title": "Proteção dos pequenos",
+          "body": "A resposta cristã exige impedir a indução, não normalizá-la."
+        }
+      ]
+    },
+    {
+      "id": "B14",
+      "term_id": "B14",
+      "call_label": "B14 - Consciência formada",
+      "case": "Vídeos tratam vape e comprimidos como rotina de gente interessante, e quem assiste nunca pergunta que vida isso está formando.",
+      "conference_question": "Como a consciência formada ajuda a reconhecer uma sedução disfarçada de normalidade?",
+      "anchors": [
+        "Rm 12,2",
+        "CEC 1783"
+      ],
+      "facilitator_note": "Ajude a turma a pensar critérios, não apenas gostos pessoais.",
+      "reading_points": [
+        {
+          "title": "Normalização sedutora",
+          "body": "A cena apresenta risco moral como estilo de vida atraente."
+        },
+        {
+          "title": "Consciência educada",
+          "body": "Sem formação, a pessoa confunde repetição cultural com bem."
+        },
+        {
+          "title": "Renovação da mente",
+          "body": "A fé forma critérios para julgar promessas, consequências e verdade."
+        }
+      ]
+    },
+    {
+      "id": "B15",
+      "term_id": "B15",
+      "call_label": "B15 - Esperança de conversão",
+      "case": "Após furtar dinheiro da mãe durante uma recaída, um homem diz que não tem mais direito de pedir perdão nem voltar para Deus.",
+      "conference_question": "Por que esperança de conversão não elimina a gravidade do dano, mas impede o desespero?",
+      "anchors": [
+        "Lc 15,7",
+        "2Cor 5,17",
+        "Tg 5,16"
+      ],
+      "facilitator_note": "Una misericórdia e responsabilidade: recomeçar inclui reparar o que for possível.",
+      "reading_points": [
+        {
+          "title": "Desespero depois da queda",
+          "body": "A pessoa transforma a culpa em sentença definitiva."
+        },
+        {
+          "title": "Dignidade preservada",
+          "body": "A queda é real, mas não apaga a possibilidade de conversão."
+        },
+        {
+          "title": "Recomeço responsável",
+          "body": "Pedir perdão, buscar ajuda e reparar danos fazem parte da esperança cristã."
+        }
+      ]
+    },
+    {
+      "id": "I01",
+      "term_id": "I01",
+      "call_label": "I01 - Oferta na festa",
+      "case": "Numa festa, alguém passa um pequeno pacote e diz que quem recusar vai estragar o clima.",
+      "conference_question": "Que elementos do caso mostram pressão moral, e não simples convite?",
+      "anchors": [
+        "B03",
+        "B05",
+        "N03"
+      ],
+      "facilitator_note": "Explore a cena sem curiosidade desnecessária sobre a substância.",
+      "reading_points": [
+        {
+          "title": "Pertencimento usado",
+          "body": "A oferta aparece ligada ao medo de ficar de fora."
+        },
+        {
+          "title": "Liberdade ameaçada",
+          "body": "A pessoa é pressionada a provar valor por uma escolha perigosa."
+        },
+        {
+          "title": "Recusa possível",
+          "body": "O critério cristão ajuda a dizer não sem negociar a própria saúde."
+        }
+      ]
+    },
+    {
+      "id": "I02",
+      "term_id": "I02",
+      "call_label": "I02 - Bebida até apagar",
+      "case": "Depois de beber até perder a memória, um homem acorda sem saber como voltou para casa e ri dizendo que foi uma noite histórica.",
+      "conference_question": "Por que perder o domínio de si não pode ser tratado como brincadeira?",
+      "anchors": [
+        "CEC 2290",
+        "Pr 20,1",
+        "B04"
+      ],
+      "facilitator_note": "Evite tom cômico; o caso envolve risco real, mesmo quando é narrado como festa.",
+      "reading_points": [
+        {
+          "title": "Perda de domínio",
+          "body": "A pessoa não controla memória, decisões nem segurança."
+        },
+        {
+          "title": "Excesso perigoso",
+          "body": "O abuso de álcool fere temperança e expõe a danos graves."
+        },
+        {
+          "title": "Leitura cristã",
+          "body": "Alegria verdadeira não exige apagar a consciência."
+        }
+      ]
+    },
+    {
+      "id": "I03",
+      "term_id": "I03",
+      "call_label": "I03 - Cigarro eletrônico",
+      "case": "Um vendedor oferece cigarros eletrônicos coloridos dizendo que não é cigarro de verdade e que quase não faz mal.",
+      "conference_question": "Como reconhecer o risco quando o produto é apresentado com aparência leve?",
+      "anchors": [
+        "CEC 2290",
+        "B02",
+        "B04"
+      ],
+      "facilitator_note": "Não entre em detalhes técnicos; foque dependência, saúde e falsa inocência.",
+      "reading_points": [
+        {
+          "title": "Aparência suavizada",
+          "body": "Cores e linguagem leve diminuem a percepção de risco."
+        },
+        {
+          "title": "Dependência possível",
+          "body": "Algo apresentado como inofensivo pode prender a pessoa."
+        },
+        {
+          "title": "Critério moral",
+          "body": "O cuidado do corpo exige prudência diante de substâncias que ferem a saúde."
+        }
+      ]
+    },
+    {
+      "id": "I04",
+      "term_id": "I04",
+      "call_label": "I04 - Remédio sem receita",
+      "case": "Para virar a noite estudando e depois relaxar, uma pessoa pega comprimidos controlados de um parente sem receita.",
+      "conference_question": "Por que chamar isso de remédio não basta para tornar o uso correto?",
+      "anchors": [
+        "CEC 2291",
+        "CEC 2290",
+        "G02"
+      ],
+      "facilitator_note": "Destaque a diferença entre finalidade terapêutica e abuso.",
+      "reading_points": [
+        {
+          "title": "Uso desviado",
+          "body": "O medicamento é retirado de seu acompanhamento e finalidade próprios."
+        },
+        {
+          "title": "Risco moral",
+          "body": "Buscar desempenho ou fuga por substância controlada pode ferir saúde e liberdade."
+        },
+        {
+          "title": "Discernimento necessário",
+          "body": "Tratamento legítimo exige indicação adequada, não improviso ou pressão."
+        }
+      ]
+    },
+    {
+      "id": "I05",
+      "term_id": "I05",
+      "call_label": "I05 - Tráfico no bairro",
+      "case": "Num conjunto habitacional, famílias deixam de usar a praça porque a venda de drogas ocupa o lugar e recruta meninos para vigiar.",
+      "conference_question": "Que danos comunitários aparecem além do uso individual?",
+      "anchors": [
+        "CEC 2211",
+        "CEC 2291",
+        "B09"
+      ],
+      "facilitator_note": "Conduza para segurança das famílias e cooperação com o mal.",
+      "reading_points": [
+        {
+          "title": "Território tomado",
+          "body": "A comunidade perde espaço, confiança e liberdade de circulação."
+        },
+        {
+          "title": "Aliciamento real",
+          "body": "O tráfico usa vulneráveis para sustentar um mercado de destruição."
+        },
+        {
+          "title": "Responsabilidade social",
+          "body": "Proteger famílias e denunciar com prudência fazem parte do bem comum."
+        }
+      ]
+    },
+    {
+      "id": "I06",
+      "term_id": "I06",
+      "call_label": "I06 - Entrega por dívida",
+      "case": "Endividado, um homem aceita levar uma mochila para outro bairro porque prometeram quitar parte do que ele deve.",
+      "conference_question": "Como a pressão da dívida pesa no caso sem transformar a entrega em algo moralmente bom?",
+      "anchors": [
+        "CEC 2291",
+        "CEC 1868",
+        "G11"
+      ],
+      "facilitator_note": "Faça a distinção entre vulnerabilidade e justificação moral.",
+      "reading_points": [
+        {
+          "title": "Pressão concreta",
+          "body": "A dívida torna a proposta mais sedutora e ameaçadora."
+        },
+        {
+          "title": "Mal não muda de natureza",
+          "body": "A necessidade não transforma transporte de droga em bem."
+        },
+        {
+          "title": "Ajuda correta",
+          "body": "A resposta deve buscar proteção e saída da coerção, não cooperação com o tráfico."
+        }
+      ]
+    },
+    {
+      "id": "I07",
+      "term_id": "I07",
+      "call_label": "I07 - Casa em silêncio",
+      "case": "Uma família percebe sumiço de dinheiro, mudanças de humor e mentiras, mas decide não tocar no assunto para ninguém saber.",
+      "conference_question": "Por que o silêncio pode parecer proteção e ao mesmo tempo aumentar o perigo?",
+      "anchors": [
+        "CEC 2211",
+        "G08",
+        "O08"
+      ],
+      "facilitator_note": "Evite acusar famílias; mostre medo, vergonha e necessidade de ajuda.",
+      "reading_points": [
+        {
+          "title": "Sinais ignorados",
+          "body": "A casa percebe fatos concretos, mas evita nomeá-los."
+        },
+        {
+          "title": "Vergonha perigosa",
+          "body": "Esconder tudo pode deixar a dependência crescer sem cuidado."
+        },
+        {
+          "title": "Proteção verdadeira",
+          "body": "Falar com prudência e buscar ajuda é melhor do que manter aparência."
+        }
+      ]
+    },
+    {
+      "id": "I08",
+      "term_id": "I08",
+      "call_label": "I08 - Uso na gestação",
+      "case": "Uma gestante continua bebendo e usando substâncias nas madrugadas, enquanto pessoas próximas tratam isso como assunto dela.",
+      "conference_question": "Por que esse caso exige leitura de responsabilidade pela vida e pela saúde de mais de uma pessoa?",
+      "anchors": [
+        "CEC 2288",
+        "B02",
+        "B05"
+      ],
+      "facilitator_note": "Trate o tema com firmeza e sem humilhar a mulher; há mãe e criança em risco.",
+      "reading_points": [
+        {
+          "title": "Vida vulnerável",
+          "body": "A decisão atinge a saúde da gestante e da criança."
+        },
+        {
+          "title": "Gravidade ampliada",
+          "body": "O dano possível não é apenas individual nem passageiro."
+        },
+        {
+          "title": "Resposta proporcional",
+          "body": "É preciso cuidado médico, apoio responsável e limite claro ao uso."
+        }
+      ]
+    },
+    {
+      "id": "I09",
+      "term_id": "I09",
+      "call_label": "I09 - Direção drogada",
+      "case": "Depois de usar droga numa festa, alguém pega o carro porque acha que conhece bem o caminho até em casa.",
+      "conference_question": "Por que a confiança em si mesmo não basta quando há risco para inocentes?",
+      "anchors": [
+        "CEC 2290",
+        "B05",
+        "O05"
+      ],
+      "facilitator_note": "Enfatize risco objetivo, não intenção subjetiva.",
+      "reading_points": [
+        {
+          "title": "Risco público",
+          "body": "A direção sob efeito expõe outras pessoas a acidente e morte."
+        },
+        {
+          "title": "Autoconfiança falsa",
+          "body": "Sentir-se capaz não elimina alteração de reflexos e julgamento."
+        },
+        {
+          "title": "Proteção da vida",
+          "body": "A escolha correta é impedir a direção e acionar ajuda segura."
+        }
+      ]
+    },
+    {
+      "id": "I10",
+      "term_id": "I10",
+      "call_label": "I10 - Aposta compulsiva",
+      "case": "Um trabalhador começa apostando pouco pelo celular e, meses depois, esconde dívidas da esposa para tentar recuperar o que perdeu.",
+      "conference_question": "Como a promessa de ganho rápido pode virar escravidão semelhante a outros vícios?",
+      "anchors": [
+        "CEC 2211",
+        "B03",
+        "G03"
+      ],
+      "facilitator_note": "Mostre a lógica do vício sem igualar mecanicamente todos os casos.",
+      "reading_points": [
+        {
+          "title": "Ciclo de perda",
+          "body": "A dívida leva a novas apostas em vez de parar o dano."
+        },
+        {
+          "title": "Mentira crescente",
+          "body": "O vício atinge confiança, dinheiro e paz da família."
+        },
+        {
+          "title": "Mesma lógica",
+          "body": "Aquilo que promete liberdade e ganho pode entregar dependência."
+        }
+      ]
+    },
+    {
+      "id": "I11",
+      "term_id": "I11",
+      "call_label": "I11 - Venda a menores",
+      "case": "Um comerciante vende vape e bebida a menores porque eles pagam bem e diz que cada família cuide dos seus.",
+      "conference_question": "Por que fornecer a menores aumenta a responsabilidade de quem vende?",
+      "anchors": [
+        "Mt 18,6",
+        "CEC 2284",
+        "B13"
+      ],
+      "facilitator_note": "Nomeie exploração da vulnerabilidade sem transformar o caso em debate comercial abstrato.",
+      "reading_points": [
+        {
+          "title": "Vulnerabilidade explorada",
+          "body": "O comércio lucra com imaturidade e desejo de pertencimento."
+        },
+        {
+          "title": "Escândalo concreto",
+          "body": "Fornecer meios para o abuso conduz outros ao dano."
+        },
+        {
+          "title": "Dever de proteção",
+          "body": "A responsabilidade moral inclui recusar lucro que fere os pequenos."
+        }
+      ]
+    },
+    {
+      "id": "I12",
+      "term_id": "I12",
+      "call_label": "I12 - Estimulante no trabalho",
+      "case": "Num depósito, funcionários contam que alguns usam estimulantes sem receita para suportar metas e turnos cada vez maiores.",
+      "conference_question": "Como discernir o abuso de substância quando existe também pressão injusta no trabalho?",
+      "anchors": [
+        "CEC 2291",
+        "CEC 2290",
+        "G04"
+      ],
+      "facilitator_note": "Não ignore a injustiça trabalhista, mas também não justifique o abuso.",
+      "reading_points": [
+        {
+          "title": "Pressão real",
+          "body": "O ambiente empurra pessoas a ultrapassar limites do corpo."
+        },
+        {
+          "title": "Resposta errada",
+          "body": "Usar substância sem critério não cura a exploração e cria outro dano."
+        },
+        {
+          "title": "Discernimento completo",
+          "body": "É preciso proteger saúde e também questionar condições abusivas."
+        }
+      ]
+    },
+    {
+      "id": "I13",
+      "term_id": "I13",
+      "call_label": "I13 - Tratamento controlado",
+      "case": "Uma paciente usa medicamento controlado conforme prescrição, faz retorno médico e não aumenta a dose por conta própria.",
+      "conference_question": "Por que esse caso não deve ser confundido com abuso de drogas?",
+      "anchors": [
+        "CEC 2291",
+        "G02",
+        "B02"
+      ],
+      "facilitator_note": "Use a carta para evitar respostas simplistas contra qualquer remédio.",
+      "reading_points": [
+        {
+          "title": "Finalidade terapêutica",
+          "body": "O medicamento é usado para tratar, não para intoxicar ou fugir."
+        },
+        {
+          "title": "Acompanhamento real",
+          "body": "Há prescrição, controle e responsabilidade."
+        },
+        {
+          "title": "Distinção moral",
+          "body": "O Catecismo condena o uso sem indicação terapêutica, não o cuidado médico legítimo."
+        }
+      ]
+    },
+    {
+      "id": "I14",
+      "term_id": "I14",
+      "call_label": "I14 - Dependência do familiar",
+      "case": "Um filho adulto dependente promete parar, mas volta para casa exigindo dinheiro e ameaçando quebrar móveis se a mãe recusar.",
+      "conference_question": "Que danos familiares exigem limite, além de compaixão?",
+      "anchors": [
+        "CEC 2211",
+        "B06",
+        "O09"
+      ],
+      "facilitator_note": "Oriente para segurança e rede de ajuda; não para enfrentamento solitário.",
+      "reading_points": [
+        {
+          "title": "Confiança quebrada",
+          "body": "A dependência aparece em ameaça, medo e pressão por dinheiro."
+        },
+        {
+          "title": "Família vulnerável",
+          "body": "Amar não significa aceitar violência dentro de casa."
+        },
+        {
+          "title": "Limite necessário",
+          "body": "A resposta precisa proteger a casa e buscar ajuda competente."
+        }
+      ]
+    },
+    {
+      "id": "I15",
+      "term_id": "I15",
+      "call_label": "I15 - Overdose e morte",
+      "case": "Num banheiro de festa, uma pessoa cai desacordada depois de misturar substâncias, e alguns querem escondê-la para evitar problema.",
+      "conference_question": "Por que a urgência da vida deve vencer o medo de exposição?",
+      "anchors": [
+        "CEC 2291",
+        "B05",
+        "O05"
+      ],
+      "facilitator_note": "Seja claro: emergência médica não deve ser escondida.",
+      "reading_points": [
+        {
+          "title": "Risco extremo",
+          "body": "A inconsciência pode indicar intoxicação grave ou overdose."
+        },
+        {
+          "title": "Medo perigoso",
+          "body": "Esconder a pessoa para evitar consequências pode custar uma vida."
+        },
+        {
+          "title": "Prioridade moral",
+          "body": "A ação correta é chamar socorro imediatamente."
+        }
+      ]
+    },
+    {
+      "id": "N01",
+      "term_id": "N01",
+      "call_label": "N01 - Ilusão de controle",
+      "case": "Depois de perder o emprego por faltas e ainda assim usar de novo, um homem afirma que para quando quiser.",
+      "conference_question": "Quais sinais no caso desmontam a ilusão de controle?",
+      "anchors": [
+        "B03",
+        "G04",
+        "CEC 1731"
+      ],
+      "facilitator_note": "Ajude a reconhecer perda de liberdade sem zombar da pessoa.",
+      "reading_points": [
+        {
+          "title": "Sinais ignorados",
+          "body": "As consequências já aparecem, mas a pessoa nega sua gravidade."
+        },
+        {
+          "title": "Controle imaginário",
+          "body": "Dizer que para quando quiser não prova liberdade real."
+        },
+        {
+          "title": "Verdade libertadora",
+          "body": "Reconhecer a dependência é passo necessário para buscar ajuda."
+        }
+      ]
+    },
+    {
+      "id": "N02",
+      "term_id": "N02",
+      "call_label": "N02 - Falsa autonomia",
+      "case": "Uma jovem adulta diz que usar é problema dela, mesmo quando a mãe paga dívidas e os irmãos convivem com medo.",
+      "conference_question": "Por que a frase 'é minha vida' falha diante da fé e da vida familiar?",
+      "anchors": [
+        "B02",
+        "B12",
+        "1Cor 6,19-20"
+      ],
+      "facilitator_note": "Não responda com controle da família; responda com responsabilidade pelos vínculos.",
+      "reading_points": [
+        {
+          "title": "Autonomia isolada",
+          "body": "A pessoa fala como se suas escolhas não tocassem ninguém."
+        },
+        {
+          "title": "Vida recebida",
+          "body": "A fé lembra que a vida é dom, não posse absoluta."
+        },
+        {
+          "title": "Vínculos reais",
+          "body": "Família e comunidade sofrem quando a liberdade vira destruição."
+        }
+      ]
+    },
+    {
+      "id": "N03",
+      "term_id": "N03",
+      "call_label": "N03 - Todo mundo faz",
+      "case": "Num churrasco, alguém insiste que todos bebem demais e que só gente estranha fica sóbrio.",
+      "conference_question": "Por que a maioria não é critério suficiente para julgar o bem?",
+      "anchors": [
+        "Rm 12,2",
+        "B14"
+      ],
+      "facilitator_note": "Evite moralismo de minoria superior; foque consciência formada.",
+      "reading_points": [
+        {
+          "title": "Pressão da maioria",
+          "body": "O grupo usa normalidade estatística para pressionar a decisão."
+        },
+        {
+          "title": "Critério falso",
+          "body": "Muita gente fazer algo não torna esse algo bom."
+        },
+        {
+          "title": "Consciência cristã",
+          "body": "A pessoa precisa julgar pela verdade, não pelo medo de parecer diferente."
+        }
+      ]
+    },
+    {
+      "id": "N04",
+      "term_id": "N04",
+      "call_label": "N04 - Só no fim de semana",
+      "case": "Um homem usa cocaína todo sábado, falta ao trabalho na segunda e diz que não é dependente porque só acontece no fim de semana.",
+      "conference_question": "O que mostra que a frequência não basta para medir a gravidade?",
+      "anchors": [
+        "CEC 2291",
+        "B04",
+        "G14"
+      ],
+      "facilitator_note": "Mostre que dano e perda de liberdade importam, não apenas calendário.",
+      "reading_points": [
+        {
+          "title": "Minimização temporal",
+          "body": "A pessoa usa o dia da semana para esconder consequências reais."
+        },
+        {
+          "title": "Dano acumulado",
+          "body": "O uso já afeta trabalho, saúde e responsabilidade."
+        },
+        {
+          "title": "Discernimento sóbrio",
+          "body": "Pouca frequência aparente não torna seguro aquilo que destrói."
+        }
+      ]
+    },
+    {
+      "id": "N05",
+      "term_id": "N05",
+      "call_label": "N05 - Fuga que aprisiona",
+      "case": "Após brigas em casa, uma pessoa usa substâncias para esquecer tudo por algumas horas e depois se isola por dias.",
+      "conference_question": "Como a fuga prometida se transforma em prisão?",
+      "anchors": [
+        "Jo 8,36",
+        "B11",
+        "G03"
+      ],
+      "facilitator_note": "Reconheça a dor real sem aceitar a saída destrutiva.",
+      "reading_points": [
+        {
+          "title": "Dor não enfrentada",
+          "body": "O sofrimento existe e precisa de cuidado verdadeiro."
+        },
+        {
+          "title": "Alívio enganoso",
+          "body": "A substância suspende a dor por pouco tempo e aumenta o isolamento."
+        },
+        {
+          "title": "Libertação verdadeira",
+          "body": "Cristo chama a buscar cura, não uma fuga que escraviza."
+        }
+      ]
+    },
+    {
+      "id": "N06",
+      "term_id": "N06",
+      "call_label": "N06 - Diversão obrigatória",
+      "case": "Numa viagem, o grupo diz que sem bebida pesada e drogas ninguém se diverte de verdade.",
+      "conference_question": "Que visão de alegria está por trás da diversão obrigatória?",
+      "anchors": [
+        "1Cor 10,23",
+        "B04",
+        "G03"
+      ],
+      "facilitator_note": "Mostre que a fé não condena alegria; condena perder-se no excesso.",
+      "reading_points": [
+        {
+          "title": "Alegria condicionada",
+          "body": "O grupo afirma que diversão depende de intoxicação."
+        },
+        {
+          "title": "Prazer desordenado",
+          "body": "Quando a alegria exige perder domínio, algo está fora do bem."
+        },
+        {
+          "title": "Temperança positiva",
+          "body": "A virtude permite celebrar sem destruir corpo, liberdade e vínculos."
+        }
+      ]
+    },
+    {
+      "id": "N07",
+      "term_id": "N07",
+      "call_label": "N07 - Remédio sem critério",
+      "case": "Uma pessoa toma comprimidos de outra porque ouviu que acalmam e responde que não é droga, é remédio.",
+      "conference_question": "Como distinguir remédio verdadeiro de uso sem critério?",
+      "anchors": [
+        "CEC 2291",
+        "G02",
+        "I04"
+      ],
+      "facilitator_note": "Evite demonizar medicamento; ataque o abuso e a falta de indicação.",
+      "reading_points": [
+        {
+          "title": "Nome enganoso",
+          "body": "Chamar de remédio não basta quando não há prescrição nem acompanhamento."
+        },
+        {
+          "title": "Finalidade desviada",
+          "body": "O uso busca efeito imediato, não tratamento responsável."
+        },
+        {
+          "title": "Critério terapêutico",
+          "body": "A moral cristã reconhece cuidado médico legítimo e rejeita abuso."
+        }
+      ]
+    },
+    {
+      "id": "N08",
+      "term_id": "N08",
+      "call_label": "N08 - Não prejudico ninguém",
+      "case": "Um dependente diz que não prejudica ninguém, enquanto a irmã paga agiota para impedir ameaças contra ele.",
+      "conference_question": "Quais danos invisíveis a frase tenta apagar?",
+      "anchors": [
+        "CEC 2211",
+        "B06",
+        "B07"
+      ],
+      "facilitator_note": "Conduza para vínculos concretos: dinheiro, medo, mentira e segurança.",
+      "reading_points": [
+        {
+          "title": "Negação do alcance",
+          "body": "A pessoa fala como se o dano ficasse só nela."
+        },
+        {
+          "title": "Família atingida",
+          "body": "Dívidas, ameaças e medo mostram consequências para outros."
+        },
+        {
+          "title": "Responsabilidade comunitária",
+          "body": "O vício fere relações e exige resposta além do indivíduo."
+        }
+      ]
+    },
+    {
+      "id": "N09",
+      "term_id": "N09",
+      "call_label": "N09 - Culpa da família",
+      "case": "Um homem culpa apenas o pai ausente por tudo o que faz e recusa tratamento porque diz que a família estragou sua vida.",
+      "conference_question": "Como reconhecer feridas reais sem apagar responsabilidade pessoal?",
+      "anchors": [
+        "G05",
+        "B15",
+        "Tg 5,16"
+      ],
+      "facilitator_note": "Não negue traumas; mostre que ferida não dispensa resposta moral.",
+      "reading_points": [
+        {
+          "title": "Ferida usada como escudo",
+          "body": "A história dolorosa é transformada em recusa de mudança."
+        },
+        {
+          "title": "Responsabilidade ferida",
+          "body": "Culpa pode ser complexa, mas a pessoa ainda precisa buscar ajuda."
+        },
+        {
+          "title": "Caminho de cura",
+          "body": "Nomear a dor deve abrir tratamento, conversão e reparação possível."
+        }
+      ]
+    },
+    {
+      "id": "N10",
+      "term_id": "N10",
+      "call_label": "N10 - Glamour do tráfico",
+      "case": "Um traficante exibe dinheiro e armas nas redes, enquanto no bairro famílias choram filhos presos, ameaçados ou mortos.",
+      "conference_question": "Como o glamour do tráfico esconde a realidade moral da prática?",
+      "anchors": [
+        "CEC 2291",
+        "B09",
+        "B13"
+      ],
+      "facilitator_note": "Evite curiosidade pelo crime; foque cooperação com o mal e destruição concreta.",
+      "reading_points": [
+        {
+          "title": "Imagem fabricada",
+          "body": "O tráfico se apresenta como poder e sucesso."
+        },
+        {
+          "title": "Realidade escondida",
+          "body": "Por trás da imagem há medo, exploração, morte e prisão."
+        },
+        {
+          "title": "Juízo moral",
+          "body": "Lucrar com a destruição de vidas é cooperação direta com o mal."
+        }
+      ]
+    },
+    {
+      "id": "N11",
+      "term_id": "N11",
+      "call_label": "N11 - Silêncio por vergonha",
+      "case": "Uma mãe encontra sinais claros de overdose no filho, mas pede aos vizinhos que não chamem socorro para não envergonhar a família.",
+      "conference_question": "Quando a vergonha se torna mais perigosa que a exposição?",
+      "anchors": [
+        "G08",
+        "O03",
+        "Tg 5,16"
+      ],
+      "facilitator_note": "Seja firme: risco de vida exige socorro, não preservação de aparência.",
+      "reading_points": [
+        {
+          "title": "Vergonha dominante",
+          "body": "A aparência da família pesa mais que a urgência do filho."
+        },
+        {
+          "title": "Silêncio mortal",
+          "body": "Esconder o problema pode impedir socorro necessário."
+        },
+        {
+          "title": "Proteção verdadeira",
+          "body": "A caridade busca ajuda mesmo quando isso expõe uma ferida."
+        }
+      ]
+    },
+    {
+      "id": "N12",
+      "term_id": "N12",
+      "call_label": "N12 - Curiosidade neutra",
+      "case": "Alguém aceita experimentar uma droga só para saber como é e diz que curiosidade não faz mal a ninguém.",
+      "conference_question": "Por que nem toda curiosidade merece ser seguida?",
+      "anchors": [
+        "G14",
+        "CEC 2291",
+        "B14"
+      ],
+      "facilitator_note": "Use prudência: conhecimento não exige experimentar o mal.",
+      "reading_points": [
+        {
+          "title": "Curiosidade idealizada",
+          "body": "A experiência é tratada como informação neutra."
+        },
+        {
+          "title": "Risco concreto",
+          "body": "Algumas experiências ferem liberdade e saúde desde o início."
+        },
+        {
+          "title": "Prudência moral",
+          "body": "A consciência formada sabe que nem tudo deve ser testado."
+        }
+      ]
+    },
+    {
+      "id": "N13",
+      "term_id": "N13",
+      "call_label": "N13 - Legalizado é moral",
+      "case": "Um adulto diz que, se a substância ou aposta é permitida pela lei, então não há problema moral nenhum.",
+      "conference_question": "Como distinguir legalidade civil de bondade moral?",
+      "anchors": [
+        "B14",
+        "CEC 1783",
+        "Rm 12,2"
+      ],
+      "facilitator_note": "Evite debate legal específico; foque princípio moral.",
+      "reading_points": [
+        {
+          "title": "Confusão de critérios",
+          "body": "A lei civil é usada como medida total da consciência."
+        },
+        {
+          "title": "Moral mais profunda",
+          "body": "Nem tudo que é permitido convém ou edifica."
+        },
+        {
+          "title": "Consciência formada",
+          "body": "O cristão julga pelo bem, pela verdade e pelas consequências reais."
+        }
+      ]
+    },
+    {
+      "id": "N14",
+      "term_id": "N14",
+      "call_label": "N14 - Sem saída",
+      "case": "Depois de várias tentativas de parar, uma pessoa diz que nasceu para isso e que nenhuma ajuda muda nada.",
+      "conference_question": "Por que a mentira de 'sem saída' é perigosa para quem precisa de conversão e tratamento?",
+      "anchors": [
+        "B15",
+        "Jo 8,36",
+        "Lc 15,20"
+      ],
+      "facilitator_note": "Não prometa facilidade; afirme possibilidade real de ajuda.",
+      "reading_points": [
+        {
+          "title": "Desespero fechado",
+          "body": "A pessoa transforma recaídas em destino inevitável."
+        },
+        {
+          "title": "Esperança necessária",
+          "body": "Sem esperança, ela deixa de procurar socorro."
+        },
+        {
+          "title": "Recomeço possível",
+          "body": "Tratamento, graça e apoio podem reabrir caminho, mesmo depois de quedas."
+        }
+      ]
+    },
+    {
+      "id": "N15",
+      "term_id": "N15",
+      "call_label": "N15 - Acolher é aprovar",
+      "case": "Num grupo de familiares, alguns dizem que acolher o dependente significa nunca falar do uso nem impor limites.",
+      "conference_question": "Por que essa ideia confunde acolhida com aprovação?",
+      "anchors": [
+        "G06",
+        "B08",
+        "B10"
+      ],
+      "facilitator_note": "Mostre que acolhida cristã é exigente e protetora.",
+      "reading_points": [
+        {
+          "title": "Afeto sem verdade",
+          "body": "A pessoa é acolhida, mas o mal fica intocado."
+        },
+        {
+          "title": "Conivência disfarçada",
+          "body": "Evitar todo limite pode facilitar novas quedas."
+        },
+        {
+          "title": "Acolhida cristã",
+          "body": "Amar é cuidar da pessoa e enfrentar o que a destrói."
+        }
+      ]
+    },
+    {
+      "id": "G01",
+      "term_id": "G01",
+      "call_label": "G01 - Pessoa e ato",
+      "case": "No hospital, um dependente que furtou a própria mãe é chamado de bandido irrecuperável por um parente.",
+      "conference_question": "Como distinguir a dignidade da pessoa da gravidade do ato cometido?",
+      "anchors": [
+        "B08",
+        "B10",
+        "CEC 1931"
+      ],
+      "facilitator_note": "Trabalhe a distinção sem minimizar furto, mentira ou violência.",
+      "reading_points": [
+        {
+          "title": "Ato grave",
+          "body": "O furto e o dano familiar precisam ser nomeados."
+        },
+        {
+          "title": "Pessoa maior que o ato",
+          "body": "A dignidade não desaparece por causa do pecado ou da dependência."
+        },
+        {
+          "title": "Correção justa",
+          "body": "A resposta deve unir verdade, consequência e possibilidade de cura."
+        }
+      ]
+    },
+    {
+      "id": "G02",
+      "term_id": "G02",
+      "call_label": "G02 - Uso e tratamento",
+      "case": "Após uma cirurgia, uma paciente toma analgésico controlado com prescrição, e um vizinho diz que isso é a mesma coisa que usar droga.",
+      "conference_question": "Que critérios distinguem uso terapêutico de abuso?",
+      "anchors": [
+        "CEC 2291",
+        "I13",
+        "I04"
+      ],
+      "facilitator_note": "Use o caso para corrigir simplismo contra medicamentos necessários.",
+      "reading_points": [
+        {
+          "title": "Tratamento legítimo",
+          "body": "Há indicação médica, dose e finalidade de cuidado."
+        },
+        {
+          "title": "Abuso diferente",
+          "body": "O erro está em usar substância para intoxicação, fuga ou desempenho sem critério."
+        },
+        {
+          "title": "Precisão moral",
+          "body": "A Igreja condena o uso sem indicação terapêutica, não o tratamento responsável."
+        }
+      ]
+    },
+    {
+      "id": "G03",
+      "term_id": "G03",
+      "call_label": "G03 - Prazer e bem",
+      "case": "Um homem diz que a droga lhe dá prazer, mas depois agride a esposa, perde trabalho e se afasta dos filhos.",
+      "conference_question": "Por que prazer imediato não basta como critério de bem?",
+      "anchors": [
+        "B04",
+        "1Cor 10,23",
+        "CEC 1809"
+      ],
+      "facilitator_note": "Mostre consequências visíveis sem negar que a sedução do prazer existe.",
+      "reading_points": [
+        {
+          "title": "Prazer real, dano real",
+          "body": "O caso reconhece sensação agradável, mas mostra frutos destrutivos."
+        },
+        {
+          "title": "Bem integral",
+          "body": "O bem não se mede só por alívio ou euforia momentânea."
+        },
+        {
+          "title": "Temperança",
+          "body": "A virtude ordena o prazer para que ele não destrua a pessoa."
+        }
+      ]
+    },
+    {
+      "id": "G04",
+      "term_id": "G04",
+      "call_label": "G04 - Liberdade e impulso",
+      "case": "Uma mulher em recuperação sente forte vontade de usar, liga para alguém de confiança e muda o caminho para não passar perto do ponto de venda.",
+      "conference_question": "O que esse caso mostra sobre impulso e liberdade?",
+      "anchors": [
+        "B03",
+        "CEC 1731",
+        "N01"
+      ],
+      "facilitator_note": "Mostre que liberdade pode ser frágil e ainda assim real quando escolhe meios de proteção.",
+      "reading_points": [
+        {
+          "title": "Impulso presente",
+          "body": "A vontade de usar aparece com força e não deve ser negada."
+        },
+        {
+          "title": "Liberdade exercida",
+          "body": "Ela não obedece automaticamente ao impulso; busca ajuda e muda a rota."
+        },
+        {
+          "title": "Crescimento possível",
+          "body": "A liberdade se fortalece com escolhas concretas de proteção."
+        }
+      ]
+    },
+    {
+      "id": "G05",
+      "term_id": "G05",
+      "call_label": "G05 - Culpa e imputabilidade",
+      "case": "Um dependente com longa história de uso agride verbalmente a família durante abstinência, e todos discutem se ele tem culpa de alguma coisa.",
+      "conference_question": "Como distinguir gravidade objetiva do ato e responsabilidade subjetiva ferida?",
+      "anchors": [
+        "CEC 1735",
+        "B05",
+        "G01"
+      ],
+      "facilitator_note": "Conduza com cuidado: dependência pode reduzir liberdade, não apagar todo dano.",
+      "reading_points": [
+        {
+          "title": "Mal objetivo",
+          "body": "A agressão verbal fere a família e precisa ser enfrentada."
+        },
+        {
+          "title": "Liberdade ferida",
+          "body": "Dependência, medo e hábito podem diminuir a imputabilidade da pessoa."
+        },
+        {
+          "title": "Resposta justa",
+          "body": "Mesmo com culpa complexa, são necessários tratamento, limites e reparação possível."
+        }
+      ]
+    },
+    {
+      "id": "G06",
+      "term_id": "G06",
+      "call_label": "G06 - Acolhida e conivência",
+      "case": "Uma casa de acolhida recebe dependentes, mas proíbe entrada com drogas e exige participação no tratamento; alguns chamam isso de falta de amor.",
+      "conference_question": "Por que acolher não significa permitir tudo?",
+      "anchors": [
+        "B08",
+        "B10",
+        "N15"
+      ],
+      "facilitator_note": "Mostre que limite pode ser forma concreta de cuidado.",
+      "reading_points": [
+        {
+          "title": "Acolhida com regra",
+          "body": "A pessoa é recebida, mas o ambiente não facilita o uso."
+        },
+        {
+          "title": "Conivência evitada",
+          "body": "Permitir droga no espaço de cuidado destruiria a própria ajuda."
+        },
+        {
+          "title": "Caridade exigente",
+          "body": "Acolher é proteger a pessoa e o caminho de mudança."
+        }
+      ]
+    },
+    {
+      "id": "G07",
+      "term_id": "G07",
+      "call_label": "G07 - Prudência e omissão",
+      "case": "Um passageiro percebe que o motorista bebeu muito e ouviu que ele usou droga, mas pensa que o prudente é não se meter.",
+      "conference_question": "Quando a prudência vira omissão diante de risco grave?",
+      "anchors": [
+        "CEC 1806",
+        "O03",
+        "G08"
+      ],
+      "facilitator_note": "Use o caso para mostrar modo proporcional de agir.",
+      "reading_points": [
+        {
+          "title": "Risco identificado",
+          "body": "Há perigo concreto para passageiros e terceiros."
+        },
+        {
+          "title": "Omissão disfarçada",
+          "body": "Chamar silêncio de prudência pode ser covardia moral."
+        },
+        {
+          "title": "Prudência verdadeira",
+          "body": "A resposta busca impedir a direção e acionar ajuda adequada sem agressão."
+        }
+      ]
+    },
+    {
+      "id": "G08",
+      "term_id": "G08",
+      "call_label": "G08 - Sigilo e proteção",
+      "case": "Uma jovem promete guardar segredo depois que o irmão diz que transportará droga para pagar uma dívida.",
+      "conference_question": "Por que certos segredos não devem ser guardados?",
+      "anchors": [
+        "CEC 2211",
+        "O03",
+        "O05"
+      ],
+      "facilitator_note": "Não estimule exposição pública; estimule proteção e adulto confiável.",
+      "reading_points": [
+        {
+          "title": "Segredo perigoso",
+          "body": "O conteúdo do segredo envolve crime, risco e possível ameaça."
+        },
+        {
+          "title": "Proteção acima da aparência",
+          "body": "Guardar silêncio pode facilitar dano grave."
+        },
+        {
+          "title": "Ajuda prudente",
+          "body": "É preciso procurar alguém confiável e competente para agir com segurança."
+        }
+      ]
+    },
+    {
+      "id": "G09",
+      "term_id": "G09",
+      "call_label": "G09 - Ajuda e controle",
+      "case": "Uma mãe paga repetidamente dívidas do filho dependente, mente para o patrão dele e chama isso de ajuda.",
+      "conference_question": "Como distinguir ajuda verdadeira de controle ou facilitação do vício?",
+      "anchors": [
+        "Gl 6,2",
+        "O11",
+        "O09"
+      ],
+      "facilitator_note": "Conduza sem culpar a mãe; mostre que amor precisa de limites.",
+      "reading_points": [
+        {
+          "title": "Cuidado desordenado",
+          "body": "A mãe tenta proteger, mas sustenta o ciclo de mentira e dívida."
+        },
+        {
+          "title": "Ajuda confundida",
+          "body": "Assumir tudo pelo outro pode impedir responsabilidade e tratamento."
+        },
+        {
+          "title": "Limite caridoso",
+          "body": "Ajudar é apoiar passos de cura sem alimentar a dependência."
+        }
+      ]
+    },
+    {
+      "id": "G10",
+      "term_id": "G10",
+      "call_label": "G10 - Justiça e vingança",
+      "case": "Após assaltos ligados ao tráfico, moradores querem espancar um suspeito antes de chamar a polícia.",
+      "conference_question": "Como buscar justiça sem cair em vingança?",
+      "anchors": [
+        "Rm 12,19",
+        "B10",
+        "O10"
+      ],
+      "facilitator_note": "Não minimize o medo do bairro; corrija a resposta injusta.",
+      "reading_points": [
+        {
+          "title": "Medo real",
+          "body": "A comunidade sofre violência e quer proteção."
+        },
+        {
+          "title": "Resposta desordenada",
+          "body": "Linchamento troca justiça por crueldade e pode atingir inocentes."
+        },
+        {
+          "title": "Justiça correta",
+          "body": "A ação deve proteger, comunicar às autoridades e preservar a dignidade humana."
+        }
+      ]
+    },
+    {
+      "id": "G11",
+      "term_id": "G11",
+      "call_label": "G11 - Pobreza e crime",
+      "case": "Um jovem sem trabalho aceita vigiar ponto de droga; um conhecido afirma que, sendo pobre, ele não tem responsabilidade moral.",
+      "conference_question": "Como reconhecer vulnerabilidade social sem justificar o crime?",
+      "anchors": [
+        "CEC 2291",
+        "B09",
+        "I06"
+      ],
+      "facilitator_note": "Evite tanto desprezo pelos pobres quanto romantização do tráfico.",
+      "reading_points": [
+        {
+          "title": "Vulnerabilidade concreta",
+          "body": "A pobreza aumenta pressão e sedução do dinheiro rápido."
+        },
+        {
+          "title": "Mal preservado",
+          "body": "Explorar e facilitar droga continua sendo grave."
+        },
+        {
+          "title": "Resposta completa",
+          "body": "É preciso combater vulnerabilidades e recusar cooperação com o mal."
+        }
+      ]
+    },
+    {
+      "id": "G12",
+      "term_id": "G12",
+      "call_label": "G12 - Firmeza e dureza",
+      "case": "Um pai, cansado de mentiras, grita que o filho dependente morreu para a família e o expulsa sem plano de segurança.",
+      "conference_question": "Qual é a diferença entre firmeza necessária e dureza destrutiva?",
+      "anchors": [
+        "Ef 4,15",
+        "B08",
+        "O09"
+      ],
+      "facilitator_note": "Trate limites como necessários, mas não como humilhação ou abandono irresponsável.",
+      "reading_points": [
+        {
+          "title": "Cansaço compreensível",
+          "body": "A família pode estar exausta e com medo."
+        },
+        {
+          "title": "Dureza perigosa",
+          "body": "Humilhar e descartar pode aumentar risco e fechar caminhos de ajuda."
+        },
+        {
+          "title": "Firmeza madura",
+          "body": "Limites devem proteger a casa e apontar para tratamento e segurança."
+        }
+      ]
+    },
+    {
+      "id": "G13",
+      "term_id": "G13",
+      "call_label": "G13 - Recaída e fracasso total",
+      "case": "Depois de seis meses sem usar, uma pessoa tem recaída; familiares concluem que todo tratamento foi mentira.",
+      "conference_question": "Por que recaída não deve ser tratada como fracasso total?",
+      "anchors": [
+        "B15",
+        "Lc 15,20",
+        "O04"
+      ],
+      "facilitator_note": "Não banalize a recaída; mostre resposta séria e esperançosa.",
+      "reading_points": [
+        {
+          "title": "Queda real",
+          "body": "A recaída é grave e precisa ser enfrentada."
+        },
+        {
+          "title": "Leitura precipitada",
+          "body": "Concluir que tudo acabou pode destruir a esperança e o tratamento."
+        },
+        {
+          "title": "Retomada necessária",
+          "body": "O caminho exige revisar plano, buscar ajuda e recomeçar com seriedade."
+        }
+      ]
+    },
+    {
+      "id": "G14",
+      "term_id": "G14",
+      "call_label": "G14 - Risco e curiosidade",
+      "case": "Uma pessoa entra numa roda onde estão usando droga apenas para olhar de perto, mas logo começa a ser pressionada a experimentar.",
+      "conference_question": "Como distinguir curiosidade comum de exposição imprudente ao risco?",
+      "anchors": [
+        "B14",
+        "N12",
+        "CEC 2291"
+      ],
+      "facilitator_note": "Use o caso para formar prudência, não medo irracional.",
+      "reading_points": [
+        {
+          "title": "Ambiente de risco",
+          "body": "A curiosidade coloca a pessoa dentro da pressão concreta."
+        },
+        {
+          "title": "Prudência necessária",
+          "body": "Nem todo lugar deve ser frequentado para entender o problema."
+        },
+        {
+          "title": "Liberdade protegida",
+          "body": "Evitar ocasião perigosa pode ser ato forte de liberdade."
+        }
+      ]
+    },
+    {
+      "id": "G15",
+      "term_id": "G15",
+      "call_label": "G15 - Cura e desculpa",
+      "case": "Num tratamento, um homem diz que, como dependência é doença, não precisa pedir perdão nem devolver o que roubou.",
+      "conference_question": "Por que reconhecer a necessidade de cura não elimina responsabilidade moral?",
+      "anchors": [
+        "B08",
+        "G05",
+        "O14"
+      ],
+      "facilitator_note": "Mostre que cura e reparação caminham juntas quando possível.",
+      "reading_points": [
+        {
+          "title": "Verdade parcial",
+          "body": "A dependência exige tratamento e pode ferir a liberdade."
+        },
+        {
+          "title": "Desculpa indevida",
+          "body": "Usar a doença para negar todo dano impede conversão."
+        },
+        {
+          "title": "Cura responsável",
+          "body": "O caminho de cura inclui assumir consequências possíveis."
+        }
+      ]
+    },
+    {
+      "id": "O01",
+      "term_id": "O01",
+      "call_label": "O01 - Recusar com clareza",
+      "case": "Num churrasco, alguém oferece maconha e insiste; a pessoa responde sem ironia: não uso, não quero, vou pegar outra coisa para beber.",
+      "conference_question": "Por que uma recusa clara é melhor que explicações longas e ambíguas nesse momento?",
+      "anchors": [
+        "B03",
+        "G04",
+        "1Cor 10,23"
+      ],
+      "facilitator_note": "Mostre que a firmeza simples pode evitar negociação e pressão.",
+      "reading_points": [
+        {
+          "title": "Palavra direta",
+          "body": "A resposta não humilha ninguém, mas fecha a proposta."
+        },
+        {
+          "title": "Liberdade exercida",
+          "body": "Recusar claramente protege a decisão antes que a pressão cresça."
+        },
+        {
+          "title": "Cuidado do corpo",
+          "body": "Dizer não pode ser ato concreto de fidelidade ao bem."
+        }
+      ]
+    },
+    {
+      "id": "O02",
+      "term_id": "O02",
+      "call_label": "O02 - Sair do ambiente",
+      "case": "Percebendo que no apartamento começaram a separar drogas para a madrugada, uma pessoa chama transporte e vai embora.",
+      "conference_question": "Quando sair do ambiente é resposta mais prudente do que ficar tentando provar força?",
+      "anchors": [
+        "G14",
+        "B14",
+        "1Ts 5,22"
+      ],
+      "facilitator_note": "Não apresente fuga covarde; apresente afastamento prudente da ocasião.",
+      "reading_points": [
+        {
+          "title": "Risco reconhecido",
+          "body": "O ambiente deixou de ser neutro e passou a pressionar a queda."
+        },
+        {
+          "title": "Afastamento concreto",
+          "body": "Sair reduz acesso, pressão e improviso perigoso."
+        },
+        {
+          "title": "Prudência ativa",
+          "body": "Evitar ocasião de pecado pode ser decisão adulta e forte."
+        }
+      ]
+    },
+    {
+      "id": "O03",
+      "term_id": "O03",
+      "call_label": "O03 - Pedir ajuda adulta",
+      "case": "Uma sobrinha encontra mensagens do tio falando em se matar depois de usar substâncias e procura imediatamente a mãe e um serviço de ajuda.",
+      "conference_question": "Por que pedir ajuda adulta não é traição quando há risco grave?",
+      "anchors": [
+        "G07",
+        "G08",
+        "Tg 5,16"
+      ],
+      "facilitator_note": "Reforce que risco de suicídio, violência ou overdose exige ajuda imediata.",
+      "reading_points": [
+        {
+          "title": "Perigo sério",
+          "body": "As mensagens indicam risco de morte e sofrimento agudo."
+        },
+        {
+          "title": "Segredo inadequado",
+          "body": "Guardar sozinha esse peso seria inseguro e injusto."
+        },
+        {
+          "title": "Rede de proteção",
+          "body": "Buscar adulto responsável e serviço adequado é forma concreta de caridade."
+        }
+      ]
+    },
+    {
+      "id": "O04",
+      "term_id": "O04",
+      "call_label": "O04 - Procurar tratamento",
+      "case": "Um homem percebe que não consegue passar o dia sem beber e marca atendimento no serviço de saúde, além de avisar alguém que o acompanhará.",
+      "conference_question": "Que passos mostram que procurar tratamento é decisão concreta, não frase vaga?",
+      "anchors": [
+        "B08",
+        "G13",
+        "Mc 2,17"
+      ],
+      "facilitator_note": "Valorize a busca de tratamento e lembre que acompanhamento espiritual não substitui cuidado clínico quando necessário.",
+      "reading_points": [
+        {
+          "title": "Reconhecimento honesto",
+          "body": "A pessoa admite perda de liberdade diante do álcool."
+        },
+        {
+          "title": "Passo verificável",
+          "body": "Ela marca atendimento e envolve alguém confiável."
+        },
+        {
+          "title": "Cuidado integral",
+          "body": "Tratamento, apoio e vida espiritual podem caminhar juntos."
+        }
+      ]
+    },
+    {
+      "id": "O05",
+      "term_id": "O05",
+      "call_label": "O05 - Chamar emergência",
+      "case": "Numa festa, uma pessoa cai desacordada após misturar álcool e comprimidos; alguém liga para emergência e fica ao lado dela até chegar socorro.",
+      "conference_question": "Por que chamar emergência é obrigação moral nesse caso?",
+      "anchors": [
+        "I15",
+        "G08",
+        "Lc 10,33-35"
+      ],
+      "facilitator_note": "Seja explícito: medo de bronca ou polícia não vale mais que a vida.",
+      "reading_points": [
+        {
+          "title": "Vida em risco",
+          "body": "Inconsciência após substâncias pode ser sinal de intoxicação grave."
+        },
+        {
+          "title": "Ação imediata",
+          "body": "Ligar para socorro é mais importante que esconder o ocorrido."
+        },
+        {
+          "title": "Caridade prática",
+          "body": "Cuidar da vida exige presença, informação e rapidez."
+        }
+      ]
+    },
+    {
+      "id": "O06",
+      "term_id": "O06",
+      "call_label": "O06 - Cortar fornecimento",
+      "case": "Um conhecido pede para guardar uma sacola por duas horas e insinua que há droga dentro; a pessoa recusa e se afasta.",
+      "conference_question": "Como cortar fornecimento impede cooperação com o mal?",
+      "anchors": [
+        "B09",
+        "CEC 1868",
+        "G06"
+      ],
+      "facilitator_note": "Explique que pequenas facilidades sustentam redes maiores de dano.",
+      "reading_points": [
+        {
+          "title": "Facilitação recusada",
+          "body": "Guardar a sacola ajudaria a circulação da droga."
+        },
+        {
+          "title": "Responsabilidade indireta",
+          "body": "Mesmo sem usar, a pessoa participaria do dano."
+        },
+        {
+          "title": "Limite necessário",
+          "body": "Recusar e afastar-se protege a consciência e a segurança."
+        }
+      ]
+    },
+    {
+      "id": "O07",
+      "term_id": "O07",
+      "call_label": "O07 - Não financiar vício",
+      "case": "Um filho dependente pede dinheiro para comida, mas a mãe, desconfiada, oferece comprar o alimento e não entregar dinheiro vivo.",
+      "conference_question": "Por que essa resposta pode ser ajuda sem financiar o vício?",
+      "anchors": [
+        "G09",
+        "G06",
+        "B06"
+      ],
+      "facilitator_note": "Mostre que limite financeiro pode ser expressão de cuidado.",
+      "reading_points": [
+        {
+          "title": "Pedido ambíguo",
+          "body": "A necessidade pode ser real, mas o dinheiro pode alimentar o uso."
+        },
+        {
+          "title": "Ajuda concreta",
+          "body": "Comprar alimento cuida da pessoa sem entregar recurso para a dependência."
+        },
+        {
+          "title": "Caridade com limite",
+          "body": "Amar exige pensar no efeito real da ajuda."
+        }
+      ]
+    },
+    {
+      "id": "O08",
+      "term_id": "O08",
+      "call_label": "O08 - Conversa sem acusação",
+      "case": "Uma irmã encontra garrafas escondidas e diz ao irmão: estou preocupada, vi sinais concretos, quero procurar ajuda com você.",
+      "conference_question": "Como conversar sem acusação e sem esconder a verdade?",
+      "anchors": [
+        "B10",
+        "G12",
+        "Ef 4,15"
+      ],
+      "facilitator_note": "Valorize tom, fatos concretos e proposta de ajuda.",
+      "reading_points": [
+        {
+          "title": "Fatos nomeados",
+          "body": "A conversa parte de sinais observados, não de insultos."
+        },
+        {
+          "title": "Verdade caridosa",
+          "body": "A fala expressa preocupação e não humilha a pessoa."
+        },
+        {
+          "title": "Próximo passo",
+          "body": "A conversa aponta para ajuda concreta, não apenas desabafo."
+        }
+      ]
+    },
+    {
+      "id": "O09",
+      "term_id": "O09",
+      "call_label": "O09 - Limite em casa",
+      "case": "Depois de ameaças e furtos, a família combina que não haverá dinheiro em espécie, que objetos de valor serão protegidos e que a permanência em casa exigirá tratamento.",
+      "conference_question": "Por que limites em casa podem ser necessários para proteger todos?",
+      "anchors": [
+        "B06",
+        "G09",
+        "CEC 2211"
+      ],
+      "facilitator_note": "Não idealize soluções; reconheça que casos graves precisam de rede e segurança.",
+      "reading_points": [
+        {
+          "title": "Risco doméstico",
+          "body": "O vício já atingiu dinheiro, confiança e segurança."
+        },
+        {
+          "title": "Regra concreta",
+          "body": "A família define condições verificáveis, não apenas pedidos vagos."
+        },
+        {
+          "title": "Proteção justa",
+          "body": "O limite busca proteger a casa e abrir caminho para tratamento."
+        }
+      ]
+    },
+    {
+      "id": "O10",
+      "term_id": "O10",
+      "call_label": "O10 - Denunciar tráfico",
+      "case": "Um comerciante vê adultos oferecendo droga a menores perto do ponto de ônibus e comunica a situação às autoridades por canal seguro.",
+      "conference_question": "Que cuidados tornam a denúncia uma resposta prudente, e não vingança?",
+      "anchors": [
+        "B07",
+        "B09",
+        "G10"
+      ],
+      "facilitator_note": "Fale de segurança, competência das autoridades e proteção dos vulneráveis.",
+      "reading_points": [
+        {
+          "title": "Aliciamento visto",
+          "body": "Há oferta de droga a menores em espaço público."
+        },
+        {
+          "title": "Denúncia prudente",
+          "body": "Comunicar por canal seguro evita exposição e retaliação desnecessária."
+        },
+        {
+          "title": "Bem comum",
+          "body": "Proteger vulneráveis exige agir, não apenas lamentar."
+        }
+      ]
+    },
+    {
+      "id": "O11",
+      "term_id": "O11",
+      "call_label": "O11 - Acompanhar sem carregar",
+      "case": "Um amigo acompanha o dependente à primeira consulta, mas deixa claro que não poderá mentir por ele nem controlar cada passo.",
+      "conference_question": "Como acompanhar sem carregar sozinho a responsabilidade do outro?",
+      "anchors": [
+        "G09",
+        "Gl 6,2",
+        "B08"
+      ],
+      "facilitator_note": "Ajude a distinguir apoio fiel de salvadorismo.",
+      "reading_points": [
+        {
+          "title": "Apoio concreto",
+          "body": "Acompanhar à consulta reduz isolamento e medo."
+        },
+        {
+          "title": "Limite saudável",
+          "body": "O amigo não assume mentira nem controle total da vida do outro."
+        },
+        {
+          "title": "Rede de cuidado",
+          "body": "A recuperação precisa de responsabilidade pessoal e apoio organizado."
+        }
+      ]
+    },
+    {
+      "id": "O12",
+      "term_id": "O12",
+      "call_label": "O12 - Confessar e recomeçar",
+      "case": "Depois de dirigir drogado e mentir para a família, um homem procura confissão, pede ajuda para parar e entrega a chave do carro por um período.",
+      "conference_question": "Por que confessar e recomeçar exige decisões concretas além de palavras religiosas?",
+      "anchors": [
+        "B15",
+        "Tg 5,16",
+        "2Cor 5,17"
+      ],
+      "facilitator_note": "Mostre sacramento e mudança prática juntos, sem separar fé e vida.",
+      "reading_points": [
+        {
+          "title": "Pecado reconhecido",
+          "body": "A pessoa admite dano real e mentira."
+        },
+        {
+          "title": "Graça acolhida",
+          "body": "A confissão abre caminho de reconciliação com Deus."
+        },
+        {
+          "title": "Mudança verificável",
+          "body": "Entregar a chave e buscar ajuda reduzem risco de repetição."
+        }
+      ]
+    },
+    {
+      "id": "O13",
+      "term_id": "O13",
+      "call_label": "O13 - Trocar de rotina",
+      "case": "Para evitar recaída, uma mulher muda o caminho do trabalho, bloqueia contatos de compra e passa a voltar para casa com uma colega.",
+      "conference_question": "Por que trocar rotina pode ser parte séria da conversão?",
+      "anchors": [
+        "G13",
+        "O02",
+        "B14"
+      ],
+      "facilitator_note": "Mostre que mudanças pequenas e concretas sustentam decisões grandes.",
+      "reading_points": [
+        {
+          "title": "Gatilhos identificados",
+          "body": "Caminho, contatos e solidão alimentavam o ciclo de uso."
+        },
+        {
+          "title": "Mudança prática",
+          "body": "Alterar rotina reduz acesso e pressão no momento frágil."
+        },
+        {
+          "title": "Perseverança",
+          "body": "A conversão se apoia em escolhas concretas repetidas."
+        }
+      ]
+    },
+    {
+      "id": "O14",
+      "term_id": "O14",
+      "call_label": "O14 - Reparar danos",
+      "case": "Em recuperação, um homem admite que furtou ferramentas do irmão, combina devolver em parcelas e pede perdão sem exigir confiança imediata.",
+      "conference_question": "Como reparar danos ajuda a reconstruir verdade sem fingir que nada aconteceu?",
+      "anchors": [
+        "G15",
+        "B15",
+        "Lc 19,8"
+      ],
+      "facilitator_note": "Explique que reparação não compra perdão, mas assume responsabilidade.",
+      "reading_points": [
+        {
+          "title": "Dano assumido",
+          "body": "A pessoa nomeia o furto e não o esconde atrás do vício."
+        },
+        {
+          "title": "Reparação concreta",
+          "body": "Devolver em parcelas transforma arrependimento em compromisso."
+        },
+        {
+          "title": "Confiança paciente",
+          "body": "Pedir perdão não obriga o outro a confiar imediatamente."
+        }
+      ]
+    },
+    {
+      "id": "O15",
+      "term_id": "O15",
+      "call_label": "O15 - Rezar com compromisso",
+      "case": "Uma família reza por um filho dependente, marca atendimento, retira bebidas da casa e combina quem acompanhará as consultas.",
+      "conference_question": "Como unir oração e compromisso sem cair em passividade?",
+      "anchors": [
+        "B11",
+        "G07",
+        "Tg 5,16"
+      ],
+      "facilitator_note": "Mostre oração como fonte de força para agir, não substituto da responsabilidade.",
+      "reading_points": [
+        {
+          "title": "Oração real",
+          "body": "A família leva a dor diante de Deus."
+        },
+        {
+          "title": "Ação concreta",
+          "body": "Também organiza tratamento, ambiente e acompanhamento."
+        },
+        {
+          "title": "Graça e responsabilidade",
+          "body": "A fé sustenta decisões proporcionais para proteger a vida."
+        }
+      ]
+    }
+  ]
+}

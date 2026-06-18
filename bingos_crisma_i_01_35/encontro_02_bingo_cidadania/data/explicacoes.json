@@ -1,0 +1,308 @@
+{
+  "title": "Carta de explicações rápidas — Bingo Cidadania",
+  "meeting": "Encontro 02 — Cidadania",
+  "source_calls": "data/chamadas.json",
+  "purpose": "Explicações breves para o condutor usar durante a chamada de cada carta.",
+  "entries": [
+    {
+      "id": "B01",
+      "explanation": "A autoridade civil tem lugar legítimo, mas não é absoluta. Jesus manda dar a César o que é de César, sem entregar a César o que pertence a Deus. A **consciência reta** não pode cooperar com mentira ou injustiça grave."
+    },
+    {
+      "id": "B02",
+      "explanation": "A instituição perde seu rumo quando passa a proteger números, imagem ou lucro contra pessoas concretas. O Catecismo afirma que a pessoa é **princípio, sujeito e fim** das instituições sociais. A cidadania cristã avalia estruturas pelo serviço que prestam à dignidade humana."
+    },
+    {
+      "id": "B03",
+      "explanation": "O ser humano não foi feito para viver isolado. A vida social desenvolve capacidades, responsabilidades e serviço. A **natureza social** da pessoa torna a cooperação uma exigência moral, não apenas conveniência."
+    },
+    {
+      "id": "B04",
+      "explanation": "Caridade social é amor ao próximo aplicado à vida comum. Ela socorre a necessidade imediata e também enfrenta condições injustas. A **caridade** cristã não é sentimento vago, mas responsabilidade concreta."
+    },
+    {
+      "id": "B05",
+      "explanation": "O bem comum não é o interesse de quem grita mais alto. Ele envolve condições reais para que pessoas e comunidades vivam com dignidade. O cristão pergunta se uma decisão serve ao **bem comum** ou apenas a uma vantagem particular."
+    },
+    {
+      "id": "B06",
+      "explanation": "A dignidade humana não depende de produtividade, idade, saúde ou aceitação social. A pessoa vale porque é criada à imagem de Deus. A **dignidade inviolável** exige cuidado especialmente quando alguém está frágil."
+    },
+    {
+      "id": "B07",
+      "explanation": "Respeito não significa concordar com tudo. Significa tratar a pessoa como digna enquanto se discerne a verdade sobre ideias e atos. O **próximo** não pode ser reduzido a inimigo, obstáculo ou caricatura."
+    },
+    {
+      "id": "B08",
+      "explanation": "Tolerância cristã não é relativismo. É conviver em paz, suportar diferenças e dialogar sem renunciar à verdade. A **tolerância** protege a pessoa, mas não transforma todo erro em bem."
+    },
+    {
+      "id": "B09",
+      "explanation": "A verdade sem amor pode ferir; o amor sem verdade pode enganar. A fé cristã une as duas coisas. A **verdade com caridade** corrige, protege e orienta sem humilhar."
+    },
+    {
+      "id": "B10",
+      "explanation": "Cidadania não é só reclamar de problemas sociais. Ela exige participação possível, honesta e responsável. A **participação** cristã serve ao bem comum sem idolatrar política nem fugir da realidade."
+    },
+    {
+      "id": "B11",
+      "explanation": "Leis e sistemas melhores são necessários, mas não bastam. Um coração não convertido encontra novos caminhos para o egoísmo. A **conversão do coração** deve andar junto com a correção das estruturas injustas."
+    },
+    {
+      "id": "B12",
+      "explanation": "Justiça e caridade não são inimigas. A justiça sem caridade vira dureza; a caridade sem justiça vira omissão. A **justiça com caridade** busca reparação, verdade e respeito pela pessoa."
+    },
+    {
+      "id": "B13",
+      "explanation": "O cristão tem deveres temporais legítimos. Pagar o devido, respeitar regras justas e cuidar do comum fazem parte da vida diante de Deus. A crítica ao Estado não autoriza **desonestidade** pessoal."
+    },
+    {
+      "id": "B14",
+      "explanation": "O Catecismo alerta para dois extremos: covardia diante do mal e violência que agrava o mal. A graça ajuda a discernir o caminho estreito da caridade. A **coragem cristã** é firme sem ser brutal."
+    },
+    {
+      "id": "B15",
+      "explanation": "A fraternidade cristã não nasce só de afinidade. Todos são chamados ao mesmo fim, que é Deus. Por isso a **fraternidade** deve alcançar também quem é diferente, incômodo ou vulnerável."
+    },
+    {
+      "id": "I01",
+      "explanation": "Sonegar imposto por mentira fere a responsabilidade com a vida comum. Pode haver críticas justas ao uso do dinheiro público, mas elas não justificam fraude. A **honestidade civil** é parte da cidadania cristã."
+    },
+    {
+      "id": "I02",
+      "explanation": "Furar fila parece pequeno, mas revela desprezo por uma ordem justa. Quem passa à frente toma para si um direito que era de outro. O **respeito cotidiano** também forma a consciência social."
+    },
+    {
+      "id": "I03",
+      "explanation": "O trabalhador não é peça de uma máquina de lucro. Metas e promoções não podem cancelar descanso, segurança e dignidade. A **justiça no trabalho** mede a instituição pelo bem da pessoa."
+    },
+    {
+      "id": "I04",
+      "explanation": "A necessidade próxima conhecida não pode ser tratada como assunto de ninguém. Ninguém resolve tudo, mas muitos podem fazer algo proporcional. A **caridade concreta** começa onde o próximo real aparece."
+    },
+    {
+      "id": "I05",
+      "explanation": "Mentira pública destrói reputações e contamina decisões da comunidade. Não basta dizer que era só compartilhar. A **verdade social** exige cuidado com acusações, imagens e informações."
+    },
+    {
+      "id": "I06",
+      "explanation": "Associações legítimas dependem de presença real, não apenas de apoio verbal. Quando todos se retiram, poucos carregam o peso do comum. A **participação organizada** ajuda direitos e serviços a saírem do papel."
+    },
+    {
+      "id": "I07",
+      "explanation": "A velhice ou a fragilidade não autorizam apagar a pessoa. Cuidar não é tomar posse. A **dignidade do idoso** exige proteção, escuta e respeito aos seus direitos."
+    },
+    {
+      "id": "I08",
+      "explanation": "Um debate pode ser firme sem se tornar humilhação. Corrigir erro é diferente de destruir a pessoa que errou. A **verdade** precisa de caridade para não virar arma de desprezo."
+    },
+    {
+      "id": "I09",
+      "explanation": "A corrupção pequena educa a consciência para aceitar a grande. Presentes, favores e atalhos podem comprar tratamento injusto. A **conversão social** começa recusando vantagens indevidas concretas."
+    },
+    {
+      "id": "I10",
+      "explanation": "Serviço público não é patrimônio de quem ocupa cargo. Usar recursos comuns para aliados trai o bem comum. A **autoridade pública** deve servir necessidades reais, não fidelidades pessoais."
+    },
+    {
+      "id": "I11",
+      "explanation": "Diferenças religiosas não autorizam ridicularização nem coerção. Respeitar a pessoa não significa concordar com sua fé ou ausência de fé. A **tolerância cristã** permite convivência sem relativismo."
+    },
+    {
+      "id": "I12",
+      "explanation": "Moradia precária não pode ser tratada como paisagem normal. Há escolhas pessoais, mas também abandono e estruturas injustas. A **justiça social** olha a pessoa ferida e as condições que produziram a ferida."
+    },
+    {
+      "id": "I13",
+      "explanation": "Uma decisão escondida pode prejudicar um bairro inteiro. O que parece economia privada vira custo comum. A **responsabilidade social** começa quando reconhecemos o impacto das próprias escolhas."
+    },
+    {
+      "id": "I14",
+      "explanation": "O medo pode ser real e precisa ser levado a sério. Mas medo não deve virar silêncio definitivo diante do mal. A **prudência** procura caminho seguro, verdadeiro e eficaz para agir."
+    },
+    {
+      "id": "I15",
+      "explanation": "Promessa pública cria responsabilidade. Quem usa a palavra para conquistar confiança e depois esconde contas manipula a comunidade. A **verdade na palavra** sustenta a participação social."
+    },
+    {
+      "id": "N01",
+      "explanation": "Nem tudo pode ser reduzido a disputa de poder. Quando tudo vira política, o próximo concreto desaparece. O cristão reconhece a dimensão pública da vida, mas mantém Deus, a verdade e a **caridade** acima das ideologias."
+    },
+    {
+      "id": "N02",
+      "explanation": "Dizer 'nada é comigo' pode esconder omissão. Há responsabilidades próprias do Estado, mas também há deveres proporcionais de quem conhece o perigo. A **caridade social** não terceiriza tudo."
+    },
+    {
+      "id": "N03",
+      "explanation": "O fato de muitos fazerem algo não torna o ato justo. O pecado também cria costumes e ambientes. A **consciência cristã** não segue a multidão quando a multidão normaliza o erro."
+    },
+    {
+      "id": "N04",
+      "explanation": "A lei tem importância, mas legalidade não esgota moralidade. Uma prática pode estar permitida e ainda ferir a pessoa. A **justiça** pede olhar para a dignidade e o bem comum."
+    },
+    {
+      "id": "N05",
+      "explanation": "Opinião não é licença para acusar sem prova. A fala pública tem consequências reais sobre pessoas e comunidades. A **verdade** limita a opinião quando estão em jogo reputação, justiça e bem comum."
+    },
+    {
+      "id": "N06",
+      "explanation": "Tolerar não é aprovar tudo. Amar a pessoa não obriga a chamar toda escolha de boa. A **tolerância cristã** une acolhida, diálogo e fidelidade à verdade."
+    },
+    {
+      "id": "N07",
+      "explanation": "Respeito não é silêncio diante de risco ou mentira. Às vezes calar é abandonar quem precisa de proteção. A **palavra caridosa** corrige sem humilhar e enfrenta o erro sem desprezar a pessoa."
+    },
+    {
+      "id": "N08",
+      "explanation": "Uma causa boa não purifica meios maus. Mentira, manipulação e violência já carregam injustiça. A **caridade social** exige coerência entre o fim buscado e o caminho escolhido."
+    },
+    {
+      "id": "N09",
+      "explanation": "Nenhuma instituição vale mais que a pessoa ferida. Proteger imagem escondendo abuso é inverter a ordem moral. A **verdade e a justiça** são exigências da caridade, não ameaças a ela."
+    },
+    {
+      "id": "N10",
+      "explanation": "Ajudar pontualmente pode ser bom, mas não substitui justiça devida. Doação não compensa exploração. A **caridade verdadeira** socorre e também corrige aquilo que continua ferindo."
+    },
+    {
+      "id": "N11",
+      "explanation": "Justiça não é destruir quem errou. A vítima deve ser protegida e o culpado responsabilizado, mas vingança acrescenta novo mal. A **reparação proporcional** é diferente de linchamento."
+    },
+    {
+      "id": "N12",
+      "explanation": "Neutralidade pode ser prudente quando os fatos são incertos. Mas, diante de injustiça conhecida e possibilidade real de agir, ela pode virar covardia. A **prudência cristã** organiza a ação, não protege a omissão."
+    },
+    {
+      "id": "N13",
+      "explanation": "Nem toda escolha privada fica só na vida privada. Consumo, fala, silêncio e hábitos podem alimentar injustiças. A **vida social** mostra que nossas decisões participam de uma rede de consequências."
+    },
+    {
+      "id": "N14",
+      "explanation": "Poder não autoriza privilégio injusto. Cargo e influência aumentam o dever de servir e dar exemplo. A **autoridade** é pervertida quando vira licença para escapar das regras comuns."
+    },
+    {
+      "id": "N15",
+      "explanation": "A oração é essencial, mas não é desculpa para passividade. Quem reza de verdade se deixa converter e mover à caridade. A **fé viva** une oração, justiça e ação concreta."
+    },
+    {
+      "id": "G01",
+      "explanation": "Legal e justo não são sempre a mesma coisa. A lei deve ser respeitada, mas precisa ser lida à luz da dignidade e do bem comum. O **discernimento moral** pergunta também pela proporção e pelo fim da norma."
+    },
+    {
+      "id": "G02",
+      "explanation": "É possível criticar um cargo sem atacar a pessoa. O erro público deve ser apurado, mas insulto pessoal não serve à justiça. A **dignidade da pessoa** permanece mesmo quando seus atos são responsabilizados."
+    },
+    {
+      "id": "G03",
+      "explanation": "Acolher alguém não é aprovar tudo que essa pessoa faz. A tolerância cristã exige respeito concreto e verdade moral. O **discernimento** separa cuidado da pessoa e avaliação da conduta."
+    },
+    {
+      "id": "G04",
+      "explanation": "Discordar é parte de uma vida social madura. Humilhar é transformar a pessoa em alvo. A **caridade na verdade** permite argumentos firmes sem desprezo."
+    },
+    {
+      "id": "G05",
+      "explanation": "Prudência não é medo com nome bonito. Ela escolhe tempo, modo e caminho adequados para agir. A **omissão** começa quando a cautela vira desculpa para não enfrentar o mal."
+    },
+    {
+      "id": "G06",
+      "explanation": "Caridade não protege o erro. Amar alguém que se coloca em perigo pode exigir limite, correção e pedido de ajuda. A **conivência** se disfarça de bondade quando evita toda consequência."
+    },
+    {
+      "id": "G07",
+      "explanation": "Justiça busca verdade, reparação e proteção. Revanche busca humilhação e sofrimento do culpado. A **justiça cristã** não abandona a vítima nem desumaniza quem errou."
+    },
+    {
+      "id": "G08",
+      "explanation": "Cumprir deveres civis é parte da vida cristã. Mas nenhuma autoridade humana pode ocupar o lugar de Deus. A **idolatria política** começa quando poder, partido ou líder se tornam absolutos."
+    },
+    {
+      "id": "G09",
+      "explanation": "Consciência não é capricho pessoal. Ela precisa ser formada pela verdade, pelo bem e pela responsabilidade. A **consciência reta** não usa liberdade como desculpa para rejeitar todo limite."
+    },
+    {
+      "id": "G10",
+      "explanation": "Ajudar alguém não dá direito de dominar sua vida. Serviço verdadeiro levanta a pessoa e respeita sua liberdade. A **caridade** se corrompe quando compra dependência ou gratidão forçada."
+    },
+    {
+      "id": "G11",
+      "explanation": "Alguns males exigem mudança de regras e estruturas. Outros exigem conversão pessoal; muitas vezes exigem as duas coisas. A **doutrina cristã** não separa coração e sociedade como se fossem mundos isolados."
+    },
+    {
+      "id": "G12",
+      "explanation": "Unidade não é todo mundo ser igual em tudo. A comunhão cristã se organiza em torno da verdade e do amor. A **uniformidade forçada** pode sufocar dons legítimos e prejudicar a colaboração."
+    },
+    {
+      "id": "G13",
+      "explanation": "Autoridade existe para servir ao fim justo da comunidade. Quando usa a função para punir, calar ou controlar, vira abuso. A **autoridade legítima** protege o bem comum e respeita a pessoa."
+    },
+    {
+      "id": "G14",
+      "explanation": "Opinião pode ser rápida e superficial. Testemunho responsável nasce de verdade buscada, experiência honesta e coerência de vida. A **fala pública** deve considerar as pessoas atingidas por ela."
+    },
+    {
+      "id": "G15",
+      "explanation": "Paz não é esconder conflito a qualquer preço. Quando a injustiça continua, o silêncio pode ser acomodação. A **paz justa** une ordem, verdade, limite e proteção do vulnerável."
+    },
+    {
+      "id": "O01",
+      "explanation": "Pagar o devido é uma resposta concreta contra a esperteza desonesta. O cristão pode criticar injustiças públicas sem fraudar seus próprios deveres. A **honestidade** sustenta o bem comum."
+    },
+    {
+      "id": "O02",
+      "explanation": "Falar com caridade não é falar fraco. É dizer a verdade necessária com forma justa, respeito e intenção de corrigir. A **correção cristã** evita tanto a omissão quanto a humilhação."
+    },
+    {
+      "id": "O03",
+      "explanation": "Reparar o dano é mais que pedir desculpas. Quando o mal se espalhou, a correção deve alcançar o máximo possível do estrago causado. A **reparação** une arrependimento, verdade e justiça."
+    },
+    {
+      "id": "O04",
+      "explanation": "Proteger o vulnerável exige ação responsável, não exposição. Quem está frágil precisa de segurança, encaminhamento e cuidado. A **proteção cristã** defende a pessoa sem transformar sua dor em espetáculo."
+    },
+    {
+      "id": "O05",
+      "explanation": "Participar do comum é assumir uma parte possível da vida social. Nem todos farão a mesma coisa, mas a omissão generalizada enfraquece todos. A **participação responsável** transforma reclamação em serviço."
+    },
+    {
+      "id": "O06",
+      "explanation": "Verificar antes é ato de justiça. Uma informação falsa pode destruir reputações e decisões comunitárias. A **prudência na comunicação** impede que a pessoa colabore com mentira e dano."
+    },
+    {
+      "id": "O07",
+      "explanation": "Recusar privilégio injusto mostra que a justiça vale também quando nos custa. A regra justa protege quem tem mais necessidade. A **integridade** aparece quando rejeitamos a vantagem indevida oferecida a nós."
+    },
+    {
+      "id": "O08",
+      "explanation": "Denunciar com prudência não é espalhar acusação sem critério. É buscar prova, canal adequado e proteção das pessoas envolvidas. A **coragem cristã** enfrenta o mal sem abandonar a verdade."
+    },
+    {
+      "id": "O09",
+      "explanation": "Escutar antes de julgar não é desprezar uma denúncia. É procurar fatos com seriedade para proteger possíveis vítimas e evitar injustiça contra inocentes. O **discernimento** exige cuidado com pessoas e provas."
+    },
+    {
+      "id": "O10",
+      "explanation": "Servir sem dominar é ajudar respeitando liberdade, intimidade e responsabilidade do outro. A ajuda não deve virar controle. A **caridade discreta** socorre sem humilhar."
+    },
+    {
+      "id": "O11",
+      "explanation": "Corrigir a estrutura é necessário quando o problema se repete porque a regra ou rotina favorece o dano. Não basta punir o último envolvido. A **justiça institucional** muda condições que empurram para o mal."
+    },
+    {
+      "id": "O12",
+      "explanation": "Formar a consciência exige buscar verdade, doutrina, conselho e exame sincero. Sentir-se certo não basta. A **consciência formada** aprende a julgar diante de Deus e do bem real."
+    },
+    {
+      "id": "O13",
+      "explanation": "Orar e agir não são atitudes concorrentes. A oração verdadeira abre o coração para a caridade concreta. A **fé viva** se torna serviço, justiça possível e conversão."
+    },
+    {
+      "id": "O14",
+      "explanation": "Assumir consequência é reconhecer que escolhas erradas têm efeitos reais. A pessoa não se limita a sentir culpa; ela busca socorro, verdade e reparação. A **responsabilidade** é sinal de conversão concreta."
+    },
+    {
+      "id": "O15",
+      "explanation": "Construir paz justa não é fingir que nada aconteceu. A paz cristã enfrenta a verdade, põe limites e busca reparação possível. A **reconciliação** sem justiça vira silêncio imposto."
+    }
+  ]
+}

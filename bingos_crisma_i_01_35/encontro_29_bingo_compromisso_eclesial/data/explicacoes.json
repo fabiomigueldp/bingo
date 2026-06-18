@@ -1,0 +1,308 @@
+{
+  "title": "Carta de explicações rápidas — Bingo Compromisso eclesial",
+  "meeting": "Encontro 29 — Compromisso eclesial",
+  "source_calls": "data/chamadas.json",
+  "purpose": "Explicações breves para o condutor usar durante a chamada de cada carta.",
+  "entries": [
+    {
+      "id": "B01",
+      "explanation": "O centro da comunidade não é uma pessoa influente, mas **Cristo Bom Pastor**. Ele dá a vida pelas ovelhas e sustenta a Igreja apesar das limitações humanas. O compromisso eclesial nasce de segui-lo com fidelidade concreta."
+    },
+    {
+      "id": "B02",
+      "explanation": "O domingo não é apenas espaço livre na agenda. É o **Dia do Senhor**, memória semanal da Ressurreição. O cristão ordena descanso, família, oração e Missa a partir desse centro."
+    },
+    {
+      "id": "B03",
+      "explanation": "A Missa dominical está no **coração da vida da Igreja**. Sem a Eucaristia, o compromisso vira atividade solta ou sentimento religioso. Cristo reúne, alimenta e envia o seu povo."
+    },
+    {
+      "id": "B04",
+      "explanation": "A fé cristã não é vivida como isolamento voluntário. A **assembleia fiel** educa a perseverança, a escuta e a comunhão. Quando é possível reunir-se, abandonar a assembleia empobrece a vida cristã."
+    },
+    {
+      "id": "B05",
+      "explanation": "A paróquia é comunidade concreta, não balcão de cerimônias. Nela a fé é celebrada, ensinada e praticada. A **pertença paroquial** pede vínculo real, presença e responsabilidade."
+    },
+    {
+      "id": "B06",
+      "explanation": "A Igreja é **Corpo de Cristo**, não soma de preferências individuais. Cada membro tem dignidade e função, mas ninguém vive sozinho. O compromisso amadurece quando o dom de um serve ao bem de todos."
+    },
+    {
+      "id": "B07",
+      "explanation": "Todo dom recebido de Deus traz uma pergunta de serviço. O problema não é ter talento, mas usá-lo para controle, vaidade ou omissão. **Dons para serviço** edificam os irmãos."
+    },
+    {
+      "id": "B08",
+      "explanation": "A caridade cristã precisa alcançar os frágeis, doentes, pobres e enlutados. Não basta notar quem está presente; é preciso perceber quem desapareceu. A **caridade fraterna** torna a comunidade casa real."
+    },
+    {
+      "id": "B09",
+      "explanation": "Entusiasmo inicial não é o mesmo que **perseverança fiel**. O compromisso aparece quando a tarefa continua sem novidade e sem aplauso. A constância protege a comunidade da sobrecarga de poucos."
+    },
+    {
+      "id": "B10",
+      "explanation": "A Missa dominical é obrigação séria, não sugestão decorativa. Faltar deliberadamente sem motivo grave fere a vida com Deus e com a Igreja. A **obrigação grave** deve ser ensinada com firmeza e chamada ao retorno."
+    },
+    {
+      "id": "B11",
+      "explanation": "Comunhão não é ideia bonita nem simples simpatia. A **comunhão concreta** aparece em presença, colaboração, correção, oração e cuidado. Ela transforma a paróquia em lugar real de fé."
+    },
+    {
+      "id": "B12",
+      "explanation": "O cuidado pastoral existe para conduzir o povo a Cristo. O pastor humano não é dono da comunidade nem funcionário particular. O **cuidado pastoral** une escuta, doutrina, sacramentos e responsabilidade."
+    },
+    {
+      "id": "B13",
+      "explanation": "O Batismo não é lembrança antiga nem registro religioso. Pela **vocação batismal**, a pessoa pertence a Cristo e à Igreja. Essa pertença traz missão, direitos, deveres e chamado ao serviço."
+    },
+    {
+      "id": "B14",
+      "explanation": "A liturgia não é palco nem invenção de um grupo. Ela é ação da Igreja que celebra o Mistério de Cristo. A **vida litúrgica** pede reverência, ordem e fidelidade."
+    },
+    {
+      "id": "B15",
+      "explanation": "Os leigos não são espectadores da vida da Igreja. Eles participam da missão com dons, trabalho, testemunho e presença no mundo. A **missão dos leigos** transforma fé em responsabilidade concreta."
+    },
+    {
+      "id": "I01",
+      "explanation": "Aqui o domingo é absorvido por lucro e consumo. O erro está em tratar o **Dia do Senhor** como tempo disponível para qualquer prioridade. A resposta cristã procura proteger culto, descanso e dignidade das pessoas."
+    },
+    {
+      "id": "I02",
+      "explanation": "A Missa de ocasião aparece só quando há festa, emoção ou pressão familiar. Isso não substitui a **Eucaristia dominical**. A fé precisa de alimento fiel, não apenas de momentos especiais."
+    },
+    {
+      "id": "I03",
+      "explanation": "O sacramento isolado transforma um sinal sagrado em cerimônia social. A Igreja acolhe quem procura, mas não deve confirmar uma fachada. O sacramento chama a **pertença** e conversão."
+    },
+    {
+      "id": "I04",
+      "explanation": "O voluntário instável deixa peso para os outros. A caridade também precisa de organização, aviso e reparação. Assumir serviço na Igreja exige **constância responsável**."
+    },
+    {
+      "id": "I05",
+      "explanation": "A crítica sem presença pode apontar problemas reais, mas não assume responsabilidade. O critério cristão pede verdade, caminho adequado e colaboração. A **comunhão concreta** não se constrói de longe."
+    },
+    {
+      "id": "I06",
+      "explanation": "Reter um talento pode ser omissão quando há necessidade real e possibilidade concreta. Ninguém deve assumir tudo, mas todos devem perguntar como servir. O dom recebido pede **serviço proporcional**."
+    },
+    {
+      "id": "I07",
+      "explanation": "A crise revela se a comunidade é casa ou apenas endereço religioso. Diante de sofrimento real, a fé precisa virar caridade concreta. A **paróquia em crise** prova a pertença."
+    },
+    {
+      "id": "I08",
+      "explanation": "A escala abandonada parece pequena, mas gera desordem e sobrecarga. Na liturgia, responsabilidade simples também é caridade. **Avisar e substituir** são atos concretos de respeito."
+    },
+    {
+      "id": "I09",
+      "explanation": "Nem toda falta à Missa tem a mesma culpa. Trabalho necessário pode criar impedimento real, especialmente em serviços essenciais. O discernimento distingue **impossibilidade** de comodidade."
+    },
+    {
+      "id": "I10",
+      "explanation": "O doente sem visita mostra uma falha de memória comunitária. Quem não consegue ir à igreja não deve desaparecer da Igreja. A caridade pede **visita, contato e encaminhamento**."
+    },
+    {
+      "id": "I11",
+      "explanation": "O jovem sem lugar revela fechamento de espaços e falta de acompanhamento. A comunidade precisa abrir caminho sem improvisar responsabilidades. **Acolher** é orientar, formar e incluir com seriedade."
+    },
+    {
+      "id": "I12",
+      "explanation": "Conflitos existem em qualquer serviço real. O erro é espalhar queixa em vez de buscar correção adequada. A comunhão pede **verdade com caminho**, não murmuração."
+    },
+    {
+      "id": "I13",
+      "explanation": "A liturgia como palco desloca o centro do culto para a pessoa que aparece. Talento é bom quando ajuda a assembleia a rezar. O serviço litúrgico exige **sobriedade e obediência**."
+    },
+    {
+      "id": "I14",
+      "explanation": "Fé sem agenda costuma revelar prioridade fraca. A pessoa diz que valoriza a Igreja, mas não organiza tempo, transporte ou descanso. Compromisso real precisa de **decisão prática**."
+    },
+    {
+      "id": "I15",
+      "explanation": "O luto acompanhado mostra que a comunidade não termina na cerimônia. A dor pede presença discreta, oração e ajuda possível. A paróquia se torna casa quando pratica **caridade concreta**."
+    },
+    {
+      "id": "N01",
+      "explanation": "Missa quando der é desculpa que coloca Deus depois do humor e da conveniência. O preceito dominical educa a liberdade contra a instabilidade da vontade. A resposta é retomar a **fidelidade dominical**."
+    },
+    {
+      "id": "N02",
+      "explanation": "Fé sem Igreja separa Cristo do Corpo que Ele reúne. Parece autonomia, mas empobrece sacramentos, correção e comunhão. Seguir o **Bom Pastor** inclui pertencer ao seu povo."
+    },
+    {
+      "id": "N03",
+      "explanation": "Cliente religioso exige serviços sem assumir pertença. A paróquia deve atender com dignidade, mas não é loja espiritual. O caminho cristão passa de cobrança para **corresponsabilidade**."
+    },
+    {
+      "id": "N04",
+      "explanation": "Só se eu gostar faz do gosto pessoal a lei da participação. Preferências existem, mas não podem governar a fidelidade. O compromisso eclesial exige **perseverança madura**."
+    },
+    {
+      "id": "N05",
+      "explanation": "Presença sem entrega mantém aparência religiosa sem disponibilidade para servir. A fé celebrada deve formar caridade e responsabilidade. O cristão pergunta qual **serviço possível** pode assumir."
+    },
+    {
+      "id": "N06",
+      "explanation": "Crítica de arquibancada usa falhas como ocasião de ironia e distância. O erro real precisa de correção, não de exposição vazia. A crítica cristã busca **verdade, caminho e colaboração**."
+    },
+    {
+      "id": "N07",
+      "explanation": "Dízimo como sobra desliga dinheiro de gratidão e pertença. A contribuição deve respeitar a possibilidade real, mas não pode ser sempre resto sem importância. O dízimo é **corresponsabilidade**, não compra."
+    },
+    {
+      "id": "N08",
+      "explanation": "Sacramento de fachada usa sinais sagrados para aparência social. A Igreja acolhe quem procura, mas deve conduzir à verdade do sacramento. Não há sacramento cristão maduro sem **conversão e vínculo**."
+    },
+    {
+      "id": "N09",
+      "explanation": "Dom privatizado fecha talentos no ego. O esforço pessoal deve ser reconhecido, mas não elimina a gratidão a Deus. Todo dom pode perguntar pelo **serviço aos irmãos**."
+    },
+    {
+      "id": "N10",
+      "explanation": "Tempo absoluto trata a vida como posse sem dever diante de Deus. A liberdade cristã não é recusa de toda obrigação. O tempo amadurece quando é ordenado ao **culto e à caridade**."
+    },
+    {
+      "id": "N11",
+      "explanation": "Ferida como licença usa uma dor real para justificar ruptura total. A ferida deve ser reconhecida e cuidada, não transformada em abandono de Cristo. A resposta pede **cura, diálogo e perseverança**."
+    },
+    {
+      "id": "N12",
+      "explanation": "Pastor funcionário reduz o cuidado espiritual a serviço particular. O padre deve cuidar bem do povo, mas não está sob caprichos individuais. O pastor serve a Cristo e à **comunidade inteira**."
+    },
+    {
+      "id": "N13",
+      "explanation": "Caridade terceirizada empurra toda necessidade para outros. Encaminhar pode ser correto, mas não elimina a responsabilidade pessoal possível. A fé pede **resposta proporcional** diante do sofrimento."
+    },
+    {
+      "id": "N14",
+      "explanation": "Obrigação sem amor cria uma falsa oposição. Dever sem amor empobrece, mas amor sem compromisso se dissolve. A Missa dominical é **preceito vivo** e encontro com Cristo."
+    },
+    {
+      "id": "N15",
+      "explanation": "Juventude como álibi adia toda resposta para um futuro indefinido. Ninguém precisa assumir carga desproporcional, mas todos podem dar algum passo real. O compromisso nasce como **serviço possível**."
+    },
+    {
+      "id": "G01",
+      "explanation": "Obrigação e encontro precisam ser distinguidos sem serem separados. A Missa não é regra fria, mas também não é opção sentimental. O preceito protege o **encontro com Cristo**."
+    },
+    {
+      "id": "G02",
+      "explanation": "Falta e impedimento não são a mesma coisa. Doença, cuidado necessário e impossibilidade real mudam a avaliação moral. Preguiça deliberada exige **conversão e retorno**."
+    },
+    {
+      "id": "G03",
+      "explanation": "Comunidade e panelinha podem parecer iguais por fora. A comunhão verdadeira acolhe, forma e reparte responsabilidade. A panelinha fecha espaço e transforma serviço em **propriedade**."
+    },
+    {
+      "id": "G04",
+      "explanation": "Acolhida e consumo precisam ser distinguidos. A Igreja deve receber bem quem chega, mas não existe para satisfazer cada preferência. Acolher é conduzir à **pertença**, não vender experiência."
+    },
+    {
+      "id": "G05",
+      "explanation": "Serviço e ativismo se separam quando a atividade perde oração e caridade. A Igreja não depende da autossuficiência de uma pessoa. O serviço cristão permanece unido a **Cristo, a videira**."
+    },
+    {
+      "id": "G06",
+      "explanation": "Crítica e murmuração não são iguais. A correção busca fatos, pessoa certa e bem comum. A murmuração espalha suspeita e destrói a **confiança comunitária**."
+    },
+    {
+      "id": "G07",
+      "explanation": "Pastor e ídolo devem ser distinguidos. É justo amar e respeitar bons pastores, mas a fé não pode depender de personalidade. O centro permanece em **Cristo Bom Pastor**."
+    },
+    {
+      "id": "G08",
+      "explanation": "Carisma e vaidade se distinguem pela finalidade. O carisma edifica o Corpo de Cristo; a vaidade busca elogio, posse e comparação. O dom precisa ser purificado pelo **serviço humilde**."
+    },
+    {
+      "id": "G09",
+      "explanation": "Dízimo e compra não se confundem. A contribuição sustenta a comunidade, mas não compra poder, privilégio ou tratamento especial. O dízimo cristão é **oferta livre**."
+    },
+    {
+      "id": "G10",
+      "explanation": "Pertencer não significa agradar a todos nem ser aprovado sempre. A comunidade madura acolhe, corrige e suporta diferenças. A pertença cristã precisa de **verdade e perseverança**."
+    },
+    {
+      "id": "G11",
+      "explanation": "Prudência e fuga podem usar a mesma linguagem. Prudência busca proteger o bem diante de risco real; fuga evita desconforto e responsabilidade. O discernimento pede **conversa e clareza**."
+    },
+    {
+      "id": "G12",
+      "explanation": "Ferida e ruptura não são a mesma coisa. A ferida pode exigir cuidado, justiça e tempo, mas não precisa destruir a relação com Cristo. O caminho cristão procura **cura sem abandono**."
+    },
+    {
+      "id": "G13",
+      "explanation": "Liturgia e gosto precisam ser distinguidos. Preferências existem, mas a Missa não recebe valor do gosto de quem participa. A liturgia pertence à **Igreja que celebra Cristo**."
+    },
+    {
+      "id": "G14",
+      "explanation": "Obediência cristã não é omissão diante do erro. Obedecer inclui escutar a autoridade legítima e buscar o caminho correto para corrigir injustiças. A responsabilidade protege **pessoas e comunhão**."
+    },
+    {
+      "id": "G15",
+      "explanation": "Descanso e comodismo não são iguais. O repouso no domingo é bom e necessário, mas não deve apagar Deus e a assembleia. O Dia do Senhor ordena **culto, descanso e caridade**."
+    },
+    {
+      "id": "O01",
+      "explanation": "Firmar o domingo transforma intenção em prática. Escolher horário, organizar transporte e ajustar compromissos protege a Missa dominical. A fidelidade cresce por **decisões repetidas**."
+    },
+    {
+      "id": "O02",
+      "explanation": "Chegar e permanecer expressa respeito pela liturgia. A Missa não é uma atividade que se recorta conforme conveniência. Participar bem pede **presença inteira**."
+    },
+    {
+      "id": "O03",
+      "explanation": "Conhecer o pastor ajuda a sair do anonimato religioso. Não é bajulação, mas vínculo pastoral concreto. A paróquia tem cuidado real quando há **rosto, escuta e orientação**."
+    },
+    {
+      "id": "O04",
+      "explanation": "Entrar em serviço exige passo concreto e proporcional. Não basta dizer que quer ajudar um dia. O compromisso começa quando a pessoa assume uma tarefa possível com **formação e constância**."
+    },
+    {
+      "id": "O05",
+      "explanation": "Assumir escala real é escolher responsabilidade possível. Ninguém controla todos os imprevistos, mas pode avisar cedo e ajudar na substituição. A ordem também é **caridade comunitária**."
+    },
+    {
+      "id": "O06",
+      "explanation": "Rezar pela paróquia educa a pertença. A comunidade concreta entra diante de Deus com seus pastores, doentes, famílias e necessidades. Essa oração deve abrir caminho para **serviço real**."
+    },
+    {
+      "id": "O07",
+      "explanation": "Contribuir com dízimo é participar da sustentação comum conforme possibilidade. Não é compra de privilégio nem cobrança forçada. É gesto de **gratidão e corresponsabilidade**."
+    },
+    {
+      "id": "O08",
+      "explanation": "Servir sem aplauso purifica a intenção. Muitas tarefas essenciais não aparecem, mas sustentam a vida da comunidade. Esse serviço imita Cristo, que veio para **servir**."
+    },
+    {
+      "id": "O09",
+      "explanation": "Reparar ausência começa por reconhecer a falha sem desculpa vazia. Depois é preciso corrigir o prejuízo possível e ajustar a disponibilidade. A reparação cristã une **verdade e retorno**."
+    },
+    {
+      "id": "O10",
+      "explanation": "Conversar antes de sair protege a comunhão e a verdade. Nem todo conflito exige ruptura imediata, nem toda dor deve virar murmuração. O diálogo cristão busca **cura, justiça e discernimento**."
+    },
+    {
+      "id": "O11",
+      "explanation": "Acolher quem chega é gesto simples e sério. Cumprimentar, orientar e apresentar alguém pode abrir caminho de pertença. Acolhida cristã é **atenção discreta**, não pressão."
+    },
+    {
+      "id": "O12",
+      "explanation": "Formar-se na fé impede que o serviço dependa só de opinião. Boa vontade é importante, mas precisa ser educada pela doutrina da Igreja. Quem serve deve buscar **clareza e fidelidade**."
+    },
+    {
+      "id": "O13",
+      "explanation": "Levar pedido concreto transforma reclamação em responsabilidade. A proposta com dados, nomes e colaboração ajuda a comunidade a agir. A crítica cristã busca **bem comum**, não desabafo."
+    },
+    {
+      "id": "O14",
+      "explanation": "Respeitar a liturgia é servir à fé da Igreja. Criatividade tem lugares próprios, mas não pode alterar o rito por conta própria. A obediência litúrgica protege o **culto de Deus**."
+    },
+    {
+      "id": "O15",
+      "explanation": "Acompanhar sofredores exige presença proporcional e discreta. Não se promete o que não se pode cumprir, nem se abandona quem sofre. A caridade concreta une **escuta, oração e encaminhamento**."
+    }
+  ]
+}

@@ -1,0 +1,1130 @@
+{
+  "title": "Bingo — Doutrina Social da Igreja",
+  "meeting": "Encontro 06 — Doutrina Social da Igreja",
+  "meeting_label": "Encontro 06",
+  "output_slug": "bingo_doutrina_social_da_igreja",
+  "core_message": "A Doutrina Social da Igreja ilumina trabalho, economia, política e cultura para que Deus seja servido acima da riqueza e a vida social se ordene à dignidade da pessoa e ao bem comum.",
+  "source_meeting_markdown": "projects/catequese/material_didatico/output/markdown/encontro_06.md",
+  "scripture": [
+    "Mt 6,24",
+    "Gn 1,27",
+    "Mt 25,35-40",
+    "Lc 10,25-37",
+    "Tg 5,4",
+    "At 2,44-45",
+    "1Cor 14,33.40",
+    "Pr 31,8-9",
+    "Mq 6,8",
+    "Is 58,6-7"
+  ],
+  "catechism": [
+    "CEC 2419",
+    "CEC 2420",
+    "CEC 2423",
+    "CEC 2425",
+    "CEC 2426",
+    "CEC 2428",
+    "CEC 2434",
+    "CEC 2442"
+  ],
+  "card_model": {
+    "total_terms": 75,
+    "columns": 5,
+    "terms_per_column": 15,
+    "grid": "5x5",
+    "center": {
+      "label": "LIVRE / Mt 6,24",
+      "fixed": true,
+      "called": false
+    },
+    "recommended_win_condition": "duas_linhas"
+  },
+  "columns": [
+    {
+      "key": "B",
+      "title": "Base moral",
+      "function": "Fundamentos bíblicos e doutrinais para ler o tema.",
+      "short_function": "fundamento cristão do tema"
+    },
+    {
+      "key": "I",
+      "title": "Situações concretas",
+      "function": "Formas reais em que o tema aparece na vida concreta, em situações inteligíveis para a turma.",
+      "short_function": "situações concretas do tema"
+    },
+    {
+      "key": "N",
+      "title": "Narrativas falsas",
+      "function": "Desculpas, autoenganos e frases que desviam do bem.",
+      "short_function": "desculpas que normalizam o erro"
+    },
+    {
+      "key": "G",
+      "title": "Discernimentos",
+      "function": "Distinções morais que evitam respostas simplistas.",
+      "short_function": "distinções para discernir"
+    },
+    {
+      "key": "O",
+      "title": "Orientações de resposta",
+      "function": "Ações concretas, prudentes e proporcionais diante do problema.",
+      "short_function": "respostas proporcionais e prudentes"
+    }
+  ],
+  "terms": [
+    {
+      "id": "B01",
+      "column": "B",
+      "label": "Senhorio de Deus",
+      "definition": "Deus deve ocupar o primeiro lugar nas escolhas pessoais e sociais; quando a riqueza manda, a pessoa e o bem comum são rebaixados.",
+      "anchors": [
+        "Mt 6,24",
+        "CEC 2426"
+      ],
+      "tags": [
+        "riqueza",
+        "ordem moral"
+      ]
+    },
+    {
+      "id": "B02",
+      "column": "B",
+      "label": "Dignidade humana",
+      "definition": "Toda pessoa tem valor próprio diante de Deus, antes de sua utilidade econômica, força produtiva, renda, origem ou posição social.",
+      "anchors": [
+        "Gn 1,27",
+        "CEC 2419"
+      ],
+      "tags": [
+        "pessoa",
+        "dignidade"
+      ]
+    },
+    {
+      "id": "B03",
+      "column": "B",
+      "label": "Bem comum",
+      "definition": "O bem comum é o conjunto de condições sociais que permite às pessoas e comunidades viverem com dignidade e alcançarem seu fim humano e espiritual.",
+      "anchors": [
+        "CEC 2420",
+        "CEC 2442"
+      ],
+      "tags": [
+        "sociedade",
+        "justiça"
+      ]
+    },
+    {
+      "id": "B04",
+      "column": "B",
+      "label": "Destino dos bens",
+      "definition": "Os bens da criação devem servir a todos; a propriedade e a economia não podem fechar o acesso ao necessário para uma vida digna.",
+      "anchors": [
+        "At 2,44-45",
+        "CEC 2426"
+      ],
+      "tags": [
+        "bens",
+        "partilha"
+      ]
+    },
+    {
+      "id": "B05",
+      "column": "B",
+      "label": "Trabalho para o homem",
+      "definition": "O trabalho existe para realizar a pessoa, sustentar a família e servir à comunidade; a pessoa não pode ser tratada como peça descartável da produção.",
+      "anchors": [
+        "CEC 2428"
+      ],
+      "tags": [
+        "trabalho",
+        "pessoa"
+      ]
+    },
+    {
+      "id": "B06",
+      "column": "B",
+      "label": "Salário justo",
+      "definition": "A remuneração deve reconhecer o trabalho e permitir vida digna; acordo formal não torna justo um pagamento que explora necessidade ou fraqueza.",
+      "anchors": [
+        "CEC 2434",
+        "Tg 5,4"
+      ],
+      "tags": [
+        "salário",
+        "justiça"
+      ]
+    },
+    {
+      "id": "B07",
+      "column": "B",
+      "label": "Justiça social",
+      "definition": "A vida econômica deve respeitar a ordem moral, corrigir injustiças graves e proteger necessidades humanas que não podem ser abandonadas ao interesse privado.",
+      "anchors": [
+        "CEC 2425",
+        "CEC 2426"
+      ],
+      "tags": [
+        "economia",
+        "justiça"
+      ]
+    },
+    {
+      "id": "B08",
+      "column": "B",
+      "label": "Solidariedade",
+      "definition": "Solidariedade é reconhecer o outro como próximo e assumir responsabilidade real pelo bem dele, especialmente quando a indiferença seria cômoda.",
+      "anchors": [
+        "Lc 10,25-37",
+        "CEC 2442"
+      ],
+      "tags": [
+        "próximo",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "B09",
+      "column": "B",
+      "label": "Subsidiariedade",
+      "definition": "As decisões devem ser tomadas no nível mais próximo possível dos interessados, sem sufocar famílias, comunidades, associações e iniciativas responsáveis.",
+      "anchors": [
+        "CEC 2442"
+      ],
+      "tags": [
+        "autoridade",
+        "comunidade"
+      ]
+    },
+    {
+      "id": "B10",
+      "column": "B",
+      "label": "Opção pelos pobres",
+      "definition": "A atenção preferencial aos pobres não é inveja social nem ideologia; é exigência evangélica diante de quem sofre privação, abandono ou exclusão.",
+      "anchors": [
+        "Mt 25,35-40",
+        "Is 58,6-7"
+      ],
+      "tags": [
+        "pobres",
+        "Evangelho"
+      ]
+    },
+    {
+      "id": "B11",
+      "column": "B",
+      "label": "Juízo moral da Igreja",
+      "definition": "A Igreja pode julgar moralmente questões sociais e econômicas quando estão em jogo direitos fundamentais da pessoa ou a salvação das almas.",
+      "anchors": [
+        "CEC 2420"
+      ],
+      "tags": [
+        "Igreja",
+        "moral"
+      ]
+    },
+    {
+      "id": "B12",
+      "column": "B",
+      "label": "Leigos na vida pública",
+      "definition": "Cabe especialmente aos fiéis leigos agir nas realidades sociais e políticas com consciência cristã, buscando paz, justiça e bem comum.",
+      "anchors": [
+        "CEC 2442"
+      ],
+      "tags": [
+        "leigos",
+        "vida pública"
+      ]
+    },
+    {
+      "id": "B13",
+      "column": "B",
+      "label": "Ordem moral da economia",
+      "definition": "A economia tem métodos próprios, mas não é moralmente neutra; lucro, produção e mercado devem permanecer dentro da justiça e do serviço à pessoa.",
+      "anchors": [
+        "CEC 2426"
+      ],
+      "tags": [
+        "economia",
+        "moral"
+      ]
+    },
+    {
+      "id": "B14",
+      "column": "B",
+      "label": "Rejeição das ideologias",
+      "definition": "A Igreja rejeita tanto projetos totalitários e ateus quanto o individualismo que submete tudo à lei do mercado.",
+      "anchors": [
+        "CEC 2425"
+      ],
+      "tags": [
+        "ideologia",
+        "discernimento"
+      ]
+    },
+    {
+      "id": "B15",
+      "column": "B",
+      "label": "Paz e justiça",
+      "definition": "A paz social verdadeira não nasce da omissão diante da injustiça, mas de relações ordenadas pela verdade, pela justiça e pela caridade.",
+      "anchors": [
+        "Mq 6,8",
+        "1Cor 14,33.40"
+      ],
+      "tags": [
+        "paz",
+        "justiça"
+      ]
+    },
+    {
+      "id": "I01",
+      "column": "I",
+      "label": "Remédio inacessível",
+      "definition": "Uma necessidade vital fica fora do alcance de uma família porque preço, renda ou abandono social impedem acesso ao cuidado necessário.",
+      "anchors": [
+        "B03",
+        "B10",
+        "CEC 2426"
+      ],
+      "tags": [
+        "saúde",
+        "pobreza"
+      ]
+    },
+    {
+      "id": "I02",
+      "column": "I",
+      "label": "Salário retido",
+      "definition": "O trabalhador cumpre sua parte, mas o pagamento é atrasado, reduzido ou condicionado por conveniência de quem tem poder econômico.",
+      "anchors": [
+        "B06",
+        "Tg 5,4",
+        "CEC 2434"
+      ],
+      "tags": [
+        "salário",
+        "exploração"
+      ]
+    },
+    {
+      "id": "I03",
+      "column": "I",
+      "label": "Jornada esmagadora",
+      "definition": "O ritmo de trabalho invade descanso, família e saúde, transformando a pessoa em instrumento de resultado.",
+      "anchors": [
+        "B05",
+        "CEC 2428"
+      ],
+      "tags": [
+        "trabalho",
+        "descanso"
+      ]
+    },
+    {
+      "id": "I04",
+      "column": "I",
+      "label": "Descarte de idosos",
+      "definition": "Pessoas idosas são tratadas como peso financeiro ou incômodo familiar quando já não produzem ou exigem cuidado constante.",
+      "anchors": [
+        "B02",
+        "Mt 25,35-40"
+      ],
+      "tags": [
+        "idosos",
+        "dignidade"
+      ]
+    },
+    {
+      "id": "I05",
+      "column": "I",
+      "label": "Moradia precária",
+      "definition": "Famílias vivem sem segurança, saneamento ou estabilidade, enquanto sua situação é tratada como falha individual sem olhar para responsabilidades sociais.",
+      "anchors": [
+        "B03",
+        "B10",
+        "Is 58,6-7"
+      ],
+      "tags": [
+        "moradia",
+        "bem comum"
+      ]
+    },
+    {
+      "id": "I06",
+      "column": "I",
+      "label": "Compra por impulso",
+      "definition": "A pessoa passa a comprar para preencher vazio, status ou ansiedade, mesmo comprometendo necessidades reais e responsabilidades familiares.",
+      "anchors": [
+        "Mt 6,24",
+        "B01"
+      ],
+      "tags": [
+        "consumo",
+        "riqueza"
+      ]
+    },
+    {
+      "id": "I07",
+      "column": "I",
+      "label": "Corrupção comum",
+      "definition": "Pequenos favores, propinas e jeitinhos são aceitos como normais, corroendo confiança pública e prejudicando quem depende de serviços justos.",
+      "anchors": [
+        "B03",
+        "B15",
+        "Mq 6,8"
+      ],
+      "tags": [
+        "corrupção",
+        "vida pública"
+      ]
+    },
+    {
+      "id": "I08",
+      "column": "I",
+      "label": "Lucro sem limite",
+      "definition": "Uma decisão empresarial aumenta ganho imediato, mas transfere custo humano para trabalhadores, consumidores, famílias ou ambiente social.",
+      "anchors": [
+        "B13",
+        "CEC 2426"
+      ],
+      "tags": [
+        "lucro",
+        "empresa"
+      ]
+    },
+    {
+      "id": "I09",
+      "column": "I",
+      "label": "Pobreza invisível",
+      "definition": "A miséria perto de casa é ignorada porque se tornou paisagem, estatística ou incômodo que ninguém quer enxergar.",
+      "anchors": [
+        "B08",
+        "B10",
+        "Lc 10,25-37"
+      ],
+      "tags": [
+        "pobreza",
+        "indiferença"
+      ]
+    },
+    {
+      "id": "I10",
+      "column": "I",
+      "label": "Voto vendido",
+      "definition": "A escolha política é trocada por favor, dinheiro ou promessa privada, enfraquecendo o bem comum e a responsabilidade pública.",
+      "anchors": [
+        "B12",
+        "B03",
+        "CEC 2442"
+      ],
+      "tags": [
+        "política",
+        "bem comum"
+      ]
+    },
+    {
+      "id": "I11",
+      "column": "I",
+      "label": "Dívida abusiva",
+      "definition": "Uma família entra em empréstimos com juros e condições que exploram sua urgência, empurrando-a para dependência e perda de liberdade.",
+      "anchors": [
+        "B07",
+        "CEC 2425"
+      ],
+      "tags": [
+        "dívida",
+        "injustiça"
+      ]
+    },
+    {
+      "id": "I12",
+      "column": "I",
+      "label": "Trabalho informal explorado",
+      "definition": "A informalidade é usada para negar segurança, descanso, pagamento justo ou responsabilidade por acidentes e adoecimento.",
+      "anchors": [
+        "B05",
+        "B06",
+        "CEC 2428"
+      ],
+      "tags": [
+        "trabalho",
+        "precarização"
+      ]
+    },
+    {
+      "id": "I13",
+      "column": "I",
+      "label": "Fila dos vulneráveis",
+      "definition": "Quem mais precisa de serviço público enfrenta demora, humilhação ou abandono, enquanto quem tem influência encontra atalhos.",
+      "anchors": [
+        "B03",
+        "Pr 31,8-9"
+      ],
+      "tags": [
+        "vulneráveis",
+        "serviço público"
+      ]
+    },
+    {
+      "id": "I14",
+      "column": "I",
+      "label": "Terceirização da culpa",
+      "definition": "Diante de uma injustiça social, cada responsável empurra o problema para outro nível e ninguém assume a parte que lhe cabe.",
+      "anchors": [
+        "B09",
+        "B12",
+        "CEC 2442"
+      ],
+      "tags": [
+        "responsabilidade",
+        "omissão"
+      ]
+    },
+    {
+      "id": "I15",
+      "column": "I",
+      "label": "Riqueza como senhor",
+      "definition": "Dinheiro, status e patrimônio passam a orientar decisões, afetos e alianças mais do que Deus, justiça e consciência.",
+      "anchors": [
+        "Mt 6,24",
+        "B01"
+      ],
+      "tags": [
+        "riqueza",
+        "idolatria"
+      ]
+    },
+    {
+      "id": "N01",
+      "column": "N",
+      "label": "Mercado resolve tudo",
+      "definition": "Narrativa que transforma a lei do mercado em critério absoluto, ignorando necessidades humanas que não geram lucro.",
+      "anchors": [
+        "CEC 2425",
+        "B07"
+      ],
+      "tags": [
+        "mercado",
+        "ideologia"
+      ]
+    },
+    {
+      "id": "N02",
+      "column": "N",
+      "label": "Estado resolve tudo",
+      "definition": "Narrativa que espera de uma autoridade central a solução completa da vida social, sufocando responsabilidades pessoais e comunitárias.",
+      "anchors": [
+        "CEC 2425",
+        "B09"
+      ],
+      "tags": [
+        "estatismo",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "N03",
+      "column": "N",
+      "label": "Política não é fé",
+      "definition": "Desculpa que separa a fé da vida pública para não submeter escolhas sociais, econômicas e políticas ao Evangelho.",
+      "anchors": [
+        "CEC 2420",
+        "CEC 2442"
+      ],
+      "tags": [
+        "fé",
+        "vida pública"
+      ]
+    },
+    {
+      "id": "N04",
+      "column": "N",
+      "label": "Pobre é culpado",
+      "definition": "Narrativa que explica toda pobreza como preguiça ou falha individual, apagando injustiças, feridas, responsabilidades e dever de proximidade.",
+      "anchors": [
+        "B10",
+        "Lc 10,25-37"
+      ],
+      "tags": [
+        "pobreza",
+        "julgamento"
+      ]
+    },
+    {
+      "id": "N05",
+      "column": "N",
+      "label": "Lucro é inocente",
+      "definition": "Autoengano que trata todo ganho como moralmente neutro, mesmo quando nasce de exploração, engano ou dano social.",
+      "anchors": [
+        "B13",
+        "CEC 2426"
+      ],
+      "tags": [
+        "lucro",
+        "moral"
+      ]
+    },
+    {
+      "id": "N06",
+      "column": "N",
+      "label": "Acordo basta",
+      "definition": "Desculpa que considera justo qualquer contrato assinado, mesmo quando necessidade, medo ou desigualdade tornam a escolha ferida.",
+      "anchors": [
+        "CEC 2434",
+        "B06"
+      ],
+      "tags": [
+        "contrato",
+        "salário"
+      ]
+    },
+    {
+      "id": "N07",
+      "column": "N",
+      "label": "Cada um por si",
+      "definition": "Narrativa individualista que transforma liberdade em indiferença e nega responsabilidade concreta pelo próximo e pelo bem comum.",
+      "anchors": [
+        "B08",
+        "B03"
+      ],
+      "tags": [
+        "individualismo",
+        "solidariedade"
+      ]
+    },
+    {
+      "id": "N08",
+      "column": "N",
+      "label": "Todo mundo faz",
+      "definition": "Desculpa que normaliza corrupção, exploração ou consumo irresponsável porque a prática se tornou comum.",
+      "anchors": [
+        "Mq 6,8",
+        "B15"
+      ],
+      "tags": [
+        "normalização",
+        "corrupção"
+      ]
+    },
+    {
+      "id": "N09",
+      "column": "N",
+      "label": "Caridade substitui justiça",
+      "definition": "Erro que usa ajuda pontual para evitar mudança de práticas injustas, como se esmola apagasse exploração.",
+      "anchors": [
+        "B07",
+        "B08",
+        "CEC 2426"
+      ],
+      "tags": [
+        "caridade",
+        "justiça"
+      ]
+    },
+    {
+      "id": "N10",
+      "column": "N",
+      "label": "Justiça sem caridade",
+      "definition": "Erro que busca corrigir injustiças com ódio, humilhação ou vingança, perdendo a dignidade da pessoa e a verdade do Evangelho.",
+      "anchors": [
+        "B15",
+        "Mt 25,35-40"
+      ],
+      "tags": [
+        "justiça",
+        "caridade"
+      ]
+    },
+    {
+      "id": "N11",
+      "column": "N",
+      "label": "Neutralidade cômoda",
+      "definition": "Autoengano de quem se declara neutro para não se comprometer quando a omissão favorece o forte contra o fraco.",
+      "anchors": [
+        "Pr 31,8-9",
+        "B12"
+      ],
+      "tags": [
+        "omissão",
+        "prudência"
+      ]
+    },
+    {
+      "id": "N12",
+      "column": "N",
+      "label": "Riqueza é bênção moral",
+      "definition": "Narrativa que confunde prosperidade material com aprovação de Deus e pobreza com fracasso espiritual ou moral.",
+      "anchors": [
+        "Mt 6,24",
+        "B01"
+      ],
+      "tags": [
+        "riqueza",
+        "prosperidade"
+      ]
+    },
+    {
+      "id": "N13",
+      "column": "N",
+      "label": "Miséria inevitável",
+      "definition": "Narrativa fatalista que trata a pobreza grave como destino imutável, dispensando conversão, justiça e ação responsável.",
+      "anchors": [
+        "B10",
+        "B12"
+      ],
+      "tags": [
+        "fatalismo",
+        "pobreza"
+      ]
+    },
+    {
+      "id": "N14",
+      "column": "N",
+      "label": "Ideologia de estimação",
+      "definition": "Erro de submeter a fé a um lado político ou econômico, usando a Igreja para confirmar preferências próprias.",
+      "anchors": [
+        "CEC 2423",
+        "B14"
+      ],
+      "tags": [
+        "ideologia",
+        "fé"
+      ]
+    },
+    {
+      "id": "N15",
+      "column": "N",
+      "label": "Sucesso acima de tudo",
+      "definition": "Autoengano que sacrifica família, descanso, honestidade e Deus em nome de carreira, dinheiro ou reconhecimento.",
+      "anchors": [
+        "Mt 6,24",
+        "B05"
+      ],
+      "tags": [
+        "sucesso",
+        "idolatria"
+      ]
+    },
+    {
+      "id": "G01",
+      "column": "G",
+      "label": "Pessoa e função",
+      "definition": "É preciso distinguir a dignidade da pessoa de seu cargo, produtividade, renda ou utilidade social.",
+      "anchors": [
+        "B02",
+        "B05"
+      ],
+      "tags": [
+        "dignidade",
+        "trabalho"
+      ]
+    },
+    {
+      "id": "G02",
+      "column": "G",
+      "label": "Lucro e exploração",
+      "definition": "O lucro pode ser legítimo, mas se torna injusto quando nasce de salário negado, risco transferido ou dano ao bem comum.",
+      "anchors": [
+        "B13",
+        "B06"
+      ],
+      "tags": [
+        "lucro",
+        "justiça"
+      ]
+    },
+    {
+      "id": "G03",
+      "column": "G",
+      "label": "Mercado e moral",
+      "definition": "O mercado organiza trocas, mas não decide sozinho o que é justo, humano ou digno diante de Deus.",
+      "anchors": [
+        "CEC 2425",
+        "B07"
+      ],
+      "tags": [
+        "mercado",
+        "moral"
+      ]
+    },
+    {
+      "id": "G04",
+      "column": "G",
+      "label": "Estado e sociedade",
+      "definition": "A autoridade pública tem deveres reais, mas não deve substituir toda iniciativa familiar, comunitária e associativa responsável.",
+      "anchors": [
+        "B09",
+        "CEC 2442"
+      ],
+      "tags": [
+        "estado",
+        "subsidiariedade"
+      ]
+    },
+    {
+      "id": "G05",
+      "column": "G",
+      "label": "Caridade e justiça",
+      "definition": "Caridade e justiça não competem: a caridade socorre a pessoa concreta e também exige corrigir práticas injustas.",
+      "anchors": [
+        "B08",
+        "B07"
+      ],
+      "tags": [
+        "caridade",
+        "justiça"
+      ]
+    },
+    {
+      "id": "G06",
+      "column": "G",
+      "label": "Ajuda e dependência",
+      "definition": "A ajuda verdadeira ampara sem dominar, fortalece sem humilhar e evita transformar vulnerabilidade em submissão permanente.",
+      "anchors": [
+        "B10",
+        "B09"
+      ],
+      "tags": [
+        "ajuda",
+        "dependência"
+      ]
+    },
+    {
+      "id": "G07",
+      "column": "G",
+      "label": "Prudência e omissão",
+      "definition": "Prudência busca o modo adequado de agir; omissão usa cautela como desculpa para não enfrentar o mal possível de ser enfrentado.",
+      "anchors": [
+        "B12",
+        "Pr 31,8-9"
+      ],
+      "tags": [
+        "prudência",
+        "omissão"
+      ]
+    },
+    {
+      "id": "G08",
+      "column": "G",
+      "label": "Partido e doutrina",
+      "definition": "A Doutrina Social orienta a consciência cristã, mas não se confunde com adesão automática a partido, grupo ou ideologia.",
+      "anchors": [
+        "CEC 2423",
+        "B14"
+      ],
+      "tags": [
+        "política",
+        "doutrina"
+      ]
+    },
+    {
+      "id": "G09",
+      "column": "G",
+      "label": "Pobreza e culpa",
+      "definition": "É injusto negar responsabilidade pessoal, mas também é falso explicar a pobreza apenas por culpa individual.",
+      "anchors": [
+        "B10",
+        "N04"
+      ],
+      "tags": [
+        "pobreza",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "G10",
+      "column": "G",
+      "label": "Direito e privilégio",
+      "definition": "Direito protege o que é devido à dignidade e ao bem comum; privilégio fura a justiça para favorecer alguns.",
+      "anchors": [
+        "B03",
+        "I13"
+      ],
+      "tags": [
+        "direito",
+        "privilégio"
+      ]
+    },
+    {
+      "id": "G11",
+      "column": "G",
+      "label": "Autoridade e abuso",
+      "definition": "Autoridade legítima serve ao bem comum; abuso usa poder público, econômico ou espiritual para dominar e obter vantagem.",
+      "anchors": [
+        "B03",
+        "B15"
+      ],
+      "tags": [
+        "autoridade",
+        "abuso"
+      ]
+    },
+    {
+      "id": "G12",
+      "column": "G",
+      "label": "Propriedade e destino",
+      "definition": "A propriedade tem valor e responsabilidade, mas deve permanecer aberta ao destino universal dos bens e às necessidades graves.",
+      "anchors": [
+        "B04",
+        "CEC 2426"
+      ],
+      "tags": [
+        "propriedade",
+        "bens"
+      ]
+    },
+    {
+      "id": "G13",
+      "column": "G",
+      "label": "Necessidade e desejo",
+      "definition": "Nem todo desejo de consumo é necessidade; discernir isso impede que a riqueza governe escolhas e responsabilidades.",
+      "anchors": [
+        "Mt 6,24",
+        "I06"
+      ],
+      "tags": [
+        "consumo",
+        "necessidade"
+      ]
+    },
+    {
+      "id": "G14",
+      "column": "G",
+      "label": "Conflito e inimigo",
+      "definition": "Conflitos sociais podem existir, mas o cristão não transforma o adversário em objeto de ódio ou destruição.",
+      "anchors": [
+        "B15",
+        "N10"
+      ],
+      "tags": [
+        "conflito",
+        "caridade"
+      ]
+    },
+    {
+      "id": "G15",
+      "column": "G",
+      "label": "Vocação e carreira",
+      "definition": "A carreira é parte da vida, não seu senhor; a vocação cristã ordena trabalho, família, serviço, descanso e fidelidade a Deus.",
+      "anchors": [
+        "B05",
+        "N15"
+      ],
+      "tags": [
+        "vocação",
+        "trabalho"
+      ]
+    },
+    {
+      "id": "O01",
+      "column": "O",
+      "label": "Pagar o devido",
+      "definition": "Reconhecer e entregar salário, dívida ou reparação justa no prazo e na medida devidos, sem explorar dependência ou silêncio alheio.",
+      "anchors": [
+        "B06",
+        "Tg 5,4"
+      ],
+      "tags": [
+        "reparação",
+        "salário"
+      ]
+    },
+    {
+      "id": "O02",
+      "column": "O",
+      "label": "Recusar propina",
+      "definition": "Negar vantagem ilícita, mesmo pequena, e escolher o caminho correto quando o jeitinho prejudica a justiça comum.",
+      "anchors": [
+        "I07",
+        "B15"
+      ],
+      "tags": [
+        "corrupção",
+        "decisão"
+      ]
+    },
+    {
+      "id": "O03",
+      "column": "O",
+      "label": "Examinar consumo",
+      "definition": "Rever compras, dívidas e desejos para distinguir necessidade, vaidade, ansiedade e responsabilidade diante de Deus e da família.",
+      "anchors": [
+        "G13",
+        "Mt 6,24"
+      ],
+      "tags": [
+        "consumo",
+        "discernimento"
+      ]
+    },
+    {
+      "id": "O04",
+      "column": "O",
+      "label": "Defender salário justo",
+      "definition": "Buscar conversa, registro, orientação ou apoio adequado quando o trabalho é pago de modo injusto ou retido.",
+      "anchors": [
+        "B06",
+        "I02"
+      ],
+      "tags": [
+        "trabalho",
+        "justiça"
+      ]
+    },
+    {
+      "id": "O05",
+      "column": "O",
+      "label": "Servir sem dominar",
+      "definition": "Ajudar pobres e vulneráveis com respeito, escuta e encaminhamento, sem usar a ajuda para controlar, expor ou humilhar.",
+      "anchors": [
+        "G06",
+        "B10"
+      ],
+      "tags": [
+        "serviço",
+        "pobres"
+      ]
+    },
+    {
+      "id": "O06",
+      "column": "O",
+      "label": "Cobrar com justiça",
+      "definition": "Exigir direitos ou explicações de modo firme, verdadeiro e proporcional, evitando vingança, boato e humilhação pública.",
+      "anchors": [
+        "G14",
+        "B15"
+      ],
+      "tags": [
+        "justiça",
+        "firmeza"
+      ]
+    },
+    {
+      "id": "O07",
+      "column": "O",
+      "label": "Votar com consciência",
+      "definition": "Avaliar propostas, caráter, consequências e bem comum, sem vender o voto nem reduzir a política a interesse privado.",
+      "anchors": [
+        "B12",
+        "I10"
+      ],
+      "tags": [
+        "política",
+        "consciência"
+      ]
+    },
+    {
+      "id": "O08",
+      "column": "O",
+      "label": "Fortalecer o próximo",
+      "definition": "Apoiar iniciativas familiares, comunitárias e locais que resolvem problemas reais sem esperar que tudo venha de cima.",
+      "anchors": [
+        "B09",
+        "G04"
+      ],
+      "tags": [
+        "subsidiariedade",
+        "comunidade"
+      ]
+    },
+    {
+      "id": "O09",
+      "column": "O",
+      "label": "Denunciar com prudência",
+      "definition": "Quando há injustiça grave, buscar canais seguros, provas responsáveis e pessoas competentes, sem exposição irresponsável.",
+      "anchors": [
+        "G07",
+        "Pr 31,8-9"
+      ],
+      "tags": [
+        "denúncia",
+        "prudência"
+      ]
+    },
+    {
+      "id": "O10",
+      "column": "O",
+      "label": "Reparar dano social",
+      "definition": "Quando alguém lucrou ou se omitiu injustamente, assumir correção concreta: devolver, indenizar, pedir perdão, mudar prática e prevenir repetição.",
+      "anchors": [
+        "B07",
+        "O01"
+      ],
+      "tags": [
+        "reparação",
+        "justiça"
+      ]
+    },
+    {
+      "id": "O11",
+      "column": "O",
+      "label": "Escutar os pobres",
+      "definition": "Ouvir quem sofre a privação antes de falar por ele, julgá-lo ou propor solução distante da realidade concreta.",
+      "anchors": [
+        "B10",
+        "Lc 10,25-37"
+      ],
+      "tags": [
+        "escuta",
+        "pobres"
+      ]
+    },
+    {
+      "id": "O12",
+      "column": "O",
+      "label": "Organizar descanso",
+      "definition": "Proteger horários, limites e ritmo humano de trabalho, porque descanso, família e oração não são sobra da produção.",
+      "anchors": [
+        "B05",
+        "CEC 2428"
+      ],
+      "tags": [
+        "descanso",
+        "trabalho"
+      ]
+    },
+    {
+      "id": "O13",
+      "column": "O",
+      "label": "Formar consciência social",
+      "definition": "Estudar a Doutrina Social da Igreja, confrontar opiniões com o Evangelho e aprender critérios antes de repetir slogans políticos ou econômicos.",
+      "anchors": [
+        "CEC 2423",
+        "B14"
+      ],
+      "tags": [
+        "formação",
+        "consciência"
+      ]
+    },
+    {
+      "id": "O14",
+      "column": "O",
+      "label": "Priorizar vulneráveis",
+      "definition": "Ao decidir recursos, tempo ou atendimento, considerar primeiro quem corre maior risco e tem menos meios de defesa.",
+      "anchors": [
+        "B10",
+        "I13"
+      ],
+      "tags": [
+        "vulneráveis",
+        "prioridade"
+      ]
+    },
+    {
+      "id": "O15",
+      "column": "O",
+      "label": "Rezar e agir",
+      "definition": "Unir oração, exame de consciência e decisão concreta, sem usar a oração para fugir da responsabilidade possível.",
+      "anchors": [
+        "B12",
+        "G07",
+        "Mt 6,24"
+      ],
+      "tags": [
+        "oração",
+        "ação"
+      ]
+    }
+  ]
+}

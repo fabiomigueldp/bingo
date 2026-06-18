@@ -1,0 +1,308 @@
+{
+  "title": "Carta de explicações rápidas — Bingo Namoro",
+  "meeting": "Encontro 19 — Namoro",
+  "source_calls": "data/chamadas.json",
+  "purpose": "Explicações breves para o condutor usar durante a chamada de cada carta.",
+  "entries": [
+    {
+      "id": "B01",
+      "explanation": "O namoro não é uma área neutra fora de Deus. Em 1Ts 4, a **santificação** inclui corpo, desejo e escolhas afetivas. A pergunta cristã não é só se algo agrada, mas se conduz à vontade de Deus."
+    },
+    {
+      "id": "B02",
+      "explanation": "Namoro é **tempo de conhecimento**, não casamento antecipado nem passatempo. Conhecer alguém exige ver caráter, fé, valores e responsabilidade. A pressa afetiva pode prometer muito antes de discernir o essencial."
+    },
+    {
+      "id": "B03",
+      "explanation": "A **castidade** não despreza o amor nem o corpo. Ela integra desejo, afeto e liberdade para que a pessoa ame de modo verdadeiro. No namoro, protege o conhecimento real e impede que a paixão física obscureça o discernimento."
+    },
+    {
+      "id": "B04",
+      "explanation": "A **continência** reserva ao casamento aquilo que pertence ao amor conjugal. Isso não diminui o namoro; dá a ele o seu tempo próprio. Esperar educa fidelidade, respeito e domínio de si."
+    },
+    {
+      "id": "B05",
+      "explanation": "O respeito mútuo reconhece que o outro não é posse, prova ou objeto de satisfação. Amar não autoriza pressão, vigilância ou insistência contra limites claros. O amor cristão busca o bem do outro com paciência e verdade."
+    },
+    {
+      "id": "B06",
+      "explanation": "A fidelidade começa a ser aprendida antes do casamento. Ela aparece em lealdade, palavra limpa e recusa de duplicidade. Um namoro cristão prepara o coração para receber o outro de Deus, não para usá-lo enquanto convém."
+    },
+    {
+      "id": "B07",
+      "explanation": "O corpo não está fora da vida espiritual. A fé cristã vê a pessoa inteira chamada à **santidade**. Por isso, o modo de viver gestos, desejos e intimidade tem valor moral diante de Deus."
+    },
+    {
+      "id": "B08",
+      "explanation": "Pureza de coração não é só aparência correta. É intenção reta, sem duplicidade e sem manipulação escondida. O namoro precisa de verdade interior, porque Deus vê o coração e chama à unidade de vida."
+    },
+    {
+      "id": "B09",
+      "explanation": "O olhar educa o desejo. Pornografia, curiosidade impura e consumo do corpo deformam a maneira de amar. A **pureza do olhar** protege a dignidade do outro e disciplina a imaginação."
+    },
+    {
+      "id": "B10",
+      "explanation": "Liberdade não é fazer tudo que o impulso pede. A **liberdade interior** cresce quando a pessoa aprende a escolher o bem mesmo sob pressão. Isso exige graça, treino, limites e perseverança."
+    },
+    {
+      "id": "B11",
+      "explanation": "A pessoa nunca pode ser reduzida a prazer, status, carência ou vingança. Sua **dignidade** permanece antes, durante e depois de qualquer relação. No namoro, ferir essa dignidade é também injustiça diante de Deus."
+    },
+    {
+      "id": "B12",
+      "explanation": "O matrimônio é aliança pública e definitiva, não experiência provisória. O namoro discerne se há caminho para essa entrega. Confundir teste, convivência e casamento enfraquece a verdade do compromisso."
+    },
+    {
+      "id": "B13",
+      "explanation": "O amor responsável busca o bem real, não apenas conforto emocional. Às vezes ele exige conversa difícil, limite ou término justo. Amar não é manter qualquer vínculo, mas agir com verdade e responsabilidade."
+    },
+    {
+      "id": "B14",
+      "explanation": "A luta pela pureza não se vence só com força humana. A castidade é **virtude** e também dom de Deus. Por isso, a resposta cristã une oração, sacramentos, vigilância e mudança concreta de hábitos."
+    },
+    {
+      "id": "B15",
+      "explanation": "Deus no meio não é enfeite religioso do namoro. Significa rezar, discernir, viver os sacramentos e escolher o bem. Um namoro cristão deve ajudar os dois a crescerem como discípulos de Cristo."
+    },
+    {
+      "id": "I01",
+      "explanation": "A relação descartável trata a pessoa como experiência passageira. Mesmo quando um namoro termina, a dignidade do outro permanece. O cristão não encerra vínculos com frieza, mentira ou humilhação."
+    },
+    {
+      "id": "I02",
+      "explanation": "Pressão por intimidade é grave porque usa medo, culpa ou ameaça para vencer a liberdade do outro. O corpo não é moeda de prova afetiva. O respeito cristão exige limite claro e recusa de manipulação."
+    },
+    {
+      "id": "I03",
+      "explanation": "Ciúme vigilante não é cuidado. Quando há controle de celular, horários, roupa e contatos, o amor está virando posse. A resposta pede verdade, limites e recuperação da liberdade."
+    },
+    {
+      "id": "I04",
+      "explanation": "Nem todo segredo é prudência. Quando o segredo impede conselho, luz e responsabilidade, ele pode proteger a desordem. O namoro sério suporta acompanhamento proporcional e verdade."
+    },
+    {
+      "id": "I05",
+      "explanation": "Expor o namoro para vencer discussão ou ganhar apoio fere a intimidade. A dor real não autoriza usar fotos, detalhes e indiretas como arma. O pudor protege a dignidade mesmo no conflito."
+    },
+    {
+      "id": "I06",
+      "explanation": "Dependência afetiva aparece quando o namoro ocupa o lugar de Deus, da consciência e dos vínculos bons. A pessoa perde liberdade e vive refém do humor do outro. Amar exige ordem interior, não servidão emocional."
+    },
+    {
+      "id": "I07",
+      "explanation": "Briga recorrente com ofensas e ameaças não deve ser normalizada. Perdão apressado sem mudança concreta pode manter um ciclo de dano. O amor responsável exige verdade, proteção e ajuda quando necessário."
+    },
+    {
+      "id": "I08",
+      "explanation": "Diferença de fé exige discernimento real. Respeitar o outro não significa aceitar desprezo pela própria fé ou pressão contra a consciência. Um namoro cristão deve aproximar de Deus, não afastar dele."
+    },
+    {
+      "id": "I09",
+      "explanation": "Projetos conflitantes não desaparecem porque há paixão. Fé, casamento, filhos, trabalho e responsabilidades precisam ser conversados. O namoro é tempo de conhecimento justamente para não esconder o essencial."
+    },
+    {
+      "id": "I10",
+      "explanation": "Namoro precoce pode colocar peso de compromisso onde ainda não há maturidade. Esperar não é fracasso nem falta de valor. Pode ser uma decisão prudente para formar liberdade e responsabilidade."
+    },
+    {
+      "id": "I11",
+      "explanation": "Ficar sem compromisso não é moralmente neutro. Corpo, afeto e expectativa envolvem pessoas reais. A cultura do descarte fere a dignidade quando usa alguém para prazer momentâneo ou afirmação."
+    },
+    {
+      "id": "I12",
+      "explanation": "Isolamento da família é sinal de alerta quando serve ao controle. O namoro não deve cortar vínculos bons nem impedir conselho prudente. Acompanhamento proporcional protege a liberdade."
+    },
+    {
+      "id": "I13",
+      "explanation": "Conversas ambíguas alimentam duplicidade. Mesmo sem ato físico, a intenção pode ferir verdade e fidelidade. A pureza de coração pede palavra simples e conduta que não precise ser escondida."
+    },
+    {
+      "id": "I14",
+      "explanation": "Usar o corpo como prova de amor contradiz a dignidade da pessoa. Amor verdadeiro não exige cedência pressionada. O corpo participa da vocação à santidade e deve ser guardado com respeito."
+    },
+    {
+      "id": "I15",
+      "explanation": "Noivado improvisado confunde pressão social com discernimento. O noivado é passo público em direção ao matrimônio. Ele exige clareza, preparação e responsabilidade, não apenas tempo de namoro."
+    },
+    {
+      "id": "N01",
+      "explanation": "A pressão do costume diz que o comum virou correto. Mas a moral cristã não nasce da estatística. A vontade de Deus continua sendo critério, mesmo quando a castidade parece contracultural."
+    },
+    {
+      "id": "N02",
+      "explanation": "A falsa prova de amor usa afeto para manipular. Quem ama não exige que o outro entregue corpo, consciência ou limite. A verdadeira prova de amor é respeito, paciência e busca do bem."
+    },
+    {
+      "id": "N03",
+      "explanation": "Sentimento intenso não dispensa responsabilidade. O afeto pode ser verdadeiro e ainda assim precisar de direção moral. Amor cristão não é só sentir; é buscar o bem com verdade."
+    },
+    {
+      "id": "N04",
+      "explanation": "A falsa autonomia transforma liberdade em fechamento contra Deus e contra a verdade. A pessoa é responsável por suas escolhas, mas não cria sozinha o bem e o mal. A liberdade cristã se realiza escolhendo o bem."
+    },
+    {
+      "id": "N05",
+      "explanation": "Ciúme apresentado como cuidado pode esconder posse. Insegurança não dá direito de controlar a vida do outro. O amor cristão constrói confiança e respeita vínculos bons."
+    },
+    {
+      "id": "N06",
+      "explanation": "Acolher não é aceitar tudo. Amor sem verdade vira permissividade e pode manter a pessoa no erro. O limite justo protege a dignidade e chama à conversão."
+    },
+    {
+      "id": "N07",
+      "explanation": "A ideia de que sexo é requisito do namoro contradiz a doutrina cristã. A Igreja ensina a continência antes do casamento. Essa espera não empobrece o amor; educa respeito, fidelidade e esperança."
+    },
+    {
+      "id": "N08",
+      "explanation": "A ilusão de controle aparece quando a pessoa brinca com ocasiões previsíveis de queda. Prudência não é fraqueza espiritual. É cooperação concreta com a graça para não alimentar o pecado."
+    },
+    {
+      "id": "N09",
+      "explanation": "O privado também tem valor moral. Segredo e consentimento não tornam automaticamente uma ação boa. A vida afetiva deve ser vivida diante de Deus, com verdade e pureza de coração."
+    },
+    {
+      "id": "N10",
+      "explanation": "A paixão é real, mas não é soberana. Ela pode ser intensa sem ter direito de governar a consciência. A maturidade cristã educa impulsos para que sirvam ao amor verdadeiro."
+    },
+    {
+      "id": "N11",
+      "explanation": "Casamento não é remédio mágico para namoro desordenado. O matrimônio exige liberdade, discernimento e compromisso real. Problemas graves precisam ser enfrentados antes de passos definitivos."
+    },
+    {
+      "id": "N12",
+      "explanation": "Nem todo dano aparece no corpo. Mentira, descarte, confusão e manipulação ferem afetivamente e espiritualmente. A dignidade da pessoa exige responsabilidade também pelas feridas invisíveis."
+    },
+    {
+      "id": "N13",
+      "explanation": "Usar Deus como desculpa banaliza a misericórdia. Deus perdoa, mas não chama o pecado de bem. A confiança verdadeira na misericórdia leva à conversão concreta."
+    },
+    {
+      "id": "N14",
+      "explanation": "Nenhuma pessoa humana pode ser salvador absoluto de outra. Quando o namoro ocupa o lugar de Deus, a liberdade adoece. O amor humano precisa estar ordenado a Deus para não virar idolatria afetiva."
+    },
+    {
+      "id": "N15",
+      "explanation": "Imagem íntima não é objeto sem consequência. Ela envolve corpo, confiança, dignidade e risco real. A resposta cristã é não pedir, não enviar, não repassar e buscar ajuda quando houver ameaça."
+    },
+    {
+      "id": "G01",
+      "explanation": "É preciso distinguir **pessoa** e **ato**. A pessoa mantém sua dignidade mesmo quando cai. Ao mesmo tempo, a dignidade da pessoa não obriga a negar a gravidade moral de suas escolhas."
+    },
+    {
+      "id": "G02",
+      "explanation": "Nem todo desejo sentido conduz ao bem. O desejo precisa ser educado pela verdade e pela caridade. A castidade não nega o desejo; ela o ordena para que não use o outro."
+    },
+    {
+      "id": "G03",
+      "explanation": "Amor e posse não são a mesma coisa. O amor busca o bem do outro e respeita sua liberdade. A posse tenta controlar a pessoa para acalmar insegurança ou satisfazer carência."
+    },
+    {
+      "id": "G04",
+      "explanation": "Acolhida e aprovação precisam ser distinguidas. A pessoa ferida deve ser recebida com respeito. Mas acolher alguém não significa chamar o erro de bem nem abandonar o chamado à conversão."
+    },
+    {
+      "id": "G05",
+      "explanation": "Prudência não é medo. A prudência vê riscos reais e escolhe meios bons para proteger o amor. O medo paralisa ou impede conversas necessárias; a prudência age com verdade."
+    },
+    {
+      "id": "G06",
+      "explanation": "Liberdade não é impulso sem freio. O impulso pode ser forte, mas precisa ser governado. A liberdade cristã cresce quando a pessoa aprende a interromper o que a conduz ao pecado."
+    },
+    {
+      "id": "G07",
+      "explanation": "Ternura e uso do corpo podem parecer próximos, mas têm sentidos diferentes. A ternura cuida da pessoa. O uso do corpo procura satisfação e ignora o tempo próprio do amor."
+    },
+    {
+      "id": "G08",
+      "explanation": "Intimidade não pertence à plateia. Mesmo quando há dor ou conflito, expor conversas e imagens pode virar injustiça. Buscar ajuda é diferente de publicar o íntimo para vencer uma disputa."
+    },
+    {
+      "id": "G09",
+      "explanation": "Perdoar não significa voltar para uma relação insegura. O perdão renuncia à vingança e deseja conversão. Quando há ameaça, manipulação ou violência, a distância pode ser necessária e justa."
+    },
+    {
+      "id": "G10",
+      "explanation": "Esperar pode ser prudência ou fuga. É prudência quando prepara maturidade e liberdade. É fuga quando a pessoa evita qualquer compromisso por egoísmo, medo ou desejo de manter todas as opções abertas."
+    },
+    {
+      "id": "G11",
+      "explanation": "Namoro e casamento não são o mesmo estado de vida. O namoro discerne a possibilidade de uma aliança. O casamento sela compromisso público, definitivo e próprio da entrega conjugal."
+    },
+    {
+      "id": "G12",
+      "explanation": "Noivado não é namoro com enfeite. É passo público em direção ao matrimônio e pede preparação séria. Mesmo assim, a continência permanece até o casamento."
+    },
+    {
+      "id": "G13",
+      "explanation": "A gravidade objetiva do ato e a responsabilidade subjetiva da pessoa não são idênticas. Pressão, ignorância e liberdade concreta importam no acompanhamento. Mas esses fatores não transformam pecado em bem."
+    },
+    {
+      "id": "G14",
+      "explanation": "Limite não é rejeição da pessoa. Um limite firme pode proteger os dois do pecado, da manipulação e da confusão. O modo cristão é dizer a verdade sem humilhar."
+    },
+    {
+      "id": "G15",
+      "explanation": "Oração não é passividade. Rezar bem leva a cooperar com a graça por decisões concretas. Quem pede castidade precisa também cortar ocasiões, buscar confissão e mudar hábitos."
+    },
+    {
+      "id": "O01",
+      "explanation": "Definir limites antes da pressão é sinal de maturidade. Limites claros sobre ambientes, horários, mensagens e gestos protegem a liberdade. A castidade fica mais concreta quando não depende de improviso."
+    },
+    {
+      "id": "O02",
+      "explanation": "Conversa honesta impede que o namoro viva de suposições. Intenções, fé, futuro e limites precisam ser nomeados. A verdade pode doer, mas respeita mais do que a ilusão mantida por medo."
+    },
+    {
+      "id": "O03",
+      "explanation": "Cortar ocasião de pecado é resposta prática e proporcional. A pessoa reconhece contextos, conteúdos e hábitos que favorecem a queda. Prudência cristã não é covardia; é cooperação com a graça."
+    },
+    {
+      "id": "O04",
+      "explanation": "Pedir ajuda madura não é perder liberdade. É buscar luz quando paixão, medo ou manipulação confundem o juízo. A ajuda correta protege sem expor indevidamente."
+    },
+    {
+      "id": "O05",
+      "explanation": "Rezar juntos coloca Deus no centro de modo concreto. Mas a oração não deve maquiar desordem. Ela precisa levar a limites, conversão, sacramentos e crescimento na virtude."
+    },
+    {
+      "id": "O06",
+      "explanation": "Guardar o corpo não é desprezar o corpo. É reconhecê-lo como parte da pessoa e da vocação à santidade. A ternura no namoro deve respeitar o tempo próprio do amor."
+    },
+    {
+      "id": "O07",
+      "explanation": "Reparar exposição exige interromper o dano. Apagar, não repassar, avisar a pessoa e buscar ajuda responsável são passos concretos. A intimidade exposta nunca deve virar curiosidade ou entretenimento."
+    },
+    {
+      "id": "O08",
+      "explanation": "Terminar com justiça também é ato moral. A verdade deve ser dita sem humilhação, ameaça ou vingança. Mesmo no fim, a dignidade do outro continua exigindo respeito."
+    },
+    {
+      "id": "O09",
+      "explanation": "Acompanhar ferida pede escuta sem curiosidade. Quem sofreu manipulação ou exposição precisa de proteção, verdade e encaminhamento adequado. A caridade cristã não transforma dor em fofoca."
+    },
+    {
+      "id": "O10",
+      "explanation": "Examinar o namoro é olhar seus frutos. A relação aproxima de Deus, fortalece virtudes e respeita a liberdade? Se os frutos são desordem, isolamento e pecado, é preciso discernir com seriedade."
+    },
+    {
+      "id": "O11",
+      "explanation": "A confissão não é apenas alívio emocional. Ela exige reconhecer o pecado, receber a graça e assumir propósito concreto. A misericórdia de Deus sustenta um recomeço verdadeiro."
+    },
+    {
+      "id": "O12",
+      "explanation": "Esperar com maturidade pode ser ato de amor. Quem reconhece que ainda não está pronto evita brincar com afetos alheios. A espera forma liberdade, domínio de si e responsabilidade."
+    },
+    {
+      "id": "O13",
+      "explanation": "Envolver a família não significa expor tudo. Significa permitir luz, conselho e proteção proporcionais. Um namoro vivido como ilha fica mais vulnerável a pressão, segredo e manipulação."
+    },
+    {
+      "id": "O14",
+      "explanation": "Formar o olhar exige cortar o que deforma o desejo. Pornografia e consumo impuro do corpo ensinam a usar pessoas. A resposta inclui disciplina, ajuda, oração e hábitos digitais novos."
+    },
+    {
+      "id": "O15",
+      "explanation": "Discernir vocação é perguntar se o namoro ajuda a responder a Deus. O relacionamento não deve servir apenas para aliviar medo ou carência. O critério cristão une oração, realidade, conselho e responsabilidade."
+    }
+  ]
+}

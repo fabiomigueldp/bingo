@@ -1,0 +1,1212 @@
+{
+  "title": "Bingo — A missão de Jesus",
+  "meeting": "Encontro 32 — A missão de Jesus",
+  "meeting_label": "Encontro 32",
+  "output_slug": "bingo_a_missao_de_jesus",
+  "core_message": "Jesus, o Cristo ungido pelo Espírito, veio anunciar a Boa-Nova, libertar, curar e salvar; sua missão continua na Igreja e exige dos batizados amor concreto aos pobres, verdade, conversão e serviço.",
+  "source_meeting_markdown": "projects/catequese/material_didatico/output/markdown/encontro_32.md",
+  "scripture": [
+    "Lc 4,14-21",
+    "Is 61,1-2",
+    "Lc 7,20-23",
+    "Mt 5,3",
+    "Mt 25,31-46",
+    "Jo 18,36",
+    "Mc 10,45",
+    "Jo 20,21",
+    "At 10,38",
+    "Lc 10,25-37",
+    "Tg 2,14-17",
+    "Mt 28,18-20",
+    "Jo 13,1-15",
+    "Jo 8,32",
+    "2Cor 5,20"
+  ],
+  "catechism": [
+    "CEC 436",
+    "CEC 544",
+    "CEC 783",
+    "CEC 786",
+    "CEC 849",
+    "CEC 1816",
+    "CEC 1822",
+    "CEC 1825",
+    "CEC 1931",
+    "CEC 2443",
+    "CEC 2447"
+  ],
+  "card_model": {
+    "total_terms": 75,
+    "columns": 5,
+    "terms_per_column": 15,
+    "grid": "5x5",
+    "center": {
+      "label": "LIVRE / Lc 4,14-21",
+      "fixed": true,
+      "called": false
+    },
+    "recommended_win_condition": "duas_linhas"
+  },
+  "columns": [
+    {
+      "key": "B",
+      "title": "Base moral",
+      "function": "Fundamentos bíblicos e doutrinais para ler o tema.",
+      "short_function": "fundamento cristão do tema"
+    },
+    {
+      "key": "I",
+      "title": "Situações concretas",
+      "function": "Formas reais em que o tema aparece na vida concreta, em situações inteligíveis para a turma.",
+      "short_function": "situações concretas do tema"
+    },
+    {
+      "key": "N",
+      "title": "Narrativas falsas",
+      "function": "Desculpas, autoenganos e frases que desviam do bem.",
+      "short_function": "desculpas que normalizam o erro"
+    },
+    {
+      "key": "G",
+      "title": "Discernimentos",
+      "function": "Distinções morais que evitam respostas simplistas.",
+      "short_function": "distinções para discernir"
+    },
+    {
+      "key": "O",
+      "title": "Orientações de resposta",
+      "function": "Ações concretas, prudentes e proporcionais diante do problema.",
+      "short_function": "respostas proporcionais e prudentes"
+    }
+  ],
+  "terms": [
+    {
+      "id": "B01",
+      "column": "B",
+      "label": "Espírito do Senhor",
+      "definition": "A missão de Jesus nasce da unção do Espírito, não de interesse humano, propaganda religiosa ou projeto de poder.",
+      "anchors": [
+        "Lc 4,14-18",
+        "At 10,38",
+        "CEC 436"
+      ],
+      "tags": [
+        "espírito",
+        "missão"
+      ]
+    },
+    {
+      "id": "B02",
+      "column": "B",
+      "label": "Unção do Messias",
+      "definition": "Jesus é o Cristo, o Ungido enviado pelo Pai para realizar plenamente a esperança de Israel como sacerdote, profeta e rei.",
+      "anchors": [
+        "CEC 436",
+        "Is 61,1-2",
+        "Lc 4,18-21"
+      ],
+      "tags": [
+        "cristo",
+        "messias"
+      ]
+    },
+    {
+      "id": "B03",
+      "column": "B",
+      "label": "Boa-Nova aos pobres",
+      "definition": "O Evangelho anunciado por Jesus alcança de modo especial os pobres, não como enfeite social, mas como sinal do Reino.",
+      "anchors": [
+        "Lc 4,18",
+        "Mt 5,3",
+        "CEC 544"
+      ],
+      "tags": [
+        "pobres",
+        "evangelho"
+      ]
+    },
+    {
+      "id": "B04",
+      "column": "B",
+      "label": "Reino dos pequenos",
+      "definition": "O Reino pertence aos que acolhem Deus com humildade, especialmente pobres e pequenos, a quem Jesus se identifica e serve.",
+      "anchors": [
+        "Mt 5,3",
+        "CEC 544",
+        "Mt 25,40"
+      ],
+      "tags": [
+        "reino",
+        "humildade"
+      ]
+    },
+    {
+      "id": "B05",
+      "column": "B",
+      "label": "Cura dos feridos",
+      "definition": "Jesus não ignora os contritos de coração; sua salvação toca feridas reais, pecado, culpa, abandono, luto e desesperança.",
+      "anchors": [
+        "Lc 4,18",
+        "Lc 7,22",
+        "Mt 11,28"
+      ],
+      "tags": [
+        "cura",
+        "ferida"
+      ]
+    },
+    {
+      "id": "B06",
+      "column": "B",
+      "label": "Libertação dos cativos",
+      "definition": "A libertação anunciada por Jesus enfrenta prisões exteriores e interiores, sem reduzir salvação a política nem a conforto privado.",
+      "anchors": [
+        "Lc 4,18-19",
+        "Jo 8,32",
+        "CEC 544"
+      ],
+      "tags": [
+        "libertação",
+        "cativos"
+      ]
+    },
+    {
+      "id": "B07",
+      "column": "B",
+      "label": "Vista aos cegos",
+      "definition": "Jesus devolve luz aos olhos e à consciência, libertando a pessoa de enganos, dureza, ignorância culpável e mentira moral.",
+      "anchors": [
+        "Lc 4,18",
+        "Lc 7,22",
+        "Jo 9,39"
+      ],
+      "tags": [
+        "verdade",
+        "consciência"
+      ]
+    },
+    {
+      "id": "B08",
+      "column": "B",
+      "label": "Ano da graça",
+      "definition": "O tempo inaugurado por Jesus é tempo de salvação, misericórdia e conversão, não licença para adiar a resposta a Deus.",
+      "anchors": [
+        "Lc 4,19-21",
+        "Is 61,2",
+        "2Cor 6,2"
+      ],
+      "tags": [
+        "graça",
+        "salvação"
+      ]
+    },
+    {
+      "id": "B09",
+      "column": "B",
+      "label": "Sacerdote que se oferece",
+      "definition": "Jesus cumpre sua missão sacerdotal entregando a si mesmo, unindo misericórdia, obediência ao Pai e sacrifício redentor.",
+      "anchors": [
+        "CEC 436",
+        "Mc 10,45",
+        "Hb 4,14-16"
+      ],
+      "tags": [
+        "sacerdote",
+        "sacrifício"
+      ]
+    },
+    {
+      "id": "B10",
+      "column": "B",
+      "label": "Profeta da Palavra",
+      "definition": "Jesus é profeta porque revela a Palavra do Pai, denuncia o pecado e chama à conversão sem negociar a verdade.",
+      "anchors": [
+        "CEC 436",
+        "Lc 4,16-21",
+        "Jo 8,32"
+      ],
+      "tags": [
+        "profeta",
+        "verdade"
+      ]
+    },
+    {
+      "id": "B11",
+      "column": "B",
+      "label": "Rei servidor",
+      "definition": "O reinado de Jesus não domina como os poderes do mundo; ele reina servindo, salvando e conduzindo ao Pai.",
+      "anchors": [
+        "CEC 436",
+        "Jo 18,36",
+        "Mc 10,45",
+        "CEC 786"
+      ],
+      "tags": [
+        "rei",
+        "serviço"
+      ]
+    },
+    {
+      "id": "B12",
+      "column": "B",
+      "label": "Hoje da salvação",
+      "definition": "Quando Jesus diz que a Escritura se cumpre hoje, mostra que a graça de Deus pede resposta concreta no presente.",
+      "anchors": [
+        "Lc 4,21",
+        "2Cor 6,2",
+        "B08"
+      ],
+      "tags": [
+        "hoje",
+        "conversão"
+      ]
+    },
+    {
+      "id": "B13",
+      "column": "B",
+      "label": "Pobreza de coração",
+      "definition": "A pobreza de coração é humildade diante de Deus, não desprezo da vida material nem romantização da miséria.",
+      "anchors": [
+        "Mt 5,3",
+        "CEC 544",
+        "B03"
+      ],
+      "tags": [
+        "humildade",
+        "pobreza"
+      ]
+    },
+    {
+      "id": "B14",
+      "column": "B",
+      "label": "Amor ativo aos pobres",
+      "definition": "O amor cristão pelos pobres precisa tomar forma em ajuda real, justiça, proximidade e responsabilidade concreta.",
+      "anchors": [
+        "CEC 544",
+        "Mt 25,31-46",
+        "CEC 2447"
+      ],
+      "tags": [
+        "caridade",
+        "pobres"
+      ]
+    },
+    {
+      "id": "B15",
+      "column": "B",
+      "label": "Missão do batizado",
+      "definition": "Quem foi unido a Cristo participa de sua missão, testemunhando a fé com palavras, vida, serviço e caridade.",
+      "anchors": [
+        "Jo 20,21",
+        "Mt 28,18-20",
+        "CEC 783",
+        "CEC 1816"
+      ],
+      "tags": [
+        "batismo",
+        "missão"
+      ]
+    },
+    {
+      "id": "I01",
+      "column": "I",
+      "label": "Despejo de família",
+      "definition": "Uma família ameaçada de perder a moradia revela como pobreza, direito, dignidade e responsabilidade comunitária se cruzam.",
+      "anchors": [
+        "B03",
+        "B14",
+        "Mt 25,35"
+      ],
+      "tags": [
+        "moradia",
+        "pobreza"
+      ]
+    },
+    {
+      "id": "I02",
+      "column": "I",
+      "label": "Fila do hospital",
+      "definition": "A espera humilhante por atendimento mostra a ferida concreta de quem sofre, depende de outros e pode ser tratado como número.",
+      "anchors": [
+        "B05",
+        "Mt 25,36",
+        "CEC 1931"
+      ],
+      "tags": [
+        "doença",
+        "dignidade"
+      ]
+    },
+    {
+      "id": "I03",
+      "column": "I",
+      "label": "Salário retido",
+      "definition": "O trabalhador que não recebe pelo serviço prestado sofre injustiça que fere a dignidade e aprisiona sua família em necessidade.",
+      "anchors": [
+        "Tg 5,4",
+        "B06",
+        "B14"
+      ],
+      "tags": [
+        "trabalho",
+        "justiça"
+      ]
+    },
+    {
+      "id": "I04",
+      "column": "I",
+      "label": "Idoso abandonado",
+      "definition": "O abandono de uma pessoa idosa expõe a lógica de medir o valor humano pela produtividade, força ou conveniência.",
+      "anchors": [
+        "Mt 25,36",
+        "CEC 1931",
+        "B14"
+      ],
+      "tags": [
+        "abandono",
+        "idosos"
+      ]
+    },
+    {
+      "id": "I05",
+      "column": "I",
+      "label": "Dependência química",
+      "definition": "A dependência de álcool ou drogas mostra uma escravidão real que exige verdade, ajuda responsável e esperança de libertação.",
+      "anchors": [
+        "B06",
+        "Jo 8,32",
+        "Lc 4,18"
+      ],
+      "tags": [
+        "vício",
+        "libertação"
+      ]
+    },
+    {
+      "id": "I06",
+      "column": "I",
+      "label": "Prisão sem esperança",
+      "definition": "A pessoa presa continua tendo dignidade e necessidade de conversão, justiça, verdade e possibilidade real de recomeço.",
+      "anchors": [
+        "Lc 4,18",
+        "Mt 25,36",
+        "B06"
+      ],
+      "tags": [
+        "prisão",
+        "esperança"
+      ]
+    },
+    {
+      "id": "I07",
+      "column": "I",
+      "label": "Mentira que cega",
+      "definition": "Uma mentira repetida até parecer normal impede a consciência de ver o mal e reconhecer a necessidade de conversão.",
+      "anchors": [
+        "B07",
+        "Jo 8,32",
+        "Jo 9,39"
+      ],
+      "tags": [
+        "mentira",
+        "consciência"
+      ]
+    },
+    {
+      "id": "I08",
+      "column": "I",
+      "label": "Dívida impagável",
+      "definition": "A dívida usada para esmagar uma família mostra como necessidade, juros abusivos e vergonha podem virar cativeiro social.",
+      "anchors": [
+        "B06",
+        "B08",
+        "Mt 6,12"
+      ],
+      "tags": [
+        "dívida",
+        "cativeiro"
+      ]
+    },
+    {
+      "id": "I09",
+      "column": "I",
+      "label": "Luto sem consolo",
+      "definition": "O luto vivido sem amparo revela a missão de Cristo junto aos corações quebrados e à esperança ferida.",
+      "anchors": [
+        "B05",
+        "Mt 5,4",
+        "Lc 4,18"
+      ],
+      "tags": [
+        "luto",
+        "consolo"
+      ]
+    },
+    {
+      "id": "I10",
+      "column": "I",
+      "label": "Migrante sem rede",
+      "definition": "A pessoa que chega sem família, trabalho ou proteção expõe a exigência cristã de acolhida concreta e prudente.",
+      "anchors": [
+        "Mt 25,35",
+        "B03",
+        "B14"
+      ],
+      "tags": [
+        "migrante",
+        "acolhida"
+      ]
+    },
+    {
+      "id": "I11",
+      "column": "I",
+      "label": "Criança sem cuidado",
+      "definition": "A criança negligenciada mostra uma vulnerabilidade que exige proteção, responsabilidade adulta e rejeição da indiferença.",
+      "anchors": [
+        "Mt 18,5-6",
+        "CEC 1931",
+        "B04"
+      ],
+      "tags": [
+        "criança",
+        "proteção"
+      ]
+    },
+    {
+      "id": "I12",
+      "column": "I",
+      "label": "Violência doméstica",
+      "definition": "A agressão dentro de casa revela uma prisão de medo, silêncio e controle que não pode ser encoberta por falsa paz familiar.",
+      "anchors": [
+        "B06",
+        "CEC 1931",
+        "Mt 25,40"
+      ],
+      "tags": [
+        "violência",
+        "família"
+      ]
+    },
+    {
+      "id": "I13",
+      "column": "I",
+      "label": "Comércio explorador",
+      "definition": "O lucro obtido explorando necessidade extrema mostra pecado social concreto e exige leitura moral além do preço de mercado.",
+      "anchors": [
+        "B14",
+        "Tg 5,4",
+        "CEC 2447"
+      ],
+      "tags": [
+        "exploração",
+        "economia"
+      ]
+    },
+    {
+      "id": "I14",
+      "column": "I",
+      "label": "Recrutamento pelo crime",
+      "definition": "Quando o crime oferece dinheiro e pertencimento a quem está vulnerável, a falsa promessa de libertação conduz a novo cativeiro.",
+      "anchors": [
+        "B06",
+        "Jo 8,32",
+        "Lc 4,18"
+      ],
+      "tags": [
+        "crime",
+        "cativeiro"
+      ]
+    },
+    {
+      "id": "I15",
+      "column": "I",
+      "label": "Bairro esquecido",
+      "definition": "Uma comunidade sem saneamento, transporte e segurança revela pobreza coletiva que pede justiça, organização e caridade concreta.",
+      "anchors": [
+        "B03",
+        "B14",
+        "CEC 2443"
+      ],
+      "tags": [
+        "comunidade",
+        "justiça"
+      ]
+    },
+    {
+      "id": "N01",
+      "column": "N",
+      "label": "Evangelho sem pobres",
+      "definition": "Engano que separa fé e pobres, como se a missão de Jesus fosse apenas consolo interior sem amor concreto.",
+      "anchors": [
+        "Lc 4,18",
+        "CEC 544",
+        "B03"
+      ],
+      "tags": [
+        "autoengano",
+        "pobres"
+      ]
+    },
+    {
+      "id": "N02",
+      "column": "N",
+      "label": "Espiritualismo vazio",
+      "definition": "Desvio que usa palavras religiosas para evitar compromisso real com conversão, justiça, serviço e cuidado dos feridos.",
+      "anchors": [
+        "Tg 2,14-17",
+        "Mt 25,31-46",
+        "B14"
+      ],
+      "tags": [
+        "espiritualismo",
+        "omissão"
+      ]
+    },
+    {
+      "id": "N03",
+      "column": "N",
+      "label": "Falsa neutralidade",
+      "definition": "Narrativa que chama de neutralidade a recusa de agir diante de injustiça clara, sofrimento visível ou mentira destrutiva.",
+      "anchors": [
+        "Lc 10,25-37",
+        "B14",
+        "CEC 2447"
+      ],
+      "tags": [
+        "omissão",
+        "neutralidade"
+      ]
+    },
+    {
+      "id": "N04",
+      "column": "N",
+      "label": "Culpa da vítima",
+      "definition": "Lógica que transfere ao ferido a culpa principal pelo mal sofrido e dispensa o agressor ou a estrutura injusta.",
+      "anchors": [
+        "Lc 10,30-37",
+        "CEC 1931",
+        "B05"
+      ],
+      "tags": [
+        "injustiça",
+        "vítima"
+      ]
+    },
+    {
+      "id": "N05",
+      "column": "N",
+      "label": "Pena sem compromisso",
+      "definition": "Sentimento que se satisfaz em lamentar a dor alheia, mas evita qualquer ajuda possível, limite justo ou responsabilidade.",
+      "anchors": [
+        "Tg 2,15-17",
+        "B14",
+        "CEC 2447"
+      ],
+      "tags": [
+        "pena",
+        "omissão"
+      ]
+    },
+    {
+      "id": "N06",
+      "column": "N",
+      "label": "Liberdade sem verdade",
+      "definition": "Engano que chama qualquer desejo de liberdade, mesmo quando a pessoa fica presa ao pecado, ao vício ou à mentira.",
+      "anchors": [
+        "Jo 8,32",
+        "B06",
+        "B07"
+      ],
+      "tags": [
+        "liberdade",
+        "verdade"
+      ]
+    },
+    {
+      "id": "N07",
+      "column": "N",
+      "label": "Misericórdia barata",
+      "definition": "Falsa misericórdia que evita nomear o mal, não chama à conversão e abandona a vítima em nome de uma paz aparente.",
+      "anchors": [
+        "B08",
+        "Jo 8,11",
+        "CEC 1825"
+      ],
+      "tags": [
+        "misericórdia",
+        "conversão"
+      ]
+    },
+    {
+      "id": "N08",
+      "column": "N",
+      "label": "Reino como poder",
+      "definition": "Deformação que imagina a missão de Jesus como conquista de domínio, prestígio ou controle sobre os outros.",
+      "anchors": [
+        "Jo 18,36",
+        "Mc 10,45",
+        "B11"
+      ],
+      "tags": [
+        "poder",
+        "reino"
+      ]
+    },
+    {
+      "id": "N09",
+      "column": "N",
+      "label": "Fé só privada",
+      "definition": "Narrativa que reduz a fé a opinião íntima e impede que o Evangelho ilumine trabalho, dinheiro, família, política e sofrimento.",
+      "anchors": [
+        "Mt 5,14-16",
+        "CEC 1816",
+        "B15"
+      ],
+      "tags": [
+        "fé",
+        "testemunho"
+      ]
+    },
+    {
+      "id": "N10",
+      "column": "N",
+      "label": "Cada um por si",
+      "definition": "Frase que naturaliza abandono e indiferença, como se a necessidade do outro nunca tivesse relação com a minha responsabilidade.",
+      "anchors": [
+        "Lc 10,25-37",
+        "Mt 25,40",
+        "B14"
+      ],
+      "tags": [
+        "individualismo",
+        "indiferença"
+      ]
+    },
+    {
+      "id": "N11",
+      "column": "N",
+      "label": "Pobre como ameaça",
+      "definition": "Olhar que transforma o pobre em incômodo ou perigo antes de reconhecê-lo como pessoa com dignidade e rosto concreto.",
+      "anchors": [
+        "CEC 544",
+        "Mt 25,40",
+        "CEC 1931"
+      ],
+      "tags": [
+        "pobreza",
+        "dignidade"
+      ]
+    },
+    {
+      "id": "N12",
+      "column": "N",
+      "label": "Sucesso como salvação",
+      "definition": "Mentira que mede valor humano por riqueza, visibilidade e desempenho, apagando a cruz, a humildade e a dignidade dos pequenos.",
+      "anchors": [
+        "Mt 5,3",
+        "Lc 12,15",
+        "B04"
+      ],
+      "tags": [
+        "sucesso",
+        "idolatria"
+      ]
+    },
+    {
+      "id": "N13",
+      "column": "N",
+      "label": "Sofrimento romantizado",
+      "definition": "Desvio que embeleza a dor dos pobres e feridos, em vez de reconhecer sua gravidade e agir com caridade e justiça.",
+      "anchors": [
+        "B05",
+        "CEC 544",
+        "Mt 25,35-36"
+      ],
+      "tags": [
+        "sofrimento",
+        "distorção"
+      ]
+    },
+    {
+      "id": "N14",
+      "column": "N",
+      "label": "Oração sem conversão",
+      "definition": "Uso da oração para adiar mudança de vida, reparação, pedido de perdão ou enfrentamento prudente de um mal concreto.",
+      "anchors": [
+        "Mt 7,21",
+        "Tg 2,14-17",
+        "B12"
+      ],
+      "tags": [
+        "oração",
+        "conversão"
+      ]
+    },
+    {
+      "id": "N15",
+      "column": "N",
+      "label": "Justiça sem misericórdia",
+      "definition": "Narrativa que combate o mal com desejo de esmagar a pessoa, esquecendo conversão, reparação e dignidade do pecador.",
+      "anchors": [
+        "Mt 5,7",
+        "Jo 8,11",
+        "B08"
+      ],
+      "tags": [
+        "justiça",
+        "misericórdia"
+      ]
+    },
+    {
+      "id": "G01",
+      "column": "G",
+      "label": "Pobreza e miséria",
+      "definition": "Distingue a humildade evangélica da miséria injusta, que deve ser combatida e não romantizada.",
+      "anchors": [
+        "Mt 5,3",
+        "CEC 544",
+        "B13"
+      ],
+      "tags": [
+        "discernimento",
+        "pobreza"
+      ]
+    },
+    {
+      "id": "G02",
+      "column": "G",
+      "label": "Pessoa e pecado",
+      "definition": "Distingue a dignidade inviolável da pessoa do pecado que precisa ser nomeado, combatido e convertido.",
+      "anchors": [
+        "CEC 1931",
+        "Jo 8,11",
+        "B07"
+      ],
+      "tags": [
+        "dignidade",
+        "pecado"
+      ]
+    },
+    {
+      "id": "G03",
+      "column": "G",
+      "label": "Compaixão e pena",
+      "definition": "Distingue a compaixão cristã, que se aproxima e age, da pena estéril que observa a dor sem compromisso.",
+      "anchors": [
+        "Lc 10,33-37",
+        "B14",
+        "N05"
+      ],
+      "tags": [
+        "compaixão",
+        "pena"
+      ]
+    },
+    {
+      "id": "G04",
+      "column": "G",
+      "label": "Cura e controle",
+      "definition": "Distingue ajudar alguém a se levantar de controlar sua vida em nome de uma ajuda que domina.",
+      "anchors": [
+        "B05",
+        "Mc 10,46-52",
+        "CEC 1931"
+      ],
+      "tags": [
+        "cura",
+        "controle"
+      ]
+    },
+    {
+      "id": "G05",
+      "column": "G",
+      "label": "Libertação e licença",
+      "definition": "Distingue a liberdade que nasce da verdade da licença que entrega a pessoa a novos cativeiros.",
+      "anchors": [
+        "Jo 8,32",
+        "B06",
+        "N06"
+      ],
+      "tags": [
+        "liberdade",
+        "licença"
+      ]
+    },
+    {
+      "id": "G06",
+      "column": "G",
+      "label": "Verdade e humilhação",
+      "definition": "Distingue dizer a verdade para salvar de expor o erro alheio para ferir, ridicularizar ou dominar.",
+      "anchors": [
+        "Jo 8,32",
+        "Ef 4,15",
+        "B10"
+      ],
+      "tags": [
+        "verdade",
+        "humilhação"
+      ]
+    },
+    {
+      "id": "G07",
+      "column": "G",
+      "label": "Acolhida e aprovação",
+      "definition": "Distingue receber a pessoa com dignidade de aprovar tudo o que ela faz ou deseja.",
+      "anchors": [
+        "Jo 8,11",
+        "CEC 1931",
+        "G02"
+      ],
+      "tags": [
+        "acolhida",
+        "aprovação"
+      ]
+    },
+    {
+      "id": "G08",
+      "column": "G",
+      "label": "Serviço e protagonismo",
+      "definition": "Distingue servir em nome de Cristo de usar a dor dos outros para aparecer como herói ou líder.",
+      "anchors": [
+        "Mc 10,45",
+        "Jo 13,14-15",
+        "B11"
+      ],
+      "tags": [
+        "serviço",
+        "vaidade"
+      ]
+    },
+    {
+      "id": "G09",
+      "column": "G",
+      "label": "Urgência e prudência",
+      "definition": "Distingue a pressa justa diante de um mal grave da ação precipitada que aumenta o dano.",
+      "anchors": [
+        "Lc 10,33-35",
+        "Mt 10,16",
+        "B14"
+      ],
+      "tags": [
+        "prudência",
+        "urgência"
+      ]
+    },
+    {
+      "id": "G10",
+      "column": "G",
+      "label": "Caridade e assistencialismo",
+      "definition": "Distingue ajuda que reconhece dignidade e promove responsabilidade de ajuda que mantém dependência e distância.",
+      "anchors": [
+        "CEC 2447",
+        "B14",
+        "Tg 2,14-17"
+      ],
+      "tags": [
+        "caridade",
+        "assistencialismo"
+      ]
+    },
+    {
+      "id": "G11",
+      "column": "G",
+      "label": "Justiça e vingança",
+      "definition": "Distingue buscar o bem devido e a proteção dos inocentes de alimentar ódio contra o culpado.",
+      "anchors": [
+        "Rm 12,19-21",
+        "Mt 5,7",
+        "N15"
+      ],
+      "tags": [
+        "justiça",
+        "vingança"
+      ]
+    },
+    {
+      "id": "G12",
+      "column": "G",
+      "label": "Profecia e ideologia",
+      "definition": "Distingue anunciar a Palavra de Deus sobre a realidade de usar o Evangelho como máscara de projeto partidário ou interesse próprio.",
+      "anchors": [
+        "B10",
+        "Lc 4,18-21",
+        "CEC 436"
+      ],
+      "tags": [
+        "profecia",
+        "ideologia"
+      ]
+    },
+    {
+      "id": "G13",
+      "column": "G",
+      "label": "Autoridade e domínio",
+      "definition": "Distingue autoridade que serve e protege de domínio que usa cargo, força ou prestígio para controlar pessoas.",
+      "anchors": [
+        "Mc 10,42-45",
+        "B11",
+        "CEC 786"
+      ],
+      "tags": [
+        "autoridade",
+        "domínio"
+      ]
+    },
+    {
+      "id": "G14",
+      "column": "G",
+      "label": "Graça e esforço humano",
+      "definition": "Distingue a salvação como dom de Deus do esforço humano necessário para cooperar com a graça.",
+      "anchors": [
+        "B08",
+        "2Cor 6,2",
+        "Fl 2,12-13"
+      ],
+      "tags": [
+        "graça",
+        "cooperação"
+      ]
+    },
+    {
+      "id": "G15",
+      "column": "G",
+      "label": "Missão e ativismo",
+      "definition": "Distingue participar da missão de Cristo de viver ocupado em muitas ações sem oração, obediência e caridade.",
+      "anchors": [
+        "Jo 20,21",
+        "B15",
+        "Lc 10,38-42"
+      ],
+      "tags": [
+        "missão",
+        "ativismo"
+      ]
+    },
+    {
+      "id": "O01",
+      "column": "O",
+      "label": "Anunciar com clareza",
+      "definition": "Dizer a verdade do Evangelho de modo compreensível, fiel e respeitoso, sem esconder Cristo nem usar agressividade.",
+      "anchors": [
+        "B10",
+        "CEC 1816",
+        "2Cor 5,20"
+      ],
+      "tags": [
+        "anúncio",
+        "verdade"
+      ]
+    },
+    {
+      "id": "O02",
+      "column": "O",
+      "label": "Escutar o ferido",
+      "definition": "Dar atenção real à pessoa ferida antes de corrigir, aconselhar ou explicar, para não aumentar o abandono.",
+      "anchors": [
+        "B05",
+        "Lc 10,33",
+        "CEC 1931"
+      ],
+      "tags": [
+        "escuta",
+        "ferida"
+      ]
+    },
+    {
+      "id": "O03",
+      "column": "O",
+      "label": "Encaminhar ajuda real",
+      "definition": "Conduzir a pessoa a apoio competente e seguro quando a situação exige cuidado médico, jurídico, familiar, pastoral ou social.",
+      "anchors": [
+        "B14",
+        "G09",
+        "Mt 25,35-36"
+      ],
+      "tags": [
+        "encaminhamento",
+        "ajuda"
+      ]
+    },
+    {
+      "id": "O04",
+      "column": "O",
+      "label": "Cortar exploração",
+      "definition": "Recusar participar de vantagem injusta sobre necessidade alheia e interromper práticas que prendem o pobre em dependência.",
+      "anchors": [
+        "I13",
+        "Tg 5,4",
+        "B14"
+      ],
+      "tags": [
+        "exploração",
+        "renúncia"
+      ]
+    },
+    {
+      "id": "O05",
+      "column": "O",
+      "label": "Reparar o dano",
+      "definition": "Assumir responsabilidade pelo mal causado, restituindo quando possível, pedindo perdão e corrigindo consequências concretas.",
+      "anchors": [
+        "Lc 19,8",
+        "B08",
+        "G14"
+      ],
+      "tags": [
+        "reparação",
+        "conversão"
+      ]
+    },
+    {
+      "id": "O06",
+      "column": "O",
+      "label": "Defender o vulnerável",
+      "definition": "Proteger quem está em risco com palavra, presença, denúncia adequada ou busca de autoridade competente.",
+      "anchors": [
+        "I11",
+        "I12",
+        "Mt 25,40",
+        "CEC 1931"
+      ],
+      "tags": [
+        "proteção",
+        "vulnerável"
+      ]
+    },
+    {
+      "id": "O07",
+      "column": "O",
+      "label": "Visitar sem invadir",
+      "definition": "Aproximar-se de doentes, presos, idosos ou enlutados com respeito, discrição e ajuda concreta, sem curiosidade ou controle.",
+      "anchors": [
+        "Mt 25,36",
+        "G04",
+        "B14"
+      ],
+      "tags": [
+        "visita",
+        "respeito"
+      ]
+    },
+    {
+      "id": "O08",
+      "column": "O",
+      "label": "Perdoar com verdade",
+      "definition": "Buscar reconciliação sem negar o mal, sem dispensar reparação e sem exigir que a vítima se exponha novamente ao agressor.",
+      "anchors": [
+        "Jo 8,11",
+        "G11",
+        "B08"
+      ],
+      "tags": [
+        "perdão",
+        "verdade"
+      ]
+    },
+    {
+      "id": "O09",
+      "column": "O",
+      "label": "Formar a consciência",
+      "definition": "Confrontar mentiras e cegueiras morais com Escritura, doutrina, exame sincero e orientação segura.",
+      "anchors": [
+        "B07",
+        "Jo 8,32",
+        "CEC 1816"
+      ],
+      "tags": [
+        "consciência",
+        "formação"
+      ]
+    },
+    {
+      "id": "O10",
+      "column": "O",
+      "label": "Servir com constância",
+      "definition": "Transformar a caridade em compromisso fiel, ainda que simples, em vez de gesto isolado movido só por emoção.",
+      "anchors": [
+        "B11",
+        "B14",
+        "Jo 13,14-15"
+      ],
+      "tags": [
+        "serviço",
+        "constância"
+      ]
+    },
+    {
+      "id": "O11",
+      "column": "O",
+      "label": "Denunciar o abuso",
+      "definition": "Levar uma violência ou exploração a quem pode agir com autoridade, preservando a vítima e evitando exposição inútil.",
+      "anchors": [
+        "I12",
+        "G09",
+        "O06"
+      ],
+      "tags": [
+        "denúncia",
+        "proteção"
+      ]
+    },
+    {
+      "id": "O12",
+      "column": "O",
+      "label": "Partilhar bens",
+      "definition": "Usar dinheiro, tempo, capacidade e recursos para aliviar necessidades reais, sem humilhar quem recebe.",
+      "anchors": [
+        "CEC 2447",
+        "Tg 2,15-17",
+        "B14"
+      ],
+      "tags": [
+        "partilha",
+        "bens"
+      ]
+    },
+    {
+      "id": "O13",
+      "column": "O",
+      "label": "Rezar e agir",
+      "definition": "Unir oração, discernimento e decisão concreta, sem transformar a oração em desculpa para omissão.",
+      "anchors": [
+        "N14",
+        "B12",
+        "Tg 2,14-17"
+      ],
+      "tags": [
+        "oração",
+        "ação"
+      ]
+    },
+    {
+      "id": "O14",
+      "column": "O",
+      "label": "Buscar sacramentos",
+      "definition": "Voltar às fontes da graça, especialmente reconciliação e Eucaristia, para que missão não dependa só de força pessoal.",
+      "anchors": [
+        "B09",
+        "B08",
+        "G14"
+      ],
+      "tags": [
+        "sacramentos",
+        "graça"
+      ]
+    },
+    {
+      "id": "O15",
+      "column": "O",
+      "label": "Assumir envio",
+      "definition": "Reconhecer que a missão de Jesus continua no batizado e escolher um modo concreto de testemunhar, servir e anunciar.",
+      "anchors": [
+        "B15",
+        "Jo 20,21",
+        "Mt 28,18-20"
+      ],
+      "tags": [
+        "envio",
+        "testemunho"
+      ]
+    }
+  ]
+}

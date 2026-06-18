@@ -1,0 +1,1129 @@
+{
+  "title": "Bingo — Relacionamento humano",
+  "meeting": "Encontro 09 — Relacionamento humano",
+  "meeting_label": "Encontro 09",
+  "output_slug": "bingo_relacionamento_humano",
+  "core_message": "Relacionar-se como cristão é conhecer-se diante de Deus, integrar sentimentos, honrar os vínculos familiares e viver amizades guiadas pela verdade, pela caridade e pela paz.",
+  "source_meeting_markdown": "projects/catequese/material_didatico/output/markdown/encontro_09.md",
+  "scripture": [
+    "Jo 15,12-15",
+    "Ef 4,1-3",
+    "Gn 1,27",
+    "Ex 20,12",
+    "Mt 5,23-24",
+    "Mt 18,15-17",
+    "Mt 18,21-22",
+    "1Cor 13,4-7",
+    "Tg 1,19-20",
+    "Cl 3,12-15"
+  ],
+  "catechism": [
+    "CEC 1767",
+    "CEC 1776",
+    "CEC 1806",
+    "CEC 1809",
+    "CEC 1822",
+    "CEC 1879",
+    "CEC 2204",
+    "CEC 2214",
+    "CEC 2217",
+    "CEC 2840"
+  ],
+  "card_model": {
+    "total_terms": 75,
+    "columns": 5,
+    "terms_per_column": 15,
+    "grid": "5x5",
+    "center": {
+      "label": "LIVRE / Jo 15,12-15; Ef 4,1-3",
+      "fixed": true,
+      "called": false
+    },
+    "recommended_win_condition": "duas_linhas"
+  },
+  "columns": [
+    {
+      "key": "B",
+      "title": "Base moral",
+      "function": "Fundamentos bíblicos e doutrinais para ler o tema.",
+      "short_function": "fundamento cristão do tema"
+    },
+    {
+      "key": "I",
+      "title": "Situações concretas",
+      "function": "Formas reais em que o tema aparece na vida concreta, em situações inteligíveis para a turma.",
+      "short_function": "situações concretas do tema"
+    },
+    {
+      "key": "N",
+      "title": "Narrativas falsas",
+      "function": "Desculpas, autoenganos e frases que desviam do bem.",
+      "short_function": "desculpas que normalizam o erro"
+    },
+    {
+      "key": "G",
+      "title": "Discernimentos",
+      "function": "Distinções morais que evitam respostas simplistas.",
+      "short_function": "distinções para discernir"
+    },
+    {
+      "key": "O",
+      "title": "Orientações de resposta",
+      "function": "Ações concretas, prudentes e proporcionais diante do problema.",
+      "short_function": "respostas proporcionais e prudentes"
+    }
+  ],
+  "terms": [
+    {
+      "id": "B01",
+      "column": "B",
+      "label": "Imagem de Deus",
+      "definition": "Todo ser humano possui dignidade recebida de Deus e não pode ser reduzido à aparência, utilidade, desempenho, ferida ou aprovação dos outros.",
+      "anchors": [
+        "Gn 1,27",
+        "CEC 1879"
+      ],
+      "tags": [
+        "dignidade",
+        "antropologia"
+      ]
+    },
+    {
+      "id": "B02",
+      "column": "B",
+      "label": "Filho amado",
+      "definition": "A identidade mais profunda da pessoa nasce do amor de Deus, antes de qualquer sucesso, rejeição, comparação ou função que ela exerça.",
+      "anchors": [
+        "1Jo 3,1",
+        "Ef 1,4-5"
+      ],
+      "tags": [
+        "identidade",
+        "filiação"
+      ]
+    },
+    {
+      "id": "B03",
+      "column": "B",
+      "label": "Vocação à comunhão",
+      "definition": "A pessoa humana precisa da vida social para desenvolver seus dons, servir, dialogar e responder à própria vocação.",
+      "anchors": [
+        "CEC 1879",
+        "Ef 4,1-3"
+      ],
+      "tags": [
+        "comunhão",
+        "vida social"
+      ]
+    },
+    {
+      "id": "B04",
+      "column": "B",
+      "label": "Caridade de Cristo",
+      "definition": "O amor cristão tem como medida o amor de Jesus, que se entrega pelo bem do outro sem se confundir com posse, agrado ou sentimentalismo.",
+      "anchors": [
+        "Jo 15,12-13",
+        "CEC 1822"
+      ],
+      "tags": [
+        "caridade",
+        "amor"
+      ]
+    },
+    {
+      "id": "B05",
+      "column": "B",
+      "label": "Amizade verdadeira",
+      "definition": "A amizade verdadeira deseja o bem do outro, fala a verdade com caridade e não usa a intimidade para dominar, manipular ou excluir.",
+      "anchors": [
+        "Jo 15,12-15",
+        "1Cor 13,4-7"
+      ],
+      "tags": [
+        "amizade",
+        "bem"
+      ]
+    },
+    {
+      "id": "B06",
+      "column": "B",
+      "label": "Vida digna da vocação",
+      "definition": "O cristão é chamado a viver seus vínculos de modo coerente com a fé, não como quem separa oração, caráter e relações concretas.",
+      "anchors": [
+        "Ef 4,1",
+        "Cl 3,12-15"
+      ],
+      "tags": [
+        "vocação",
+        "coerência"
+      ]
+    },
+    {
+      "id": "B07",
+      "column": "B",
+      "label": "Humildade relacional",
+      "definition": "Humildade é reconhecer a própria verdade diante de Deus, sem superioridade, autoengano ou necessidade de estar sempre no centro.",
+      "anchors": [
+        "Ef 4,2",
+        "Fl 2,3-4"
+      ],
+      "tags": [
+        "humildade",
+        "verdade"
+      ]
+    },
+    {
+      "id": "B08",
+      "column": "B",
+      "label": "Amabilidade firme",
+      "definition": "A amabilidade cristã une mansidão e verdade, recusando tanto a agressividade quanto a covardia que deixa o mal crescer.",
+      "anchors": [
+        "Ef 4,2",
+        "Mt 11,29"
+      ],
+      "tags": [
+        "mansidão",
+        "firmeza"
+      ]
+    },
+    {
+      "id": "B09",
+      "column": "B",
+      "label": "Paciência caridosa",
+      "definition": "A paciência cristã suporta limitações reais por amor, sem transformar abusos em normalidade nem chamar omissão de virtude.",
+      "anchors": [
+        "Ef 4,2",
+        "Cl 3,13"
+      ],
+      "tags": [
+        "paciência",
+        "caridade"
+      ]
+    },
+    {
+      "id": "B10",
+      "column": "B",
+      "label": "Vínculo da paz",
+      "definition": "A paz cristã conserva a unidade pelo Espírito, mas não depende de mentira, silêncio forçado, medo ou encobrimento da injustiça.",
+      "anchors": [
+        "Ef 4,3",
+        "Jo 14,27"
+      ],
+      "tags": [
+        "paz",
+        "unidade"
+      ]
+    },
+    {
+      "id": "B11",
+      "column": "B",
+      "label": "Igreja doméstica",
+      "definition": "A família cristã é chamada a ser comunidade de fé, esperança e caridade, mesmo quando precisa de conversão, cura e ajuda concreta.",
+      "anchors": [
+        "CEC 2204",
+        "Ef 4,1-3"
+      ],
+      "tags": [
+        "família",
+        "comunhão"
+      ]
+    },
+    {
+      "id": "B12",
+      "column": "B",
+      "label": "Honra aos pais",
+      "definition": "Honrar pai e mãe envolve respeito, gratidão e diálogo maduro, sem exigir obediência a pecado, violência ou abuso de autoridade.",
+      "anchors": [
+        "Ex 20,12",
+        "CEC 2214",
+        "CEC 2217"
+      ],
+      "tags": [
+        "família",
+        "autoridade"
+      ]
+    },
+    {
+      "id": "B13",
+      "column": "B",
+      "label": "Sentimentos integrados",
+      "definition": "Os sentimentos são sinais importantes, mas precisam ser lidos e integrados pela razão, pela fé, pela vontade e pela consciência.",
+      "anchors": [
+        "CEC 1767",
+        "Tg 1,19-20"
+      ],
+      "tags": [
+        "sentimentos",
+        "integração"
+      ]
+    },
+    {
+      "id": "B14",
+      "column": "B",
+      "label": "Consciência formada",
+      "definition": "A consciência deve buscar a verdade moral e julgar atos concretos diante de Deus, não apenas repetir impulsos, medos ou pressões do ambiente.",
+      "anchors": [
+        "CEC 1776",
+        "CEC 1806"
+      ],
+      "tags": [
+        "consciência",
+        "prudência"
+      ]
+    },
+    {
+      "id": "B15",
+      "column": "B",
+      "label": "Perdão cristão",
+      "definition": "O perdão cristão renuncia à vingança e abre caminho de reconciliação, sem negar o mal, apagar consequências ou dispensar conversão.",
+      "anchors": [
+        "Mt 18,21-22",
+        "CEC 2840"
+      ],
+      "tags": [
+        "perdão",
+        "reconciliação"
+      ]
+    },
+    {
+      "id": "I01",
+      "column": "I",
+      "label": "Comparação familiar",
+      "definition": "Situação em que alguém é medido por comparação com irmãos, primos ou outros membros da família, gerando rivalidade e ferida de identidade.",
+      "anchors": [
+        "B01",
+        "B02"
+      ],
+      "tags": [
+        "família",
+        "comparação"
+      ]
+    },
+    {
+      "id": "I02",
+      "column": "I",
+      "label": "Discussão sem escuta",
+      "definition": "Conflito em que cada um prepara a própria defesa enquanto o outro fala, e a conversa vira disputa por vitória.",
+      "anchors": [
+        "Tg 1,19-20",
+        "B08"
+      ],
+      "tags": [
+        "escuta",
+        "conflito"
+      ]
+    },
+    {
+      "id": "I03",
+      "column": "I",
+      "label": "Amizade possessiva",
+      "definition": "Relação em que a intimidade é usada para cobrar exclusividade, controlar escolhas e impedir outros vínculos saudáveis.",
+      "anchors": [
+        "B05",
+        "G12"
+      ],
+      "tags": [
+        "amizade",
+        "controle"
+      ]
+    },
+    {
+      "id": "I04",
+      "column": "I",
+      "label": "Grupo que exclui",
+      "definition": "Situação em que o pertencimento ao grupo depende de desprezar, ridicularizar ou isolar alguém considerado inconveniente.",
+      "anchors": [
+        "B03",
+        "B05"
+      ],
+      "tags": [
+        "grupo",
+        "exclusão"
+      ]
+    },
+    {
+      "id": "I05",
+      "column": "I",
+      "label": "Influência para o vício",
+      "definition": "Quando uma relação usa confiança, pressão ou desejo de pertencimento para empurrar alguém a bebida, pornografia, droga, jogo ou outra dependência.",
+      "anchors": [
+        "B05",
+        "CEC 1809"
+      ],
+      "tags": [
+        "vício",
+        "pressão"
+      ]
+    },
+    {
+      "id": "I06",
+      "column": "I",
+      "label": "Segredo perigoso",
+      "definition": "Situação em que alguém pede segredo sobre risco grave, violência, abuso, automutilação ou exploração, confundindo lealdade com silêncio.",
+      "anchors": [
+        "G10",
+        "O06"
+      ],
+      "tags": [
+        "segredo",
+        "proteção"
+      ]
+    },
+    {
+      "id": "I07",
+      "column": "I",
+      "label": "Ciúme digital",
+      "definition": "Controle de mensagens, senhas, curtidas ou localização como se vigilância fosse prova normal de amor ou amizade.",
+      "anchors": [
+        "G12",
+        "B04"
+      ],
+      "tags": [
+        "ciúme",
+        "digital"
+      ]
+    },
+    {
+      "id": "I08",
+      "column": "I",
+      "label": "Ausência familiar",
+      "definition": "Ferida causada por pai, mãe ou responsável que se mantém distante, instável ou indiferente, deixando marcas no modo de confiar e amar.",
+      "anchors": [
+        "B11",
+        "B02"
+      ],
+      "tags": [
+        "família",
+        "ferida"
+      ]
+    },
+    {
+      "id": "I09",
+      "column": "I",
+      "label": "Cuidado com idoso",
+      "definition": "Situação em que uma pessoa idosa depende de presença, paciência e decisões familiares que revelam amor concreto ou abandono.",
+      "anchors": [
+        "B11",
+        "B12"
+      ],
+      "tags": [
+        "família",
+        "cuidado"
+      ]
+    },
+    {
+      "id": "I10",
+      "column": "I",
+      "label": "Trabalho que isola",
+      "definition": "Rotina em que produtividade, excesso de horas ou ambição corroem vínculos familiares, amizades e vida espiritual.",
+      "anchors": [
+        "B03",
+        "B11"
+      ],
+      "tags": [
+        "trabalho",
+        "isolamento"
+      ]
+    },
+    {
+      "id": "I11",
+      "column": "I",
+      "label": "Luto sem companhia",
+      "definition": "Situação em que alguém sofre uma perda e encontra pressa, frases vazias ou abandono em vez de presença discreta e fiel.",
+      "anchors": [
+        "Rm 12,15",
+        "B09"
+      ],
+      "tags": [
+        "luto",
+        "presença"
+      ]
+    },
+    {
+      "id": "I12",
+      "column": "I",
+      "label": "Conflito entre irmãos",
+      "definition": "Rivalidade familiar em que mágoas antigas, favoritismos ou disputas de herança rompem a fraternidade e contaminam novas gerações.",
+      "anchors": [
+        "B11",
+        "B15"
+      ],
+      "tags": [
+        "irmãos",
+        "reconciliação"
+      ]
+    },
+    {
+      "id": "I13",
+      "column": "I",
+      "label": "Exposição da intimidade",
+      "definition": "Quando fotos, conversas, fraquezas ou histórias pessoais são divulgadas sem respeito pela dignidade e pela confiança recebida.",
+      "anchors": [
+        "B01",
+        "O10"
+      ],
+      "tags": [
+        "intimidade",
+        "exposição"
+      ]
+    },
+    {
+      "id": "I14",
+      "column": "I",
+      "label": "Dependência afetiva",
+      "definition": "Relação em que a pessoa perde liberdade interior, responsabilidade e juízo moral por medo de ser abandonada.",
+      "anchors": [
+        "B13",
+        "G12"
+      ],
+      "tags": [
+        "dependência",
+        "liberdade"
+      ]
+    },
+    {
+      "id": "I15",
+      "column": "I",
+      "label": "Reaproximação difícil",
+      "definition": "Tentativa prudente de retomar diálogo depois de ferida real, sem fingir que nada aconteceu e sem exigir cura imediata.",
+      "anchors": [
+        "B15",
+        "O08"
+      ],
+      "tags": [
+        "reconciliação",
+        "diálogo"
+      ]
+    },
+    {
+      "id": "N01",
+      "column": "N",
+      "label": "Fatalismo afetivo",
+      "definition": "Desculpa que transforma temperamento, ferida ou hábito em destino imutável, recusando conversão, ajuda e responsabilidade.",
+      "anchors": [
+        "B14",
+        "B13"
+      ],
+      "tags": [
+        "autoengano",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "N02",
+      "column": "N",
+      "label": "Autenticidade sem freio",
+      "definition": "Narrativa que chama de sinceridade qualquer explosão, grosseria ou exposição cruel, como se sentir algo autorizasse fazer tudo.",
+      "anchors": [
+        "B13",
+        "G02"
+      ],
+      "tags": [
+        "sinceridade",
+        "impulso"
+      ]
+    },
+    {
+      "id": "N03",
+      "column": "N",
+      "label": "Ilusão de controle",
+      "definition": "Autoengano que apresenta vigilância, cobrança e manipulação como cuidado necessário para manter o outro perto.",
+      "anchors": [
+        "G12",
+        "B04"
+      ],
+      "tags": [
+        "controle",
+        "manipulação"
+      ]
+    },
+    {
+      "id": "N04",
+      "column": "N",
+      "label": "Todo mundo faz",
+      "definition": "Desculpa que troca consciência moral por costume do grupo, diminuindo a culpa porque muitos participam do mesmo erro.",
+      "anchors": [
+        "B14",
+        "Rm 12,2"
+      ],
+      "tags": [
+        "pressão",
+        "grupo"
+      ]
+    },
+    {
+      "id": "N05",
+      "column": "N",
+      "label": "Amor que sufoca",
+      "definition": "Narrativa que confunde amar com ocupar todo o espaço do outro, exigir respostas constantes e impedir liberdade responsável.",
+      "anchors": [
+        "B04",
+        "G12"
+      ],
+      "tags": [
+        "amor",
+        "posse"
+      ]
+    },
+    {
+      "id": "N06",
+      "column": "N",
+      "label": "Perdão sem mudança",
+      "definition": "Erro de exigir reconciliação imediata enquanto a injustiça continua, sem verdade, reparação, limite ou conversão concreta.",
+      "anchors": [
+        "B15",
+        "G08"
+      ],
+      "tags": [
+        "perdão",
+        "impunidade"
+      ]
+    },
+    {
+      "id": "N07",
+      "column": "N",
+      "label": "Corte sem discernir",
+      "definition": "Narrativa que transforma qualquer incômodo ou correção em motivo para descartar pessoas sem diálogo, prudência ou exame de si.",
+      "anchors": [
+        "B09",
+        "G07"
+      ],
+      "tags": [
+        "ruptura",
+        "discernimento"
+      ]
+    },
+    {
+      "id": "N08",
+      "column": "N",
+      "label": "Família descartável",
+      "definition": "Desculpa que usa feridas reais para negar todo dever de respeito, gratidão, cuidado possível ou busca prudente de reconciliação.",
+      "anchors": [
+        "B11",
+        "B12"
+      ],
+      "tags": [
+        "família",
+        "descarte"
+      ]
+    },
+    {
+      "id": "N09",
+      "column": "N",
+      "label": "Amizade conveniente",
+      "definition": "Falsa amizade que se mantém enquanto traz vantagem, status, diversão ou acesso, mas abandona quando surge custo ou verdade.",
+      "anchors": [
+        "B05",
+        "Jo 15,13"
+      ],
+      "tags": [
+        "amizade",
+        "utilidade"
+      ]
+    },
+    {
+      "id": "N10",
+      "column": "N",
+      "label": "Sentimento manda",
+      "definition": "Autoengano que coloca tristeza, raiva, medo ou desejo como autoridade final, dispensando razão, consciência e graça.",
+      "anchors": [
+        "B13",
+        "CEC 1767"
+      ],
+      "tags": [
+        "sentimentos",
+        "impulso"
+      ]
+    },
+    {
+      "id": "N11",
+      "column": "N",
+      "label": "Silêncio como paz",
+      "definition": "Desculpa que evita conversas necessárias e chama de paz uma convivência sustentada por medo, mágoa escondida ou injustiça encoberta.",
+      "anchors": [
+        "B10",
+        "G06"
+      ],
+      "tags": [
+        "silêncio",
+        "paz falsa"
+      ]
+    },
+    {
+      "id": "N12",
+      "column": "N",
+      "label": "Verdade para ferir",
+      "definition": "Narrativa que usa fatos reais para humilhar, dominar ou descarregar raiva, sem caridade, prudência ou finalidade de correção.",
+      "anchors": [
+        "B08",
+        "G05"
+      ],
+      "tags": [
+        "verdade",
+        "humilhação"
+      ]
+    },
+    {
+      "id": "N13",
+      "column": "N",
+      "label": "Ciúme como prova",
+      "definition": "Desculpa que chama insegurança possessiva de demonstração de amor, normalizando invasão, suspeita e controle.",
+      "anchors": [
+        "I07",
+        "G12"
+      ],
+      "tags": [
+        "ciúme",
+        "posse"
+      ]
+    },
+    {
+      "id": "N14",
+      "column": "N",
+      "label": "Exposição como justiça",
+      "definition": "Erro de transformar denúncia, correção ou indignação em linchamento moral, espetáculo público e destruição da pessoa.",
+      "anchors": [
+        "G05",
+        "Mt 18,15-17"
+      ],
+      "tags": [
+        "exposição",
+        "justiça"
+      ]
+    },
+    {
+      "id": "N15",
+      "column": "N",
+      "label": "Oração sem passos",
+      "definition": "Narrativa que usa linguagem religiosa para adiar decisões necessárias, pedido de ajuda, limite, reparação ou mudança concreta.",
+      "anchors": [
+        "Tg 2,15-17",
+        "O11"
+      ],
+      "tags": [
+        "oração",
+        "passividade"
+      ]
+    },
+    {
+      "id": "G01",
+      "column": "G",
+      "label": "Pessoa e ato",
+      "definition": "Distinção entre a dignidade inviolável da pessoa e a avaliação moral de seus atos, escolhas e consequências.",
+      "anchors": [
+        "B01",
+        "B14"
+      ],
+      "tags": [
+        "discernimento",
+        "dignidade"
+      ]
+    },
+    {
+      "id": "G02",
+      "column": "G",
+      "label": "Sentir e consentir",
+      "definition": "Distinção entre experimentar um sentimento e escolher alimentá-lo, expressá-lo ou agir segundo ele.",
+      "anchors": [
+        "B13",
+        "CEC 1767"
+      ],
+      "tags": [
+        "sentimentos",
+        "liberdade"
+      ]
+    },
+    {
+      "id": "G03",
+      "column": "G",
+      "label": "Autonomia e ruptura",
+      "definition": "Distinção entre crescer em responsabilidade própria e romper vínculos por orgulho, fuga ou desprezo.",
+      "anchors": [
+        "B12",
+        "B03"
+      ],
+      "tags": [
+        "autonomia",
+        "família"
+      ]
+    },
+    {
+      "id": "G04",
+      "column": "G",
+      "label": "Escuta e conivência",
+      "definition": "Distinção entre escutar a dor de alguém com seriedade e aprovar escolhas, mentiras ou danos que essa dor não justifica.",
+      "anchors": [
+        "B08",
+        "B14"
+      ],
+      "tags": [
+        "escuta",
+        "verdade"
+      ]
+    },
+    {
+      "id": "G05",
+      "column": "G",
+      "label": "Correção e humilhação",
+      "definition": "Distinção entre corrigir visando o bem e expor alguém para vencer, ferir, ridicularizar ou dominar.",
+      "anchors": [
+        "Mt 18,15-17",
+        "B08"
+      ],
+      "tags": [
+        "correção",
+        "humilhação"
+      ]
+    },
+    {
+      "id": "G06",
+      "column": "G",
+      "label": "Prudência e omissão",
+      "definition": "Distinção entre agir no tempo e modo adequados e calar por medo quando há dever de proteger, corrigir ou pedir ajuda.",
+      "anchors": [
+        "CEC 1806",
+        "B10"
+      ],
+      "tags": [
+        "prudência",
+        "omissão"
+      ]
+    },
+    {
+      "id": "G07",
+      "column": "G",
+      "label": "Limite e rejeição",
+      "definition": "Distinção entre estabelecer uma fronteira necessária para o bem e descartar a pessoa como se ela não tivesse dignidade.",
+      "anchors": [
+        "B01",
+        "B09"
+      ],
+      "tags": [
+        "limite",
+        "dignidade"
+      ]
+    },
+    {
+      "id": "G08",
+      "column": "G",
+      "label": "Perdão e impunidade",
+      "definition": "Distinção entre perdoar de coração e eliminar toda consequência, reparação ou proteção necessária.",
+      "anchors": [
+        "B15",
+        "Mt 18,21-22"
+      ],
+      "tags": [
+        "perdão",
+        "justiça"
+      ]
+    },
+    {
+      "id": "G09",
+      "column": "G",
+      "label": "Acolhida e aprovação",
+      "definition": "Distinção entre receber a pessoa com caridade e aprovar toda escolha, relação ou comportamento sem juízo moral.",
+      "anchors": [
+        "B04",
+        "G01"
+      ],
+      "tags": [
+        "acolhida",
+        "verdade"
+      ]
+    },
+    {
+      "id": "G10",
+      "column": "G",
+      "label": "Segredo e ocultação",
+      "definition": "Distinção entre guardar confidência legítima e esconder risco grave que exige proteção, autoridade competente ou ajuda responsável.",
+      "anchors": [
+        "I06",
+        "O06"
+      ],
+      "tags": [
+        "segredo",
+        "proteção"
+      ]
+    },
+    {
+      "id": "G11",
+      "column": "G",
+      "label": "Amizade e panelinha",
+      "definition": "Distinção entre vínculo de amizade real e fechamento de grupo que depende de exclusão, superioridade ou desprezo.",
+      "anchors": [
+        "B05",
+        "I04"
+      ],
+      "tags": [
+        "amizade",
+        "grupo"
+      ]
+    },
+    {
+      "id": "G12",
+      "column": "G",
+      "label": "Amor e controle",
+      "definition": "Distinção entre amar buscando o bem do outro e controlar para aliviar medo, insegurança ou desejo de posse.",
+      "anchors": [
+        "B04",
+        "I03"
+      ],
+      "tags": [
+        "amor",
+        "controle"
+      ]
+    },
+    {
+      "id": "G13",
+      "column": "G",
+      "label": "Conflito e violência",
+      "definition": "Distinção entre desacordo inevitável em relações humanas e agressão verbal, emocional, física ou moral que viola a dignidade.",
+      "anchors": [
+        "B01",
+        "Tg 1,19-20"
+      ],
+      "tags": [
+        "conflito",
+        "violência"
+      ]
+    },
+    {
+      "id": "G14",
+      "column": "G",
+      "label": "Cuidado e salvadorismo",
+      "definition": "Distinção entre ajudar com presença responsável e assumir para si o controle da vida do outro como se fosse seu salvador.",
+      "anchors": [
+        "B04",
+        "O14"
+      ],
+      "tags": [
+        "cuidado",
+        "limite"
+      ]
+    },
+    {
+      "id": "G15",
+      "column": "G",
+      "label": "Autoridade e abuso",
+      "definition": "Distinção entre autoridade legítima que serve ao bem e uso de poder para medo, humilhação, exploração ou encobrimento.",
+      "anchors": [
+        "B12",
+        "G01"
+      ],
+      "tags": [
+        "autoridade",
+        "abuso"
+      ]
+    },
+    {
+      "id": "O01",
+      "column": "O",
+      "label": "Nomear o sentimento",
+      "definition": "Resposta de reconhecer com honestidade o que se sente, sem negar, dramatizar ou entregar a decisão ao impulso.",
+      "anchors": [
+        "B13",
+        "G02"
+      ],
+      "tags": [
+        "sentimentos",
+        "autoconhecimento"
+      ]
+    },
+    {
+      "id": "O02",
+      "column": "O",
+      "label": "Pedir escuta",
+      "definition": "Ação de procurar conversa em momento adequado, falar com clareza e pedir que o outro escute antes de responder.",
+      "anchors": [
+        "Tg 1,19-20",
+        "B08"
+      ],
+      "tags": [
+        "diálogo",
+        "escuta"
+      ]
+    },
+    {
+      "id": "O03",
+      "column": "O",
+      "label": "Dar limite claro",
+      "definition": "Resposta de comunicar uma fronteira concreta diante de invasão, agressão ou manipulação, sem vingança nem ambiguidade.",
+      "anchors": [
+        "G07",
+        "B08"
+      ],
+      "tags": [
+        "limite",
+        "firmeza"
+      ]
+    },
+    {
+      "id": "O04",
+      "column": "O",
+      "label": "Reparar a palavra",
+      "definition": "Ação de corrigir uma fala injusta, pedir perdão e restituir a verdade quando a palavra feriu, mentiu ou humilhou.",
+      "anchors": [
+        "Mt 5,23-24",
+        "B15"
+      ],
+      "tags": [
+        "reparação",
+        "palavra"
+      ]
+    },
+    {
+      "id": "O05",
+      "column": "O",
+      "label": "Cortar circulação",
+      "definition": "Resposta de interromper repasses de humilhação, intimidade exposta ou boato, recusando cooperação com o dano.",
+      "anchors": [
+        "I13",
+        "B01"
+      ],
+      "tags": [
+        "exposição",
+        "proteção"
+      ]
+    },
+    {
+      "id": "O06",
+      "column": "O",
+      "label": "Buscar adulto responsável",
+      "definition": "Ação de acionar pessoa madura e confiável quando há risco grave, violência, abuso, vício ou ameaça que não deve ficar em segredo.",
+      "anchors": [
+        "I06",
+        "G10"
+      ],
+      "tags": [
+        "proteção",
+        "ajuda"
+      ]
+    },
+    {
+      "id": "O07",
+      "column": "O",
+      "label": "Pedir perdão concreto",
+      "definition": "Resposta de reconhecer o mal feito, nomear o dano, abandonar desculpas e aceitar reparação proporcional.",
+      "anchors": [
+        "Mt 5,23-24",
+        "B15"
+      ],
+      "tags": [
+        "perdão",
+        "reparação"
+      ]
+    },
+    {
+      "id": "O08",
+      "column": "O",
+      "label": "Buscar mediação",
+      "definition": "Ação de envolver alguém prudente quando a conversa direta está bloqueada, insegura ou repetindo agressões.",
+      "anchors": [
+        "Mt 18,15-17",
+        "CEC 1806"
+      ],
+      "tags": [
+        "mediação",
+        "prudência"
+      ]
+    },
+    {
+      "id": "O09",
+      "column": "O",
+      "label": "Rever amizades",
+      "definition": "Resposta de examinar vínculos, afastar-se de influências destrutivas e cultivar relações que ajudem a viver o bem.",
+      "anchors": [
+        "B05",
+        "1Cor 15,33"
+      ],
+      "tags": [
+        "amizade",
+        "discernimento"
+      ]
+    },
+    {
+      "id": "O10",
+      "column": "O",
+      "label": "Proteger intimidade",
+      "definition": "Ação de guardar conversas, imagens, histórias e vulnerabilidades recebidas, sem usar confiança como moeda ou arma.",
+      "anchors": [
+        "I13",
+        "B01"
+      ],
+      "tags": [
+        "intimidade",
+        "confiança"
+      ]
+    },
+    {
+      "id": "O11",
+      "column": "O",
+      "label": "Rezar com decisão",
+      "definition": "Resposta de unir oração e passos concretos, pedindo graça para agir no bem em vez de usar a oração como fuga.",
+      "anchors": [
+        "Tg 2,15-17",
+        "B06"
+      ],
+      "tags": [
+        "oração",
+        "ação"
+      ]
+    },
+    {
+      "id": "O12",
+      "column": "O",
+      "label": "Servir em casa",
+      "definition": "Ação de assumir tarefas, presença e cuidado familiar proporcionais, sem esperar que amor doméstico seja apenas sentimento.",
+      "anchors": [
+        "B11",
+        "B12"
+      ],
+      "tags": [
+        "família",
+        "serviço"
+      ]
+    },
+    {
+      "id": "O13",
+      "column": "O",
+      "label": "Honrar sem mentir",
+      "definition": "Resposta de tratar pai, mãe e familiares com respeito possível, sem negar feridas, injustiças ou necessidade de proteção.",
+      "anchors": [
+        "B12",
+        "G15"
+      ],
+      "tags": [
+        "família",
+        "verdade"
+      ]
+    },
+    {
+      "id": "O14",
+      "column": "O",
+      "label": "Acompanhar sem dominar",
+      "definition": "Ação de estar presente, orientar e apoiar sem tomar posse da consciência, das escolhas e do processo do outro.",
+      "anchors": [
+        "G14",
+        "B04"
+      ],
+      "tags": [
+        "acompanhamento",
+        "limite"
+      ]
+    },
+    {
+      "id": "O15",
+      "column": "O",
+      "label": "Confessar e recomeçar",
+      "definition": "Resposta cristã de levar pecados relacionais à misericórdia de Deus, assumir mudança concreta e retomar o caminho da caridade.",
+      "anchors": [
+        "B15",
+        "Jo 20,22-23"
+      ],
+      "tags": [
+        "confissão",
+        "conversão"
+      ]
+    }
+  ]
+}

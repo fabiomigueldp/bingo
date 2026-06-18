@@ -1,0 +1,308 @@
+{
+  "title": "Carta de explicações rápidas — Bingo O bem comum",
+  "meeting": "Encontro 03 — O bem comum",
+  "source_calls": "data/chamadas.json",
+  "purpose": "Explicações breves para o condutor usar durante a chamada de cada carta.",
+  "entries": [
+    {
+      "id": "B01",
+      "explanation": "O **bem comum** não é o interesse de quem grita mais alto. Ele olha para as condições que permitem vida digna para todos. Jr 29,7 ensina a buscar o bem da cidade, mesmo quando isso custa participação e paciência."
+    },
+    {
+      "id": "B02",
+      "explanation": "Quando uma instituição protege coisas e abandona pessoas, a ordem moral foi invertida. O Catecismo lembra que a organização das coisas deve servir à ordem das pessoas. A resposta cristã recoloca a dignidade humana acima do lucro, da imagem e da eficiência."
+    },
+    {
+      "id": "B03",
+      "explanation": "O **bem comum** nunca autoriza violar direitos fundamentais. Vida, consciência, intimidade e liberdade religiosa não são favores concedidos pela sociedade. Transparência e organização precisam respeitar a pessoa concreta."
+    },
+    {
+      "id": "B04",
+      "explanation": "O **bem-estar social** inclui condições reais para uma vida humana. Não basta uma ajuda isolada quando faltam saúde, trabalho, moradia e educação. A caridade cristã socorre a urgência e também enxerga as causas da necessidade."
+    },
+    {
+      "id": "B05",
+      "explanation": "A **paz justa** não é silêncio imposto. Sem justiça, o silêncio pode esconder medo, abuso e abandono. A paz cristã exige ordem segura, meios honestos e proteção dos vulneráveis."
+    },
+    {
+      "id": "B06",
+      "explanation": "A **participação** é parte da dignidade humana. Reclamar pode ser legítimo, mas não substitui presença, escuta e responsabilidade. Cada pessoa participa do bem comum conforme o lugar que ocupa."
+    },
+    {
+      "id": "B07",
+      "explanation": "A **responsabilidade pessoal** impede jogar tudo nas costas dos outros. Existem deveres do Estado, da família, do trabalho e de cada cidadão. O bem comum começa também no setor concreto que já está sob nosso cuidado."
+    },
+    {
+      "id": "B08",
+      "explanation": "A **prudência social** não é medo de agir. Ela escolhe meios honestos, proporcionais e eficazes para enfrentar o mal. Sem prudência, a denúncia vira injustiça; sem coragem, a prudência vira omissão."
+    },
+    {
+      "id": "B09",
+      "explanation": "A **justiça social** pergunta se as pessoas recebem o que lhes é devido para viver com dignidade. Ela não olha só para intenções individuais, mas também para prioridades e estruturas. Uma sociedade pode ser injusta quando organiza bem o visível e abandona o necessário."
+    },
+    {
+      "id": "B10",
+      "explanation": "A **solidariedade** reconhece que a dor do outro me diz respeito. Não é pena passageira nem favor humilhante. Ela se torna concreta em ajuda, prevenção, presença e responsabilidade compartilhada."
+    },
+    {
+      "id": "B11",
+      "explanation": "A **subsidiariedade** protege a ação das pessoas e comunidades menores. A autoridade maior não deve esmagar o que já funciona, nem abandonar quem precisa de apoio. O critério é fortalecer a responsabilidade, não concentrar poder."
+    },
+    {
+      "id": "B12",
+      "explanation": "A **autoridade servidora** existe para o bem comum. Quando o cargo vira privilégio, a confiança social é ferida. Quem recebeu poder precisa prestar contas, proteger os fracos e agir com justiça."
+    },
+    {
+      "id": "B13",
+      "explanation": "O **destino comum dos bens** lembra que os bens da criação são destinados a todos. A propriedade pode ser legítima, mas não é autorização para indiferença. Usar bens com responsabilidade social faz parte da justiça cristã."
+    },
+    {
+      "id": "B14",
+      "explanation": "O **amor aos pobres** não é sentimento vago. Cristo se identifica com quem tem fome, sede, abandono e necessidade real. A resposta cristã não humilha o pobre nem o transforma em problema invisível."
+    },
+    {
+      "id": "B15",
+      "explanation": "A **caridade social** leva o amor cristão para as relações e estruturas que afetam muitos. Ela ajuda a pessoa concreta e também enfrenta condições injustas. Amar o próximo inclui cuidar da cidade onde o próximo vive."
+    },
+    {
+      "id": "I01",
+      "explanation": "O **remédio inacessível** mostra que saúde não pode ser tratada apenas como mercadoria. Quando uma necessidade grave fica fora do alcance, a vida humana é ferida. A resposta exige socorro concreto, encaminhamento correto e justiça social."
+    },
+    {
+      "id": "I02",
+      "explanation": "A **moradia indigna** fere corpo, família e esperança. Um teto que ameaça saúde e segurança não realiza plenamente a dignidade da pessoa. O bem comum exige condições reais de habitação, não apenas sobrevivência."
+    },
+    {
+      "id": "I03",
+      "explanation": "O **trabalho explorado** transforma necessidade de sustento em ocasião de abuso. Salário justo, descanso e segurança não são enfeites. A fé cristã defende o trabalhador porque ele é pessoa, não peça da produção."
+    },
+    {
+      "id": "I04",
+      "explanation": "O **transporte inseguro** atinge trabalho, saúde e rotina familiar. Não é apenas desconforto; pode ser risco permanente e exclusão. O bem comum exige deslocamento minimamente seguro e digno."
+    },
+    {
+      "id": "I05",
+      "explanation": "O **fura-fila de influência** parece solução pessoal, mas rouba justiça de quem esperou corretamente. A influência vira privilégio quando passa por cima de critérios justos. Recusar esse atalho protege os que não têm padrinhos."
+    },
+    {
+      "id": "I06",
+      "explanation": "O **lixo no bairro** mostra que escolhas pequenas podem ferir a vida comum. A sujeira atinge saúde, trabalhadores e vizinhos. Cuidar do descarte é dever pessoal e participação concreta no bem comum."
+    },
+    {
+      "id": "I07",
+      "explanation": "A **corrupção pequena** não é pequena para o bem comum. Ela ensina que regra vale só para quem não paga ou não conhece alguém. Cada fraude corrói confiança, justiça e segurança."
+    },
+    {
+      "id": "I08",
+      "explanation": "O **desemprego ignorado** revela indiferença diante de uma ferida real. Pode haver responsabilidade pessoal, mas não se pode apagar a dimensão social do trabalho. A solidariedade escuta, ajuda e busca oportunidades justas."
+    },
+    {
+      "id": "I09",
+      "explanation": "A **informação manipulada** destrói decisões livres. Mentira, dado cortado e imagem fora de contexto deformam a participação social. Verificar antes de repassar é serviço à verdade e ao próximo."
+    },
+    {
+      "id": "I10",
+      "explanation": "O **idoso abandonado** denuncia uma quebra de amor e responsabilidade. A pessoa idosa não vale pelo benefício, pela utilidade ou pela facilidade que oferece. Cuidado, presença e proteção são exigências concretas da caridade."
+    },
+    {
+      "id": "I11",
+      "explanation": "A **criança sem vaga** mostra como uma falta social atinge toda a família. Educação e cuidado seguro permitem desenvolvimento da criança e trabalho dos responsáveis. O bem comum olha para esse encadeamento de necessidades."
+    },
+    {
+      "id": "I12",
+      "explanation": "A **violência no território** muda a vida inteira de uma comunidade. Medo constante impede trabalho, convivência, escola e descanso. A paz cristã exige ordem justa, proteção real e meios honestos."
+    },
+    {
+      "id": "I13",
+      "explanation": "O **atendimento discriminatório** nem sempre usa palavras ofensivas. Ele aparece em suspeita injusta, demora seletiva e desprezo silencioso. A dignidade da pessoa exige tratamento justo, independentemente de aparência ou condição social."
+    },
+    {
+      "id": "I14",
+      "explanation": "A **privacidade violada** fere dignidade e confiança. Dados, doença, dívida e intimidade não são material de piada ou exposição. Proteger a vida particular é parte do respeito à pessoa."
+    },
+    {
+      "id": "I15",
+      "explanation": "O **saneamento ausente** não é detalhe técnico sem peso moral. Água limpa e esgoto tratado protegem vida, saúde e dignidade. Quando isso falta, o bem comum está ferido de modo concreto."
+    },
+    {
+      "id": "N01",
+      "explanation": "A **soma de interesses** parece democrática, mas pode ignorar a justiça. O bem comum não nasce apenas de juntar vontades privadas. Ele exige perguntar quais condições respeitam a pessoa e atendem às necessidades reais."
+    },
+    {
+      "id": "N02",
+      "explanation": "A **ditadura da maioria** transforma número em absolvição moral. Uma maioria pode votar algo injusto. Direitos fundamentais não desaparecem porque uma minoria perdeu a votação."
+    },
+    {
+      "id": "N03",
+      "explanation": "O erro do **Estado acima da pessoa** sacrifica gente concreta em nome de projetos. A autoridade pública deve servir, ordenar e proteger. Quando trata pessoas como obstáculos descartáveis, trai o bem comum."
+    },
+    {
+      "id": "N04",
+      "explanation": "A lógica de **só os meus importam** estreita a consciência. Cuidar da própria família é dever sério, mas não autoriza indiferença ao próximo. A caridade cristã alarga a responsabilidade sem destruir os vínculos próximos."
+    },
+    {
+      "id": "N05",
+      "explanation": "A **impotência cômoda** usa o tamanho do problema para justificar paralisia. Ninguém controla tudo, mas quase sempre há uma parte possível. Participar é assumir essa parte com perseverança."
+    },
+    {
+      "id": "N06",
+      "explanation": "A frase **todo mundo faz** tenta anestesiar a consciência. A repetição social de um erro não o torna justo. O cristão precisa formar a consciência pela verdade, não pela moda do ambiente."
+    },
+    {
+      "id": "N07",
+      "explanation": "O **favor injusto** parece gentileza, mas tira algo de quem tinha direito. Ajuda legítima orienta, acompanha e esclarece. Favorecimento quebra critérios justos e fere os que não têm influência."
+    },
+    {
+      "id": "N08",
+      "explanation": "O **lucro sem limite** faz do ganho financeiro um absoluto. O lucro pode ser legítimo, mas não acima da vida, da saúde e da justiça. A economia deve servir pessoas, não consumir pessoas."
+    },
+    {
+      "id": "N09",
+      "explanation": "A **paz como silêncio** encobre medo e injustiça. Onde ninguém fala porque teme retaliação, não há paz verdadeira. A paz cristã precisa de ordem justa, canais seguros e proteção dos feridos."
+    },
+    {
+      "id": "N10",
+      "explanation": "O **direito sem dever** enfraquece a própria vida comum. Direitos são reais e devem ser defendidos, mas precisam de deveres correspondentes. O bem comum cresce quando cobrança e responsabilidade caminham juntas."
+    },
+    {
+      "id": "N11",
+      "explanation": "A narrativa de **culpa só do governo** pode esconder omissão pessoal. O poder público tem deveres reais, mas família, trabalho e comunidade também têm os seus. A maturidade cristã evita transferir toda responsabilidade."
+    },
+    {
+      "id": "N12",
+      "explanation": "A **neutralidade cômoda** costuma favorecer o lado mais forte. Diante de injustiça concreta, não tomar posição pode manter o dano. Prudência cristã busca a forma correta de agir, não uma desculpa para calar."
+    },
+    {
+      "id": "N13",
+      "explanation": "O **pretexto do bem comum** usa uma palavra boa para esconder abuso. Unidade, ordem e paz não autorizam calar a verdade ou esmagar direitos. O bem comum verdadeiro respeita a pessoa e exige prestação de contas."
+    },
+    {
+      "id": "N14",
+      "explanation": "Chamar a miséria de **problema dos pobres** é uma forma de indiferença. A dor dos vulneráveis revela uma ferida de toda a sociedade. A fé cristã manda reconhecer Cristo no necessitado e responder com justiça."
+    },
+    {
+      "id": "N15",
+      "explanation": "A **fé sem cidade** separa artificialmente oração e responsabilidade social. Jr 29,7 manda rezar pela cidade e buscar seu bem. O cristão não foge da cidade; ele a ama com oração, serviço e justiça."
+    },
+    {
+      "id": "G01",
+      "explanation": "Distinguir **pessoa e coisa** evita sacrificar gente por números, processos ou imagem. Coisas são necessárias, mas não são o fim da sociedade. O critério cristão recoloca a pessoa concreta no centro."
+    },
+    {
+      "id": "G02",
+      "explanation": "Distinguir **necessidade e desejo** ajuda a ordenar prioridades. Desejos podem ser legítimos, mas necessidades básicas têm maior urgência moral. O bem comum pergunta primeiro pelo que sustenta vida digna."
+    },
+    {
+      "id": "G03",
+      "explanation": "Distinguir **interesse e bem comum** impede confundir vantagem de grupo com justiça. Um interesse particular pode ser legítimo, mas deve ser avaliado no conjunto. O critério é a dignidade de todos e a gravidade das necessidades."
+    },
+    {
+      "id": "G04",
+      "explanation": "Distinguir **maioria e justiça** protege direitos fundamentais. A votação decide procedimentos, mas não transforma injustiça em bem. A maioria também deve obedecer à dignidade da pessoa."
+    },
+    {
+      "id": "G05",
+      "explanation": "Distinguir **autoridade e abuso** é essencial para a vida comum. Autoridade legítima serve ao bem comum e age segundo a justiça. Abuso usa cargo, medo ou privilégio para dominar."
+    },
+    {
+      "id": "G06",
+      "explanation": "Distinguir **prudência e omissão** evita dois erros. A imprudência pode piorar o dano, mas a omissão abandona quem precisa. A prudência cristã procura o modo seguro e proporcional de agir."
+    },
+    {
+      "id": "G07",
+      "explanation": "Distinguir **paz e ordem justa** impede chamar medo de harmonia. Paz verdadeira nasce da justiça e da segurança. Quando a injustiça fica intocada, o silêncio é apenas aparência de paz."
+    },
+    {
+      "id": "G08",
+      "explanation": "Distinguir **direito e privilégio** protege a justiça. Direito responde a uma necessidade ou condição reconhecida de modo justo. Privilégio indevido usa posição para passar à frente dos outros."
+    },
+    {
+      "id": "G09",
+      "explanation": "Distinguir **caridade e assistencialismo** protege a dignidade de quem recebe ajuda. A caridade socorre sem humilhar. O assistencialismo pode manter dependência, exposição ou poder sobre o necessitado."
+    },
+    {
+      "id": "G10",
+      "explanation": "Distinguir **solidariedade e invasão** evita dominar quem se quer ajudar. A solidariedade assume responsabilidade pelo outro. Ela não dá posse sobre a consciência, a casa ou as decisões da pessoa."
+    },
+    {
+      "id": "G11",
+      "explanation": "Distinguir **subsídio e abandono** evita deformar a subsidiariedade. Fortalecer comunidades menores é bom; deixá-las sem meios diante de necessidade grave é omissão. O apoio correto aumenta responsabilidade, não dependência inútil."
+    },
+    {
+      "id": "G12",
+      "explanation": "Distinguir **propriedade e destino comum** impede absolutizar a posse. A propriedade privada pode ser legítima e necessária. Mesmo assim, seu uso deve reconhecer a destinação universal dos bens e a necessidade dos outros."
+    },
+    {
+      "id": "G13",
+      "explanation": "Distinguir **participação e partidarismo** forma maturidade pública. Participar é buscar o bem comum com consciência. Partidarismo cego reduz tudo a torcida e impede avaliar fatos e consequências."
+    },
+    {
+      "id": "G14",
+      "explanation": "Distinguir **consciência e capricho** protege a liberdade verdadeira. A consciência reta precisa ser formada pela verdade e pelo bem. Chamar qualquer vontade de consciência destrói a responsabilidade moral."
+    },
+    {
+      "id": "G15",
+      "explanation": "Distinguir **misericórdia e impunidade** impede dois erros. A pessoa culpada continua tendo dignidade, mas o dano não pode ser negado. Misericórdia cristã caminha com verdade, reparação e consequência justa."
+    },
+    {
+      "id": "O01",
+      "explanation": "**Verificar a informação** é ato de caridade e justiça. Mentiras públicas ferem decisões comuns e pessoas concretas. Antes de repassar, é preciso checar fonte, data, contexto e intenção."
+    },
+    {
+      "id": "O02",
+      "explanation": "**Denunciar com prudência** não é espalhar acusação. É levar fatos verificáveis a quem pode agir, protegendo vítimas e evitando injustiça nova. A coragem cristã precisa de meios honestos."
+    },
+    {
+      "id": "O03",
+      "explanation": "**Reparar o dano** significa assumir a consequência do erro. Não basta lamentar ou esperar que ninguém perceba. Devolver, consertar, pedir perdão e restaurar confiança são formas concretas de justiça."
+    },
+    {
+      "id": "O04",
+      "explanation": "**Recusar vantagem indevida** é difícil quando a própria necessidade é real. Mas necessidade pessoal não autoriza roubar a vez de outro. O caminho justo protege a consciência e os mais fracos."
+    },
+    {
+      "id": "O05",
+      "explanation": "**Priorizar o vulnerável** não é favoritismo. É reconhecer que riscos diferentes pedem respostas proporcionais. A caridade cristã olha primeiro para quem tem menos defesa diante do perigo."
+    },
+    {
+      "id": "O06",
+      "explanation": "**Cumprir o dever comum** é uma forma discreta e séria de servir. Trabalho bem feito, regra justa observada e responsabilidade cotidiana sustentam a vida de muitos. O bem comum depende também dessa fidelidade simples."
+    },
+    {
+      "id": "O07",
+      "explanation": "**Participar do conselho** significa entrar nos espaços de decisão com seriedade. Não é apenas desabafo nem disputa de vaidade. Levar fatos, ouvir e acompanhar resultados é exercício concreto de corresponsabilidade."
+    },
+    {
+      "id": "O08",
+      "explanation": "**Servir com constância** forma caridade madura. O impulso inicial pode ser bom, mas necessidades reais continuam depois da emoção. A perseverança torna o serviço confiável e fecundo."
+    },
+    {
+      "id": "O09",
+      "explanation": "**Cobrar sem humilhar** une verdade e respeito. A justiça exige esclarecimento, consequência e reparação quando há erro. Mas linchamento e exposição cruel não são instrumentos cristãos de correção."
+    },
+    {
+      "id": "O10",
+      "explanation": "**Formar juízo público** é dever de quem participa da sociedade. Medo, raiva e propaganda não bastam para apoiar decisões que afetam muitos. É preciso olhar fatos, direitos, meios e consequências."
+    },
+    {
+      "id": "O11",
+      "explanation": "**Partilhar recursos** coloca bens disponíveis a serviço de necessidades reais. A partilha cristã não é desperdício nem improviso vaidoso. Ela precisa de ordem, finalidade justa e respeito por quem recebe."
+    },
+    {
+      "id": "O12",
+      "explanation": "**Proteger a privacidade** é proteger a pessoa. Boa intenção não autoriza divulgar doença, dívida, imagem ou fragilidade sem necessidade justa. Ajuda e oração podem ser pedidas com discrição e consentimento."
+    },
+    {
+      "id": "O13",
+      "explanation": "**Mediar conflitos** é buscar paz com justiça e segurança. Nem todo conflito se resolve com conversa improvisada. Quando há risco, ameaça ou desigualdade forte, a mediação precisa de limites e apoio competente."
+    },
+    {
+      "id": "O14",
+      "explanation": "**Cuidar do espaço comum** é participação concreta no bem da cidade. Praça, rua, água, lixo e iluminação afetam a vida de muitos. Cuidar pessoalmente e cobrar o poder público não são atitudes opostas."
+    },
+    {
+      "id": "O15",
+      "explanation": "**Rezar pela cidade** une fé e responsabilidade. Jr 29,7 não manda fugir da cidade, mas buscar seu bem diante de Deus. A oração cristã sustenta serviço, justiça e compromisso concreto."
+    }
+  ]
+}

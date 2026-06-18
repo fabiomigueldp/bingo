@@ -1,0 +1,2041 @@
+{
+  "title": "Chamadas — Bingo O amor aos pobres",
+  "meeting": "Encontro 07 — O amor aos pobres",
+  "source_terms": "data/termos.json",
+  "method": {
+    "read_order": [
+      "call_label",
+      "case",
+      "reading_points"
+    ],
+    "rule": "A cada carta, anuncie código e conceito, leia o caso e explique brevemente a relação usando a Leitura do caso. Depois as equipes marcam o código, se estiver na cartela.",
+    "conference_rule": "Ao fechar duas linhas válidas, horizontais, verticais ou diagonais, a equipe escolhe uma dessas linhas completas, explica pelo menos três conceitos da linha escolhida e liga pelo menos um deles à base bíblica ou doutrinal do encontro. As duas linhas podem se cruzar. O centro livre já conta como casa marcada para completar linhas, mas não conta como um dos três conceitos explicados."
+  },
+  "cards": [
+    {
+      "id": "B01",
+      "term_id": "B01",
+      "call_label": "B01 - Cristo no pequeno",
+      "case": "Um voluntário serve refeição em um abrigo, mas trata os atendidos como fila incômoda e evita olhar para o rosto de cada um.",
+      "conference_question": "O que muda quando a pessoa necessitada é reconhecida como presença de Cristo, e não apenas como alguém a ser atendido?",
+      "anchors": [
+        "Mt 25,35-40",
+        "CEC 2443",
+        "CEC 2449"
+      ],
+      "facilitator_note": "Conduza para a identificação de Cristo com os pequenos, sem reduzir o pobre a símbolo religioso abstrato.",
+      "reading_points": [
+        {
+          "title": "Rosto ignorado",
+          "body": "O caso mostra ajuda material feita sem reconhecer a pessoa concreta que está diante de quem serve."
+        },
+        {
+          "title": "Critério de Cristo",
+          "body": "Em Mt 25, Cristo não separa o serviço ao pobre do encontro com Ele."
+        },
+        {
+          "title": "Serviço inteiro",
+          "body": "A resposta cristã pede pão real e também reverência pela dignidade daquele que recebe."
+        }
+      ]
+    },
+    {
+      "id": "B02",
+      "term_id": "B02",
+      "call_label": "B02 - Opção preferencial",
+      "case": "Em uma reunião de orçamento, todos os projetos aparecem como importantes, mas ninguém quer cortar gastos de conforto para manter o atendimento às famílias mais necessitadas.",
+      "conference_question": "Como distinguir preferência evangélica pelos pobres de simples escolha administrativa entre projetos?",
+      "anchors": [
+        "CEC 2444",
+        "CEC 2448",
+        "Mt 11,5"
+      ],
+      "facilitator_note": "Mostre que preferência não é desprezo por outros, mas prioridade moral diante de maior vulnerabilidade.",
+      "reading_points": [
+        {
+          "title": "Prioridade testada",
+          "body": "A preferência pelos pobres aparece quando decisões reais exigem renúncia."
+        },
+        {
+          "title": "Não é exclusão",
+          "body": "A Igreja ama todos, mas vê nos mais feridos uma urgência que não pode ser adiada."
+        },
+        {
+          "title": "Tradição constante",
+          "body": "O Catecismo ensina que o amor da Igreja pelos pobres pertence à sua tradição constante."
+        }
+      ]
+    },
+    {
+      "id": "B03",
+      "term_id": "B03",
+      "call_label": "B03 - Dignidade do pobre",
+      "case": "Na portaria de um prédio, um entregador molhado pela chuva é mandado esperar do lado de fora para não sujar o hall.",
+      "conference_question": "Que critério ajuda a reconhecer a dignidade da pessoa pobre quando a situação provoca incômodo ou inconveniência?",
+      "anchors": [
+        "Mt 25,40",
+        "CEC 2448",
+        "CEC 1939-1942"
+      ],
+      "facilitator_note": "Evite transformar dignidade em palavra genérica; aplique ao modo concreto de tratar a pessoa.",
+      "reading_points": [
+        {
+          "title": "Pessoa reduzida",
+          "body": "O entregador é tratado mais como problema de limpeza do que como pessoa cansada e exposta."
+        },
+        {
+          "title": "Dignidade intacta",
+          "body": "A pobreza ou a função social não diminuem o valor de ninguém diante de Deus."
+        },
+        {
+          "title": "Caridade prática",
+          "body": "Proteger a dignidade passa por decisões pequenas, como permitir abrigo e falar com respeito."
+        }
+      ]
+    },
+    {
+      "id": "B04",
+      "term_id": "B04",
+      "call_label": "B04 - Destino dos bens",
+      "case": "Uma empresa descarta alimentos próprios para consumo porque não quer organizar doação e diz que o produto já foi contabilizado como perda.",
+      "conference_question": "Por que o destino universal dos bens questiona o desperdício quando há pessoas sem o necessário?",
+      "anchors": [
+        "CEC 2402-2406",
+        "CEC 2446",
+        "Dt 15,11"
+      ],
+      "facilitator_note": "Mostre que propriedade não é licença moral para desperdiçar bens necessários à vida.",
+      "reading_points": [
+        {
+          "title": "Bem desperdiçado",
+          "body": "O alimento existe e poderia socorrer pessoas, mas é tratado apenas como item contábil."
+        },
+        {
+          "title": "Uso responsável",
+          "body": "A doutrina cristã afirma que os bens devem servir ao bem comum e não só ao controle privado."
+        },
+        {
+          "title": "Dever de justiça",
+          "body": "Quando falta o indispensável, partilhar não é enfeite moral, mas responsabilidade séria."
+        }
+      ]
+    },
+    {
+      "id": "B05",
+      "term_id": "B05",
+      "call_label": "B05 - Justiça antes do dom",
+      "case": "Um patrão doa cestas básicas no fim do ano, mas durante meses atrasou o pagamento de diaristas que dependiam daquele dinheiro para comer.",
+      "conference_question": "Como o caso mostra a diferença entre generosidade visível e justiça devida?",
+      "anchors": [
+        "CEC 2446",
+        "CEC 1807",
+        "Tg 2,15-16"
+      ],
+      "facilitator_note": "Conduza para a ideia de que não se oferece como favor aquilo que já era obrigação.",
+      "reading_points": [
+        {
+          "title": "Doação ambígua",
+          "body": "A cesta pode parecer caridade, mas o salário retido revela injustiça anterior."
+        },
+        {
+          "title": "Ordem moral",
+          "body": "A justiça exige devolver ou pagar o que é devido antes de apresentar a ajuda como dom."
+        },
+        {
+          "title": "Conversão concreta",
+          "body": "A resposta cristã começa por corrigir a exploração e reparar o dano causado."
+        }
+      ]
+    },
+    {
+      "id": "B06",
+      "term_id": "B06",
+      "call_label": "B06 - Caridade teologal",
+      "case": "Uma pessoa ajuda apenas quando o pobre é simpático e agradece, mas se irrita quando encontra alguém confuso, sujo ou agressivo.",
+      "conference_question": "Por que a caridade cristã não pode depender apenas de simpatia, pena ou retorno emocional?",
+      "anchors": [
+        "CEC 1822",
+        "Mt 22,37-40",
+        "1Jo 3,17-18"
+      ],
+      "facilitator_note": "Explique que caridade é virtude teologal, não simples reação afetiva.",
+      "reading_points": [
+        {
+          "title": "Afeto instável",
+          "body": "A ajuda muda conforme a pessoa desperta agrado ou desconforto."
+        },
+        {
+          "title": "Amor por Deus",
+          "body": "A caridade ama o próximo por Deus, não apenas por aparência, gratidão ou facilidade."
+        },
+        {
+          "title": "Firmeza sem desprezo",
+          "body": "Mesmo quando há limites, o cristão não abandona a dignidade do outro."
+        }
+      ]
+    },
+    {
+      "id": "B07",
+      "term_id": "B07",
+      "call_label": "B07 - Misericórdia corporal",
+      "case": "Uma família perdeu tudo em um incêndio; os vizinhos comentam a tragédia, mas ninguém verifica roupa, comida, abrigo ou documentos.",
+      "conference_question": "Que necessidades corporais aparecem no caso e por que a misericórdia precisa chegar ao concreto?",
+      "anchors": [
+        "CEC 2447",
+        "Mt 25,35-36",
+        "Lc 3,11"
+      ],
+      "facilitator_note": "Ajude a turma a nomear obras corporais sem transformar a resposta em sentimentalismo.",
+      "reading_points": [
+        {
+          "title": "Necessidade visível",
+          "body": "A perda material exige comida, roupa, moradia provisória e ajuda prática."
+        },
+        {
+          "title": "Obras corporais",
+          "body": "O Catecismo chama de misericórdia corporal o socorro às necessidades físicas do próximo."
+        },
+        {
+          "title": "Resposta verificável",
+          "body": "Nesse caso, amar não é só lamentar, mas providenciar algo necessário."
+        }
+      ]
+    },
+    {
+      "id": "B08",
+      "term_id": "B08",
+      "call_label": "B08 - Misericórdia espiritual",
+      "case": "Um homem perdeu o emprego e começa a dizer que sua vida não tem mais sentido; os conhecidos só oferecem dicas rápidas e evitam escutar sua angústia.",
+      "conference_question": "Como reconhecer uma pobreza espiritual ou afetiva sem negar a necessidade material que também pode existir?",
+      "anchors": [
+        "CEC 2447",
+        "Tg 5,19-20",
+        "B07"
+      ],
+      "facilitator_note": "Destaque que misericórdia espiritual não é discurso desencarnado, mas cuidado real da alma.",
+      "reading_points": [
+        {
+          "title": "Dor interior",
+          "body": "A perda de trabalho trouxe também desânimo, vergonha e falta de sentido."
+        },
+        {
+          "title": "Obra espiritual",
+          "body": "Consolar, aconselhar e sustentar alguém na verdade também são obras de misericórdia."
+        },
+        {
+          "title": "Cuidado inteiro",
+          "body": "A resposta cristã pode unir escuta, oração, orientação e ajuda concreta."
+        }
+      ]
+    },
+    {
+      "id": "B09",
+      "term_id": "B09",
+      "call_label": "B09 - Esmola justa",
+      "case": "Na porta de uma farmácia, uma senhora pede ajuda para comprar um remédio simples; quem passa desconfia de tudo e segue sem sequer perguntar o que falta.",
+      "conference_question": "Quando a esmola pode ser um ato justo e prudente, e não apenas um gesto impulsivo?",
+      "anchors": [
+        "Tb 12,8-9",
+        "Lc 11,41",
+        "CEC 2447"
+      ],
+      "facilitator_note": "Equilibre legitimidade da esmola com prudência concreta e respeito à pessoa.",
+      "reading_points": [
+        {
+          "title": "Pedido concreto",
+          "body": "A necessidade apresentada é específica e pode ser verificada sem humilhação."
+        },
+        {
+          "title": "Prática bíblica",
+          "body": "A Escritura reconhece a esmola como testemunho de caridade fraterna e justiça."
+        },
+        {
+          "title": "Ajuda respeitosa",
+          "body": "A esmola justa busca socorrer sem desprezar, investigar de modo invasivo ou aparecer."
+        }
+      ]
+    },
+    {
+      "id": "B10",
+      "term_id": "B10",
+      "call_label": "B10 - Pobreza de Cristo",
+      "case": "Em uma celebração de Natal, a decoração é cara e impecável, mas a coleta para famílias sem comida é tratada como detalhe secundário.",
+      "conference_question": "Como a pobreza de Cristo corrige uma fé que admira o presépio, mas ignora os pobres reais?",
+      "anchors": [
+        "Mt 8,20",
+        "2Cor 8,9",
+        "CEC 2444"
+      ],
+      "facilitator_note": "Ligue presépio, vida de Jesus e cruz ao compromisso real com os necessitados.",
+      "reading_points": [
+        {
+          "title": "Contradição prática",
+          "body": "O sinal religioso é valorizado, mas os pobres que Cristo assumiu ficam em segundo plano."
+        },
+        {
+          "title": "Cristo pobre",
+          "body": "O Filho de Deus entrou na história sem privilégios e revelou a dignidade dos pequenos."
+        },
+        {
+          "title": "Fé coerente",
+          "body": "Honrar Cristo pobre exige olhar para os pobres concretos, não só para símbolos bonitos."
+        }
+      ]
+    },
+    {
+      "id": "B11",
+      "term_id": "B11",
+      "call_label": "B11 - Pecado da avareza",
+      "case": "Um comerciante aumenta preços de itens básicos durante uma enchente porque sabe que as famílias não têm alternativa.",
+      "conference_question": "Por que a busca de lucro se torna pecado quando explora a necessidade extrema do outro?",
+      "anchors": [
+        "CEC 2445",
+        "Tg 5,1-6",
+        "Lc 12,15"
+      ],
+      "facilitator_note": "Nomeie a avareza como desordem do coração, não apenas como defeito de personalidade.",
+      "reading_points": [
+        {
+          "title": "Necessidade explorada",
+          "body": "O comerciante usa a vulnerabilidade das famílias para ganhar mais."
+        },
+        {
+          "title": "Riqueza desordenada",
+          "body": "O Catecismo denuncia o amor imoderado das riquezas e o uso egoísta dos bens."
+        },
+        {
+          "title": "Justiça violada",
+          "body": "A resposta cristã recusa vantagem obtida pela miséria alheia."
+        }
+      ]
+    },
+    {
+      "id": "B12",
+      "term_id": "B12",
+      "call_label": "B12 - Trabalho para partilhar",
+      "case": "Um profissional recebe um aumento e decide elevar imediatamente seu padrão de consumo, sem considerar nenhuma ajuda estável a quem passa necessidade.",
+      "conference_question": "Como o dever de trabalhar para partilhar corrige a ideia de que todo ganho serve apenas ao consumo próprio?",
+      "anchors": [
+        "CEC 2444",
+        "Ef 4,28",
+        "At 20,35"
+      ],
+      "facilitator_note": "Evite culpar a prosperidade em si; o ponto é a finalidade cristã do trabalho e dos bens.",
+      "reading_points": [
+        {
+          "title": "Ganho fechado",
+          "body": "O aumento é pensado somente como ampliação do conforto pessoal."
+        },
+        {
+          "title": "Finalidade social",
+          "body": "O Catecismo lembra o dever de trabalhar também para ter o que partilhar."
+        },
+        {
+          "title": "Escolha concreta",
+          "body": "A conversão pode aparecer em uma ajuda regular, não apenas em sobras ocasionais."
+        }
+      ]
+    },
+    {
+      "id": "B13",
+      "term_id": "B13",
+      "call_label": "B13 - Solidariedade cristã",
+      "case": "Depois de um deslizamento, moradores de bairros seguros dizem que a tragédia é triste, mas que não tem relação com eles.",
+      "conference_question": "O que a solidariedade cristã muda na forma de enxergar a necessidade de quem vive longe da nossa rotina?",
+      "anchors": [
+        "CEC 1939-1942",
+        "Lc 10,25-37",
+        "1Jo 3,17-18"
+      ],
+      "facilitator_note": "Mostre que solidariedade não é apenas sentimento social, mas responsabilidade concreta pelo próximo.",
+      "reading_points": [
+        {
+          "title": "Distância moral",
+          "body": "A distância geográfica vira desculpa para não se reconhecer vínculo real."
+        },
+        {
+          "title": "Próximo ferido",
+          "body": "A parábola do samaritano ensina que o próximo se torna visível na ferida concreta."
+        },
+        {
+          "title": "Vínculo responsável",
+          "body": "A solidariedade cristã pergunta que ajuda possível nasce desse vínculo."
+        }
+      ]
+    },
+    {
+      "id": "B14",
+      "term_id": "B14",
+      "call_label": "B14 - Clamor do trabalhador",
+      "case": "Uma obra termina, mas os serventes recebem menos do combinado porque o contratante diz que eles não têm como reclamar.",
+      "conference_question": "Por que a injustiça salarial contra quem é vulnerável tem gravidade especial diante de Deus?",
+      "anchors": [
+        "Tg 5,4",
+        "Dt 24,14-15",
+        "CEC 2445"
+      ],
+      "facilitator_note": "Explique que o salário devido não é favor, mas justiça que sustenta a vida.",
+      "reading_points": [
+        {
+          "title": "Vulnerabilidade usada",
+          "body": "O contratante se aproveita da falta de defesa dos trabalhadores."
+        },
+        {
+          "title": "Salário que clama",
+          "body": "A Escritura afirma que o salário retido dos trabalhadores chega aos ouvidos do Senhor."
+        },
+        {
+          "title": "Obrigação séria",
+          "body": "Pagar corretamente é ato de justiça e condição básica de amor aos pobres."
+        }
+      ]
+    },
+    {
+      "id": "B15",
+      "term_id": "B15",
+      "call_label": "B15 - Salvação e miséria",
+      "case": "Em um hospital público lotado, pessoas esperam por horas com dor; alguns dizem apenas que sofrimento faz parte da vida e nada pode ser feito.",
+      "conference_question": "Como a fé reconhece a miséria humana sem tratá-la como normalidade indiferente?",
+      "anchors": [
+        "CEC 2448",
+        "Mt 25,35-40",
+        "Rm 8,22-23"
+      ],
+      "facilitator_note": "Una realismo sobre a condição ferida do homem e responsabilidade cristã por aliviar a miséria.",
+      "reading_points": [
+        {
+          "title": "Dor normalizada",
+          "body": "O sofrimento é visto como inevitável de modo que a compaixão prática desaparece."
+        },
+        {
+          "title": "Ferida humana",
+          "body": "O Catecismo vê a miséria como sinal da fraqueza humana e da necessidade de salvação."
+        },
+        {
+          "title": "Compadecer como Cristo",
+          "body": "Reconhecer a miséria não autoriza passividade, mas chama a aliviar, defender e libertar."
+        }
+      ]
+    },
+    {
+      "id": "I01",
+      "term_id": "I01",
+      "call_label": "I01 - Fome invisível",
+      "case": "Uma funcionária sempre leva só café no almoço; os colegas acham estranho, mas preferem não perguntar porque seria constrangedor.",
+      "conference_question": "Como perceber a fome escondida sem invadir a pessoa nem fingir que nada está acontecendo?",
+      "anchors": [
+        "Mt 25,35",
+        "Tg 2,15-16",
+        "B07"
+      ],
+      "facilitator_note": "Destaque a atenção concreta e discreta diante de necessidades que a vergonha pode esconder.",
+      "reading_points": [
+        {
+          "title": "Sinal discreto",
+          "body": "A fome nem sempre aparece como pedido direto; às vezes vem em hábitos silenciosos."
+        },
+        {
+          "title": "Indiferença cômoda",
+          "body": "O medo do constrangimento pode virar pretexto para não fazer pergunta nenhuma."
+        },
+        {
+          "title": "Ajuda respeitosa",
+          "body": "A caridade procura uma forma discreta e real de oferecer alimento ou apoio."
+        }
+      ]
+    },
+    {
+      "id": "I02",
+      "term_id": "I02",
+      "call_label": "I02 - Remédio negado",
+      "case": "Um aposentado interrompe o tratamento porque o remédio subiu de preço e a família já está atrasada no aluguel.",
+      "conference_question": "Que exigências de justiça e misericórdia aparecem quando a doença do pobre depende de dinheiro que ele não tem?",
+      "anchors": [
+        "Mt 25,36",
+        "CEC 2448",
+        "B03"
+      ],
+      "facilitator_note": "Evite solução simplista; mostre necessidade concreta, dignidade e encaminhamento responsável.",
+      "reading_points": [
+        {
+          "title": "Escolha cruel",
+          "body": "A família precisa escolher entre tratamento e moradia, duas necessidades básicas."
+        },
+        {
+          "title": "Doença agravada",
+          "body": "A pobreza torna a enfermidade mais pesada e pode transformar falta de dinheiro em risco de vida."
+        },
+        {
+          "title": "Resposta organizada",
+          "body": "A ajuda pode envolver compra possível, orientação a serviço público e acompanhamento."
+        }
+      ]
+    },
+    {
+      "id": "I03",
+      "term_id": "I03",
+      "call_label": "I03 - Aluguel impossível",
+      "case": "Uma mãe recebe aviso de despejo depois de usar parte do aluguel para comprar comida e material básico para os filhos.",
+      "conference_question": "Como esse caso ajuda a distinguir desorganização simples de vulnerabilidade material grave?",
+      "anchors": [
+        "Mt 25,35",
+        "CEC 2447",
+        "Dt 15,11"
+      ],
+      "facilitator_note": "Conduza o discernimento para necessidades simultâneas e não para julgamento rápido da família.",
+      "reading_points": [
+        {
+          "title": "Necessidades em conflito",
+          "body": "Comida, moradia e cuidado dos filhos disputam o mesmo dinheiro insuficiente."
+        },
+        {
+          "title": "Vulnerabilidade real",
+          "body": "A pobreza força escolhas que pessoas protegidas muitas vezes não precisam enfrentar."
+        },
+        {
+          "title": "Misericórdia com justiça",
+          "body": "A resposta pede socorro concreto e busca de caminhos responsáveis para proteger a família."
+        }
+      ]
+    },
+    {
+      "id": "I04",
+      "term_id": "I04",
+      "call_label": "I04 - Morador de rua",
+      "case": "Um homem dorme na calçada de uma loja; pela manhã, funcionários jogam água no chão para que ele saia antes dos clientes chegarem.",
+      "conference_question": "Como reconhecer a dignidade do morador de rua sem negar problemas reais de convivência e segurança?",
+      "anchors": [
+        "Mt 25,35",
+        "CEC 2447",
+        "CEC 2448"
+      ],
+      "facilitator_note": "Peça distinção entre lidar com a situação e desumanizar a pessoa.",
+      "reading_points": [
+        {
+          "title": "Expulsão desumana",
+          "body": "O problema urbano é tratado por meio de humilhação contra alguém exposto."
+        },
+        {
+          "title": "Pessoa antes do incômodo",
+          "body": "A rua não apaga a dignidade nem autoriza crueldade."
+        },
+        {
+          "title": "Encaminhar sem desprezar",
+          "body": "A resposta pode buscar serviço adequado, diálogo prudente e recusa de maus-tratos."
+        }
+      ]
+    },
+    {
+      "id": "I05",
+      "term_id": "I05",
+      "call_label": "I05 - Idoso esquecido",
+      "case": "Uma idosa mora sozinha; a família paga as contas, mas ninguém a visita há meses nem percebe que ela já não consegue cozinhar direito.",
+      "conference_question": "Por que pagar despesas não basta quando a pobreza também é abandono afetivo e falta de cuidado?",
+      "anchors": [
+        "Mt 25,36",
+        "CEC 2448",
+        "B08"
+      ],
+      "facilitator_note": "Mostre que pobreza afetiva não é menos real por não aparecer como falta de dinheiro.",
+      "reading_points": [
+        {
+          "title": "Cuidado incompleto",
+          "body": "As contas estão pagas, mas a presença, a escuta e o acompanhamento faltam."
+        },
+        {
+          "title": "Pobreza afetiva",
+          "body": "A solidão pode ferir a pessoa de modo profundo, especialmente na velhice."
+        },
+        {
+          "title": "Visita responsável",
+          "body": "A misericórdia pede verificar necessidades reais e sustentar vínculo humano."
+        }
+      ]
+    },
+    {
+      "id": "I06",
+      "term_id": "I06",
+      "call_label": "I06 - Preso abandonado",
+      "case": "Um detento não recebe visitas há anos; quando pede uma Bíblia, alguém responde que preso não merece atenção.",
+      "conference_question": "Como distinguir a gravidade do crime cometido da dignidade da pessoa presa diante de Cristo?",
+      "anchors": [
+        "Mt 25,36",
+        "CEC 2447",
+        "B03"
+      ],
+      "facilitator_note": "Não minimize o crime; destaque que misericórdia não apaga justiça nem dignidade.",
+      "reading_points": [
+        {
+          "title": "Redução ao crime",
+          "body": "A pessoa é vista apenas pelo delito e privada de qualquer possibilidade de cuidado espiritual."
+        },
+        {
+          "title": "Cristo no preso",
+          "body": "Mt 25 inclui a visita aos presos entre os lugares de encontro com Cristo."
+        },
+        {
+          "title": "Misericórdia exigente",
+          "body": "A resposta cristã une justiça, responsabilidade e possibilidade de conversão."
+        }
+      ]
+    },
+    {
+      "id": "I07",
+      "term_id": "I07",
+      "call_label": "I07 - Migrante sem rede",
+      "case": "Uma família recém-chegada não entende os documentos exigidos, aceita trabalho mal pago e tem medo de procurar ajuda por não dominar o idioma.",
+      "conference_question": "Quais pobrezas aparecem quando uma pessoa migra sem rede de apoio, além da falta de dinheiro?",
+      "anchors": [
+        "Mt 25,35",
+        "Lv 19,33-34",
+        "B13"
+      ],
+      "facilitator_note": "Amplie o olhar para idioma, documentação, trabalho, isolamento e acolhida.",
+      "reading_points": [
+        {
+          "title": "Desproteção múltipla",
+          "body": "A família enfrenta pobreza material, cultural, jurídica e afetiva ao mesmo tempo."
+        },
+        {
+          "title": "Estrangeiro acolhido",
+          "body": "A Escritura manda tratar o estrangeiro com justiça e humanidade."
+        },
+        {
+          "title": "Ajuda de ponte",
+          "body": "A resposta pode ser traduzir, orientar, acompanhar a serviços e evitar exploração."
+        }
+      ]
+    },
+    {
+      "id": "I08",
+      "term_id": "I08",
+      "call_label": "I08 - Trabalhador explorado",
+      "case": "Uma diarista aceita trabalhar sem descanso e por valor menor porque precisa comprar comida naquela noite.",
+      "conference_question": "Por que a necessidade urgente do trabalhador não torna justa uma proposta abusiva?",
+      "anchors": [
+        "Tg 5,4",
+        "Dt 24,14-15",
+        "B14"
+      ],
+      "facilitator_note": "Mostre que consentimento sob necessidade pode esconder exploração objetiva.",
+      "reading_points": [
+        {
+          "title": "Consentimento pressionado",
+          "body": "A diarista aceita porque precisa sobreviver, não porque a condição seja justa."
+        },
+        {
+          "title": "Salário devido",
+          "body": "A justiça protege especialmente quem depende do pagamento para o necessário."
+        },
+        {
+          "title": "Recusa moral",
+          "body": "O cristão não deve tirar vantagem da fome ou da urgência alheia."
+        }
+      ]
+    },
+    {
+      "id": "I09",
+      "term_id": "I09",
+      "call_label": "I09 - Criança sem cuidado",
+      "case": "Uma criança passa o dia em casa com irmãos menores enquanto a mãe trabalha em dois turnos; a vizinhança reclama do barulho, mas ninguém pergunta se há risco.",
+      "conference_question": "Como esse caso pede proteção da criança sem condenar rapidamente a família pobre?",
+      "anchors": [
+        "Mt 25,40",
+        "CEC 2448",
+        "B03"
+      ],
+      "facilitator_note": "Conduza para proteção, responsabilidade adulta e rede de apoio, sem julgamento cruel da mãe.",
+      "reading_points": [
+        {
+          "title": "Vulnerabilidade infantil",
+          "body": "As crianças ficam expostas porque a pobreza estreita as opções da família."
+        },
+        {
+          "title": "Risco ignorado",
+          "body": "A reclamação do barulho pode esconder uma necessidade real de proteção."
+        },
+        {
+          "title": "Cuidado proporcional",
+          "body": "A resposta deve buscar ajuda responsável, serviço adequado e apoio concreto."
+        }
+      ]
+    },
+    {
+      "id": "I10",
+      "term_id": "I10",
+      "call_label": "I10 - Doença sem visita",
+      "case": "Um paciente pobre fica internado por semanas; a equipe percebe que ninguém traz roupas limpas nem notícias da família.",
+      "conference_question": "Por que visitar o doente é obra de misericórdia e não apenas gentileza opcional?",
+      "anchors": [
+        "Mt 25,36",
+        "CEC 2447",
+        "B07"
+      ],
+      "facilitator_note": "Mostre que a visita pode revelar necessidades materiais, espirituais e afetivas.",
+      "reading_points": [
+        {
+          "title": "Isolamento no leito",
+          "body": "A doença vem acompanhada de abandono prático e solidão."
+        },
+        {
+          "title": "Obra corporal",
+          "body": "Visitar os doentes pertence às obras de misericórdia ensinadas pela Igreja."
+        },
+        {
+          "title": "Presença útil",
+          "body": "A visita cristã pode levar roupa, informação, oração e defesa da dignidade."
+        }
+      ]
+    },
+    {
+      "id": "I11",
+      "term_id": "I11",
+      "call_label": "I11 - Luto sem sepultura",
+      "case": "Um homem morre sem família presente, e seus pertences são descartados rapidamente para liberar o quarto onde vivia.",
+      "conference_question": "Que dignidade permanece depois da morte e como a misericórdia cristã responde a esse abandono?",
+      "anchors": [
+        "CEC 2447",
+        "Tb 1,17",
+        "B07"
+      ],
+      "facilitator_note": "Explique sepultar os mortos como obra de misericórdia corporal e ato de respeito.",
+      "reading_points": [
+        {
+          "title": "Morte sem memória",
+          "body": "A pressa em liberar espaço apaga a história e a dignidade daquele que morreu."
+        },
+        {
+          "title": "Respeito ao corpo",
+          "body": "A tradição cristã reconhece a sepultura digna como obra de misericórdia."
+        },
+        {
+          "title": "Cuidado dos vivos",
+          "body": "A resposta inclui oração, rito possível, respeito aos pertences e atenção aos que ficaram."
+        }
+      ]
+    },
+    {
+      "id": "I12",
+      "term_id": "I12",
+      "call_label": "I12 - Dívida que aprisiona",
+      "case": "Uma família pega dinheiro com juros abusivos para pagar gás e comida; meses depois, paga apenas os juros e a ameaça continua.",
+      "conference_question": "Como distinguir ajuda financeira legítima de uma dívida que se aproveita da pobreza?",
+      "anchors": [
+        "CEC 2449",
+        "Dt 15,1-11",
+        "B04"
+      ],
+      "facilitator_note": "Mostre que nem todo empréstimo é injusto, mas a exploração da necessidade é grave.",
+      "reading_points": [
+        {
+          "title": "Necessidade capturada",
+          "body": "A urgência por comida e gás se transforma em dependência financeira prolongada."
+        },
+        {
+          "title": "Juro opressor",
+          "body": "A dívida deixa de ajudar quando prende a pessoa numa perda sem saída justa."
+        },
+        {
+          "title": "Libertar e orientar",
+          "body": "A resposta pode envolver orientação responsável, proteção contra ameaça e busca de canais legais."
+        }
+      ]
+    },
+    {
+      "id": "I13",
+      "term_id": "I13",
+      "call_label": "I13 - Vício e miséria",
+      "case": "Um dependente químico pede dinheiro na rua; comerciantes querem apenas expulsá-lo, enquanto outros entregam dinheiro sem nenhum critério.",
+      "conference_question": "Como responder ao vício e à miséria com compaixão sem ingenuidade e com limites sem desprezo?",
+      "anchors": [
+        "CEC 2448",
+        "Lc 10,25-37",
+        "G07"
+      ],
+      "facilitator_note": "Sustente a tensão entre dignidade, risco, dependência e encaminhamento competente.",
+      "reading_points": [
+        {
+          "title": "Ferida complexa",
+          "body": "O vício mistura doença, escolhas, miséria, risco e abandono."
+        },
+        {
+          "title": "Dois erros",
+          "body": "Expulsar com desprezo e ajudar sem critério podem ambos falhar no bem da pessoa."
+        },
+        {
+          "title": "Encaminhar com limites",
+          "body": "A resposta cristã busca alimento, serviço adequado, segurança e acompanhamento possível."
+        }
+      ]
+    },
+    {
+      "id": "I14",
+      "term_id": "I14",
+      "call_label": "I14 - Solidão cultural",
+      "case": "Um trabalhador assina um contrato que não entende, por vergonha de admitir que lê com dificuldade.",
+      "conference_question": "Por que a pobreza cultural pode tornar alguém mais vulnerável à exploração?",
+      "anchors": [
+        "CEC 2444",
+        "CEC 2447",
+        "B08"
+      ],
+      "facilitator_note": "Mostre que instruir e aconselhar podem ser misericórdia espiritual com efeito social concreto.",
+      "reading_points": [
+        {
+          "title": "Vergonha escondida",
+          "body": "A dificuldade de leitura é ocultada e usada contra a pessoa."
+        },
+        {
+          "title": "Pobreza cultural",
+          "body": "A falta de formação limita defesa, trabalho, acesso a direitos e participação social."
+        },
+        {
+          "title": "Ensinar protege",
+          "body": "A misericórdia espiritual pode impedir injustiças materiais."
+        }
+      ]
+    },
+    {
+      "id": "I15",
+      "term_id": "I15",
+      "call_label": "I15 - Fé sem acesso",
+      "case": "Uma família mora longe, não tem transporte regular e deixa de procurar os sacramentos porque sente vergonha de não saber responder às perguntas básicas da fé.",
+      "conference_question": "Como a pobreza pode dificultar a vida de fé sem que a pessoa tenha rejeitado Deus?",
+      "anchors": [
+        "CEC 2444",
+        "Mt 11,5",
+        "B08"
+      ],
+      "facilitator_note": "Evite acusar afastamento como simples desinteresse; mostre barreiras reais e missão evangelizadora.",
+      "reading_points": [
+        {
+          "title": "Barreiras reais",
+          "body": "Distância, transporte, vergonha e falta de formação dificultam o acesso à vida eclesial."
+        },
+        {
+          "title": "Pobreza religiosa",
+          "body": "O Catecismo fala também de pobreza cultural e religiosa, não só material."
+        },
+        {
+          "title": "Evangelizar os pobres",
+          "body": "A resposta cristã aproxima, ensina com respeito e facilita caminhos possíveis."
+        }
+      ]
+    },
+    {
+      "id": "N01",
+      "term_id": "N01",
+      "call_label": "N01 - Culpa do pobre",
+      "case": "Depois de ver uma família pedindo comida, alguém comenta que pobre só passa necessidade porque fez escolhas erradas.",
+      "conference_question": "Por que atribuir toda pobreza à culpa individual impede um discernimento cristão sério?",
+      "anchors": [
+        "CEC 2448",
+        "Jo 9,1-3",
+        "I04"
+      ],
+      "facilitator_note": "Desmonte o julgamento totalizante sem negar que pessoas também podem ter responsabilidades reais.",
+      "reading_points": [
+        {
+          "title": "Julgamento rápido",
+          "body": "A frase transforma uma situação complexa em acusação simples contra a vítima."
+        },
+        {
+          "title": "Causas diversas",
+          "body": "Doença, desemprego, injustiça, abandono e pecado social podem estar envolvidos."
+        },
+        {
+          "title": "Olhar cristão",
+          "body": "O cristão discerne antes de condenar e procura a resposta possível ao sofrimento concreto."
+        }
+      ]
+    },
+    {
+      "id": "N02",
+      "term_id": "N02",
+      "call_label": "N02 - Mérito sem próximo",
+      "case": "Um empresário que venceu muitas dificuldades diz que quem não subiu na vida não merece ajuda, porque ele também sofreu e conseguiu sozinho.",
+      "conference_question": "Como reconhecer o valor do esforço pessoal sem usá-lo para negar responsabilidade diante do próximo ferido?",
+      "anchors": [
+        "Lc 10,25-37",
+        "CEC 1939-1942",
+        "B13"
+      ],
+      "facilitator_note": "Evite atacar o esforço; critique o uso do mérito como licença para indiferença.",
+      "reading_points": [
+        {
+          "title": "Mérito fechado",
+          "body": "A própria história de superação vira argumento para desprezar quem ainda sofre."
+        },
+        {
+          "title": "Próximo concreto",
+          "body": "A parábola do samaritano desloca a pergunta do merecimento para a responsabilidade diante do ferido."
+        },
+        {
+          "title": "Esforço convertido",
+          "body": "Quem recebeu oportunidades pode transformar sua experiência em solidariedade real."
+        }
+      ]
+    },
+    {
+      "id": "N03",
+      "term_id": "N03",
+      "call_label": "N03 - Esmola resolve tudo",
+      "case": "Um comerciante entrega moedas a moradores de rua todos os dias, mas impede que usem o banheiro do estabelecimento e se recusa a conversar sobre um ponto de apoio no bairro.",
+      "conference_question": "Por que uma esmola repetida pode ser insuficiente quando evita justiça, dignidade e organização do cuidado?",
+      "anchors": [
+        "CEC 2446",
+        "CEC 2447",
+        "G03"
+      ],
+      "facilitator_note": "Mostre que a esmola é boa quando ordenada, mas não pode virar desculpa para não fazer mais nada.",
+      "reading_points": [
+        {
+          "title": "Gesto limitado",
+          "body": "As moedas ajudam em algo, mas não enfrentam necessidades básicas de dignidade e cuidado."
+        },
+        {
+          "title": "Redução do amor",
+          "body": "Caridade cristã é mais profunda que um gesto automático de dinheiro."
+        },
+        {
+          "title": "Mais que esmola",
+          "body": "A resposta pode incluir encaminhamento, respeito, organização comunitária e justiça."
+        }
+      ]
+    },
+    {
+      "id": "N04",
+      "term_id": "N04",
+      "call_label": "N04 - Política do descarte",
+      "case": "Em uma família, decidem internar um idoso longe sem visitá-lo, não por necessidade médica, mas para que ele deixe de atrapalhar a rotina.",
+      "conference_question": "Como a lógica do descarte aparece quando a pessoa frágil passa a ser vista principalmente como peso?",
+      "anchors": [
+        "Mt 25,35-40",
+        "CEC 2448",
+        "B03"
+      ],
+      "facilitator_note": "Trate a gravidade do abandono sem negar que famílias podem precisar de apoio real para cuidar.",
+      "reading_points": [
+        {
+          "title": "Peso incômodo",
+          "body": "O idoso é deslocado para desaparecer da rotina, não para receber cuidado melhor."
+        },
+        {
+          "title": "Dignidade ferida",
+          "body": "Fragilidade não reduz a pessoa a obstáculo doméstico ou social."
+        },
+        {
+          "title": "Cuidado responsável",
+          "body": "A resposta cristã busca apoio, presença e decisões que não abandonem a pessoa."
+        }
+      ]
+    },
+    {
+      "id": "N05",
+      "term_id": "N05",
+      "call_label": "N05 - Medo como desculpa",
+      "case": "Um homem caído na calçada parece desorientado; várias pessoas têm medo de se aproximar e ninguém chama socorro.",
+      "conference_question": "Como distinguir prudência legítima de omissão disfarçada de medo?",
+      "anchors": [
+        "Lc 10,33-35",
+        "CEC 2447",
+        "G07"
+      ],
+      "facilitator_note": "Não incentive imprudência; destaque que há formas seguras de acionar ajuda.",
+      "reading_points": [
+        {
+          "title": "Risco possível",
+          "body": "Pode haver perigo real ao se aproximar sem cuidado."
+        },
+        {
+          "title": "Omissão evitável",
+          "body": "O medo não justifica deixar de chamar emergência, avisar responsáveis ou buscar ajuda segura."
+        },
+        {
+          "title": "Prudência ativa",
+          "body": "A caridade prudente não abandona; ela escolhe modo seguro de socorrer."
+        }
+      ]
+    },
+    {
+      "id": "N06",
+      "term_id": "N06",
+      "call_label": "N06 - Riqueza como absolvição",
+      "case": "Um investidor é elogiado como exemplo de sucesso, embora todos saibam que parte do lucro vem de contratos que prejudicam famílias pobres.",
+      "conference_question": "Por que sucesso financeiro não absolve injustiça contra os pobres?",
+      "anchors": [
+        "CEC 2445",
+        "Tg 5,1-6",
+        "B11"
+      ],
+      "facilitator_note": "Separe prosperidade honesta de riqueza acumulada por exploração ou indiferença.",
+      "reading_points": [
+        {
+          "title": "Prestígio enganoso",
+          "body": "O dinheiro gera admiração e encobre o modo como foi obtido."
+        },
+        {
+          "title": "Avareza denunciada",
+          "body": "A Escritura é severa contra riqueza construída sobre exploração."
+        },
+        {
+          "title": "Exame da origem",
+          "body": "O discernimento cristão pergunta de onde veio o lucro e quem pagou seu custo."
+        }
+      ]
+    },
+    {
+      "id": "N07",
+      "term_id": "N07",
+      "call_label": "N07 - Caridade sem justiça",
+      "case": "Uma loja faz campanha pública de doação de agasalhos, mas obriga funcionários pobres a trabalhar sem registrar horas extras.",
+      "conference_question": "Como identificar quando uma ação caritativa esconde uma injustiça que precisa ser corrigida primeiro?",
+      "anchors": [
+        "CEC 2446",
+        "Tg 5,4",
+        "G04"
+      ],
+      "facilitator_note": "Mostre que doação pública não compensa exploração privada.",
+      "reading_points": [
+        {
+          "title": "Imagem generosa",
+          "body": "A campanha cria aparência de bondade diante do público."
+        },
+        {
+          "title": "Injustiça interna",
+          "body": "Horas extras não pagas ferem a justiça devida aos trabalhadores."
+        },
+        {
+          "title": "Caridade ordenada",
+          "body": "A resposta correta começa por pagar o devido e depois partilhar de modo verdadeiro."
+        }
+      ]
+    },
+    {
+      "id": "N08",
+      "term_id": "N08",
+      "call_label": "N08 - Justiça sem caridade",
+      "case": "Ao denunciar um despejo injusto, um grupo passa a divulgar fotos e insultos pessoais contra todos os envolvidos, inclusive funcionários sem poder de decisão.",
+      "conference_question": "Como defender uma causa justa sem perder a caridade e a verdade no modo de agir?",
+      "anchors": [
+        "CEC 1822",
+        "1Cor 13,1-3",
+        "G04"
+      ],
+      "facilitator_note": "Não enfraqueça a denúncia; corrija o método que humilha e atinge culpados e não culpados.",
+      "reading_points": [
+        {
+          "title": "Causa real",
+          "body": "O despejo injusto precisa ser enfrentado."
+        },
+        {
+          "title": "Método desordenado",
+          "body": "Insulto e exposição indiscriminada ferem a dignidade e podem cometer nova injustiça."
+        },
+        {
+          "title": "Justiça com caridade",
+          "body": "A resposta cristã denuncia o mal por meios verdadeiros, proporcionais e responsáveis."
+        }
+      ]
+    },
+    {
+      "id": "N09",
+      "term_id": "N09",
+      "call_label": "N09 - Espiritualizar a fome",
+      "case": "Uma família pede alimentos; alguém responde que vai rezar por eles, mas sabe que tem comida sobrando e não oferece nada.",
+      "conference_question": "Por que a oração se torna fuga quando substitui a ajuda concreta que está ao alcance?",
+      "anchors": [
+        "Tg 2,15-16",
+        "Mt 25,35",
+        "B07"
+      ],
+      "facilitator_note": "Valorize a oração, mas recuse usá-la para fugir de uma obra possível.",
+      "reading_points": [
+        {
+          "title": "Necessidade objetiva",
+          "body": "A família pediu alimento, não apenas uma palavra de consolo."
+        },
+        {
+          "title": "Fé desencarnada",
+          "body": "A carta de Tiago critica palavras piedosas sem o necessário para viver."
+        },
+        {
+          "title": "Oração com obra",
+          "body": "A resposta cristã pode rezar e entregar comida real."
+        }
+      ]
+    },
+    {
+      "id": "N10",
+      "term_id": "N10",
+      "call_label": "N10 - Distância confortável",
+      "case": "Durante uma notícia sobre fome, alguém discute números e culpados por meia hora, mas desliga a televisão sem considerar nenhuma ajuda possível.",
+      "conference_question": "Como a distância transforma a pobreza em assunto de opinião e impede conversão concreta?",
+      "anchors": [
+        "Lc 10,31-32",
+        "1Jo 3,17-18",
+        "B13"
+      ],
+      "facilitator_note": "Ajude a passar de comentário distante para pergunta sobre responsabilidade possível.",
+      "reading_points": [
+        {
+          "title": "Tema sem próximo",
+          "body": "A pobreza vira debate, mas não encontra rosto nem decisão."
+        },
+        {
+          "title": "Coração fechado",
+          "body": "A Escritura questiona quem possui bens e fecha o coração ao irmão necessitado."
+        },
+        {
+          "title": "Passo concreto",
+          "body": "A conversão começa perguntando que obra real está ao alcance."
+        }
+      ]
+    },
+    {
+      "id": "N11",
+      "term_id": "N11",
+      "call_label": "N11 - Merecimento seletivo",
+      "case": "Uma pessoa decide ajudar apenas quem se veste bem, fala com educação e promete usar a ajuda exatamente como ela manda.",
+      "conference_question": "Como discernir prudência sem transformar a misericórdia em prêmio para pobres considerados aceitáveis?",
+      "anchors": [
+        "Mt 25,35-40",
+        "Lc 6,35-36",
+        "G14"
+      ],
+      "facilitator_note": "Distinga critérios prudentes de controle moralista sobre quem recebe ajuda.",
+      "reading_points": [
+        {
+          "title": "Filtro de aceitação",
+          "body": "A ajuda depende de aparência, docilidade e aprovação pessoal."
+        },
+        {
+          "title": "Misericórdia estreitada",
+          "body": "O Evangelho não limita o amor aos pobres agradáveis ou fáceis."
+        },
+        {
+          "title": "Critério justo",
+          "body": "A prudência avalia a necessidade e o modo de ajudar, não humilha a pessoa."
+        }
+      ]
+    },
+    {
+      "id": "N12",
+      "term_id": "N12",
+      "call_label": "N12 - Pobres como ameaça",
+      "case": "Ao ver famílias pobres chegando ao bairro, moradores se organizam primeiro para afastá-las, antes de conhecer sua situação ou suas necessidades.",
+      "conference_question": "Como o medo pode transformar pessoas pobres em ameaça coletiva antes de qualquer discernimento justo?",
+      "anchors": [
+        "Mt 25,40",
+        "CEC 2448",
+        "B03"
+      ],
+      "facilitator_note": "Reconheça preocupações legítimas de convivência, mas corrija a desumanização preventiva.",
+      "reading_points": [
+        {
+          "title": "Suspeita antecipada",
+          "body": "As famílias são tratadas como problema antes de serem ouvidas."
+        },
+        {
+          "title": "Dignidade negada",
+          "body": "A pobreza não transforma pessoas em perigo automático."
+        },
+        {
+          "title": "Discernimento justo",
+          "body": "A resposta cristã une prudência, acolhida possível e recusa de preconceito."
+        }
+      ]
+    },
+    {
+      "id": "N13",
+      "term_id": "N13",
+      "call_label": "N13 - Trabalho basta",
+      "case": "Um homem com depressão grave perde o emprego; um parente diz que ele só precisa levantar cedo e parar de drama.",
+      "conference_question": "Por que dizer apenas que basta trabalhar pode ser uma resposta falsa diante de certas pobrezas?",
+      "anchors": [
+        "CEC 2448",
+        "CEC 2449",
+        "I08"
+      ],
+      "facilitator_note": "Não desvalorize o trabalho; mostre que há impedimentos reais que pedem cuidado e justiça.",
+      "reading_points": [
+        {
+          "title": "Simplificação cruel",
+          "body": "A fala ignora doença, sofrimento psíquico e perda concreta de capacidade."
+        },
+        {
+          "title": "Trabalho valorizado",
+          "body": "A fé valoriza o trabalho, mas não o usa para desprezar quem está ferido."
+        },
+        {
+          "title": "Ajuda adequada",
+          "body": "A resposta pode unir tratamento, apoio familiar, busca de renda e acompanhamento."
+        }
+      ]
+    },
+    {
+      "id": "N14",
+      "term_id": "N14",
+      "call_label": "N14 - Assistência humilhante",
+      "case": "Uma campanha entrega alimentos enquanto filma de perto as pessoas recebendo as cestas e pede que agradeçam olhando para a câmera.",
+      "conference_question": "Quando a ajuda deixa de proteger a dignidade e passa a usar a pobreza como exposição?",
+      "anchors": [
+        "Mt 6,1-4",
+        "CEC 2447",
+        "B03"
+      ],
+      "facilitator_note": "Mostre que prestar contas é diferente de expor rostos e vergonha para autopromoção.",
+      "reading_points": [
+        {
+          "title": "Exposição da necessidade",
+          "body": "A pessoa pobre vira imagem de campanha e perde controle sobre sua própria vergonha."
+        },
+        {
+          "title": "Vaidade disfarçada",
+          "body": "A ajuda pode ser contaminada pela busca de reconhecimento."
+        },
+        {
+          "title": "Discrição digna",
+          "body": "A resposta cristã socorre e presta contas sem humilhar quem recebe."
+        }
+      ]
+    },
+    {
+      "id": "N15",
+      "term_id": "N15",
+      "call_label": "N15 - Sempre foi assim",
+      "case": "Moradores dizem que o esgoto a céu aberto na comunidade pobre existe há décadas e por isso não adianta cobrar solução.",
+      "conference_question": "Por que a permanência de uma injustiça não a transforma em realidade moralmente aceitável?",
+      "anchors": [
+        "Dt 15,11",
+        "Jo 12,8",
+        "CEC 2449"
+      ],
+      "facilitator_note": "Explique Jo 12,8 sem permitir a leitura fatalista de que nada deve ser feito.",
+      "reading_points": [
+        {
+          "title": "Injustiça acostumada",
+          "body": "O tempo de existência do problema é usado para normalizar a falta de saneamento."
+        },
+        {
+          "title": "Mandato permanente",
+          "body": "Dt 15 reconhece pobres na terra, mas manda abrir a mão e agir."
+        },
+        {
+          "title": "Responsabilidade hoje",
+          "body": "A resposta cristã não aceita o mal repetido como destino inevitável."
+        }
+      ]
+    },
+    {
+      "id": "G01",
+      "term_id": "G01",
+      "call_label": "G01 - Pessoa e condição",
+      "case": "Em uma conversa, alguém se refere a um homem em situação de rua apenas como bêbado da praça, sem nome, história ou possibilidade de mudança.",
+      "conference_question": "Como distinguir a pessoa de sua condição sem negar os problemas reais envolvidos?",
+      "anchors": [
+        "Mt 25,40",
+        "CEC 2448",
+        "B03"
+      ],
+      "facilitator_note": "Mantenha a distinção: reconhecer dignidade não é negar vício, sujeira, conflito ou risco.",
+      "reading_points": [
+        {
+          "title": "Identidade reduzida",
+          "body": "A pessoa é resumida a uma condição visível e degradante."
+        },
+        {
+          "title": "Dignidade anterior",
+          "body": "A dignidade vem antes da situação social, moral ou física em que alguém se encontra."
+        },
+        {
+          "title": "Discernir melhor",
+          "body": "A resposta vê a pessoa inteira e trata a condição com verdade e caridade."
+        }
+      ]
+    },
+    {
+      "id": "G02",
+      "term_id": "G02",
+      "call_label": "G02 - Pobreza e miséria",
+      "case": "Um jovem casal decide viver com simplicidade, enquanto outra família próxima passa dias sem gás, remédio e comida suficiente.",
+      "conference_question": "Como distinguir simplicidade escolhida de miséria que priva a pessoa do necessário?",
+      "anchors": [
+        "CEC 2448",
+        "Mt 5,3",
+        "B15"
+      ],
+      "facilitator_note": "Evite confundir pobreza evangélica com privação grave que deve ser combatida.",
+      "reading_points": [
+        {
+          "title": "Duas realidades",
+          "body": "A simplicidade do casal é escolha; a falta de gás, remédio e comida é privação."
+        },
+        {
+          "title": "Miséria fere",
+          "body": "A miséria ameaça a vida digna e pede socorro concreto."
+        },
+        {
+          "title": "Pobreza evangélica",
+          "body": "A simplicidade cristã pode libertar bens para enfrentar a miséria dos outros."
+        }
+      ]
+    },
+    {
+      "id": "G03",
+      "term_id": "G03",
+      "call_label": "G03 - Esmola e caridade",
+      "case": "Alguém entrega dinheiro a um necessitado e depois passa semanas ignorando a situação de abandono que conhece na própria família.",
+      "conference_question": "Como a esmola pode ser verdadeira sem ser confundida com a totalidade da caridade?",
+      "anchors": [
+        "CEC 2447",
+        "CEC 1822",
+        "B09"
+      ],
+      "facilitator_note": "Afirme a bondade da esmola, mas mostre que a caridade inclui vínculos e deveres próximos.",
+      "reading_points": [
+        {
+          "title": "Gesto real",
+          "body": "A esmola dada pode ajudar de modo concreto."
+        },
+        {
+          "title": "Caridade maior",
+          "body": "A virtude da caridade não se esgota em um gesto material isolado."
+        },
+        {
+          "title": "Deveres próximos",
+          "body": "O amor cristão também examina responsabilidades familiares e duradouras."
+        }
+      ]
+    },
+    {
+      "id": "G04",
+      "term_id": "G04",
+      "call_label": "G04 - Caridade e justiça",
+      "case": "Uma associação arrecada doações para famílias despejadas, mas evita denunciar o contrato ilegal que causou os despejos.",
+      "conference_question": "Como unir socorro imediato e defesa da justiça sem reduzir um ao outro?",
+      "anchors": [
+        "CEC 2446",
+        "CEC 1807",
+        "B05"
+      ],
+      "facilitator_note": "Mostre a distinção sem oposição: pão hoje e correção da injustiça que tirou a casa.",
+      "reading_points": [
+        {
+          "title": "Socorro necessário",
+          "body": "As doações aliviam uma urgência real das famílias."
+        },
+        {
+          "title": "Causa ignorada",
+          "body": "O contrato ilegal continua produzindo vítimas se não for enfrentado."
+        },
+        {
+          "title": "Amor completo",
+          "body": "A caridade socorre e a justiça exige corrigir o direito violado."
+        }
+      ]
+    },
+    {
+      "id": "G05",
+      "term_id": "G05",
+      "call_label": "G05 - Prudência e omissão",
+      "case": "Uma pessoa vê sinais de violência contra uma vizinha pobre, mas diz que não quer se meter e chama isso de prudência.",
+      "conference_question": "Que critério distingue cuidado prudente de omissão diante de uma pessoa vulnerável?",
+      "anchors": [
+        "Lc 10,33-35",
+        "CEC 2447",
+        "N05"
+      ],
+      "facilitator_note": "Não sugira intervenção imprudente; destaque canais seguros e dever de não abandonar.",
+      "reading_points": [
+        {
+          "title": "Risco sério",
+          "body": "A violência percebida exige cuidado, discrição e ação responsável."
+        },
+        {
+          "title": "Nome falso",
+          "body": "Chamar abandono de prudência distorce a virtude."
+        },
+        {
+          "title": "Ação segura",
+          "body": "A resposta pode acionar proteção, serviço competente ou pessoa de confiança sem se expor inutilmente."
+        }
+      ]
+    },
+    {
+      "id": "G06",
+      "term_id": "G06",
+      "call_label": "G06 - Ajuda e dependência",
+      "case": "Uma família recebe ajuda mensal, mas quem doa exige decidir como todos devem viver e ameaça cortar tudo se não for obedecido.",
+      "conference_question": "Como distinguir ajuda verdadeira de controle que cria dependência e humilhação?",
+      "anchors": [
+        "CEC 2447",
+        "CEC 1939-1942",
+        "O03"
+      ],
+      "facilitator_note": "Mostre que a ajuda deve fortalecer a pessoa, não comprar domínio sobre ela.",
+      "reading_points": [
+        {
+          "title": "Domínio disfarçado",
+          "body": "A doação vira instrumento de controle sobre decisões familiares."
+        },
+        {
+          "title": "Dignidade ferida",
+          "body": "Quem recebe ajuda não perde consciência, liberdade e responsabilidade possíveis."
+        },
+        {
+          "title": "Ajuda libertadora",
+          "body": "A resposta cristã socorre sem aprisionar e encaminha para autonomia possível."
+        }
+      ]
+    },
+    {
+      "id": "G07",
+      "term_id": "G07",
+      "call_label": "G07 - Proximidade e risco",
+      "case": "Uma mulher quer ajudar um homem em surto na rua; ela se aproxima sozinha, sem conhecer a situação, enquanto há serviços de emergência disponíveis.",
+      "conference_question": "Como unir proximidade cristã com reconhecimento de risco e competência necessária?",
+      "anchors": [
+        "Lc 10,25-37",
+        "CEC 2447",
+        "I13"
+      ],
+      "facilitator_note": "Corrija tanto a fuga covarde quanto a imprudência que pode piorar a situação.",
+      "reading_points": [
+        {
+          "title": "Boa intenção",
+          "body": "O desejo de ajudar é real e não deve ser desprezado."
+        },
+        {
+          "title": "Risco concreto",
+          "body": "A situação exige segurança, preparo e acionamento de serviço adequado."
+        },
+        {
+          "title": "Proximidade prudente",
+          "body": "A caridade pode permanecer perto, chamar ajuda e evitar atos perigosos."
+        }
+      ]
+    },
+    {
+      "id": "G08",
+      "term_id": "G08",
+      "call_label": "G08 - Urgência e estrutura",
+      "case": "Após enchentes frequentes, voluntários distribuem água e colchões, mas o bairro continua sem drenagem e com casas em área de risco.",
+      "conference_question": "Como distinguir a urgência de socorrer agora da necessidade de enfrentar causas estruturais depois?",
+      "anchors": [
+        "CEC 2448",
+        "CEC 2449",
+        "B13"
+      ],
+      "facilitator_note": "Mostre que uma resposta não elimina a outra; a urgência não substitui justiça duradoura.",
+      "reading_points": [
+        {
+          "title": "Socorro imediato",
+          "body": "Água e colchões são necessários para quem perdeu tudo."
+        },
+        {
+          "title": "Causa persistente",
+          "body": "Sem drenagem e moradia segura, a tragédia tende a se repetir."
+        },
+        {
+          "title": "Dois tempos",
+          "body": "A caridade age agora e a justiça busca mudanças responsáveis e duradouras."
+        }
+      ]
+    },
+    {
+      "id": "G09",
+      "term_id": "G09",
+      "call_label": "G09 - Preferência e exclusão",
+      "case": "Em uma discussão, alguém defende os pobres dizendo que toda pessoa com bens é inimiga e não merece ser ouvida.",
+      "conference_question": "Como a opção preferencial pelos pobres evita tanto a indiferença quanto o ódio social?",
+      "anchors": [
+        "CEC 2444",
+        "Mt 5,43-48",
+        "B02"
+      ],
+      "facilitator_note": "Afirme a preferência real pelos pobres sem permitir rancor como critério cristão.",
+      "reading_points": [
+        {
+          "title": "Preferência distorcida",
+          "body": "A defesa dos pobres vira rejeição total de pessoas por sua condição econômica."
+        },
+        {
+          "title": "Amor universal",
+          "body": "A prioridade aos pobres não cancela a caridade para com todos."
+        },
+        {
+          "title": "Conversão de todos",
+          "body": "A resposta cristã chama ricos e pobres à justiça, à partilha e à verdade."
+        }
+      ]
+    },
+    {
+      "id": "G10",
+      "term_id": "G10",
+      "call_label": "G10 - Necessário e supérfluo",
+      "case": "Uma casa troca aparelhos ainda bons por modelos novos enquanto a empregada pede adiantamento para comprar botijão de gás.",
+      "conference_question": "Como distinguir consumo legítimo de apego ao supérfluo quando alguém próximo não tem o necessário?",
+      "anchors": [
+        "Lc 3,11",
+        "CEC 2446",
+        "B04"
+      ],
+      "facilitator_note": "Não transforme todo conforto em pecado; foque no contraste moral entre sobra e necessidade básica.",
+      "reading_points": [
+        {
+          "title": "Contraste próximo",
+          "body": "A sobra de uns aparece ao lado da falta de algo básico para outro."
+        },
+        {
+          "title": "Supérfluo questionado",
+          "body": "A fé pergunta se o consumo está fechado ao necessitado concreto."
+        },
+        {
+          "title": "Partilha ordenada",
+          "body": "A resposta pode rever prioridades e socorrer sem humilhar."
+        }
+      ]
+    },
+    {
+      "id": "G11",
+      "term_id": "G11",
+      "call_label": "G11 - Compaixão e vaidade",
+      "case": "Um influenciador entrega marmitas na rua, mas repete a gravação várias vezes até conseguir imagens emocionantes dos rostos dos pobres.",
+      "conference_question": "Como distinguir compaixão verdadeira de ajuda usada para autopromoção?",
+      "anchors": [
+        "Mt 6,1-4",
+        "CEC 2447",
+        "N14"
+      ],
+      "facilitator_note": "Mostre que comunicação de ações pode ser legítima, mas exposição e vaidade corrompem o gesto.",
+      "reading_points": [
+        {
+          "title": "Imagem calculada",
+          "body": "A entrega das marmitas passa a servir ao conteúdo gravado."
+        },
+        {
+          "title": "Pobre usado",
+          "body": "A necessidade alheia vira material para reconhecimento público."
+        },
+        {
+          "title": "Discrição caridosa",
+          "body": "A compaixão busca o bem do pobre antes da própria reputação."
+        }
+      ]
+    },
+    {
+      "id": "G12",
+      "term_id": "G12",
+      "call_label": "G12 - Denúncia e ideologia",
+      "case": "Um grupo denuncia exploração de trabalhadores, mas omite dados que não favorecem sua narrativa e usa os pobres apenas como prova de uma tese pronta.",
+      "conference_question": "Como denunciar injustiças reais sem manipular a pobreza para uma disputa de poder?",
+      "anchors": [
+        "Am 8,6",
+        "Tg 5,1-6",
+        "CEC 2449"
+      ],
+      "facilitator_note": "Valorize a denúncia profética e corrija mentira, manipulação e instrumentalização.",
+      "reading_points": [
+        {
+          "title": "Injustiça real",
+          "body": "A exploração dos trabalhadores merece denúncia."
+        },
+        {
+          "title": "Uso instrumental",
+          "body": "O problema surge quando os pobres viram material para uma narrativa manipulada."
+        },
+        {
+          "title": "Verdade e justiça",
+          "body": "A resposta cristã denuncia com dados honestos, caridade e compromisso com o bem real."
+        }
+      ]
+    },
+    {
+      "id": "G13",
+      "term_id": "G13",
+      "call_label": "G13 - Perdão e reparação",
+      "case": "Um fornecedor enganou famílias pobres na venda de material de construção; depois pede desculpas, mas não quer devolver o dinheiro.",
+      "conference_question": "Por que pedir perdão não dispensa reparar o dano causado aos pobres?",
+      "anchors": [
+        "Lc 19,8",
+        "CEC 2412",
+        "B05"
+      ],
+      "facilitator_note": "Mostre que arrependimento verdadeiro busca devolver o que foi tirado quando possível.",
+      "reading_points": [
+        {
+          "title": "Dano material",
+          "body": "As famílias perderam dinheiro necessário para uma obra básica."
+        },
+        {
+          "title": "Desculpa insuficiente",
+          "body": "Palavras de arrependimento não substituem restituição quando ela é possível."
+        },
+        {
+          "title": "Reparação concreta",
+          "body": "A conversão cristã inclui devolver, corrigir e assumir consequências justas."
+        }
+      ]
+    },
+    {
+      "id": "G14",
+      "term_id": "G14",
+      "call_label": "G14 - Vulnerável e culpado",
+      "case": "Um homem rouba comida em um mercado; alguns querem punição exemplar, outros dizem que a fome torna tudo permitido.",
+      "conference_question": "Como reconhecer culpa objetiva e vulnerabilidade real sem cair em dureza nem relativização?",
+      "anchors": [
+        "CEC 2448",
+        "Lc 15,11-32",
+        "N11"
+      ],
+      "facilitator_note": "Conduza a distinção entre ato errado, fome real, responsabilidade e resposta proporcional.",
+      "reading_points": [
+        {
+          "title": "Ato errado",
+          "body": "Roubar não deixa de ser moralmente desordenado."
+        },
+        {
+          "title": "Fome relevante",
+          "body": "A necessidade grave modifica o modo justo de compreender e responder ao caso."
+        },
+        {
+          "title": "Resposta proporcional",
+          "body": "A caridade busca reparar, alimentar, orientar e evitar punição desumana."
+        }
+      ]
+    },
+    {
+      "id": "G15",
+      "term_id": "G15",
+      "call_label": "G15 - Oração e passividade",
+      "case": "Após saber que uma família será despejada, um grupo promete rezar, mas ninguém liga para a assistência social nem verifica uma ajuda imediata.",
+      "conference_question": "Como unir oração verdadeira e ação possível sem transformar uma na desculpa da outra?",
+      "anchors": [
+        "Tg 2,15-16",
+        "CEC 2447",
+        "O13"
+      ],
+      "facilitator_note": "Afirme a necessidade da oração e a insuficiência da passividade diante de obra possível.",
+      "reading_points": [
+        {
+          "title": "Oração necessária",
+          "body": "Rezar pela família é um bem real."
+        },
+        {
+          "title": "Passividade culpável",
+          "body": "Quando há passos concretos possíveis, prometer oração não basta."
+        },
+        {
+          "title": "Fé operante",
+          "body": "A resposta cristã reza e age com os meios proporcionais disponíveis."
+        }
+      ]
+    },
+    {
+      "id": "O01",
+      "term_id": "O01",
+      "call_label": "O01 - Dar alimento real",
+      "case": "Uma família chega a uma casa pedindo comida; o morador tem mantimentos suficientes e decide preparar uma sacola simples em vez de apenas desejar boa sorte.",
+      "conference_question": "Que diferença existe entre falar com compaixão e responder à fome com alimento real?",
+      "anchors": [
+        "Mt 25,35",
+        "Tg 2,15-16",
+        "B07"
+      ],
+      "facilitator_note": "Enfatize ação concreta, sem desprezar palavra respeitosa ou prudência.",
+      "reading_points": [
+        {
+          "title": "Fome objetiva",
+          "body": "O pedido é por comida, uma necessidade corporal imediata."
+        },
+        {
+          "title": "Resposta proporcional",
+          "body": "Quem possui alimento suficiente pode partilhar algo simples e real."
+        },
+        {
+          "title": "Cristo servido",
+          "body": "Dar de comer ao faminto é uma obra diretamente ligada a Mt 25."
+        }
+      ]
+    },
+    {
+      "id": "O02",
+      "term_id": "O02",
+      "call_label": "O02 - Partilhar o necessário",
+      "case": "Uma pessoa percebe que compra roupas sem usar enquanto uma família conhecida precisa de cobertores e agasalhos para o inverno.",
+      "conference_question": "Como transformar excesso acumulado em partilha responsável do necessário?",
+      "anchors": [
+        "Lc 3,11",
+        "CEC 2446",
+        "B04"
+      ],
+      "facilitator_note": "Mostre que partilha exige rever hábitos, não apenas doar o que incomoda no armário.",
+      "reading_points": [
+        {
+          "title": "Excesso parado",
+          "body": "Há bens sem uso enquanto outros carecem de proteção básica."
+        },
+        {
+          "title": "Critério bíblico",
+          "body": "Quem tem duas túnicas é chamado a repartir com quem não tem."
+        },
+        {
+          "title": "Partilha concreta",
+          "body": "A resposta organiza roupas boas, limpas e adequadas para quem precisa."
+        }
+      ]
+    },
+    {
+      "id": "O03",
+      "term_id": "O03",
+      "call_label": "O03 - Encaminhar com cuidado",
+      "case": "Uma mulher em situação de rua pede ajuda para tirar documentos; quem a escuta não sabe resolver, mas conhece um serviço público que pode orientar.",
+      "conference_question": "Por que encaminhar com cuidado pode ser mais responsável do que prometer resolver tudo sozinho?",
+      "anchors": [
+        "CEC 2447",
+        "G06",
+        "G07"
+      ],
+      "facilitator_note": "Destaque limite, rede, responsabilidade e acompanhamento possível.",
+      "reading_points": [
+        {
+          "title": "Necessidade específica",
+          "body": "A falta de documentos bloqueia acesso a trabalho, saúde e benefícios."
+        },
+        {
+          "title": "Limite reconhecido",
+          "body": "Quem ajuda não precisa fingir competência que não tem."
+        },
+        {
+          "title": "Ponte responsável",
+          "body": "A caridade pode acompanhar até o serviço correto e verificar se a orientação foi compreendida."
+        }
+      ]
+    },
+    {
+      "id": "O04",
+      "term_id": "O04",
+      "call_label": "O04 - Visitar sem invadir",
+      "case": "Um vizinho decide visitar um idoso doente, leva comida simples e pergunta do que ele precisa, sem mexer na casa nem contar a situação aos outros.",
+      "conference_question": "Como visitar alguém vulnerável com presença real e respeito aos limites da pessoa?",
+      "anchors": [
+        "Mt 25,36",
+        "CEC 2447",
+        "I10"
+      ],
+      "facilitator_note": "Mostre a diferença entre presença misericordiosa e curiosidade invasiva.",
+      "reading_points": [
+        {
+          "title": "Presença concreta",
+          "body": "A visita leva alimento, escuta e atenção às necessidades reais."
+        },
+        {
+          "title": "Limite respeitado",
+          "body": "O cuidado não invade a casa nem transforma a doença em assunto público."
+        },
+        {
+          "title": "Misericórdia digna",
+          "body": "Visitar o doente exige proximidade, discrição e respeito."
+        }
+      ]
+    },
+    {
+      "id": "O05",
+      "term_id": "O05",
+      "call_label": "O05 - Escutar antes de julgar",
+      "case": "Antes de negar ajuda a um homem que perdeu o emprego, uma senhora pergunta o que aconteceu e descobre que ele cuida sozinho de uma esposa doente.",
+      "conference_question": "Como a escuta muda o julgamento moral e ajuda a escolher uma resposta mais justa?",
+      "anchors": [
+        "Tg 1,19",
+        "N01",
+        "G14"
+      ],
+      "facilitator_note": "Destaque escuta como passo de discernimento, não como aprovação automática de tudo.",
+      "reading_points": [
+        {
+          "title": "História oculta",
+          "body": "A situação real era mais complexa do que parecia à primeira vista."
+        },
+        {
+          "title": "Julgamento suspenso",
+          "body": "Escutar impede reduzir a pobreza a preguiça ou culpa simples."
+        },
+        {
+          "title": "Resposta justa",
+          "body": "Depois de ouvir, é possível ajudar ou encaminhar de modo mais adequado."
+        }
+      ]
+    },
+    {
+      "id": "O06",
+      "term_id": "O06",
+      "call_label": "O06 - Pagar salário justo",
+      "case": "Um contratante percebe que pode atrasar o pagamento sem ser cobrado, mas decide quitar no dia combinado porque a diarista depende daquele valor.",
+      "conference_question": "Por que pagar corretamente é resposta concreta de amor aos pobres e não simples formalidade?",
+      "anchors": [
+        "Tg 5,4",
+        "Dt 24,14-15",
+        "B14"
+      ],
+      "facilitator_note": "Mostre que justiça salarial é obra cotidiana de caridade ordenada.",
+      "reading_points": [
+        {
+          "title": "Dependência real",
+          "body": "O salário sustenta necessidades imediatas da trabalhadora."
+        },
+        {
+          "title": "Dever cumprido",
+          "body": "Pagar no prazo é justiça, não favor."
+        },
+        {
+          "title": "Amor ordenado",
+          "body": "O cristão ama o trabalhador também respeitando o que lhe é devido."
+        }
+      ]
+    },
+    {
+      "id": "O07",
+      "term_id": "O07",
+      "call_label": "O07 - Recusar exploração",
+      "case": "Um comprador descobre que o produto barato vem de oficina que prende imigrantes em jornadas abusivas e decide não financiar esse fornecedor.",
+      "conference_question": "Como uma vantagem econômica pode envolver cooperação com exploração dos pobres?",
+      "anchors": [
+        "Am 8,6",
+        "CEC 2445",
+        "I08"
+      ],
+      "facilitator_note": "Evite simplismo de consumo perfeito; foque na decisão quando a exploração é conhecida.",
+      "reading_points": [
+        {
+          "title": "Preço suspeito",
+          "body": "O baixo custo está ligado a trabalho abusivo de pessoas vulneráveis."
+        },
+        {
+          "title": "Cooperação evitável",
+          "body": "Quando se conhece a exploração, continuar financiando torna-se moralmente grave."
+        },
+        {
+          "title": "Renúncia concreta",
+          "body": "Recusar a compra é modo proporcional de não lucrar com injustiça."
+        }
+      ]
+    },
+    {
+      "id": "O08",
+      "term_id": "O08",
+      "call_label": "O08 - Reparar a omissão",
+      "case": "Um homem percebe que ignorou por meses a necessidade de uma parente sem renda; procura a família, pede desculpas e organiza ajuda dentro do possível.",
+      "conference_question": "Como reparar uma omissão sem cair em culpa vazia nem promessa exagerada?",
+      "anchors": [
+        "Mt 5,42",
+        "1Jo 3,17-18",
+        "G13"
+      ],
+      "facilitator_note": "Conduza para reconhecimento, reparação proporcional e continuidade possível.",
+      "reading_points": [
+        {
+          "title": "Omissão reconhecida",
+          "body": "A pessoa percebe que virou as costas a uma necessidade próxima."
+        },
+        {
+          "title": "Culpa ordenada",
+          "body": "A consciência não deve parar na vergonha, mas mover a correção do erro."
+        },
+        {
+          "title": "Reparação possível",
+          "body": "A resposta inclui pedido de perdão e ajuda concreta proporcionada."
+        }
+      ]
+    },
+    {
+      "id": "O09",
+      "term_id": "O09",
+      "call_label": "O09 - Proteger a dignidade",
+      "case": "Ao ajudar uma família com alimentos, uma equipe decide registrar apenas a quantidade entregue, sem publicar rosto, nome ou endereço dos atendidos.",
+      "conference_question": "Como prestar contas de uma ajuda sem expor a pobreza de quem recebe?",
+      "anchors": [
+        "Mt 6,1-4",
+        "B03",
+        "G11"
+      ],
+      "facilitator_note": "Mostre que transparência e discrição podem andar juntas.",
+      "reading_points": [
+        {
+          "title": "Ajuda discreta",
+          "body": "A equipe socorre a família sem transformar sua necessidade em imagem pública."
+        },
+        {
+          "title": "Dignidade protegida",
+          "body": "Nome, rosto e endereço não devem ser expostos sem necessidade real."
+        },
+        {
+          "title": "Prestação limpa",
+          "body": "É possível comprovar a entrega com registros que preservem quem recebeu."
+        }
+      ]
+    },
+    {
+      "id": "O10",
+      "term_id": "O10",
+      "call_label": "O10 - Acompanhar o doente",
+      "case": "Uma vizinha organiza revezamento para levar um paciente pobre às consultas e conferir se ele entendeu a receita médica.",
+      "conference_question": "Por que acompanhar o doente envolve mais do que uma visita rápida?",
+      "anchors": [
+        "Mt 25,36",
+        "CEC 2447",
+        "I02"
+      ],
+      "facilitator_note": "Mostre continuidade, transporte, compreensão e apoio a quem cuida.",
+      "reading_points": [
+        {
+          "title": "Cuidado continuado",
+          "body": "O paciente precisa chegar às consultas e entender o tratamento."
+        },
+        {
+          "title": "Pobreza agravante",
+          "body": "Falta de transporte e informação pode tornar a doença mais perigosa."
+        },
+        {
+          "title": "Misericórdia prática",
+          "body": "A resposta cristã acompanha de modo responsável, sem substituir o médico."
+        }
+      ]
+    },
+    {
+      "id": "O11",
+      "term_id": "O11",
+      "call_label": "O11 - Defender sem humilhar",
+      "case": "Um funcionário pobre é tratado aos gritos; uma testemunha interrompe a humilhação, chama o responsável em particular e registra a reclamação sem expor o trabalhador.",
+      "conference_question": "Como defender alguém injustiçado sem transformar a correção em nova humilhação?",
+      "anchors": [
+        "CEC 1822",
+        "G12",
+        "N08"
+      ],
+      "facilitator_note": "Valorize a firmeza serena e a escolha de meios proporcionais.",
+      "reading_points": [
+        {
+          "title": "Injustiça interrompida",
+          "body": "A testemunha não fica neutra diante da humilhação."
+        },
+        {
+          "title": "Modo prudente",
+          "body": "A correção busca proteger o trabalhador sem espetáculo desnecessário."
+        },
+        {
+          "title": "Caridade firme",
+          "body": "Defender com caridade não é fraqueza; é firmeza sem desprezo."
+        }
+      ]
+    },
+    {
+      "id": "O12",
+      "term_id": "O12",
+      "call_label": "O12 - Organizar a partilha",
+      "case": "Depois de muitas doações repetidas e alimentos estragados, um grupo cria lista de necessidades, responsáveis por compras e prestação simples de contas.",
+      "conference_question": "Por que a caridade também precisa de organização, constância e limpeza nos meios?",
+      "anchors": [
+        "At 4,32-35",
+        "CEC 2447",
+        "B13"
+      ],
+      "facilitator_note": "Mostre que organização não esfria a caridade; ajuda a torná-la fiel e justa.",
+      "reading_points": [
+        {
+          "title": "Boa vontade insuficiente",
+          "body": "Sem organização, a ajuda desperdiça recursos e deixa necessidades reais sem resposta."
+        },
+        {
+          "title": "Partilha ordenada",
+          "body": "A comunidade cristã primitiva cuidava para que ninguém passasse necessidade."
+        },
+        {
+          "title": "Responsabilidade prática",
+          "body": "Listas, escalas e contas simples protegem os pobres e os doadores."
+        }
+      ]
+    },
+    {
+      "id": "O13",
+      "term_id": "O13",
+      "call_label": "O13 - Rezar e agir",
+      "case": "Ao saber de uma família sem comida, uma pessoa reza por ela e no mesmo dia leva alimentos, além de procurar uma ajuda mais estável.",
+      "conference_question": "Como a oração sustenta a ação sem virar substituto da misericórdia concreta?",
+      "anchors": [
+        "Tg 2,15-16",
+        "CEC 2447",
+        "G15"
+      ],
+      "facilitator_note": "Una fé e obras sem reduzir a oração a emoção ou a ação a ativismo.",
+      "reading_points": [
+        {
+          "title": "Oração verdadeira",
+          "body": "A necessidade é apresentada a Deus com fé."
+        },
+        {
+          "title": "Obra concreta",
+          "body": "A pessoa também oferece alimento real e busca continuidade."
+        },
+        {
+          "title": "Unidade cristã",
+          "body": "A fé madura reza, discerne e age na caridade."
+        }
+      ]
+    },
+    {
+      "id": "O14",
+      "term_id": "O14",
+      "call_label": "O14 - Formar consciência",
+      "case": "Um grupo percebe que repete preconceitos sobre moradores de rua e decide estudar Mt 25 e o Catecismo antes de planejar qualquer ação.",
+      "conference_question": "Por que formar a consciência é necessário antes de agir em nome da caridade?",
+      "anchors": [
+        "CEC 2443-2449",
+        "CEC 2447",
+        "B08"
+      ],
+      "facilitator_note": "Mostre que estudo da fé não atrasa a caridade quando corrige erros e orienta melhor a ação.",
+      "reading_points": [
+        {
+          "title": "Preconceito reconhecido",
+          "body": "O grupo percebe que sua visão dos pobres precisa de conversão."
+        },
+        {
+          "title": "Critério da fé",
+          "body": "Mt 25 e o Catecismo dão linguagem e direção à consciência cristã."
+        },
+        {
+          "title": "Ação mais justa",
+          "body": "Quem se forma evita ajuda humilhante, ingênua ou injusta."
+        }
+      ]
+    },
+    {
+      "id": "O15",
+      "term_id": "O15",
+      "call_label": "O15 - Cobrar justiça legítima",
+      "case": "Moradores de uma área sem saneamento reúnem documentos, procuram os órgãos corretos e acompanham o protocolo sem ameaças nem mentiras.",
+      "conference_question": "Como cobrar justiça de modo legítimo, firme e cristão diante de uma necessidade pública?",
+      "anchors": [
+        "Am 8,6",
+        "Tg 5,1-6",
+        "G12"
+      ],
+      "facilitator_note": "Destaque firmeza sem violência, verdade dos fatos e uso de canais adequados.",
+      "reading_points": [
+        {
+          "title": "Direito concreto",
+          "body": "Saneamento básico envolve dignidade e saúde de famílias pobres."
+        },
+        {
+          "title": "Meios legítimos",
+          "body": "Documentos, órgãos competentes e acompanhamento sério evitam desordem e mentira."
+        },
+        {
+          "title": "Justiça com verdade",
+          "body": "A resposta cristã pode cobrar responsáveis sem ódio nem manipulação."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1966 @@
+{
+  "title": "Chamadas — Bingo A eutanásia",
+  "meeting": "Encontro 24 — A eutanásia",
+  "source_terms": "data/termos.json",
+  "method": {
+    "read_order": [
+      "call_label",
+      "case",
+      "reading_points"
+    ],
+    "rule": "A cada carta, anuncie código e conceito, leia o caso e explique brevemente a relação usando a Leitura do caso. Depois as equipes marcam o código, se estiver na cartela.",
+    "conference_rule": "Ao fechar duas linhas válidas, horizontais, verticais ou diagonais, a equipe escolhe uma dessas linhas completas, explica pelo menos três conceitos da linha escolhida e liga pelo menos um deles à base bíblica ou doutrinal do encontro. As duas linhas podem se cruzar. O centro livre já conta como casa marcada para completar linhas, mas não conta como um dos três conceitos explicados."
+  },
+  "cards": [
+    {
+      "id": "B01",
+      "term_id": "B01",
+      "call_label": "B01 - Não matarás",
+      "case": "Um hospital discute um protocolo para aplicar uma dose letal em pacientes terminais que assinem um formulário, alegando que isso reduziria sofrimento e conflitos familiares.",
+      "conference_question": "Por que o mandamento não matarás continua valendo quando a intenção declarada é aliviar sofrimento?",
+      "anchors": [
+        "Ex 20,13",
+        "CEC 2277"
+      ],
+      "facilitator_note": "Mostre que a compaixão não autoriza matar uma vida inocente.",
+      "reading_points": [
+        {
+          "title": "Ato direto",
+          "body": "A dose letal não é tratamento do sofrimento, mas ação ordenada a provocar a morte."
+        },
+        {
+          "title": "Limite moral",
+          "body": "O quinto mandamento protege a vida inocente também quando ela está frágil, terminal ou dependente."
+        },
+        {
+          "title": "Resposta cristã",
+          "body": "A fé manda aliviar e acompanhar, não transformar a morte em procedimento."
+        }
+      ]
+    },
+    {
+      "id": "B02",
+      "term_id": "B02",
+      "call_label": "B02 - Imagem de Deus",
+      "case": "Uma mulher com demência avançada já não reconhece os filhos, e alguém comenta que ela deixou de ser a pessoa que era.",
+      "conference_question": "O que muda quando a dignidade da pessoa é fundada na imagem de Deus, e não na memória ou na lucidez?",
+      "anchors": [
+        "Gn 1,27",
+        "CEC 1700"
+      ],
+      "facilitator_note": "Evite romantizar a doença; afirme que a perda de capacidades não apaga a pessoa.",
+      "reading_points": [
+        {
+          "title": "Capacidade perdida",
+          "body": "A demência tira memória e autonomia, mas não tira a identidade pessoal diante de Deus."
+        },
+        {
+          "title": "Critério cristão",
+          "body": "A dignidade vem do ser pessoa criada por Deus, não do desempenho mental."
+        },
+        {
+          "title": "Cuidado devido",
+          "body": "Justamente por estar mais vulnerável, ela precisa de mais proteção e presença."
+        }
+      ]
+    },
+    {
+      "id": "B03",
+      "term_id": "B03",
+      "call_label": "B03 - Vida como dom",
+      "case": "Depois de receber um diagnóstico grave, um homem diz que sua vida é só dele e que ninguém pode questionar seu plano de pedir a morte assistida.",
+      "conference_question": "Como distinguir respeito pela história de alguém da ideia de que a vida é uma posse absoluta?",
+      "anchors": [
+        "Rm 14,7-8",
+        "1Cor 6,19-20"
+      ],
+      "facilitator_note": "Reconheça a dor real, mas corrija a noção de posse total da vida.",
+      "reading_points": [
+        {
+          "title": "Ferida real",
+          "body": "O diagnóstico pode trazer medo, revolta e sensação de perda de controle."
+        },
+        {
+          "title": "Dom recebido",
+          "body": "A vida não é objeto que o indivíduo possui sem referência a Deus e aos outros."
+        },
+        {
+          "title": "Responsabilidade",
+          "body": "A resposta cristã busca cuidado, decisão prudente e entrega da vida ao Senhor."
+        }
+      ]
+    },
+    {
+      "id": "B04",
+      "term_id": "B04",
+      "call_label": "B04 - Criador e Senhor",
+      "case": "Uma comissão hospitalar debate se certos pacientes inconscientes deveriam ser removidos dos cuidados básicos para liberar leitos mais rapidamente.",
+      "conference_question": "Por que nenhuma autoridade humana pode decidir que uma vida inocente perdeu o direito de existir?",
+      "anchors": [
+        "CEC 2277",
+        "Rm 14,7-8"
+      ],
+      "facilitator_note": "Diferencie gestão difícil de poder indevido sobre a vida.",
+      "reading_points": [
+        {
+          "title": "Pressão institucional",
+          "body": "A falta de leitos cria decisões difíceis, mas não concede poder para eliminar pessoas."
+        },
+        {
+          "title": "Senhor da vida",
+          "body": "A vida humana pertence primeiramente a Deus, Criador e Senhor."
+        },
+        {
+          "title": "Limite da decisão",
+          "body": "Administrar recursos não pode virar autorização para provocar a morte."
+        }
+      ]
+    },
+    {
+      "id": "B05",
+      "term_id": "B05",
+      "call_label": "B05 - Dignidade do enfermo",
+      "case": "Um paciente terminal começa a ser tratado no quarto como se estivesse ausente: falam de custos, horários e herança sem perguntar nada a ele.",
+      "conference_question": "Que sinais mostram que a dignidade do enfermo está sendo ferida mesmo sem agressão física?",
+      "anchors": [
+        "CEC 2276",
+        "Mt 25,36"
+      ],
+      "facilitator_note": "A dignidade se manifesta também no modo de falar e decidir perto do doente.",
+      "reading_points": [
+        {
+          "title": "Presença ignorada",
+          "body": "O paciente é tratado como problema administrativo, não como pessoa presente."
+        },
+        {
+          "title": "Respeito especial",
+          "body": "A enfermidade exige consideração maior, não invisibilidade."
+        },
+        {
+          "title": "Olhar de Cristo",
+          "body": "Visitar o enfermo inclui reconhecê-lo, ouvi-lo e cuidar dele com respeito."
+        }
+      ]
+    },
+    {
+      "id": "B06",
+      "term_id": "B06",
+      "call_label": "B06 - Pessoa até o fim",
+      "case": "Após meses de coma, uma família passa a chamar o paciente apenas de corpo, e as decisões começam a ser tomadas como se ele já não fosse alguém.",
+      "conference_question": "Como a fé cristã ajuda a distinguir estado clínico grave de perda da condição de pessoa?",
+      "anchors": [
+        "CEC 2276",
+        "B02"
+      ],
+      "facilitator_note": "Não negue a gravidade do coma; afirme a permanência da pessoa.",
+      "reading_points": [
+        {
+          "title": "Linguagem redutora",
+          "body": "Chamar alguém de corpo facilita esquecer sua dignidade pessoal."
+        },
+        {
+          "title": "Pessoa permanece",
+          "body": "Consciência reduzida ou ausente não transforma o ser humano em coisa."
+        },
+        {
+          "title": "Decisão moral",
+          "body": "O cuidado deve considerar a condição clínica sem apagar quem é cuidado."
+        }
+      ]
+    },
+    {
+      "id": "B07",
+      "term_id": "B07",
+      "call_label": "B07 - Respeito especial",
+      "case": "Em uma instituição de longa permanência, os residentes mais dependentes são os últimos a receber banho, troca e visitas médicas porque reclamam menos.",
+      "conference_question": "Por que a vulnerabilidade aumenta a responsabilidade dos cuidadores, em vez de diminuir o dever de cuidado?",
+      "anchors": [
+        "CEC 2276",
+        "Mt 25,36"
+      ],
+      "facilitator_note": "Mostre que dependência não reduz direitos; ela pede proteção mais cuidadosa.",
+      "reading_points": [
+        {
+          "title": "Vulnerabilidade explorada",
+          "body": "Quem tem menos voz acaba recebendo menos atenção."
+        },
+        {
+          "title": "Exigência moral",
+          "body": "O Catecismo ensina que vidas diminuídas ou enfraquecidas pedem respeito especial."
+        },
+        {
+          "title": "Cuidado concreto",
+          "body": "Proteger o frágil exige rotina, prioridade e responsabilidade verificável."
+        }
+      ]
+    },
+    {
+      "id": "B08",
+      "term_id": "B08",
+      "call_label": "B08 - Eutanásia direta",
+      "case": "Uma clínica oferece um pacote para pacientes incuráveis: consulta, assinatura e aplicação de medicamento destinado a causar a morte.",
+      "conference_question": "Quais elementos mostram que esse caso é eutanásia direta, e não cuidado paliativo?",
+      "anchors": [
+        "CEC 2277",
+        "Ex 20,13"
+      ],
+      "facilitator_note": "Peça que identifiquem ação, intenção e finalidade.",
+      "reading_points": [
+        {
+          "title": "Meio usado",
+          "body": "O medicamento é escolhido para causar a morte, não para tratar um sintoma."
+        },
+        {
+          "title": "Finalidade declarada",
+          "body": "A morte é o meio planejado para suprimir sofrimento."
+        },
+        {
+          "title": "Juízo moral",
+          "body": "A Igreja chama esse ato de moralmente inadmissível e gravemente contrário à dignidade humana."
+        }
+      ]
+    },
+    {
+      "id": "B09",
+      "term_id": "B09",
+      "call_label": "B09 - Intenção de matar",
+      "case": "Um médico diz que a medicação vai resolver o sofrimento porque o paciente não acordará mais, e ajusta a dose para garantir que ele morra naquela noite.",
+      "conference_question": "Por que a intenção muda a leitura moral do uso de uma medicação no fim da vida?",
+      "anchors": [
+        "CEC 2277",
+        "G02"
+      ],
+      "facilitator_note": "Destaque que o mesmo tipo de recurso pode ter sentido moral diferente conforme intenção, meio e proporção.",
+      "reading_points": [
+        {
+          "title": "Objetivo escondido",
+          "body": "A fala usa linguagem de alívio, mas a dose é ajustada para produzir morte."
+        },
+        {
+          "title": "Critério decisivo",
+          "body": "Quando a morte é querida como fim ou meio, entra-se no campo da eutanásia."
+        },
+        {
+          "title": "Cuidado legítimo",
+          "body": "Aliviar dor é bom quando a morte não é desejada, apenas tolerada como risco inevitável."
+        }
+      ]
+    },
+    {
+      "id": "B10",
+      "term_id": "B10",
+      "call_label": "B10 - Caridade que cuida",
+      "case": "Uma equipe de enfermagem sabe que o paciente não terá cura, mas organiza banho, controle de dor, conversa breve e contato com a família todos os dias.",
+      "conference_question": "Como esse cuidado mostra que a caridade cristã não depende de promessa de cura?",
+      "anchors": [
+        "Mt 25,36",
+        "CEC 2279"
+      ],
+      "facilitator_note": "Valorize a caridade concreta sem transformar a cena em idealização perfeita.",
+      "reading_points": [
+        {
+          "title": "Sem cura esperada",
+          "body": "A equipe sabe que não vencerá a morte naquele caso."
+        },
+        {
+          "title": "Cuidado real",
+          "body": "Mesmo assim, alivia, limpa, escuta e aproxima a família."
+        },
+        {
+          "title": "Caridade cristã",
+          "body": "Cuidar permanece obrigatório quando curar já não é possível."
+        }
+      ]
+    },
+    {
+      "id": "B11",
+      "term_id": "B11",
+      "call_label": "B11 - Visita ao doente",
+      "case": "Um senhor internado há semanas recebe alta possibilidade de morte, mas os parentes evitam ir ao hospital porque não sabem o que dizer.",
+      "conference_question": "Por que visitar o doente pode ser uma resposta cristã mesmo quando ninguém consegue resolver a doença?",
+      "anchors": [
+        "Mt 25,36",
+        "CEC 1503"
+      ],
+      "facilitator_note": "Mostre que presença humilde é cuidado, não simples gesto social.",
+      "reading_points": [
+        {
+          "title": "Medo da presença",
+          "body": "A família foge porque a doença e a morte deixam todos sem palavras."
+        },
+        {
+          "title": "Encontro concreto",
+          "body": "Cristo se identifica com o enfermo visitado."
+        },
+        {
+          "title": "Caridade possível",
+          "body": "Uma presença simples pode combater abandono e desespero."
+        }
+      ]
+    },
+    {
+      "id": "B12",
+      "term_id": "B12",
+      "call_label": "B12 - Cuidados devidos",
+      "case": "Como o paciente está em fase final, alguém propõe suspender banho, troca de curativos e hidratação que ainda o ajuda, para não gastar energia com quem vai morrer.",
+      "conference_question": "Como distinguir cuidados comumente devidos de tratamentos que podem ser legitimamente interrompidos?",
+      "anchors": [
+        "CEC 2279",
+        "G14"
+      ],
+      "facilitator_note": "Evite regra simplista; use a noção de cuidado proporcionado e benéfico.",
+      "reading_points": [
+        {
+          "title": "Abandono prático",
+          "body": "O argumento usa a proximidade da morte para cortar cuidados básicos."
+        },
+        {
+          "title": "Dever permanece",
+          "body": "O Catecismo afirma que cuidados comumente devidos não podem ser legitimamente interrompidos."
+        },
+        {
+          "title": "Proporção",
+          "body": "Alimentação e hidratação devem ser avaliadas conforme benefício e possibilidade, sem intenção de matar."
+        }
+      ]
+    },
+    {
+      "id": "B13",
+      "term_id": "B13",
+      "call_label": "B13 - Esperança cristã",
+      "case": "Uma mulher em tratamento paliativo diz que Deus a abandonou porque a cura não veio, e a família evita tocar no assunto.",
+      "conference_question": "Como a esperança cristã evita tanto negar a morte quanto concluir que o sofrimento prova ausência de Deus?",
+      "anchors": [
+        "2Cor 12,9",
+        "CEC 1520"
+      ],
+      "facilitator_note": "Não prometa cura; fale de presença de Deus, graça e acompanhamento.",
+      "reading_points": [
+        {
+          "title": "Crise espiritual",
+          "body": "A falta de cura pode ser vivida como abandono de Deus."
+        },
+        {
+          "title": "Esperança real",
+          "body": "A esperança cristã não exige negar a gravidade da doença."
+        },
+        {
+          "title": "Graça no limite",
+          "body": "A fé sustenta a pessoa para ser acompanhada e entregue a Deus com confiança."
+        }
+      ]
+    },
+    {
+      "id": "B14",
+      "term_id": "B14",
+      "call_label": "B14 - Consciência formada",
+      "case": "Antes de decidir sobre um tratamento, uma família se informa apenas por vídeos emocionais nas redes e por uma opinião apressada no grupo de mensagens.",
+      "conference_question": "Por que uma decisão grave sobre vida e morte exige consciência formada, e não apenas emoção ou opinião circulante?",
+      "anchors": [
+        "CEC 1776",
+        "CEC 1783"
+      ],
+      "facilitator_note": "Mostre que consciência não é palpite pessoal; precisa buscar verdade e bem.",
+      "reading_points": [
+        {
+          "title": "Informação frágil",
+          "body": "A família se orienta por emoção e conteúdo sem critério."
+        },
+        {
+          "title": "Consciência reta",
+          "body": "A consciência deve ser formada pela verdade, pela moral e por informações confiáveis."
+        },
+        {
+          "title": "Decisão prudente",
+          "body": "Diante da morte, é preciso escutar profissionais, doutrina e pessoas legitimamente responsáveis."
+        }
+      ]
+    },
+    {
+      "id": "B15",
+      "term_id": "B15",
+      "call_label": "B15 - Sofrimento acompanhado",
+      "case": "Um paciente com câncer avançado suporta dores, medo e vergonha da dependência; quando alguém fica ao lado dele sem discursos, ele começa a aceitar ajuda.",
+      "conference_question": "Como acompanhar o sofrimento sem romantizá-lo nem transformá-lo em motivo para matar?",
+      "anchors": [
+        "CEC 2279",
+        "2Cor 12,9"
+      ],
+      "facilitator_note": "Una firmeza moral e realismo sobre a dor.",
+      "reading_points": [
+        {
+          "title": "Sofrimento concreto",
+          "body": "A dor envolve corpo, medo, vergonha e dependência."
+        },
+        {
+          "title": "Sem romantização",
+          "body": "A fé não chama a dor de coisa boa em si, nem a usa para abandonar tratamento."
+        },
+        {
+          "title": "Acompanhamento",
+          "body": "A resposta cristã alivia, permanece e ajuda a viver o limite diante de Deus."
+        }
+      ]
+    },
+    {
+      "id": "I01",
+      "term_id": "I01",
+      "call_label": "I01 - Pedido de morte",
+      "case": "Uma senhora com dor e falta de ar diz à filha: eu queria dormir e não acordar mais.",
+      "conference_question": "Que perguntas e cuidados ajudam a escutar esse pedido sem tratá-lo automaticamente como escolha livre pela morte?",
+      "anchors": [
+        "CEC 2277",
+        "G11"
+      ],
+      "facilitator_note": "O pedido pode esconder dor, medo, depressão ou solidão; não deve ser desprezado nem executado.",
+      "reading_points": [
+        {
+          "title": "Pedido ambíguo",
+          "body": "A frase pode expressar sofrimento extremo, não uma decisão moral clara e estável."
+        },
+        {
+          "title": "Risco moral",
+          "body": "Responder com morte provocada troca escuta por eliminação."
+        },
+        {
+          "title": "Caminho cristão",
+          "body": "É preciso investigar dor, medo e abandono, oferecendo cuidado real."
+        }
+      ]
+    },
+    {
+      "id": "I02",
+      "term_id": "I02",
+      "call_label": "I02 - Dor sem controle",
+      "case": "Um paciente passa noites gritando de dor enquanto a equipe demora a revisar a medicação, e a família começa a falar em acabar logo com isso.",
+      "conference_question": "Por que dor mal cuidada pode empurrar pessoas para uma conclusão moral errada?",
+      "anchors": [
+        "CEC 2279",
+        "O01"
+      ],
+      "facilitator_note": "Afirme que controlar dor é dever sério, não detalhe secundário.",
+      "reading_points": [
+        {
+          "title": "Dor negligenciada",
+          "body": "A falta de controle adequado torna o sofrimento quase insuportável."
+        },
+        {
+          "title": "Desvio perigoso",
+          "body": "Quando a dor é abandonada, a morte pode parecer solução."
+        },
+        {
+          "title": "Cuidado devido",
+          "body": "A resposta correta é analgesia proporcional e acompanhamento paliativo."
+        }
+      ]
+    },
+    {
+      "id": "I03",
+      "term_id": "I03",
+      "call_label": "I03 - Tratamento fútil",
+      "case": "Um paciente terminal é submetido a exames invasivos e transferências exaustivas, embora os médicos digam que nada mudará o desfecho.",
+      "conference_question": "Que critério ajuda a perceber quando um tratamento deixa de servir ao bem do paciente?",
+      "anchors": [
+        "CEC 2278",
+        "G05"
+      ],
+      "facilitator_note": "Mostre que recusar futilidade não é desejar a morte.",
+      "reading_points": [
+        {
+          "title": "Intervenção pesada",
+          "body": "Os procedimentos cansam o paciente sem oferecer benefício razoável."
+        },
+        {
+          "title": "Futilidade",
+          "body": "Nem tudo que a técnica permite deve ser moralmente imposto."
+        },
+        {
+          "title": "Aceitação legítima",
+          "body": "Pode ser correto recusar obstinação e manter cuidados proporcionados."
+        }
+      ]
+    },
+    {
+      "id": "I04",
+      "term_id": "I04",
+      "call_label": "I04 - UTI sem benefício",
+      "case": "Uma mulher muito idosa permanece entubada na UTI, sem chance razoável de recuperação, enquanto a família teme que retirar o suporte seja matar.",
+      "conference_question": "Como distinguir retirar suporte desproporcional de provocar a morte?",
+      "anchors": [
+        "CEC 2278",
+        "G07"
+      ],
+      "facilitator_note": "Aponte a diferença entre aceitar a limitação da medicina e causar morte intencionalmente.",
+      "reading_points": [
+        {
+          "title": "Medo compreensível",
+          "body": "A família associa retirar suporte a abandono ou culpa."
+        },
+        {
+          "title": "Obstinação possível",
+          "body": "A UTI pode se tornar desproporcional quando só prolonga o processo de morrer."
+        },
+        {
+          "title": "Cuidado mantido",
+          "body": "Recusar obstinação exige manter conforto, presença e cuidados devidos."
+        }
+      ]
+    },
+    {
+      "id": "I05",
+      "term_id": "I05",
+      "call_label": "I05 - Sedação no fim",
+      "case": "Com dor refratária e falta de ar intensa, um paciente recebe sedação proporcional; a família teme que isso seja eutanásia.",
+      "conference_question": "Quais critérios distinguem sedação moralmente lícita de eutanásia?",
+      "anchors": [
+        "CEC 2279",
+        "G06"
+      ],
+      "facilitator_note": "Trabalhe intenção, proporcionalidade e efeito previsto.",
+      "reading_points": [
+        {
+          "title": "Sofrimento extremo",
+          "body": "A sedação busca aliviar sintomas intoleráveis no fim da vida."
+        },
+        {
+          "title": "Intenção moral",
+          "body": "Não se deseja a morte como fim nem como meio, ainda que um risco seja previsto."
+        },
+        {
+          "title": "Cuidado paliativo",
+          "body": "Quando proporcional, esse alívio pode estar conforme à dignidade humana."
+        }
+      ]
+    },
+    {
+      "id": "I06",
+      "term_id": "I06",
+      "call_label": "I06 - Alimentação suspensa",
+      "case": "Uma paciente ainda assimila água e nutrição simples, mas alguém propõe suspender tudo porque ela não conversa mais.",
+      "conference_question": "Por que a falta de comunicação não basta para retirar cuidados básicos proporcionados?",
+      "anchors": [
+        "CEC 2279",
+        "G14"
+      ],
+      "facilitator_note": "Não transforme alimentação e hidratação em regra mecânica; destaque proporção e intenção.",
+      "reading_points": [
+        {
+          "title": "Critério errado",
+          "body": "A proposta se baseia na ausência de conversa, não na proporção clínica do cuidado."
+        },
+        {
+          "title": "Cuidado devido",
+          "body": "Cuidados comuns não podem ser interrompidos só porque a pessoa está dependente."
+        },
+        {
+          "title": "Discernimento",
+          "body": "É preciso avaliar benefício, possibilidade e intenção, sem buscar a morte."
+        }
+      ]
+    },
+    {
+      "id": "I07",
+      "term_id": "I07",
+      "call_label": "I07 - Idoso pressionado",
+      "case": "Um idoso ouve repetidas conversas sobre despesas, trabalho perdido e cansaço dos filhos; dias depois, diz que talvez fosse melhor não estar mais vivo.",
+      "conference_question": "Como a pressão indireta pode deformar a liberdade de um idoso doente?",
+      "anchors": [
+        "CEC 2276",
+        "N03"
+      ],
+      "facilitator_note": "Mostre que nem toda pressão aparece como ameaça direta.",
+      "reading_points": [
+        {
+          "title": "Pressão silenciosa",
+          "body": "O idoso absorve a ideia de que sua existência pesa demais."
+        },
+        {
+          "title": "Liberdade ferida",
+          "body": "Uma escolha feita para não incomodar pode nascer de abandono e culpa induzida."
+        },
+        {
+          "title": "Proteção",
+          "body": "A resposta cristã afirma valor, oferece ajuda e impede decisões sob pressão."
+        }
+      ]
+    },
+    {
+      "id": "I08",
+      "term_id": "I08",
+      "call_label": "I08 - Coma prolongado",
+      "case": "Depois de um acidente, um homem permanece em coma; conhecidos perguntam por que a família ainda gasta tempo com alguém que não percebe nada.",
+      "conference_question": "Que erro aparece quando o valor da pessoa é medido pela consciência visível?",
+      "anchors": [
+        "B06",
+        "CEC 2276"
+      ],
+      "facilitator_note": "Evite prometer recuperação; a questão é dignidade, não prognóstico.",
+      "reading_points": [
+        {
+          "title": "Consciência ausente",
+          "body": "O coma impede comunicação e resposta visível."
+        },
+        {
+          "title": "Valor intacto",
+          "body": "A pessoa não perde dignidade porque não consegue demonstrar consciência."
+        },
+        {
+          "title": "Cuidado fiel",
+          "body": "A família deve discernir tratamentos proporcionais sem abandonar a pessoa."
+        }
+      ]
+    },
+    {
+      "id": "I09",
+      "term_id": "I09",
+      "call_label": "I09 - Deficiência grave",
+      "case": "Durante uma discussão pública, alguém afirma que certas deficiências graves tornam a vida indigna de ser vivida.",
+      "conference_question": "Por que essa frase atinge a dignidade da pessoa, e não apenas uma opinião sobre sofrimento?",
+      "anchors": [
+        "B02",
+        "CEC 2276"
+      ],
+      "facilitator_note": "Corrija a ideia sem negar que algumas condições exigem cuidado intenso.",
+      "reading_points": [
+        {
+          "title": "Juízo sobre valor",
+          "body": "A frase decide que algumas vidas valem menos por causa de sua condição."
+        },
+        {
+          "title": "Erro antropológico",
+          "body": "Deficiência não reduz humanidade nem dignidade."
+        },
+        {
+          "title": "Dever social",
+          "body": "A resposta é amparo real, inclusão possível e cuidado proporcionado."
+        }
+      ]
+    },
+    {
+      "id": "I10",
+      "term_id": "I10",
+      "call_label": "I10 - Família exausta",
+      "case": "Depois de meses revezando noites, uma família cansada começa a discutir decisões graves em tom de irritação e culpa.",
+      "conference_question": "Como reconhecer o cansaço dos cuidadores sem deixá-lo virar critério para eliminar o doente?",
+      "anchors": [
+        "G15",
+        "O09"
+      ],
+      "facilitator_note": "Valide o esgotamento real, mas não o transforme em norma moral.",
+      "reading_points": [
+        {
+          "title": "Cansaço real",
+          "body": "Cuidar por muito tempo desgasta corpo, emoções e relações familiares."
+        },
+        {
+          "title": "Critério insuficiente",
+          "body": "Exaustão explica fragilidade, mas não autoriza decisão injusta sobre a vida."
+        },
+        {
+          "title": "Ajuda necessária",
+          "body": "A resposta prudente inclui revezamento, orientação, descanso e apoio externo."
+        }
+      ]
+    },
+    {
+      "id": "I11",
+      "term_id": "I11",
+      "call_label": "I11 - Médico pressionado",
+      "case": "Um médico de plantão é chamado por familiares que pedem uma medicação forte para encerrar o sofrimento de modo definitivo.",
+      "conference_question": "Que responsabilidade moral o profissional tem quando a pressão vem revestida de compaixão?",
+      "anchors": [
+        "B14",
+        "O15"
+      ],
+      "facilitator_note": "Destaque consciência profissional e dever de cuidar sem matar.",
+      "reading_points": [
+        {
+          "title": "Pedido grave",
+          "body": "A família quer uma ação médica que produza morte."
+        },
+        {
+          "title": "Consciência profissional",
+          "body": "O médico não pode transformar sua competência em instrumento de eliminação."
+        },
+        {
+          "title": "Alternativa ética",
+          "body": "Ele deve propor controle de sintomas, paliativos e decisão proporcional."
+        }
+      ]
+    },
+    {
+      "id": "I12",
+      "term_id": "I12",
+      "call_label": "I12 - Herança apressada",
+      "case": "Antes mesmo de uma decisão clínica clara, parentes começam a calcular venda de imóvel e pressionam para que o tratamento não continue.",
+      "conference_question": "Como interesses econômicos podem contaminar uma decisão que deveria buscar o bem do paciente?",
+      "anchors": [
+        "N06",
+        "B07"
+      ],
+      "facilitator_note": "Não acuse toda família em conflito; mostre o risco moral concreto.",
+      "reading_points": [
+        {
+          "title": "Interesse oculto",
+          "body": "A herança entra no centro antes da avaliação do bem do doente."
+        },
+        {
+          "title": "Vulnerável em risco",
+          "body": "Quem não consegue se defender pode virar obstáculo econômico."
+        },
+        {
+          "title": "Decisão limpa",
+          "body": "É preciso separar patrimônio, cansaço e cuidado proporcional."
+        }
+      ]
+    },
+    {
+      "id": "I13",
+      "term_id": "I13",
+      "call_label": "I13 - Seguro nega cuidado",
+      "case": "Um plano de saúde nega tratamento de dor e oferece apenas alta rápida, deixando a família sem orientação e sem suporte domiciliar.",
+      "conference_question": "Por que negar cuidado proporcional pode empurrar uma família para escolhas moralmente perigosas?",
+      "anchors": [
+        "N06",
+        "O14"
+      ],
+      "facilitator_note": "Aponte a dimensão institucional sem transformar a carta em debate partidário.",
+      "reading_points": [
+        {
+          "title": "Cuidado bloqueado",
+          "body": "A burocracia impede alívio e acompanhamento necessários."
+        },
+        {
+          "title": "Pressão econômica",
+          "body": "Quando o cuidado desaparece, a morte pode parecer saída prática."
+        },
+        {
+          "title": "Resposta justa",
+          "body": "É legítimo buscar recursos, reclamar formalmente e proteger o paciente."
+        }
+      ]
+    },
+    {
+      "id": "I14",
+      "term_id": "I14",
+      "call_label": "I14 - Solidão hospitalar",
+      "case": "Um paciente internado há semanas recebe procedimentos corretos, mas quase nenhuma visita; quando a noite chega, ele pede para não continuar.",
+      "conference_question": "Como a solidão pode agravar o sofrimento e influenciar pedidos de morte?",
+      "anchors": [
+        "Mt 25,36",
+        "O12"
+      ],
+      "facilitator_note": "Mostre que cuidado técnico sem presença pode ficar moralmente incompleto.",
+      "reading_points": [
+        {
+          "title": "Tratamento sem vínculo",
+          "body": "Os procedimentos existem, mas a pessoa se sente sozinha e esquecida."
+        },
+        {
+          "title": "Sofrimento ampliado",
+          "body": "A solidão torna a doença mais pesada e enfraquece a esperança."
+        },
+        {
+          "title": "Presença cristã",
+          "body": "Visitar, telefonar e permanecer são formas concretas de cuidado."
+        }
+      ]
+    },
+    {
+      "id": "I15",
+      "term_id": "I15",
+      "call_label": "I15 - Documento ambíguo",
+      "case": "Um documento de vontade antecipada diz que a paciente não quer máquinas inúteis, mas também pede qualquer medida que apresse a morte se houver sofrimento.",
+      "conference_question": "Como separar recusa legítima de tratamento desproporcional de pedido inadmissível de morte provocada?",
+      "anchors": [
+        "CEC 2278",
+        "B08"
+      ],
+      "facilitator_note": "Use a carta para treinar distinção, não para rejeitar todo registro antecipado.",
+      "reading_points": [
+        {
+          "title": "Mistura de pedidos",
+          "body": "O documento une uma recusa legítima e uma intenção moralmente errada."
+        },
+        {
+          "title": "Critério",
+          "body": "Não querer obstinação é diferente de pedir que alguém provoque a morte."
+        },
+        {
+          "title": "Registro prudente",
+          "body": "A vontade razoável deve favorecer cuidados proporcionais e excluir eutanásia."
+        }
+      ]
+    },
+    {
+      "id": "N01",
+      "term_id": "N01",
+      "call_label": "N01 - Falsa compaixão",
+      "case": "Um filho diz que não aguenta ver a mãe sofrer e conclui que o gesto mais compassivo seria pedir uma injeção para ela morrer.",
+      "conference_question": "Como distinguir compaixão verdadeira de uma resposta que elimina a pessoa sofredora?",
+      "anchors": [
+        "CEC 2277",
+        "CEC 2279"
+      ],
+      "facilitator_note": "Reconheça a dor do filho, mas mostre o desvio moral da solução.",
+      "reading_points": [
+        {
+          "title": "Compaixão ferida",
+          "body": "O sofrimento de quem ama pode gerar desejo de acabar com a cena dolorosa."
+        },
+        {
+          "title": "Desvio moral",
+          "body": "Eliminar a mãe não é aliviar a dor dela com meios proporcionais."
+        },
+        {
+          "title": "Caridade correta",
+          "body": "A compaixão cristã cuida, trata a dor e permanece junto."
+        }
+      ]
+    },
+    {
+      "id": "N02",
+      "term_id": "N02",
+      "call_label": "N02 - Falsa dignidade",
+      "case": "Em uma reportagem, a expressão morrer com dignidade aparece sempre ligada ao direito de receber ajuda para morrer, e nunca ao direito de ser cuidado até o fim.",
+      "conference_question": "Que sentido cristão de dignidade corrige essa maneira de usar a expressão morrer com dignidade?",
+      "anchors": [
+        "B05",
+        "CEC 2276"
+      ],
+      "facilitator_note": "Não descarte a expressão; recupere seu sentido verdadeiro.",
+      "reading_points": [
+        {
+          "title": "Palavra deslocada",
+          "body": "Dignidade é usada para justificar a morte provocada."
+        },
+        {
+          "title": "Sentido cristão",
+          "body": "Dignidade não depende de autonomia plena nem desaparece no sofrimento."
+        },
+        {
+          "title": "Morrer bem",
+          "body": "Morrer com dignidade significa ser cuidado, acompanhado e respeitado até o fim."
+        }
+      ]
+    },
+    {
+      "id": "N03",
+      "term_id": "N03",
+      "call_label": "N03 - Mentira de ser peso",
+      "case": "Uma senhora pede desculpas toda vez que precisa ser levantada da cama e começa a dizer que a família ficaria melhor sem ela.",
+      "conference_question": "Como responder a quem se vê apenas como peso sem negar as dificuldades reais do cuidado?",
+      "anchors": [
+        "B02",
+        "I07"
+      ],
+      "facilitator_note": "Una verdade e concretude: afirmar valor e organizar ajuda.",
+      "reading_points": [
+        {
+          "title": "Culpa absorvida",
+          "body": "A dependência faz a pessoa interpretar sua vida como incômodo."
+        },
+        {
+          "title": "Mentira moral",
+          "body": "Dar trabalho não reduz a dignidade nem autoriza desejar a própria eliminação."
+        },
+        {
+          "title": "Resposta concreta",
+          "body": "A família deve afirmar valor e buscar revezamento para não transformar cuidado em acusação."
+        }
+      ]
+    },
+    {
+      "id": "N04",
+      "term_id": "N04",
+      "call_label": "N04 - Vida sem utilidade",
+      "case": "Um comentarista defende que manter vivos pacientes que não produzem nem decidem sozinhos é desperdício de recursos humanos.",
+      "conference_question": "Por que medir a vida pela utilidade é incompatível com a visão cristã da pessoa?",
+      "anchors": [
+        "B06",
+        "CEC 1700"
+      ],
+      "facilitator_note": "Mostre o risco de transformar pessoas em cálculo de rendimento.",
+      "reading_points": [
+        {
+          "title": "Cálculo utilitário",
+          "body": "A fala mede a pessoa pelo que ela produz ou economiza."
+        },
+        {
+          "title": "Erro de fundamento",
+          "body": "A dignidade humana não nasce da utilidade social."
+        },
+        {
+          "title": "Proteção do fraco",
+          "body": "A fé protege justamente quem não consegue provar valor por desempenho."
+        }
+      ]
+    },
+    {
+      "id": "N05",
+      "term_id": "N05",
+      "call_label": "N05 - Autonomia absoluta",
+      "case": "Uma paciente lúcida afirma que, se pode decidir onde mora e como trata seus bens, também deve poder exigir que alguém provoque sua morte.",
+      "conference_question": "Qual é o limite moral da autonomia quando a decisão envolve tirar uma vida inocente?",
+      "anchors": [
+        "B03",
+        "Rm 14,7-8"
+      ],
+      "facilitator_note": "Explique que liberdade real não é poder ilimitado sobre o bem e o mal.",
+      "reading_points": [
+        {
+          "title": "Liberdade ampliada",
+          "body": "A paciente compara decisões comuns com uma decisão sobre provocar morte."
+        },
+        {
+          "title": "Limite moral",
+          "body": "Nem tudo que alguém deseja pode se tornar dever de outro executar."
+        },
+        {
+          "title": "Vida recebida",
+          "body": "A vida é dom confiado por Deus e não posse absoluta."
+        }
+      ]
+    },
+    {
+      "id": "N06",
+      "term_id": "N06",
+      "call_label": "N06 - Custo decide a vida",
+      "case": "Em uma reunião administrativa, alguém defende que pacientes muito caros deveriam ter uma via mais rápida para encerrar a vida.",
+      "conference_question": "Por que o custo do cuidado não pode ser o critério que decide se alguém deve viver?",
+      "anchors": [
+        "B07",
+        "I13"
+      ],
+      "facilitator_note": "Evite negar limites econômicos; negue que economia tenha poder de eliminar vidas.",
+      "reading_points": [
+        {
+          "title": "Cálculo perigoso",
+          "body": "O custo passa a ocupar o lugar da dignidade da pessoa."
+        },
+        {
+          "title": "Vulneráveis ameaçados",
+          "body": "Quem mais precisa de cuidado se torna o primeiro descartável."
+        },
+        {
+          "title": "Justiça no cuidado",
+          "body": "Recursos devem ser administrados sem transformar morte em economia."
+        }
+      ]
+    },
+    {
+      "id": "N07",
+      "term_id": "N07",
+      "call_label": "N07 - Dor sem sentido",
+      "case": "Ao ver um paciente sofrer, um parente diz que nenhuma vida com tanta dor pode ter sentido.",
+      "conference_question": "Como afirmar sentido e dignidade sem fingir que a dor não é grave?",
+      "anchors": [
+        "B15",
+        "CEC 2279"
+      ],
+      "facilitator_note": "Fuja de respostas fáceis; a dor deve ser tratada seriamente.",
+      "reading_points": [
+        {
+          "title": "Dor esmagadora",
+          "body": "A dor intensa pode parecer maior do que qualquer esperança."
+        },
+        {
+          "title": "Conclusão falsa",
+          "body": "Sofrimento não prova que a vida perdeu valor."
+        },
+        {
+          "title": "Cuidado devido",
+          "body": "É preciso aliviar a dor e acompanhar a pessoa, não decretar inutilidade da vida."
+        }
+      ]
+    },
+    {
+      "id": "N08",
+      "term_id": "N08",
+      "call_label": "N08 - Morte como cuidado",
+      "case": "Uma campanha pública apresenta a eutanásia como nova modalidade de cuidado de fim de vida, sem mencionar a intenção de causar a morte.",
+      "conference_question": "Por que a linguagem de cuidado pode esconder uma diferença moral decisiva?",
+      "anchors": [
+        "B08",
+        "G06"
+      ],
+      "facilitator_note": "Ensine a ler palavras bonitas com critério moral.",
+      "reading_points": [
+        {
+          "title": "Vocabulário suave",
+          "body": "A campanha usa linguagem de cuidado para encobrir a morte provocada."
+        },
+        {
+          "title": "Diferença moral",
+          "body": "Cuidar é aliviar e acompanhar; eutanásia é provocar morte para suprimir sofrimento."
+        },
+        {
+          "title": "Verdade necessária",
+          "body": "A caridade precisa de linguagem clara para não chamar mal de bem."
+        }
+      ]
+    },
+    {
+      "id": "N09",
+      "term_id": "N09",
+      "call_label": "N09 - Progresso que elimina",
+      "case": "Um debate televisivo chama a eutanásia de sinal de país moderno, tratando toda objeção moral como atraso religioso.",
+      "conference_question": "Como avaliar uma proposta chamada de moderna sem aceitar automaticamente que ela seja justa?",
+      "anchors": [
+        "B07",
+        "CEC 2277"
+      ],
+      "facilitator_note": "Não entre em disputa partidária; foque no critério moral da vida vulnerável.",
+      "reading_points": [
+        {
+          "title": "Rótulo sedutor",
+          "body": "A palavra moderno tenta encerrar a discussão antes do discernimento."
+        },
+        {
+          "title": "Critério cristão",
+          "body": "Uma sociedade não progride quando facilita eliminar os frágeis."
+        },
+        {
+          "title": "Vulnerabilidade",
+          "body": "A verdadeira civilização protege quem sofre, não oferece morte como saída."
+        }
+      ]
+    },
+    {
+      "id": "N10",
+      "term_id": "N10",
+      "call_label": "N10 - Legal então moral",
+      "case": "Após ouvir que a eutanásia é permitida em outro país, alguém conclui que a Igreja deveria aceitar porque a lei já resolveu a questão.",
+      "conference_question": "Por que uma permissão legal não basta para definir a bondade moral de um ato?",
+      "anchors": [
+        "Ex 20,13",
+        "B14"
+      ],
+      "facilitator_note": "Explique com serenidade a diferença entre ordem civil e lei moral.",
+      "reading_points": [
+        {
+          "title": "Lei invocada",
+          "body": "A legalização é usada como prova automática de moralidade."
+        },
+        {
+          "title": "Moral permanece",
+          "body": "A lei civil pode permitir algo que continua gravemente errado diante de Deus."
+        },
+        {
+          "title": "Consciência formada",
+          "body": "A consciência cristã não terceiriza o bem e o mal ao consenso jurídico."
+        }
+      ]
+    },
+    {
+      "id": "N11",
+      "term_id": "N11",
+      "call_label": "N11 - Só antecipar o fim",
+      "case": "Um familiar afirma que não há problema em provocar a morte porque os médicos já disseram que a paciente morrerá em poucos dias.",
+      "conference_question": "Por que a proximidade da morte não transforma matar em ato moralmente neutro?",
+      "anchors": [
+        "CEC 2277",
+        "G14"
+      ],
+      "facilitator_note": "Trabalhe a diferença entre morte inevitável e morte provocada.",
+      "reading_points": [
+        {
+          "title": "Minimização",
+          "body": "A frase reduz a gravidade do ato porque a morte está próxima."
+        },
+        {
+          "title": "Ato distinto",
+          "body": "Provocar a morte não é o mesmo que aceitar que ela não pode ser impedida."
+        },
+        {
+          "title": "Cuidado até o fim",
+          "body": "Mesmo nos últimos dias, permanece o dever de aliviar e acompanhar."
+        }
+      ]
+    },
+    {
+      "id": "N12",
+      "term_id": "N12",
+      "call_label": "N12 - Amor que elimina",
+      "case": "Um marido diz que ama demais a esposa para deixá-la viver a fase final da doença, e por isso quer que tudo termine logo.",
+      "conference_question": "Como o amor pode ser desordenado quando tenta eliminar a pessoa para eliminar a dor?",
+      "anchors": [
+        "B10",
+        "Mt 25,36"
+      ],
+      "facilitator_note": "Reconheça o amor real, mas mostre que amor precisa ser purificado pela verdade.",
+      "reading_points": [
+        {
+          "title": "Amor ferido",
+          "body": "O marido sofre ao ver a esposa sofrer."
+        },
+        {
+          "title": "Objeto errado",
+          "body": "A solução proposta elimina a esposa junto com a dor."
+        },
+        {
+          "title": "Amor verdadeiro",
+          "body": "A caridade permanece, alivia e protege sem provocar a morte."
+        }
+      ]
+    },
+    {
+      "id": "N13",
+      "term_id": "N13",
+      "call_label": "N13 - Invisibilidade cômoda",
+      "case": "No prédio, quase ninguém visita uma moradora acamada; muitos defendem sua decisão de morrer, mas não oferecem companhia, comida ou ajuda.",
+      "conference_question": "Como a omissão cotidiana pode tornar a eutanásia socialmente mais aceitável?",
+      "anchors": [
+        "B11",
+        "I14"
+      ],
+      "facilitator_note": "Mostre que abandono prepara o terreno para falsas soluções.",
+      "reading_points": [
+        {
+          "title": "Ausência coletiva",
+          "body": "A vizinhança fala sobre a morte, mas não se aproxima da vida sofrida."
+        },
+        {
+          "title": "Conforto dos outros",
+          "body": "A invisibilidade do doente torna mais fácil aceitar sua eliminação."
+        },
+        {
+          "title": "Visita necessária",
+          "body": "A resposta cristã rompe isolamento com presença concreta e responsável."
+        }
+      ]
+    },
+    {
+      "id": "N14",
+      "term_id": "N14",
+      "call_label": "N14 - Cansaço como critério",
+      "case": "Uma cuidadora familiar, sem dormir direito há meses, diz que qualquer saída é válida porque ninguém aguenta mais.",
+      "conference_question": "Como separar a necessidade urgente de ajuda do erro de usar o cansaço como medida do valor da vida?",
+      "anchors": [
+        "I10",
+        "G15"
+      ],
+      "facilitator_note": "Não culpe quem está esgotado; mostre que esgotamento precisa de suporte, não de morte.",
+      "reading_points": [
+        {
+          "title": "Esgotamento",
+          "body": "A cuidadora chegou ao limite humano e emocional."
+        },
+        {
+          "title": "Critério perigoso",
+          "body": "O cansaço explica a crise, mas não decide o valor da pessoa cuidada."
+        },
+        {
+          "title": "Resposta prudente",
+          "body": "É preciso pedir ajuda, revezar tarefas e buscar suporte de saúde e família."
+        }
+      ]
+    },
+    {
+      "id": "N15",
+      "term_id": "N15",
+      "call_label": "N15 - Escolha sem ferida",
+      "case": "Um site descreve a eutanásia como decisão privada, tranquila e sem impacto em ninguém além do paciente.",
+      "conference_question": "Quais feridas morais e sociais ficam escondidas quando a eutanásia é tratada como escolha isolada?",
+      "anchors": [
+        "B08",
+        "I11"
+      ],
+      "facilitator_note": "Mostre que atos contra a vida nunca ficam isolados no indivíduo.",
+      "reading_points": [
+        {
+          "title": "Privatização",
+          "body": "A decisão é apresentada como se não envolvesse médicos, família e sociedade."
+        },
+        {
+          "title": "Ferida objetiva",
+          "body": "A morte provocada compromete quem pede, quem executa e quem normaliza."
+        },
+        {
+          "title": "Bem comum",
+          "body": "Quando matar vira serviço, todos os vulneráveis ficam menos protegidos."
+        }
+      ]
+    },
+    {
+      "id": "G01",
+      "term_id": "G01",
+      "call_label": "G01 - Matar ou permitir morrer",
+      "case": "Dois pacientes terminais deixam de receber tratamentos agressivos; em um caso a equipe mantém conforto, no outro aplica uma substância para causar a morte.",
+      "conference_question": "Que diferença moral separa permitir morrer de matar diretamente?",
+      "anchors": [
+        "CEC 2277",
+        "CEC 2278"
+      ],
+      "facilitator_note": "A comparação deve deixar claro que o resultado biológico não basta para julgar o ato.",
+      "reading_points": [
+        {
+          "title": "Casos parecidos",
+          "body": "Ambos envolvem fim de vida e interrupção de agressividade terapêutica."
+        },
+        {
+          "title": "Ato diferente",
+          "body": "Em um caso aceita-se a morte inevitável; no outro, causa-se a morte."
+        },
+        {
+          "title": "Critério moral",
+          "body": "A Igreja permite recusar obstinação, mas exclui a eutanásia direta."
+        }
+      ]
+    },
+    {
+      "id": "G02",
+      "term_id": "G02",
+      "call_label": "G02 - Intenção ou efeito",
+      "case": "Um analgésico forte pode reduzir a consciência e talvez abreviar a vida; a equipe o usa para controlar dor, não para matar.",
+      "conference_question": "Como a intenção e a proporcionalidade ajudam a julgar esse caso?",
+      "anchors": [
+        "CEC 2279",
+        "B09"
+      ],
+      "facilitator_note": "Explique o efeito previsto e tolerado sem usar jargão técnico demais.",
+      "reading_points": [
+        {
+          "title": "Efeito previsto",
+          "body": "A medicação pode trazer riscos junto com o alívio."
+        },
+        {
+          "title": "Intenção correta",
+          "body": "O objetivo é aliviar sofrimento, não produzir morte."
+        },
+        {
+          "title": "Proporção",
+          "body": "Quando o risco é tolerado e inevitável, o cuidado pode ser moralmente lícito."
+        }
+      ]
+    },
+    {
+      "id": "G03",
+      "term_id": "G03",
+      "call_label": "G03 - Dor ou desespero",
+      "case": "Um paciente com sintomas controlados insiste que quer morrer porque se sente sozinho, inútil e com medo do que virá.",
+      "conference_question": "Por que é importante distinguir dor física de desespero antes de responder ao pedido de morte?",
+      "anchors": [
+        "I02",
+        "O05"
+      ],
+      "facilitator_note": "Mostre que sofrimento humano é amplo e pede respostas diferentes.",
+      "reading_points": [
+        {
+          "title": "Sofrimento complexo",
+          "body": "A dor física não é o único motivo do pedido."
+        },
+        {
+          "title": "Resposta inadequada",
+          "body": "Tratar desespero com morte provocada abandona a pessoa no ponto mais frágil."
+        },
+        {
+          "title": "Cuidado integral",
+          "body": "É preciso escuta, presença, saúde mental, apoio espiritual e vínculo."
+        }
+      ]
+    },
+    {
+      "id": "G04",
+      "term_id": "G04",
+      "call_label": "G04 - Ordinário ou extraordinário",
+      "case": "A família pergunta se retirar uma máquina experimental caríssima é o mesmo que parar água, higiene e controle de dor.",
+      "conference_question": "Que critérios ajudam a separar cuidado ordinário de tratamento extraordinário?",
+      "anchors": [
+        "CEC 2278",
+        "CEC 2279"
+      ],
+      "facilitator_note": "Evite responder só com sim ou não; trabalhe tipo de cuidado, benefício e proporção.",
+      "reading_points": [
+        {
+          "title": "Dúvida legítima",
+          "body": "A família mistura realidades muito diferentes sob a palavra retirar."
+        },
+        {
+          "title": "Diferença moral",
+          "body": "Cuidados comuns são devidos; tratamentos extraordinários podem ser recusados se desproporcionais."
+        },
+        {
+          "title": "Avaliação prudente",
+          "body": "A decisão deve considerar benefício, risco, ônus e intenção."
+        }
+      ]
+    },
+    {
+      "id": "G05",
+      "term_id": "G05",
+      "call_label": "G05 - Proporcionado ou fútil",
+      "case": "Um procedimento arriscado pode acrescentar poucos dias de inconsciência ao paciente, com dor e deslocamentos, sem chance de melhora.",
+      "conference_question": "Quando um recurso médico deixa de ser cuidado proporcionado e se torna futilidade?",
+      "anchors": [
+        "CEC 2278",
+        "I03"
+      ],
+      "facilitator_note": "Mostre que prolongar tempo não é automaticamente servir à pessoa.",
+      "reading_points": [
+        {
+          "title": "Ganho frágil",
+          "body": "O procedimento oferece tempo biológico sem melhora real."
+        },
+        {
+          "title": "Ônus pesado",
+          "body": "Risco, dor e deslocamento podem superar o benefício esperado."
+        },
+        {
+          "title": "Prudência",
+          "body": "Recusar futilidade pode respeitar a dignidade do paciente."
+        }
+      ]
+    },
+    {
+      "id": "G06",
+      "term_id": "G06",
+      "call_label": "G06 - Sedação ou eutanásia",
+      "case": "Duas prescrições parecem semelhantes: uma reduz consciência para aliviar falta de ar extrema; outra usa dose letal para que o paciente morra.",
+      "conference_question": "Que perguntas devem ser feitas para distinguir sedação de eutanásia?",
+      "anchors": [
+        "CEC 2279",
+        "I05"
+      ],
+      "facilitator_note": "Peça que a equipe identifique intenção, dose, finalidade e proporção.",
+      "reading_points": [
+        {
+          "title": "Semelhança externa",
+          "body": "As duas cenas envolvem medicação no fim da vida."
+        },
+        {
+          "title": "Finalidade distinta",
+          "body": "Uma busca alívio proporcionado; a outra busca causar morte."
+        },
+        {
+          "title": "Juízo moral",
+          "body": "O cuidado paliativo é encorajado; a eutanásia direta é excluída."
+        }
+      ]
+    },
+    {
+      "id": "G07",
+      "term_id": "G07",
+      "call_label": "G07 - Cuidado ou obstinação",
+      "case": "A equipe propõe parar intervenções invasivas, mas continuar analgesia, higiene, presença e comunicação com a família.",
+      "conference_question": "Como esse caso mostra que recusar obstinação não significa abandonar o doente?",
+      "anchors": [
+        "CEC 2278",
+        "I04"
+      ],
+      "facilitator_note": "Mostre o equilíbrio entre não insistir em técnica inútil e não abandonar cuidados.",
+      "reading_points": [
+        {
+          "title": "Técnica interrompida",
+          "body": "As intervenções invasivas já não trazem benefício proporcional."
+        },
+        {
+          "title": "Cuidado mantido",
+          "body": "O paciente continua recebendo alívio, higiene e presença."
+        },
+        {
+          "title": "Critério cristão",
+          "body": "A rejeição da obstinação aceita limites da medicina sem provocar morte."
+        }
+      ]
+    },
+    {
+      "id": "G08",
+      "term_id": "G08",
+      "call_label": "G08 - Pessoa ou condição",
+      "case": "No relatório, um paciente é descrito apenas como terminal do leito 12, e ninguém usa seu nome durante a passagem de plantão.",
+      "conference_question": "Por que nomear a pessoa muda a maneira de decidir sobre sua condição clínica?",
+      "anchors": [
+        "B06",
+        "CEC 2276"
+      ],
+      "facilitator_note": "Use o exemplo da linguagem para mostrar uma distinção moral profunda.",
+      "reading_points": [
+        {
+          "title": "Redução clínica",
+          "body": "A pessoa é identificada somente por estado e leito."
+        },
+        {
+          "title": "Condição não é pessoa",
+          "body": "Terminalidade descreve uma situação médica, não o valor do paciente."
+        },
+        {
+          "title": "Cuidado humanizado",
+          "body": "Decidir bem exige ver alguém concreto, não apenas um caso."
+        }
+      ]
+    },
+    {
+      "id": "G09",
+      "term_id": "G09",
+      "call_label": "G09 - Autonomia ou abandono",
+      "case": "Um hospital entrega ao paciente um formulário sobre morte assistida, mas não oferece paliativos, psicólogo, assistência social ou visita familiar.",
+      "conference_question": "Quando a linguagem da autonomia pode esconder abandono institucional?",
+      "anchors": [
+        "CEC 2278",
+        "I07"
+      ],
+      "facilitator_note": "Mostre que escolha sem cuidado real pode ser pressão disfarçada.",
+      "reading_points": [
+        {
+          "title": "Opção estreita",
+          "body": "O paciente recebe a possibilidade de morrer, mas não alternativas de cuidado."
+        },
+        {
+          "title": "Autonomia ferida",
+          "body": "Uma decisão sem suporte pode nascer de abandono, não de liberdade."
+        },
+        {
+          "title": "Vontade razoável",
+          "body": "Respeitar o paciente inclui oferecer condições reais de cuidado proporcional."
+        }
+      ]
+    },
+    {
+      "id": "G10",
+      "term_id": "G10",
+      "call_label": "G10 - Culpa ou responsabilidade",
+      "case": "Uma filha, mal orientada e em pânico, autorizou algo que depois descobriu ter sido eutanásia; agora carrega culpa e confusão.",
+      "conference_question": "Como condenar o ato objetivamente errado sem esmagar uma pessoa que agiu sob medo e ignorância?",
+      "anchors": [
+        "CEC 1735",
+        "CEC 2277"
+      ],
+      "facilitator_note": "Una verdade moral e misericórdia pastoral.",
+      "reading_points": [
+        {
+          "title": "Ato grave",
+          "body": "A eutanásia direta continua sendo moralmente inadmissível."
+        },
+        {
+          "title": "Responsabilidade concreta",
+          "body": "Medo, ignorância e pressão podem diminuir a culpa subjetiva."
+        },
+        {
+          "title": "Caminho pastoral",
+          "body": "A resposta exige verdade, arrependimento possível, acompanhamento e misericórdia."
+        }
+      ]
+    },
+    {
+      "id": "G11",
+      "term_id": "G11",
+      "call_label": "G11 - Desejo ou pedido",
+      "case": "Depois de uma noite de dor e solidão, um paciente diz quero morrer; na manhã seguinte, depois de ser medicado e ouvido, já não repete a frase.",
+      "conference_question": "O que esse caso ensina sobre interpretar um pedido de morte?",
+      "anchors": [
+        "I01",
+        "O05"
+      ],
+      "facilitator_note": "Mostre que escutar inclui levar a sério sem executar imediatamente.",
+      "reading_points": [
+        {
+          "title": "Momento crítico",
+          "body": "A frase surge no auge de dor e isolamento."
+        },
+        {
+          "title": "Pedido instável",
+          "body": "O desejo muda quando sofrimento e solidão recebem cuidado."
+        },
+        {
+          "title": "Escuta responsável",
+          "body": "O pedido deve abrir investigação e cuidado, não morte provocada."
+        }
+      ]
+    },
+    {
+      "id": "G12",
+      "term_id": "G12",
+      "call_label": "G12 - Consciência ou pressão",
+      "case": "A paciente se sente obrigada a assinar uma decisão porque os filhos falam que não podem mais pagar e o médico parece apressado.",
+      "conference_question": "Que sinais indicam que uma decisão não está nascendo de consciência livre e formada?",
+      "anchors": [
+        "B14",
+        "CEC 1783"
+      ],
+      "facilitator_note": "Mostre pressões familiares, econômicas e médicas sem demonizar todos os envolvidos.",
+      "reading_points": [
+        {
+          "title": "Pressões somadas",
+          "body": "Dinheiro, pressa e culpa pesam sobre a decisão."
+        },
+        {
+          "title": "Consciência ameaçada",
+          "body": "A pessoa pode assinar para aliviar os outros, não porque discerniu bem."
+        },
+        {
+          "title": "Formação e tempo",
+          "body": "Decisões graves pedem informação, liberdade possível e orientação moral."
+        }
+      ]
+    },
+    {
+      "id": "G13",
+      "term_id": "G13",
+      "call_label": "G13 - Misericórdia ou banalização",
+      "case": "Em uma conversa, alguém diz que a eutanásia deveria ser simples como assinar autorização para um procedimento comum.",
+      "conference_question": "Como distinguir misericórdia diante do sofrimento de banalização da morte provocada?",
+      "anchors": [
+        "B10",
+        "N01"
+      ],
+      "facilitator_note": "Aponte o perigo de normalizar como rotina aquilo que toca a vida inocente.",
+      "reading_points": [
+        {
+          "title": "Rotina aparente",
+          "body": "A morte provocada é tratada como procedimento comum."
+        },
+        {
+          "title": "Banalização",
+          "body": "A linguagem simples demais apaga a gravidade moral do ato."
+        },
+        {
+          "title": "Misericórdia verdadeira",
+          "body": "Misericórdia se aproxima do sofredor e cuida dele, não banaliza sua eliminação."
+        }
+      ]
+    },
+    {
+      "id": "G14",
+      "term_id": "G14",
+      "call_label": "G14 - Aceitar ou provocar",
+      "case": "Uma família aceita que a doença chegou ao fim e decide não iniciar uma cirurgia inútil; outra pede uma ação para fazer a morte chegar mais cedo.",
+      "conference_question": "Que diferença existe entre aceitar a morte inevitável e provocá-la?",
+      "anchors": [
+        "CEC 2277",
+        "CEC 2278"
+      ],
+      "facilitator_note": "Use contraste simples, sem tornar a decisão clínica rasa.",
+      "reading_points": [
+        {
+          "title": "Limite aceito",
+          "body": "No primeiro caso, reconhece-se que a medicina não pode impedir a morte."
+        },
+        {
+          "title": "Morte provocada",
+          "body": "No segundo, a morte é buscada como resultado da ação."
+        },
+        {
+          "title": "Discernimento cristão",
+          "body": "Aceitar o limite pode ser prudente; provocar a morte é inadmissível."
+        }
+      ]
+    },
+    {
+      "id": "G15",
+      "term_id": "G15",
+      "call_label": "G15 - Prudência ou omissão",
+      "case": "A equipe decide não transferir o paciente para uma cirurgia sem benefício, mas também esquece de organizar controle de dor e presença familiar.",
+      "conference_question": "Quando a recusa de um tratamento desproporcional vira omissão de cuidados devidos?",
+      "anchors": [
+        "CEC 1806",
+        "CEC 2279"
+      ],
+      "facilitator_note": "Mostre que uma decisão correta pode ser mal conduzida se abandona o cuidado.",
+      "reading_points": [
+        {
+          "title": "Decisão parcial",
+          "body": "Não operar pode ser prudente diante da falta de benefício."
+        },
+        {
+          "title": "Falha de cuidado",
+          "body": "Sem analgesia e presença, a prudência vira abandono prático."
+        },
+        {
+          "title": "Cuidado integral",
+          "body": "Recusar obstinação exige planejar cuidados devidos até o fim."
+        }
+      ]
+    },
+    {
+      "id": "O01",
+      "term_id": "O01",
+      "call_label": "O01 - Controlar a dor",
+      "case": "Ao perceber que a medicação não basta, a família anota horários, intensidade da dor e efeitos, e pede revisão médica no mesmo dia.",
+      "conference_question": "Por que controlar a dor é uma resposta moral concreta contra a lógica da eutanásia?",
+      "anchors": [
+        "CEC 2279",
+        "I02"
+      ],
+      "facilitator_note": "Mostre ação prática e proporcional, sem transformar familiares em médicos.",
+      "reading_points": [
+        {
+          "title": "Observação concreta",
+          "body": "A família reúne informações úteis em vez de apenas se desesperar."
+        },
+        {
+          "title": "Pedido legítimo",
+          "body": "Revisar analgesia é parte do cuidado devido ao doente."
+        },
+        {
+          "title": "Alternativa à morte",
+          "body": "Aliviar sofrimento enfraquece a falsa ideia de que matar é solução."
+        }
+      ]
+    },
+    {
+      "id": "O02",
+      "term_id": "O02",
+      "call_label": "O02 - Buscar paliativos",
+      "case": "Depois de várias internações sem cura possível, a família pede encaminhamento para uma equipe de cuidados paliativos em vez de continuar decisões improvisadas.",
+      "conference_question": "Como os cuidados paliativos respondem ao sofrimento sem desejar a morte?",
+      "anchors": [
+        "CEC 2279",
+        "B10"
+      ],
+      "facilitator_note": "Explique paliativos como cuidado ativo, não desistência.",
+      "reading_points": [
+        {
+          "title": "Mudança de foco",
+          "body": "A família deixa de buscar cura impossível e procura cuidado adequado."
+        },
+        {
+          "title": "Cuidado ativo",
+          "body": "Paliativos tratam dor, sintomas, angústias e necessidades familiares."
+        },
+        {
+          "title": "Caridade",
+          "body": "A Igreja os encoraja como forma privilegiada de caridade desinteressada."
+        }
+      ]
+    },
+    {
+      "id": "O03",
+      "term_id": "O03",
+      "call_label": "O03 - Recusar obstinação",
+      "case": "Com orientação médica clara, o paciente decide não iniciar um tratamento experimental agressivo que traria grande sofrimento e quase nenhum benefício.",
+      "conference_question": "Por que essa recusa pode ser moralmente lícita sem ser eutanásia?",
+      "anchors": [
+        "CEC 2278",
+        "G07"
+      ],
+      "facilitator_note": "Reforce que não se quer a morte; aceita-se a limitação do tratamento.",
+      "reading_points": [
+        {
+          "title": "Tratamento pesado",
+          "body": "O recurso é agressivo e sem expectativa razoável de benefício."
+        },
+        {
+          "title": "Recusa legítima",
+          "body": "O Catecismo permite rejeitar procedimentos extraordinários ou desproporcionais."
+        },
+        {
+          "title": "Sem intenção de matar",
+          "body": "A decisão aceita não poder impedir a morte e mantém cuidados devidos."
+        }
+      ]
+    },
+    {
+      "id": "O04",
+      "term_id": "O04",
+      "call_label": "O04 - Manter cuidados devidos",
+      "case": "Mesmo sem novas terapias curativas, a equipe mantém higiene, hidratação possível, mudança de posição, curativos e controle de desconforto.",
+      "conference_question": "Por que manter cuidados devidos é parte essencial de respeitar a vida até o fim?",
+      "anchors": [
+        "CEC 2279",
+        "B12"
+      ],
+      "facilitator_note": "Mostre que o fim de terapias curativas não é fim do cuidado.",
+      "reading_points": [
+        {
+          "title": "Sem cura",
+          "body": "A medicina já não oferece tratamento curativo eficaz."
+        },
+        {
+          "title": "Cuidado continua",
+          "body": "Higiene, conforto e alívio seguem moralmente devidos."
+        },
+        {
+          "title": "Dignidade preservada",
+          "body": "A pessoa deve ser cuidada como pessoa até a morte natural."
+        }
+      ]
+    },
+    {
+      "id": "O05",
+      "term_id": "O05",
+      "call_label": "O05 - Escutar sem matar",
+      "case": "Quando o paciente pede para morrer, a enfermeira chama a equipe, pergunta sobre dor, medo e solidão, e comunica a família para reforçar presença.",
+      "conference_question": "Como escutar seriamente um pedido de morte sem aceitar a morte provocada como resposta?",
+      "anchors": [
+        "I01",
+        "G11"
+      ],
+      "facilitator_note": "Destaque que escutar não é concordar com tudo; é cuidar da pessoa inteira.",
+      "reading_points": [
+        {
+          "title": "Pedido levado a sério",
+          "body": "A enfermeira não ignora a frase nem a trata como escândalo."
+        },
+        {
+          "title": "Investigação",
+          "body": "Ela procura causas concretas: dor, medo, solidão e abandono."
+        },
+        {
+          "title": "Resposta correta",
+          "body": "O pedido vira caminho de cuidado, não autorização para matar."
+        }
+      ]
+    },
+    {
+      "id": "O06",
+      "term_id": "O06",
+      "call_label": "O06 - Decidir em conjunto",
+      "case": "Antes de suspender um procedimento desproporcional, a equipe conversa com o paciente capaz, explica riscos e chama a família para alinhar os cuidados.",
+      "conference_question": "Por que decisões de fim de vida exigem diálogo responsável e não ato isolado de uma pessoa apressada?",
+      "anchors": [
+        "CEC 2278",
+        "B14"
+      ],
+      "facilitator_note": "Aponte o valor da vontade razoável do paciente e dos interesses legítimos.",
+      "reading_points": [
+        {
+          "title": "Informação compartilhada",
+          "body": "O paciente recebe explicação sobre riscos, benefícios e limites."
+        },
+        {
+          "title": "Responsabilidade ordenada",
+          "body": "A família participa sem substituir indevidamente a pessoa capaz."
+        },
+        {
+          "title": "Prudência moral",
+          "body": "Decidir em conjunto reduz pressão, erro e abandono."
+        }
+      ]
+    },
+    {
+      "id": "O07",
+      "term_id": "O07",
+      "call_label": "O07 - Pedir segunda opinião",
+      "case": "Diante de divergência entre médicos sobre retirar um suporte, a família solicita avaliação de outro especialista e da equipe paliativa.",
+      "conference_question": "Quando pedir segunda opinião é prudência, e não fuga da decisão?",
+      "anchors": [
+        "CEC 1806",
+        "G05"
+      ],
+      "facilitator_note": "Mostre que prudência busca clareza; não é adiamento infinito.",
+      "reading_points": [
+        {
+          "title": "Dúvida grave",
+          "body": "Há divergência real sobre proporcionalidade e benefício."
+        },
+        {
+          "title": "Busca de clareza",
+          "body": "Outra avaliação pode reduzir erro, pressão e decisão precipitada."
+        },
+        {
+          "title": "Limite",
+          "body": "Depois de esclarecida a situação, a família deve decidir com responsabilidade."
+        }
+      ]
+    },
+    {
+      "id": "O08",
+      "term_id": "O08",
+      "call_label": "O08 - Proteger o vulnerável",
+      "case": "Uma assistente social percebe que uma paciente idosa concorda com tudo olhando para o filho, que responde por ela e controla seus documentos.",
+      "conference_question": "Que medidas protegem a liberdade e a dignidade de alguém vulnerável nesse caso?",
+      "anchors": [
+        "CEC 2276",
+        "B07"
+      ],
+      "facilitator_note": "Fale de proteção concreta sem sugerir confronto imprudente.",
+      "reading_points": [
+        {
+          "title": "Sinal de controle",
+          "body": "A paciente parece depender da aprovação do filho para falar."
+        },
+        {
+          "title": "Vulnerabilidade",
+          "body": "Idade, doença e dependência podem facilitar pressão e abuso."
+        },
+        {
+          "title": "Proteção prática",
+          "body": "É preciso ouvir a paciente com segurança e acionar responsáveis competentes se houver risco."
+        }
+      ]
+    },
+    {
+      "id": "O09",
+      "term_id": "O09",
+      "call_label": "O09 - Acompanhar a família",
+      "case": "Uma irmã percebe que a cuidadora principal está exausta e organiza revezamento semanal, contato com serviço de saúde e uma conversa franca sobre limites.",
+      "conference_question": "Como apoiar cuidadores ajuda a proteger o doente de decisões injustas?",
+      "anchors": [
+        "I10",
+        "N14"
+      ],
+      "facilitator_note": "Mostre que cuidar do cuidador também é defesa da vida.",
+      "reading_points": [
+        {
+          "title": "Esgotamento visto",
+          "body": "A cuidadora principal não é tratada como culpada, mas como alguém no limite."
+        },
+        {
+          "title": "Apoio concreto",
+          "body": "Revezamento e orientação reduzem decisões movidas por desespero."
+        },
+        {
+          "title": "Proteção do doente",
+          "body": "Quando a família é sustentada, o cuidado fica mais justo e perseverante."
+        }
+      ]
+    },
+    {
+      "id": "O10",
+      "term_id": "O10",
+      "call_label": "O10 - Chamar assistência espiritual",
+      "case": "Um paciente católico em fase final pede para falar com um padre; a família, com medo da palavra morte, adia o contato.",
+      "conference_question": "Por que assistência espiritual é cuidado real, e não sinal de desistência?",
+      "anchors": [
+        "Tg 5,14-15",
+        "CEC 1520"
+      ],
+      "facilitator_note": "Fale dos sacramentos com respeito e sem reduzir a fé a consolo psicológico.",
+      "reading_points": [
+        {
+          "title": "Pedido espiritual",
+          "body": "O paciente expressa uma necessidade de fé no fim da vida."
+        },
+        {
+          "title": "Medo familiar",
+          "body": "A família confunde chamar o padre com admitir derrota."
+        },
+        {
+          "title": "Cuidado integral",
+          "body": "Oração, sacramentos e escuta espiritual sustentam a pessoa diante de Deus."
+        }
+      ]
+    },
+    {
+      "id": "O11",
+      "term_id": "O11",
+      "call_label": "O11 - Falar com verdade",
+      "case": "Em uma reunião, todos usam expressões vagas como descanso definitivo e ajuda final; uma médica pede que se diga claramente se estão falando de sedação paliativa ou de provocar a morte.",
+      "conference_question": "Por que palavras claras são necessárias para decisões morais sérias?",
+      "anchors": [
+        "B08",
+        "G01"
+      ],
+      "facilitator_note": "Mostre que linguagem precisa protege a consciência e o doente.",
+      "reading_points": [
+        {
+          "title": "Eufemismos",
+          "body": "As palavras vagas escondem o que realmente será feito."
+        },
+        {
+          "title": "Verdade moral",
+          "body": "Não se pode discernir bem quando a linguagem confunde cuidado e morte provocada."
+        },
+        {
+          "title": "Proteção",
+          "body": "Falar com clareza ajuda a evitar erro, pressão e cooperação com o mal."
+        }
+      ]
+    },
+    {
+      "id": "O12",
+      "term_id": "O12",
+      "call_label": "O12 - Organizar presença",
+      "case": "Como a paciente fica sozinha muitas horas, a família monta uma escala simples de visitas curtas, ligações e ajuda nas refeições.",
+      "conference_question": "Por que presença organizada é mais concreta do que apenas dizer que a pessoa não está sozinha?",
+      "anchors": [
+        "Mt 25,36",
+        "I14"
+      ],
+      "facilitator_note": "Destaque resposta possível e proporcional, sem idealizar disponibilidade total.",
+      "reading_points": [
+        {
+          "title": "Solidão identificada",
+          "body": "A família percebe um vazio real no cuidado cotidiano."
+        },
+        {
+          "title": "Ação possível",
+          "body": "A escala simples transforma boa intenção em presença verificável."
+        },
+        {
+          "title": "Caridade concreta",
+          "body": "Visitar o enfermo exige tempo, organização e fidelidade possível."
+        }
+      ]
+    },
+    {
+      "id": "O13",
+      "term_id": "O13",
+      "call_label": "O13 - Registrar vontade razoável",
+      "case": "Uma paciente registra que não quer tratamentos fúteis, mas deseja receber cuidados de conforto, presença familiar e assistência espiritual, sem pedido de morte provocada.",
+      "conference_question": "Como um registro claro pode ajudar sem cair na lógica da eutanásia?",
+      "anchors": [
+        "CEC 2278",
+        "I15"
+      ],
+      "facilitator_note": "Mostre que registrar vontade não significa reivindicar poder de ser morto.",
+      "reading_points": [
+        {
+          "title": "Clareza antecipada",
+          "body": "O documento ajuda a evitar confusão em momento crítico."
+        },
+        {
+          "title": "Vontade razoável",
+          "body": "Recusa de futilidade aparece junto com pedido de cuidados devidos."
+        },
+        {
+          "title": "Limite moral",
+          "body": "O registro exclui a morte provocada e orienta o cuidado proporcional."
+        }
+      ]
+    },
+    {
+      "id": "O14",
+      "term_id": "O14",
+      "call_label": "O14 - Denunciar abandono",
+      "case": "Uma vizinha percebe que um idoso acamado passa dias sem higiene e sem medicação; ela registra fatos e aciona o serviço competente.",
+      "conference_question": "Como denunciar abandono pode ser uma forma concreta de defender a vida?",
+      "anchors": [
+        "B07",
+        "I13"
+      ],
+      "facilitator_note": "Ensine prudência: fatos, responsáveis competentes e proteção da pessoa.",
+      "reading_points": [
+        {
+          "title": "Negligência concreta",
+          "body": "O idoso está sem cuidados básicos e não consegue se proteger."
+        },
+        {
+          "title": "Responsabilidade",
+          "body": "A omissão de terceiros pode ferir gravemente a dignidade do vulnerável."
+        },
+        {
+          "title": "Ação proporcional",
+          "body": "Registrar fatos e acionar responsáveis protege sem expor inutilmente."
+        }
+      ]
+    },
+    {
+      "id": "O15",
+      "term_id": "O15",
+      "call_label": "O15 - Sustentar profissionais",
+      "case": "Uma enfermeira se recusa a participar de procedimento destinado a causar morte e pede remanejamento, mantendo-se disponível para cuidados paliativos.",
+      "conference_question": "Como apoiar profissionais fiéis à consciência ajuda a proteger pacientes vulneráveis?",
+      "anchors": [
+        "B14",
+        "I11"
+      ],
+      "facilitator_note": "Mostre objeção moral como responsabilidade, não abandono do paciente.",
+      "reading_points": [
+        {
+          "title": "Recusa legítima",
+          "body": "A enfermeira não quer cooperar com a morte provocada."
+        },
+        {
+          "title": "Cuidado mantido",
+          "body": "Ela permanece disponível para aliviar, acompanhar e cuidar."
+        },
+        {
+          "title": "Testemunho profissional",
+          "body": "A consciência formada protege a medicina de virar instrumento de eliminação."
+        }
+      ]
+    }
+  ]
+}

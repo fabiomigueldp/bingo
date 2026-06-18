@@ -1,0 +1,308 @@
+{
+  "title": "Carta de explicações rápidas — Bingo Responsabilidade de nossos atos",
+  "meeting": "Encontro 12 — Responsabilidade de nossos atos",
+  "source_calls": "data/chamadas.json",
+  "purpose": "Explicações breves para o condutor usar durante a chamada de cada carta.",
+  "entries": [
+    {
+      "id": "B01",
+      "explanation": "A aparência externa não basta para julgar a verdade moral de um ato. Deus vê o **coração**, a intenção e o consentimento. A responsabilidade cristã pede retidão também quando ninguém conhece os motivos."
+    },
+    {
+      "id": "B02",
+      "explanation": "Liberdade não é agir sem prestar contas. Quanto mais voluntário o ato, maior a **responsabilidade**. A fé cristã une escolha, consequência e resposta diante de Deus."
+    },
+    {
+      "id": "B03",
+      "explanation": "Um ato voluntário envolve conhecimento e consentimento suficientes. Não é apenas algo que aconteceu. Por isso a pessoa pode ser chamada a responder pelo que decidiu fazer."
+    },
+    {
+      "id": "B04",
+      "explanation": "A intenção dá direção moral ao gesto. Um ato bom por fora pode ser ferido por vaidade, manipulação ou injustiça. Deus julga também o **fim interior** buscado pela pessoa."
+    },
+    {
+      "id": "B05",
+      "explanation": "O pecado não aparece só no que se faz. Também existe **omissão** quando alguém deixa de fazer o bem devido e possível. A responsabilidade cresce quando há dever claro e meio real de agir."
+    },
+    {
+      "id": "B06",
+      "explanation": "Há culpa quando o dano era previsível e podia ser evitado. Não querer o resultado final não basta para inocentar a negligência. A **previsão do dano** educa a liberdade antes da queda."
+    },
+    {
+      "id": "B07",
+      "explanation": "Consciência não é gosto pessoal nem sensação de paz. Ela precisa ser **formada** pela verdade e pelo bem. Quem se recusa a aprender pode transformar a consciência em desculpa."
+    },
+    {
+      "id": "B08",
+      "explanation": "Virtude é disposição firme para o bem. Ela fortalece a vontade e aumenta o domínio sobre os próprios atos. A liberdade amadurece quando é treinada, corrigida e sustentada pela graça."
+    },
+    {
+      "id": "B09",
+      "explanation": "Pecado pessoal é escolha contra Deus, contra o próximo e contra a própria vocação ao bem. Pode acontecer por pensamento, palavra, ato ou omissão. Nomear o **pecado** abre caminho para arrependimento real."
+    },
+    {
+      "id": "B10",
+      "explanation": "Nem todo ato errado tem o mesmo grau de culpa subjetiva. A **imputabilidade** considera conhecimento, consentimento, medo, ignorância e outros fatores. Isso não nega o mal objetivo, mas julga com justiça."
+    },
+    {
+      "id": "B11",
+      "explanation": "Deus revela o pecado para salvar, não para esmagar. A **graça** chama à verdade, à confissão, à reparação e à mudança. Conversão não é apagar consequências, mas voltar ao bem."
+    },
+    {
+      "id": "B12",
+      "explanation": "A vida moral exige verdade diante de Deus. Máscaras e desculpas podem convencer pessoas, mas não purificam o coração. A responsabilidade começa quando se abandona a mentira sobre si mesmo."
+    },
+    {
+      "id": "B13",
+      "explanation": "Toda pessoa tem dignidade porque é imagem de Deus. Ninguém pode ser reduzido a custo, utilidade, erro ou incômodo. A responsabilidade cristã mede decisões pelo modo como tratam o próximo concreto."
+    },
+    {
+      "id": "B14",
+      "explanation": "Os atos têm efeitos reais sobre pessoas, relações e consciência. Não basta olhar o instante da escolha. Responsabilidade inclui o fruto que a decisão produz e que era possível prever."
+    },
+    {
+      "id": "B15",
+      "explanation": "Deus leva o mal a sério e oferece misericórdia verdadeira. Misericórdia não é negar o pecado nem humilhar o pecador. Ela une **verdade**, arrependimento e chamado à vida nova."
+    },
+    {
+      "id": "I01",
+      "explanation": "Dirigir embriagado assume um risco grave antes do acidente. O dano é previsível e pode ser evitado. Mesmo sem querer ferir alguém, a pessoa responde por escolher conduzir sem domínio."
+    },
+    {
+      "id": "I02",
+      "explanation": "Assinar sem ler pode ser negligência quando há dever de verificar. Cargo, risco e confiança dos outros aumentam a responsabilidade. A consciência formada procura entender antes de consentir."
+    },
+    {
+      "id": "I03",
+      "explanation": "Encaminhar boato não é ato neutro. Quem repassa aumenta o alcance de possível injustiça contra a honra. A verdade exige prudência, fonte responsável e respeito ao nome do outro."
+    },
+    {
+      "id": "I04",
+      "explanation": "Silenciar diante de possível abuso pode ser omissão grave. Medo e cautela devem ser considerados, mas não podem abandonar a vítima. A resposta cristã procura proteção segura e autoridade competente."
+    },
+    {
+      "id": "I05",
+      "explanation": "Comprar produto provavelmente roubado coopera com o dano. A pessoa pode não ter furtado, mas sustenta o mercado do furto. A justiça pede recusar vantagem fundada na perda de outro."
+    },
+    {
+      "id": "I06",
+      "explanation": "Fraude no trabalho fere a verdade e prejudica pessoas concretas. Metas e bônus não tornam lícito o registro falso. A responsabilidade cristã alcança números, relatórios e pequenas manipulações."
+    },
+    {
+      "id": "I07",
+      "explanation": "Serviço difícil não desculpa automaticamente negligência. Quando há sinal grave e protocolo possível, o descuido pode ter peso moral sério. A responsabilidade cresce com o dever profissional assumido."
+    },
+    {
+      "id": "I08",
+      "explanation": "Promessa séria cria confiança e dever. Romper compromisso sem avisar nem reparar prejudica quem dependeu da palavra dada. O cristão é chamado a um **sim** verdadeiro e responsável."
+    },
+    {
+      "id": "I09",
+      "explanation": "Descartar resíduo no rio transfere custo para a comunidade. O dano ambiental atinge pessoas que talvez o agente nem veja. Cuidar da criação inclui responder pelos efeitos concretos da própria economia."
+    },
+    {
+      "id": "I10",
+      "explanation": "Dívida ignorada não desaparece só porque o tempo passou. Há uma pessoa concreta prejudicada. A justiça cristã pede restituir o devido de modo possível e honesto."
+    },
+    {
+      "id": "I11",
+      "explanation": "Cuidado abandonado pode ser omissão quando existe dever direto. Dividir responsabilidade não significa deixá-la desaparecer. A caridade precisa virar organização concreta do cuidado."
+    },
+    {
+      "id": "I12",
+      "explanation": "Diante de risco grave, o silêncio pode cooperar com o dano. O medo de se envolver pesa, mas não apaga o dever de avisar por meios seguros. Responsabilidade inclui prevenir tragédias evitáveis."
+    },
+    {
+      "id": "I13",
+      "explanation": "Transferir culpa acrescenta mentira ao erro inicial. A pessoa tenta salvar a própria imagem ferindo um inocente. A verdade diante de Deus exige assumir o que foi escolhido."
+    },
+    {
+      "id": "I14",
+      "explanation": "Expor segredo para humilhar ou dominar é pecado contra a honra e a intimidade. Nem toda verdade deve ser divulgada. Justiça não se confunde com vingança nem com espetáculo."
+    },
+    {
+      "id": "I15",
+      "explanation": "Ajuda negada pode ser omissão grave quando o perigo é claro e o socorro é possível. A fé não exige imprudência, mas recusa indiferença. O próximo é aquele ferido diante de nós."
+    },
+    {
+      "id": "N01",
+      "explanation": "Foi sem querer pode esconder descuido sério. A pergunta moral é se o risco era previsível e evitável. Não desejar o resultado final não apaga uma imprudência assumida."
+    },
+    {
+      "id": "N02",
+      "explanation": "Só deu errado tenta olhar apenas o desastre final. Muitas vezes o problema moral começou antes, nos meios escolhidos e nos riscos aceitos. Deus vê também a intenção que desprezou o perigo."
+    },
+    {
+      "id": "N03",
+      "explanation": "Todo mundo faz é desculpa de conformismo. A repetição do erro não cria direito moral. A liberdade cristã resiste ao costume injusto quando ele fere a verdade e o próximo."
+    },
+    {
+      "id": "N04",
+      "explanation": "Eu não sabia pode ser verdade ou pode ser fuga. A ignorância diminui a culpa quando não havia meio razoável de saber. Mas quando era dever perguntar ou conferir, a ignorância vira descuido."
+    },
+    {
+      "id": "N05",
+      "explanation": "Não era comigo tenta apagar o bem devido. Nem toda dor do mundo é culpa pessoal, mas há situações próximas em que se pode agir. A omissão pesa quando havia dever e possibilidade real."
+    },
+    {
+      "id": "N06",
+      "explanation": "Só obedeci não torna justo um ato mau. Autoridade legítima tem limites diante da lei de Deus e da dignidade humana. A pessoa continua responsável pelo que executa conscientemente."
+    },
+    {
+      "id": "N07",
+      "explanation": "Mereceu sofrer mistura justiça com crueldade. A culpa pode exigir consequência e reparação, mas não autoriza desprezo. A dignidade da pessoa permanece mesmo depois do pecado."
+    },
+    {
+      "id": "N08",
+      "explanation": "Ninguém viu reduz a moralidade ao medo de punição. Deus vê o coração e conhece o que foi escondido. A responsabilidade cristã permanece mesmo sem flagrante humano."
+    },
+    {
+      "id": "N09",
+      "explanation": "Minha intenção basta é erro moral perigoso. Um fim bom não torna justo qualquer meio. A intenção precisa caminhar com verdade, justiça e responsabilidade pelos efeitos previsíveis."
+    },
+    {
+      "id": "N10",
+      "explanation": "Não tive escolha pode nomear uma coerção real, mas também pode esconder medo ou comodismo. A responsabilidade deve avaliar quanto a liberdade foi ferida. Dificuldade não é sempre impossibilidade moral."
+    },
+    {
+      "id": "N11",
+      "explanation": "Depois eu confesso transforma misericórdia em cálculo. Quem planeja pecar contando com perdão futuro ainda não está arrependido. A Confissão exige verdade, contrição e propósito de mudança."
+    },
+    {
+      "id": "N12",
+      "explanation": "Pequeno desvio minimiza o mal pelo tamanho aparente do dano. A gravidade pode variar, mas a injustiça não desaparece. A fidelidade cristã se prova também no pouco."
+    },
+    {
+      "id": "N13",
+      "explanation": "Só me protegi pode encobrir vingança. Defesa justa não usa mentira, humilhação nem destruição da reputação. A resposta cristã busca verdade e limite sem devolver mal por mal."
+    },
+    {
+      "id": "N14",
+      "explanation": "A culpa é deles reconhece fatores externos apenas para fugir da própria escolha. Circunstâncias podem diminuir responsabilidade, mas não apagam automaticamente o consentimento. A verdade moral exige assumir a parte própria."
+    },
+    {
+      "id": "N15",
+      "explanation": "Já que comecei prende a pessoa numa falsa fatalidade. Continuar no erro aumenta o dano e endurece o coração. A conversão possível agora vale mais que proteger a vergonha passada."
+    },
+    {
+      "id": "G01",
+      "explanation": "Ato e pessoa precisam ser distinguidos. O ato mau deve ser nomeado sem transformar a pessoa em alvo de desprezo. Cristo condena o pecado e chama o pecador à conversão."
+    },
+    {
+      "id": "G02",
+      "explanation": "Querer e tolerar não são a mesma coisa. Um efeito ruim pode ser sofrido ou tolerado sem ser buscado como fim ou meio. O discernimento pede razão proporcional e responsabilidade real."
+    },
+    {
+      "id": "G03",
+      "explanation": "Culpa objetiva e imputabilidade subjetiva não se confundem. Um ato pode ser mau e, ainda assim, a responsabilidade da pessoa variar. A Igreja julga considerando conhecimento, consentimento e liberdade."
+    },
+    {
+      "id": "G04",
+      "explanation": "Ignorância pode diminuir culpa quando não era possível saber. Mas ignorar o que se devia verificar é descuido. O discernimento pergunta se havia aviso, dever e meios reais de aprender."
+    },
+    {
+      "id": "G05",
+      "explanation": "O medo pode ferir a liberdade e diminuir a responsabilidade. Mas nem toda pressão elimina o consentimento. A avaliação moral precisa medir a gravidade da ameaça e as alternativas possíveis."
+    },
+    {
+      "id": "G06",
+      "explanation": "Hábito e vício podem diminuir o domínio da vontade. Isso não torna o dano irreal nem dispensa luta. Responsabilidade proporcional inclui pedir ajuda, aceitar limites e treinar a liberdade."
+    },
+    {
+      "id": "G07",
+      "explanation": "Aparência boa pode esconder intenção torta. O critério cristão não se contenta com imagem pública. Deus vê a finalidade interior e chama à retidão do coração."
+    },
+    {
+      "id": "G08",
+      "explanation": "Prudência não é omissão elegante. Ela escolhe meios adequados para fazer o bem possível. Quando o silêncio protege o conforto e abandona o vulnerável, já não é prudência."
+    },
+    {
+      "id": "G09",
+      "explanation": "Justiça busca restaurar a ordem ferida. Vingança busca ferir, humilhar ou devolver mal por mal. A resposta cristã pode exigir consequência sem abandonar a caridade."
+    },
+    {
+      "id": "G10",
+      "explanation": "Segredo pode proteger intimidade legítima. Encobrimento protege o agressor e aumenta o risco. O discernimento pergunta se o silêncio guarda a pessoa ou esconde o mal."
+    },
+    {
+      "id": "G11",
+      "explanation": "Autoridade legítima merece respeito, mas não pode mandar fazer o mal. Obediência cristã não é servidão moral. A consciência formada reconhece o limite de uma ordem injusta."
+    },
+    {
+      "id": "G12",
+      "explanation": "Reparação e punição não são iguais. Reparar busca restaurar o bem ferido. Punição sem justiça pode virar humilhação, descarga de raiva ou aparência de ordem."
+    },
+    {
+      "id": "G13",
+      "explanation": "Erro público pode produzir escândalo, isto é, confusão e arrasto para o mal. Por isso a reparação precisa ser proporcional ao alcance do dano. Nem tudo se resolve em conversa privada."
+    },
+    {
+      "id": "G14",
+      "explanation": "Consciência formada não é capricho pessoal. Ela busca a verdade e se deixa corrigir. Usar sentimento, costume ou vantagem como lei moral é falsificar a consciência."
+    },
+    {
+      "id": "G15",
+      "explanation": "Misericórdia não banaliza o pecado. Ela perdoa chamando à verdade, à reparação e à conversão. Quando o perdão vira desculpa para manter o mal, já foi deformado."
+    },
+    {
+      "id": "O01",
+      "explanation": "Examinar intenção é perguntar honestamente o que se busca diante de Deus. Essa pausa revela vaidade, medo, vingança ou caridade real. A resposta cristã purifica o motivo antes do ato."
+    },
+    {
+      "id": "O02",
+      "explanation": "Nomear o ato impede a fuga por palavras bonitas. Pecado, mentira, negligência e injustiça precisam ser chamados pelo nome. Sem verdade, não há arrependimento nem reparação sólida."
+    },
+    {
+      "id": "O03",
+      "explanation": "Assumir consequência é aceitar o peso justo do próprio ato. Isso não é desespero nem humilhação inútil. É maturidade moral que educa a liberdade e respeita quem foi ferido."
+    },
+    {
+      "id": "O04",
+      "explanation": "Reparar o dano vai além de sentir culpa. A pessoa busca corrigir, compensar ou diminuir o mal que causou. A reparação deve ser concreta, possível e proporcional."
+    },
+    {
+      "id": "O05",
+      "explanation": "Pedir perdão exige reconhecer o ato concreto. Não basta dizer algo vago para encerrar a conversa. Quem feriu não pode exigir que a pessoa ferida se reconcilie no seu ritmo."
+    },
+    {
+      "id": "O06",
+      "explanation": "Confessar o pecado é levar a verdade do coração à misericórdia de Deus. O sacramento pede acusação sincera, contrição e propósito. A Confissão não substitui reparação possível, mas dá graça para mudar."
+    },
+    {
+      "id": "O07",
+      "explanation": "Cortar cooperação é parar de alimentar o mal. Isso pode significar não comprar, não repassar, não assinar, não encobrir. A responsabilidade cristã interrompe a participação antes de procurar desculpas."
+    },
+    {
+      "id": "O08",
+      "explanation": "Buscar orientação é ato de prudência quando o caso é complexo. Conselho competente ajuda a evitar acusação leviana e omissão que abandona. A consciência se forma também ouvindo quem pode iluminar o caminho."
+    },
+    {
+      "id": "O09",
+      "explanation": "Proteger vulnerável exige ação concreta e segura. Não basta sentir pena nem espalhar boato. A resposta cristã procura responsáveis, serviços competentes e meios que realmente diminuam o risco."
+    },
+    {
+      "id": "O10",
+      "explanation": "Dizer a verdade exige precisão e caridade. Fato não é suspeita, e informação necessária não é exposição inútil. A palavra cristã deve servir à justiça, não ao exagero."
+    },
+    {
+      "id": "O11",
+      "explanation": "Restituir o devido é devolver o que foi tomado ou negado. Pode envolver dinheiro, objeto, tempo, crédito ou reconhecimento. A justiça cristã não se contenta com arrependimento sem devolução possível."
+    },
+    {
+      "id": "O12",
+      "explanation": "Prevenir ocasião é agir antes que a queda se torne provável. Quem conhece sua fragilidade deve criar limites concretos. Vigiar e orar inclui evitar circunstâncias que tornam o dano previsível."
+    },
+    {
+      "id": "O13",
+      "explanation": "Corrigir com prudência une firmeza e modo adequado. O erro não deve ser ignorado, mas também não precisa virar espetáculo. A correção cristã busca verdade, proteção e recuperação quando possível."
+    },
+    {
+      "id": "O14",
+      "explanation": "Fazer o bem possível impede a desculpa da impotência total. Ninguém resolve tudo sozinho, mas muitos podem realizar um bem concreto. A omissão começa quando se abandona até o que estava ao alcance."
+    },
+    {
+      "id": "O15",
+      "explanation": "Recomeçar com disciplina transforma arrependimento em caminho. Promessa emocionada sem medida concreta costuma cair de novo. A graça fortalece a liberdade por passos reais, acompanhamento e perseverança."
+    }
+  ]
+}

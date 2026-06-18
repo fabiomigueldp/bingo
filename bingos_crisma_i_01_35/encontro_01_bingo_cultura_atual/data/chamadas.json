@@ -1,0 +1,2027 @@
+{
+  "title": "Chamadas — Bingo Cultura atual",
+  "meeting": "Encontro 01 — Cultura atual",
+  "source_terms": "data/termos.json",
+  "method": {
+    "read_order": [
+      "call_label",
+      "case",
+      "reading_points"
+    ],
+    "rule": "A cada carta, anuncie código e conceito, leia o caso e explique brevemente a relação usando a Leitura do caso. Depois as equipes marcam o código, se estiver na cartela.",
+    "conference_rule": "Ao fechar duas linhas válidas, horizontais, verticais ou diagonais, a equipe escolhe uma dessas linhas completas, explica pelo menos três conceitos da linha escolhida e liga pelo menos um deles à base bíblica ou doutrinal do encontro. As duas linhas podem se cruzar. O centro livre já conta como casa marcada para completar linhas, mas não conta como um dos três conceitos explicados."
+  },
+  "cards": [
+    {
+      "id": "B01",
+      "term_id": "B01",
+      "call_label": "B01 - Verdade em Cristo",
+      "case": "Num debate público, cada participante defende uma versão diferente de justiça e todos concluem que nenhuma verdade pode ser exigida de ninguém.",
+      "conference_question": "Por que a fé cristã não pode reduzir a verdade a uma versão pessoal, mesmo respeitando a liberdade de cada um?",
+      "anchors": [
+        "Jo 14,6",
+        "CEC 2466",
+        "Jo 8,12"
+      ],
+      "facilitator_note": "Mostre que Cristo não é opinião religiosa concorrente, mas a Verdade que julga e salva a vida humana.",
+      "reading_points": [
+        {
+          "title": "Centro deslocado",
+          "body": "O caso coloca opiniões humanas como medida final do bem."
+        },
+        {
+          "title": "Critério cristão",
+          "body": "Para o cristão, a verdade vem de Deus e se revela plenamente em Cristo."
+        },
+        {
+          "title": "Libertação real",
+          "body": "Conhecer Cristo não elimina a busca racional, mas dá direção e purifica o juízo."
+        }
+      ]
+    },
+    {
+      "id": "B02",
+      "term_id": "B02",
+      "call_label": "B02 - Palavra que liberta",
+      "case": "Um homem muda de opinião toda semana conforme o que está em alta nas redes e sente que precisa acompanhar tudo para não ficar para trás.",
+      "conference_question": "O que muda quando a liberdade é formada pela Palavra de Cristo e não pelo fluxo das opiniões do momento?",
+      "anchors": [
+        "Jo 8,31-32",
+        "CEC 2466"
+      ],
+      "facilitator_note": "Conduza para a ideia de permanecer, não apenas ouvir uma frase religiosa isolada.",
+      "reading_points": [
+        {
+          "title": "Instabilidade moral",
+          "body": "A pessoa fica entregue ao movimento da cultura e perde critério."
+        },
+        {
+          "title": "Permanecer",
+          "body": "Jesus liga discipulado, permanência na Palavra e conhecimento da verdade."
+        },
+        {
+          "title": "Liberdade educada",
+          "body": "A Palavra não aprisiona; ela liberta da confusão que governa por pressão."
+        }
+      ]
+    },
+    {
+      "id": "B03",
+      "term_id": "B03",
+      "call_label": "B03 - Consciência formada",
+      "case": "Uma gerente percebe uma fraude pequena no relatório, mas pensa que sua consciência está tranquila porque ninguém foi demitido.",
+      "conference_question": "Como distinguir consciência bem formada de simples alívio emocional diante de uma escolha errada?",
+      "anchors": [
+        "CEC 1783",
+        "CEC 1785"
+      ],
+      "facilitator_note": "Evite tratar consciência como sentimento de paz; destaque formação, verdade e juízo moral.",
+      "reading_points": [
+        {
+          "title": "Sinal insuficiente",
+          "body": "Sentir-se tranquilo não prova que o ato é bom."
+        },
+        {
+          "title": "Juízo formado",
+          "body": "A consciência precisa ser educada pela verdade, pela Palavra e pela razão."
+        },
+        {
+          "title": "Responsabilidade",
+          "body": "Quem forma a consciência aprende a reconhecer erros mesmo quando eles parecem pequenos."
+        }
+      ]
+    },
+    {
+      "id": "B04",
+      "term_id": "B04",
+      "call_label": "B04 - Liberdade para o bem",
+      "case": "Um profissional abandona compromissos assumidos porque recebeu uma proposta mais agradável e diz que ninguém pode prender sua liberdade.",
+      "conference_question": "Por que escolher o que agrada imediatamente pode ser abuso de liberdade, e não liberdade verdadeira?",
+      "anchors": [
+        "CEC 1733",
+        "Gl 5,13"
+      ],
+      "facilitator_note": "Mostre que liberdade cristã não é ausência de dever, mas capacidade de escolher o bem.",
+      "reading_points": [
+        {
+          "title": "Liberdade reduzida",
+          "body": "A escolha é tratada como direito de romper deveres quando convém."
+        },
+        {
+          "title": "Bem e justiça",
+          "body": "O Catecismo ensina que a liberdade verdadeira está a serviço do bem e da justiça."
+        },
+        {
+          "title": "Maturidade moral",
+          "body": "A liberdade cresce quando sustenta compromissos bons, não quando foge deles."
+        }
+      ]
+    },
+    {
+      "id": "B05",
+      "term_id": "B05",
+      "call_label": "B05 - Lei moral",
+      "case": "Uma família decide não colocar nenhum limite aos filhos porque acredita que qualquer regra prejudica a espontaneidade.",
+      "conference_question": "Que papel a lei moral tem na educação da liberdade sem virar controle abusivo?",
+      "anchors": [
+        "CEC 2526",
+        "CEC 1783"
+      ],
+      "facilitator_note": "Destaque que a lei moral educa a liberdade e deve ser ensinada com verdade e prudência.",
+      "reading_points": [
+        {
+          "title": "Permissividade",
+          "body": "A ausência de limite é apresentada como respeito à liberdade."
+        },
+        {
+          "title": "Educação necessária",
+          "body": "A liberdade humana precisa ser previamente educada pela lei moral."
+        },
+        {
+          "title": "Critério de bem",
+          "body": "A regra justa ajuda a pessoa a escolher o bem, não a viver por impulso."
+        }
+      ]
+    },
+    {
+      "id": "B06",
+      "term_id": "B06",
+      "call_label": "B06 - Dignidade moral",
+      "case": "Numa empresa, candidatos são avaliados por aparência e utilidade imediata, enquanto sua história, família e necessidades são ignoradas.",
+      "conference_question": "O que muda quando a pessoa é vista como imagem de Deus, e não como peça útil para um sistema?",
+      "anchors": [
+        "Gn 1,27",
+        "CEC 2526"
+      ],
+      "facilitator_note": "Faça a turma perceber que dignidade não depende de produtividade, beleza ou conveniência.",
+      "reading_points": [
+        {
+          "title": "Redução da pessoa",
+          "body": "O caso mede seres humanos por utilidade e aparência."
+        },
+        {
+          "title": "Dignidade anterior",
+          "body": "A dignidade moral e espiritual vem antes de qualquer função social."
+        },
+        {
+          "title": "Olhar cristão",
+          "body": "A fé exige tratar cada pessoa como alguém que não pode ser usado ou descartado."
+        }
+      ]
+    },
+    {
+      "id": "B07",
+      "term_id": "B07",
+      "call_label": "B07 - Pureza do coração",
+      "case": "Um aplicativo recomenda vídeos cada vez mais sexualizados, e o usuário passa a olhar pessoas reais como se fossem cenas para consumo.",
+      "conference_question": "Como a pureza do coração ordena o olhar sem negar a realidade do desejo humano?",
+      "anchors": [
+        "CEC 2525",
+        "Mt 5,27-28"
+      ],
+      "facilitator_note": "Evite reduzir pureza a aparência externa; trate de olhar, desejo e dignidade.",
+      "reading_points": [
+        {
+          "title": "Treino do olhar",
+          "body": "O consumo repetido educa o modo de ver o corpo do outro."
+        },
+        {
+          "title": "Risco moral",
+          "body": "O erotismo difuso transforma pessoas em objetos de prazer e curiosidade."
+        },
+        {
+          "title": "Coração ordenado",
+          "body": "A pureza cristã protege o desejo para que ele sirva à dignidade e ao amor verdadeiro."
+        }
+      ]
+    },
+    {
+      "id": "B08",
+      "term_id": "B08",
+      "call_label": "B08 - Veracidade",
+      "case": "Um vendedor omite um defeito conhecido no produto para fechar a venda e depois afirma que não chegou a mentir.",
+      "conference_question": "Por que a veracidade exige mais do que evitar uma frase tecnicamente falsa?",
+      "anchors": [
+        "CEC 2468",
+        "Mt 5,37"
+      ],
+      "facilitator_note": "Destaque duplicidade e omissão enganosa como feridas contra a verdade.",
+      "reading_points": [
+        {
+          "title": "Meia verdade",
+          "body": "A omissão foi usada para enganar e obter vantagem."
+        },
+        {
+          "title": "Virtude concreta",
+          "body": "Veracidade é agir e falar sem duplicidade, simulação ou hipocrisia."
+        },
+        {
+          "title": "Sim e não",
+          "body": "A palavra cristã deve ser reta, confiável e justa."
+        }
+      ]
+    },
+    {
+      "id": "B09",
+      "term_id": "B09",
+      "call_label": "B09 - Confiança social",
+      "case": "Depois de boatos falsos sobre um médico, pacientes cancelam consultas e a comunidade já não sabe em quem confiar.",
+      "conference_question": "Como a mentira pública fere não só uma pessoa, mas a confiança necessária para a vida comum?",
+      "anchors": [
+        "CEC 2469",
+        "Ef 4,25"
+      ],
+      "facilitator_note": "Amplie o olhar para a dimensão social da verdade, não apenas para a culpa individual.",
+      "reading_points": [
+        {
+          "title": "Dano coletivo",
+          "body": "A mentira destrói reputações e enfraquece relações de confiança."
+        },
+        {
+          "title": "Justiça da verdade",
+          "body": "A veracidade devolve ao outro o que lhe é devido."
+        },
+        {
+          "title": "Vida comum",
+          "body": "Sem manifestação honesta da verdade, a convivência se torna suspeita e injusta."
+        }
+      ]
+    },
+    {
+      "id": "B10",
+      "term_id": "B10",
+      "call_label": "B10 - Discípulo na verdade",
+      "case": "Uma empresária se apresenta como cristã em eventos, mas mantém contratos baseados em propina e documentos falsos.",
+      "conference_question": "Por que a fé professada perde coerência quando a vida concreta permanece na duplicidade?",
+      "anchors": [
+        "CEC 2470",
+        "1Jo 1,6"
+      ],
+      "facilitator_note": "Conduza para coerência de vida, sem transformar o caso em condenação pessoal sem esperança.",
+      "reading_points": [
+        {
+          "title": "Contradição visível",
+          "body": "A profissão religiosa não combina com práticas de fraude."
+        },
+        {
+          "title": "Vida na verdade",
+          "body": "O discípulo de Cristo é chamado a simplicidade de vida conforme o Senhor."
+        },
+        {
+          "title": "Conversão concreta",
+          "body": "A verdade cristã exige mudança real nos atos, não apenas linguagem religiosa."
+        }
+      ]
+    },
+    {
+      "id": "B11",
+      "term_id": "B11",
+      "call_label": "B11 - Boa Nova que purifica",
+      "case": "Um programa de entretenimento transforma traição, exposição íntima e mentira em espetáculo normal de domingo.",
+      "conference_question": "Como o Evangelho purifica a cultura sem negar tudo o que há de verdadeiro e bom nela?",
+      "anchors": [
+        "CEC 2527",
+        "Rm 12,2"
+      ],
+      "facilitator_note": "Evite oposição simplista entre Igreja e cultura; fale de purificação, elevação e restauração.",
+      "reading_points": [
+        {
+          "title": "Costume ferido",
+          "body": "O espetáculo normaliza pecados como se fossem diversão comum."
+        },
+        {
+          "title": "Boa Nova ativa",
+          "body": "Cristo combate e remove erros e males que nascem da sedução do pecado."
+        },
+        {
+          "title": "Purificar sem desprezar",
+          "body": "A cultura deve ser discernida, restaurada e elevada, não idolatrada nem rejeitada em bloco."
+        }
+      ]
+    },
+    {
+      "id": "B12",
+      "term_id": "B12",
+      "call_label": "B12 - Sedução do pecado",
+      "case": "Uma promoção de apostas promete ganho rápido e liberdade financeira, mas várias famílias do bairro começam a se endividar.",
+      "conference_question": "Como reconhecer quando uma promessa de liberdade já carrega a sedução do pecado e a escravidão que ela produz?",
+      "anchors": [
+        "CEC 2527",
+        "CEC 1733"
+      ],
+      "facilitator_note": "Mostre que pecado não costuma aparecer como mal evidente, mas como vantagem atraente.",
+      "reading_points": [
+        {
+          "title": "Promessa atraente",
+          "body": "A proposta se vende como liberdade e ganho fácil."
+        },
+        {
+          "title": "Escravidão real",
+          "body": "O mal escolhido desordena a vida e prende a pessoa em novas dependências."
+        },
+        {
+          "title": "Discernimento cristão",
+          "body": "A Boa Nova desmascara a sedução que promete bem enquanto conduz ao dano."
+        }
+      ]
+    },
+    {
+      "id": "B13",
+      "term_id": "B13",
+      "call_label": "B13 - Razão e fé",
+      "case": "Num almoço, alguém afirma que religião é só sentimento e que não deve entrar em nenhuma conversa séria sobre verdade.",
+      "conference_question": "Como mostrar que a fé católica ilumina a razão sem substituir a busca honesta da verdade?",
+      "anchors": [
+        "CEC 2467",
+        "CEC 1783"
+      ],
+      "facilitator_note": "Evite responder com disputa defensiva; mostre a obrigação humana de procurar a verdade.",
+      "reading_points": [
+        {
+          "title": "Redução da fé",
+          "body": "A fé é tratada como sensação privada sem relação com a verdade."
+        },
+        {
+          "title": "Busca humana",
+          "body": "A pessoa é naturalmente impelida e moralmente obrigada a procurar a verdade."
+        },
+        {
+          "title": "Luz para julgar",
+          "body": "A fé forma a razão moral para ordenar a vida segundo a verdade conhecida."
+        }
+      ]
+    },
+    {
+      "id": "B14",
+      "term_id": "B14",
+      "call_label": "B14 - Modéstia cristã",
+      "case": "Uma campanha publicitária vende qualquer produto usando corpos expostos e olhares de provocação, mesmo sem relação com o que está sendo anunciado.",
+      "conference_question": "Por que a modéstia protege a pessoa inteira e não pode ser reduzida a regra externa de roupa?",
+      "anchors": [
+        "CEC 2525",
+        "1Cor 6,19-20"
+      ],
+      "facilitator_note": "Trate a modéstia como proteção da intimidade e da dignidade do corpo.",
+      "reading_points": [
+        {
+          "title": "Corpo usado",
+          "body": "A publicidade transforma o corpo em instrumento de atração e venda."
+        },
+        {
+          "title": "Proteção da intimidade",
+          "body": "A modéstia resiste à lógica de exposição e consumo."
+        },
+        {
+          "title": "Dignidade corporal",
+          "body": "O corpo pertence à pessoa inteira e deve ser tratado com reverência, não como vitrine."
+        }
+      ]
+    },
+    {
+      "id": "B15",
+      "term_id": "B15",
+      "call_label": "B15 - Comunhão e verdade",
+      "case": "Num conselho comunitário, todos sabem que os números foram manipulados, mas preferem manter a aparência de união.",
+      "conference_question": "Por que uma unidade construída sobre mentira não é comunhão verdadeira?",
+      "anchors": [
+        "1Jo 1,6",
+        "CEC 2470"
+      ],
+      "facilitator_note": "Mostre que comunhão cristã não é encobrir erro para evitar desconforto.",
+      "reading_points": [
+        {
+          "title": "Unidade aparente",
+          "body": "O grupo evita conflito mantendo uma falsidade conhecida."
+        },
+        {
+          "title": "Trevas e comunhão",
+          "body": "Não há comunhão real com Cristo quando se caminha deliberadamente na mentira."
+        },
+        {
+          "title": "Verdade que une",
+          "body": "A unidade cristã precisa de retidão, reparação e luz."
+        }
+      ]
+    },
+    {
+      "id": "I01",
+      "term_id": "I01",
+      "call_label": "I01 - Verdade sob medida",
+      "case": "Dois sócios descumprem um contrato, e um deles diz que, para ele, compromisso só vale enquanto não prejudica seus planos.",
+      "conference_question": "Que critério cristão ajuda a desmontar a ideia de que cada um pode fabricar a própria verdade moral?",
+      "anchors": [
+        "B01",
+        "CEC 2465",
+        "CEC 2467"
+      ],
+      "facilitator_note": "Mostre a passagem do subjetivismo para a injustiça concreta.",
+      "reading_points": [
+        {
+          "title": "Preferência como regra",
+          "body": "O contrato deixa de valer quando contraria o interesse pessoal."
+        },
+        {
+          "title": "Verdade comum",
+          "body": "A verdade moral não muda conforme a conveniência de cada indivíduo."
+        },
+        {
+          "title": "Responsabilidade",
+          "body": "Reconhecer a verdade protege a justiça entre pessoas reais."
+        }
+      ]
+    },
+    {
+      "id": "I02",
+      "term_id": "I02",
+      "call_label": "I02 - Consumo de intimidade",
+      "case": "Um portal publica detalhes da separação de um casal famoso, incluindo mensagens privadas, e os acessos disparam.",
+      "conference_question": "Como distinguir informação legítima de consumo indevido da intimidade alheia?",
+      "anchors": [
+        "B07",
+        "CEC 2525",
+        "Mt 5,27-28"
+      ],
+      "facilitator_note": "Não centre o caso na fama; centre na curiosidade que consome a intimidade como espetáculo.",
+      "reading_points": [
+        {
+          "title": "Curiosidade explorada",
+          "body": "A dor privada é transformada em produto de audiência."
+        },
+        {
+          "title": "Olhar ferido",
+          "body": "Consumir intimidade alheia educa a pessoa para o voyeurismo."
+        },
+        {
+          "title": "Respeito concreto",
+          "body": "A pureza cristã inclui recusar conteúdos que invadem e degradam."
+        }
+      ]
+    },
+    {
+      "id": "I03",
+      "term_id": "I03",
+      "call_label": "I03 - Opinião irresponsável",
+      "case": "Um influenciador acusa uma pequena farmácia de golpe sem verificar os fatos, e no dia seguinte a loja aparece pichada.",
+      "conference_question": "Por que a liberdade de opinar não dispensa responsabilidade com a verdade e com as consequências?",
+      "anchors": [
+        "B08",
+        "B09",
+        "CEC 2469"
+      ],
+      "facilitator_note": "Mostre que opinião pública pode causar dano real quando se separa da veracidade.",
+      "reading_points": [
+        {
+          "title": "Acusação sem prova",
+          "body": "A fala pública cria dano antes que a verdade seja esclarecida."
+        },
+        {
+          "title": "Justiça ferida",
+          "body": "A verdade devida ao outro inclui honestidade e cuidado com reputação."
+        },
+        {
+          "title": "Responsabilidade moral",
+          "body": "Quem fala em público deve responder pelo alcance de sua palavra."
+        }
+      ]
+    },
+    {
+      "id": "I04",
+      "term_id": "I04",
+      "call_label": "I04 - Algoritmo de vaidade",
+      "case": "Uma criadora de conteúdo passa a apagar fotos comuns e publicar apenas imagens editadas porque as outras recebem pouca reação.",
+      "conference_question": "Como a busca de aprovação pode deformar a percepção da própria dignidade?",
+      "anchors": [
+        "B06",
+        "B12",
+        "Rm 12,2"
+      ],
+      "facilitator_note": "Evite demonizar tecnologia; aponte a formação da vaidade e da comparação.",
+      "reading_points": [
+        {
+          "title": "Valor medido",
+          "body": "A pessoa passa a medir sua presença pela resposta do público."
+        },
+        {
+          "title": "Sedução sutil",
+          "body": "A aprovação constante parece liberdade, mas pode escravizar a imagem."
+        },
+        {
+          "title": "Dignidade firme",
+          "body": "A fé recorda que a pessoa vale antes de curtidas, aparência e desempenho."
+        }
+      ]
+    },
+    {
+      "id": "I05",
+      "term_id": "I05",
+      "call_label": "I05 - Humor que degrada",
+      "case": "Num programa de auditório, um convidado é ridicularizado por sua aparência enquanto a plateia ri e compartilha cortes do vídeo.",
+      "conference_question": "Quando o humor deixa de ser brincadeira e passa a ferir a dignidade da pessoa?",
+      "anchors": [
+        "B06",
+        "B09",
+        "Tg 3,5-10"
+      ],
+      "facilitator_note": "Ajude a distinguir graça legítima de humilhação organizada.",
+      "reading_points": [
+        {
+          "title": "Riso dirigido",
+          "body": "A graça nasce da exposição de uma pessoa, não de uma situação neutra."
+        },
+        {
+          "title": "Dignidade ferida",
+          "body": "O entretenimento não justifica transformar alguém em objeto de desprezo."
+        },
+        {
+          "title": "Palavra responsável",
+          "body": "A fala e o compartilhamento podem cooperar com humilhação real."
+        }
+      ]
+    },
+    {
+      "id": "I06",
+      "term_id": "I06",
+      "call_label": "I06 - Educação permissiva",
+      "case": "Num curso de formação, os responsáveis evitam tratar de vícios digitais porque dizem que cada jovem precisa descobrir sozinho seus limites.",
+      "conference_question": "Por que abandonar alguém à própria confusão não é respeito pela liberdade?",
+      "anchors": [
+        "B03",
+        "B05",
+        "CEC 2526"
+      ],
+      "facilitator_note": "Mostre que educar não é controlar cada escolha, mas oferecer verdade e critérios.",
+      "reading_points": [
+        {
+          "title": "Limite ausente",
+          "body": "A falta de orientação é apresentada como autonomia."
+        },
+        {
+          "title": "Liberdade deseducada",
+          "body": "Sem formação moral, a liberdade fica exposta a influências negativas."
+        },
+        {
+          "title": "Ensino responsável",
+          "body": "Quem educa deve oferecer verdade, virtude e dignidade moral."
+        }
+      ]
+    },
+    {
+      "id": "I07",
+      "term_id": "I07",
+      "call_label": "I07 - Trabalho sem consciência",
+      "case": "Uma agência altera dados de uma pesquisa para agradar o cliente e manter o contrato.",
+      "conference_question": "Como a consciência cristã deve julgar uma decisão profissional que sacrifica a verdade por resultado?",
+      "anchors": [
+        "B03",
+        "B08",
+        "CEC 2468"
+      ],
+      "facilitator_note": "Aponte que ambiente profissional não suspende a lei moral.",
+      "reading_points": [
+        {
+          "title": "Resultado idolatrado",
+          "body": "O contrato é preservado à custa de informação falsa."
+        },
+        {
+          "title": "Consciência no trabalho",
+          "body": "A verdade deve orientar também decisões técnicas e profissionais."
+        },
+        {
+          "title": "Custo moral",
+          "body": "Ganhar mantendo mentira deforma a pessoa e a confiança social."
+        }
+      ]
+    },
+    {
+      "id": "I08",
+      "term_id": "I08",
+      "call_label": "I08 - Família como obstáculo",
+      "case": "Um filho adulto deixa a mãe doente sem assistência porque afirma que cuidar dela atrasaria seus projetos pessoais.",
+      "conference_question": "Como distinguir projeto legítimo de vida de individualismo que abandona deveres concretos?",
+      "anchors": [
+        "B04",
+        "B06",
+        "Gl 5,13"
+      ],
+      "facilitator_note": "Não idealize soluções; destaque o dever real de cuidado proporcional.",
+      "reading_points": [
+        {
+          "title": "Vínculo negado",
+          "body": "O cuidado familiar é tratado como obstáculo ao próprio sucesso."
+        },
+        {
+          "title": "Liberdade com dever",
+          "body": "A liberdade cristã não elimina responsabilidades com pessoas concretas."
+        },
+        {
+          "title": "Cuidado possível",
+          "body": "A resposta moral procura modo justo e proporcional de não abandonar."
+        }
+      ]
+    },
+    {
+      "id": "I09",
+      "term_id": "I09",
+      "call_label": "I09 - Fé como gosto privado",
+      "case": "Um político afirma que sua fé vale apenas para sua vida íntima e que nenhuma decisão pública deve ser confrontada com a lei moral.",
+      "conference_question": "Como evitar tanto impor gostos pessoais quanto esconder a verdade moral como se a fé não tivesse consequências?",
+      "anchors": [
+        "B10",
+        "B11",
+        "Jo 14,6"
+      ],
+      "facilitator_note": "Mantenha neutralidade partidária; trate da coerência moral, não de disputa política concreta.",
+      "reading_points": [
+        {
+          "title": "Privatização da fé",
+          "body": "A fé é separada das decisões reais e da responsabilidade pública."
+        },
+        {
+          "title": "Verdade com consequências",
+          "body": "Cristo é a Verdade, não um gosto religioso sem exigência moral."
+        },
+        {
+          "title": "Testemunho prudente",
+          "body": "O cristão deve agir com clareza moral, sem confundir fé com interesse particular."
+        }
+      ]
+    },
+    {
+      "id": "I10",
+      "term_id": "I10",
+      "call_label": "I10 - Mentira útil",
+      "case": "Uma clínica promete resultados que sabe não poder garantir porque a frase aumenta o número de pacientes.",
+      "conference_question": "Por que uma mentira que produz lucro ou tranquilidade aparente continua sendo moralmente desordenada?",
+      "anchors": [
+        "B08",
+        "CEC 2468",
+        "Mt 5,37"
+      ],
+      "facilitator_note": "Destaque que bons efeitos aparentes não tornam a mentira virtuosa.",
+      "reading_points": [
+        {
+          "title": "Falsidade calculada",
+          "body": "A promessa enganosa é usada como ferramenta de ganho."
+        },
+        {
+          "title": "Veracidade violada",
+          "body": "A virtude da verdade exclui duplicidade e simulação."
+        },
+        {
+          "title": "Confiança protegida",
+          "body": "A palavra reta protege pessoas que dependem da informação para decidir."
+        }
+      ]
+    },
+    {
+      "id": "I11",
+      "term_id": "I11",
+      "call_label": "I11 - Corpo como vitrine",
+      "case": "Uma academia incentiva clientes a publicar fotos cada vez mais provocantes para ganhar descontos e seguidores.",
+      "conference_question": "Como discernir entre cuidado legítimo com o corpo e exposição que transforma o corpo em mercadoria?",
+      "anchors": [
+        "B06",
+        "B14",
+        "1Cor 6,19-20"
+      ],
+      "facilitator_note": "Evite desprezar saúde ou beleza; mostre o problema da mercantilização do corpo.",
+      "reading_points": [
+        {
+          "title": "Exposição incentivada",
+          "body": "O corpo vira moeda de desconto, desejo e visibilidade."
+        },
+        {
+          "title": "Pessoa inteira",
+          "body": "O corpo não é vitrine separada da dignidade moral da pessoa."
+        },
+        {
+          "title": "Modéstia prática",
+          "body": "A resposta cristã protege a intimidade e ordena a apresentação de si."
+        }
+      ]
+    },
+    {
+      "id": "I12",
+      "term_id": "I12",
+      "call_label": "I12 - Indiferença ao próximo",
+      "case": "Num prédio, moradores ignoram uma idosa que fica dias sem conseguir subir compras porque dizem que cada família resolve seus problemas.",
+      "conference_question": "Por que a cultura do eu enfraquece deveres reais de caridade e justiça?",
+      "anchors": [
+        "B04",
+        "Gl 5,13",
+        "B06"
+      ],
+      "facilitator_note": "Mostre que individualismo não é apenas teoria; ele aparece no abandono cotidiano.",
+      "reading_points": [
+        {
+          "title": "Problema isolado",
+          "body": "A necessidade concreta do outro é tratada como assunto que não diz respeito a ninguém."
+        },
+        {
+          "title": "Dever de caridade",
+          "body": "A liberdade cristã se realiza no serviço, não no fechamento confortável."
+        },
+        {
+          "title": "Próximo concreto",
+          "body": "O amor cristão começa quando a pessoa ferida deixa de ser invisível."
+        }
+      ]
+    },
+    {
+      "id": "I13",
+      "term_id": "I13",
+      "call_label": "I13 - Linchamento digital",
+      "case": "Após um vídeo cortado circular, milhares atacam uma funcionária, divulgam seu endereço e exigem sua demissão antes de qualquer apuração.",
+      "conference_question": "Como buscar justiça sem cair em exposição desproporcional, vingança coletiva e mentira possível?",
+      "anchors": [
+        "B09",
+        "B15",
+        "Tg 3,5-10"
+      ],
+      "facilitator_note": "Trate o dano digital como real e destaque proporção, verdade e justiça.",
+      "reading_points": [
+        {
+          "title": "Punição sem apuração",
+          "body": "A multidão age antes de verificar fatos e responsabilidades."
+        },
+        {
+          "title": "Desproporção",
+          "body": "A exposição pública pode ferir mais do que corrigir."
+        },
+        {
+          "title": "Justiça com verdade",
+          "body": "A resposta cristã busca correção e reparação sem destruir a pessoa."
+        }
+      ]
+    },
+    {
+      "id": "I14",
+      "term_id": "I14",
+      "call_label": "I14 - Prazer como critério",
+      "case": "Um casal decide continuar uma relação claramente destrutiva porque, apesar das mentiras e manipulações, a intensidade emocional parece boa.",
+      "conference_question": "Que critério ajuda a avaliar uma escolha quando o prazer ou a intensidade escondem dano moral?",
+      "anchors": [
+        "B04",
+        "B12",
+        "CEC 1733"
+      ],
+      "facilitator_note": "Mostre que prazer sentido não basta para definir o bem da relação.",
+      "reading_points": [
+        {
+          "title": "Intensidade enganosa",
+          "body": "A força do sentimento é usada para ignorar mentira e manipulação."
+        },
+        {
+          "title": "Bem objetivo",
+          "body": "O prazer não substitui verdade, justiça e respeito à dignidade."
+        },
+        {
+          "title": "Liberdade ferida",
+          "body": "Escolhas repetidas contra o bem podem prender a pessoa ao pecado."
+        }
+      ]
+    },
+    {
+      "id": "I15",
+      "term_id": "I15",
+      "call_label": "I15 - Silêncio conveniente",
+      "case": "Um contador percebe desvio de dinheiro na organização em que trabalha, mas se cala para não perder o emprego.",
+      "conference_question": "Como distinguir prudência necessária de omissão que coopera com a mentira e a injustiça?",
+      "anchors": [
+        "B08",
+        "B09",
+        "CEC 2469"
+      ],
+      "facilitator_note": "Evite solução imprudente; destaque busca de caminho seguro, verdadeiro e proporcional.",
+      "reading_points": [
+        {
+          "title": "Verdade retida",
+          "body": "O silêncio protege o próprio conforto enquanto o dano continua."
+        },
+        {
+          "title": "Prudência exigida",
+          "body": "Falar a verdade pode exigir modo, prova e proteção adequada."
+        },
+        {
+          "title": "Omissão culpável",
+          "body": "Calar por medo ou interesse pode cooperar com a injustiça."
+        }
+      ]
+    },
+    {
+      "id": "N01",
+      "term_id": "N01",
+      "call_label": "N01 - Verdade para mim",
+      "case": "Uma paciente recusa um tratamento comprovado e diz que sua verdade é seguir apenas conselhos de vídeos sem formação médica.",
+      "conference_question": "Por que a frase verdade para mim pode se tornar fuga da realidade e da responsabilidade?",
+      "anchors": [
+        "B01",
+        "CEC 2465",
+        "CEC 2467"
+      ],
+      "facilitator_note": "Mostre que respeitar a pessoa não obriga a aceitar como verdade qualquer afirmação.",
+      "reading_points": [
+        {
+          "title": "Sentimento como prova",
+          "body": "A convicção pessoal substitui a busca honesta da verdade."
+        },
+        {
+          "title": "Realidade não cede",
+          "body": "A verdade não muda porque alguém prefere outra versão."
+        },
+        {
+          "title": "Busca moral",
+          "body": "A dignidade humana exige procurar e aderir à verdade conhecida."
+        }
+      ]
+    },
+    {
+      "id": "N02",
+      "term_id": "N02",
+      "call_label": "N02 - Falsa autonomia",
+      "case": "Um pai deixa de pagar a pensão do filho porque diz que agora precisa viver para si e reconstruir sua própria felicidade.",
+      "conference_question": "Como desmontar a falsa autonomia sem negar que a pessoa também tenha necessidades legítimas?",
+      "anchors": [
+        "B04",
+        "CEC 1733",
+        "Gl 5,13"
+      ],
+      "facilitator_note": "Destaque que autonomia não elimina vínculos justos e deveres assumidos.",
+      "reading_points": [
+        {
+          "title": "Eu no centro",
+          "body": "A realização pessoal é usada para romper dever concreto com o filho."
+        },
+        {
+          "title": "Liberdade responsável",
+          "body": "A liberdade verdadeira não se constrói pela desobediência ao bem."
+        },
+        {
+          "title": "Vínculo real",
+          "body": "A resposta cristã une cuidado de si e fidelidade às responsabilidades."
+        }
+      ]
+    },
+    {
+      "id": "N03",
+      "term_id": "N03",
+      "call_label": "N03 - Ilusão de controle",
+      "case": "Um usuário passa noites vendo conteúdo impuro e afirma que para quando quiser, embora já falte ao trabalho e esconda o hábito da família.",
+      "conference_question": "Que sinais mostram que a pessoa já perdeu liberdade mesmo dizendo que controla a situação?",
+      "anchors": [
+        "B12",
+        "CEC 1733",
+        "B03"
+      ],
+      "facilitator_note": "Fale com firmeza sem expor ninguém; trate hábito, segredo e perda de liberdade.",
+      "reading_points": [
+        {
+          "title": "Negação do domínio",
+          "body": "A fala de controle contradiz as consequências visíveis."
+        },
+        {
+          "title": "Escravidão gradual",
+          "body": "O pecado repetido enfraquece a liberdade e treina a vontade para ceder."
+        },
+        {
+          "title": "Verdade necessária",
+          "body": "Reconhecer a perda de domínio é primeiro passo para pedir ajuda e romper o ciclo."
+        }
+      ]
+    },
+    {
+      "id": "N04",
+      "term_id": "N04",
+      "call_label": "N04 - Todo mundo faz",
+      "case": "Numa repartição, servidores falsificam horários de entrada e dizem ao recém-contratado que isso é o jeito normal de funcionar.",
+      "conference_question": "Por que a repetição social de um erro não muda sua natureza moral?",
+      "anchors": [
+        "B05",
+        "Rm 12,2",
+        "CEC 1783"
+      ],
+      "facilitator_note": "Mostre que costume dominante pode deformar a consciência.",
+      "reading_points": [
+        {
+          "title": "Normalização",
+          "body": "O erro é apresentado como regra do ambiente."
+        },
+        {
+          "title": "Maioria não decide",
+          "body": "O bem moral não depende de quantas pessoas fazem o contrário."
+        },
+        {
+          "title": "Consciência formada",
+          "body": "A pessoa precisa de critério para resistir a costumes injustos."
+        }
+      ]
+    },
+    {
+      "id": "N05",
+      "term_id": "N05",
+      "call_label": "N05 - Só não julgue",
+      "case": "Quando familiares tentam intervir no consumo abusivo de bebida de um parente, ele responde que ninguém tem direito de julgar sua vida.",
+      "conference_question": "Como distinguir julgamento arrogante de correção necessária diante de dano real?",
+      "anchors": [
+        "B03",
+        "B08",
+        "Mt 18,15"
+      ],
+      "facilitator_note": "Evite tom acusatório; mostre que correção pode ser ato de caridade e verdade.",
+      "reading_points": [
+        {
+          "title": "Bloqueio da correção",
+          "body": "A palavra julgamento é usada para impedir qualquer confronto."
+        },
+        {
+          "title": "Dano concreto",
+          "body": "Quando há ferida real, calar sempre não é amor."
+        },
+        {
+          "title": "Caridade com verdade",
+          "body": "A correção cristã busca salvar, não humilhar ou dominar."
+        }
+      ]
+    },
+    {
+      "id": "N06",
+      "term_id": "N06",
+      "call_label": "N06 - Sem vítimas visíveis",
+      "case": "Um grupo compartilha imagens íntimas de desconhecidos e diz que não há problema porque a pessoa mostrada nunca saberá.",
+      "conference_question": "Por que um mal pode existir mesmo quando a vítima não está presente ou não percebe imediatamente o dano?",
+      "anchors": [
+        "CEC 2525",
+        "CEC 2527",
+        "B12"
+      ],
+      "facilitator_note": "Nomeie o erro com clareza; não suavize exploração íntima como simples conteúdo inadequado.",
+      "reading_points": [
+        {
+          "title": "Vítima apagada",
+          "body": "A ausência da pessoa é usada para negar a gravidade do ato."
+        },
+        {
+          "title": "Costume corrompido",
+          "body": "O consumo de intimidade fere o olhar, a modéstia e a dignidade."
+        },
+        {
+          "title": "Responsabilidade pessoal",
+          "body": "Não ver a consequência não torna o ato justo nem puro."
+        }
+      ]
+    },
+    {
+      "id": "N07",
+      "term_id": "N07",
+      "call_label": "N07 - Privado não importa",
+      "case": "Um empresário mantém uma imagem pública correta, mas em casa manipula e mente para todos porque diz que vida privada não se discute.",
+      "conference_question": "Por que a vida escondida também forma ou deforma a pessoa diante de Deus?",
+      "anchors": [
+        "B07",
+        "B10",
+        "1Jo 1,6"
+      ],
+      "facilitator_note": "Diferencie intimidade legítima de esconderijo moral.",
+      "reading_points": [
+        {
+          "title": "Fachada pública",
+          "body": "A reputação externa encobre uma conduta doméstica marcada por mentira."
+        },
+        {
+          "title": "Unidade da vida",
+          "body": "O cristão não vive duas verdades, uma pública e outra secreta."
+        },
+        {
+          "title": "Conversão interior",
+          "body": "Deus chama à verdade também onde ninguém aplaude ou fiscaliza."
+        }
+      ]
+    },
+    {
+      "id": "N08",
+      "term_id": "N08",
+      "call_label": "N08 - Desejo como direito",
+      "case": "Um consumidor humilha funcionários quando não consegue o produto que quer e afirma que, se pode pagar, tem direito de exigir.",
+      "conference_question": "Como distinguir desejo legítimo de pretensão injusta que pisa na dignidade dos outros?",
+      "anchors": [
+        "B04",
+        "B07",
+        "Gl 5,13"
+      ],
+      "facilitator_note": "Amplie desejo para além da sexualidade; trate do desejo desordenado como critério moral falso.",
+      "reading_points": [
+        {
+          "title": "Desejo absolutizado",
+          "body": "A vontade de obter algo vira licença para maltratar."
+        },
+        {
+          "title": "Direito limitado",
+          "body": "Nem todo desejo gera direito moral sobre pessoas e coisas."
+        },
+        {
+          "title": "Liberdade ordenada",
+          "body": "A maturidade cristã aprende a renunciar ao que fere justiça e caridade."
+        }
+      ]
+    },
+    {
+      "id": "N09",
+      "term_id": "N09",
+      "call_label": "N09 - Opinião basta",
+      "case": "Num debate sobre uma acusação grave, alguém diz que não precisa ler nada porque já sabe o que acha.",
+      "conference_question": "Por que uma opinião sem busca da verdade pode se tornar injustiça?",
+      "anchors": [
+        "B13",
+        "CEC 2467",
+        "CEC 1783"
+      ],
+      "facilitator_note": "Destaque humildade intelectual como parte da formação moral.",
+      "reading_points": [
+        {
+          "title": "Fechamento",
+          "body": "A pessoa recusa informação porque já escolheu sua conclusão."
+        },
+        {
+          "title": "Dever de verdade",
+          "body": "Buscar a verdade é exigência da dignidade humana."
+        },
+        {
+          "title": "Juízo responsável",
+          "body": "Opinar sobre fatos graves exige escuta, razão e honestidade."
+        }
+      ]
+    },
+    {
+      "id": "N10",
+      "term_id": "N10",
+      "call_label": "N10 - Amor sem verdade",
+      "case": "Uma família evita confrontar um filho que explora financeiramente os avós porque diz que amar é apoiar sem criar conflito.",
+      "conference_question": "Como responder com amor sem transformar aprovação em cumplicidade com o erro?",
+      "anchors": [
+        "B01",
+        "B04",
+        "Jo 14,6"
+      ],
+      "facilitator_note": "Mostre que verdade sem amor fere, mas amor sem verdade abandona.",
+      "reading_points": [
+        {
+          "title": "Apoio confundido",
+          "body": "A aprovação é usada para evitar conflito e manter o erro."
+        },
+        {
+          "title": "Amor ordenado",
+          "body": "Amar alguém inclui desejar seu bem verdadeiro, não sua vontade imediata."
+        },
+        {
+          "title": "Verdade que cura",
+          "body": "A resposta cristã une acolhida da pessoa e confronto da injustiça."
+        }
+      ]
+    },
+    {
+      "id": "N11",
+      "term_id": "N11",
+      "call_label": "N11 - Liberdade sem lei",
+      "case": "Uma produtora vende conteúdo degradante dizendo que qualquer limite moral é censura e que adultos livres decidem tudo por si.",
+      "conference_question": "Por que chamar todo limite de opressão enfraquece a própria liberdade?",
+      "anchors": [
+        "B05",
+        "CEC 2526",
+        "CEC 1733"
+      ],
+      "facilitator_note": "Explique permissividade como concepção errônea da liberdade humana.",
+      "reading_points": [
+        {
+          "title": "Limite rejeitado",
+          "body": "A lei moral é apresentada como inimiga da liberdade."
+        },
+        {
+          "title": "Liberdade educável",
+          "body": "A liberdade precisa de formação para escolher o bem."
+        },
+        {
+          "title": "Abuso de liberdade",
+          "body": "Escolher o mal e vendê-lo como autonomia conduz à escravidão do pecado."
+        }
+      ]
+    },
+    {
+      "id": "N12",
+      "term_id": "N12",
+      "call_label": "N12 - Sinceridade brutal",
+      "case": "Um apresentador expõe erros antigos de uma convidada ao vivo e diz que apenas falou verdades que ninguém tinha coragem de dizer.",
+      "conference_question": "Como distinguir coragem de dizer a verdade de prazer em humilhar publicamente?",
+      "anchors": [
+        "B08",
+        "CEC 2469",
+        "Ef 4,25"
+      ],
+      "facilitator_note": "Destaque o justo meio entre verdade devida e segredo que deve ser guardado.",
+      "reading_points": [
+        {
+          "title": "Verdade usada como arma",
+          "body": "O fato verdadeiro é exposto para ferir e ganhar audiência."
+        },
+        {
+          "title": "Discrição moral",
+          "body": "A veracidade exige honestidade e também respeito ao que não deve ser exposto."
+        },
+        {
+          "title": "Caridade da fala",
+          "body": "Dizer a verdade cristã requer justiça, finalidade boa e modo adequado."
+        }
+      ]
+    },
+    {
+      "id": "N13",
+      "term_id": "N13",
+      "call_label": "N13 - Fé sem exigência",
+      "case": "Um comerciante mantém práticas desonestas e diz que sua relação com Deus está boa porque reza antes de abrir a loja.",
+      "conference_question": "Por que a oração não substitui a conversão concreta dos atos?",
+      "anchors": [
+        "B10",
+        "B11",
+        "CEC 2470"
+      ],
+      "facilitator_note": "Evite desprezar a oração; mostre que ela deve conduzir à verdade de vida.",
+      "reading_points": [
+        {
+          "title": "Religião separada",
+          "body": "A prática de oração é desligada da justiça no comércio."
+        },
+        {
+          "title": "Coerência cristã",
+          "body": "Viver na verdade exige simplicidade de vida conforme Cristo."
+        },
+        {
+          "title": "Conversão real",
+          "body": "A fé autêntica purifica costumes e transforma escolhas concretas."
+        }
+      ]
+    },
+    {
+      "id": "N14",
+      "term_id": "N14",
+      "call_label": "N14 - Cultura inevitável",
+      "case": "Uma plataforma admite que seus conteúdos incentivam inveja e erotização, mas afirma que apenas entrega o que o público quer.",
+      "conference_question": "Por que o cristão não deve tratar a cultura dominante como destino inevitável?",
+      "anchors": [
+        "B11",
+        "CEC 2527",
+        "Rm 12,2"
+      ],
+      "facilitator_note": "Mostre responsabilidade pessoal e institucional na formação do clima social.",
+      "reading_points": [
+        {
+          "title": "Conformismo",
+          "body": "A empresa se esconde atrás do gosto do público para não discernir o bem."
+        },
+        {
+          "title": "Cultura ferida",
+          "body": "Costumes dominantes podem nascer da sedução do pecado."
+        },
+        {
+          "title": "Evangelho purificador",
+          "body": "A Boa Nova restaura e eleva a cultura em vez de aceitar tudo passivamente."
+        }
+      ]
+    },
+    {
+      "id": "N15",
+      "term_id": "N15",
+      "call_label": "N15 - Modéstia ultrapassada",
+      "case": "Uma marca ridiculariza qualquer preocupação com pudor e vende exposição extrema como prova de segurança e liberdade.",
+      "conference_question": "Como defender a modéstia sem reduzi-la a vergonha do corpo ou controle externo?",
+      "anchors": [
+        "B14",
+        "CEC 2525",
+        "1Cor 6,19-20"
+      ],
+      "facilitator_note": "Una modéstia, dignidade e intimidade; não caia em moralismo de aparência.",
+      "reading_points": [
+        {
+          "title": "Ridicularização do pudor",
+          "body": "A propaganda trata modéstia como fraqueza ou atraso."
+        },
+        {
+          "title": "Liberdade confundida",
+          "body": "Exposição não prova dignidade nem domínio de si."
+        },
+        {
+          "title": "Proteção do corpo",
+          "body": "A modéstia cristã guarda a intimidade porque o corpo tem dignidade."
+        }
+      ]
+    },
+    {
+      "id": "G01",
+      "term_id": "G01",
+      "call_label": "G01 - Pessoa e ato",
+      "case": "Um médico falsifica laudos, e alguns querem tratá-lo como monstro, enquanto outros dizem que ninguém pode questionar seus atos.",
+      "conference_question": "Como julgar um ato grave sem negar a dignidade de quem o praticou?",
+      "anchors": [
+        "Gn 1,27",
+        "B06",
+        "B03"
+      ],
+      "facilitator_note": "Sustente as duas verdades: dignidade da pessoa e juízo moral do ato.",
+      "reading_points": [
+        {
+          "title": "Dois erros possíveis",
+          "body": "Um lado desumaniza a pessoa; o outro protege o ato errado."
+        },
+        {
+          "title": "Dignidade permanece",
+          "body": "A pessoa não perde sua dignidade mesmo quando pratica mal grave."
+        },
+        {
+          "title": "Ato deve ser julgado",
+          "body": "Respeitar a pessoa não elimina verdade, justiça e consequência."
+        }
+      ]
+    },
+    {
+      "id": "G02",
+      "term_id": "G02",
+      "call_label": "G02 - Consciência e capricho",
+      "case": "Uma funcionária diz que sua consciência permite mentir no currículo porque ela merece uma chance melhor.",
+      "conference_question": "Que elementos mostram que uma decisão vem de consciência formada e não de capricho justificado?",
+      "anchors": [
+        "CEC 1783",
+        "CEC 1785",
+        "B03"
+      ],
+      "facilitator_note": "Mostre que invocar consciência não torna qualquer escolha reta.",
+      "reading_points": [
+        {
+          "title": "Consciência invocada",
+          "body": "A palavra consciência é usada para defender uma mentira conveniente."
+        },
+        {
+          "title": "Formação necessária",
+          "body": "A consciência reta julga segundo o bem verdadeiro, não segundo desejo de vantagem."
+        },
+        {
+          "title": "Critérios externos",
+          "body": "Palavra de Deus, oração, conselho e ensinamento da Igreja ajudam a corrigir autoengano."
+        }
+      ]
+    },
+    {
+      "id": "G03",
+      "term_id": "G03",
+      "call_label": "G03 - Liberdade e impulso",
+      "case": "Um motorista agride outro no trânsito e depois diz que não teve escolha porque ficou tomado pela raiva.",
+      "conference_question": "Como reconhecer a força de um impulso sem usar esse impulso para desculpar todo ato?",
+      "anchors": [
+        "CEC 1733",
+        "B04",
+        "B12"
+      ],
+      "facilitator_note": "Distinga condicionamento real de responsabilidade moral.",
+      "reading_points": [
+        {
+          "title": "Impulso forte",
+          "body": "A raiva influenciou a ação e reduziu a calma do julgamento."
+        },
+        {
+          "title": "Responsabilidade restante",
+          "body": "Nem todo impulso elimina a responsabilidade pelo ato escolhido."
+        },
+        {
+          "title": "Liberdade treinada",
+          "body": "Praticar o bem aumenta domínio de si e torna a pessoa mais livre."
+        }
+      ]
+    },
+    {
+      "id": "G04",
+      "term_id": "G04",
+      "call_label": "G04 - Desejo e bem",
+      "case": "Uma pessoa casada se apaixona por outra e conclui que, se o sentimento é intenso, deve ser verdadeiro e correto.",
+      "conference_question": "Por que a existência de um desejo não prova que realizá-lo seja bom?",
+      "anchors": [
+        "B04",
+        "B07",
+        "Gl 5,13"
+      ],
+      "facilitator_note": "Trate o desejo com realismo, sem negar sua força nem entregar a ele o juízo moral.",
+      "reading_points": [
+        {
+          "title": "Sentimento real",
+          "body": "O desejo existe e pode ser intenso, mas isso não basta para definir o bem."
+        },
+        {
+          "title": "Juízo moral",
+          "body": "O bem precisa considerar verdade, fidelidade, justiça e dignidade."
+        },
+        {
+          "title": "Desejo educado",
+          "body": "A liberdade cristã aprende a ordenar desejos, não a obedecer a todos."
+        }
+      ]
+    },
+    {
+      "id": "G05",
+      "term_id": "G05",
+      "call_label": "G05 - Acolhida e aprovação",
+      "case": "Uma comunidade recebe uma pessoa em crise, mas discute se acolher significa nunca questionar escolhas que a prejudicam.",
+      "conference_question": "Como acolher uma pessoa sem transformar acolhida em aprovação automática de tudo?",
+      "anchors": [
+        "G01",
+        "B01",
+        "B06"
+      ],
+      "facilitator_note": "Destaque que acolher é tratar como pessoa, não suspender a verdade moral.",
+      "reading_points": [
+        {
+          "title": "Pessoa ferida",
+          "body": "A situação exige respeito, escuta e cuidado."
+        },
+        {
+          "title": "Aprovação não automática",
+          "body": "Acolher não obriga a chamar todo ato de bom."
+        },
+        {
+          "title": "Caridade verdadeira",
+          "body": "A resposta cristã une dignidade da pessoa e busca do bem real."
+        }
+      ]
+    },
+    {
+      "id": "G06",
+      "term_id": "G06",
+      "call_label": "G06 - Verdade e humilhação",
+      "case": "Um chefe corrige um erro simples de uma funcionária diante de todos, com detalhes desnecessários, para servir de exemplo.",
+      "conference_question": "Quando manifestar a verdade necessária vira humilhação e abuso da exposição?",
+      "anchors": [
+        "B08",
+        "CEC 2469",
+        "Mt 18,15"
+      ],
+      "facilitator_note": "Mostre que verdade sem finalidade justa e modo adequado pode ferir.",
+      "reading_points": [
+        {
+          "title": "Exposição indevida",
+          "body": "A correção passa do necessário e atinge a reputação da pessoa."
+        },
+        {
+          "title": "Justo meio",
+          "body": "A veracidade exige saber o que deve ser expresso e o que deve ser guardado."
+        },
+        {
+          "title": "Correção justa",
+          "body": "A verdade deve corrigir o erro sem usar a vergonha como método."
+        }
+      ]
+    },
+    {
+      "id": "G07",
+      "term_id": "G07",
+      "call_label": "G07 - Prudência e omissão",
+      "case": "Uma enfermeira presencia maus-tratos a um paciente e hesita entre denunciar imediatamente ou reunir provas para não ser silenciada.",
+      "conference_question": "Como distinguir prudência responsável de omissão por medo ou conveniência?",
+      "anchors": [
+        "CEC 2469",
+        "B09",
+        "B15"
+      ],
+      "facilitator_note": "Valorize segurança e prova sem permitir que prudência vire desculpa para calar.",
+      "reading_points": [
+        {
+          "title": "Risco real",
+          "body": "Falar de qualquer modo pode não proteger a vítima nem garantir justiça."
+        },
+        {
+          "title": "Omissão possível",
+          "body": "Calar para preservar conforto enquanto o abuso segue não é prudência."
+        },
+        {
+          "title": "Caminho justo",
+          "body": "A prudência procura modo eficaz, verdadeiro e proporcional de agir."
+        }
+      ]
+    },
+    {
+      "id": "G08",
+      "term_id": "G08",
+      "call_label": "G08 - Opinião e verdade",
+      "case": "Um comentarista muda fatos para sustentar sua visão e diz que toda análise é apenas opinião.",
+      "conference_question": "Como reconhecer a diferença entre interpretar fatos e deformar a verdade?",
+      "anchors": [
+        "CEC 2467",
+        "B13",
+        "B01"
+      ],
+      "facilitator_note": "Mostre que opiniões existem, mas não têm direito de fabricar fatos.",
+      "reading_points": [
+        {
+          "title": "Interpretação abusiva",
+          "body": "A análise deixa de partir dos fatos e passa a moldá-los."
+        },
+        {
+          "title": "Busca da verdade",
+          "body": "Opinião honesta continua responsável diante da realidade."
+        },
+        {
+          "title": "Humildade racional",
+          "body": "A fé e a razão pedem que a pessoa corrija sua opinião quando a verdade exige."
+        }
+      ]
+    },
+    {
+      "id": "G09",
+      "term_id": "G09",
+      "call_label": "G09 - Tolerância e relativismo",
+      "case": "Num condomínio, moradores de convicções diferentes convivem bem, mas alguns exigem que ninguém afirme que algo seja moralmente errado.",
+      "conference_question": "Como conviver com respeito sem negar que exista verdade moral objetiva?",
+      "anchors": [
+        "B01",
+        "B04",
+        "CEC 2467"
+      ],
+      "facilitator_note": "Diferencie paciência social de renúncia à verdade.",
+      "reading_points": [
+        {
+          "title": "Convivência legítima",
+          "body": "Pessoas diferentes podem viver juntas com respeito e ordem."
+        },
+        {
+          "title": "Relativismo indevido",
+          "body": "Respeitar pessoas não exige negar o bem e o mal objetivos."
+        },
+        {
+          "title": "Verdade com caridade",
+          "body": "O cristão testemunha a verdade sem transformar o outro em inimigo."
+        }
+      ]
+    },
+    {
+      "id": "G10",
+      "term_id": "G10",
+      "call_label": "G10 - Privado e secreto culpável",
+      "case": "Um diretor diz que mensagens agressivas enviadas fora do expediente não interessam à empresa, embora usem cargo e ameaça.",
+      "conference_question": "Como distinguir intimidade legítima de segredo usado para esconder abuso ou injustiça?",
+      "anchors": [
+        "CEC 2469",
+        "B14",
+        "B10"
+      ],
+      "facilitator_note": "Evite invadir a vida privada; mostre quando o segredo protege o mal.",
+      "reading_points": [
+        {
+          "title": "Privado invocado",
+          "body": "A categoria de vida privada é usada para evitar responsabilidade."
+        },
+        {
+          "title": "Segredo culpável",
+          "body": "Quando há ameaça e abuso, esconder pode proteger injustiça."
+        },
+        {
+          "title": "Intimidade verdadeira",
+          "body": "A intimidade legítima deve ser respeitada, mas não serve de abrigo para o pecado."
+        }
+      ]
+    },
+    {
+      "id": "G11",
+      "term_id": "G11",
+      "call_label": "G11 - Cultura e Evangelho",
+      "case": "Uma festa popular tem música, memória e encontro familiar, mas também normaliza embriaguez e exploração do corpo.",
+      "conference_question": "Como discernir o que deve ser valorizado e o que precisa ser purificado numa cultura concreta?",
+      "anchors": [
+        "CEC 2527",
+        "B11",
+        "Rm 12,2"
+      ],
+      "facilitator_note": "Evite condenar tudo ou aprovar tudo; peça distinção real.",
+      "reading_points": [
+        {
+          "title": "Mistura cultural",
+          "body": "Há bens humanos legítimos junto de costumes moralmente feridos."
+        },
+        {
+          "title": "Evangelho como critério",
+          "body": "Cristo purifica e eleva a cultura, não apenas confirma seus hábitos."
+        },
+        {
+          "title": "Discernimento concreto",
+          "body": "O cristão valoriza o bem e recusa o que degrada a pessoa."
+        }
+      ]
+    },
+    {
+      "id": "G12",
+      "term_id": "G12",
+      "call_label": "G12 - Autoridade e abuso",
+      "case": "Um líder de equipe usa o discurso de lealdade para impedir funcionários de denunciar metas fraudulentas.",
+      "conference_question": "Que sinais distinguem autoridade legítima de manipulação da consciência?",
+      "anchors": [
+        "CEC 1783",
+        "B05",
+        "B09"
+      ],
+      "facilitator_note": "Mostre que obediência não é submissão ao mal.",
+      "reading_points": [
+        {
+          "title": "Lealdade manipulada",
+          "body": "A autoridade usa vínculo e medo para proteger fraude."
+        },
+        {
+          "title": "Finalidade da autoridade",
+          "body": "Autoridade legítima serve ao bem, à verdade e à justiça."
+        },
+        {
+          "title": "Consciência livre",
+          "body": "Ninguém deve entregar o juízo moral a quem pede cumplicidade com o erro."
+        }
+      ]
+    },
+    {
+      "id": "G13",
+      "term_id": "G13",
+      "call_label": "G13 - Misericórdia e banalização",
+      "case": "Após um desvio financeiro confessado, alguns dizem que basta perdoar e seguir, sem devolução, apuração ou mudança.",
+      "conference_question": "Como a misericórdia chama à conversão sem banalizar o pecado cometido?",
+      "anchors": [
+        "B12",
+        "B10",
+        "Jo 8,31-32"
+      ],
+      "facilitator_note": "Una perdão, verdade, reparação e conversão.",
+      "reading_points": [
+        {
+          "title": "Perdão incompleto",
+          "body": "A palavra perdão é usada para evitar consequência e reparação."
+        },
+        {
+          "title": "Pecado real",
+          "body": "Misericórdia não chama o mal de irrelevante."
+        },
+        {
+          "title": "Conversão exigida",
+          "body": "A verdade que liberta conduz a reconhecer, reparar e mudar."
+        }
+      ]
+    },
+    {
+      "id": "G14",
+      "term_id": "G14",
+      "call_label": "G14 - Informação e voyeurismo",
+      "case": "Depois de um acidente grave, canais exibem repetidamente imagens de sofrimento das vítimas para manter audiência.",
+      "conference_question": "Como distinguir informação necessária de exploração do sofrimento como espetáculo?",
+      "anchors": [
+        "CEC 2525",
+        "B07",
+        "B09"
+      ],
+      "facilitator_note": "Trate o respeito às vítimas como critério, não a curiosidade do público.",
+      "reading_points": [
+        {
+          "title": "Sofrimento consumido",
+          "body": "A tragédia vira repetição visual para prender atenção."
+        },
+        {
+          "title": "Informação justa",
+          "body": "Nem tudo que desperta curiosidade deve ser mostrado."
+        },
+        {
+          "title": "Olhar purificado",
+          "body": "A pureza cristã também recusa consumir dor, intimidade e morte como espetáculo."
+        }
+      ]
+    },
+    {
+      "id": "G15",
+      "term_id": "G15",
+      "call_label": "G15 - Autenticidade e virtude",
+      "case": "Um artista justifica agressões verbais dizendo que é autêntico e não finge ser educado para agradar ninguém.",
+      "conference_question": "Como ser verdadeiro sobre si mesmo sem usar autenticidade para recusar virtude e domínio da língua?",
+      "anchors": [
+        "B08",
+        "B03",
+        "CEC 1784"
+      ],
+      "facilitator_note": "Mostre que virtude não é máscara falsa, mas formação do caráter.",
+      "reading_points": [
+        {
+          "title": "Autenticidade deformada",
+          "body": "A franqueza vira desculpa para agressão."
+        },
+        {
+          "title": "Verdade de si",
+          "body": "Reconhecer o próprio temperamento não autoriza ferir os outros."
+        },
+        {
+          "title": "Virtude educada",
+          "body": "A consciência formada preserva do orgulho e ensina domínio de si."
+        }
+      ]
+    },
+    {
+      "id": "O01",
+      "term_id": "O01",
+      "call_label": "O01 - Examinar a consciência",
+      "case": "Após uma semana de escolhas confusas, uma pessoa separa dez minutos, revê conversas, gastos e conteúdos consumidos, e pergunta diante de Deus onde se desviou da verdade.",
+      "conference_question": "Por que o exame de consciência precisa descer a atos concretos, e não ficar em sentimento geral?",
+      "anchors": [
+        "CEC 1785",
+        "B03",
+        "Jo 8,31-32"
+      ],
+      "facilitator_note": "Mostre prática concreta: parar, rever, confrontar com a Palavra e assumir passo.",
+      "reading_points": [
+        {
+          "title": "Pausa diante de Deus",
+          "body": "A pessoa interrompe o automático para olhar a própria vida com verdade."
+        },
+        {
+          "title": "Atos concretos",
+          "body": "Consciência se examina em escolhas, palavras, omissões e hábitos reais."
+        },
+        {
+          "title": "Conversão possível",
+          "body": "A Palavra ilumina o que precisa ser reconhecido, corrigido e entregue a Deus."
+        }
+      ]
+    },
+    {
+      "id": "O02",
+      "term_id": "O02",
+      "call_label": "O02 - Permanecer na Palavra",
+      "case": "Uma família decide ler o Evangelho aos domingos à noite e escolher uma decisão concreta da semana para confrontar com a palavra de Jesus.",
+      "conference_question": "Como a permanência na Palavra forma critérios mais firmes que opiniões passageiras?",
+      "anchors": [
+        "Jo 8,31-32",
+        "B02",
+        "CEC 1785"
+      ],
+      "facilitator_note": "Destaque regularidade e obediência concreta, não só leitura ocasional.",
+      "reading_points": [
+        {
+          "title": "Ritmo estável",
+          "body": "A Palavra entra como prática constante, não como enfeite religioso."
+        },
+        {
+          "title": "Confronto concreto",
+          "body": "Decisões reais são colocadas diante de Cristo."
+        },
+        {
+          "title": "Verdade libertadora",
+          "body": "Permanecer na Palavra educa a consciência para escolher o bem."
+        }
+      ]
+    },
+    {
+      "id": "O03",
+      "term_id": "O03",
+      "call_label": "O03 - Nomear o erro",
+      "case": "Numa reunião, alguém propõe alterar um documento para esconder prejuízos, e uma participante diz com calma que aquilo é falsificação.",
+      "conference_question": "Como nomear o erro com firmeza sem transformar a fala em ataque pessoal?",
+      "anchors": [
+        "B08",
+        "G06",
+        "Mt 18,15"
+      ],
+      "facilitator_note": "Mostre que linguagem clara pode ser caridosa quando mira o ato e o bem comum.",
+      "reading_points": [
+        {
+          "title": "Palavra necessária",
+          "body": "A participante não suaviza a falsificação com termos vagos."
+        },
+        {
+          "title": "Firmeza sem insulto",
+          "body": "O erro é nomeado sem humilhar quem propôs."
+        },
+        {
+          "title": "Verdade prática",
+          "body": "A veracidade exige coragem concreta diante da mentira."
+        }
+      ]
+    },
+    {
+      "id": "O04",
+      "term_id": "O04",
+      "call_label": "O04 - Recusar circulação",
+      "case": "Alguém recebe um vídeo íntimo vazado, apaga o arquivo, avisa que não quer esse tipo de conteúdo e orienta a pessoa prejudicada a buscar ajuda.",
+      "conference_question": "Por que recusar o repasse já é uma resposta moral concreta diante de um dano digital?",
+      "anchors": [
+        "CEC 2525",
+        "B09",
+        "Tg 3,5-10"
+      ],
+      "facilitator_note": "Nomeie o repasse como cooperação com o dano, não como participação neutra.",
+      "reading_points": [
+        {
+          "title": "Corte da cadeia",
+          "body": "Apagar e não repassar diminui o alcance da violação."
+        },
+        {
+          "title": "Limite verbal",
+          "body": "Dizer que não aceita esse conteúdo educa o ambiente."
+        },
+        {
+          "title": "Proteção da vítima",
+          "body": "A resposta cristã une pureza, justiça e ajuda concreta."
+        }
+      ]
+    },
+    {
+      "id": "O05",
+      "term_id": "O05",
+      "call_label": "O05 - Guardar o olhar",
+      "case": "Durante uma série, uma pessoa percebe cenas feitas para erotizar violência, interrompe o episódio e troca por outro conteúdo.",
+      "conference_question": "Como guardar o olhar sem cair em ingenuidade ou em curiosidade desordenada?",
+      "anchors": [
+        "CEC 2525",
+        "B07",
+        "Mt 5,27-28"
+      ],
+      "facilitator_note": "Trate como ato simples e real de renúncia, não como gesto exagerado.",
+      "reading_points": [
+        {
+          "title": "Percepção moral",
+          "body": "A pessoa reconhece que o conteúdo está educando mal seu olhar."
+        },
+        {
+          "title": "Renúncia concreta",
+          "body": "Interromper é uma decisão prática contra a sedução do pecado."
+        },
+        {
+          "title": "Pureza ativa",
+          "body": "Guardar o olhar protege o coração e a dignidade das pessoas vistas."
+        }
+      ]
+    },
+    {
+      "id": "O06",
+      "term_id": "O06",
+      "call_label": "O06 - Pedir conselho",
+      "case": "Antes de aceitar uma proposta duvidosa, um trabalhador procura alguém maduro na fé, explica os fatos sem esconder detalhes e pede ajuda para discernir.",
+      "conference_question": "Por que pedir conselho exige honestidade sobre os fatos e humildade para ser corrigido?",
+      "anchors": [
+        "CEC 1785",
+        "B03",
+        "G02"
+      ],
+      "facilitator_note": "Mostre que conselho não é buscar quem confirme o que já se quer fazer.",
+      "reading_points": [
+        {
+          "title": "Confusão reconhecida",
+          "body": "A pessoa admite que não está julgando bem sozinha."
+        },
+        {
+          "title": "Fatos inteiros",
+          "body": "O conselho só ajuda quando a situação é apresentada com verdade."
+        },
+        {
+          "title": "Consciência assistida",
+          "body": "A formação moral inclui testemunho, conselhos e ensinamento da Igreja."
+        }
+      ]
+    },
+    {
+      "id": "O07",
+      "term_id": "O07",
+      "call_label": "O07 - Reparar a mentira",
+      "case": "Depois de espalhar uma informação falsa sobre uma vizinha, um homem volta ao grupo, corrige a notícia e pede desculpas diretamente a ela.",
+      "conference_question": "Por que a reparação da mentira precisa alcançar, na medida possível, o lugar onde o dano aconteceu?",
+      "anchors": [
+        "B08",
+        "B09",
+        "Ef 4,25"
+      ],
+      "facilitator_note": "Destaque que arrependimento sem reparação pode permanecer incompleto.",
+      "reading_points": [
+        {
+          "title": "Dano público",
+          "body": "A mentira atingiu a reputação da pessoa diante de outros."
+        },
+        {
+          "title": "Correção proporcional",
+          "body": "A verdade deve ser reposta onde a falsidade circulou."
+        },
+        {
+          "title": "Justiça da palavra",
+          "body": "Reparar devolve ao outro parte do que lhe foi tirado pela mentira."
+        }
+      ]
+    },
+    {
+      "id": "O08",
+      "term_id": "O08",
+      "call_label": "O08 - Limitar o consumo",
+      "case": "Uma pessoa percebe que acorda e dorme presa a vídeos curtos, então remove notificações, define horário de uso e escolhe conteúdo formativo.",
+      "conference_question": "Como limites concretos de consumo ajudam a formar a liberdade em vez de apenas restringi-la?",
+      "anchors": [
+        "CEC 2525",
+        "CEC 2526",
+        "Rm 12,2"
+      ],
+      "facilitator_note": "Fale de disciplina prática e clima social, não de rejeição total da tecnologia.",
+      "reading_points": [
+        {
+          "title": "Hábito reconhecido",
+          "body": "O uso deixou de ser ferramenta e passou a comandar atenção e desejo."
+        },
+        {
+          "title": "Limite educativo",
+          "body": "Horários e filtros ajudam a liberdade a recuperar governo de si."
+        },
+        {
+          "title": "Formação do clima",
+          "body": "Escolher conteúdo também purifica o ambiente que forma a consciência."
+        }
+      ]
+    },
+    {
+      "id": "O09",
+      "term_id": "O09",
+      "call_label": "O09 - Formar critérios",
+      "case": "Antes de comentar um tema moral polêmico, uma mulher lê o Catecismo, compara argumentos e conversa com alguém que conhece a doutrina.",
+      "conference_question": "Por que formar critérios é diferente de procurar frases para defender uma opinião já pronta?",
+      "anchors": [
+        "CEC 1783",
+        "CEC 1785",
+        "B13"
+      ],
+      "facilitator_note": "Valorize estudo e humildade diante do ensinamento da Igreja.",
+      "reading_points": [
+        {
+          "title": "Busca real",
+          "body": "A pessoa não fica só com impressão inicial ou manchete."
+        },
+        {
+          "title": "Critério formado",
+          "body": "A consciência aprende a julgar conforme o bem verdadeiro."
+        },
+        {
+          "title": "Fé e razão",
+          "body": "O estudo da doutrina ajuda a unir verdade revelada e julgamento prudente."
+        }
+      ]
+    },
+    {
+      "id": "O10",
+      "term_id": "O10",
+      "call_label": "O10 - Testemunhar sem atacar",
+      "case": "Num jantar, alguém ironiza a fé cristã, e uma pessoa responde com firmeza, explica sua convicção e não devolve a ofensa.",
+      "conference_question": "Como testemunhar a verdade sem cair em agressividade ou omissão?",
+      "anchors": [
+        "B10",
+        "G01",
+        "CEC 2470"
+      ],
+      "facilitator_note": "Mostre que mansidão não é fraqueza e firmeza não é ataque.",
+      "reading_points": [
+        {
+          "title": "Provocação recebida",
+          "body": "A fé é tratada com ironia diante de outros."
+        },
+        {
+          "title": "Resposta firme",
+          "body": "A pessoa não esconde sua convicção nem transforma o outro em inimigo."
+        },
+        {
+          "title": "Discípulo coerente",
+          "body": "Viver na verdade inclui falar com clareza e caridade."
+        }
+      ]
+    },
+    {
+      "id": "O11",
+      "term_id": "O11",
+      "call_label": "O11 - Romper ocasião de pecado",
+      "case": "Depois de várias quedas no mesmo site, uma pessoa instala bloqueio, entrega a senha a alguém confiável e muda sua rotina noturna.",
+      "conference_question": "Por que romper a ocasião de pecado é mais honesto do que apenas prometer que será forte da próxima vez?",
+      "anchors": [
+        "B12",
+        "G03",
+        "CEC 1733"
+      ],
+      "facilitator_note": "Trate ocasião de pecado como algo concreto: ambiente, hábito, horário e acesso.",
+      "reading_points": [
+        {
+          "title": "Padrão reconhecido",
+          "body": "A queda não acontece no vazio; há caminho repetido até ela."
+        },
+        {
+          "title": "Corte prático",
+          "body": "Bloqueio, prestação de contas e mudança de rotina reduzem a ocasião."
+        },
+        {
+          "title": "Liberdade recuperada",
+          "body": "A renúncia concreta ajuda a pessoa a escolher o bem com mais liberdade."
+        }
+      ]
+    },
+    {
+      "id": "O12",
+      "term_id": "O12",
+      "call_label": "O12 - Proteger o íntimo",
+      "case": "Ao perceber perguntas invasivas sobre a vida afetiva de uma conhecida, alguém muda o assunto e diz que aquilo não deve ser comentado sem ela.",
+      "conference_question": "Como proteger a intimidade alheia sem parecer conivente com erro ou segredo culpável?",
+      "anchors": [
+        "B14",
+        "G10",
+        "CEC 2525"
+      ],
+      "facilitator_note": "Mostre que proteger intimidade não impede denunciar abuso quando houver dano real.",
+      "reading_points": [
+        {
+          "title": "Curiosidade barrada",
+          "body": "A conversa queria entrar em assunto que não pertencia ao grupo."
+        },
+        {
+          "title": "Intimidade protegida",
+          "body": "A modéstia também guarda a vida do outro contra exposição indevida."
+        },
+        {
+          "title": "Discernimento necessário",
+          "body": "Proteger o íntimo não é encobrir mal grave, mas recusar fofoca e invasão."
+        }
+      ]
+    },
+    {
+      "id": "O13",
+      "term_id": "O13",
+      "call_label": "O13 - Corrigir com caridade",
+      "case": "Um irmão percebe que o outro está mentindo para conseguir dinheiro e o chama em particular para falar dos fatos e oferecer ajuda real.",
+      "conference_question": "Quais elementos tornam uma correção fraterna caridosa, e não controle ou humilhação?",
+      "anchors": [
+        "Mt 18,15",
+        "G06",
+        "B08"
+      ],
+      "facilitator_note": "Destaque tempo, lugar, fato, finalidade e ajuda concreta.",
+      "reading_points": [
+        {
+          "title": "Modo reservado",
+          "body": "A correção começa em particular, evitando exposição desnecessária."
+        },
+        {
+          "title": "Fatos nomeados",
+          "body": "A conversa trata do erro concreto sem atacar a dignidade da pessoa."
+        },
+        {
+          "title": "Bem desejado",
+          "body": "A caridade procura conversão e ajuda, não vitória sobre o outro."
+        }
+      ]
+    },
+    {
+      "id": "O14",
+      "term_id": "O14",
+      "call_label": "O14 - Assumir deveres",
+      "case": "Um comerciante reduz seu próprio lucro para pagar corretamente fornecedores pequenos que dependem daquele dinheiro.",
+      "conference_question": "Como assumir deveres concretos combate o individualismo sem anular a própria responsabilidade por si mesmo?",
+      "anchors": [
+        "B04",
+        "Gl 5,13",
+        "B06"
+      ],
+      "facilitator_note": "Mostre que liberdade cristã se expressa em justiça concreta.",
+      "reading_points": [
+        {
+          "title": "Custo assumido",
+          "body": "A decisão sacrifica vantagem pessoal para cumprir justiça."
+        },
+        {
+          "title": "Vínculo reconhecido",
+          "body": "O comerciante vê que suas escolhas atingem pessoas reais."
+        },
+        {
+          "title": "Liberdade servidora",
+          "body": "A liberdade amadurece quando se torna serviço e fidelidade ao bem."
+        }
+      ]
+    },
+    {
+      "id": "O15",
+      "term_id": "O15",
+      "call_label": "O15 - Buscar sacramentos",
+      "case": "Depois de reconhecer uma vida de mentira, uma pessoa procura a confissão, prepara-se com exame sério e decide reparar o que puder.",
+      "conference_question": "Como os sacramentos sustentam a conversão sem dispensar responsabilidade e reparação?",
+      "anchors": [
+        "Jo 20,22-23",
+        "B02",
+        "B10"
+      ],
+      "facilitator_note": "Una graça sacramental, verdade sobre o pecado e compromisso concreto de mudança.",
+      "reading_points": [
+        {
+          "title": "Pecado reconhecido",
+          "body": "A pessoa deixa de justificar a mentira e a leva diante de Deus."
+        },
+        {
+          "title": "Graça recebida",
+          "body": "A confissão não é teatro moral, mas encontro real com a misericórdia de Cristo."
+        },
+        {
+          "title": "Recomeço responsável",
+          "body": "A graça fortalece a decisão de reparar e viver na verdade."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "title": "Carta de explicações rápidas — Bingo Ofensas ao matrimônio",
+  "meeting": "Encontro 21 — Ofensas ao matrimônio",
+  "source_calls": "data/chamadas.json",
+  "purpose": "Explicações breves para o condutor usar durante a chamada de cada carta.",
+  "entries": [
+    {
+      "id": "B01",
+      "explanation": "O matrimônio não é só morar junto ou dividir tarefas. Cristo fala de **uma só carne**, uma comunhão real de vida. Por isso, ferir o vínculo matrimonial fere uma aliança assumida diante de Deus."
+    },
+    {
+      "id": "B02",
+      "explanation": "A **indissolubilidade** protege a promessa contra a lógica do descarte. O vínculo matrimonial válido não depende apenas do sentimento do momento. A fidelidade cristã permanece mesmo quando surgem dificuldades sérias."
+    },
+    {
+      "id": "B03",
+      "explanation": "O matrimônio sacramental é sinal da **Aliança** de Cristo com a Igreja. Não é enfeite religioso de uma decisão privada. Quando esse vínculo é desprezado, também se fere um sinal sagrado."
+    },
+    {
+      "id": "B04",
+      "explanation": "A **fidelidade conjugal** inclui corpo, coração, palavra e verdade. Traição não começa apenas no ato físico consumado. Segredos cultivados e vínculos paralelos já corroem a confiança prometida."
+    },
+    {
+      "id": "B05",
+      "explanation": "A **castidade matrimonial** não nega a vida conjugal. Ela ordena o desejo para a fidelidade e a dignidade do cônjuge. O olhar, a fantasia e o consumo sexual também precisam de conversão."
+    },
+    {
+      "id": "B06",
+      "explanation": "O amor matrimonial pede **doação definitiva**, não experiência provisória. Quem promete só enquanto for conveniente ainda não entendeu a entrega. O matrimônio cristão exige liberdade capaz de permanecer."
+    },
+    {
+      "id": "B07",
+      "explanation": "O cônjuge tem **direito** à fidelidade e à verdade prometidas. O adultério não é só falha privada; é injustiça contra alguém concreto. O compromisso livremente assumido cria deveres reais."
+    },
+    {
+      "id": "B08",
+      "explanation": "Os filhos não são espectadores neutros da crise dos adultos. O **bem dos filhos** exige estabilidade, cuidado e proteção contra manipulação. A fé lê o matrimônio também pelo dano ou cuidado dado aos pequenos."
+    },
+    {
+      "id": "B09",
+      "explanation": "O **adultério** é injustiça grave, mesmo quando fica escondido. Ele viola promessa, lesa o cônjuge e fere a família. Reconhecer a gravidade é necessário para conversão e reparação."
+    },
+    {
+      "id": "B10",
+      "explanation": "Jesus fala da **dureza do coração** para revelar a raiz de muitas rupturas. Orgulho, fechamento e recusa de conversão endurecem conflitos. A resposta cristã começa quando a pessoa deixa Deus quebrar essa rigidez."
+    },
+    {
+      "id": "B11",
+      "explanation": "O amor conjugal pede **forma pública** porque envolve corpo, futuro, direitos e família. Acordo privado não basta quando há vida comum e intimidade. O compromisso público protege a dignidade do amor humano."
+    },
+    {
+      "id": "B12",
+      "explanation": "A união sexual tem linguagem de **entrega total**. Por isso, a Igreja a reconhece como moralmente ordenada dentro do matrimônio. Fora dessa comunidade definitiva, a entrega do corpo não corresponde à promessa da vida."
+    },
+    {
+      "id": "B13",
+      "explanation": "A Igreja deve unir **verdade e misericórdia**. Não pode negar o ensinamento de Cristo, mas também não pode esmagar pessoas feridas. Acolher é acompanhar para a conversão possível, com clareza e paciência."
+    },
+    {
+      "id": "B14",
+      "explanation": "Há casos em que a **separação legítima** é necessária para proteger vida, filhos, direitos ou patrimônio. Isso não significa negar automaticamente o vínculo matrimonial. A doutrina não pode ser usada para prender vítimas em perigo."
+    },
+    {
+      "id": "B15",
+      "explanation": "Crianças e adolescentes confiados a adultos devem ser **guardados**, não explorados. O abuso é pecado gravíssimo e violação da responsabilidade educativa. Diante disso, silêncio e encobrimento não são prudência."
+    },
+    {
+      "id": "I01",
+      "explanation": "**Mensagens escondidas** podem parecer pequenas, mas revelam segredo e vínculo paralelo. O problema não é só o meio digital, mas a intenção e a ocultação. A fidelidade pede transparência e limites antes da queda."
+    },
+    {
+      "id": "I02",
+      "explanation": "O **encontro secreto** cria ocasião concreta de infidelidade. Quando há atração cultivada, mentira e ambiente ambíguo, a prudência exige corte. Não brincar com a ocasião é sinal de liberdade madura."
+    },
+    {
+      "id": "I03",
+      "explanation": "A **dupla vida afetiva** soma adultério, mentira e injustiça prolongada. A pessoa tenta conservar a aparência do casamento enquanto vive contra ele. Conversão real exige romper a estrutura de engano."
+    },
+    {
+      "id": "I04",
+      "explanation": "O **abandono injusto** fere deveres assumidos diante do cônjuge e dos filhos. Paixão ou cansaço não apagam responsabilidades familiares. A fé exige justiça concreta, não apenas explicação sentimental."
+    },
+    {
+      "id": "I05",
+      "explanation": "No **divórcio unilateral**, é essencial distinguir quem abandona de quem é abandonado. O Catecismo protege a vítima inocente de acusações genéricas. A verdade moral precisa caminhar com justiça."
+    },
+    {
+      "id": "I06",
+      "explanation": "A **nova união civil** não apaga por si o vínculo sacramental válido. O estado civil pode mudar, mas a consciência diante de Deus exige outro discernimento. A pessoa precisa buscar orientação séria na Igreja."
+    },
+    {
+      "id": "I07",
+      "explanation": "A **coabitação sem matrimônio** assume vida de casal sem a promessa pública correspondente. Mesmo com afeto sincero, falta a forma responsável da entrega. A Igreja defende a dignidade do amor contra a provisoriedade."
+    },
+    {
+      "id": "I08",
+      "explanation": "O **teste de convivência** trata a pessoa como experiência antes da doação. A promessa matrimonial não nasce de usar o outro para garantir desempenho. O amor verdadeiro exige conhecimento prudente e entrega definitiva."
+    },
+    {
+      "id": "I09",
+      "explanation": "As **relações prematuras** antecipam uma entrega que ainda não foi assumida publicamente. A intenção de casar não é o mesmo que já estar casado. A castidade protege a verdade do corpo e da promessa."
+    },
+    {
+      "id": "I10",
+      "explanation": "A **pornografia cultivada** fere o olhar e o vínculo conjugal. Ela treina o desejo para consumo, comparação e posse. A resposta precisa ser concreta: cortar acesso, buscar ajuda e reconstruir confiança."
+    },
+    {
+      "id": "I11",
+      "explanation": "Usar **filhos como arma** transforma crianças em instrumento de conflito adulto. Isso agrava a ferida familiar e confunde afetos. O bem dos filhos deve limitar palavras, recados e disputas."
+    },
+    {
+      "id": "I12",
+      "explanation": "O **patrimônio como chantagem** usa dinheiro para dominar o cônjuge. A fé não separa matrimônio de justiça concreta. Em certos casos, medidas civis são necessárias para proteger direitos legítimos."
+    },
+    {
+      "id": "I13",
+      "explanation": "A **violência dentro de casa** contradiz o amor conjugal. Nenhuma doutrina sobre matrimônio autoriza agressão ou ameaça. Quando há risco, buscar segurança pode ser dever moral."
+    },
+    {
+      "id": "I14",
+      "explanation": "O **abuso de menor** é pecado gravíssimo e crime. A vítima deve ser protegida, ouvida com responsabilidade e afastada do risco. A reputação de adultos nunca vale mais que a integridade de uma criança ou adolescente."
+    },
+    {
+      "id": "I15",
+      "explanation": "O **incesto encoberto** destrói confiança familiar e aprofunda a ferida da vítima. Silenciar para preservar o sobrenome é injustiça. A resposta cristã exige verdade, proteção e denúncia competente."
+    },
+    {
+      "id": "N01",
+      "explanation": "A desculpa do **caso sem peso** minimiza o adultério. A duração curta não apaga a injustiça contra o cônjuge e o vínculo. O primeiro passo da conversão é chamar o pecado pelo nome."
+    },
+    {
+      "id": "N02",
+      "explanation": "A narrativa do **desejo como lei** transforma impulso em critério moral. Sentir algo forte não autoriza quebrar promessa. A liberdade cristã aprende a ordenar o desejo à verdade do compromisso."
+    },
+    {
+      "id": "N03",
+      "explanation": "Dizer que **papel não importa** reduz o matrimônio a formalidade vazia. O compromisso público protege direitos, filhos e responsabilidade. A Igreja não despreza o afeto, mas exige forma verdadeira para a entrega."
+    },
+    {
+      "id": "N04",
+      "explanation": "A ideia de **testar para garantir** promete segurança, mas enfraquece a doação. O outro vira objeto de avaliação. O amor matrimonial não é experiência provisória, mas entrega definitiva."
+    },
+    {
+      "id": "N05",
+      "explanation": "A lógica de que o **privado basta** recusa a dimensão pública do amor conjugal. Quando há intimidade, futuro e deveres, a relação envolve mais que dois sentimentos. O compromisso verdadeiro assume forma responsável."
+    },
+    {
+      "id": "N06",
+      "explanation": "A **felicidade sem compromisso** usa uma palavra boa para justificar abandono. A verdadeira felicidade não passa por destruir promessas e deveres. Cristo chama ao amor que suporta a verdade e a justiça."
+    },
+    {
+      "id": "N07",
+      "explanation": "A frase **ninguém vai saber** confunde segredo com inocência. Deus vê a verdade, e o cônjuge tem direito à fidelidade. O segredo pode acrescentar mentira ao pecado."
+    },
+    {
+      "id": "N08",
+      "explanation": "Dizer que **filhos se adaptam** pode esconder descuido grave. Crianças podem sobreviver a crises, mas não devem carregar escolhas desordenadas dos adultos. O bem dos filhos exige estabilidade e proteção."
+    },
+    {
+      "id": "N09",
+      "explanation": "A **culpa do outro** é uma fuga da responsabilidade pessoal. Problemas reais no casamento não autorizam adultério. A conversão exige assumir a própria parte sem manipular a vítima."
+    },
+    {
+      "id": "N10",
+      "explanation": "A **lei civil absolve** é uma confusão entre registro legal e vínculo sacramental. O Estado regula efeitos civis, mas não dissolve por si o matrimônio válido diante de Deus. A consciência cristã precisa de discernimento eclesial."
+    },
+    {
+      "id": "N11",
+      "explanation": "Dizer que **separar é sempre pecado** pode prender vítimas em risco. A Igreja admite separação legítima em certos casos. Defender o matrimônio não significa abandonar alguém à violência."
+    },
+    {
+      "id": "N12",
+      "explanation": "A frase **acolher é aprovar** cria uma falsa oposição. A Igreja acolhe pessoas porque Cristo chama todos à salvação. Mas acolher não significa chamar de bom o que fere o matrimônio."
+    },
+    {
+      "id": "N13",
+      "explanation": "A narrativa **amor é posse** transforma cuidado em controle. Vigiar, isolar e dominar não são sinais de amor conjugal. O amor cristão busca o bem do outro na verdade e na liberdade."
+    },
+    {
+      "id": "N14",
+      "explanation": "A **omissão por paz** evita conflito, mas pode proteger o agressor. Paz verdadeira não é silêncio diante de abuso ou violência. A prudência cristã escolhe modo seguro de agir."
+    },
+    {
+      "id": "N15",
+      "explanation": "O **perdão sem mudança** usa a misericórdia contra a justiça. Perdoar não elimina limites, reparação e proteção. Sem conversão concreta, a ferida pode apenas se repetir."
+    },
+    {
+      "id": "G01",
+      "explanation": "Distinguir **pessoa e ato** é essencial. A pessoa conserva dignidade e deve ser acolhida. O ato errado, porém, precisa ser nomeado para que exista conversão verdadeira."
+    },
+    {
+      "id": "G02",
+      "explanation": "**Doutrina e acolhimento** não são inimigos. A doutrina mostra o bem que Cristo ensina. O acolhimento ajuda pessoas concretas a caminhar sem serem esmagadas."
+    },
+    {
+      "id": "G03",
+      "explanation": "A distinção entre **culpa e responsabilidade** evita julgamentos simplistas. A situação objetiva pode ser errada, mas a responsabilidade pessoal depende de liberdade, conhecimento e história. Isso não relativiza o mal; pede prudência pastoral."
+    },
+    {
+      "id": "G04",
+      "explanation": "**Desejo e consentimento** não são iguais. Sentir uma atração não é pecado do mesmo modo que cultivá-la, planejá-la ou obedecer a ela. A resposta cristã é ordenar o desejo com liberdade e limites."
+    },
+    {
+      "id": "G05",
+      "explanation": "**Separação e divórcio** precisam ser distinguidos. Separar-se pode ser necessário para proteção, mantendo o vínculo. Pretender romper o vínculo como se Deus não tivesse unido é outra realidade moral."
+    },
+    {
+      "id": "G06",
+      "explanation": "**Vínculo e estado civil** pertencem a planos diferentes. O registro civil produz efeitos legais importantes. O vínculo sacramental válido, porém, não se dissolve por simples decisão humana."
+    },
+    {
+      "id": "G07",
+      "explanation": "Distinguir **inocente e causador** é questão de justiça. Quem foi abandonado não deve carregar a mesma culpa de quem destruiu o matrimônio. Acolher todos não significa apagar responsabilidades."
+    },
+    {
+      "id": "G08",
+      "explanation": "**Queda e projeto** não têm o mesmo peso moral. Uma queda arrependida pede conversão e reparação. Transformar a contradição em estilo de vida exige outro discernimento."
+    },
+    {
+      "id": "G09",
+      "explanation": "**Perdão e convivência** não são a mesma coisa. Perdoar pode ser cristão e necessário. Retomar a convivência sem segurança, mudança e limites pode ser imprudente."
+    },
+    {
+      "id": "G10",
+      "explanation": "**Sigilo e encobrimento** precisam ser separados. Discrição familiar não pode esconder abuso ou crime. Quando há vulnerável em risco, proteger e denunciar é dever grave."
+    },
+    {
+      "id": "G11",
+      "explanation": "**Acolhida e aprovação** não são sinônimos. A Igreja chama todos para perto de Cristo. Esse chamado não obriga a chamar de correto o que contradiz a palavra de Cristo."
+    },
+    {
+      "id": "G12",
+      "explanation": "**Nulidade e divórcio** não são a mesma coisa. A nulidade reconhece que faltou algo essencial desde o início. Ela não desfaz por conveniência um matrimônio válido."
+    },
+    {
+      "id": "G13",
+      "explanation": "Distinguir **amor e posse** protege a dignidade do cônjuge. Amor busca o bem do outro. Posse controla o outro para aliviar medo, ciúme ou desejo de domínio."
+    },
+    {
+      "id": "G14",
+      "explanation": "**Prudência e medo** podem parecer iguais por fora. A prudência encontra o modo correto e seguro de agir. O medo apenas adia a resposta quando a justiça já pede ação."
+    },
+    {
+      "id": "G15",
+      "explanation": "**Verdade e humilhação** precisam ser distinguidas. Dizer a verdade sobre o pecado não autoriza expor ou ridicularizar a pessoa. A correção cristã busca conversão, proteção e reparação."
+    },
+    {
+      "id": "O01",
+      "explanation": "**Dizer a verdade** é passo de conversão. A verdade deve ser dita sem insulto, justificativa ou chantagem. Ela abre caminho para limites, reparação e ajuda concreta."
+    },
+    {
+      "id": "O02",
+      "explanation": "**Cortar a ocasião** é decisão prática de fidelidade. Quem sabe que uma situação alimenta a queda não deve brincar com ela. Renunciar a encontros, chats e ambientes perigosos é ato de liberdade."
+    },
+    {
+      "id": "O03",
+      "explanation": "**Procurar ajuda espiritual** evita isolamento e autoengano. Uma crise matrimonial precisa ser discernida com verdade, oração e orientação madura. Quando necessário, essa ajuda deve caminhar com apoio psicológico, jurídico ou de segurança."
+    },
+    {
+      "id": "O04",
+      "explanation": "**Confessar o pecado** não é formalidade religiosa. É reconhecer o mal diante de Deus e aceitar a graça para mudar. A confissão verdadeira exige arrependimento e propósito concreto."
+    },
+    {
+      "id": "O05",
+      "explanation": "**Reparar o dano** é exigência de justiça. Quem feriu o vínculo não pode pedir apenas esquecimento. A reparação inclui verdade, mudança verificável, consequências proporcionais e reconstrução possível."
+    },
+    {
+      "id": "O06",
+      "explanation": "A **conversa de fidelidade** ajuda a proteger o vínculo antes da queda. Ela deve tratar de limites, feridas e tentações com clareza. Não é interrogatório possessivo, mas diálogo responsável."
+    },
+    {
+      "id": "O07",
+      "explanation": "**Proteger os filhos** exige decisões concretas. Eles não devem carregar recados, chantagens ou disputas dos adultos. Mesmo em crise, os pais continuam responsáveis pelo bem dos pequenos."
+    },
+    {
+      "id": "O08",
+      "explanation": "**Denunciar abuso** é parte da proteção de vulneráveis. Não basta rezar, conversar ou tentar resolver em família. A caridade cristã exige afastar o risco e acionar autoridades competentes."
+    },
+    {
+      "id": "O09",
+      "explanation": "**Buscar segurança** pode ser obrigação moral. A vítima de violência não precisa provar fé permanecendo em perigo. Apoio confiável, medidas legais e orientação pastoral podem ser necessários."
+    },
+    {
+      "id": "O10",
+      "explanation": "**Regularizar direitos** pode ser medida legítima. Guarda, pensão, moradia e patrimônio precisam de proteção objetiva. Isso deve ser feito por justiça, não por vingança."
+    },
+    {
+      "id": "O11",
+      "explanation": "**Verificar nulidade** exige caminho sério na Igreja. A pessoa não declara sozinha que o casamento foi nulo. O discernimento busca a verdade sobre a validade do vínculo desde o início."
+    },
+    {
+      "id": "O12",
+      "explanation": "**Acompanhar irregulares** é expressão da misericórdia da Igreja. Pessoas em situação difícil não deixam de ser chamadas à fé. O acompanhamento une Missa, oração, orientação, formação dos filhos e verdade doutrinal."
+    },
+    {
+      "id": "O13",
+      "explanation": "**Educar para compromisso** prepara a liberdade antes do matrimônio. Não basta falar de festa, medo ou aparência. É preciso formar castidade, responsabilidade, promessa e respeito pela dignidade do outro."
+    },
+    {
+      "id": "O14",
+      "explanation": "**Retomar limites digitais** torna a conversão verificável. Se o pecado entrou por aplicativos, imagens e perfis secretos, os limites precisam alcançar esses meios. A fidelidade também se protege no uso concreto da tecnologia."
+    },
+    {
+      "id": "O15",
+      "explanation": "**Rezar e decidir** mantém unidas graça e responsabilidade. A oração não substitui conversão, limites e reparação. Quem reza de verdade deve aceitar passos concretos de fidelidade."
+    }
+  ]
+}

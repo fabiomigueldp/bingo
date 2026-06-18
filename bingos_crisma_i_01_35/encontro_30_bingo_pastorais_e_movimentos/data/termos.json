@@ -1,0 +1,1201 @@
+{
+  "title": "Bingo — Pastorais e movimentos",
+  "meeting": "Encontro 30 — Pastorais e movimentos",
+  "meeting_label": "Encontro 30",
+  "output_slug": "bingo_pastorais_e_movimentos",
+  "core_message": "O Espírito Santo distribui dons diversos para que cada fiel sirva ao bem comum, edifique a Igreja em unidade e participe concretamente da missão de Cristo.",
+  "source_meeting_markdown": "projects/catequese/material_didatico/output/markdown/encontro_30.md",
+  "scripture": [
+    "1Cor 12,4-7",
+    "1Cor 12,12-27",
+    "1Cor 13,1-7",
+    "Rm 12,4-8",
+    "Ef 4,11-16",
+    "1Pd 4,10-11",
+    "Mc 10,42-45",
+    "Jo 13,14-15",
+    "Gl 5,13",
+    "At 2,42-47",
+    "Mt 25,35-40",
+    "1Cor 14,33.40",
+    "Mt 18,15-17",
+    "Fl 2,3-4"
+  ],
+  "catechism": [
+    "CEC 791",
+    "CEC 897-900",
+    "CEC 901",
+    "CEC 951",
+    "CEC 953",
+    "CEC 1905-1906",
+    "CEC 1937",
+    "CEC 2003"
+  ],
+  "card_model": {
+    "total_terms": 75,
+    "columns": 5,
+    "terms_per_column": 15,
+    "grid": "5x5",
+    "center": {
+      "label": "LIVRE / 1Cor 12,4-7",
+      "fixed": true,
+      "called": false
+    },
+    "recommended_win_condition": "duas_linhas"
+  },
+  "columns": [
+    {
+      "key": "B",
+      "title": "Base moral",
+      "function": "Fundamentos bíblicos e doutrinais para ler o tema.",
+      "short_function": "fundamento cristão do tema"
+    },
+    {
+      "key": "I",
+      "title": "Situações concretas",
+      "function": "Formas reais em que o tema aparece na vida concreta, em situações inteligíveis para a turma.",
+      "short_function": "situações concretas do tema"
+    },
+    {
+      "key": "N",
+      "title": "Narrativas falsas",
+      "function": "Desculpas, autoenganos e frases que desviam do bem.",
+      "short_function": "desculpas que normalizam o erro"
+    },
+    {
+      "key": "G",
+      "title": "Discernimentos",
+      "function": "Distinções morais que evitam respostas simplistas.",
+      "short_function": "distinções para discernir"
+    },
+    {
+      "key": "O",
+      "title": "Orientações de resposta",
+      "function": "Ações concretas, prudentes e proporcionais diante do problema.",
+      "short_function": "respostas proporcionais e prudentes"
+    }
+  ],
+  "terms": [
+    {
+      "id": "B01",
+      "column": "B",
+      "label": "Diversidade de dons",
+      "definition": "O Espírito Santo distribui dons diferentes entre os fiéis, não para competição, mas para que a Igreja seja edificada por serviços variados e complementares.",
+      "anchors": [
+        "1Cor 12,4-7",
+        "CEC 951",
+        "CEC 2003"
+      ],
+      "tags": [
+        "carismas",
+        "unidade"
+      ]
+    },
+    {
+      "id": "B02",
+      "column": "B",
+      "label": "Um só Espírito",
+      "definition": "A pluralidade de pastorais e movimentos só é cristã quando permanece unida na mesma fé, na mesma caridade e na obediência ao Senhor.",
+      "anchors": [
+        "1Cor 12,4-6",
+        "Ef 4,4-6",
+        "CEC 791"
+      ],
+      "tags": [
+        "unidade",
+        "discernimento"
+      ]
+    },
+    {
+      "id": "B03",
+      "column": "B",
+      "label": "Proveito comum",
+      "definition": "Todo dom recebido deve servir ao bem da Igreja e dos irmãos, superando o uso egoísta, vaidoso ou fechado em interesses de grupo.",
+      "anchors": [
+        "1Cor 12,7",
+        "CEC 951",
+        "CEC 2003"
+      ],
+      "tags": [
+        "bem comum",
+        "serviço"
+      ]
+    },
+    {
+      "id": "B04",
+      "column": "B",
+      "label": "Corpo de Cristo",
+      "definition": "A Igreja é um corpo com muitos membros; nenhum serviço existe isolado, e nenhum membro pode desprezar outro sem ferir a comunhão.",
+      "anchors": [
+        "1Cor 12,12-27",
+        "CEC 791"
+      ],
+      "tags": [
+        "Igreja",
+        "comunhão"
+      ]
+    },
+    {
+      "id": "B05",
+      "column": "B",
+      "label": "Carisma e caridade",
+      "definition": "O carisma autêntico se ordena à caridade; quando falta amor concreto, o dom se deforma em vaidade, poder ou ruído religioso.",
+      "anchors": [
+        "1Cor 13,1-7",
+        "CEC 2003"
+      ],
+      "tags": [
+        "caridade",
+        "carismas"
+      ]
+    },
+    {
+      "id": "B06",
+      "column": "B",
+      "label": "Vocação ao serviço",
+      "definition": "Todo batizado é chamado a colaborar na missão da Igreja, não como espectador religioso, mas como discípulo que serve conforme seus dons.",
+      "anchors": [
+        "1Pd 4,10-11",
+        "Gl 5,13",
+        "CEC 897-900"
+      ],
+      "tags": [
+        "vocação",
+        "missão"
+      ]
+    },
+    {
+      "id": "B07",
+      "column": "B",
+      "label": "Humildade do dom",
+      "definition": "O dom recebido não torna alguém superior; ele aumenta a responsabilidade de servir sem se apropriar da obra de Deus.",
+      "anchors": [
+        "Mc 10,42-45",
+        "Fl 2,3-4",
+        "CEC 2003"
+      ],
+      "tags": [
+        "humildade",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "B08",
+      "column": "B",
+      "label": "Comunhão e missão",
+      "definition": "A comunhão eclesial não é fechamento interno: ela fortalece a Igreja para evangelizar, servir os pobres e testemunhar Cristo no mundo.",
+      "anchors": [
+        "At 2,42-47",
+        "Mt 28,19-20",
+        "CEC 849"
+      ],
+      "tags": [
+        "comunhão",
+        "missão"
+      ]
+    },
+    {
+      "id": "B09",
+      "column": "B",
+      "label": "Bem da Igreja",
+      "definition": "Pastorais e movimentos existem para edificar a Igreja inteira, não para proteger prestígio próprio, território interno ou preferência de alguns.",
+      "anchors": [
+        "Ef 4,11-16",
+        "1Cor 12,7",
+        "CEC 2003"
+      ],
+      "tags": [
+        "Igreja",
+        "bem comum"
+      ]
+    },
+    {
+      "id": "B10",
+      "column": "B",
+      "label": "Graça que capacita",
+      "definition": "A graça não é só consolo interior; ela também capacita o fiel a colaborar com Deus na salvação dos outros e no crescimento da Igreja.",
+      "anchors": [
+        "CEC 2003",
+        "2Cor 12,9",
+        "1Pd 4,10"
+      ],
+      "tags": [
+        "graça",
+        "cooperação"
+      ]
+    },
+    {
+      "id": "B11",
+      "column": "B",
+      "label": "Ordem na comunhão",
+      "definition": "A ação do Espírito não justifica confusão, rivalidade ou improvisação irresponsável; a vida comunitária precisa de ordem, paz e edificação.",
+      "anchors": [
+        "1Cor 14,33.40",
+        "1Cor 12,7"
+      ],
+      "tags": [
+        "ordem",
+        "comunhão"
+      ]
+    },
+    {
+      "id": "B12",
+      "column": "B",
+      "label": "Serviço dos leigos",
+      "definition": "Os leigos participam da missão da Igreja no mundo e na comunidade, oferecendo tempo, competência e testemunho conforme a própria condição.",
+      "anchors": [
+        "CEC 897-900",
+        "CEC 901",
+        "Rm 12,4-8"
+      ],
+      "tags": [
+        "leigos",
+        "missão"
+      ]
+    },
+    {
+      "id": "B13",
+      "column": "B",
+      "label": "Unidade sem uniformidade",
+      "definition": "A unidade cristã não exige que todos façam a mesma coisa, mas que todos sirvam ao mesmo Senhor na mesma fé e caridade.",
+      "anchors": [
+        "1Cor 12,4-6",
+        "Ef 4,11-16",
+        "B02"
+      ],
+      "tags": [
+        "unidade",
+        "diversidade"
+      ]
+    },
+    {
+      "id": "B14",
+      "column": "B",
+      "label": "Dignidade do pequeno",
+      "definition": "O serviço pastoral deve reconhecer Cristo nos pequenos, pobres, doentes, esquecidos e frágeis, sem transformar pessoas em números ou vitrines.",
+      "anchors": [
+        "Mt 25,35-40",
+        "Tg 2,14-17",
+        "CEC 953"
+      ],
+      "tags": [
+        "pobres",
+        "caridade"
+      ]
+    },
+    {
+      "id": "B15",
+      "column": "B",
+      "label": "Fidelidade eclesial",
+      "definition": "Todo movimento, pastoral e iniciativa deve permanecer em comunhão com a fé católica, a vida sacramental e a autoridade legítima da Igreja.",
+      "anchors": [
+        "At 2,42",
+        "Ef 4,11-16",
+        "CEC 2030"
+      ],
+      "tags": [
+        "fidelidade",
+        "Igreja"
+      ]
+    },
+    {
+      "id": "I01",
+      "column": "I",
+      "label": "Pastoral isolada",
+      "definition": "Situação em que um serviço da comunidade age como se não precisasse dialogar com os demais, criando sobreposição, disputa ou desgaste.",
+      "anchors": [
+        "1Cor 12,12-27",
+        "B04",
+        "B11"
+      ],
+      "tags": [
+        "coordenação",
+        "comunhão"
+      ]
+    },
+    {
+      "id": "I02",
+      "column": "I",
+      "label": "Movimento fechado",
+      "definition": "Situação em que um grupo com espiritualidade própria passa a tratar sua experiência como único caminho sério de fé.",
+      "anchors": [
+        "1Cor 12,4-7",
+        "B13",
+        "B15"
+      ],
+      "tags": [
+        "movimentos",
+        "unidade"
+      ]
+    },
+    {
+      "id": "I03",
+      "column": "I",
+      "label": "Escala sem gente",
+      "definition": "Situação em que poucos assumem quase todos os serviços porque a comunidade não forma novos servidores nem distribui responsabilidades.",
+      "anchors": [
+        "Rm 12,4-8",
+        "B06",
+        "O05"
+      ],
+      "tags": [
+        "responsabilidade",
+        "formação"
+      ]
+    },
+    {
+      "id": "I04",
+      "column": "I",
+      "label": "Talento desperdiçado",
+      "definition": "Situação em que alguém reconhece uma capacidade real para servir, mas a enterra por medo, comodismo, vergonha ou falta de compromisso.",
+      "anchors": [
+        "1Pd 4,10",
+        "Mt 25,14-30",
+        "B10"
+      ],
+      "tags": [
+        "dons",
+        "omissão"
+      ]
+    },
+    {
+      "id": "I05",
+      "column": "I",
+      "label": "Protagonismo vaidoso",
+      "definition": "Situação em que o serviço vira palco de autopromoção, competição por atenção ou controle de decisões que deveriam servir ao bem comum.",
+      "anchors": [
+        "Mc 10,42-45",
+        "B07",
+        "N01"
+      ],
+      "tags": [
+        "vaidade",
+        "poder"
+      ]
+    },
+    {
+      "id": "I06",
+      "column": "I",
+      "label": "Caridade sem rosto",
+      "definition": "Situação em que uma ação social ajuda materialmente, mas trata os necessitados como massa anônima, sem escuta, respeito e vínculo humano.",
+      "anchors": [
+        "Mt 25,35-40",
+        "Tg 2,14-17",
+        "B14"
+      ],
+      "tags": [
+        "caridade",
+        "dignidade"
+      ]
+    },
+    {
+      "id": "I07",
+      "column": "I",
+      "label": "Liturgia improvisada",
+      "definition": "Situação em que a celebração é tratada como espaço de gosto pessoal, pressa ou espetáculo, sem cuidado com a fé da Igreja.",
+      "anchors": [
+        "1Cor 14,33.40",
+        "B11",
+        "B15"
+      ],
+      "tags": [
+        "liturgia",
+        "ordem"
+      ]
+    },
+    {
+      "id": "I08",
+      "column": "I",
+      "label": "Dízimo manipulado",
+      "definition": "Situação em que a contribuição dos fiéis é cobrada com pressão, culpa ou promessa de vantagem, ferindo liberdade e confiança.",
+      "anchors": [
+        "2Cor 9,7",
+        "B03",
+        "G11"
+      ],
+      "tags": [
+        "dinheiro",
+        "liberdade"
+      ]
+    },
+    {
+      "id": "I09",
+      "column": "I",
+      "label": "Saúde pastoral",
+      "definition": "Situação em que doentes e idosos recebem visitas apressadas, sem preparação espiritual, sigilo e respeito pela fragilidade.",
+      "anchors": [
+        "Mt 25,36",
+        "Tg 5,14",
+        "B14"
+      ],
+      "tags": [
+        "doença",
+        "cuidado"
+      ]
+    },
+    {
+      "id": "I10",
+      "column": "I",
+      "label": "Juventude descartada",
+      "definition": "Situação em que jovens são chamados apenas para tarefas menores ou aparência pública, sem escuta, formação e responsabilidade real.",
+      "anchors": [
+        "1Tm 4,12",
+        "B06",
+        "CEC 897-900"
+      ],
+      "tags": [
+        "juventude",
+        "participação"
+      ]
+    },
+    {
+      "id": "I11",
+      "column": "I",
+      "label": "Conflito de agendas",
+      "definition": "Situação em que pastorais e movimentos marcam atividades simultâneas sem diálogo, enfraquecendo a participação e cansando os mesmos servidores.",
+      "anchors": [
+        "1Cor 14,40",
+        "B11",
+        "O04"
+      ],
+      "tags": [
+        "agenda",
+        "coordenação"
+      ]
+    },
+    {
+      "id": "I12",
+      "column": "I",
+      "label": "Formação rasa",
+      "definition": "Situação em que alguém assume serviço eclesial sem estudar a fé, sem conhecer sua tarefa e sem aceitar correção.",
+      "anchors": [
+        "Ef 4,11-16",
+        "B09",
+        "O03"
+      ],
+      "tags": [
+        "formação",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "I13",
+      "column": "I",
+      "label": "Serviço invisível",
+      "definition": "Situação em que tarefas humildes e necessárias são desprezadas porque não aparecem, embora sustentem a vida concreta da comunidade.",
+      "anchors": [
+        "1Cor 12,22-24",
+        "B04",
+        "B07"
+      ],
+      "tags": [
+        "humildade",
+        "serviço"
+      ]
+    },
+    {
+      "id": "I14",
+      "column": "I",
+      "label": "Acolhida seletiva",
+      "definition": "Situação em que a comunidade recebe bem quem já parece integrado, mas constrange pobres, afastados, feridos ou pessoas sem prestígio.",
+      "anchors": [
+        "Tg 2,1-9",
+        "B14",
+        "O06"
+      ],
+      "tags": [
+        "acolhida",
+        "justiça"
+      ]
+    },
+    {
+      "id": "I15",
+      "column": "I",
+      "label": "Missão esquecida",
+      "definition": "Situação em que grupos internos gastam energia apenas em manutenção própria e deixam de evangelizar, servir e alcançar quem está fora.",
+      "anchors": [
+        "Mt 28,19-20",
+        "At 2,47",
+        "B08"
+      ],
+      "tags": [
+        "missão",
+        "fechamento"
+      ]
+    },
+    {
+      "id": "N01",
+      "column": "N",
+      "label": "Dom como palco",
+      "definition": "Engano de tratar um dom espiritual ou capacidade de serviço como meio de aparecer, ser admirado ou mandar nos outros.",
+      "anchors": [
+        "Mc 10,42-45",
+        "B07",
+        "I05"
+      ],
+      "tags": [
+        "vaidade",
+        "autoengano"
+      ]
+    },
+    {
+      "id": "N02",
+      "column": "N",
+      "label": "Meu grupo basta",
+      "definition": "Engano de achar que a própria pastoral ou movimento contém toda a vida da Igreja e dispensa a comunhão com os demais.",
+      "anchors": [
+        "1Cor 12,12-27",
+        "B04",
+        "B13"
+      ],
+      "tags": [
+        "fechamento",
+        "comunhão"
+      ]
+    },
+    {
+      "id": "N03",
+      "column": "N",
+      "label": "Sempre foi assim",
+      "definition": "Desculpa que usa o costume para impedir conversão, correção, formação ou adaptação necessária ao bem da missão.",
+      "anchors": [
+        "Ef 4,15-16",
+        "B09",
+        "G09"
+      ],
+      "tags": [
+        "comodismo",
+        "tradição"
+      ]
+    },
+    {
+      "id": "N04",
+      "column": "N",
+      "label": "Ninguém precisa de mim",
+      "definition": "Autoengano que transforma medo ou comodismo em falsa humildade, como se a própria omissão não afetasse o corpo da Igreja.",
+      "anchors": [
+        "1Cor 12,21",
+        "1Pd 4,10",
+        "B06"
+      ],
+      "tags": [
+        "omissão",
+        "dons"
+      ]
+    },
+    {
+      "id": "N05",
+      "column": "N",
+      "label": "Só os adultos servem",
+      "definition": "Narrativa que adia o compromisso cristão dos jovens e trata a juventude como espera passiva, não como tempo real de resposta ao Espírito.",
+      "anchors": [
+        "1Tm 4,12",
+        "B06",
+        "I10"
+      ],
+      "tags": [
+        "juventude",
+        "vocação"
+      ]
+    },
+    {
+      "id": "N06",
+      "column": "N",
+      "label": "Servir é ocupar agenda",
+      "definition": "Engano de medir o serviço apenas por quantidade de tarefas, sem discernir fidelidade, caridade, competência e saúde espiritual.",
+      "anchors": [
+        "Lc 10,38-42",
+        "B05",
+        "G12"
+      ],
+      "tags": [
+        "ativismo",
+        "discernimento"
+      ]
+    },
+    {
+      "id": "N07",
+      "column": "N",
+      "label": "Carisma sem Igreja",
+      "definition": "Erro de invocar o Espírito para agir sem comunhão, sem doutrina, sem sacramentos e sem responsabilidade diante da Igreja.",
+      "anchors": [
+        "At 2,42",
+        "B02",
+        "B15"
+      ],
+      "tags": [
+        "carismas",
+        "fidelidade"
+      ]
+    },
+    {
+      "id": "N08",
+      "column": "N",
+      "label": "Crítica sem conversão",
+      "definition": "Desvio de apontar falhas reais da comunidade apenas para se colocar acima dela, sem assumir serviço, correção justa ou compromisso.",
+      "anchors": [
+        "Mt 7,3-5",
+        "Mt 18,15-17",
+        "O10"
+      ],
+      "tags": [
+        "crítica",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "N09",
+      "column": "N",
+      "label": "O padre resolve tudo",
+      "definition": "Narrativa que transfere toda responsabilidade eclesial ao sacerdote, apagando a missão dos leigos e a corresponsabilidade batismal.",
+      "anchors": [
+        "CEC 897-900",
+        "B12",
+        "B06"
+      ],
+      "tags": [
+        "leigos",
+        "corresponsabilidade"
+      ]
+    },
+    {
+      "id": "N10",
+      "column": "N",
+      "label": "Movimento perfeito",
+      "definition": "Autoengano de negar limites, pecados e necessidade de correção dentro do próprio grupo por apego afetivo ou orgulho institucional.",
+      "anchors": [
+        "1Jo 1,8-9",
+        "B15",
+        "G05"
+      ],
+      "tags": [
+        "orgulho",
+        "correção"
+      ]
+    },
+    {
+      "id": "N11",
+      "column": "N",
+      "label": "Só emoção confirma",
+      "definition": "Engano de medir a ação do Espírito apenas por intensidade emocional, desprezando frutos de caridade, verdade, perseverança e comunhão.",
+      "anchors": [
+        "Gl 5,22-23",
+        "1Cor 12,7",
+        "G07"
+      ],
+      "tags": [
+        "emoção",
+        "discernimento"
+      ]
+    },
+    {
+      "id": "N12",
+      "column": "N",
+      "label": "Sem aplauso, sem valor",
+      "definition": "Mentira que desvaloriza serviços ocultos e fiéis, como se o que não aparece não edificasse a Igreja.",
+      "anchors": [
+        "1Cor 12,22-24",
+        "Mt 6,1-4",
+        "I13"
+      ],
+      "tags": [
+        "reconhecimento",
+        "humildade"
+      ]
+    },
+    {
+      "id": "N13",
+      "column": "N",
+      "label": "Unidade é concordar",
+      "definition": "Erro de confundir unidade com ausência de diferenças, de perguntas ou de correções legítimas dentro da comunhão.",
+      "anchors": [
+        "1Cor 12,4-7",
+        "B13",
+        "G03"
+      ],
+      "tags": [
+        "unidade",
+        "diferença"
+      ]
+    },
+    {
+      "id": "N14",
+      "column": "N",
+      "label": "Obediência cega",
+      "definition": "Deformação que usa a palavra obediência para impedir perguntas honestas, denúncia de abusos, prudência e responsabilidade moral.",
+      "anchors": [
+        "At 5,29",
+        "Mt 18,15-17",
+        "G10"
+      ],
+      "tags": [
+        "autoridade",
+        "abuso"
+      ]
+    },
+    {
+      "id": "N15",
+      "column": "N",
+      "label": "Missão sem formação",
+      "definition": "Ilusão de que boa vontade basta para qualquer serviço, mesmo quando há necessidade de fé sólida, prudência, técnica e acompanhamento.",
+      "anchors": [
+        "Ef 4,11-16",
+        "B09",
+        "I12"
+      ],
+      "tags": [
+        "formação",
+        "missão"
+      ]
+    },
+    {
+      "id": "G01",
+      "column": "G",
+      "label": "Dom ou posse",
+      "definition": "Distinção entre receber um dom para servir e tratar esse dom como propriedade privada, direito de mando ou motivo de superioridade.",
+      "anchors": [
+        "1Pd 4,10",
+        "B03",
+        "B07"
+      ],
+      "tags": [
+        "carismas",
+        "humildade"
+      ]
+    },
+    {
+      "id": "G02",
+      "column": "G",
+      "label": "Pastoral ou movimento",
+      "definition": "Distinção entre serviços organizados da paróquia, voltados a necessidades específicas, e movimentos com carisma ou espiritualidade própria em comunhão com a Igreja.",
+      "anchors": [
+        "1Cor 12,4-7",
+        "B15"
+      ],
+      "tags": [
+        "pastorais",
+        "movimentos"
+      ]
+    },
+    {
+      "id": "G03",
+      "column": "G",
+      "label": "Unidade ou uniformidade",
+      "definition": "Distinção entre comunhão na mesma fé e tentativa de apagar carismas, estilos legítimos e serviços diferentes.",
+      "anchors": [
+        "1Cor 12,4-6",
+        "B13",
+        "N13"
+      ],
+      "tags": [
+        "unidade",
+        "diversidade"
+      ]
+    },
+    {
+      "id": "G04",
+      "column": "G",
+      "label": "Serviço ou ativismo",
+      "definition": "Distinção entre servir com caridade, discernimento e perseverança e acumular tarefas sem oração, limite, competência ou fruto real.",
+      "anchors": [
+        "Lc 10,38-42",
+        "B05",
+        "N06"
+      ],
+      "tags": [
+        "serviço",
+        "ativismo"
+      ]
+    },
+    {
+      "id": "G05",
+      "column": "G",
+      "label": "Fidelidade ou fechamento",
+      "definition": "Distinção entre amar a própria comunidade e transformá-la em círculo fechado, imune a correção e indiferente à Igreja inteira.",
+      "anchors": [
+        "At 2,42",
+        "B15",
+        "N10"
+      ],
+      "tags": [
+        "fidelidade",
+        "fechamento"
+      ]
+    },
+    {
+      "id": "G06",
+      "column": "G",
+      "label": "Correção ou disputa",
+      "definition": "Distinção entre corrigir para edificar a comunhão e usar falhas reais para vencer briga, humilhar pessoas ou tomar controle.",
+      "anchors": [
+        "Mt 18,15-17",
+        "Ef 4,15",
+        "N08"
+      ],
+      "tags": [
+        "correção",
+        "conflito"
+      ]
+    },
+    {
+      "id": "G07",
+      "column": "G",
+      "label": "Emoção ou fruto",
+      "definition": "Distinção entre sentimentos intensos numa experiência religiosa e frutos estáveis de conversão, caridade, comunhão e serviço.",
+      "anchors": [
+        "Gl 5,22-23",
+        "1Cor 13,1-7",
+        "N11"
+      ],
+      "tags": [
+        "discernimento",
+        "frutos"
+      ]
+    },
+    {
+      "id": "G08",
+      "column": "G",
+      "label": "Acolhida ou aprovação",
+      "definition": "Distinção entre receber pessoas com dignidade e misericórdia e aprovar qualquer escolha, erro ou pecado sem discernimento.",
+      "anchors": [
+        "Jo 8,10-11",
+        "Tg 2,1-9",
+        "B14"
+      ],
+      "tags": [
+        "acolhida",
+        "verdade"
+      ]
+    },
+    {
+      "id": "G09",
+      "column": "G",
+      "label": "Tradição ou costume",
+      "definition": "Distinção entre fidelidade à fé recebida e apego a práticas locais que podem precisar de revisão para servir melhor à missão.",
+      "anchors": [
+        "2Ts 2,15",
+        "Ef 4,15-16",
+        "N03"
+      ],
+      "tags": [
+        "tradição",
+        "renovação"
+      ]
+    },
+    {
+      "id": "G10",
+      "column": "G",
+      "label": "Autoridade ou abuso",
+      "definition": "Distinção entre autoridade legítima que serve e orienta e uso de cargo, influência ou linguagem religiosa para dominar e silenciar.",
+      "anchors": [
+        "Mc 10,42-45",
+        "At 5,29",
+        "N14"
+      ],
+      "tags": [
+        "autoridade",
+        "abuso"
+      ]
+    },
+    {
+      "id": "G11",
+      "column": "G",
+      "label": "Oferta ou pressão",
+      "definition": "Distinção entre contribuição livre e responsável para a Igreja e cobrança manipulada por culpa, medo ou promessa de vantagem.",
+      "anchors": [
+        "2Cor 9,7",
+        "I08",
+        "B03"
+      ],
+      "tags": [
+        "dízimo",
+        "liberdade"
+      ]
+    },
+    {
+      "id": "G12",
+      "column": "G",
+      "label": "Disponível ou esgotado",
+      "definition": "Distinção entre generosidade verdadeira e desgaste irresponsável que ignora limites humanos, família, trabalho, estudo e vida espiritual.",
+      "anchors": [
+        "Mc 6,31",
+        "B06",
+        "N06"
+      ],
+      "tags": [
+        "limites",
+        "prudência"
+      ]
+    },
+    {
+      "id": "G13",
+      "column": "G",
+      "label": "Silêncio ou omissão",
+      "definition": "Distinção entre calar por prudência diante de algo menor ou reservado e calar por medo, conveniência ou cumplicidade diante de dano real.",
+      "anchors": [
+        "Mt 18,15-17",
+        "Pr 31,8-9",
+        "O10"
+      ],
+      "tags": [
+        "prudência",
+        "omissão"
+      ]
+    },
+    {
+      "id": "G14",
+      "column": "G",
+      "label": "Competência ou vaidade",
+      "definition": "Distinção entre preparar-se bem para servir melhor e usar habilidade, estudo ou função como superioridade sobre os outros.",
+      "anchors": [
+        "Rm 12,6-8",
+        "B07",
+        "I12"
+      ],
+      "tags": [
+        "competência",
+        "humildade"
+      ]
+    },
+    {
+      "id": "G15",
+      "column": "G",
+      "label": "Chamar ou explorar",
+      "definition": "Distinção entre convidar alguém a servir com liberdade e formação e usar sua boa vontade para cobrir buracos sem cuidado pastoral.",
+      "anchors": [
+        "1Pd 4,10",
+        "B06",
+        "O05"
+      ],
+      "tags": [
+        "vocação",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "O01",
+      "column": "O",
+      "label": "Nomear o dom",
+      "definition": "Resposta de reconhecer concretamente capacidades recebidas, sem vaidade nem falsa humildade, perguntando onde elas podem servir ao bem comum.",
+      "anchors": [
+        "1Pd 4,10",
+        "B01",
+        "B03"
+      ],
+      "tags": [
+        "discernimento",
+        "dons"
+      ]
+    },
+    {
+      "id": "O02",
+      "column": "O",
+      "label": "Escolher um serviço",
+      "definition": "Resposta de assumir uma pastoral, movimento ou tarefa possível, com compromisso real e proporcional ao próprio estado de vida.",
+      "anchors": [
+        "Gl 5,13",
+        "B06",
+        "G12"
+      ],
+      "tags": [
+        "compromisso",
+        "serviço"
+      ]
+    },
+    {
+      "id": "O03",
+      "column": "O",
+      "label": "Buscar formação",
+      "definition": "Resposta de estudar a fé, aprender a tarefa e aceitar orientação antes de assumir funções que exigem responsabilidade maior.",
+      "anchors": [
+        "Ef 4,11-16",
+        "I12",
+        "N15"
+      ],
+      "tags": [
+        "formação",
+        "prudência"
+      ]
+    },
+    {
+      "id": "O04",
+      "column": "O",
+      "label": "Combinar agenda",
+      "definition": "Resposta de dialogar, coordenar datas e respeitar limites da comunidade para evitar competição, cansaço e desperdício de forças.",
+      "anchors": [
+        "1Cor 14,40",
+        "I11",
+        "B11"
+      ],
+      "tags": [
+        "coordenação",
+        "ordem"
+      ]
+    },
+    {
+      "id": "O05",
+      "column": "O",
+      "label": "Partilhar tarefas",
+      "definition": "Resposta de distribuir responsabilidades, formar substitutos e impedir que poucos carreguem tudo enquanto outros permanecem espectadores.",
+      "anchors": [
+        "Rm 12,4-8",
+        "I03",
+        "G15"
+      ],
+      "tags": [
+        "corresponsabilidade",
+        "formação"
+      ]
+    },
+    {
+      "id": "O06",
+      "column": "O",
+      "label": "Acolher com critério",
+      "definition": "Resposta de receber pessoas com respeito concreto, escuta e encaminhamento, sem humilhar e sem fingir que todo problema está resolvido.",
+      "anchors": [
+        "Tg 2,1-9",
+        "G08",
+        "I14"
+      ],
+      "tags": [
+        "acolhida",
+        "verdade"
+      ]
+    },
+    {
+      "id": "O07",
+      "column": "O",
+      "label": "Servir sem aparecer",
+      "definition": "Resposta de aceitar tarefas discretas e necessárias quando elas edificam a comunidade, sem transformar invisibilidade em ressentimento.",
+      "anchors": [
+        "Mt 6,1-4",
+        "I13",
+        "B07"
+      ],
+      "tags": [
+        "humildade",
+        "serviço"
+      ]
+    },
+    {
+      "id": "O08",
+      "column": "O",
+      "label": "Prestar contas",
+      "definition": "Resposta de tornar decisões, dinheiro, critérios e responsabilidades claros para proteger a confiança e evitar manipulação.",
+      "anchors": [
+        "2Cor 8,20-21",
+        "G11",
+        "I08"
+      ],
+      "tags": [
+        "transparência",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "O09",
+      "column": "O",
+      "label": "Rezar e agir",
+      "definition": "Resposta de unir oração, sacramentos e decisão concreta, evitando tanto ativismo sem Deus quanto espiritualidade sem compromisso.",
+      "anchors": [
+        "At 2,42-47",
+        "Tg 2,14-17",
+        "G04"
+      ],
+      "tags": [
+        "oração",
+        "ação"
+      ]
+    },
+    {
+      "id": "O10",
+      "column": "O",
+      "label": "Corrigir com caridade",
+      "definition": "Resposta de tratar falhas por caminho justo, com verdade, discrição proporcional e finalidade de conversão, não de humilhação.",
+      "anchors": [
+        "Mt 18,15-17",
+        "Ef 4,15",
+        "G06"
+      ],
+      "tags": [
+        "correção",
+        "caridade"
+      ]
+    },
+    {
+      "id": "O11",
+      "column": "O",
+      "label": "Encaminhar fragilidades",
+      "definition": "Resposta de reconhecer limites próprios ou alheios e buscar pessoa competente, coordenação ou ajuda adequada em vez de improvisar solução perigosa.",
+      "anchors": [
+        "Gl 6,2",
+        "I09",
+        "G12"
+      ],
+      "tags": [
+        "cuidado",
+        "encaminhamento"
+      ]
+    },
+    {
+      "id": "O12",
+      "column": "O",
+      "label": "Convidar com liberdade",
+      "definition": "Resposta de chamar alguém ao serviço sem pressão, explicando a tarefa, tempo, formação e possibilidade honesta de dizer não.",
+      "anchors": [
+        "1Pd 4,10",
+        "G15",
+        "B06"
+      ],
+      "tags": [
+        "convite",
+        "liberdade"
+      ]
+    },
+    {
+      "id": "O13",
+      "column": "O",
+      "label": "Sair do fechamento",
+      "definition": "Resposta de abrir diálogo com outras pastorais, conhecer outros carismas e colaborar em ações comuns sem perder a própria identidade.",
+      "anchors": [
+        "1Cor 12,12-27",
+        "N02",
+        "G05"
+      ],
+      "tags": [
+        "comunhão",
+        "colaboração"
+      ]
+    },
+    {
+      "id": "O14",
+      "column": "O",
+      "label": "Cuidar da liturgia",
+      "definition": "Resposta de preparar celebrações com fidelidade, sobriedade, competência e respeito à fé da Igreja, evitando improviso e espetáculo.",
+      "anchors": [
+        "1Cor 14,33.40",
+        "I07",
+        "B15"
+      ],
+      "tags": [
+        "liturgia",
+        "fidelidade"
+      ]
+    },
+    {
+      "id": "O15",
+      "column": "O",
+      "label": "Revisar a missão",
+      "definition": "Resposta de avaliar se a pastoral ou movimento está evangelizando, servindo e formando, ou apenas preservando rotina interna.",
+      "anchors": [
+        "Mt 28,19-20",
+        "I15",
+        "B08"
+      ],
+      "tags": [
+        "missão",
+        "avaliação"
+      ]
+    }
+  ]
+}

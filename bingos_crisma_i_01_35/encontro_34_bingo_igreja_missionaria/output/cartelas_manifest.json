@@ -1,0 +1,5842 @@
+{
+  "schema": "bingo-catequese/cartelas-manifest.v1",
+  "card_set_id": "bingo_igreja_missionaria_24_seed_404_082e63aecbf5",
+  "card_set_hash": "082e63aecbf5440dabfcf091b3f65f94d75edae492fd331447b6fe682d8a63c7",
+  "project": {
+    "title": "Bingo — Igreja missionária",
+    "meeting": "Encontro 34 — Igreja missionária",
+    "meeting_label": "Encontro 34",
+    "output_slug": "bingo_igreja_missionaria",
+    "core_message": "A Igreja existe para evangelizar: enviada por Cristo, movida por seu amor e sustentada por sua presença, anuncia a verdade que salva sem impor, sem esconder e sem reduzir o Evangelho a ativismo."
+  },
+  "generation": {
+    "algorithm": "balanced-column-assignments-v1",
+    "seed": 404,
+    "num_cards": 24,
+    "columns": [
+      "B",
+      "I",
+      "N",
+      "G",
+      "O"
+    ],
+    "grid": "5x5",
+    "center": {
+      "label": "LIVRE / Mt 28,19-20",
+      "fixed": true,
+      "called": false
+    },
+    "win_condition": "duas_linhas"
+  },
+  "source_hashes": {
+    "termos.json": "727955f1d7922e897ba024177fe7082064f9ecaf043d3e64b652700e58763f51",
+    "chamadas.json": "7fedbe23bbb17b1b04fddb373698019d5b38dd0d5616bff46d2d7336077fd03f",
+    "explicacoes.json": "5490f65444ad6c8a84b8bb78f32c474e5835ba2dfe70e5f0a6cb780a7c702f2e"
+  },
+  "line_model": [
+    {
+      "type": "horizontal",
+      "index": 1,
+      "cells": [
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ]
+      ]
+    },
+    {
+      "type": "horizontal",
+      "index": 2,
+      "cells": [
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ]
+      ]
+    },
+    {
+      "type": "horizontal",
+      "index": 3,
+      "cells": [
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          3,
+          5
+        ]
+      ]
+    },
+    {
+      "type": "horizontal",
+      "index": 4,
+      "cells": [
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          4,
+          5
+        ]
+      ]
+    },
+    {
+      "type": "horizontal",
+      "index": 5,
+      "cells": [
+        [
+          5,
+          1
+        ],
+        [
+          5,
+          2
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          5,
+          4
+        ],
+        [
+          5,
+          5
+        ]
+      ]
+    },
+    {
+      "type": "vertical",
+      "index": 1,
+      "cells": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          5,
+          1
+        ]
+      ]
+    },
+    {
+      "type": "vertical",
+      "index": 2,
+      "cells": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          5,
+          2
+        ]
+      ]
+    },
+    {
+      "type": "vertical",
+      "index": 3,
+      "cells": [
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          5,
+          3
+        ]
+      ]
+    },
+    {
+      "type": "vertical",
+      "index": 4,
+      "cells": [
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          4
+        ]
+      ]
+    },
+    {
+      "type": "vertical",
+      "index": 5,
+      "cells": [
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          5
+        ],
+        [
+          5,
+          5
+        ]
+      ]
+    },
+    {
+      "type": "diagonal",
+      "index": 1,
+      "cells": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          5
+        ]
+      ]
+    },
+    {
+      "type": "diagonal",
+      "index": 2,
+      "cells": [
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          5,
+          1
+        ]
+      ]
+    }
+  ],
+  "print_layout": {
+    "pdf": "output/pdf/cartelas_bingo_24_a4.pdf",
+    "cards_per_page": 2,
+    "page_order": [
+      {
+        "page": 1,
+        "positions": [
+          {
+            "slot": "top",
+            "card_id": "C01"
+          },
+          {
+            "slot": "bottom",
+            "card_id": "C02"
+          }
+        ]
+      },
+      {
+        "page": 2,
+        "positions": [
+          {
+            "slot": "top",
+            "card_id": "C03"
+          },
+          {
+            "slot": "bottom",
+            "card_id": "C04"
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "positions": [
+          {
+            "slot": "top",
+            "card_id": "C05"
+          },
+          {
+            "slot": "bottom",
+            "card_id": "C06"
+          }
+        ]
+      },
+      {
+        "page": 4,
+        "positions": [
+          {
+            "slot": "top",
+            "card_id": "C07"
+          },
+          {
+            "slot": "bottom",
+            "card_id": "C08"
+          }
+        ]
+      },
+      {
+        "page": 5,
+        "positions": [
+          {
+            "slot": "top",
+            "card_id": "C09"
+          },
+          {
+            "slot": "bottom",
+            "card_id": "C10"
+          }
+        ]
+      },
+      {
+        "page": 6,
+        "positions": [
+          {
+            "slot": "top",
+            "card_id": "C11"
+          },
+          {
+            "slot": "bottom",
+            "card_id": "C12"
+          }
+        ]
+      },
+      {
+        "page": 7,
+        "positions": [
+          {
+            "slot": "top",
+            "card_id": "C13"
+          },
+          {
+            "slot": "bottom",
+            "card_id": "C14"
+          }
+        ]
+      },
+      {
+        "page": 8,
+        "positions": [
+          {
+            "slot": "top",
+            "card_id": "C15"
+          },
+          {
+            "slot": "bottom",
+            "card_id": "C16"
+          }
+        ]
+      },
+      {
+        "page": 9,
+        "positions": [
+          {
+            "slot": "top",
+            "card_id": "C17"
+          },
+          {
+            "slot": "bottom",
+            "card_id": "C18"
+          }
+        ]
+      },
+      {
+        "page": 10,
+        "positions": [
+          {
+            "slot": "top",
+            "card_id": "C19"
+          },
+          {
+            "slot": "bottom",
+            "card_id": "C20"
+          }
+        ]
+      },
+      {
+        "page": 11,
+        "positions": [
+          {
+            "slot": "top",
+            "card_id": "C21"
+          },
+          {
+            "slot": "bottom",
+            "card_id": "C22"
+          }
+        ]
+      },
+      {
+        "page": 12,
+        "positions": [
+          {
+            "slot": "top",
+            "card_id": "C23"
+          },
+          {
+            "slot": "bottom",
+            "card_id": "C24"
+          }
+        ]
+      }
+    ]
+  },
+  "cards": [
+    {
+      "id": "C01",
+      "number": 1,
+      "term_ids": [
+        "B03",
+        "I15",
+        "N06",
+        "G12",
+        "O13",
+        "B12",
+        "I05",
+        "N13",
+        "G11",
+        "O03",
+        "B04",
+        "I04",
+        "G02",
+        "O02",
+        "B11",
+        "I06",
+        "N15",
+        "G14",
+        "O11",
+        "B05",
+        "I02",
+        "N12",
+        "G03",
+        "O04"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B03",
+            "column": "B",
+            "label": "Evangelho como verdade"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I15",
+            "column": "I",
+            "label": "Missão entre presos"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N06",
+            "column": "N",
+            "label": "Doutrina atrapalha"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G12",
+            "column": "G",
+            "label": "Misericórdia e banalização"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O13",
+            "column": "O",
+            "label": "Reparar escândalo"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B12",
+            "column": "B",
+            "label": "Presença de Cristo"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I05",
+            "column": "I",
+            "label": "Cultura diferente"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N13",
+            "column": "N",
+            "label": "Caridade sem Cristo"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G11",
+            "column": "G",
+            "label": "Respeito e silêncio"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O03",
+            "column": "O",
+            "label": "Escutar antes de falar"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B04",
+            "column": "B",
+            "label": "Amor de Cristo"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I04",
+            "column": "I",
+            "label": "Hostilidade pública"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G02",
+            "column": "G",
+            "label": "Acolhida ou aprovação"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O02",
+            "column": "O",
+            "label": "Convidar com clareza"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B11",
+            "column": "B",
+            "label": "Discipulado obediente"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I06",
+            "column": "I",
+            "label": "Fé escondida"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N15",
+            "column": "N",
+            "label": "Depois eu falo"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G14",
+            "column": "G",
+            "label": "Fruto e sucesso"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O11",
+            "column": "O",
+            "label": "Sustentar missionários"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B05",
+            "column": "B",
+            "label": "Salvação universal"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I02",
+            "column": "I",
+            "label": "Primeiro anúncio"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N12",
+            "column": "N",
+            "label": "Sucesso sem cruz"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G03",
+            "column": "G",
+            "label": "Anúncio ou propaganda"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O04",
+            "column": "O",
+            "label": "Rezar por nomes"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C02",
+      "number": 2,
+      "term_ids": [
+        "B01",
+        "I02",
+        "N12",
+        "G14",
+        "O01",
+        "B13",
+        "I09",
+        "N15",
+        "G06",
+        "O05",
+        "B15",
+        "I13",
+        "G02",
+        "O09",
+        "B02",
+        "I08",
+        "N09",
+        "G03",
+        "O07",
+        "B11",
+        "I12",
+        "N08",
+        "G01",
+        "O12"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B01",
+            "column": "B",
+            "label": "Mandato missionário"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I02",
+            "column": "I",
+            "label": "Primeiro anúncio"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N12",
+            "column": "N",
+            "label": "Sucesso sem cruz"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G14",
+            "column": "G",
+            "label": "Fruto e sucesso"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O01",
+            "column": "O",
+            "label": "Fazer primeiro anúncio"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B13",
+            "column": "B",
+            "label": "Espírito Santo"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I09",
+            "column": "I",
+            "label": "Escuta de feridas"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N15",
+            "column": "N",
+            "label": "Depois eu falo"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G06",
+            "column": "G",
+            "label": "Cultura e Evangelho"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O05",
+            "column": "O",
+            "label": "Estudar a fé"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B15",
+            "column": "B",
+            "label": "Conversão contínua"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I13",
+            "column": "I",
+            "label": "Redes sem verdade"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G02",
+            "column": "G",
+            "label": "Acolhida ou aprovação"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O09",
+            "column": "O",
+            "label": "Buscar acompanhamento"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B02",
+            "column": "B",
+            "label": "Igreja enviada"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I08",
+            "column": "I",
+            "label": "Convite negligenciado"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N09",
+            "column": "N",
+            "label": "Medo de conflito"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G03",
+            "column": "G",
+            "label": "Anúncio ou propaganda"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O07",
+            "column": "O",
+            "label": "Servir nomeando Cristo"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B11",
+            "column": "B",
+            "label": "Discipulado obediente"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I12",
+            "column": "I",
+            "label": "Trabalho explorado"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N08",
+            "column": "N",
+            "label": "Indiferença religiosa"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G01",
+            "column": "G",
+            "label": "Proposta ou imposição"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O12",
+            "column": "O",
+            "label": "Responder objeções"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C03",
+      "number": 3,
+      "term_ids": [
+        "B09",
+        "I02",
+        "N04",
+        "G02",
+        "O10",
+        "B11",
+        "I10",
+        "N11",
+        "G11",
+        "O14",
+        "B15",
+        "I12",
+        "G03",
+        "O12",
+        "B06",
+        "I11",
+        "N14",
+        "G12",
+        "O08",
+        "B13",
+        "I08",
+        "N05",
+        "G14",
+        "O09"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B09",
+            "column": "B",
+            "label": "Palavra e sacramentos"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I02",
+            "column": "I",
+            "label": "Primeiro anúncio"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N04",
+            "column": "N",
+            "label": "Cada um na sua"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G02",
+            "column": "G",
+            "label": "Acolhida ou aprovação"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O10",
+            "column": "O",
+            "label": "Agir com a Igreja"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B11",
+            "column": "B",
+            "label": "Discipulado obediente"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I10",
+            "column": "I",
+            "label": "Migrante sem comunidade"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N11",
+            "column": "N",
+            "label": "Cultura absoluta"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G11",
+            "column": "G",
+            "label": "Respeito e silêncio"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O14",
+            "column": "O",
+            "label": "Perseverar na rejeição"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B15",
+            "column": "B",
+            "label": "Conversão contínua"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I12",
+            "column": "I",
+            "label": "Trabalho explorado"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G03",
+            "column": "G",
+            "label": "Anúncio ou propaganda"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O12",
+            "column": "O",
+            "label": "Responder objeções"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B06",
+            "column": "B",
+            "label": "Catolicidade"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I11",
+            "column": "I",
+            "label": "Doente isolado"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N14",
+            "column": "N",
+            "label": "Verdade sem amor"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G12",
+            "column": "G",
+            "label": "Misericórdia e banalização"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O08",
+            "column": "O",
+            "label": "Corrigir com caridade"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B13",
+            "column": "B",
+            "label": "Espírito Santo"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I08",
+            "column": "I",
+            "label": "Convite negligenciado"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N05",
+            "column": "N",
+            "label": "Basta ser gentil"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G14",
+            "column": "G",
+            "label": "Fruto e sucesso"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O09",
+            "column": "O",
+            "label": "Buscar acompanhamento"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C04",
+      "number": 4,
+      "term_ids": [
+        "B14",
+        "I09",
+        "N10",
+        "G01",
+        "O01",
+        "B12",
+        "I14",
+        "N11",
+        "G07",
+        "O06",
+        "B15",
+        "I12",
+        "G11",
+        "O05",
+        "B01",
+        "I08",
+        "N01",
+        "G04",
+        "O07",
+        "B02",
+        "I06",
+        "N08",
+        "G05",
+        "O15"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B14",
+            "column": "B",
+            "label": "Caridade missionária"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I09",
+            "column": "I",
+            "label": "Escuta de feridas"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N10",
+            "column": "N",
+            "label": "Fé só privada"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G01",
+            "column": "G",
+            "label": "Proposta ou imposição"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O01",
+            "column": "O",
+            "label": "Fazer primeiro anúncio"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B12",
+            "column": "B",
+            "label": "Presença de Cristo"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I14",
+            "column": "I",
+            "label": "Periferia esquecida"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N11",
+            "column": "N",
+            "label": "Cultura absoluta"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G07",
+            "column": "G",
+            "label": "Prudência e omissão"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O06",
+            "column": "O",
+            "label": "Assumir testemunho"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B15",
+            "column": "B",
+            "label": "Conversão contínua"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I12",
+            "column": "I",
+            "label": "Trabalho explorado"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G11",
+            "column": "G",
+            "label": "Respeito e silêncio"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O05",
+            "column": "O",
+            "label": "Estudar a fé"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B01",
+            "column": "B",
+            "label": "Mandato missionário"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I08",
+            "column": "I",
+            "label": "Convite negligenciado"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N01",
+            "column": "N",
+            "label": "Fé como clube"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G04",
+            "column": "G",
+            "label": "Testemunho e palavra"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O07",
+            "column": "O",
+            "label": "Servir nomeando Cristo"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B02",
+            "column": "B",
+            "label": "Igreja enviada"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I06",
+            "column": "I",
+            "label": "Fé escondida"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N08",
+            "column": "N",
+            "label": "Indiferença religiosa"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G05",
+            "column": "G",
+            "label": "Diálogo e relativismo"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O15",
+            "column": "O",
+            "label": "Formar discípulos"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C05",
+      "number": 5,
+      "term_ids": [
+        "B03",
+        "I15",
+        "N04",
+        "G13",
+        "O06",
+        "B06",
+        "I05",
+        "N02",
+        "G10",
+        "O05",
+        "B05",
+        "I14",
+        "G08",
+        "O02",
+        "B12",
+        "I06",
+        "N05",
+        "G15",
+        "O11",
+        "B14",
+        "I12",
+        "N09",
+        "G03",
+        "O10"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B03",
+            "column": "B",
+            "label": "Evangelho como verdade"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I15",
+            "column": "I",
+            "label": "Missão entre presos"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N04",
+            "column": "N",
+            "label": "Cada um na sua"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G13",
+            "column": "G",
+            "label": "Pessoa e erro"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O06",
+            "column": "O",
+            "label": "Assumir testemunho"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B06",
+            "column": "B",
+            "label": "Catolicidade"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I05",
+            "column": "I",
+            "label": "Cultura diferente"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N02",
+            "column": "N",
+            "label": "Missão como número"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G10",
+            "column": "G",
+            "label": "Missão e ativismo"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O05",
+            "column": "O",
+            "label": "Estudar a fé"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B05",
+            "column": "B",
+            "label": "Salvação universal"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I14",
+            "column": "I",
+            "label": "Periferia esquecida"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G08",
+            "column": "G",
+            "label": "Firmeza e dureza"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O02",
+            "column": "O",
+            "label": "Convidar com clareza"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B12",
+            "column": "B",
+            "label": "Presença de Cristo"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I06",
+            "column": "I",
+            "label": "Fé escondida"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N05",
+            "column": "N",
+            "label": "Basta ser gentil"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G15",
+            "column": "G",
+            "label": "Perseguição e culpa"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O11",
+            "column": "O",
+            "label": "Sustentar missionários"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B14",
+            "column": "B",
+            "label": "Caridade missionária"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I12",
+            "column": "I",
+            "label": "Trabalho explorado"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N09",
+            "column": "N",
+            "label": "Medo de conflito"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G03",
+            "column": "G",
+            "label": "Anúncio ou propaganda"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O10",
+            "column": "O",
+            "label": "Agir com a Igreja"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C06",
+      "number": 6,
+      "term_ids": [
+        "B14",
+        "I01",
+        "N13",
+        "G09",
+        "O05",
+        "B12",
+        "I05",
+        "N03",
+        "G06",
+        "O02",
+        "B05",
+        "I14",
+        "G05",
+        "O10",
+        "B04",
+        "I06",
+        "N06",
+        "G10",
+        "O11",
+        "B10",
+        "I08",
+        "N07",
+        "G01",
+        "O06"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B14",
+            "column": "B",
+            "label": "Caridade missionária"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I01",
+            "column": "I",
+            "label": "Comunidade fechada"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N13",
+            "column": "N",
+            "label": "Caridade sem Cristo"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G09",
+            "column": "G",
+            "label": "Unidade e uniformidade"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O05",
+            "column": "O",
+            "label": "Estudar a fé"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B12",
+            "column": "B",
+            "label": "Presença de Cristo"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I05",
+            "column": "I",
+            "label": "Cultura diferente"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N03",
+            "column": "N",
+            "label": "Anunciar é impor"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G06",
+            "column": "G",
+            "label": "Cultura e Evangelho"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O02",
+            "column": "O",
+            "label": "Convidar com clareza"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B05",
+            "column": "B",
+            "label": "Salvação universal"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I14",
+            "column": "I",
+            "label": "Periferia esquecida"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G05",
+            "column": "G",
+            "label": "Diálogo e relativismo"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O10",
+            "column": "O",
+            "label": "Agir com a Igreja"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B04",
+            "column": "B",
+            "label": "Amor de Cristo"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I06",
+            "column": "I",
+            "label": "Fé escondida"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N06",
+            "column": "N",
+            "label": "Doutrina atrapalha"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G10",
+            "column": "G",
+            "label": "Missão e ativismo"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O11",
+            "column": "O",
+            "label": "Sustentar missionários"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B10",
+            "column": "B",
+            "label": "Batismo trinitário"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I08",
+            "column": "I",
+            "label": "Convite negligenciado"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N07",
+            "column": "N",
+            "label": "Só especialistas"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G01",
+            "column": "G",
+            "label": "Proposta ou imposição"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O06",
+            "column": "O",
+            "label": "Assumir testemunho"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C07",
+      "number": 7,
+      "term_ids": [
+        "B05",
+        "I07",
+        "N08",
+        "G07",
+        "O03",
+        "B15",
+        "I08",
+        "N12",
+        "G04",
+        "O05",
+        "B06",
+        "I11",
+        "G13",
+        "O12",
+        "B08",
+        "I04",
+        "N03",
+        "G02",
+        "O08",
+        "B07",
+        "I10",
+        "N15",
+        "G11",
+        "O15"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B05",
+            "column": "B",
+            "label": "Salvação universal"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I07",
+            "column": "I",
+            "label": "Obra sem anúncio"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N08",
+            "column": "N",
+            "label": "Indiferença religiosa"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G07",
+            "column": "G",
+            "label": "Prudência e omissão"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O03",
+            "column": "O",
+            "label": "Escutar antes de falar"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B15",
+            "column": "B",
+            "label": "Conversão contínua"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I08",
+            "column": "I",
+            "label": "Convite negligenciado"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N12",
+            "column": "N",
+            "label": "Sucesso sem cruz"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G04",
+            "column": "G",
+            "label": "Testemunho e palavra"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O05",
+            "column": "O",
+            "label": "Estudar a fé"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B06",
+            "column": "B",
+            "label": "Catolicidade"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I11",
+            "column": "I",
+            "label": "Doente isolado"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G13",
+            "column": "G",
+            "label": "Pessoa e erro"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O12",
+            "column": "O",
+            "label": "Responder objeções"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B08",
+            "column": "B",
+            "label": "Testemunho de vida"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I04",
+            "column": "I",
+            "label": "Hostilidade pública"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N03",
+            "column": "N",
+            "label": "Anunciar é impor"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G02",
+            "column": "G",
+            "label": "Acolhida ou aprovação"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O08",
+            "column": "O",
+            "label": "Corrigir com caridade"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B07",
+            "column": "B",
+            "label": "Sacramento de salvação"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I10",
+            "column": "I",
+            "label": "Migrante sem comunidade"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N15",
+            "column": "N",
+            "label": "Depois eu falo"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G11",
+            "column": "G",
+            "label": "Respeito e silêncio"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O15",
+            "column": "O",
+            "label": "Formar discípulos"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C08",
+      "number": 8,
+      "term_ids": [
+        "B01",
+        "I13",
+        "N01",
+        "G07",
+        "O10",
+        "B11",
+        "I01",
+        "N08",
+        "G13",
+        "O07",
+        "B05",
+        "I05",
+        "G06",
+        "O09",
+        "B10",
+        "I15",
+        "N11",
+        "G15",
+        "O06",
+        "B07",
+        "I07",
+        "N09",
+        "G04",
+        "O14"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B01",
+            "column": "B",
+            "label": "Mandato missionário"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I13",
+            "column": "I",
+            "label": "Redes sem verdade"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N01",
+            "column": "N",
+            "label": "Fé como clube"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G07",
+            "column": "G",
+            "label": "Prudência e omissão"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O10",
+            "column": "O",
+            "label": "Agir com a Igreja"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B11",
+            "column": "B",
+            "label": "Discipulado obediente"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I01",
+            "column": "I",
+            "label": "Comunidade fechada"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N08",
+            "column": "N",
+            "label": "Indiferença religiosa"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G13",
+            "column": "G",
+            "label": "Pessoa e erro"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O07",
+            "column": "O",
+            "label": "Servir nomeando Cristo"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B05",
+            "column": "B",
+            "label": "Salvação universal"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I05",
+            "column": "I",
+            "label": "Cultura diferente"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G06",
+            "column": "G",
+            "label": "Cultura e Evangelho"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O09",
+            "column": "O",
+            "label": "Buscar acompanhamento"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B10",
+            "column": "B",
+            "label": "Batismo trinitário"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I15",
+            "column": "I",
+            "label": "Missão entre presos"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N11",
+            "column": "N",
+            "label": "Cultura absoluta"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G15",
+            "column": "G",
+            "label": "Perseguição e culpa"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O06",
+            "column": "O",
+            "label": "Assumir testemunho"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B07",
+            "column": "B",
+            "label": "Sacramento de salvação"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I07",
+            "column": "I",
+            "label": "Obra sem anúncio"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N09",
+            "column": "N",
+            "label": "Medo de conflito"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G04",
+            "column": "G",
+            "label": "Testemunho e palavra"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O14",
+            "column": "O",
+            "label": "Perseverar na rejeição"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C09",
+      "number": 9,
+      "term_ids": [
+        "B07",
+        "I15",
+        "N12",
+        "G09",
+        "O01",
+        "B09",
+        "I10",
+        "N02",
+        "G01",
+        "O04",
+        "B11",
+        "I11",
+        "G14",
+        "O07",
+        "B06",
+        "I07",
+        "N10",
+        "G02",
+        "O13",
+        "B10",
+        "I04",
+        "N14",
+        "G11",
+        "O15"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B07",
+            "column": "B",
+            "label": "Sacramento de salvação"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I15",
+            "column": "I",
+            "label": "Missão entre presos"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N12",
+            "column": "N",
+            "label": "Sucesso sem cruz"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G09",
+            "column": "G",
+            "label": "Unidade e uniformidade"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O01",
+            "column": "O",
+            "label": "Fazer primeiro anúncio"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B09",
+            "column": "B",
+            "label": "Palavra e sacramentos"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I10",
+            "column": "I",
+            "label": "Migrante sem comunidade"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N02",
+            "column": "N",
+            "label": "Missão como número"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G01",
+            "column": "G",
+            "label": "Proposta ou imposição"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O04",
+            "column": "O",
+            "label": "Rezar por nomes"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B11",
+            "column": "B",
+            "label": "Discipulado obediente"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I11",
+            "column": "I",
+            "label": "Doente isolado"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G14",
+            "column": "G",
+            "label": "Fruto e sucesso"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O07",
+            "column": "O",
+            "label": "Servir nomeando Cristo"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B06",
+            "column": "B",
+            "label": "Catolicidade"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I07",
+            "column": "I",
+            "label": "Obra sem anúncio"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N10",
+            "column": "N",
+            "label": "Fé só privada"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G02",
+            "column": "G",
+            "label": "Acolhida ou aprovação"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O13",
+            "column": "O",
+            "label": "Reparar escândalo"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B10",
+            "column": "B",
+            "label": "Batismo trinitário"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I04",
+            "column": "I",
+            "label": "Hostilidade pública"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N14",
+            "column": "N",
+            "label": "Verdade sem amor"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G11",
+            "column": "G",
+            "label": "Respeito e silêncio"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O15",
+            "column": "O",
+            "label": "Formar discípulos"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C10",
+      "number": 10,
+      "term_ids": [
+        "B12",
+        "I04",
+        "N09",
+        "G13",
+        "O01",
+        "B08",
+        "I03",
+        "N02",
+        "G11",
+        "O11",
+        "B01",
+        "I07",
+        "G15",
+        "O15",
+        "B09",
+        "I13",
+        "N10",
+        "G09",
+        "O12",
+        "B10",
+        "I11",
+        "N01",
+        "G10",
+        "O13"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B12",
+            "column": "B",
+            "label": "Presença de Cristo"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I04",
+            "column": "I",
+            "label": "Hostilidade pública"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N09",
+            "column": "N",
+            "label": "Medo de conflito"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G13",
+            "column": "G",
+            "label": "Pessoa e erro"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O01",
+            "column": "O",
+            "label": "Fazer primeiro anúncio"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B08",
+            "column": "B",
+            "label": "Testemunho de vida"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I03",
+            "column": "I",
+            "label": "Família sem fé"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N02",
+            "column": "N",
+            "label": "Missão como número"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G11",
+            "column": "G",
+            "label": "Respeito e silêncio"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O11",
+            "column": "O",
+            "label": "Sustentar missionários"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B01",
+            "column": "B",
+            "label": "Mandato missionário"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I07",
+            "column": "I",
+            "label": "Obra sem anúncio"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G15",
+            "column": "G",
+            "label": "Perseguição e culpa"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O15",
+            "column": "O",
+            "label": "Formar discípulos"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B09",
+            "column": "B",
+            "label": "Palavra e sacramentos"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I13",
+            "column": "I",
+            "label": "Redes sem verdade"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N10",
+            "column": "N",
+            "label": "Fé só privada"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G09",
+            "column": "G",
+            "label": "Unidade e uniformidade"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O12",
+            "column": "O",
+            "label": "Responder objeções"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B10",
+            "column": "B",
+            "label": "Batismo trinitário"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I11",
+            "column": "I",
+            "label": "Doente isolado"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N01",
+            "column": "N",
+            "label": "Fé como clube"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G10",
+            "column": "G",
+            "label": "Missão e ativismo"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O13",
+            "column": "O",
+            "label": "Reparar escândalo"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C11",
+      "number": 11,
+      "term_ids": [
+        "B11",
+        "I04",
+        "N14",
+        "G08",
+        "O01",
+        "B02",
+        "I03",
+        "N10",
+        "G12",
+        "O08",
+        "B15",
+        "I10",
+        "G10",
+        "O02",
+        "B04",
+        "I07",
+        "N12",
+        "G09",
+        "O04",
+        "B07",
+        "I11",
+        "N01",
+        "G02",
+        "O13"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B11",
+            "column": "B",
+            "label": "Discipulado obediente"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I04",
+            "column": "I",
+            "label": "Hostilidade pública"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N14",
+            "column": "N",
+            "label": "Verdade sem amor"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G08",
+            "column": "G",
+            "label": "Firmeza e dureza"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O01",
+            "column": "O",
+            "label": "Fazer primeiro anúncio"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B02",
+            "column": "B",
+            "label": "Igreja enviada"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I03",
+            "column": "I",
+            "label": "Família sem fé"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N10",
+            "column": "N",
+            "label": "Fé só privada"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G12",
+            "column": "G",
+            "label": "Misericórdia e banalização"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O08",
+            "column": "O",
+            "label": "Corrigir com caridade"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B15",
+            "column": "B",
+            "label": "Conversão contínua"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I10",
+            "column": "I",
+            "label": "Migrante sem comunidade"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G10",
+            "column": "G",
+            "label": "Missão e ativismo"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O02",
+            "column": "O",
+            "label": "Convidar com clareza"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B04",
+            "column": "B",
+            "label": "Amor de Cristo"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I07",
+            "column": "I",
+            "label": "Obra sem anúncio"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N12",
+            "column": "N",
+            "label": "Sucesso sem cruz"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G09",
+            "column": "G",
+            "label": "Unidade e uniformidade"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O04",
+            "column": "O",
+            "label": "Rezar por nomes"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B07",
+            "column": "B",
+            "label": "Sacramento de salvação"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I11",
+            "column": "I",
+            "label": "Doente isolado"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N01",
+            "column": "N",
+            "label": "Fé como clube"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G02",
+            "column": "G",
+            "label": "Acolhida ou aprovação"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O13",
+            "column": "O",
+            "label": "Reparar escândalo"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C12",
+      "number": 12,
+      "term_ids": [
+        "B04",
+        "I15",
+        "N10",
+        "G05",
+        "O06",
+        "B09",
+        "I01",
+        "N11",
+        "G13",
+        "O02",
+        "B13",
+        "I11",
+        "G14",
+        "O03",
+        "B14",
+        "I14",
+        "N01",
+        "G11",
+        "O11",
+        "B10",
+        "I10",
+        "N13",
+        "G07",
+        "O13"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B04",
+            "column": "B",
+            "label": "Amor de Cristo"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I15",
+            "column": "I",
+            "label": "Missão entre presos"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N10",
+            "column": "N",
+            "label": "Fé só privada"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G05",
+            "column": "G",
+            "label": "Diálogo e relativismo"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O06",
+            "column": "O",
+            "label": "Assumir testemunho"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B09",
+            "column": "B",
+            "label": "Palavra e sacramentos"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I01",
+            "column": "I",
+            "label": "Comunidade fechada"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N11",
+            "column": "N",
+            "label": "Cultura absoluta"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G13",
+            "column": "G",
+            "label": "Pessoa e erro"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O02",
+            "column": "O",
+            "label": "Convidar com clareza"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B13",
+            "column": "B",
+            "label": "Espírito Santo"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I11",
+            "column": "I",
+            "label": "Doente isolado"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G14",
+            "column": "G",
+            "label": "Fruto e sucesso"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O03",
+            "column": "O",
+            "label": "Escutar antes de falar"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B14",
+            "column": "B",
+            "label": "Caridade missionária"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I14",
+            "column": "I",
+            "label": "Periferia esquecida"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N01",
+            "column": "N",
+            "label": "Fé como clube"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G11",
+            "column": "G",
+            "label": "Respeito e silêncio"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O11",
+            "column": "O",
+            "label": "Sustentar missionários"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B10",
+            "column": "B",
+            "label": "Batismo trinitário"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I10",
+            "column": "I",
+            "label": "Migrante sem comunidade"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N13",
+            "column": "N",
+            "label": "Caridade sem Cristo"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G07",
+            "column": "G",
+            "label": "Prudência e omissão"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O13",
+            "column": "O",
+            "label": "Reparar escândalo"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C13",
+      "number": 13,
+      "term_ids": [
+        "B13",
+        "I05",
+        "N04",
+        "G06",
+        "O01",
+        "B02",
+        "I13",
+        "N05",
+        "G12",
+        "O09",
+        "B03",
+        "I03",
+        "G09",
+        "O07",
+        "B01",
+        "I07",
+        "N08",
+        "G04",
+        "O14",
+        "B08",
+        "I01",
+        "N07",
+        "G02",
+        "O12"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B13",
+            "column": "B",
+            "label": "Espírito Santo"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I05",
+            "column": "I",
+            "label": "Cultura diferente"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N04",
+            "column": "N",
+            "label": "Cada um na sua"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G06",
+            "column": "G",
+            "label": "Cultura e Evangelho"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O01",
+            "column": "O",
+            "label": "Fazer primeiro anúncio"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B02",
+            "column": "B",
+            "label": "Igreja enviada"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I13",
+            "column": "I",
+            "label": "Redes sem verdade"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N05",
+            "column": "N",
+            "label": "Basta ser gentil"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G12",
+            "column": "G",
+            "label": "Misericórdia e banalização"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O09",
+            "column": "O",
+            "label": "Buscar acompanhamento"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B03",
+            "column": "B",
+            "label": "Evangelho como verdade"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I03",
+            "column": "I",
+            "label": "Família sem fé"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G09",
+            "column": "G",
+            "label": "Unidade e uniformidade"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O07",
+            "column": "O",
+            "label": "Servir nomeando Cristo"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B01",
+            "column": "B",
+            "label": "Mandato missionário"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I07",
+            "column": "I",
+            "label": "Obra sem anúncio"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N08",
+            "column": "N",
+            "label": "Indiferença religiosa"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G04",
+            "column": "G",
+            "label": "Testemunho e palavra"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O14",
+            "column": "O",
+            "label": "Perseverar na rejeição"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B08",
+            "column": "B",
+            "label": "Testemunho de vida"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I01",
+            "column": "I",
+            "label": "Comunidade fechada"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N07",
+            "column": "N",
+            "label": "Só especialistas"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G02",
+            "column": "G",
+            "label": "Acolhida ou aprovação"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O12",
+            "column": "O",
+            "label": "Responder objeções"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C14",
+      "number": 14,
+      "term_ids": [
+        "B03",
+        "I05",
+        "N02",
+        "G07",
+        "O09",
+        "B13",
+        "I13",
+        "N03",
+        "G05",
+        "O08",
+        "B02",
+        "I02",
+        "G01",
+        "O03",
+        "B14",
+        "I03",
+        "N01",
+        "G04",
+        "O06",
+        "B04",
+        "I12",
+        "N09",
+        "G06",
+        "O14"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B03",
+            "column": "B",
+            "label": "Evangelho como verdade"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I05",
+            "column": "I",
+            "label": "Cultura diferente"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N02",
+            "column": "N",
+            "label": "Missão como número"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G07",
+            "column": "G",
+            "label": "Prudência e omissão"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O09",
+            "column": "O",
+            "label": "Buscar acompanhamento"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B13",
+            "column": "B",
+            "label": "Espírito Santo"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I13",
+            "column": "I",
+            "label": "Redes sem verdade"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N03",
+            "column": "N",
+            "label": "Anunciar é impor"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G05",
+            "column": "G",
+            "label": "Diálogo e relativismo"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O08",
+            "column": "O",
+            "label": "Corrigir com caridade"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B02",
+            "column": "B",
+            "label": "Igreja enviada"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I02",
+            "column": "I",
+            "label": "Primeiro anúncio"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G01",
+            "column": "G",
+            "label": "Proposta ou imposição"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O03",
+            "column": "O",
+            "label": "Escutar antes de falar"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B14",
+            "column": "B",
+            "label": "Caridade missionária"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I03",
+            "column": "I",
+            "label": "Família sem fé"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N01",
+            "column": "N",
+            "label": "Fé como clube"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G04",
+            "column": "G",
+            "label": "Testemunho e palavra"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O06",
+            "column": "O",
+            "label": "Assumir testemunho"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B04",
+            "column": "B",
+            "label": "Amor de Cristo"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I12",
+            "column": "I",
+            "label": "Trabalho explorado"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N09",
+            "column": "N",
+            "label": "Medo de conflito"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G06",
+            "column": "G",
+            "label": "Cultura e Evangelho"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O14",
+            "column": "O",
+            "label": "Perseverar na rejeição"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C15",
+      "number": 15,
+      "term_ids": [
+        "B12",
+        "I14",
+        "N07",
+        "G07",
+        "O07",
+        "B11",
+        "I05",
+        "N09",
+        "G15",
+        "O02",
+        "B06",
+        "I15",
+        "G06",
+        "O12",
+        "B05",
+        "I13",
+        "N05",
+        "G10",
+        "O10",
+        "B03",
+        "I04",
+        "N14",
+        "G12",
+        "O05"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B12",
+            "column": "B",
+            "label": "Presença de Cristo"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I14",
+            "column": "I",
+            "label": "Periferia esquecida"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N07",
+            "column": "N",
+            "label": "Só especialistas"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G07",
+            "column": "G",
+            "label": "Prudência e omissão"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O07",
+            "column": "O",
+            "label": "Servir nomeando Cristo"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B11",
+            "column": "B",
+            "label": "Discipulado obediente"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I05",
+            "column": "I",
+            "label": "Cultura diferente"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N09",
+            "column": "N",
+            "label": "Medo de conflito"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G15",
+            "column": "G",
+            "label": "Perseguição e culpa"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O02",
+            "column": "O",
+            "label": "Convidar com clareza"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B06",
+            "column": "B",
+            "label": "Catolicidade"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I15",
+            "column": "I",
+            "label": "Missão entre presos"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G06",
+            "column": "G",
+            "label": "Cultura e Evangelho"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O12",
+            "column": "O",
+            "label": "Responder objeções"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B05",
+            "column": "B",
+            "label": "Salvação universal"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I13",
+            "column": "I",
+            "label": "Redes sem verdade"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N05",
+            "column": "N",
+            "label": "Basta ser gentil"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G10",
+            "column": "G",
+            "label": "Missão e ativismo"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O10",
+            "column": "O",
+            "label": "Agir com a Igreja"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B03",
+            "column": "B",
+            "label": "Evangelho como verdade"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I04",
+            "column": "I",
+            "label": "Hostilidade pública"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N14",
+            "column": "N",
+            "label": "Verdade sem amor"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G12",
+            "column": "G",
+            "label": "Misericórdia e banalização"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O05",
+            "column": "O",
+            "label": "Estudar a fé"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C16",
+      "number": 16,
+      "term_ids": [
+        "B07",
+        "I06",
+        "N06",
+        "G05",
+        "O05",
+        "B09",
+        "I02",
+        "N15",
+        "G08",
+        "O04",
+        "B10",
+        "I03",
+        "G10",
+        "O08",
+        "B08",
+        "I09",
+        "N07",
+        "G03",
+        "O03",
+        "B06",
+        "I12",
+        "N14",
+        "G13",
+        "O15"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B07",
+            "column": "B",
+            "label": "Sacramento de salvação"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I06",
+            "column": "I",
+            "label": "Fé escondida"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N06",
+            "column": "N",
+            "label": "Doutrina atrapalha"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G05",
+            "column": "G",
+            "label": "Diálogo e relativismo"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O05",
+            "column": "O",
+            "label": "Estudar a fé"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B09",
+            "column": "B",
+            "label": "Palavra e sacramentos"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I02",
+            "column": "I",
+            "label": "Primeiro anúncio"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N15",
+            "column": "N",
+            "label": "Depois eu falo"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G08",
+            "column": "G",
+            "label": "Firmeza e dureza"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O04",
+            "column": "O",
+            "label": "Rezar por nomes"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B10",
+            "column": "B",
+            "label": "Batismo trinitário"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I03",
+            "column": "I",
+            "label": "Família sem fé"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G10",
+            "column": "G",
+            "label": "Missão e ativismo"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O08",
+            "column": "O",
+            "label": "Corrigir com caridade"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B08",
+            "column": "B",
+            "label": "Testemunho de vida"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I09",
+            "column": "I",
+            "label": "Escuta de feridas"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N07",
+            "column": "N",
+            "label": "Só especialistas"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G03",
+            "column": "G",
+            "label": "Anúncio ou propaganda"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O03",
+            "column": "O",
+            "label": "Escutar antes de falar"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B06",
+            "column": "B",
+            "label": "Catolicidade"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I12",
+            "column": "I",
+            "label": "Trabalho explorado"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N14",
+            "column": "N",
+            "label": "Verdade sem amor"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G13",
+            "column": "G",
+            "label": "Pessoa e erro"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O15",
+            "column": "O",
+            "label": "Formar discípulos"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C17",
+      "number": 17,
+      "term_ids": [
+        "B08",
+        "I04",
+        "N13",
+        "G08",
+        "O09",
+        "B13",
+        "I10",
+        "N04",
+        "G13",
+        "O11",
+        "B15",
+        "I08",
+        "G10",
+        "O14",
+        "B05",
+        "I07",
+        "N03",
+        "G05",
+        "O03",
+        "B06",
+        "I11",
+        "N12",
+        "G07",
+        "O06"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B08",
+            "column": "B",
+            "label": "Testemunho de vida"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I04",
+            "column": "I",
+            "label": "Hostilidade pública"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N13",
+            "column": "N",
+            "label": "Caridade sem Cristo"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G08",
+            "column": "G",
+            "label": "Firmeza e dureza"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O09",
+            "column": "O",
+            "label": "Buscar acompanhamento"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B13",
+            "column": "B",
+            "label": "Espírito Santo"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I10",
+            "column": "I",
+            "label": "Migrante sem comunidade"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N04",
+            "column": "N",
+            "label": "Cada um na sua"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G13",
+            "column": "G",
+            "label": "Pessoa e erro"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O11",
+            "column": "O",
+            "label": "Sustentar missionários"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B15",
+            "column": "B",
+            "label": "Conversão contínua"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I08",
+            "column": "I",
+            "label": "Convite negligenciado"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G10",
+            "column": "G",
+            "label": "Missão e ativismo"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O14",
+            "column": "O",
+            "label": "Perseverar na rejeição"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B05",
+            "column": "B",
+            "label": "Salvação universal"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I07",
+            "column": "I",
+            "label": "Obra sem anúncio"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N03",
+            "column": "N",
+            "label": "Anunciar é impor"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G05",
+            "column": "G",
+            "label": "Diálogo e relativismo"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O03",
+            "column": "O",
+            "label": "Escutar antes de falar"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B06",
+            "column": "B",
+            "label": "Catolicidade"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I11",
+            "column": "I",
+            "label": "Doente isolado"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N12",
+            "column": "N",
+            "label": "Sucesso sem cruz"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G07",
+            "column": "G",
+            "label": "Prudência e omissão"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O06",
+            "column": "O",
+            "label": "Assumir testemunho"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C18",
+      "number": 18,
+      "term_ids": [
+        "B01",
+        "I11",
+        "N01",
+        "G06",
+        "O01",
+        "B03",
+        "I01",
+        "N08",
+        "G03",
+        "O15",
+        "B08",
+        "I03",
+        "G01",
+        "O08",
+        "B02",
+        "I06",
+        "N10",
+        "G02",
+        "O13",
+        "B13",
+        "I02",
+        "N11",
+        "G14",
+        "O04"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B01",
+            "column": "B",
+            "label": "Mandato missionário"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I11",
+            "column": "I",
+            "label": "Doente isolado"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N01",
+            "column": "N",
+            "label": "Fé como clube"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G06",
+            "column": "G",
+            "label": "Cultura e Evangelho"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O01",
+            "column": "O",
+            "label": "Fazer primeiro anúncio"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B03",
+            "column": "B",
+            "label": "Evangelho como verdade"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I01",
+            "column": "I",
+            "label": "Comunidade fechada"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N08",
+            "column": "N",
+            "label": "Indiferença religiosa"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G03",
+            "column": "G",
+            "label": "Anúncio ou propaganda"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O15",
+            "column": "O",
+            "label": "Formar discípulos"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B08",
+            "column": "B",
+            "label": "Testemunho de vida"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I03",
+            "column": "I",
+            "label": "Família sem fé"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G01",
+            "column": "G",
+            "label": "Proposta ou imposição"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O08",
+            "column": "O",
+            "label": "Corrigir com caridade"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B02",
+            "column": "B",
+            "label": "Igreja enviada"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I06",
+            "column": "I",
+            "label": "Fé escondida"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N10",
+            "column": "N",
+            "label": "Fé só privada"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G02",
+            "column": "G",
+            "label": "Acolhida ou aprovação"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O13",
+            "column": "O",
+            "label": "Reparar escândalo"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B13",
+            "column": "B",
+            "label": "Espírito Santo"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I02",
+            "column": "I",
+            "label": "Primeiro anúncio"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N11",
+            "column": "N",
+            "label": "Cultura absoluta"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G14",
+            "column": "G",
+            "label": "Fruto e sucesso"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O04",
+            "column": "O",
+            "label": "Rezar por nomes"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C19",
+      "number": 19,
+      "term_ids": [
+        "B09",
+        "I09",
+        "N07",
+        "G14",
+        "O02",
+        "B04",
+        "I15",
+        "N10",
+        "G09",
+        "O01",
+        "B07",
+        "I10",
+        "G05",
+        "O04",
+        "B14",
+        "I02",
+        "N15",
+        "G13",
+        "O08",
+        "B03",
+        "I04",
+        "N02",
+        "G08",
+        "O14"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B09",
+            "column": "B",
+            "label": "Palavra e sacramentos"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I09",
+            "column": "I",
+            "label": "Escuta de feridas"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N07",
+            "column": "N",
+            "label": "Só especialistas"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G14",
+            "column": "G",
+            "label": "Fruto e sucesso"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O02",
+            "column": "O",
+            "label": "Convidar com clareza"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B04",
+            "column": "B",
+            "label": "Amor de Cristo"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I15",
+            "column": "I",
+            "label": "Missão entre presos"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N10",
+            "column": "N",
+            "label": "Fé só privada"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G09",
+            "column": "G",
+            "label": "Unidade e uniformidade"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O01",
+            "column": "O",
+            "label": "Fazer primeiro anúncio"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B07",
+            "column": "B",
+            "label": "Sacramento de salvação"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I10",
+            "column": "I",
+            "label": "Migrante sem comunidade"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G05",
+            "column": "G",
+            "label": "Diálogo e relativismo"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O04",
+            "column": "O",
+            "label": "Rezar por nomes"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B14",
+            "column": "B",
+            "label": "Caridade missionária"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I02",
+            "column": "I",
+            "label": "Primeiro anúncio"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N15",
+            "column": "N",
+            "label": "Depois eu falo"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G13",
+            "column": "G",
+            "label": "Pessoa e erro"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O08",
+            "column": "O",
+            "label": "Corrigir com caridade"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B03",
+            "column": "B",
+            "label": "Evangelho como verdade"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I04",
+            "column": "I",
+            "label": "Hostilidade pública"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N02",
+            "column": "N",
+            "label": "Missão como número"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G08",
+            "column": "G",
+            "label": "Firmeza e dureza"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O14",
+            "column": "O",
+            "label": "Perseverar na rejeição"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C20",
+      "number": 20,
+      "term_ids": [
+        "B08",
+        "I05",
+        "N07",
+        "G09",
+        "O03",
+        "B04",
+        "I06",
+        "N04",
+        "G14",
+        "O09",
+        "B12",
+        "I02",
+        "G08",
+        "O14",
+        "B05",
+        "I01",
+        "N14",
+        "G05",
+        "O06",
+        "B10",
+        "I03",
+        "N05",
+        "G01",
+        "O07"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B08",
+            "column": "B",
+            "label": "Testemunho de vida"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I05",
+            "column": "I",
+            "label": "Cultura diferente"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N07",
+            "column": "N",
+            "label": "Só especialistas"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G09",
+            "column": "G",
+            "label": "Unidade e uniformidade"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O03",
+            "column": "O",
+            "label": "Escutar antes de falar"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B04",
+            "column": "B",
+            "label": "Amor de Cristo"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I06",
+            "column": "I",
+            "label": "Fé escondida"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N04",
+            "column": "N",
+            "label": "Cada um na sua"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G14",
+            "column": "G",
+            "label": "Fruto e sucesso"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O09",
+            "column": "O",
+            "label": "Buscar acompanhamento"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B12",
+            "column": "B",
+            "label": "Presença de Cristo"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I02",
+            "column": "I",
+            "label": "Primeiro anúncio"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G08",
+            "column": "G",
+            "label": "Firmeza e dureza"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O14",
+            "column": "O",
+            "label": "Perseverar na rejeição"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B05",
+            "column": "B",
+            "label": "Salvação universal"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I01",
+            "column": "I",
+            "label": "Comunidade fechada"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N14",
+            "column": "N",
+            "label": "Verdade sem amor"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G05",
+            "column": "G",
+            "label": "Diálogo e relativismo"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O06",
+            "column": "O",
+            "label": "Assumir testemunho"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B10",
+            "column": "B",
+            "label": "Batismo trinitário"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I03",
+            "column": "I",
+            "label": "Família sem fé"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N05",
+            "column": "N",
+            "label": "Basta ser gentil"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G01",
+            "column": "G",
+            "label": "Proposta ou imposição"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O07",
+            "column": "O",
+            "label": "Servir nomeando Cristo"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C21",
+      "number": 21,
+      "term_ids": [
+        "B08",
+        "I09",
+        "N03",
+        "G06",
+        "O13",
+        "B10",
+        "I10",
+        "N09",
+        "G15",
+        "O11",
+        "B12",
+        "I12",
+        "G04",
+        "O12",
+        "B09",
+        "I15",
+        "N14",
+        "G07",
+        "O02",
+        "B04",
+        "I14",
+        "N06",
+        "G12",
+        "O03"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B08",
+            "column": "B",
+            "label": "Testemunho de vida"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I09",
+            "column": "I",
+            "label": "Escuta de feridas"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N03",
+            "column": "N",
+            "label": "Anunciar é impor"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G06",
+            "column": "G",
+            "label": "Cultura e Evangelho"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O13",
+            "column": "O",
+            "label": "Reparar escândalo"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B10",
+            "column": "B",
+            "label": "Batismo trinitário"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I10",
+            "column": "I",
+            "label": "Migrante sem comunidade"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N09",
+            "column": "N",
+            "label": "Medo de conflito"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G15",
+            "column": "G",
+            "label": "Perseguição e culpa"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O11",
+            "column": "O",
+            "label": "Sustentar missionários"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B12",
+            "column": "B",
+            "label": "Presença de Cristo"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I12",
+            "column": "I",
+            "label": "Trabalho explorado"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G04",
+            "column": "G",
+            "label": "Testemunho e palavra"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O12",
+            "column": "O",
+            "label": "Responder objeções"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B09",
+            "column": "B",
+            "label": "Palavra e sacramentos"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I15",
+            "column": "I",
+            "label": "Missão entre presos"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N14",
+            "column": "N",
+            "label": "Verdade sem amor"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G07",
+            "column": "G",
+            "label": "Prudência e omissão"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O02",
+            "column": "O",
+            "label": "Convidar com clareza"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B04",
+            "column": "B",
+            "label": "Amor de Cristo"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I14",
+            "column": "I",
+            "label": "Periferia esquecida"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N06",
+            "column": "N",
+            "label": "Doutrina atrapalha"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G12",
+            "column": "G",
+            "label": "Misericórdia e banalização"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O03",
+            "column": "O",
+            "label": "Escutar antes de falar"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C22",
+      "number": 22,
+      "term_ids": [
+        "B01",
+        "I12",
+        "N13",
+        "G08",
+        "O08",
+        "B07",
+        "I09",
+        "N12",
+        "G04",
+        "O15",
+        "B11",
+        "I13",
+        "G15",
+        "O13",
+        "B02",
+        "I08",
+        "N15",
+        "G03",
+        "O12",
+        "B03",
+        "I07",
+        "N04",
+        "G01",
+        "O10"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B01",
+            "column": "B",
+            "label": "Mandato missionário"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I12",
+            "column": "I",
+            "label": "Trabalho explorado"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N13",
+            "column": "N",
+            "label": "Caridade sem Cristo"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G08",
+            "column": "G",
+            "label": "Firmeza e dureza"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O08",
+            "column": "O",
+            "label": "Corrigir com caridade"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B07",
+            "column": "B",
+            "label": "Sacramento de salvação"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I09",
+            "column": "I",
+            "label": "Escuta de feridas"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N12",
+            "column": "N",
+            "label": "Sucesso sem cruz"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G04",
+            "column": "G",
+            "label": "Testemunho e palavra"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O15",
+            "column": "O",
+            "label": "Formar discípulos"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B11",
+            "column": "B",
+            "label": "Discipulado obediente"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I13",
+            "column": "I",
+            "label": "Redes sem verdade"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G15",
+            "column": "G",
+            "label": "Perseguição e culpa"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O13",
+            "column": "O",
+            "label": "Reparar escândalo"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B02",
+            "column": "B",
+            "label": "Igreja enviada"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I08",
+            "column": "I",
+            "label": "Convite negligenciado"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N15",
+            "column": "N",
+            "label": "Depois eu falo"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G03",
+            "column": "G",
+            "label": "Anúncio ou propaganda"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O12",
+            "column": "O",
+            "label": "Responder objeções"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B03",
+            "column": "B",
+            "label": "Evangelho como verdade"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I07",
+            "column": "I",
+            "label": "Obra sem anúncio"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N04",
+            "column": "N",
+            "label": "Cada um na sua"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G01",
+            "column": "G",
+            "label": "Proposta ou imposição"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O10",
+            "column": "O",
+            "label": "Agir com a Igreja"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C23",
+      "number": 23,
+      "term_ids": [
+        "B06",
+        "I14",
+        "N13",
+        "G12",
+        "O15",
+        "B15",
+        "I09",
+        "N05",
+        "G03",
+        "O14",
+        "B14",
+        "I01",
+        "G15",
+        "O04",
+        "B13",
+        "I03",
+        "N07",
+        "G08",
+        "O07",
+        "B09",
+        "I06",
+        "N06",
+        "G10",
+        "O10"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B06",
+            "column": "B",
+            "label": "Catolicidade"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I14",
+            "column": "I",
+            "label": "Periferia esquecida"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N13",
+            "column": "N",
+            "label": "Caridade sem Cristo"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G12",
+            "column": "G",
+            "label": "Misericórdia e banalização"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O15",
+            "column": "O",
+            "label": "Formar discípulos"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B15",
+            "column": "B",
+            "label": "Conversão contínua"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I09",
+            "column": "I",
+            "label": "Escuta de feridas"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N05",
+            "column": "N",
+            "label": "Basta ser gentil"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G03",
+            "column": "G",
+            "label": "Anúncio ou propaganda"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O14",
+            "column": "O",
+            "label": "Perseverar na rejeição"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B14",
+            "column": "B",
+            "label": "Caridade missionária"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I01",
+            "column": "I",
+            "label": "Comunidade fechada"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G15",
+            "column": "G",
+            "label": "Perseguição e culpa"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O04",
+            "column": "O",
+            "label": "Rezar por nomes"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B13",
+            "column": "B",
+            "label": "Espírito Santo"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I03",
+            "column": "I",
+            "label": "Família sem fé"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N07",
+            "column": "N",
+            "label": "Só especialistas"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G08",
+            "column": "G",
+            "label": "Firmeza e dureza"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O07",
+            "column": "O",
+            "label": "Servir nomeando Cristo"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B09",
+            "column": "B",
+            "label": "Palavra e sacramentos"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I06",
+            "column": "I",
+            "label": "Fé escondida"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N06",
+            "column": "N",
+            "label": "Doutrina atrapalha"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G10",
+            "column": "G",
+            "label": "Missão e ativismo"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O10",
+            "column": "O",
+            "label": "Agir com a Igreja"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C24",
+      "number": 24,
+      "term_ids": [
+        "B15",
+        "I13",
+        "N11",
+        "G11",
+        "O04",
+        "B07",
+        "I08",
+        "N03",
+        "G09",
+        "O09",
+        "B02",
+        "I14",
+        "G04",
+        "O10",
+        "B14",
+        "I01",
+        "N02",
+        "G12",
+        "O11",
+        "B01",
+        "I09",
+        "N06",
+        "G15",
+        "O05"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B15",
+            "column": "B",
+            "label": "Conversão contínua"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I13",
+            "column": "I",
+            "label": "Redes sem verdade"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N11",
+            "column": "N",
+            "label": "Cultura absoluta"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G11",
+            "column": "G",
+            "label": "Respeito e silêncio"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O04",
+            "column": "O",
+            "label": "Rezar por nomes"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B07",
+            "column": "B",
+            "label": "Sacramento de salvação"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I08",
+            "column": "I",
+            "label": "Convite negligenciado"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N03",
+            "column": "N",
+            "label": "Anunciar é impor"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G09",
+            "column": "G",
+            "label": "Unidade e uniformidade"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O09",
+            "column": "O",
+            "label": "Buscar acompanhamento"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B02",
+            "column": "B",
+            "label": "Igreja enviada"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I14",
+            "column": "I",
+            "label": "Periferia esquecida"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G04",
+            "column": "G",
+            "label": "Testemunho e palavra"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O10",
+            "column": "O",
+            "label": "Agir com a Igreja"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B14",
+            "column": "B",
+            "label": "Caridade missionária"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I01",
+            "column": "I",
+            "label": "Comunidade fechada"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N02",
+            "column": "N",
+            "label": "Missão como número"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G12",
+            "column": "G",
+            "label": "Misericórdia e banalização"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O11",
+            "column": "O",
+            "label": "Sustentar missionários"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B01",
+            "column": "B",
+            "label": "Mandato missionário"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I09",
+            "column": "I",
+            "label": "Escuta de feridas"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N06",
+            "column": "N",
+            "label": "Doutrina atrapalha"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G15",
+            "column": "G",
+            "label": "Perseguição e culpa"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O05",
+            "column": "O",
+            "label": "Estudar a fé"
+          }
+        ]
+      ]
+    }
+  ]
+}

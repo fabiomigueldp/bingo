@@ -1,0 +1,1209 @@
+{
+  "title": "Bingo — O amor aos pobres",
+  "meeting": "Encontro 07 — O amor aos pobres",
+  "meeting_label": "Encontro 07",
+  "output_slug": "bingo_o_amor_aos_pobres",
+  "core_message": "Nos pobres Cristo se apresenta a nós; amá-los exige misericórdia concreta, justiça real e conversão do coração diante dos bens, das pessoas e das feridas humanas.",
+  "source_meeting_markdown": "projects/catequese/material_didatico/output/markdown/encontro_07.md",
+  "scripture": [
+    "Mt 25,35-40",
+    "Dt 15,11",
+    "Lc 3,11",
+    "Lc 11,41",
+    "Tg 2,15-16",
+    "Tg 5,1-6",
+    "Tb 12,8-9",
+    "Jo 12,8",
+    "Am 8,6",
+    "Mt 5,42",
+    "Mt 10,8",
+    "Mt 11,5",
+    "Lc 10,25-37",
+    "1Jo 3,17-18",
+    "At 4,32-35"
+  ],
+  "catechism": [
+    "CEC 2443",
+    "CEC 2444",
+    "CEC 2445",
+    "CEC 2446",
+    "CEC 2447",
+    "CEC 2448",
+    "CEC 2449",
+    "CEC 1822",
+    "CEC 1807",
+    "CEC 2402-2406",
+    "CEC 1939-1942"
+  ],
+  "card_model": {
+    "total_terms": 75,
+    "columns": 5,
+    "terms_per_column": 15,
+    "grid": "5x5",
+    "center": {
+      "label": "LIVRE / Mt 25,35-40",
+      "fixed": true,
+      "called": false
+    },
+    "recommended_win_condition": "duas_linhas"
+  },
+  "columns": [
+    {
+      "key": "B",
+      "title": "Base moral",
+      "function": "Fundamentos bíblicos e doutrinais para ler o tema.",
+      "short_function": "fundamento cristão do tema"
+    },
+    {
+      "key": "I",
+      "title": "Situações concretas",
+      "function": "Formas reais em que o tema aparece na vida concreta, em situações inteligíveis para a turma.",
+      "short_function": "situações concretas do tema"
+    },
+    {
+      "key": "N",
+      "title": "Narrativas falsas",
+      "function": "Desculpas, autoenganos e frases que desviam do bem.",
+      "short_function": "desculpas que normalizam o erro"
+    },
+    {
+      "key": "G",
+      "title": "Discernimentos",
+      "function": "Distinções morais que evitam respostas simplistas.",
+      "short_function": "distinções para discernir"
+    },
+    {
+      "key": "O",
+      "title": "Orientações de resposta",
+      "function": "Ações concretas, prudentes e proporcionais diante do problema.",
+      "short_function": "respostas proporcionais e prudentes"
+    }
+  ],
+  "terms": [
+    {
+      "id": "B01",
+      "column": "B",
+      "label": "Cristo no pequeno",
+      "definition": "Cristo se identifica de modo misterioso e real com os famintos, sedentos, estrangeiros, nus, doentes e presos, tornando o serviço aos pobres lugar concreto de encontro com Ele.",
+      "anchors": [
+        "Mt 25,35-40",
+        "CEC 2443",
+        "CEC 2449"
+      ],
+      "tags": [
+        "cristo",
+        "pobres"
+      ]
+    },
+    {
+      "id": "B02",
+      "column": "B",
+      "label": "Opção preferencial",
+      "definition": "A Igreja deve dar atenção especial e prioritária aos mais necessitados, não porque Deus ame menos outros, mas porque a miséria fere de modo urgente a dignidade dos seus filhos.",
+      "anchors": [
+        "CEC 2444",
+        "CEC 2448",
+        "Mt 11,5"
+      ],
+      "tags": [
+        "igreja",
+        "preferência"
+      ]
+    },
+    {
+      "id": "B03",
+      "column": "B",
+      "label": "Dignidade do pobre",
+      "definition": "A pobreza não diminui o valor da pessoa; cada pobre conserva a dignidade de criatura amada por Deus e não pode ser reduzido a problema, número ou ameaça.",
+      "anchors": [
+        "Mt 25,40",
+        "CEC 2448",
+        "CEC 1939-1942"
+      ],
+      "tags": [
+        "dignidade",
+        "pessoa"
+      ]
+    },
+    {
+      "id": "B04",
+      "column": "B",
+      "label": "Destino dos bens",
+      "definition": "Os bens da criação são destinados por Deus a todos; a propriedade e o dinheiro devem ser usados com responsabilidade, sem negar aos pobres o necessário para viver.",
+      "anchors": [
+        "CEC 2402-2406",
+        "CEC 2446",
+        "Dt 15,11"
+      ],
+      "tags": [
+        "bens",
+        "justiça"
+      ]
+    },
+    {
+      "id": "B05",
+      "column": "B",
+      "label": "Justiça antes do dom",
+      "definition": "Quando se entrega ao pobre o necessário, muitas vezes não se faz favor generoso, mas se cumpre uma exigência de justiça diante do que lhe é devido.",
+      "anchors": [
+        "CEC 2446",
+        "CEC 1807",
+        "Tg 2,15-16"
+      ],
+      "tags": [
+        "justiça",
+        "partilha"
+      ]
+    },
+    {
+      "id": "B06",
+      "column": "B",
+      "label": "Caridade teologal",
+      "definition": "A caridade é amar a Deus sobre todas as coisas e ao próximo por amor de Deus; por isso, ela supera simpatia, pena e ajuda ocasional.",
+      "anchors": [
+        "CEC 1822",
+        "Mt 22,37-40",
+        "1Jo 3,17-18"
+      ],
+      "tags": [
+        "caridade",
+        "virtude"
+      ]
+    },
+    {
+      "id": "B07",
+      "column": "B",
+      "label": "Misericórdia corporal",
+      "definition": "As obras corporais socorrem necessidades materiais e físicas do próximo, como fome, sede, nudez, doença, prisão, desabrigo e sepultamento digno.",
+      "anchors": [
+        "CEC 2447",
+        "Mt 25,35-36",
+        "Lc 3,11"
+      ],
+      "tags": [
+        "misericórdia",
+        "corpo"
+      ]
+    },
+    {
+      "id": "B08",
+      "column": "B",
+      "label": "Misericórdia espiritual",
+      "definition": "As obras espirituais socorrem necessidades interiores do próximo, como ignorância, dúvida, tristeza, pecado, ofensa, impaciência e abandono na oração.",
+      "anchors": [
+        "CEC 2447",
+        "Tg 5,19-20",
+        "B07"
+      ],
+      "tags": [
+        "misericórdia",
+        "alma"
+      ]
+    },
+    {
+      "id": "B09",
+      "column": "B",
+      "label": "Esmola justa",
+      "definition": "A esmola é partilha material concreta que agrada a Deus quando nasce da caridade, respeita a dignidade do pobre e não substitui deveres de justiça.",
+      "anchors": [
+        "Tb 12,8-9",
+        "Lc 11,41",
+        "CEC 2447"
+      ],
+      "tags": [
+        "esmola",
+        "partilha"
+      ]
+    },
+    {
+      "id": "B10",
+      "column": "B",
+      "label": "Pobreza de Cristo",
+      "definition": "O Filho de Deus assumiu a pobreza, nasceu sem privilégios, viveu sem segurança mundana e se entregou na cruz, revelando a gravidade e a esperança da condição pobre.",
+      "anchors": [
+        "Mt 8,20",
+        "2Cor 8,9",
+        "CEC 2444"
+      ],
+      "tags": [
+        "cristo",
+        "humildade"
+      ]
+    },
+    {
+      "id": "B11",
+      "column": "B",
+      "label": "Pecado da avareza",
+      "definition": "O amor imoderado às riquezas fecha o coração, torna o outro invisível e pode levar à exploração, ao acúmulo egoísta e à indiferença diante do sofrimento.",
+      "anchors": [
+        "CEC 2445",
+        "Tg 5,1-6",
+        "Lc 12,15"
+      ],
+      "tags": [
+        "avareza",
+        "riqueza"
+      ]
+    },
+    {
+      "id": "B12",
+      "column": "B",
+      "label": "Trabalho para partilhar",
+      "definition": "O trabalho não serve apenas ao próprio sustento e consumo; também permite socorrer quem passa necessidade e participar responsavelmente do bem comum.",
+      "anchors": [
+        "CEC 2444",
+        "Ef 4,28",
+        "At 20,35"
+      ],
+      "tags": [
+        "trabalho",
+        "partilha"
+      ]
+    },
+    {
+      "id": "B13",
+      "column": "B",
+      "label": "Solidariedade cristã",
+      "definition": "A solidariedade cristã reconhece que a necessidade do outro me diz respeito e pede vínculo real, não apenas opinião distante sobre a miséria alheia.",
+      "anchors": [
+        "CEC 1939-1942",
+        "Lc 10,25-37",
+        "1Jo 3,17-18"
+      ],
+      "tags": [
+        "solidariedade",
+        "próximo"
+      ]
+    },
+    {
+      "id": "B14",
+      "column": "B",
+      "label": "Clamor do trabalhador",
+      "definition": "O salário negado, atrasado ou injusto clama diante de Deus; explorar quem trabalha não é esperteza econômica, mas pecado contra a justiça.",
+      "anchors": [
+        "Tg 5,4",
+        "Dt 24,14-15",
+        "CEC 2445"
+      ],
+      "tags": [
+        "trabalho",
+        "exploração"
+      ]
+    },
+    {
+      "id": "B15",
+      "column": "B",
+      "label": "Salvação e miséria",
+      "definition": "A miséria humana revela a fraqueza da condição caída e a necessidade da salvação; por isso atrai a compaixão de Cristo e a ação da Igreja.",
+      "anchors": [
+        "CEC 2448",
+        "Mt 25,35-40",
+        "Rm 8,22-23"
+      ],
+      "tags": [
+        "miséria",
+        "salvação"
+      ]
+    },
+    {
+      "id": "I01",
+      "column": "I",
+      "label": "Fome invisível",
+      "definition": "Situação em que a falta de alimento existe perto de todos, mas é escondida por vergonha, rotina ou indiferença de quem poderia perceber e socorrer.",
+      "anchors": [
+        "Mt 25,35",
+        "Tg 2,15-16",
+        "B07"
+      ],
+      "tags": [
+        "fome",
+        "necessidade"
+      ]
+    },
+    {
+      "id": "I02",
+      "column": "I",
+      "label": "Remédio negado",
+      "definition": "Situação em que a doença se agrava porque a pessoa pobre não consegue acesso a tratamento, remédio ou transporte, e sua dor é tratada como custo descartável.",
+      "anchors": [
+        "Mt 25,36",
+        "CEC 2448",
+        "B03"
+      ],
+      "tags": [
+        "doença",
+        "saúde"
+      ]
+    },
+    {
+      "id": "I03",
+      "column": "I",
+      "label": "Aluguel impossível",
+      "definition": "Situação em que uma família precisa escolher entre moradia, alimento, luz, remédio ou dívida, revelando vulnerabilidade material que exige justiça e misericórdia.",
+      "anchors": [
+        "Mt 25,35",
+        "CEC 2447",
+        "Dt 15,11"
+      ],
+      "tags": [
+        "moradia",
+        "família"
+      ]
+    },
+    {
+      "id": "I04",
+      "column": "I",
+      "label": "Morador de rua",
+      "definition": "Situação de extrema exposição e abandono em que uma pessoa vive sem abrigo seguro, sendo muitas vezes vista como sujeira urbana antes de ser vista como pessoa.",
+      "anchors": [
+        "Mt 25,35",
+        "CEC 2447",
+        "CEC 2448"
+      ],
+      "tags": [
+        "rua",
+        "desabrigo"
+      ]
+    },
+    {
+      "id": "I05",
+      "column": "I",
+      "label": "Idoso esquecido",
+      "definition": "Situação de pobreza afetiva e prática em que alguém envelhece sem visita, escuta, cuidado básico ou defesa de sua dignidade.",
+      "anchors": [
+        "Mt 25,36",
+        "CEC 2448",
+        "B08"
+      ],
+      "tags": [
+        "idoso",
+        "solidão"
+      ]
+    },
+    {
+      "id": "I06",
+      "column": "I",
+      "label": "Preso abandonado",
+      "definition": "Situação em que a pessoa encarcerada é reduzida ao crime cometido e privada de visita, palavra, assistência espiritual e possibilidade concreta de conversão.",
+      "anchors": [
+        "Mt 25,36",
+        "CEC 2447",
+        "B03"
+      ],
+      "tags": [
+        "prisão",
+        "misericórdia"
+      ]
+    },
+    {
+      "id": "I07",
+      "column": "I",
+      "label": "Migrante sem rede",
+      "definition": "Situação em que estrangeiro, refugiado ou migrante pobre enfrenta idioma, documentação, moradia, trabalho precário e isolamento sem apoio suficiente.",
+      "anchors": [
+        "Mt 25,35",
+        "Lv 19,33-34",
+        "B13"
+      ],
+      "tags": [
+        "migração",
+        "acolhida"
+      ]
+    },
+    {
+      "id": "I08",
+      "column": "I",
+      "label": "Trabalhador explorado",
+      "definition": "Situação em que a necessidade econômica é usada para impor salário injusto, jornada abusiva, risco indevido ou humilhação no trabalho.",
+      "anchors": [
+        "Tg 5,4",
+        "Dt 24,14-15",
+        "B14"
+      ],
+      "tags": [
+        "trabalho",
+        "injustiça"
+      ]
+    },
+    {
+      "id": "I09",
+      "column": "I",
+      "label": "Criança sem cuidado",
+      "definition": "Situação em que a pobreza expõe uma criança à falta de alimento, presença adulta, estudo, proteção ou tratamento, ferindo alguém especialmente vulnerável.",
+      "anchors": [
+        "Mt 25,40",
+        "CEC 2448",
+        "B03"
+      ],
+      "tags": [
+        "infância",
+        "proteção"
+      ]
+    },
+    {
+      "id": "I10",
+      "column": "I",
+      "label": "Doença sem visita",
+      "definition": "Situação em que a pessoa enferma fica isolada por medo, incômodo ou cansaço dos outros, sofrendo também a pobreza da solidão.",
+      "anchors": [
+        "Mt 25,36",
+        "CEC 2447",
+        "B07"
+      ],
+      "tags": [
+        "doença",
+        "visita"
+      ]
+    },
+    {
+      "id": "I11",
+      "column": "I",
+      "label": "Luto sem sepultura",
+      "definition": "Situação em que a morte de uma pessoa pobre é tratada sem dignidade, sem presença, sem rito, sem memória e sem cuidado com os que ficam.",
+      "anchors": [
+        "CEC 2447",
+        "Tb 1,17",
+        "B07"
+      ],
+      "tags": [
+        "morte",
+        "sepultura"
+      ]
+    },
+    {
+      "id": "I12",
+      "column": "I",
+      "label": "Dívida que aprisiona",
+      "definition": "Situação em que juros, ameaça, penhora injusta ou dependência financeira mantêm a pessoa pobre presa a uma necessidade que nunca termina.",
+      "anchors": [
+        "CEC 2449",
+        "Dt 15,1-11",
+        "B04"
+      ],
+      "tags": [
+        "dívida",
+        "opressão"
+      ]
+    },
+    {
+      "id": "I13",
+      "column": "I",
+      "label": "Vício e miséria",
+      "definition": "Situação em que dependência química, pobreza, abandono e exploração se misturam, exigindo compaixão sem ingenuidade e limites sem desprezo.",
+      "anchors": [
+        "CEC 2448",
+        "Lc 10,25-37",
+        "G07"
+      ],
+      "tags": [
+        "vício",
+        "vulnerabilidade"
+      ]
+    },
+    {
+      "id": "I14",
+      "column": "I",
+      "label": "Solidão cultural",
+      "definition": "Situação em que a pobreza limita acesso a estudo, linguagem, informação, convivência e formação, tornando a pessoa mais fácil de enganar ou excluir.",
+      "anchors": [
+        "CEC 2444",
+        "CEC 2447",
+        "B08"
+      ],
+      "tags": [
+        "cultura",
+        "exclusão"
+      ]
+    },
+    {
+      "id": "I15",
+      "column": "I",
+      "label": "Fé sem acesso",
+      "definition": "Situação em que pobreza, distância, vergonha, falta de acolhida ou ignorância religiosa impedem a pessoa de receber formação, sacramentos e vida comunitária.",
+      "anchors": [
+        "CEC 2444",
+        "Mt 11,5",
+        "B08"
+      ],
+      "tags": [
+        "fé",
+        "evangelização"
+      ]
+    },
+    {
+      "id": "N01",
+      "column": "N",
+      "label": "Culpa do pobre",
+      "definition": "Narrativa que transforma toda pobreza em culpa individual, apagando injustiças, fragilidades, heranças familiares, doenças e responsabilidades de quem poderia ajudar.",
+      "anchors": [
+        "CEC 2448",
+        "Jo 9,1-3",
+        "I04"
+      ],
+      "tags": [
+        "culpa",
+        "preconceito"
+      ]
+    },
+    {
+      "id": "N02",
+      "column": "N",
+      "label": "Mérito sem próximo",
+      "definition": "Narrativa que usa esforço pessoal como desculpa para desprezar quem caiu, como se sucesso próprio autorizasse indiferença diante da necessidade alheia.",
+      "anchors": [
+        "Lc 10,25-37",
+        "CEC 1939-1942",
+        "B13"
+      ],
+      "tags": [
+        "mérito",
+        "indiferença"
+      ]
+    },
+    {
+      "id": "N03",
+      "column": "N",
+      "label": "Esmola resolve tudo",
+      "definition": "Narrativa que reduz o amor aos pobres a um gesto isolado de dinheiro, sem justiça, vínculo, conversão, responsabilidade ou enfrentamento de causas concretas.",
+      "anchors": [
+        "CEC 2446",
+        "CEC 2447",
+        "G03"
+      ],
+      "tags": [
+        "esmola",
+        "redução"
+      ]
+    },
+    {
+      "id": "N04",
+      "column": "N",
+      "label": "Política do descarte",
+      "definition": "Narrativa que trata pobres, doentes, idosos, presos e dependentes como peso social que deve ser escondido, afastado ou eliminado da atenção pública.",
+      "anchors": [
+        "Mt 25,35-40",
+        "CEC 2448",
+        "B03"
+      ],
+      "tags": [
+        "descarte",
+        "dignidade"
+      ]
+    },
+    {
+      "id": "N05",
+      "column": "N",
+      "label": "Medo como desculpa",
+      "definition": "Narrativa que usa riscos reais ou imaginados para justificar fechamento absoluto do coração, sem buscar nenhuma forma prudente de ajuda.",
+      "anchors": [
+        "Lc 10,33-35",
+        "CEC 2447",
+        "G07"
+      ],
+      "tags": [
+        "medo",
+        "omissão"
+      ]
+    },
+    {
+      "id": "N06",
+      "column": "N",
+      "label": "Riqueza como absolvição",
+      "definition": "Narrativa que considera o acúmulo de bens prova automática de virtude, como se dinheiro apagasse avareza, exploração ou indiferença.",
+      "anchors": [
+        "CEC 2445",
+        "Tg 5,1-6",
+        "B11"
+      ],
+      "tags": [
+        "riqueza",
+        "autoengano"
+      ]
+    },
+    {
+      "id": "N07",
+      "column": "N",
+      "label": "Caridade sem justiça",
+      "definition": "Narrativa que chama de bondade aquilo que antes era obrigação, usando doação visível para esconder salário injusto, dívida não paga ou direito negado.",
+      "anchors": [
+        "CEC 2446",
+        "Tg 5,4",
+        "G04"
+      ],
+      "tags": [
+        "caridade",
+        "injustiça"
+      ]
+    },
+    {
+      "id": "N08",
+      "column": "N",
+      "label": "Justiça sem caridade",
+      "definition": "Narrativa que fala de direitos com dureza, desprezo e ódio, esquecendo que a defesa do pobre deve preservar a dignidade de todos.",
+      "anchors": [
+        "CEC 1822",
+        "1Cor 13,1-3",
+        "G04"
+      ],
+      "tags": [
+        "justiça",
+        "dureza"
+      ]
+    },
+    {
+      "id": "N09",
+      "column": "N",
+      "label": "Espiritualizar a fome",
+      "definition": "Narrativa que oferece apenas palavras religiosas a quem precisa de pão, remédio, roupa ou proteção, usando a fé para fugir da responsabilidade concreta.",
+      "anchors": [
+        "Tg 2,15-16",
+        "Mt 25,35",
+        "B07"
+      ],
+      "tags": [
+        "fé",
+        "omissão"
+      ]
+    },
+    {
+      "id": "N10",
+      "column": "N",
+      "label": "Distância confortável",
+      "definition": "Narrativa que transforma pobreza em assunto distante, estatística ou opinião, para evitar proximidade, exame de consciência e decisão prática.",
+      "anchors": [
+        "Lc 10,31-32",
+        "1Jo 3,17-18",
+        "B13"
+      ],
+      "tags": [
+        "distância",
+        "indiferença"
+      ]
+    },
+    {
+      "id": "N11",
+      "column": "N",
+      "label": "Merecimento seletivo",
+      "definition": "Narrativa que só aceita ajudar o pobre considerado limpo, grato, educado ou moralmente aprovado, negando misericórdia a quem incomoda.",
+      "anchors": [
+        "Mt 25,35-40",
+        "Lc 6,35-36",
+        "G14"
+      ],
+      "tags": [
+        "merecimento",
+        "misericórdia"
+      ]
+    },
+    {
+      "id": "N12",
+      "column": "N",
+      "label": "Pobres como ameaça",
+      "definition": "Narrativa que lê a presença do pobre principalmente como perigo, sujeira ou desordem, antes de reconhecer ali uma pessoa ferida e digna.",
+      "anchors": [
+        "Mt 25,40",
+        "CEC 2448",
+        "B03"
+      ],
+      "tags": [
+        "medo",
+        "preconceito"
+      ]
+    },
+    {
+      "id": "N13",
+      "column": "N",
+      "label": "Trabalho basta",
+      "definition": "Narrativa que repete que basta trabalhar, ignorando doença, idade, desemprego, exploração, falta de formação, dependência, luto e injustiças reais.",
+      "anchors": [
+        "CEC 2448",
+        "CEC 2449",
+        "I08"
+      ],
+      "tags": [
+        "trabalho",
+        "simplismo"
+      ]
+    },
+    {
+      "id": "N14",
+      "column": "N",
+      "label": "Assistência humilhante",
+      "definition": "Narrativa que ajuda para dominar, expor, comprar gratidão ou mostrar superioridade, ferindo a dignidade de quem recebe.",
+      "anchors": [
+        "Mt 6,1-4",
+        "CEC 2447",
+        "B03"
+      ],
+      "tags": [
+        "humilhação",
+        "ajuda"
+      ]
+    },
+    {
+      "id": "N15",
+      "column": "N",
+      "label": "Sempre foi assim",
+      "definition": "Narrativa que usa a permanência da pobreza como desculpa para aceitar injustiças sem conversão, como se o mal repetido deixasse de ser mal.",
+      "anchors": [
+        "Dt 15,11",
+        "Jo 12,8",
+        "CEC 2449"
+      ],
+      "tags": [
+        "resignação",
+        "omissão"
+      ]
+    },
+    {
+      "id": "G01",
+      "column": "G",
+      "label": "Pessoa e condição",
+      "definition": "Discernimento entre a pessoa, que possui dignidade inegociável, e sua condição de pobreza, vício, prisão ou doença, que não define todo o seu valor.",
+      "anchors": [
+        "Mt 25,40",
+        "CEC 2448",
+        "B03"
+      ],
+      "tags": [
+        "dignidade",
+        "distinção"
+      ]
+    },
+    {
+      "id": "G02",
+      "column": "G",
+      "label": "Pobreza e miséria",
+      "definition": "Discernimento entre pobreza como simplicidade ou falta de bens supérfluos e miséria como privação grave do necessário que fere a vida e exige socorro.",
+      "anchors": [
+        "CEC 2448",
+        "Mt 5,3",
+        "B15"
+      ],
+      "tags": [
+        "pobreza",
+        "miséria"
+      ]
+    },
+    {
+      "id": "G03",
+      "column": "G",
+      "label": "Esmola e caridade",
+      "definition": "Discernimento entre a esmola como gesto material legítimo e a caridade como virtude mais profunda, que inclui intenção reta, respeito e perseverança.",
+      "anchors": [
+        "CEC 2447",
+        "CEC 1822",
+        "B09"
+      ],
+      "tags": [
+        "esmola",
+        "caridade"
+      ]
+    },
+    {
+      "id": "G04",
+      "column": "G",
+      "label": "Caridade e justiça",
+      "definition": "Discernimento entre socorrer por amor e cumprir o que é devido por justiça; a caridade não autoriza negar direitos, e a justiça não dispensa amor.",
+      "anchors": [
+        "CEC 2446",
+        "CEC 1807",
+        "B05"
+      ],
+      "tags": [
+        "caridade",
+        "justiça"
+      ]
+    },
+    {
+      "id": "G05",
+      "column": "G",
+      "label": "Prudência e omissão",
+      "definition": "Discernimento entre agir com cuidado diante de riscos reais e usar a prudência como nome bonito para não se comprometer com nenhuma ajuda possível.",
+      "anchors": [
+        "Lc 10,33-35",
+        "CEC 2447",
+        "N05"
+      ],
+      "tags": [
+        "prudência",
+        "omissão"
+      ]
+    },
+    {
+      "id": "G06",
+      "column": "G",
+      "label": "Ajuda e dependência",
+      "definition": "Discernimento entre socorrer uma necessidade real e criar relação de controle ou dependência que impede a pessoa de recuperar responsabilidade e autonomia possível.",
+      "anchors": [
+        "CEC 2447",
+        "CEC 1939-1942",
+        "O03"
+      ],
+      "tags": [
+        "ajuda",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "G07",
+      "column": "G",
+      "label": "Proximidade e risco",
+      "definition": "Discernimento entre aproximar-se do pobre como próximo e reconhecer limites de segurança, competência e encaminhamento, sem desprezo nem imprudência.",
+      "anchors": [
+        "Lc 10,25-37",
+        "CEC 2447",
+        "I13"
+      ],
+      "tags": [
+        "proximidade",
+        "risco"
+      ]
+    },
+    {
+      "id": "G08",
+      "column": "G",
+      "label": "Urgência e estrutura",
+      "definition": "Discernimento entre resposta imediata a uma necessidade concreta e trabalho mais longo sobre causas, leis, hábitos, instituições e injustiças que produzem pobreza.",
+      "anchors": [
+        "CEC 2448",
+        "CEC 2449",
+        "B13"
+      ],
+      "tags": [
+        "urgência",
+        "estrutura"
+      ]
+    },
+    {
+      "id": "G09",
+      "column": "G",
+      "label": "Preferência e exclusão",
+      "definition": "Discernimento entre preferência evangélica pelos pobres e exclusão rancorosa de outros grupos; amar preferencialmente não significa odiar quem tem bens.",
+      "anchors": [
+        "CEC 2444",
+        "Mt 5,43-48",
+        "B02"
+      ],
+      "tags": [
+        "preferência",
+        "universalidade"
+      ]
+    },
+    {
+      "id": "G10",
+      "column": "G",
+      "label": "Necessário e supérfluo",
+      "definition": "Discernimento entre o que sustenta uma vida digna e o que alimenta luxo, vaidade ou desperdício, especialmente quando há pobres sem o indispensável.",
+      "anchors": [
+        "Lc 3,11",
+        "CEC 2446",
+        "B04"
+      ],
+      "tags": [
+        "bens",
+        "consumo"
+      ]
+    },
+    {
+      "id": "G11",
+      "column": "G",
+      "label": "Compaixão e vaidade",
+      "definition": "Discernimento entre compaixão verdadeira, que busca o bem do pobre, e ajuda usada para aparecer, controlar a narrativa ou sentir-se moralmente superior.",
+      "anchors": [
+        "Mt 6,1-4",
+        "CEC 2447",
+        "N14"
+      ],
+      "tags": [
+        "compaixão",
+        "vaidade"
+      ]
+    },
+    {
+      "id": "G12",
+      "column": "G",
+      "label": "Denúncia e ideologia",
+      "definition": "Discernimento entre denunciar injustiças reais contra os pobres e usar a pobreza como instrumento de ressentimento, manipulação ou disputa de poder.",
+      "anchors": [
+        "Am 8,6",
+        "Tg 5,1-6",
+        "CEC 2449"
+      ],
+      "tags": [
+        "denúncia",
+        "ideologia"
+      ]
+    },
+    {
+      "id": "G13",
+      "column": "G",
+      "label": "Perdão e reparação",
+      "definition": "Discernimento entre perdoar ofensas e reparar danos materiais ou sociais; o perdão cristão não elimina a obrigação de devolver, corrigir e assumir consequências.",
+      "anchors": [
+        "Lc 19,8",
+        "CEC 2412",
+        "B05"
+      ],
+      "tags": [
+        "perdão",
+        "reparação"
+      ]
+    },
+    {
+      "id": "G14",
+      "column": "G",
+      "label": "Vulnerável e culpado",
+      "definition": "Discernimento entre reconhecer responsabilidade moral de uma pessoa e perceber vulnerabilidades que diminuem, agravam ou modificam a forma justa de ajudá-la.",
+      "anchors": [
+        "CEC 2448",
+        "Lc 15,11-32",
+        "N11"
+      ],
+      "tags": [
+        "culpa",
+        "vulnerabilidade"
+      ]
+    },
+    {
+      "id": "G15",
+      "column": "G",
+      "label": "Oração e passividade",
+      "definition": "Discernimento entre rezar com fé pelos pobres e usar a oração como substituto cômodo de obras possíveis de misericórdia e justiça.",
+      "anchors": [
+        "Tg 2,15-16",
+        "CEC 2447",
+        "O13"
+      ],
+      "tags": [
+        "oração",
+        "ação"
+      ]
+    },
+    {
+      "id": "O01",
+      "column": "O",
+      "label": "Dar alimento real",
+      "definition": "Resposta concreta de oferecer comida, água ou compra básica adequada a quem precisa, sem transformar a necessidade do outro em discurso vazio.",
+      "anchors": [
+        "Mt 25,35",
+        "Tg 2,15-16",
+        "B07"
+      ],
+      "tags": [
+        "alimento",
+        "ação"
+      ]
+    },
+    {
+      "id": "O02",
+      "column": "O",
+      "label": "Partilhar o necessário",
+      "definition": "Resposta concreta de rever o próprio uso dos bens e separar parte real do que se tem para quem carece do indispensável.",
+      "anchors": [
+        "Lc 3,11",
+        "CEC 2446",
+        "B04"
+      ],
+      "tags": [
+        "partilha",
+        "bens"
+      ]
+    },
+    {
+      "id": "O03",
+      "column": "O",
+      "label": "Encaminhar com cuidado",
+      "definition": "Resposta concreta de orientar a pessoa pobre a serviço, profissional, familiar, instituição ou autoridade competente, sem abandoná-la nem assumir sozinho o que exige rede.",
+      "anchors": [
+        "CEC 2447",
+        "G06",
+        "G07"
+      ],
+      "tags": [
+        "encaminhamento",
+        "prudência"
+      ]
+    },
+    {
+      "id": "O04",
+      "column": "O",
+      "label": "Visitar sem invadir",
+      "definition": "Resposta concreta de visitar doente, idoso, preso ou solitário com respeito, escuta e limite, sem curiosidade indevida nem exposição da dor alheia.",
+      "anchors": [
+        "Mt 25,36",
+        "CEC 2447",
+        "I10"
+      ],
+      "tags": [
+        "visita",
+        "respeito"
+      ]
+    },
+    {
+      "id": "O05",
+      "column": "O",
+      "label": "Escutar antes de julgar",
+      "definition": "Resposta concreta de ouvir a história e a necessidade da pessoa antes de reduzir sua pobreza a preguiça, vício, culpa ou ameaça.",
+      "anchors": [
+        "Tg 1,19",
+        "N01",
+        "G14"
+      ],
+      "tags": [
+        "escuta",
+        "discernimento"
+      ]
+    },
+    {
+      "id": "O06",
+      "column": "O",
+      "label": "Pagar salário justo",
+      "definition": "Resposta concreta de cumprir pontualmente o pagamento devido ao trabalhador, sem usar necessidade, informalidade ou silêncio para reter o que é justo.",
+      "anchors": [
+        "Tg 5,4",
+        "Dt 24,14-15",
+        "B14"
+      ],
+      "tags": [
+        "salário",
+        "justiça"
+      ]
+    },
+    {
+      "id": "O07",
+      "column": "O",
+      "label": "Recusar exploração",
+      "definition": "Resposta concreta de não aceitar vantagem construída sobre salário injusto, humilhação, risco indevido, golpe, corrupção ou abuso da necessidade alheia.",
+      "anchors": [
+        "Am 8,6",
+        "CEC 2445",
+        "I08"
+      ],
+      "tags": [
+        "exploração",
+        "renúncia"
+      ]
+    },
+    {
+      "id": "O08",
+      "column": "O",
+      "label": "Reparar a omissão",
+      "definition": "Resposta concreta de reconhecer quando se virou as costas ao pobre, corrigir a negligência possível e assumir gesto proporcional de reparação.",
+      "anchors": [
+        "Mt 5,42",
+        "1Jo 3,17-18",
+        "G13"
+      ],
+      "tags": [
+        "reparação",
+        "omissão"
+      ]
+    },
+    {
+      "id": "O09",
+      "column": "O",
+      "label": "Proteger a dignidade",
+      "definition": "Resposta concreta de ajudar sem expor imagem, nome, vergonha, endereço ou história da pessoa pobre quando isso não é necessário para socorrê-la.",
+      "anchors": [
+        "Mt 6,1-4",
+        "B03",
+        "G11"
+      ],
+      "tags": [
+        "dignidade",
+        "proteção"
+      ]
+    },
+    {
+      "id": "O10",
+      "column": "O",
+      "label": "Acompanhar o doente",
+      "definition": "Resposta concreta de permanecer junto ao enfermo pobre com visita, transporte, remédio possível, presença responsável ou ajuda a quem cuida.",
+      "anchors": [
+        "Mt 25,36",
+        "CEC 2447",
+        "I02"
+      ],
+      "tags": [
+        "doença",
+        "acompanhamento"
+      ]
+    },
+    {
+      "id": "O11",
+      "column": "O",
+      "label": "Defender sem humilhar",
+      "definition": "Resposta concreta de corrigir injustiça contra o pobre sem transformar a defesa em insulto, exposição, vingança ou desprezo por outras pessoas.",
+      "anchors": [
+        "CEC 1822",
+        "G12",
+        "N08"
+      ],
+      "tags": [
+        "defesa",
+        "caridade"
+      ]
+    },
+    {
+      "id": "O12",
+      "column": "O",
+      "label": "Organizar a partilha",
+      "definition": "Resposta concreta de combinar coleta, compra, escala, cadastro, entrega ou prestação de contas para que a ajuda seja fiel, limpa e contínua.",
+      "anchors": [
+        "At 4,32-35",
+        "CEC 2447",
+        "B13"
+      ],
+      "tags": [
+        "organização",
+        "partilha"
+      ]
+    },
+    {
+      "id": "O13",
+      "column": "O",
+      "label": "Rezar e agir",
+      "definition": "Resposta concreta de levar os pobres diante de Deus na oração e, ao mesmo tempo, fazer a obra possível de misericórdia e justiça.",
+      "anchors": [
+        "Tg 2,15-16",
+        "CEC 2447",
+        "G15"
+      ],
+      "tags": [
+        "oração",
+        "ação"
+      ]
+    },
+    {
+      "id": "O14",
+      "column": "O",
+      "label": "Formar consciência",
+      "definition": "Resposta concreta de estudar a fé, corrigir preconceitos, aprender critérios morais e ensinar outros a reconhecer Cristo nos pobres.",
+      "anchors": [
+        "CEC 2443-2449",
+        "CEC 2447",
+        "B08"
+      ],
+      "tags": [
+        "formação",
+        "consciência"
+      ]
+    },
+    {
+      "id": "O15",
+      "column": "O",
+      "label": "Cobrar justiça legítima",
+      "definition": "Resposta concreta de buscar canais corretos para denunciar exploração, exigir direito, apoiar políticas justas ou cobrar responsáveis sem mentira nem violência.",
+      "anchors": [
+        "Am 8,6",
+        "Tg 5,1-6",
+        "G12"
+      ],
+      "tags": [
+        "justiça",
+        "denúncia"
+      ]
+    }
+  ]
+}

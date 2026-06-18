@@ -1,0 +1,308 @@
+{
+  "title": "Carta de explicações rápidas — Bingo Deus criou-nos para amar",
+  "meeting": "Encontro 14 — Deus criou-nos para amar",
+  "source_calls": "data/chamadas.json",
+  "purpose": "Explicações breves para o condutor usar durante a chamada de cada carta.",
+  "entries": [
+    {
+      "id": "B01",
+      "explanation": "A **vocação ao amor** significa que a pessoa não foi criada para viver fechada em si. Deus nos criou por amor e nos chamou a amar. Isso dá direção à liberdade, aos afetos e aos compromissos."
+    },
+    {
+      "id": "B02",
+      "explanation": "O **amor primeiro de Deus** vem antes do nosso mérito. Isso não torna o pecado pequeno, mas impede o desespero. Quem se sabe amado pode dizer a verdade, arrepender-se e recomeçar."
+    },
+    {
+      "id": "B03",
+      "explanation": "A **imagem de Deus** é a raiz da dignidade humana. Ninguém vale mais por ser útil, bonito, forte ou respeitado. Amar começa por reconhecer a pessoa como alguém que Deus quis e ama."
+    },
+    {
+      "id": "B04",
+      "explanation": "Dizer que **Deus é amor** impede chamar qualquer desejo de amor. O amor verdadeiro precisa estar unido à verdade e ao bem da pessoa. Quando o amor se separa de Deus, vira palavra vazia."
+    },
+    {
+      "id": "B05",
+      "explanation": "O **dom de si** mostra que amar custa algo real. Não é submissão cega nem busca de aplauso. É escolher o bem do outro sem perder a própria dignidade diante de Deus."
+    },
+    {
+      "id": "B06",
+      "explanation": "O **amor ao irmão visível** prova a seriedade da fé. Não basta falar de Deus enquanto se ignora o próximo concreto. A caridade cristã se torna presença, cuidado e responsabilidade possível."
+    },
+    {
+      "id": "B07",
+      "explanation": "O **corpo** não é coisa separada da pessoa. Ele participa da dignidade de quem foi criado por Deus. Por isso, usar, expor ou consumir o corpo fere a verdade do amor."
+    },
+    {
+      "id": "B08",
+      "explanation": "A **liberdade** cristã não é licença para qualquer vontade. Ela existe para escolher o bem com responsabilidade. Quando uma escolha fere o próximo, já não é liberdade madura."
+    },
+    {
+      "id": "B09",
+      "explanation": "A **caridade** quer o bem verdadeiro do outro. Ela não é sentimentalismo, nem dureza sem misericórdia. Une verdade, cuidado, justiça e disposição concreta de servir."
+    },
+    {
+      "id": "B10",
+      "explanation": "A **castidade integrada** educa o amor. Ela não despreza o corpo nem os afetos, mas os ordena à dignidade da pessoa. Sem castidade, desejo e pressão tomam o lugar do dom."
+    },
+    {
+      "id": "B11",
+      "explanation": "O **pecado contra o amor** não é só sentir ódio. É escolher algo que fere Deus, o próximo ou a própria pessoa. O amor cristão exige reconhecer o mal e buscar conversão."
+    },
+    {
+      "id": "B12",
+      "explanation": "A **graça que cura** mostra que Deus não abandona quem caiu. O perdão não é desculpa para continuar igual. Ele dá força para confessar, reparar e retomar o caminho do amor."
+    },
+    {
+      "id": "B13",
+      "explanation": "A **dignidade inviolável** não depende de saúde, idade, dinheiro ou utilidade. Toda pessoa deve ser tratada como alguém amado por Deus. A lógica do descarte é incompatível com a fé cristã."
+    },
+    {
+      "id": "B14",
+      "explanation": "A **fecundidade do amor** aparece quando o amor gera vida, cuidado e responsabilidade. Não é apenas ter bons sentimentos. O amor verdadeiro deixa frutos concretos no mundo."
+    },
+    {
+      "id": "B15",
+      "explanation": "A **comunhão e verdade** caminham juntas. Uma paz baseada em mentira não cura a ferida. A verdade precisa ser dita com caridade, e a caridade não pode viver de aparência."
+    },
+    {
+      "id": "I01",
+      "explanation": "O **afeto como moeda** acontece quando carinho vira instrumento de controle. A pessoa dá ou retira atenção para forçar obediência. O amor cristão não manipula; ele fala a verdade e respeita a liberdade."
+    },
+    {
+      "id": "I02",
+      "explanation": "A **solidão escondida** mostra que contato não é o mesmo que comunhão. Alguém pode falar com muitos e não ser realmente visto por ninguém. Amar exige presença concreta e escuta sem uso."
+    },
+    {
+      "id": "I03",
+      "explanation": "O **namoro possessivo** usa linguagem de amor para controlar. Senhas, ameaças, isolamento e vigilância não são cuidado verdadeiro. O amor respeita liberdade, dignidade e limites."
+    },
+    {
+      "id": "I04",
+      "explanation": "O **corpo como produto** aparece quando a pessoa é reduzida ao olhar, ao lucro ou ao desejo. Isso fere a unidade entre corpo e pessoa. A resposta cristã é guardar o corpo e purificar o olhar."
+    },
+    {
+      "id": "I05",
+      "explanation": "A **família sem escuta** pode manter aparência de convivência, mas viver sem comunhão. Grito, ironia e silêncio prolongado ferem o amor. A caridade começa por falar e ouvir com verdade."
+    },
+    {
+      "id": "I06",
+      "explanation": "O **cuidado de doente** revela se o amor sabe permanecer na fragilidade. A doença tira a ilusão de que amar é sempre agradável. O cuidado cristão precisa de presença, paciência e apoio real."
+    },
+    {
+      "id": "I07",
+      "explanation": "O **trabalho explorador** trata pessoas como peças de produção. Lucro não justifica humilhar, ameaçar ou negar condições humanas. A dignidade do trabalhador também pertence ao mandamento do amor."
+    },
+    {
+      "id": "I08",
+      "explanation": "O **idoso descartado** denuncia a lógica de valor pela produtividade. A idade e a dependência não diminuem a dignidade. Amar exige escutar, cuidar e organizar responsabilidades possíveis."
+    },
+    {
+      "id": "I09",
+      "explanation": "A **pressão sexual** usa afeto, culpa ou medo para vencer a liberdade do outro. Isso contradiz a castidade e a dignidade da pessoa. Um não deve ser respeitado, e coerção exige limite e ajuda."
+    },
+    {
+      "id": "I10",
+      "explanation": "A **pornografia normalizada** educa o olhar para o consumo de pessoas. Mesmo escondida, ela forma desejos e enfraquece o amor. Romper com esse consumo é exigência concreta de castidade."
+    },
+    {
+      "id": "I11",
+      "explanation": "O **perdão difícil** não pode ser reduzido a esquecer rápido. Uma ofensa real pede verdade, justiça e reparação. O perdão cristão abre caminho de cura, mas não exige mentira sobre o dano."
+    },
+    {
+      "id": "I12",
+      "explanation": "A **carência manipulada** é uma ferida que pode tornar alguém vulnerável. A necessidade de afeto não justifica aceitar humilhação nem controlar outra pessoa. A resposta passa por ajuda segura e limites."
+    },
+    {
+      "id": "I13",
+      "explanation": "A **vida tratada como peso** revela a tentação de medir pessoas pela conveniência. A vida frágil continua tendo dignidade inteira. Amar é proteger a pessoa e apoiar concretamente quem enfrenta dificuldade."
+    },
+    {
+      "id": "I14",
+      "explanation": "A **fama acima da pessoa** transforma dor, imagem e intimidade em produto. A verdade não pode ser usada como espetáculo. A caridade protege a dignidade mesmo quando há fatos que precisam ser tratados."
+    },
+    {
+      "id": "I15",
+      "explanation": "A **amizade interesseira** dura enquanto há vantagem. Quando servir custa, ela desaparece. O amor cristão purifica os vínculos para que a pessoa valha mais que o benefício recebido."
+    },
+    {
+      "id": "N01",
+      "explanation": "A mentira do **só sentimento** reduz o amor ao estado emocional do momento. Sentimentos são importantes, mas precisam ser educados. Amor verdadeiro inclui decisão, fidelidade e responsabilidade."
+    },
+    {
+      "id": "N02",
+      "explanation": "A **posse disfarçada** chama controle de cuidado. Essa linguagem parece protetora, mas toma a liberdade do outro. O amor quer o bem da pessoa, não a sua submissão."
+    },
+    {
+      "id": "N03",
+      "explanation": "A **falsa autonomia** usa a liberdade para fugir das consequências. A frase 'é minha vida' pode esconder danos reais aos outros. A liberdade cristã sempre responde diante de Deus e do próximo."
+    },
+    {
+      "id": "N04",
+      "explanation": "A desculpa **todo mundo faz** troca a consciência pela maioria. Um erro comum continua sendo erro. O cristão precisa formar a consciência para resistir à normalização do mal."
+    },
+    {
+      "id": "N05",
+      "explanation": "A narrativa **desejo manda** trata o impulso como autoridade final. Mas sentir não é o mesmo que escolher bem. A liberdade madura ordena desejos à verdade do amor."
+    },
+    {
+      "id": "N06",
+      "explanation": "A mentira do **corpo sem alma** separa corpo e pessoa. Assim fica mais fácil justificar uso, exposição e consumo sexual. A fé cristã afirma que o corpo participa da dignidade da pessoa inteira."
+    },
+    {
+      "id": "N07",
+      "explanation": "A **pessoa descartável** é medida por conveniência e produtividade. Essa lógica abandona quem ficou fraco, doente ou difícil. O amor cristão reconhece valor permanente em cada pessoa."
+    },
+    {
+      "id": "N08",
+      "explanation": "A frase **carência justifica** usa uma ferida real para desculpar o mal. Dor afetiva precisa de cuidado, não de licença para manipular. A graça cura a ferida e chama à responsabilidade."
+    },
+    {
+      "id": "N09",
+      "explanation": "A ideia de que **ciúme prova amor** confunde intensidade com caridade. Ciúme que vigia, ameaça ou humilha é sinal de posse. O amor cristão exige domínio de si e respeito pelo outro."
+    },
+    {
+      "id": "N10",
+      "explanation": "O **prazer sem consequência** promete liberdade, mas separa prazer de pessoa e responsabilidade. A sexualidade nunca é neutra para o corpo e a consciência. A castidade recoloca o prazer no caminho do amor verdadeiro."
+    },
+    {
+      "id": "N11",
+      "explanation": "A **verdade sem caridade** usa fatos reais como arma. Dizer a verdade não autoriza humilhar. A correção cristã deve buscar o bem, no modo certo e com intenção reta."
+    },
+    {
+      "id": "N12",
+      "explanation": "A **oração sem compromisso** transforma linguagem religiosa em desculpa para omissão. A oração é necessária, mas não substitui a caridade possível. Quem ama a Deus deve amar o irmão visível."
+    },
+    {
+      "id": "N13",
+      "explanation": "**Perdoar é aceitar tudo** é uma falsa leitura da misericórdia. Perdão não exige permanecer em risco nem apagar justiça. A caridade protege a vítima, busca verdade e abre caminho para conversão."
+    },
+    {
+      "id": "N14",
+      "explanation": "A **aparência vale mais** quando imagem, status ou curtida governam a consciência. Essa lógica sacrifica verdade e justiça. A dignidade da pessoa vale mais que qualquer reputação fabricada."
+    },
+    {
+      "id": "N15",
+      "explanation": "A mentira **utilidade decide valor** nega a dignidade recebida de Deus. Quem não produz ou não retribui continua sendo pessoa inteira. O amor cristão é gratuito e protege os frágeis."
+    },
+    {
+      "id": "G01",
+      "explanation": "**Pessoa e ato** devem ser distinguidos. O ato mau precisa ser julgado e pode exigir consequência. A pessoa, mesmo culpada, não perde sua dignidade diante de Deus."
+    },
+    {
+      "id": "G02",
+      "explanation": "**Sentimento e escolha** não são a mesma coisa. Um sentimento pode surgir sem pleno controle imediato. Alimentar, consentir e agir a partir dele já envolve responsabilidade moral."
+    },
+    {
+      "id": "G03",
+      "explanation": "**Desejo e bem** precisam ser discernidos. Nem tudo que atrai conduz ao amor verdadeiro. A liberdade cristã ordena o desejo ao bem da pessoa e aos compromissos justos."
+    },
+    {
+      "id": "G04",
+      "explanation": "**Amor e posse** podem parecer parecidos por fora. Mas a posse controla, vigia e isola. O amor quer o bem do outro e respeita sua dignidade e liberdade."
+    },
+    {
+      "id": "G05",
+      "explanation": "**Acolhida e aprovação** não são iguais. A pessoa deve ser acolhida com dignidade. Isso não obriga aprovar escolhas que ferem a verdade, o bem ou a própria pessoa."
+    },
+    {
+      "id": "G06",
+      "explanation": "**Prudência e omissão** precisam ser separadas. Prudência busca o modo certo de agir. Omissão usa o medo ou o conforto para deixar o mal continuar."
+    },
+    {
+      "id": "G07",
+      "explanation": "**Misericórdia e banalização** não são a mesma coisa. A misericórdia leva o pecado a sério porque ele fere. Banalizar é fingir que não houve mal nem necessidade de conversão."
+    },
+    {
+      "id": "G08",
+      "explanation": "**Verdade e humilhação** se distinguem pelo fim, pelo modo e pela proporção. A verdade cristã serve ao bem. Quando a exposição busca ferir, divertir ou vencer, falta caridade."
+    },
+    {
+      "id": "G09",
+      "explanation": "**Limite e rejeição** não são iguais. Um limite pode proteger a vida, a castidade e a dignidade. Rejeição despreza a pessoa; limite justo busca impedir o mal."
+    },
+    {
+      "id": "G10",
+      "explanation": "**Perdão e confiança** precisam ser distinguidos. Perdoar é renunciar ao ódio e abrir-se à misericórdia. Restituir confiança exige verdade, reparação e sinais reais de mudança."
+    },
+    {
+      "id": "G11",
+      "explanation": "**Corpo e objeto** é uma distinção central para afetividade e sexualidade. O corpo expressa a pessoa, não uma mercadoria. Reduzi-lo a uso ou lucro fere a dignidade."
+    },
+    {
+      "id": "G12",
+      "explanation": "**Liberdade e impulso** não coincidem. O impulso pede resposta imediata; a liberdade avalia o bem. Dominar-se é parte da maturidade do amor."
+    },
+    {
+      "id": "G13",
+      "explanation": "**Serviço e servilismo** precisam ser separados. Servir por amor é nobre. Aceitar exploração ou apagamento da própria dignidade não é caridade cristã."
+    },
+    {
+      "id": "G14",
+      "explanation": "**Fecundidade e responsabilidade** caminham juntas. O amor aberto à vida deve assumir cuidado real. Gerar ou acolher vida sem presença e compromisso contradiz o próprio amor."
+    },
+    {
+      "id": "G15",
+      "explanation": "**Intenção e consequência** devem ser consideradas juntas. A intenção pode diminuir ou esclarecer a culpa, mas não apaga o dano. Amar exige prever efeitos e reparar quando se feriu alguém."
+    },
+    {
+      "id": "O01",
+      "explanation": "**Nomear a manipulação** tira a mentira do escuro. Dizer o que está acontecendo não é insultar. É um passo para recuperar liberdade, verdade e limite."
+    },
+    {
+      "id": "O02",
+      "explanation": "**Cortar ocasião de pecado** é medida prudente, não teatro moral. Quem conhece sua fragilidade deve evitar o que alimenta a queda. A liberdade precisa de limites concretos para crescer."
+    },
+    {
+      "id": "O03",
+      "explanation": "**Pedir ajuda segura** é necessário quando há ameaça, abuso ou confusão grave. Nem tudo se resolve sozinho ou em conversa privada. A caridade protege a pessoa e procura auxílio responsável."
+    },
+    {
+      "id": "O04",
+      "explanation": "**Reparar dano causado** é mais que sentir remorso. Quando o mal atingiu outros, a resposta deve buscar corrigir, restituir e pedir perdão. A conversão precisa chegar onde o dano chegou."
+    },
+    {
+      "id": "O05",
+      "explanation": "**Guardar o corpo** é reconhecer que o corpo participa da dignidade da pessoa. Pressão, exposição e chantagem não são amor. A castidade protege liberdade, intimidade e verdade."
+    },
+    {
+      "id": "O06",
+      "explanation": "**Escutar sem usar** é acolher a dor do outro com respeito. Quem escuta não se torna dono da história alheia. A caridade une atenção, discrição e ajuda concreta."
+    },
+    {
+      "id": "O07",
+      "explanation": "**Sustentar limite claro** pode ser ato de amor. O limite impede pressão, abuso ou cooperação com o mal. Ele deve ser comunicado com firmeza, sem vingança e sem desprezo."
+    },
+    {
+      "id": "O08",
+      "explanation": "**Confessar e recomeçar** une verdade e misericórdia. A confissão não é humilhação vazia, mas encontro com Deus que perdoa. O recomeço pede passos concretos de conversão."
+    },
+    {
+      "id": "O09",
+      "explanation": "**Servir quem não retribui** revela gratuidade. O amor cristão não escolhe apenas quem dá retorno. Cuidar do frágil educa o coração para o dom de si."
+    },
+    {
+      "id": "O10",
+      "explanation": "**Formar a consciência** é buscar a verdade antes de decidir. Não basta seguir vontade, ambiente ou opinião conveniente. Palavra de Deus, doutrina e conselho prudente ajudam a escolher o bem."
+    },
+    {
+      "id": "O11",
+      "explanation": "**Romper consumo impuro** exige decisão prática. Pornografia e erotização não se vencem apenas com intenção vaga. É preciso cortar acesso, buscar ajuda e reeducar o olhar."
+    },
+    {
+      "id": "O12",
+      "explanation": "**Proteger sem expor** une justiça e discrição. Quem está em risco precisa de ajuda, não de espetáculo. A caridade encaminha corretamente e guarda a dignidade da pessoa ferida."
+    },
+    {
+      "id": "O13",
+      "explanation": "**Converter o afeto** não é negar que se sente. É ordenar sentimentos e desejos para que busquem o bem verdadeiro. Isso exige oração, domínio de si, limites e tempo."
+    },
+    {
+      "id": "O14",
+      "explanation": "**Assumir compromisso** transforma amor em fidelidade concreta. Declarações bonitas não substituem presença, cuidado e responsabilidade. O amor amadurece quando permanece no que é justo."
+    },
+    {
+      "id": "O15",
+      "explanation": "**Rezar e agir** evita dois erros: ativismo sem Deus e piedade sem caridade. A oração sincera abre o coração para o próximo. A ação concreta mostra que o amor foi levado a sério."
+    }
+  ]
+}

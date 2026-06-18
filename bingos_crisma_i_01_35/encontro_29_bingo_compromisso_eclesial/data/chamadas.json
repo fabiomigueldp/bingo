@@ -1,0 +1,1983 @@
+{
+  "title": "Chamadas — Bingo Compromisso eclesial",
+  "meeting": "Encontro 29 — Compromisso eclesial",
+  "source_terms": "data/termos.json",
+  "method": {
+    "read_order": [
+      "call_label",
+      "case",
+      "reading_points"
+    ],
+    "rule": "A cada carta, anuncie código e conceito, leia o caso e explique brevemente a relação usando a Leitura do caso. Depois as equipes marcam o código, se estiver na cartela.",
+    "conference_rule": "Ao fechar duas linhas válidas, horizontais, verticais ou diagonais, a equipe escolhe uma dessas linhas completas, explica pelo menos três conceitos da linha escolhida e liga pelo menos um deles à base bíblica ou doutrinal do encontro. As duas linhas podem se cruzar. O centro livre já conta como casa marcada para completar linhas, mas não conta como um dos três conceitos explicados."
+  },
+  "cards": [
+    {
+      "id": "B01",
+      "term_id": "B01",
+      "call_label": "B01 - Bom Pastor",
+      "case": "Uma comunidade se desanima depois de uma troca de padre e alguns dizem que não sabem mais se vale a pena continuar participando.",
+      "conference_question": "O que muda quando o compromisso com a comunidade é lido a partir de Cristo, o Bom Pastor, e não apenas a partir da simpatia por pessoas?",
+      "anchors": [
+        "Jo 10,11",
+        "CEC 2179"
+      ],
+      "facilitator_note": "Mostre que pessoas concretas importam, mas Cristo é o fundamento que permanece.",
+      "reading_points": [
+        {
+          "title": "Desânimo real",
+          "body": "A troca de pastor humano pode gerar insegurança, perda de vínculo e resistência."
+        },
+        {
+          "title": "Fundamento maior",
+          "body": "A comunidade não pertence a um líder carismático, mas a Cristo que dá a vida pelas ovelhas."
+        },
+        {
+          "title": "Resposta fiel",
+          "body": "Seguir o Bom Pastor pede permanecer, discernir e colaborar com a Igreja concreta."
+        }
+      ]
+    },
+    {
+      "id": "B02",
+      "term_id": "B02",
+      "call_label": "B02 - Dia do Senhor",
+      "case": "Uma família organiza todos os domingos em torno de compras, almoço fora e descanso, e só pensa na Missa quando sobra tempo.",
+      "conference_question": "Que critério ajuda a distinguir descanso legítimo de esquecimento do Dia do Senhor?",
+      "anchors": [
+        "CEC 2174",
+        "CEC 2177"
+      ],
+      "facilitator_note": "Evite reduzir o domingo a proibição; apresente-o como dia ordenado a Deus, repouso e caridade.",
+      "reading_points": [
+        {
+          "title": "Prioridade revelada",
+          "body": "A agenda mostra o que de fato ocupa o centro do domingo."
+        },
+        {
+          "title": "Tempo consagrado",
+          "body": "O Dia do Senhor não é sobra da semana, mas memória semanal da Ressurreição."
+        },
+        {
+          "title": "Ordem cristã",
+          "body": "O descanso se torna cristão quando não apaga Deus, a família e a comunidade."
+        }
+      ]
+    },
+    {
+      "id": "B03",
+      "term_id": "B03",
+      "call_label": "B03 - Eucaristia dominical",
+      "case": "Uma pessoa participa de eventos religiosos emocionantes, mas passa meses sem ir à Missa dominical.",
+      "conference_question": "Por que experiências religiosas fortes não substituem a Eucaristia dominical no coração da vida da Igreja?",
+      "anchors": [
+        "CEC 2177",
+        "At 2,42"
+      ],
+      "facilitator_note": "Valorize experiências boas, mas deixe claro que a Missa dominical tem lugar próprio e insubstituível.",
+      "reading_points": [
+        {
+          "title": "Emoção insuficiente",
+          "body": "O entusiasmo religioso pode existir sem constância sacramental."
+        },
+        {
+          "title": "Centro da Igreja",
+          "body": "A Eucaristia dominical reúne a assembleia e torna presente o Mistério Pascal."
+        },
+        {
+          "title": "Alimento fiel",
+          "body": "Compromisso eclesial passa por deixar Cristo alimentar e enviar o seu povo."
+        }
+      ]
+    },
+    {
+      "id": "B04",
+      "term_id": "B04",
+      "call_label": "B04 - Assembleia fiel",
+      "case": "Uma pessoa acompanha orações pela internet, mas evita qualquer celebração com a comunidade mesmo quando pode sair de casa.",
+      "conference_question": "Como distinguir ajuda espiritual à distância de substituição indevida da assembleia cristã?",
+      "anchors": [
+        "Hb 10,25",
+        "CEC 2178"
+      ],
+      "facilitator_note": "Reconheça o valor de recursos digitais em casos reais, sem deixar que virem fuga da assembleia.",
+      "reading_points": [
+        {
+          "title": "Recurso útil",
+          "body": "Orações e transmissões podem ajudar quem está impedido ou buscando retomar a fé."
+        },
+        {
+          "title": "Fuga possível",
+          "body": "Quando há possibilidade real de participar, evitar a assembleia empobrece a vida cristã."
+        },
+        {
+          "title": "Povo reunido",
+          "body": "A fé da Igreja se vive também no encontro concreto do povo que celebra."
+        }
+      ]
+    },
+    {
+      "id": "B05",
+      "term_id": "B05",
+      "call_label": "B05 - Pertença paroquial",
+      "case": "Uma família procura a paróquia para Batismo, Crisma, casamento e funeral, mas nunca se reconhece como parte daquela comunidade.",
+      "conference_question": "Por que a paróquia não pode ser reduzida a endereço para cerimônias religiosas?",
+      "anchors": [
+        "CEC 2179",
+        "B03"
+      ],
+      "facilitator_note": "Ligue sacramentos, doutrina, caridade e vida comunitária como dimensões da mesma pertença.",
+      "reading_points": [
+        {
+          "title": "Uso pontual",
+          "body": "A comunidade aparece apenas nos momentos de necessidade ou cerimônia."
+        },
+        {
+          "title": "Lugar estável",
+          "body": "A paróquia é comunidade concreta onde a fé é celebrada, ensinada e praticada."
+        },
+        {
+          "title": "Pertença real",
+          "body": "Ser Igreja exige vínculo, presença e responsabilidade, não apenas procura ocasional."
+        }
+      ]
+    },
+    {
+      "id": "B06",
+      "term_id": "B06",
+      "call_label": "B06 - Corpo de Cristo",
+      "case": "Em uma pastoral, cada pessoa defende sua tarefa como se fosse mais importante que as outras e ninguém escuta as necessidades do conjunto.",
+      "conference_question": "Como a imagem do Corpo de Cristo corrige tanto o individualismo quanto a disputa por importância?",
+      "anchors": [
+        "1Cor 12,12-27",
+        "CEC 1267"
+      ],
+      "facilitator_note": "Mostre que diversidade de funções não autoriza desprezo nem competição dentro da Igreja.",
+      "reading_points": [
+        {
+          "title": "Fragmentação",
+          "body": "Cada serviço vira território particular e perde a ligação com o todo."
+        },
+        {
+          "title": "Unidade orgânica",
+          "body": "No Corpo de Cristo, membros diferentes têm dignidade e necessidade recíproca."
+        },
+        {
+          "title": "Serviço comum",
+          "body": "O dom de cada um deve fortalecer a comunhão, não criar rivalidade."
+        }
+      ]
+    },
+    {
+      "id": "B07",
+      "term_id": "B07",
+      "call_label": "B07 - Dons para serviço",
+      "case": "Uma pessoa sabe tocar bem, mas só aceita ajudar se puder escolher sempre as músicas e receber destaque.",
+      "conference_question": "O que transforma um dom recebido de Deus em serviço, e o que o transforma em vaidade?",
+      "anchors": [
+        "1Pd 4,10",
+        "Rm 12,4-8"
+      ],
+      "facilitator_note": "Não condene o talento; corrija a apropriação vaidosa do dom.",
+      "reading_points": [
+        {
+          "title": "Dom real",
+          "body": "A habilidade existe e pode enriquecer a comunidade."
+        },
+        {
+          "title": "Apropriação",
+          "body": "Quando o dom exige controle e aplauso, deixa de servir livremente."
+        },
+        {
+          "title": "Finalidade cristã",
+          "body": "O dom recebido deve edificar os irmãos e não alimentar superioridade."
+        }
+      ]
+    },
+    {
+      "id": "B08",
+      "term_id": "B08",
+      "call_label": "B08 - Caridade fraterna",
+      "case": "Uma senhora que sempre participava da comunidade fica doente, e só depois de meses alguém percebe que ela desapareceu.",
+      "conference_question": "Por que a caridade paroquial precisa enxergar quem deixou de aparecer, e não apenas quem está presente?",
+      "anchors": [
+        "CEC 2179",
+        "1Jo 3,16-18"
+      ],
+      "facilitator_note": "Conduza para a caridade concreta, sem culpar superficialmente pessoas individuais.",
+      "reading_points": [
+        {
+          "title": "Ausência silenciosa",
+          "body": "A doença retirou alguém da assembleia sem gerar atenção imediata."
+        },
+        {
+          "title": "Caridade concreta",
+          "body": "A comunidade pratica a caridade quando percebe, visita e sustenta os frágeis."
+        },
+        {
+          "title": "Vínculo real",
+          "body": "Pertencer à Igreja inclui cuidado com quem sofre e não consegue vir."
+        }
+      ]
+    },
+    {
+      "id": "B09",
+      "term_id": "B09",
+      "call_label": "B09 - Perseverança fiel",
+      "case": "Um grupo começa um serviço com entusiasmo, mas depois de poucas semanas as tarefas ficam para duas pessoas.",
+      "conference_question": "Por que a perseverança revela mais compromisso do que o entusiasmo inicial?",
+      "anchors": [
+        "Hb 10,25",
+        "Gl 6,2"
+      ],
+      "facilitator_note": "Ajude a turma a distinguir começo animado de fidelidade provada pelo tempo.",
+      "reading_points": [
+        {
+          "title": "Início fácil",
+          "body": "O começo costuma ter novidade, energia e reconhecimento."
+        },
+        {
+          "title": "Peso transferido",
+          "body": "Quando muitos desaparecem, poucos carregam o que era responsabilidade comum."
+        },
+        {
+          "title": "Fidelidade adulta",
+          "body": "Compromisso cristão aparece na constância humilde diante do bem assumido."
+        }
+      ]
+    },
+    {
+      "id": "B10",
+      "term_id": "B10",
+      "call_label": "B10 - Obrigação grave",
+      "case": "Alguém deixa a Missa dominical por meses sem doença, trabalho inevitável ou motivo sério, dizendo apenas que estava sem vontade.",
+      "conference_question": "Como explicar a gravidade da falta sem transformar a Missa em mero cumprimento frio de regra?",
+      "anchors": [
+        "CEC 2042",
+        "CEC 2181"
+      ],
+      "facilitator_note": "Una dever objetivo e chamado de amor; não minimize a gravidade nem fale como ameaça vazia.",
+      "reading_points": [
+        {
+          "title": "Ausência deliberada",
+          "body": "Não se trata de impedimento grave, mas de escolha repetida contra o preceito."
+        },
+        {
+          "title": "Matéria séria",
+          "body": "A Igreja ensina que faltar deliberadamente à Missa dominical fere gravemente a vida cristã."
+        },
+        {
+          "title": "Retorno necessário",
+          "body": "A resposta não é desespero, mas conversão, retomada da Eucaristia e vida reconciliada."
+        }
+      ]
+    },
+    {
+      "id": "B11",
+      "term_id": "B11",
+      "call_label": "B11 - Comunhão concreta",
+      "case": "Na preparação de uma ação solidária, pessoas rezam juntas, dividem tarefas e corrigem um erro sem romper o trabalho comum.",
+      "conference_question": "Que sinais mostram que a comunhão cristã é mais do que simpatia entre pessoas parecidas?",
+      "anchors": [
+        "At 2,42",
+        "CEC 2179"
+      ],
+      "facilitator_note": "Mostre comunhão como prática visível: oração, trabalho, correção e responsabilidade comum.",
+      "reading_points": [
+        {
+          "title": "Vínculo prático",
+          "body": "A comunhão aparece quando oração e tarefa comum sustentam a mesma missão."
+        },
+        {
+          "title": "Correção sem ruptura",
+          "body": "O erro é tratado sem humilhação e sem abandono do bem comum."
+        },
+        {
+          "title": "Igreja concreta",
+          "body": "A paróquia educa a comunhão quando reúne, ensina e pratica a caridade."
+        }
+      ]
+    },
+    {
+      "id": "B12",
+      "term_id": "B12",
+      "call_label": "B12 - Cuidado pastoral",
+      "case": "Uma família em crise procura orientação, mas quer apenas que o padre confirme uma decisão já tomada, sem escutar a fé da Igreja.",
+      "conference_question": "Como distinguir procurar cuidado pastoral de buscar apenas aprovação para a própria vontade?",
+      "anchors": [
+        "Jo 10,11",
+        "CEC 2179"
+      ],
+      "facilitator_note": "Explique que o pastor acompanha, mas não é chamado a legitimar qualquer decisão.",
+      "reading_points": [
+        {
+          "title": "Procura ambígua",
+          "body": "A família quer apoio, mas não necessariamente orientação verdadeira."
+        },
+        {
+          "title": "Cuidado com verdade",
+          "body": "O cuidado pastoral une misericórdia, escuta, doutrina e chamado à conversão."
+        },
+        {
+          "title": "Cristo Pastor",
+          "body": "O pastor humano serve a Cristo, que conduz as ovelhas para a vida."
+        }
+      ]
+    },
+    {
+      "id": "B13",
+      "term_id": "B13",
+      "call_label": "B13 - Vocação batismal",
+      "case": "Uma pessoa batizada diz que a Igreja só deve ser procurada quando alguém precisa de documento religioso.",
+      "conference_question": "O que o Batismo muda na relação de uma pessoa com Cristo, a Igreja e a missão?",
+      "anchors": [
+        "CEC 1267",
+        "CEC 1270"
+      ],
+      "facilitator_note": "Apresente o Batismo como pertença e missão, não como registro antigo.",
+      "reading_points": [
+        {
+          "title": "Redução burocrática",
+          "body": "A fé é tratada como arquivo de documentos, não como vida nova."
+        },
+        {
+          "title": "Pertença batismal",
+          "body": "O batizado pertence a Cristo e ao povo de Deus, com direitos e deveres."
+        },
+        {
+          "title": "Chamado ativo",
+          "body": "A vocação batismal pede participação, testemunho e responsabilidade eclesial."
+        }
+      ]
+    },
+    {
+      "id": "B14",
+      "term_id": "B14",
+      "call_label": "B14 - Vida litúrgica",
+      "case": "Durante a Missa, uma equipe improvisa sinais e falas para deixar tudo mais atraente, sem respeitar o rito nem consultar a orientação da Igreja.",
+      "conference_question": "Por que a liturgia não pode ser tratada como apresentação que cada grupo adapta ao próprio gosto?",
+      "anchors": [
+        "CEC 2179",
+        "At 2,42"
+      ],
+      "facilitator_note": "Mostre que beleza e participação não dispensam fidelidade ao culto da Igreja.",
+      "reading_points": [
+        {
+          "title": "Improviso indevido",
+          "body": "A boa intenção de atrair não justifica transformar o rito em criação particular."
+        },
+        {
+          "title": "Ação da Igreja",
+          "body": "A liturgia pertence à Igreja e celebra o Mistério de Cristo, não a preferência de um grupo."
+        },
+        {
+          "title": "Serviço reverente",
+          "body": "Participar bem exige obediência, sobriedade e sentido do sagrado."
+        }
+      ]
+    },
+    {
+      "id": "B15",
+      "term_id": "B15",
+      "call_label": "B15 - Missão dos leigos",
+      "case": "Em uma reunião de bairro, uma cristã percebe uma injustiça contra famílias pobres e decide agir com outros, sem esperar que tudo venha do padre.",
+      "conference_question": "Como a missão dos leigos aparece quando a fé entra nas responsabilidades da vida comum?",
+      "anchors": [
+        "Rm 12,4-8",
+        "1Pd 4,10"
+      ],
+      "facilitator_note": "Mostre que o compromisso eclesial não fica preso ao templo, mas também não se separa da Igreja.",
+      "reading_points": [
+        {
+          "title": "Responsabilidade pública",
+          "body": "A injustiça concreta pede presença cristã madura no mundo."
+        },
+        {
+          "title": "Leigo em missão",
+          "body": "O fiel leigo serve a Igreja também no trabalho, na família e na vida social."
+        },
+        {
+          "title": "Dons em ação",
+          "body": "Competência, tempo e coragem podem ser oferecidos a Deus no serviço aos irmãos."
+        }
+      ]
+    },
+    {
+      "id": "I01",
+      "term_id": "I01",
+      "call_label": "I01 - Domingo vendido",
+      "case": "Um mercado marca promoção todos os domingos e exige que os funcionários trabalhem sem rodízio, mesmo quando isso impede descanso e participação religiosa.",
+      "conference_question": "Como avaliar uma organização do trabalho que transforma o domingo apenas em oportunidade de venda?",
+      "anchors": [
+        "B02",
+        "B03",
+        "CEC 2185"
+      ],
+      "facilitator_note": "Trate o problema social sem simplificar a situação de trabalhadores que precisam do emprego.",
+      "reading_points": [
+        {
+          "title": "Lucro acima do repouso",
+          "body": "A lógica comercial ocupa o domingo sem considerar culto, família e descanso."
+        },
+        {
+          "title": "Responsabilidade social",
+          "body": "Quem organiza o trabalho também responde por condições que favorecem ou impedem a vida cristã."
+        },
+        {
+          "title": "Discernimento concreto",
+          "body": "É preciso distinguir necessidade real de exploração e buscar alternativas justas quando possível."
+        }
+      ]
+    },
+    {
+      "id": "I02",
+      "term_id": "I02",
+      "call_label": "I02 - Missa de ocasião",
+      "case": "Alguém aparece na igreja no Natal, em casamentos e quando há festa bonita, mas não participa da Eucaristia dominical comum.",
+      "conference_question": "O que se perde quando a Missa vira evento de ocasião e deixa de ser alimento semanal da fé?",
+      "anchors": [
+        "B03",
+        "CEC 2177"
+      ],
+      "facilitator_note": "Não despreze festas religiosas; mostre a diferença entre ocasião especial e fidelidade ordinária.",
+      "reading_points": [
+        {
+          "title": "Seleção de momentos",
+          "body": "A pessoa escolhe celebrações marcantes, mas evita a rotina fiel do domingo."
+        },
+        {
+          "title": "Fé sem alimento",
+          "body": "Sem Eucaristia dominical, a vida cristã perde seu centro ordinário."
+        },
+        {
+          "title": "Retorno possível",
+          "body": "A ocasião especial pode ser porta de retorno à participação estável."
+        }
+      ]
+    },
+    {
+      "id": "I03",
+      "term_id": "I03",
+      "call_label": "I03 - Sacramento isolado",
+      "case": "Um casal procura a Igreja para o casamento porque a família faz questão das fotos no altar, mas não deseja participar da vida paroquial.",
+      "conference_question": "Como distinguir respeito por uma tradição familiar de redução do sacramento a cenário social?",
+      "anchors": [
+        "B05",
+        "B13",
+        "CEC 2179"
+      ],
+      "facilitator_note": "Aponte a gravidade do sacramento sem humilhar quem se aproxima com motivações misturadas.",
+      "reading_points": [
+        {
+          "title": "Motivação frágil",
+          "body": "A beleza da cerimônia aparece mais que o compromisso de fé."
+        },
+        {
+          "title": "Sacramento vivo",
+          "body": "O sacramento pertence à vida cristã e chama à conversão e pertença."
+        },
+        {
+          "title": "Acolhida exigente",
+          "body": "A Igreja acolhe quem procura, mas deve conduzir para um vínculo real com Cristo."
+        }
+      ]
+    },
+    {
+      "id": "I04",
+      "term_id": "I04",
+      "call_label": "I04 - Voluntário instável",
+      "case": "Uma pessoa aceita ajudar numa ação de alimentos, confirma presença e desaparece no dia, deixando compras e entrega para outros resolverem.",
+      "conference_question": "Por que assumir uma tarefa comunitária cria responsabilidade moral diante dos outros?",
+      "anchors": [
+        "B09",
+        "B07",
+        "Gl 6,2"
+      ],
+      "facilitator_note": "Mostre que falhas acontecem; o problema é irresponsabilidade sem aviso nem reparação.",
+      "reading_points": [
+        {
+          "title": "Compromisso quebrado",
+          "body": "A ausência sem aviso desloca o peso para quem ficou."
+        },
+        {
+          "title": "Caridade organizada",
+          "body": "Servir os pobres exige constância, coordenação e respeito aos irmãos de serviço."
+        },
+        {
+          "title": "Reparação necessária",
+          "body": "Quem falha deve reconhecer, avisar, reparar e ajustar o que pode cumprir."
+        }
+      ]
+    },
+    {
+      "id": "I05",
+      "term_id": "I05",
+      "call_label": "I05 - Crítica sem presença",
+      "case": "Um morador diz que a paróquia não faz nada pelos pobres, mas nunca procurou saber quais ações existem nem ofereceu ajuda.",
+      "conference_question": "Como distinguir denúncia justa de crítica vazia feita sem presença e sem responsabilidade?",
+      "anchors": [
+        "B11",
+        "G06"
+      ],
+      "facilitator_note": "Reconheça que críticas podem ser legítimas; peça critério, informação e proposta concreta.",
+      "reading_points": [
+        {
+          "title": "Julgamento distante",
+          "body": "A crítica é feita sem conhecer a realidade nem se aproximar do serviço."
+        },
+        {
+          "title": "Responsabilidade comum",
+          "body": "Quem pertence à comunidade deve buscar a verdade e colaborar com o bem possível."
+        },
+        {
+          "title": "Caminho honesto",
+          "body": "Uma crítica cristã procura dados, pessoas certas e formas reais de melhorar."
+        }
+      ]
+    },
+    {
+      "id": "I06",
+      "term_id": "I06",
+      "call_label": "I06 - Talento retido",
+      "case": "Uma contadora experiente sabe que a pastoral social está com dificuldade de organizar recibos, mas evita oferecer ajuda para não se comprometer.",
+      "conference_question": "Quando a prudência em preservar tempo vira omissão diante de um dom que poderia servir?",
+      "anchors": [
+        "B07",
+        "1Pd 4,10"
+      ],
+      "facilitator_note": "Não faça da pessoa escrava da comunidade; destaque discernimento real de possibilidade e generosidade.",
+      "reading_points": [
+        {
+          "title": "Necessidade concreta",
+          "body": "A comunidade precisa de uma competência que a pessoa possui."
+        },
+        {
+          "title": "Retenção do dom",
+          "body": "O problema não é ter limites, mas nem perguntar se é possível servir de algum modo."
+        },
+        {
+          "title": "Serviço proporcional",
+          "body": "Oferecer um dom pode significar ajuda limitada, bem combinada e responsável."
+        }
+      ]
+    },
+    {
+      "id": "I07",
+      "term_id": "I07",
+      "call_label": "I07 - Paróquia em crise",
+      "case": "Depois de uma enchente no bairro, a igreja abre espaço para doações, mas quase sempre as mesmas pessoas carregam caixas, atendem famílias e limpam o local.",
+      "conference_question": "O que uma crise revela sobre a pertença real de uma comunidade cristã?",
+      "anchors": [
+        "B08",
+        "B05",
+        "Mt 25,35-40"
+      ],
+      "facilitator_note": "Aponte a caridade concreta sem idealizar soluções totais para um desastre.",
+      "reading_points": [
+        {
+          "title": "Necessidade exposta",
+          "body": "A crise mostra famílias feridas e trabalho urgente."
+        },
+        {
+          "title": "Pertença provada",
+          "body": "A comunidade aparece como corpo quando muitos assumem parte do cuidado."
+        },
+        {
+          "title": "Caridade possível",
+          "body": "Cada pessoa pode oferecer algo proporcional: tempo, transporte, alimento, organização ou oração."
+        }
+      ]
+    },
+    {
+      "id": "I08",
+      "term_id": "I08",
+      "call_label": "I08 - Escala abandonada",
+      "case": "Um leitor escalado para a celebração falta sem avisar, e a equipe descobre só na hora em que a Missa já começou.",
+      "conference_question": "Por que ordem e aviso prévio também são formas de caridade na vida litúrgica?",
+      "anchors": [
+        "B09",
+        "1Cor 14,33.40"
+      ],
+      "facilitator_note": "Evite exagerar a falta como crime; mostre seu efeito real sobre a celebração e os irmãos.",
+      "reading_points": [
+        {
+          "title": "Falha prática",
+          "body": "A ausência sem aviso cria improviso e tensão no momento da celebração."
+        },
+        {
+          "title": "Ordem litúrgica",
+          "body": "A liturgia pede serviço organizado, porque Deus não é Deus de confusão."
+        },
+        {
+          "title": "Responsabilidade simples",
+          "body": "Avisar cedo e buscar substituição é gesto concreto de respeito."
+        }
+      ]
+    },
+    {
+      "id": "I09",
+      "term_id": "I09",
+      "call_label": "I09 - Trabalho no domingo",
+      "case": "Uma enfermeira trabalha em plantão dominical e procura uma Missa em outro horário quando consegue, mas às vezes fica realmente impedida.",
+      "conference_question": "Como distinguir impedimento real de comodidade quando alguém não consegue ir à Missa no domingo?",
+      "anchors": [
+        "B10",
+        "G02",
+        "CEC 2181"
+      ],
+      "facilitator_note": "Use o caso para evitar dureza injusta e também desculpa fácil.",
+      "reading_points": [
+        {
+          "title": "Serviço necessário",
+          "body": "Há trabalhos que cuidam da vida e não podem simplesmente parar."
+        },
+        {
+          "title": "Busca sincera",
+          "body": "A pessoa procura alternativas possíveis, o que mostra que não despreza a Eucaristia."
+        },
+        {
+          "title": "Discernimento moral",
+          "body": "A culpa moral depende de liberdade, motivo grave e atitude concreta diante do preceito."
+        }
+      ]
+    },
+    {
+      "id": "I10",
+      "term_id": "I10",
+      "call_label": "I10 - Doente sem visita",
+      "case": "Um homem idoso deixa de ir à Missa por dificuldade de locomoção, e por meses ninguém da comunidade pergunta se ele precisa de visita ou comunhão.",
+      "conference_question": "Que responsabilidade comunitária nasce quando alguém fica impedido de participar presencialmente?",
+      "anchors": [
+        "B08",
+        "Mt 25,35-40"
+      ],
+      "facilitator_note": "Evite culpar genericamente; conduza para atenção organizada e concreta aos ausentes.",
+      "reading_points": [
+        {
+          "title": "Impedimento real",
+          "body": "A ausência não vem de descaso, mas de fragilidade física."
+        },
+        {
+          "title": "Risco de abandono",
+          "body": "Quem não aparece pode desaparecer também da memória da comunidade."
+        },
+        {
+          "title": "Caridade pastoral",
+          "body": "Telefonar, visitar e encaminhar comunhão ou ajuda são respostas possíveis."
+        }
+      ]
+    },
+    {
+      "id": "I11",
+      "term_id": "I11",
+      "call_label": "I11 - Jovem sem lugar",
+      "case": "Um jovem recém-crismado pergunta como ajudar, mas recebe respostas vagas e percebe que todos os espaços já têm donos antigos.",
+      "conference_question": "Como uma comunidade pode acolher novos membros sem transformar serviços em territórios fechados?",
+      "anchors": [
+        "B11",
+        "O11",
+        "1Cor 12,12-27"
+      ],
+      "facilitator_note": "Mostre que acolher não é entregar qualquer responsabilidade sem formação, mas abrir caminho real.",
+      "reading_points": [
+        {
+          "title": "Desejo de participar",
+          "body": "A pessoa quer servir, mas não encontra orientação concreta."
+        },
+        {
+          "title": "Espaço fechado",
+          "body": "Quando funções viram posse de poucos, a comunidade perde renovação e comunhão."
+        },
+        {
+          "title": "Acolhida responsável",
+          "body": "Indicar uma tarefa, formar e acompanhar abre pertença sem improviso."
+        }
+      ]
+    },
+    {
+      "id": "I12",
+      "term_id": "I12",
+      "call_label": "I12 - Conflito na equipe",
+      "case": "Duas pessoas discordam sobre a condução de uma pastoral e uma delas começa a comentar o problema com todos, menos com quem poderia resolvê-lo.",
+      "conference_question": "Que caminho cristão ajuda a tratar conflito sem virar murmuração nem ruptura?",
+      "anchors": [
+        "G06",
+        "G12",
+        "Mt 18,15-17"
+      ],
+      "facilitator_note": "Dê importância ao conflito real, mas corrija o modo de espalhar queixa.",
+      "reading_points": [
+        {
+          "title": "Conflito deslocado",
+          "body": "O problema existe, mas está sendo tratado fora do lugar adequado."
+        },
+        {
+          "title": "Murmuração",
+          "body": "Comentar com muitos aumenta tensão e não busca correção verdadeira."
+        },
+        {
+          "title": "Caminho evangélico",
+          "body": "Falar com a pessoa certa, com verdade e caridade, protege a comunhão."
+        }
+      ]
+    },
+    {
+      "id": "I13",
+      "term_id": "I13",
+      "call_label": "I13 - Liturgia como palco",
+      "case": "Um cantor prolonga solos na Missa e se irrita quando pedem sobriedade, dizendo que o povo gosta do estilo dele.",
+      "conference_question": "Como distinguir servir a liturgia com talento de usar a liturgia para se exibir?",
+      "anchors": [
+        "B14",
+        "G08"
+      ],
+      "facilitator_note": "Valorize a música bem feita, mas deixe claro que a Missa não é palco pessoal.",
+      "reading_points": [
+        {
+          "title": "Talento visível",
+          "body": "O canto pode ajudar a assembleia a rezar quando está a serviço do rito."
+        },
+        {
+          "title": "Centro deslocado",
+          "body": "Quando a atenção vai para a performance, o culto de Deus é prejudicado."
+        },
+        {
+          "title": "Sobriedade litúrgica",
+          "body": "Servir bem exige aceitar orientação e renunciar ao destaque indevido."
+        }
+      ]
+    },
+    {
+      "id": "I14",
+      "term_id": "I14",
+      "call_label": "I14 - Fé sem agenda",
+      "case": "Uma pessoa diz que a fé é importante, mas nunca verifica horários de Missa, nunca combina transporte e nunca bloqueia tempo para a comunidade.",
+      "conference_question": "O que a organização da agenda revela sobre o lugar real da fé na vida de alguém?",
+      "anchors": [
+        "B09",
+        "B02"
+      ],
+      "facilitator_note": "Mostre que prioridade espiritual também aparece em decisões práticas de tempo.",
+      "reading_points": [
+        {
+          "title": "Valor declarado",
+          "body": "A pessoa afirma que a fé importa, mas não cria condições para vivê-la."
+        },
+        {
+          "title": "Prioridade prática",
+          "body": "O compromisso se verifica na forma como tempo, descanso e deslocamento são organizados."
+        },
+        {
+          "title": "Decisão concreta",
+          "body": "Firmar horário e preparar o domingo é parte simples da fidelidade."
+        }
+      ]
+    },
+    {
+      "id": "I15",
+      "term_id": "I15",
+      "call_label": "I15 - Luto acompanhado",
+      "case": "Após o sepultamento de uma mãe, a família recebe uma visita discreta, uma refeição e a promessa real de oração da comunidade.",
+      "conference_question": "Por que acompanhar o luto mostra que a paróquia é mais que local de cerimônia?",
+      "anchors": [
+        "B05",
+        "B08",
+        "CEC 2179"
+      ],
+      "facilitator_note": "Evite teatralizar o sofrimento; destaque presença, sobriedade e ajuda concreta.",
+      "reading_points": [
+        {
+          "title": "Dor concreta",
+          "body": "O luto atinge a família em tarefas, silêncio e fragilidade."
+        },
+        {
+          "title": "Comunidade presente",
+          "body": "A paróquia aparece como casa quando não abandona após a celebração."
+        },
+        {
+          "title": "Caridade discreta",
+          "body": "Visita, alimento, oração e escuta unem fé e cuidado real."
+        }
+      ]
+    },
+    {
+      "id": "N01",
+      "term_id": "N01",
+      "call_label": "N01 - Missa quando der",
+      "case": "Alguém diz que vai à Missa quando estiver com vontade, porque compromisso fixo tiraria a liberdade de aproveitar o fim de semana.",
+      "conference_question": "Como desmontar a ideia de que a Missa dominical depende apenas de vontade ou conveniência?",
+      "anchors": [
+        "B03",
+        "B10",
+        "CEC 2181"
+      ],
+      "facilitator_note": "Mostre que liberdade cristã não é seguir todo estado de ânimo.",
+      "reading_points": [
+        {
+          "title": "Vontade como regra",
+          "body": "O humor do momento passa a decidir algo que tem peso objetivo."
+        },
+        {
+          "title": "Preceito sério",
+          "body": "A Missa dominical não é evento opcional colocado depois do lazer."
+        },
+        {
+          "title": "Amor fiel",
+          "body": "O compromisso com Cristo educa a liberdade para além da vontade instável."
+        }
+      ]
+    },
+    {
+      "id": "N02",
+      "term_id": "N02",
+      "call_label": "N02 - Fé sem Igreja",
+      "case": "Uma pessoa afirma que segue Jesus do próprio jeito e que não precisa de comunidade, sacramentos nem pastores.",
+      "conference_question": "Por que separar Jesus da Igreja empobrece a compreensão do Bom Pastor e do seu rebanho?",
+      "anchors": [
+        "B01",
+        "B06",
+        "1Cor 12,12-27"
+      ],
+      "facilitator_note": "Evite atacar a pessoa; corrija a separação entre Cristo e o Corpo de Cristo.",
+      "reading_points": [
+        {
+          "title": "Autonomia sedutora",
+          "body": "A fé individual parece mais simples porque não exige vínculos nem correções."
+        },
+        {
+          "title": "Separação falsa",
+          "body": "Cristo reúne um povo e forma um Corpo, não discípulos isolados por preferência."
+        },
+        {
+          "title": "Pertença cristã",
+          "body": "Seguir o Pastor inclui participar da comunidade que Ele sustenta."
+        }
+      ]
+    },
+    {
+      "id": "N03",
+      "term_id": "N03",
+      "call_label": "N03 - Cliente religioso",
+      "case": "Uma família exige rapidez para marcar uma cerimônia, reclama das orientações e diz que a paróquia deveria facilitar porque eles estão pagando taxas.",
+      "conference_question": "Como distinguir direito de ser bem atendido de postura de cliente diante da Igreja?",
+      "anchors": [
+        "B05",
+        "B11"
+      ],
+      "facilitator_note": "Reconheça que atendimento deve ser digno, mas corrija a lógica de consumo religioso.",
+      "reading_points": [
+        {
+          "title": "Exigência de serviço",
+          "body": "A paróquia é tratada como balcão que deve atender preferências imediatas."
+        },
+        {
+          "title": "Pertença esquecida",
+          "body": "A comunidade cristã não existe para vender cerimônias, mas para formar e santificar."
+        },
+        {
+          "title": "Conversão do vínculo",
+          "body": "A relação correta passa de cobrança consumista para participação e responsabilidade."
+        }
+      ]
+    },
+    {
+      "id": "N04",
+      "term_id": "N04",
+      "call_label": "N04 - Só se eu gostar",
+      "case": "Um agente pastoral troca de comunidade sempre que não gosta de um canto, de uma homilia ou de uma decisão de coordenação.",
+      "conference_question": "Que critério ajuda a distinguir gosto legítimo de imaturidade que impede perseverar?",
+      "anchors": [
+        "B09",
+        "G13"
+      ],
+      "facilitator_note": "Não negue preferências reais; mostre que elas não podem governar toda pertença.",
+      "reading_points": [
+        {
+          "title": "Gosto como medida",
+          "body": "A permanência passa a depender da satisfação pessoal em cada detalhe."
+        },
+        {
+          "title": "Inconstância",
+          "body": "Quando tudo precisa agradar, não há fidelidade nem amadurecimento."
+        },
+        {
+          "title": "Compromisso maior",
+          "body": "A pertença eclesial exige discernir o essencial e suportar limites concretos."
+        }
+      ]
+    },
+    {
+      "id": "N05",
+      "term_id": "N05",
+      "call_label": "N05 - Presença sem entrega",
+      "case": "Uma pessoa nunca falta às celebrações mais visíveis, mas se recusa a ajudar em qualquer necessidade simples da comunidade.",
+      "conference_question": "Por que estar presente não basta quando a pessoa rejeita toda forma concreta de serviço?",
+      "anchors": [
+        "B11",
+        "Tg 2,14-17"
+      ],
+      "facilitator_note": "Explique que participação litúrgica é central, mas deve formar caridade e responsabilidade.",
+      "reading_points": [
+        {
+          "title": "Visibilidade religiosa",
+          "body": "A presença aparece, mas não se converte em disponibilidade para os irmãos."
+        },
+        {
+          "title": "Fé sem obras",
+          "body": "A vida cristã fica incompleta quando não produz caridade concreta."
+        },
+        {
+          "title": "Entrega possível",
+          "body": "Cada um precisa perguntar que serviço real pode assumir, conforme sua condição."
+        }
+      ]
+    },
+    {
+      "id": "N06",
+      "term_id": "N06",
+      "call_label": "N06 - Crítica de arquibancada",
+      "case": "Depois de uma falha na organização de uma festa comunitária, alguém espalha ironias nas redes, mas não conversa com a equipe nem oferece ajuda.",
+      "conference_question": "Como responder a falhas reais sem cair na crítica de arquibancada?",
+      "anchors": [
+        "I05",
+        "G06",
+        "Mt 18,15-17"
+      ],
+      "facilitator_note": "Mostre que apontar erro pode ser necessário, mas o modo precisa buscar correção e bem comum.",
+      "reading_points": [
+        {
+          "title": "Falha explorada",
+          "body": "Um problema real vira ocasião para exposição e ironia."
+        },
+        {
+          "title": "Ausência de caminho",
+          "body": "A crítica não procura quem pode corrigir nem assume parte da solução."
+        },
+        {
+          "title": "Correção cristã",
+          "body": "A resposta justa procura diálogo, verdade e colaboração proporcional."
+        }
+      ]
+    },
+    {
+      "id": "N07",
+      "term_id": "N07",
+      "call_label": "N07 - Dízimo como sobra",
+      "case": "Uma pessoa gasta sem pensar em lazer caro, mas diz que não contribui com nada porque a Igreja deve se virar.",
+      "conference_question": "Como ligar contribuição material, gratidão e pertença sem transformar dízimo em cobrança comercial?",
+      "anchors": [
+        "O07",
+        "2Cor 9,7"
+      ],
+      "facilitator_note": "Mantenha a liberdade e proporcionalidade, mas não esconda a responsabilidade material.",
+      "reading_points": [
+        {
+          "title": "Prioridade econômica",
+          "body": "O dinheiro revela escolhas, não apenas condições."
+        },
+        {
+          "title": "Responsabilidade negada",
+          "body": "A comunidade precisa ser sustentada por quem pertence a ela, conforme possibilidade real."
+        },
+        {
+          "title": "Oferta livre",
+          "body": "O dízimo cristão não compra favor, mas expressa gratidão e corresponsabilidade."
+        }
+      ]
+    },
+    {
+      "id": "N08",
+      "term_id": "N08",
+      "call_label": "N08 - Sacramento de fachada",
+      "case": "Uma família pede uma celebração bonita para manter tradição social, mas rejeita qualquer preparação porque diz que ninguém ali leva isso tão a sério.",
+      "conference_question": "Por que a Igreja deve acolher a procura sacramental sem confirmar uma fachada religiosa?",
+      "anchors": [
+        "I03",
+        "B13"
+      ],
+      "facilitator_note": "Mostre que acolhida pastoral não dispensa verdade sobre sacramento e conversão.",
+      "reading_points": [
+        {
+          "title": "Aparência religiosa",
+          "body": "A cerimônia é valorizada mais pela imagem social do que pela fé."
+        },
+        {
+          "title": "Gravidade sacramental",
+          "body": "Sacramentos não são adereços de tradição, mas sinais eficazes da graça e da vida da Igreja."
+        },
+        {
+          "title": "Caminho de verdade",
+          "body": "A preparação existe para purificar motivações e conduzir a compromisso real."
+        }
+      ]
+    },
+    {
+      "id": "N09",
+      "term_id": "N09",
+      "call_label": "N09 - Dom privatizado",
+      "case": "Um profissional diz que suas competências são fruto do esforço dele e que a comunidade não tem nada a ver com isso.",
+      "conference_question": "Como reconhecer mérito e esforço sem esquecer que todo dom também pode servir ao Corpo de Cristo?",
+      "anchors": [
+        "B07",
+        "1Pd 4,10"
+      ],
+      "facilitator_note": "Não negue esforço pessoal; mostre que mérito não elimina gratidão nem serviço.",
+      "reading_points": [
+        {
+          "title": "Mérito isolado",
+          "body": "A pessoa vê a competência apenas como propriedade individual."
+        },
+        {
+          "title": "Dom recebido",
+          "body": "Na fé cristã, talentos e oportunidades também são recebidos de Deus."
+        },
+        {
+          "title": "Serviço devido",
+          "body": "Reconhecer o dom leva a perguntar onde ele pode ajudar os irmãos."
+        }
+      ]
+    },
+    {
+      "id": "N10",
+      "term_id": "N10",
+      "call_label": "N10 - Tempo absoluto",
+      "case": "Alguém rejeita qualquer compromisso fixo com Deus ou com a comunidade, dizendo que ninguém manda no tempo dele.",
+      "conference_question": "Por que a liberdade sobre o próprio tempo não elimina deveres diante de Deus e dos irmãos?",
+      "anchors": [
+        "B02",
+        "B10"
+      ],
+      "facilitator_note": "Mostre que autonomia adulta inclui assumir obrigações justas, não fugir delas.",
+      "reading_points": [
+        {
+          "title": "Autonomia fechada",
+          "body": "O tempo é tratado como posse sem referência a Deus ou ao bem comum."
+        },
+        {
+          "title": "Dever objetivo",
+          "body": "O cristão não inventa sozinho o valor do Dia do Senhor e da assembleia."
+        },
+        {
+          "title": "Liberdade ordenada",
+          "body": "Usar bem o tempo inclui reservar lugar real para culto, repouso e caridade."
+        }
+      ]
+    },
+    {
+      "id": "N11",
+      "term_id": "N11",
+      "call_label": "N11 - Ferida como licença",
+      "case": "Depois de ser tratado com grosseria por alguém da comunidade, uma pessoa decide abandonar a Missa e afirma que nunca mais quer saber da Igreja.",
+      "conference_question": "Como reconhecer uma ferida real sem permitir que ela rompa a relação com Cristo e os sacramentos?",
+      "anchors": [
+        "G12",
+        "Mt 18,15-17"
+      ],
+      "facilitator_note": "Não minimize a dor; mostre que ferida pede cuidado, não ruptura total com a fé.",
+      "reading_points": [
+        {
+          "title": "Dor legítima",
+          "body": "A grosseria pode ferir e precisa ser tratada com seriedade."
+        },
+        {
+          "title": "Conclusão desordenada",
+          "body": "Transformar uma ferida em abandono da Igreja entrega a dor ao isolamento."
+        },
+        {
+          "title": "Caminho de cura",
+          "body": "Buscar diálogo, orientação e sacramentos ajuda a não romper com Cristo por causa do pecado humano."
+        }
+      ]
+    },
+    {
+      "id": "N12",
+      "term_id": "N12",
+      "call_label": "N12 - Pastor funcionário",
+      "case": "Um homem reclama que o padre não atendeu no horário que ele queria e diz que, como contribuinte, tem direito de mandar na agenda dele.",
+      "conference_question": "Como distinguir cobrança justa por cuidado pastoral de redução do pastor a funcionário particular?",
+      "anchors": [
+        "B12",
+        "CEC 2179"
+      ],
+      "facilitator_note": "Reconheça que padres devem cuidar bem do povo, mas corrija exigência possessiva.",
+      "reading_points": [
+        {
+          "title": "Exigência possessiva",
+          "body": "O cuidado pastoral é tratado como serviço privado sob controle do usuário."
+        },
+        {
+          "title": "Autoridade espiritual",
+          "body": "O pastor próprio serve a comunidade sob Cristo e a Igreja, não sob caprichos individuais."
+        },
+        {
+          "title": "Diálogo respeitoso",
+          "body": "Necessidades reais devem ser apresentadas com clareza, respeito e paciência."
+        }
+      ]
+    },
+    {
+      "id": "N13",
+      "term_id": "N13",
+      "call_label": "N13 - Caridade terceirizada",
+      "case": "Ao saber de uma família sem comida, alguém diz que isso é assunto da pastoral social e volta para casa sem perguntar como poderia ajudar.",
+      "conference_question": "Por que encaminhar uma necessidade não dispensa a responsabilidade pessoal possível?",
+      "anchors": [
+        "B08",
+        "Mt 25,35-40"
+      ],
+      "facilitator_note": "Evite culpar quem não pode resolver tudo; destaque a parte concreta que cada um pode assumir.",
+      "reading_points": [
+        {
+          "title": "Necessidade real",
+          "body": "A fome concreta de uma família exige mais que comentário distante."
+        },
+        {
+          "title": "Terceirização",
+          "body": "A existência de uma pastoral não libera a consciência pessoal do cristão."
+        },
+        {
+          "title": "Resposta proporcional",
+          "body": "Ajudar pode ser doar, avisar quem coordena, acompanhar ou buscar encaminhamento seguro."
+        }
+      ]
+    },
+    {
+      "id": "N14",
+      "term_id": "N14",
+      "call_label": "N14 - Obrigação sem amor",
+      "case": "Uma pessoa diz que não aceita obrigação religiosa porque Deus só quer amor espontâneo, não compromisso marcado.",
+      "conference_question": "Como explicar que o amor cristão pode incluir dever sem virar legalismo?",
+      "anchors": [
+        "B10",
+        "G01"
+      ],
+      "facilitator_note": "Mostre que dever sem amor empobrece, mas amor sem fidelidade também se dissolve.",
+      "reading_points": [
+        {
+          "title": "Falsa oposição",
+          "body": "A narrativa coloca amor e obrigação como inimigos absolutos."
+        },
+        {
+          "title": "Amor fiel",
+          "body": "Relações sérias têm compromissos que protegem o bem mesmo quando a emoção oscila."
+        },
+        {
+          "title": "Dever vivo",
+          "body": "A Missa dominical é preceito, mas também encontro com Cristo que se entrega."
+        }
+      ]
+    },
+    {
+      "id": "N15",
+      "term_id": "N15",
+      "call_label": "N15 - Juventude como álibi",
+      "case": "Um recém-crismado diz que compromisso com a Igreja é coisa para adultos aposentados e que agora ele só precisa aproveitar a vida.",
+      "conference_question": "Como responder ao adiamento do compromisso sem exigir responsabilidades desproporcionais?",
+      "anchors": [
+        "B13",
+        "O04"
+      ],
+      "facilitator_note": "Evite cobrar maturidade adulta completa; peça uma resposta real possível nesta fase.",
+      "reading_points": [
+        {
+          "title": "Adiamento cômodo",
+          "body": "A idade é usada para empurrar toda resposta para um futuro indefinido."
+        },
+        {
+          "title": "Vocação presente",
+          "body": "O Batismo e a Crisma já chamam a pessoa a pertencer e servir."
+        },
+        {
+          "title": "Compromisso proporcional",
+          "body": "A resposta pode ser simples, concreta e adequada à maturidade real."
+        }
+      ]
+    },
+    {
+      "id": "G01",
+      "term_id": "G01",
+      "call_label": "G01 - Obrigação e encontro",
+      "case": "Uma mãe leva os filhos à Missa dizendo apenas que é obrigação, enquanto o pai diz que obrigação estraga a fé e por isso ninguém precisa ir.",
+      "conference_question": "Como evitar tanto o legalismo frio quanto o abandono do dever religioso?",
+      "anchors": [
+        "B03",
+        "B10",
+        "CEC 2177"
+      ],
+      "facilitator_note": "Mostre que dever e encontro devem ser integrados, não separados.",
+      "reading_points": [
+        {
+          "title": "Dois extremos",
+          "body": "Um lado reduz a Missa a regra; o outro usa o amor para dispensar o dever."
+        },
+        {
+          "title": "Preceito com sentido",
+          "body": "A obrigação existe porque a Eucaristia é central para a vida cristã."
+        },
+        {
+          "title": "Encontro obediente",
+          "body": "O cristão vai porque deve e porque Cristo o espera e alimenta."
+        }
+      ]
+    },
+    {
+      "id": "G02",
+      "term_id": "G02",
+      "call_label": "G02 - Falta e impedimento",
+      "case": "Duas pessoas faltam à Missa: uma está com febre alta cuidando de um bebê doente; outra dormiu até tarde depois de escolher uma festa.",
+      "conference_question": "Que elementos ajudam a distinguir ausência culpável de impedimento grave?",
+      "anchors": [
+        "B10",
+        "CEC 2181"
+      ],
+      "facilitator_note": "Use o contraste para ensinar culpa moral sem julgamento apressado.",
+      "reading_points": [
+        {
+          "title": "Situações diferentes",
+          "body": "A aparência externa é a mesma, mas os motivos e a liberdade são distintos."
+        },
+        {
+          "title": "Motivo grave",
+          "body": "Doença e cuidado necessário podem impedir sem desprezo pelo preceito."
+        },
+        {
+          "title": "Responsabilidade moral",
+          "body": "Preguiça ou escolha deliberada contra a Missa pedem conversão e retorno."
+        }
+      ]
+    },
+    {
+      "id": "G03",
+      "term_id": "G03",
+      "call_label": "G03 - Comunidade e panelinha",
+      "case": "Um grupo antigo da paróquia diz que é muito unido, mas impede pessoas novas de participar das decisões e dos serviços.",
+      "conference_question": "Como distinguir comunhão madura de panelinha que fecha espaço na Igreja?",
+      "anchors": [
+        "B11",
+        "1Cor 12,12-27"
+      ],
+      "facilitator_note": "Diferencie vínculo saudável de posse de espaço e exclusão.",
+      "reading_points": [
+        {
+          "title": "União ambígua",
+          "body": "A proximidade do grupo pode ser boa, mas também pode virar barreira."
+        },
+        {
+          "title": "Corpo aberto",
+          "body": "No Corpo de Cristo, membros diferentes devem encontrar lugar e responsabilidade."
+        },
+        {
+          "title": "Comunhão verdadeira",
+          "body": "A comunidade protege vínculos sem transformar serviço em propriedade."
+        }
+      ]
+    },
+    {
+      "id": "G04",
+      "term_id": "G04",
+      "call_label": "G04 - Acolhida e consumo",
+      "case": "Uma pessoa chega à comunidade e espera ser bem recebida, mas também exige que horários, músicas e atividades se ajustem ao gosto dela.",
+      "conference_question": "Como acolher alguém de verdade sem transformar a comunidade em produto personalizado?",
+      "anchors": [
+        "B05",
+        "N03"
+      ],
+      "facilitator_note": "Mostre que acolhida cristã é real, mas não significa submissão a preferências individuais.",
+      "reading_points": [
+        {
+          "title": "Necessidade de acolhida",
+          "body": "Quem chega precisa ser recebido com atenção e orientação."
+        },
+        {
+          "title": "Risco de consumo",
+          "body": "Acolhida não significa que a Igreja exista para adaptar tudo a um indivíduo."
+        },
+        {
+          "title": "Pertença educada",
+          "body": "Entrar na comunidade envolve receber, aprender e também servir."
+        }
+      ]
+    },
+    {
+      "id": "G05",
+      "term_id": "G05",
+      "call_label": "G05 - Serviço e ativismo",
+      "case": "Uma coordenadora assume tantas tarefas que para de rezar, trata todos com impaciência e diz que não pode descansar porque a Igreja depende dela.",
+      "conference_question": "Como distinguir serviço generoso de ativismo que se afasta de Cristo?",
+      "anchors": [
+        "B07",
+        "Jo 15,5"
+      ],
+      "facilitator_note": "Não desvalorize dedicação; corrija a autossuficiência e o abandono da oração.",
+      "reading_points": [
+        {
+          "title": "Excesso desordenado",
+          "body": "O trabalho religioso cresce enquanto oração, escuta e caridade diminuem."
+        },
+        {
+          "title": "Autossuficiência",
+          "body": "Dizer que tudo depende de si desloca o centro de Cristo para a própria atividade."
+        },
+        {
+          "title": "Serviço unido à videira",
+          "body": "O serviço cristão precisa permanecer em Cristo para dar fruto verdadeiro."
+        }
+      ]
+    },
+    {
+      "id": "G06",
+      "term_id": "G06",
+      "call_label": "G06 - Crítica e murmuração",
+      "case": "Uma falha séria na prestação de contas precisa ser examinada, mas alguns preferem espalhar suspeitas sem apresentar fatos a quem deve apurar.",
+      "conference_question": "Como distinguir correção necessária de murmuração destrutiva?",
+      "anchors": [
+        "Mt 18,15-17",
+        "1Cor 14,33.40"
+      ],
+      "facilitator_note": "Mostre que fatos graves pedem responsabilidade, não boato.",
+      "reading_points": [
+        {
+          "title": "Problema sério",
+          "body": "A falha precisa ser tratada com verdade e responsabilidade."
+        },
+        {
+          "title": "Murmuração",
+          "body": "Suspeitas espalhadas sem caminho adequado ferem pessoas e confundem a comunidade."
+        },
+        {
+          "title": "Correção ordenada",
+          "body": "A resposta cristã busca fatos, autoridade competente e bem comum."
+        }
+      ]
+    },
+    {
+      "id": "G07",
+      "term_id": "G07",
+      "call_label": "G07 - Pastor e ídolo",
+      "case": "Alguns só participavam porque admiravam muito um padre específico e, quando ele sai, passam a desprezar a comunidade inteira.",
+      "conference_question": "Como respeitar e amar um pastor sem transformar a fé em dependência de uma pessoa?",
+      "anchors": [
+        "B01",
+        "B12"
+      ],
+      "facilitator_note": "Reconheça o bem de bons pastores, mas centralize Cristo.",
+      "reading_points": [
+        {
+          "title": "Vínculo afetivo",
+          "body": "Um pastor pode marcar profundamente a vida de uma comunidade."
+        },
+        {
+          "title": "Dependência perigosa",
+          "body": "Quando a fé depende de uma pessoa, a comunidade vira extensão de uma preferência."
+        },
+        {
+          "title": "Cristo permanece",
+          "body": "O pastor humano serve o Bom Pastor, que continua conduzindo a Igreja."
+        }
+      ]
+    },
+    {
+      "id": "G08",
+      "term_id": "G08",
+      "call_label": "G08 - Carisma e vaidade",
+      "case": "Uma pregadora prepara bem suas falas, mas fica ofendida quando outra pessoa é convidada e começa a comparar quem recebeu mais elogios.",
+      "conference_question": "Que sinais indicam que um carisma deixou de servir e começou a alimentar vaidade?",
+      "anchors": [
+        "B07",
+        "I13",
+        "1Pd 4,10"
+      ],
+      "facilitator_note": "Mostre que preparo e excelência são bons; a vaidade aparece no apego ao destaque.",
+      "reading_points": [
+        {
+          "title": "Dom bem usado",
+          "body": "Preparar-se para falar de Deus é um serviço valioso."
+        },
+        {
+          "title": "Apego ao lugar",
+          "body": "A comparação por elogios revela que o centro começou a mudar."
+        },
+        {
+          "title": "Carisma purificado",
+          "body": "O dom é cristão quando aceita alternância, correção e serviço sem posse."
+        }
+      ]
+    },
+    {
+      "id": "G09",
+      "term_id": "G09",
+      "call_label": "G09 - Dízimo e compra",
+      "case": "Um grande contribuinte exige decidir sozinho a reforma da igreja, alegando que quem ajuda mais deve mandar mais.",
+      "conference_question": "Como distinguir contribuição generosa de tentativa de comprar poder dentro da comunidade?",
+      "anchors": [
+        "O07",
+        "2Cor 9,7"
+      ],
+      "facilitator_note": "Valorize a contribuição, mas negue a compra de privilégio espiritual ou administrativo.",
+      "reading_points": [
+        {
+          "title": "Ajuda material",
+          "body": "A contribuição pode ser real e importante para a comunidade."
+        },
+        {
+          "title": "Troca indevida",
+          "body": "Quando o dinheiro exige mando, deixa de ser oferta livre e vira pressão."
+        },
+        {
+          "title": "Gratuidade",
+          "body": "O dízimo expressa corresponsabilidade, não compra autoridade ou vantagem."
+        }
+      ]
+    },
+    {
+      "id": "G10",
+      "term_id": "G10",
+      "call_label": "G10 - Pertencer e agradar",
+      "case": "Uma pessoa pensa em sair da comunidade porque recebeu uma correção justa e concluiu que não é querida por todos.",
+      "conference_question": "Como distinguir pertença verdadeira de necessidade de aprovação constante?",
+      "anchors": [
+        "B05",
+        "B11"
+      ],
+      "facilitator_note": "Mostre que correção justa pode ser sinal de cuidado, não rejeição.",
+      "reading_points": [
+        {
+          "title": "Correção dolorosa",
+          "body": "Ser corrigido pode ferir o orgulho e gerar sensação de rejeição."
+        },
+        {
+          "title": "Pertença madura",
+          "body": "Pertencer não significa ser sempre aprovado em tudo."
+        },
+        {
+          "title": "Comunhão com verdade",
+          "body": "A comunidade cristã deve unir acolhida, correção e perseverança."
+        }
+      ]
+    },
+    {
+      "id": "G11",
+      "term_id": "G11",
+      "call_label": "G11 - Prudência e fuga",
+      "case": "Depois de uma tensão na equipe, uma pessoa diz que está sendo prudente, mas na prática evita qualquer conversa e abandona tudo sem explicação.",
+      "conference_question": "Que diferença há entre afastar-se por prudência e fugir de um compromisso por desconforto?",
+      "anchors": [
+        "G12",
+        "B09"
+      ],
+      "facilitator_note": "Mostre que há afastamentos necessários, mas nem toda saída silenciosa é prudência.",
+      "reading_points": [
+        {
+          "title": "Nome bonito",
+          "body": "A palavra prudência pode encobrir medo, orgulho ou falta de diálogo."
+        },
+        {
+          "title": "Critério moral",
+          "body": "Prudência busca o bem possível e evita dano real; fuga apenas evita desconforto."
+        },
+        {
+          "title": "Passo responsável",
+          "body": "Antes de abandonar, é preciso conversar, discernir e deixar claro o que se pode cumprir."
+        }
+      ]
+    },
+    {
+      "id": "G12",
+      "term_id": "G12",
+      "call_label": "G12 - Ferida e ruptura",
+      "case": "Uma pessoa sofreu injustiça em uma decisão comunitária e agora diz que a dor prova que toda Igreja é falsa.",
+      "conference_question": "Como reconhecer pecado e ferida dentro da comunidade sem concluir que Cristo abandonou a Igreja?",
+      "anchors": [
+        "N11",
+        "Jo 10,11"
+      ],
+      "facilitator_note": "Trate injustiça com seriedade; não deixe que o escândalo destrua a fé em Cristo.",
+      "reading_points": [
+        {
+          "title": "Ferida séria",
+          "body": "Uma injustiça comunitária pode causar dor real e pedir reparação."
+        },
+        {
+          "title": "Generalização",
+          "body": "Transformar uma ferida em negação total da Igreja é uma conclusão desordenada."
+        },
+        {
+          "title": "Fidelidade a Cristo",
+          "body": "O Bom Pastor continua chamando à verdade, cura e perseverança."
+        }
+      ]
+    },
+    {
+      "id": "G13",
+      "term_id": "G13",
+      "call_label": "G13 - Liturgia e gosto",
+      "case": "Uma pessoa diz que só vai à Missa quando gosta do canto, da duração e do jeito do celebrante.",
+      "conference_question": "Como distinguir preferências legítimas do risco de medir a liturgia pelo gosto pessoal?",
+      "anchors": [
+        "B14",
+        "CEC 2179"
+      ],
+      "facilitator_note": "Não negue que celebrações podem ser melhor ou pior conduzidas; preserve o essencial da liturgia.",
+      "reading_points": [
+        {
+          "title": "Preferência real",
+          "body": "Canto, ritmo e modo de celebrar afetam a experiência de quem participa."
+        },
+        {
+          "title": "Critério insuficiente",
+          "body": "O gosto pessoal não define o valor da Eucaristia nem do culto de Deus."
+        },
+        {
+          "title": "Essencial litúrgico",
+          "body": "A liturgia educa a participar do Mistério de Cristo além da preferência momentânea."
+        }
+      ]
+    },
+    {
+      "id": "G14",
+      "term_id": "G14",
+      "call_label": "G14 - Obediência e omissão",
+      "case": "Um agente percebe tratamento humilhante contra voluntários, mas diz que não falará nada porque obedecer é nunca questionar.",
+      "conference_question": "Como distinguir obediência cristã de omissão diante de erro ou injustiça?",
+      "anchors": [
+        "B12",
+        "G06"
+      ],
+      "facilitator_note": "Mostre que questionar pelo caminho certo pode ser ato de responsabilidade, não rebeldia.",
+      "reading_points": [
+        {
+          "title": "Erro percebido",
+          "body": "Há uma situação concreta de humilhação que não deve ser ignorada."
+        },
+        {
+          "title": "Obediência mal entendida",
+          "body": "Calar sempre diante do erro não é virtude, mas pode virar omissão."
+        },
+        {
+          "title": "Correção responsável",
+          "body": "A obediência cristã procura o caminho adequado para proteger pessoas e comunhão."
+        }
+      ]
+    },
+    {
+      "id": "G15",
+      "term_id": "G15",
+      "call_label": "G15 - Descanso e comodismo",
+      "case": "Depois de uma semana cansativa, alguém precisa repousar, mas usa todo domingo apenas para dormir até tarde e nunca organiza um horário de Missa.",
+      "conference_question": "Como distinguir repouso necessário de comodismo que abandona Deus e a comunidade?",
+      "anchors": [
+        "B02",
+        "CEC 2184"
+      ],
+      "facilitator_note": "Reconheça o cansaço real; mostre que descanso cristão não elimina o culto.",
+      "reading_points": [
+        {
+          "title": "Cansaço legítimo",
+          "body": "O corpo e a mente precisam de repouso, especialmente após trabalho intenso."
+        },
+        {
+          "title": "Desordem do descanso",
+          "body": "Quando o descanso apaga completamente a Missa, ele vira desculpa para descuido espiritual."
+        },
+        {
+          "title": "Domingo ordenado",
+          "body": "O Dia do Senhor integra repouso, culto, família e caridade."
+        }
+      ]
+    },
+    {
+      "id": "O01",
+      "term_id": "O01",
+      "call_label": "O01 - Firmar o domingo",
+      "case": "Uma família decide escolher no sábado o horário da Missa, organizar transporte e ajustar o almoço para que a Eucaristia não dependa da sobra do dia.",
+      "conference_question": "Que passos concretos transformam a Missa dominical de intenção vaga em compromisso real?",
+      "anchors": [
+        "B02",
+        "B03",
+        "CEC 2177"
+      ],
+      "facilitator_note": "Destaque organização simples e estável, não heroísmo artificial.",
+      "reading_points": [
+        {
+          "title": "Decisão antecipada",
+          "body": "Escolher horário antes evita que a Missa fique refém do improviso."
+        },
+        {
+          "title": "Prioridade visível",
+          "body": "Transporte, almoço e descanso passam a servir ao Dia do Senhor."
+        },
+        {
+          "title": "Fidelidade praticável",
+          "body": "Firmar o domingo começa com escolhas pequenas, repetidas e possíveis."
+        }
+      ]
+    },
+    {
+      "id": "O02",
+      "term_id": "O02",
+      "call_label": "O02 - Chegar e permanecer",
+      "case": "Uma pessoa chega sempre depois das leituras e sai logo após a Comunhão para evitar trânsito, mesmo sem necessidade séria.",
+      "conference_question": "Por que chegar a tempo e permanecer até o fim são sinais concretos de respeito litúrgico?",
+      "anchors": [
+        "CEC 2178",
+        "B14"
+      ],
+      "facilitator_note": "Evite condenar emergências reais; trate a prática habitual sem motivo justo.",
+      "reading_points": [
+        {
+          "title": "Participação cortada",
+          "body": "A pessoa escolhe perder partes essenciais da celebração por comodidade."
+        },
+        {
+          "title": "Respeito ao rito",
+          "body": "A liturgia tem unidade e não deve ser tratada como serviço de entrada e saída livre."
+        },
+        {
+          "title": "Presença inteira",
+          "body": "Chegar cedo e permanecer até a despedida educa reverência e compromisso."
+        }
+      ]
+    },
+    {
+      "id": "O03",
+      "term_id": "O03",
+      "call_label": "O03 - Conhecer o pastor",
+      "case": "Uma família nova na cidade participa da Missa por algumas semanas e depois se apresenta ao pároco para perguntar como pode se integrar.",
+      "conference_question": "Por que conhecer o pastor próprio ajuda a transformar presença anônima em pertença paroquial?",
+      "anchors": [
+        "B12",
+        "CEC 2179"
+      ],
+      "facilitator_note": "Mostre que não se trata de bajulação, mas de vínculo pastoral concreto.",
+      "reading_points": [
+        {
+          "title": "Passo simples",
+          "body": "Apresentar-se abre caminho para orientação e integração."
+        },
+        {
+          "title": "Cuidado pastoral",
+          "body": "A paróquia tem pastor próprio para cuidar da comunidade em nome da Igreja."
+        },
+        {
+          "title": "Pertença visível",
+          "body": "Conhecer e ser conhecido ajuda a sair do anonimato religioso."
+        }
+      ]
+    },
+    {
+      "id": "O04",
+      "term_id": "O04",
+      "call_label": "O04 - Entrar em serviço",
+      "case": "Uma recém-crismada conversa com a coordenação e assume ajudar uma vez por mês na organização da acolhida, com alguém mais experiente acompanhando.",
+      "conference_question": "Como escolher um serviço concreto sem assumir mais do que se pode cumprir?",
+      "anchors": [
+        "B07",
+        "B15",
+        "1Pd 4,10"
+      ],
+      "facilitator_note": "Valorize compromisso proporcional, acompanhado e realista.",
+      "reading_points": [
+        {
+          "title": "Entrada concreta",
+          "body": "A pessoa não fica na intenção vaga, mas assume uma tarefa delimitada."
+        },
+        {
+          "title": "Proporção",
+          "body": "A frequência mensal respeita maturidade, tempo e aprendizagem."
+        },
+        {
+          "title": "Dom em serviço",
+          "body": "Servir com acompanhamento transforma pertença em prática responsável."
+        }
+      ]
+    },
+    {
+      "id": "O05",
+      "term_id": "O05",
+      "call_label": "O05 - Assumir escala real",
+      "case": "Um ministro sabe que viajará no fim de semana e avisa a coordenação dias antes, ajudando a encontrar substituto.",
+      "conference_question": "Por que avisar impedimentos com antecedência é parte do compromisso assumido?",
+      "anchors": [
+        "B09",
+        "I08",
+        "1Cor 14,33.40"
+      ],
+      "facilitator_note": "Mostre que responsabilidade não é nunca faltar, mas lidar corretamente com o impedimento.",
+      "reading_points": [
+        {
+          "title": "Impedimento previsto",
+          "body": "A viagem torna impossível cumprir a escala naquele dia."
+        },
+        {
+          "title": "Cuidado com o todo",
+          "body": "Avisar cedo evita improviso, sobrecarga e desordem na celebração."
+        },
+        {
+          "title": "Compromisso maduro",
+          "body": "Assumir escala real inclui cumprir, avisar e colaborar com substituição."
+        }
+      ]
+    },
+    {
+      "id": "O06",
+      "term_id": "O06",
+      "call_label": "O06 - Rezar pela paróquia",
+      "case": "Uma família inclui nas orações da semana o pároco, os doentes, os falecidos, as pastorais e uma decisão difícil da comunidade.",
+      "conference_question": "Como a oração pela paróquia forma pertença sem substituir ações concretas?",
+      "anchors": [
+        "B11",
+        "CEC 2179"
+      ],
+      "facilitator_note": "Una oração e responsabilidade; não apresente oração como fuga da prática.",
+      "reading_points": [
+        {
+          "title": "Memória diante de Deus",
+          "body": "A comunidade concreta entra na oração com nomes e necessidades reais."
+        },
+        {
+          "title": "Pertença espiritual",
+          "body": "Rezar pela paróquia educa a olhar para além de interesses pessoais."
+        },
+        {
+          "title": "Oração que move",
+          "body": "A oração verdadeira prepara disponibilidade para escutar, servir e colaborar."
+        }
+      ]
+    },
+    {
+      "id": "O07",
+      "term_id": "O07",
+      "call_label": "O07 - Contribuir com dízimo",
+      "case": "Uma família conversa sobre o orçamento e decide uma contribuição possível e constante para a comunidade, sem esperar tratamento especial por isso.",
+      "conference_question": "Que critérios tornam a contribuição material livre, responsável e sem lógica de compra?",
+      "anchors": [
+        "2Cor 9,7",
+        "B05"
+      ],
+      "facilitator_note": "Fale de possibilidade real e gratuidade; evite pressão financeira indevida.",
+      "reading_points": [
+        {
+          "title": "Decisão familiar",
+          "body": "A contribuição nasce de conversa responsável sobre possibilidades concretas."
+        },
+        {
+          "title": "Sustentação comum",
+          "body": "A comunidade precisa de recursos para liturgia, caridade, formação e manutenção."
+        },
+        {
+          "title": "Oferta sem privilégio",
+          "body": "Contribuir não compra lugar, poder ou preferência dentro da Igreja."
+        }
+      ]
+    },
+    {
+      "id": "O08",
+      "term_id": "O08",
+      "call_label": "O08 - Servir sem aplauso",
+      "case": "Depois de uma celebração, alguém recolhe bancos, guarda materiais e limpa o espaço sem aparecer nos agradecimentos.",
+      "conference_question": "Por que tarefas invisíveis também podem expressar compromisso eclesial profundo?",
+      "anchors": [
+        "Mc 10,45",
+        "B07"
+      ],
+      "facilitator_note": "Destaque humildade concreta e cuidado com a casa comum.",
+      "reading_points": [
+        {
+          "title": "Serviço oculto",
+          "body": "A tarefa não dá destaque, mas sustenta a vida comunitária."
+        },
+        {
+          "title": "Humildade cristã",
+          "body": "Servir sem aplauso purifica a intenção e combate a vaidade."
+        },
+        {
+          "title": "Imitação de Cristo",
+          "body": "O Senhor veio para servir; a comunidade aprende esse caminho em gestos simples."
+        }
+      ]
+    },
+    {
+      "id": "O09",
+      "term_id": "O09",
+      "call_label": "O09 - Reparar ausência",
+      "case": "Depois de faltar sem motivo a um compromisso da pastoral, uma pessoa pede desculpas, ajuda a corrigir o prejuízo e ajusta sua disponibilidade futura.",
+      "conference_question": "Como reparar uma ausência sem cair em desculpa vazia nem culpa paralisante?",
+      "anchors": [
+        "B10",
+        "B09"
+      ],
+      "facilitator_note": "Mostre que a reparação cristã une verdade, retorno e mudança concreta.",
+      "reading_points": [
+        {
+          "title": "Falta reconhecida",
+          "body": "A pessoa não nega nem disfarça a falha cometida."
+        },
+        {
+          "title": "Prejuízo reparável",
+          "body": "Pedir desculpas é necessário, mas também é preciso ajudar no que foi afetado."
+        },
+        {
+          "title": "Retomada responsável",
+          "body": "Ajustar a disponibilidade impede repetição irresponsável."
+        }
+      ]
+    },
+    {
+      "id": "O10",
+      "term_id": "O10",
+      "call_label": "O10 - Conversar antes de sair",
+      "case": "Ferida por uma decisão da coordenação, uma pessoa marca uma conversa serena antes de abandonar o serviço ou espalhar reclamações.",
+      "conference_question": "Por que conversar com a pessoa certa antes de sair protege a verdade e a comunhão?",
+      "anchors": [
+        "Mt 18,15-17",
+        "G12"
+      ],
+      "facilitator_note": "Não obrigue ninguém a permanecer em situação abusiva; fale de conflitos comuns que pedem diálogo.",
+      "reading_points": [
+        {
+          "title": "Ferida nomeada",
+          "body": "A pessoa reconhece que foi afetada e não finge que nada aconteceu."
+        },
+        {
+          "title": "Caminho direto",
+          "body": "Antes de romper ou murmurar, ela procura quem pode ouvir e responder."
+        },
+        {
+          "title": "Comunhão protegida",
+          "body": "O diálogo honesto pode corrigir erro, evitar injustiça e discernir próximos passos."
+        }
+      ]
+    },
+    {
+      "id": "O11",
+      "term_id": "O11",
+      "call_label": "O11 - Acolher quem chega",
+      "case": "Na porta da igreja, uma pessoa percebe um visitante perdido, cumprimenta, indica onde sentar e depois apresenta discretamente alguém da comunidade.",
+      "conference_question": "Como uma acolhida simples pode abrir caminho para pertença sem invadir a pessoa?",
+      "anchors": [
+        "B11",
+        "G03"
+      ],
+      "facilitator_note": "Mostre que acolher não é pressionar, mas orientar com atenção e discrição.",
+      "reading_points": [
+        {
+          "title": "Atenção concreta",
+          "body": "Alguém percebe uma pessoa nova e não a deixa invisível."
+        },
+        {
+          "title": "Discrição",
+          "body": "A ajuda orienta sem exposição, cobrança ou curiosidade excessiva."
+        },
+        {
+          "title": "Porta de pertença",
+          "body": "Pequenos gestos podem facilitar vínculo real com a comunidade."
+        }
+      ]
+    },
+    {
+      "id": "O12",
+      "term_id": "O12",
+      "call_label": "O12 - Formar-se na fé",
+      "case": "Antes de assumir uma função de orientação, alguém procura estudar a doutrina da Igreja e conversar com pessoas maduras para não conduzir só por opinião.",
+      "conference_question": "Por que servir na Igreja exige formação, e não apenas boa vontade?",
+      "anchors": [
+        "CEC 2179",
+        "At 2,42"
+      ],
+      "facilitator_note": "Valorize boa vontade, mas mostre que ela precisa ser educada pela fé da Igreja.",
+      "reading_points": [
+        {
+          "title": "Boa vontade limitada",
+          "body": "Querer ajudar é importante, mas não basta para orientar corretamente."
+        },
+        {
+          "title": "Doutrina salvífica",
+          "body": "A paróquia ensina a fé de Cristo, não apenas opiniões particulares."
+        },
+        {
+          "title": "Serviço competente",
+          "body": "Formar-se ajuda a servir com fidelidade, prudência e clareza."
+        }
+      ]
+    },
+    {
+      "id": "O13",
+      "term_id": "O13",
+      "call_label": "O13 - Levar pedido concreto",
+      "case": "Em vez de reclamar que a comunidade não visita idosos, uma pessoa leva à coordenação uma lista de nomes, horários possíveis e duas pessoas dispostas a ajudar.",
+      "conference_question": "Como transformar uma reclamação verdadeira em proposta concreta e responsável?",
+      "anchors": [
+        "G06",
+        "B11"
+      ],
+      "facilitator_note": "Mostre que proposta concreta não garante aceitação imediata, mas muda a qualidade da crítica.",
+      "reading_points": [
+        {
+          "title": "Problema identificado",
+          "body": "A necessidade dos idosos é real e merece atenção."
+        },
+        {
+          "title": "Proposta organizada",
+          "body": "A reclamação vira nomes, horários e colaboração possível."
+        },
+        {
+          "title": "Comunhão operante",
+          "body": "Levar pedido concreto ajuda a comunidade a discernir e agir com ordem."
+        }
+      ]
+    },
+    {
+      "id": "O14",
+      "term_id": "O14",
+      "call_label": "O14 - Respeitar a liturgia",
+      "case": "Uma equipe quer mudar uma parte da Missa por conta própria, mas decide antes consultar a orientação da Igreja e seguir o que for correto.",
+      "conference_question": "Por que respeitar a liturgia é forma de serviço, e não falta de criatividade?",
+      "anchors": [
+        "B14",
+        "G13"
+      ],
+      "facilitator_note": "Mostre que criatividade pode existir nos lugares próprios, sem alterar o que pertence ao rito.",
+      "reading_points": [
+        {
+          "title": "Boa intenção",
+          "body": "A equipe deseja melhorar a participação, mas percebe que não pode agir sozinha."
+        },
+        {
+          "title": "Obediência litúrgica",
+          "body": "A Missa pertence à Igreja e deve seguir sua orientação."
+        },
+        {
+          "title": "Serviço reverente",
+          "body": "Respeitar o rito protege a fé da assembleia e o culto de Deus."
+        }
+      ]
+    },
+    {
+      "id": "O15",
+      "term_id": "O15",
+      "call_label": "O15 - Acompanhar sofredores",
+      "case": "Ao saber que um vizinho enlutado está isolado, uma pessoa da comunidade telefona, oferece uma visita breve e pergunta se há uma necessidade concreta a encaminhar.",
+      "conference_question": "Como acompanhar alguém que sofre sem invadir, prometer demais ou abandonar a pessoa?",
+      "anchors": [
+        "B08",
+        "Mt 25,35-40",
+        "Lc 10,25-37"
+      ],
+      "facilitator_note": "Ensine presença proporcional, escuta e encaminhamento seguro.",
+      "reading_points": [
+        {
+          "title": "Sofrimento percebido",
+          "body": "A pessoa enlutada não fica reduzida ao próprio isolamento."
+        },
+        {
+          "title": "Cuidado discreto",
+          "body": "Telefonar e oferecer visita respeitam a liberdade e a dor do outro."
+        },
+        {
+          "title": "Caridade concreta",
+          "body": "Acompanhar inclui ouvir, rezar, ajudar no possível e encaminhar o que excede a própria capacidade."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2005 @@
+{
+  "title": "Chamadas — Bingo Ofensas ao matrimônio",
+  "meeting": "Encontro 21 — Ofensas ao matrimônio",
+  "source_terms": "data/termos.json",
+  "method": {
+    "read_order": [
+      "call_label",
+      "case",
+      "reading_points"
+    ],
+    "rule": "A cada carta, anuncie código e conceito, leia o caso e explique brevemente a relação usando a Leitura do caso. Depois as equipes marcam o código, se estiver na cartela.",
+    "conference_rule": "Ao fechar duas linhas válidas, horizontais, verticais ou diagonais, a equipe escolhe uma dessas linhas completas, explica pelo menos três conceitos da linha escolhida e liga pelo menos um deles à base bíblica ou doutrinal do encontro. As duas linhas podem se cruzar. O centro livre já conta como casa marcada para completar linhas, mas não conta como um dos três conceitos explicados."
+  },
+  "cards": [
+    {
+      "id": "B01",
+      "term_id": "B01",
+      "call_label": "B01 - Uma só carne",
+      "case": "Depois de anos casados, um marido passa a dizer que a esposa é apenas alguém com quem divide despesas e rotina, não alguém a quem uniu a própria vida.",
+      "conference_question": "O que muda quando o matrimônio é visto como uma só carne, e não apenas como convivência útil?",
+      "anchors": [
+        "Gn 2,24",
+        "Mt 19,3-6",
+        "CEC 2382"
+      ],
+      "facilitator_note": "Conduza sem romantizar: a imagem bíblica aponta para vínculo real, deveres concretos e comunhão de vida.",
+      "reading_points": [
+        {
+          "title": "Redução do vínculo",
+          "body": "O caso mostra o casamento sendo tratado como sociedade doméstica, sem reconhecer a comunhão prometida."
+        },
+        {
+          "title": "Critério de Cristo",
+          "body": "Jesus recorda que os dois já não são dois, mas uma só carne."
+        },
+        {
+          "title": "Consequência moral",
+          "body": "Ferir esse vínculo não atinge só sentimentos, mas uma aliança assumida diante de Deus."
+        }
+      ]
+    },
+    {
+      "id": "B02",
+      "term_id": "B02",
+      "call_label": "B02 - Indissolubilidade",
+      "case": "Um casal combina antes do casamento que, se a relação ficar pesada, cada um seguirá a própria vida sem maiores consequências.",
+      "conference_question": "Por que a indissolubilidade não é uma prisão, mas uma exigência do compromisso matrimonial cristão?",
+      "anchors": [
+        "Mt 19,6",
+        "CEC 2382",
+        "CEC 2384"
+      ],
+      "facilitator_note": "Explique que o vínculo não depende apenas do humor do casal, mas da promessa e da ação de Deus.",
+      "reading_points": [
+        {
+          "title": "Compromisso condicionado",
+          "body": "O caso apresenta a promessa matrimonial como contrato revogável conforme o cansaço."
+        },
+        {
+          "title": "Vínculo querido por Deus",
+          "body": "Cristo afirma que o homem não deve separar o que Deus uniu."
+        },
+        {
+          "title": "Fidelidade até o fim",
+          "body": "A indissolubilidade protege a entrega total contra a lógica do descarte."
+        }
+      ]
+    },
+    {
+      "id": "B03",
+      "term_id": "B03",
+      "call_label": "B03 - Aliança sacramental",
+      "case": "Após uma festa de casamento na Igreja, os noivos dizem que a cerimônia foi bonita, mas que não pretendem levar a sério a dimensão sacramental do que celebraram.",
+      "conference_question": "Como distinguir festa religiosa de sacramento, e por que essa distinção muda a responsabilidade dos esposos?",
+      "anchors": [
+        "Ef 5,25-33",
+        "CEC 2381",
+        "CEC 2384"
+      ],
+      "facilitator_note": "Ajude a turma a perceber que o sacramento não é decoração religiosa de uma decisão privada.",
+      "reading_points": [
+        {
+          "title": "Sinal esvaziado",
+          "body": "O casal mantém a aparência religiosa, mas ignora o significado da aliança celebrada."
+        },
+        {
+          "title": "Cristo e a Igreja",
+          "body": "O matrimônio sacramental participa do sinal da fidelidade de Cristo pela Igreja."
+        },
+        {
+          "title": "Ruptura mais grave",
+          "body": "Ferir esse vínculo atinge também o sinal sacramental que os esposos assumiram."
+        }
+      ]
+    },
+    {
+      "id": "B04",
+      "term_id": "B04",
+      "call_label": "B04 - Fidelidade conjugal",
+      "case": "Em viagens de trabalho, uma mulher casada flerta constantemente e apaga as conversas antes de voltar para casa.",
+      "conference_question": "Por que a fidelidade conjugal envolve também o que se cultiva em segredo?",
+      "anchors": [
+        "Hb 13,4",
+        "CEC 2380",
+        "CEC 2381"
+      ],
+      "facilitator_note": "Mostre que a fidelidade não começa apenas no ato consumado, mas no cuidado com o coração e a confiança.",
+      "reading_points": [
+        {
+          "title": "Segredo corrosivo",
+          "body": "A atitude cria um espaço paralelo que o cônjuge não pode conhecer."
+        },
+        {
+          "title": "Exclusividade ferida",
+          "body": "A fidelidade prometida inclui corpo, desejo, palavra, intenção e verdade."
+        },
+        {
+          "title": "Cuidado necessário",
+          "body": "Proteger a fidelidade exige cortar ambiguidades antes que se tornem queda grave."
+        }
+      ]
+    },
+    {
+      "id": "B05",
+      "term_id": "B05",
+      "call_label": "B05 - Castidade do matrimônio",
+      "case": "Um marido diz que, por ser casado, pode consumir qualquer conteúdo sexual e fazer qualquer comentário sobre outras mulheres, desde que não traia fisicamente.",
+      "conference_question": "Como a castidade matrimonial ordena o desejo sem negar a vida conjugal?",
+      "anchors": [
+        "Mt 5,27-28",
+        "1Cor 6,18-20",
+        "CEC 2380"
+      ],
+      "facilitator_note": "Evite reduzir castidade a abstinência; apresente-a como integração do desejo no amor fiel.",
+      "reading_points": [
+        {
+          "title": "Desejo desordenado",
+          "body": "O caso separa o desejo da fidelidade e transforma outras pessoas em objeto de consumo."
+        },
+        {
+          "title": "Olhar moral",
+          "body": "Jesus condena o adultério também quando ele é consentido e alimentado no coração."
+        },
+        {
+          "title": "Amor ordenado",
+          "body": "A castidade conjugal protege a dignidade do cônjuge e a verdade da entrega."
+        }
+      ]
+    },
+    {
+      "id": "B06",
+      "term_id": "B06",
+      "call_label": "B06 - Doação definitiva",
+      "case": "Um homem aceita casar, mas avisa que só continuará enquanto a relação trouxer satisfação e não exigir sacrifícios difíceis.",
+      "conference_question": "Por que a doação definitiva é incompatível com um compromisso mantido apenas enquanto é confortável?",
+      "anchors": [
+        "Mt 19,5-6",
+        "CEC 2391"
+      ],
+      "facilitator_note": "Explique que definitivo não significa ausência de dificuldade, mas fidelidade assumida mesmo quando há cruz.",
+      "reading_points": [
+        {
+          "title": "Promessa frágil",
+          "body": "O compromisso é colocado sob condição de conforto e vantagem pessoal."
+        },
+        {
+          "title": "Entrega total",
+          "body": "O amor matrimonial não tolera a lógica da experiência provisória."
+        },
+        {
+          "title": "Responsabilidade cristã",
+          "body": "Casar é prometer vida comum, e não apenas permanecer enquanto for fácil."
+        }
+      ]
+    },
+    {
+      "id": "B07",
+      "term_id": "B07",
+      "call_label": "B07 - Direito do cônjuge",
+      "case": "Um homem casado mantém uma relação paralela e diz que a esposa não tem direito de saber, porque a vida íntima dele pertence só a ele.",
+      "conference_question": "Que direitos do cônjuge são feridos quando alguém usa a própria liberdade para esconder infidelidade?",
+      "anchors": [
+        "CEC 2381",
+        "Hb 13,4"
+      ],
+      "facilitator_note": "Mostre que casamento cria deveres de justiça, não apenas expectativas afetivas.",
+      "reading_points": [
+        {
+          "title": "Falsa propriedade",
+          "body": "O caso trata a vida conjugal como se não houvesse promessa nem direito do outro."
+        },
+        {
+          "title": "Injustiça objetiva",
+          "body": "O adultério lesa o direito do cônjuge à fidelidade e à verdade."
+        },
+        {
+          "title": "Responsabilidade assumida",
+          "body": "A liberdade matrimonial é liberdade para amar fielmente, não para trair em segredo."
+        }
+      ]
+    },
+    {
+      "id": "B08",
+      "term_id": "B08",
+      "call_label": "B08 - Bem dos filhos",
+      "case": "Durante uma separação conflituosa, os pais discutem pensão, visitas e novas relações diante das crianças, que começam a apresentar medo de escolher um lado.",
+      "conference_question": "Como o bem dos filhos ajuda a avaliar decisões e palavras em conflitos conjugais?",
+      "anchors": [
+        "CEC 2381",
+        "Mt 19,6"
+      ],
+      "facilitator_note": "Não idealize famílias sem conflito; destaque que os filhos não podem ser transformados em vítimas secundárias da disputa.",
+      "reading_points": [
+        {
+          "title": "Crianças expostas",
+          "body": "O conflito adulto invade a segurança afetiva dos filhos."
+        },
+        {
+          "title": "Necessidade de estabilidade",
+          "body": "O Catecismo lembra que os filhos precisam da união estável dos pais."
+        },
+        {
+          "title": "Critério de cuidado",
+          "body": "Mesmo em crise, os adultos devem proteger os filhos da manipulação e da exposição."
+        }
+      ]
+    },
+    {
+      "id": "B09",
+      "term_id": "B09",
+      "call_label": "B09 - Adultério é injustiça",
+      "case": "Depois de meses de traição, uma esposa diz que não fez mal a ninguém porque conseguiu manter as aparências da família.",
+      "conference_question": "Por que o adultério é injustiça mesmo quando a traição ainda não se tornou pública?",
+      "anchors": [
+        "CEC 2380",
+        "CEC 2381",
+        "Mt 5,27-28"
+      ],
+      "facilitator_note": "Aponte a diferença entre ausência de exposição pública e ausência de dano moral.",
+      "reading_points": [
+        {
+          "title": "Aparência preservada",
+          "body": "O caso tenta medir a gravidade apenas pela descoberta externa."
+        },
+        {
+          "title": "Compromisso violado",
+          "body": "O adultério fere a promessa, o cônjuge e o sinal do matrimônio."
+        },
+        {
+          "title": "Dano real",
+          "body": "O pecado existe antes do escândalo público, porque a justiça já foi quebrada."
+        }
+      ]
+    },
+    {
+      "id": "B10",
+      "term_id": "B10",
+      "call_label": "B10 - Dureza do coração",
+      "case": "Num conflito antigo, cada cônjuge só procura provar que tem razão, e nenhum aceita pedir perdão, escutar ou rever a própria parte.",
+      "conference_question": "Como a dureza do coração pode transformar um conflito conjugal em ruptura cada vez mais profunda?",
+      "anchors": [
+        "Mt 19,7-8",
+        "CEC 2382"
+      ],
+      "facilitator_note": "Evite atribuir toda crise à falta de boa vontade; fale da dureza como fechamento real à conversão.",
+      "reading_points": [
+        {
+          "title": "Fechamento interior",
+          "body": "A disputa deixa de buscar verdade e reconciliação para defender orgulho."
+        },
+        {
+          "title": "Diagnóstico de Jesus",
+          "body": "Cristo liga certas rupturas à dureza do coração humano."
+        },
+        {
+          "title": "Chamado à conversão",
+          "body": "A resposta cristã começa quando alguém aceita deixar Deus quebrar a rigidez do pecado."
+        }
+      ]
+    },
+    {
+      "id": "B11",
+      "term_id": "B11",
+      "call_label": "B11 - Forma pública do amor",
+      "case": "Um casal vive junto há anos, divide casa e intimidade, mas evita qualquer compromisso público para poder sair da relação sem obrigação.",
+      "conference_question": "Por que o amor que envolve vida comum e intimidade pede uma forma pública e responsável?",
+      "anchors": [
+        "CEC 2390",
+        "Mt 19,5-6"
+      ],
+      "facilitator_note": "Explique que a forma pública protege pessoas concretas, direitos, filhos e a verdade do compromisso.",
+      "reading_points": [
+        {
+          "title": "Compromisso evitado",
+          "body": "A convivência assume benefícios do casamento sem aceitar sua responsabilidade."
+        },
+        {
+          "title": "União livre",
+          "body": "O Catecismo chama de enganosa uma união sem compromisso mútuo estável."
+        },
+        {
+          "title": "Amor responsável",
+          "body": "A forma pública impede que o outro seja tratado como companhia provisória."
+        }
+      ]
+    },
+    {
+      "id": "B12",
+      "term_id": "B12",
+      "call_label": "B12 - Sexo e matrimônio",
+      "case": "Dois noivos dizem que a relação sexual é necessária para provar amor, embora ainda não tenham assumido uma comunidade definitiva de vida.",
+      "conference_question": "O que a fé cristã protege quando reserva a união sexual ao matrimônio?",
+      "anchors": [
+        "CEC 2390",
+        "CEC 2391",
+        "1Cor 6,18-20"
+      ],
+      "facilitator_note": "Fale com clareza moral, sem reduzir a sexualidade a perigo; ela é boa quando ordenada à entrega verdadeira.",
+      "reading_points": [
+        {
+          "title": "Entrega antecipada",
+          "body": "O corpo expressa uma totalidade que ainda não foi assumida publicamente."
+        },
+        {
+          "title": "Comunidade definitiva",
+          "body": "A união carnal é moralmente legítima dentro da vida matrimonial definitiva."
+        },
+        {
+          "title": "Proteção da pessoa",
+          "body": "A norma cristã protege o amor contra fantasia, pressão e uso do outro."
+        }
+      ]
+    },
+    {
+      "id": "B13",
+      "term_id": "B13",
+      "call_label": "B13 - Verdade com misericórdia",
+      "case": "Uma mulher divorciada se aproxima da comunidade; alguns querem tratá-la como escândalo, outros dizem que a doutrina deveria ser esquecida para ela não se sentir ferida.",
+      "conference_question": "Como unir verdade e misericórdia sem condenar a pessoa nem apagar o ensinamento de Cristo?",
+      "anchors": [
+        "Jo 8,1-11",
+        "CEC 2386",
+        "CEC 2390"
+      ],
+      "facilitator_note": "Atenção pastoral: muitos catequizandos têm histórias familiares feridas. Ensine a doutrina sem julgar casos pessoais.",
+      "reading_points": [
+        {
+          "title": "Dois desvios",
+          "body": "O caso opõe dureza sem misericórdia e acolhimento sem verdade."
+        },
+        {
+          "title": "Olhar de Cristo",
+          "body": "Jesus não humilha a pessoa, mas também a chama a não pecar mais."
+        },
+        {
+          "title": "Caminho eclesial",
+          "body": "A Igreja acompanha pessoas concretas sem renunciar à verdade do matrimônio."
+        }
+      ]
+    },
+    {
+      "id": "B14",
+      "term_id": "B14",
+      "call_label": "B14 - Separação legítima",
+      "case": "Uma mulher ameaçada dentro de casa procura proteção, guarda dos filhos e orientação jurídica, mas teme estar pecando por sair do lar.",
+      "conference_question": "Como distinguir separação legítima para proteção de uma ruptura injusta do vínculo matrimonial?",
+      "anchors": [
+        "CEC 2383",
+        "1Cor 7,10-11",
+        "CIC cân. 1151-1155"
+      ],
+      "facilitator_note": "Não deixe a doutrina ser usada para prender vítimas em risco. O vínculo permanece, mas a convivência pode ser interrompida legitimamente.",
+      "reading_points": [
+        {
+          "title": "Risco real",
+          "body": "A saída não nasce de capricho, mas da necessidade de proteger vidas e direitos."
+        },
+        {
+          "title": "Distinção moral",
+          "body": "A Igreja admite separação dos esposos em certos casos, mantendo o vínculo."
+        },
+        {
+          "title": "Proteção justa",
+          "body": "Buscar segurança e direitos pode ser obrigação moral, não falta contra o matrimônio."
+        }
+      ]
+    },
+    {
+      "id": "B15",
+      "term_id": "B15",
+      "call_label": "B15 - Guarda dos pequenos",
+      "case": "Uma criança confiada a um parente começa a evitar ficar sozinha com ele e relata comportamentos que a deixam com medo.",
+      "conference_question": "Por que a responsabilidade de guardar os pequenos torna o abuso ainda mais grave?",
+      "anchors": [
+        "CEC 2389",
+        "Mt 18,6"
+      ],
+      "facilitator_note": "Trate o tema com seriedade, sem detalhes gráficos. Reforce que proteção e denúncia não são opcionais.",
+      "reading_points": [
+        {
+          "title": "Confiança traída",
+          "body": "Quem deveria proteger passa a ser fonte de medo e dano."
+        },
+        {
+          "title": "Gravidade acrescida",
+          "body": "O Catecismo destaca o dano profundo causado à integridade física e moral dos jovens."
+        },
+        {
+          "title": "Resposta obrigatória",
+          "body": "A proteção do menor exige ação concreta, não silêncio familiar ou religioso."
+        }
+      ]
+    },
+    {
+      "id": "I01",
+      "term_id": "I01",
+      "call_label": "I01 - Mensagens escondidas",
+      "case": "Uma esposa mantém conversas diárias com um antigo namorado, apaga notificações e muda de assunto quando o marido se aproxima.",
+      "conference_question": "Que sinais mostram que uma conversa deixou de ser simples contato e passou a ameaçar a fidelidade?",
+      "anchors": [
+        "B04",
+        "B07",
+        "Mt 5,27-28"
+      ],
+      "facilitator_note": "Evite cair em moralismo digital genérico; foque no segredo, na intenção e no cultivo do vínculo paralelo.",
+      "reading_points": [
+        {
+          "title": "Ocultação deliberada",
+          "body": "Apagar mensagens mostra que a pessoa sabe que existe algo a esconder."
+        },
+        {
+          "title": "Vínculo paralelo",
+          "body": "A conversa alimenta intimidade fora do compromisso conjugal."
+        },
+        {
+          "title": "Cuidado da fidelidade",
+          "body": "O caminho cristão pede transparência e corte da ocasião perigosa."
+        }
+      ]
+    },
+    {
+      "id": "I02",
+      "term_id": "I02",
+      "call_label": "I02 - Encontro secreto",
+      "case": "Um homem casado começa a almoçar toda semana com uma colega por quem se sente atraído e registra os encontros como compromissos de trabalho.",
+      "conference_question": "Como distinguir amizade honesta de encontro secreto que já prepara infidelidade?",
+      "anchors": [
+        "B04",
+        "B09",
+        "CEC 2380"
+      ],
+      "facilitator_note": "Mostre que nem toda convivência é pecado, mas segredo, atração cultivada e mentira mudam o peso moral.",
+      "reading_points": [
+        {
+          "title": "Ambiguidade cultivada",
+          "body": "O encontro é mantido justamente porque alimenta uma atração."
+        },
+        {
+          "title": "Mentira prática",
+          "body": "Chamar de trabalho aquilo que tem outro sentido já corrompe a confiança."
+        },
+        {
+          "title": "Ocasião próxima",
+          "body": "A resposta prudente é interromper o ambiente que favorece a queda."
+        }
+      ]
+    },
+    {
+      "id": "I03",
+      "term_id": "I03",
+      "call_label": "I03 - Dupla vida afetiva",
+      "case": "Um pai de família mantém outro relacionamento em uma cidade vizinha e continua aparecendo em casa como se nada tivesse acontecido.",
+      "conference_question": "Por que a dupla vida afetiva aumenta o dano moral da infidelidade?",
+      "anchors": [
+        "B07",
+        "B09",
+        "CEC 2381"
+      ],
+      "facilitator_note": "Aponte a soma de adultério, mentira sustentada e injustiça contra a família.",
+      "reading_points": [
+        {
+          "title": "Vida dividida",
+          "body": "A pessoa cria duas realidades incompatíveis e tenta conservar as duas."
+        },
+        {
+          "title": "Injustiça prolongada",
+          "body": "O adultério não é episódio isolado, mas estrutura contínua de engano."
+        },
+        {
+          "title": "Conversão exigente",
+          "body": "Não basta sentir culpa; é preciso romper a mentira e reparar o dano possível."
+        }
+      ]
+    },
+    {
+      "id": "I04",
+      "term_id": "I04",
+      "call_label": "I04 - Abandono injusto",
+      "case": "Depois de iniciar uma nova paixão, um homem sai de casa, reduz a ajuda financeira e deixa a esposa sozinha com os cuidados dos filhos.",
+      "conference_question": "Que responsabilidades permanecem quando alguém tenta abandonar o matrimônio e a família?",
+      "anchors": [
+        "B02",
+        "B08",
+        "CEC 2386"
+      ],
+      "facilitator_note": "Separe o julgamento da pessoa concreta da leitura objetiva do abandono e de suas consequências.",
+      "reading_points": [
+        {
+          "title": "Ruptura irresponsável",
+          "body": "A paixão é usada para abandonar deveres assumidos."
+        },
+        {
+          "title": "Dano familiar",
+          "body": "O cônjuge e os filhos sofrem consequências materiais e afetivas."
+        },
+        {
+          "title": "Justiça necessária",
+          "body": "O vínculo matrimonial envolve responsabilidade que não desaparece pela vontade de sair."
+        }
+      ]
+    },
+    {
+      "id": "I05",
+      "term_id": "I05",
+      "call_label": "I05 - Divórcio unilateral",
+      "case": "Uma mulher recebe a notícia de que o marido entrou com divórcio porque quer oficializar outra relação, embora ela tenha tentado conservar o casamento.",
+      "conference_question": "Por que é importante distinguir quem impõe o divórcio de quem é abandonado injustamente?",
+      "anchors": [
+        "CEC 2384",
+        "CEC 2386",
+        "G07"
+      ],
+      "facilitator_note": "Use este caso para evitar acusações injustas contra vítimas de abandono.",
+      "reading_points": [
+        {
+          "title": "Decisão imposta",
+          "body": "A ruptura civil é decidida por um lado, contra a fidelidade buscada pelo outro."
+        },
+        {
+          "title": "Diferença moral",
+          "body": "O Catecismo distingue a vítima inocente daquele que destrói o matrimônio."
+        },
+        {
+          "title": "Cuidado pastoral",
+          "body": "A Igreja precisa proteger a verdade sem esmagar quem foi abandonado."
+        }
+      ]
+    },
+    {
+      "id": "I06",
+      "term_id": "I06",
+      "call_label": "I06 - Nova união civil",
+      "case": "Um homem casado na Igreja se divorcia civilmente e, sem examinar sua situação diante da Igreja, assume nova união no cartório.",
+      "conference_question": "O que muda quando se reconhece que o estado civil mudou, mas o vínculo sacramental válido permanece?",
+      "anchors": [
+        "CEC 2384",
+        "Mt 19,9",
+        "G06"
+      ],
+      "facilitator_note": "Explique a situação objetiva com cuidado, sem transformar a carta em julgamento de casos pessoais da turma.",
+      "reading_points": [
+        {
+          "title": "Mudança civil",
+          "body": "O cartório altera a situação legal, mas não decide sozinho sobre o vínculo sacramental."
+        },
+        {
+          "title": "Contradição objetiva",
+          "body": "A nova união entra em conflito com a fidelidade do matrimônio válido."
+        },
+        {
+          "title": "Discernimento eclesial",
+          "body": "A pessoa precisa buscar orientação séria, não apenas concluir por conta própria."
+        }
+      ]
+    },
+    {
+      "id": "I07",
+      "term_id": "I07",
+      "call_label": "I07 - Coabitação sem matrimônio",
+      "case": "Um casal passa a morar junto, dividir contas e viver intimidade sexual, mas evita casamento para não assumir obrigações duradouras.",
+      "conference_question": "Por que a coabitação sem matrimônio não é apenas uma escolha neutra de moradia?",
+      "anchors": [
+        "CEC 2390",
+        "B11"
+      ],
+      "facilitator_note": "Mostre que a crítica não é ao afeto sincero, mas à recusa da forma pública e responsável do compromisso.",
+      "reading_points": [
+        {
+          "title": "Vida de casal",
+          "body": "A relação assume elementos próprios do matrimônio sem aceitar sua promessa."
+        },
+        {
+          "title": "Compromisso recusado",
+          "body": "A falta de forma pública enfraquece a confiança e a responsabilidade."
+        },
+        {
+          "title": "Dignidade do amor",
+          "body": "A fé chama o amor humano a uma entrega estável, verdadeira e pública."
+        }
+      ]
+    },
+    {
+      "id": "I08",
+      "term_id": "I08",
+      "call_label": "I08 - Teste de convivência",
+      "case": "Noivos decidem morar juntos por seis meses antes do casamento para verificar se o outro serve para uma vida definitiva.",
+      "conference_question": "Que visão da pessoa aparece quando o namoro ou noivado vira período de teste do outro?",
+      "anchors": [
+        "CEC 2391",
+        "B06"
+      ],
+      "facilitator_note": "Trabalhe a diferença entre conhecer com prudência e experimentar a pessoa como se fosse produto.",
+      "reading_points": [
+        {
+          "title": "Experiência provisória",
+          "body": "O outro é colocado sob avaliação antes de uma entrega verdadeira."
+        },
+        {
+          "title": "Falsa garantia",
+          "body": "A convivência sexual antecipada não garante fidelidade nem maturidade."
+        },
+        {
+          "title": "Doação total",
+          "body": "O amor humano pede compromisso definitivo, não ensaio de posse."
+        }
+      ]
+    },
+    {
+      "id": "I09",
+      "term_id": "I09",
+      "call_label": "I09 - Relações prematuras",
+      "case": "Um casal de noivos diz que, se há intenção de casar, não há problema em viver desde já a intimidade própria dos esposos.",
+      "conference_question": "Por que a intenção de casar não torna legítima uma entrega que ainda não foi assumida no matrimônio?",
+      "anchors": [
+        "CEC 2390",
+        "CEC 2391",
+        "B12"
+      ],
+      "facilitator_note": "Evite tom de vergonha; explique o nexo entre corpo, promessa e verdade da entrega.",
+      "reading_points": [
+        {
+          "title": "Intenção insuficiente",
+          "body": "Querer casar não é o mesmo que já ter assumido o matrimônio."
+        },
+        {
+          "title": "Linguagem do corpo",
+          "body": "A relação sexual expressa uma totalidade que ainda não existe de modo público e definitivo."
+        },
+        {
+          "title": "Castidade formativa",
+          "body": "Esperar educa a liberdade para prometer e cumprir."
+        }
+      ]
+    },
+    {
+      "id": "I10",
+      "term_id": "I10",
+      "call_label": "I10 - Pornografia cultivada",
+      "case": "Um marido passa noites consumindo pornografia e depois se distancia da esposa, comparando-a com imagens e fantasias.",
+      "conference_question": "Como a pornografia cultivada fere a fidelidade mesmo quando não há encontro físico com outra pessoa?",
+      "anchors": [
+        "Mt 5,27-28",
+        "B05",
+        "B04"
+      ],
+      "facilitator_note": "Fale com firmeza, sem detalhes desnecessários. O ponto é a desordem do olhar e o dano ao vínculo.",
+      "reading_points": [
+        {
+          "title": "Olhar treinado",
+          "body": "A pornografia educa o desejo para consumo, comparação e posse."
+        },
+        {
+          "title": "Fidelidade interior",
+          "body": "Jesus mostra que a infidelidade pode ser alimentada no coração."
+        },
+        {
+          "title": "Renúncia concreta",
+          "body": "A resposta exige cortar o conteúdo, buscar ajuda e reconstruir a confiança."
+        }
+      ]
+    },
+    {
+      "id": "I11",
+      "term_id": "I11",
+      "call_label": "I11 - Filhos como arma",
+      "case": "Após a separação, um pai manda recados agressivos pela filha e ameaça cancelar visitas se a criança não repetir o que ouviu da mãe.",
+      "conference_question": "Por que usar os filhos como arma agrava a injustiça em um conflito conjugal?",
+      "anchors": [
+        "B08",
+        "CEC 2381"
+      ],
+      "facilitator_note": "Destaque a proteção dos filhos sem entrar em disputa sobre guarda em casos concretos.",
+      "reading_points": [
+        {
+          "title": "Criança instrumentalizada",
+          "body": "A filha é usada como mensageira e pressão emocional."
+        },
+        {
+          "title": "Dano ampliado",
+          "body": "O conflito dos adultos passa a ferir diretamente a segurança da criança."
+        },
+        {
+          "title": "Dever de proteção",
+          "body": "O bem dos filhos deve limitar palavras, exigências e estratégias dos pais."
+        }
+      ]
+    },
+    {
+      "id": "I12",
+      "term_id": "I12",
+      "call_label": "I12 - Patrimônio como chantagem",
+      "case": "Durante uma crise conjugal, o marido transfere bens para terceiros e diz que a esposa ficará sem nada se não aceitar suas condições.",
+      "conference_question": "Como reconhecer quando questões de dinheiro deixam de ser administração e viram injustiça contra o cônjuge?",
+      "anchors": [
+        "B14",
+        "CEC 2383"
+      ],
+      "facilitator_note": "Ligue o tema ao cuidado de direitos legítimos previsto pelo Catecismo.",
+      "reading_points": [
+        {
+          "title": "Domínio econômico",
+          "body": "O dinheiro é usado para ameaçar e controlar o outro cônjuge."
+        },
+        {
+          "title": "Direitos legítimos",
+          "body": "A proteção do patrimônio e do sustento pode exigir medida civil."
+        },
+        {
+          "title": "Justiça familiar",
+          "body": "A fé não permite usar bens comuns como instrumento de vingança."
+        }
+      ]
+    },
+    {
+      "id": "I13",
+      "term_id": "I13",
+      "call_label": "I13 - Violência dentro de casa",
+      "case": "Uma esposa passa a esconder marcas de agressão e evita procurar ajuda porque o agressor repete que casamento cristão deve suportar tudo.",
+      "conference_question": "Como responder à violência doméstica sem usar a doutrina do matrimônio contra a vítima?",
+      "anchors": [
+        "B14",
+        "B15",
+        "CEC 2383"
+      ],
+      "facilitator_note": "Seja claro: violência não é forma de amor conjugal, e buscar segurança pode ser necessário.",
+      "reading_points": [
+        {
+          "title": "Doutrina distorcida",
+          "body": "O agressor usa linguagem religiosa para manter a vítima presa."
+        },
+        {
+          "title": "Risco concreto",
+          "body": "A violência fere a dignidade e pode exigir separação legítima."
+        },
+        {
+          "title": "Proteção primeiro",
+          "body": "A resposta cristã inclui segurança, apoio e medidas adequadas."
+        }
+      ]
+    },
+    {
+      "id": "I14",
+      "term_id": "I14",
+      "call_label": "I14 - Abuso de menor",
+      "case": "Uma adolescente confiada a um adulto da família relata medo de ficar sozinha com ele por causa de aproximações e falas invasivas.",
+      "conference_question": "Que critérios mostram que a prioridade deve ser proteger a vítima, e não preservar a aparência da família?",
+      "anchors": [
+        "CEC 2389",
+        "Mt 18,6",
+        "B15"
+      ],
+      "facilitator_note": "Não peça detalhes imaginários. Afirme a gravidade, a necessidade de escuta responsável e o encaminhamento seguro.",
+      "reading_points": [
+        {
+          "title": "Sinal de perigo",
+          "body": "O medo e as aproximações invasivas não devem ser minimizados."
+        },
+        {
+          "title": "Responsabilidade violada",
+          "body": "O adulto confiável tem dever acrescido de proteger, não de explorar."
+        },
+        {
+          "title": "Ação protetiva",
+          "body": "A resposta exige afastar o risco e acionar adultos e autoridades competentes."
+        }
+      ]
+    },
+    {
+      "id": "I15",
+      "term_id": "I15",
+      "call_label": "I15 - Incesto encoberto",
+      "case": "Uma família descobre abuso cometido por um parente e decide resolver tudo em silêncio para não manchar o sobrenome.",
+      "conference_question": "Por que o silêncio familiar pode se tornar participação no dano quando há incesto ou abuso?",
+      "anchors": [
+        "CEC 2389",
+        "B15",
+        "O08"
+      ],
+      "facilitator_note": "Trate encobrimento como problema moral grave. A reputação da família nunca vale mais que a proteção da vítima.",
+      "reading_points": [
+        {
+          "title": "Reputação idolatrada",
+          "body": "A família coloca o próprio nome acima da vítima."
+        },
+        {
+          "title": "Dano continuado",
+          "body": "O silêncio protege o agressor e aumenta a solidão de quem sofreu."
+        },
+        {
+          "title": "Proteção justa",
+          "body": "A resposta cristã exige verdade, denúncia e cuidado real com a vítima."
+        }
+      ]
+    },
+    {
+      "id": "N01",
+      "term_id": "N01",
+      "call_label": "N01 - Caso sem peso",
+      "case": "Depois de uma traição em viagem, um homem diz que foi só uma vez e que não vale destruir um casamento por algo passageiro.",
+      "conference_question": "Por que chamar o adultério de passageiro não elimina sua gravidade moral?",
+      "anchors": [
+        "CEC 2380",
+        "CEC 2381",
+        "B09"
+      ],
+      "facilitator_note": "Desmonte a desculpa sem sensacionalismo: a brevidade do ato não apaga a injustiça.",
+      "reading_points": [
+        {
+          "title": "Minimização",
+          "body": "A frase tenta medir a gravidade pelo tempo de duração."
+        },
+        {
+          "title": "Vínculo ferido",
+          "body": "O adultério viola promessa, direito do cônjuge e sinal matrimonial."
+        },
+        {
+          "title": "Conversão real",
+          "body": "Reconhecer a gravidade é condição para arrependimento e reparação."
+        }
+      ]
+    },
+    {
+      "id": "N02",
+      "term_id": "N02",
+      "call_label": "N02 - Desejo como lei",
+      "case": "Uma mulher casada se apaixona por um colega e conclui que, se sente algo tão forte, não deve lutar contra isso.",
+      "conference_question": "Como distinguir sentimento real de autorização moral para agir contra a fidelidade?",
+      "anchors": [
+        "Mt 5,27-28",
+        "B05",
+        "G04"
+      ],
+      "facilitator_note": "Mostre que sentir não é o mesmo que consentir, cultivar ou obedecer ao impulso.",
+      "reading_points": [
+        {
+          "title": "Impulso elevado a norma",
+          "body": "O desejo passa a ser tratado como se fosse mandamento."
+        },
+        {
+          "title": "Liberdade moral",
+          "body": "A pessoa pode reconhecer a atração sem alimentá-la nem agir contra o compromisso."
+        },
+        {
+          "title": "Castidade concreta",
+          "body": "A resposta é ordenar o desejo e cortar aquilo que o fortalece indevidamente."
+        }
+      ]
+    },
+    {
+      "id": "N03",
+      "term_id": "N03",
+      "call_label": "N03 - Papel não importa",
+      "case": "Um casal vive como marido e mulher e responde que casamento é só papel, porque o sentimento entre eles já basta.",
+      "conference_question": "Por que reduzir o casamento a papel empobrece a dignidade pública e sacramental do compromisso?",
+      "anchors": [
+        "CEC 2390",
+        "B11"
+      ],
+      "facilitator_note": "Explique que a crítica da Igreja não nega afeto; ela mostra que o amor humano exige forma responsável.",
+      "reading_points": [
+        {
+          "title": "Compromisso diminuído",
+          "body": "A frase despreza a responsabilidade pública do vínculo."
+        },
+        {
+          "title": "Afeto insuficiente",
+          "body": "Sentimento sincero não substitui promessa estável e reconhecida."
+        },
+        {
+          "title": "Forma que protege",
+          "body": "O matrimônio dá forma jurídica, pública e sacramental ao amor."
+        }
+      ]
+    },
+    {
+      "id": "N04",
+      "term_id": "N04",
+      "call_label": "N04 - Testar para garantir",
+      "case": "Antes de casar, um casal decide experimentar vida sexual e casa comum para ter certeza de que não haverá surpresas depois.",
+      "conference_question": "Por que o teste de convivência promete segurança, mas pode enfraquecer a própria lógica da doação?",
+      "anchors": [
+        "CEC 2391",
+        "B06"
+      ],
+      "facilitator_note": "Mostre o engano da falsa garantia: usar a pessoa como teste não produz fidelidade verdadeira.",
+      "reading_points": [
+        {
+          "title": "Garantia ilusória",
+          "body": "O casal busca certeza tratando a entrega como experiência reversível."
+        },
+        {
+          "title": "Pessoa em avaliação",
+          "body": "O outro passa a ser medido por desempenho e conveniência."
+        },
+        {
+          "title": "Amor definitivo",
+          "body": "O amor humano pede doação total, não ensaio de compromisso."
+        }
+      ]
+    },
+    {
+      "id": "N05",
+      "term_id": "N05",
+      "call_label": "N05 - Privado basta",
+      "case": "Um homem diz à companheira que não precisam de testemunhas, Igreja ou lei, porque o compromisso dos dois só diz respeito a eles.",
+      "conference_question": "Por que uma vida comum com intimidade e futuro não pode ser reduzida a acordo privado?",
+      "anchors": [
+        "CEC 2390",
+        "B11"
+      ],
+      "facilitator_note": "Aponte que o privado basta apenas quando não há deveres públicos, filhos, patrimônio e responsabilidade duradoura.",
+      "reading_points": [
+        {
+          "title": "Fuga da responsabilidade",
+          "body": "A fala evita qualquer forma que proteja a relação e seus deveres."
+        },
+        {
+          "title": "Dimensão pública",
+          "body": "O amor conjugal tem consequências sociais, jurídicas, familiares e espirituais."
+        },
+        {
+          "title": "Compromisso verdadeiro",
+          "body": "Assumir forma pública é reconhecer que o outro não é provisório."
+        }
+      ]
+    },
+    {
+      "id": "N06",
+      "term_id": "N06",
+      "call_label": "N06 - Felicidade sem compromisso",
+      "case": "Uma esposa abandona a família dizendo que Deus quer que ela seja feliz e que deveres difíceis não podem vir antes da própria realização.",
+      "conference_question": "Como distinguir busca legítima do bem de uma felicidade usada para justificar abandono de deveres?",
+      "anchors": [
+        "Mt 19,6",
+        "CEC 2384",
+        "B10"
+      ],
+      "facilitator_note": "Não negue sofrimentos reais; critique a falsa felicidade que dispensa justiça, fidelidade e responsabilidade.",
+      "reading_points": [
+        {
+          "title": "Deus usado como desculpa",
+          "body": "A vontade de Deus é invocada para escapar da promessa assumida."
+        },
+        {
+          "title": "Felicidade reduzida",
+          "body": "O bem pessoal é separado da justiça para com o cônjuge e os filhos."
+        },
+        {
+          "title": "Amor com cruz",
+          "body": "A vida cristã não chama a destruir deveres em nome do conforto pessoal."
+        }
+      ]
+    },
+    {
+      "id": "N07",
+      "term_id": "N07",
+      "call_label": "N07 - Ninguém vai saber",
+      "case": "Um marido mantém conversas íntimas em um aplicativo escondido e diz a si mesmo que, se a esposa nunca descobrir, não haverá ferida.",
+      "conference_question": "Por que o segredo pode aumentar a gravidade de uma infidelidade em vez de diminuí-la?",
+      "anchors": [
+        "CEC 2381",
+        "B04",
+        "B07"
+      ],
+      "facilitator_note": "Mostre que a consciência diante de Deus não depende de flagrante ou exposição pública.",
+      "reading_points": [
+        {
+          "title": "Engano escondido",
+          "body": "A mentira é organizada para conservar aparência de fidelidade."
+        },
+        {
+          "title": "Confiança corroída",
+          "body": "O cônjuge é privado da verdade a que tem direito."
+        },
+        {
+          "title": "Conversão antes do escândalo",
+          "body": "A resposta é interromper o segredo antes que o dano se torne maior."
+        }
+      ]
+    },
+    {
+      "id": "N08",
+      "term_id": "N08",
+      "call_label": "N08 - Filhos se adaptam",
+      "case": "Após a separação, os pais apresentam novas relações rapidamente e dizem que as crianças são pequenas e logo se acostumam.",
+      "conference_question": "Que critério ajuda a distinguir adaptação inevitável de descuido real com o bem dos filhos?",
+      "anchors": [
+        "CEC 2381",
+        "B08"
+      ],
+      "facilitator_note": "Não transforme os filhos em argumento para negar toda situação difícil; destaque o dever de cuidado concreto.",
+      "reading_points": [
+        {
+          "title": "Sofrimento minimizado",
+          "body": "A frase reduz os filhos a pessoas que devem absorver decisões adultas."
+        },
+        {
+          "title": "Estabilidade necessária",
+          "body": "As crianças precisam de segurança, verdade e ritmo adequado."
+        },
+        {
+          "title": "Responsabilidade parental",
+          "body": "O bem dos filhos deve conter impulsos e pressas dos adultos."
+        }
+      ]
+    },
+    {
+      "id": "N09",
+      "term_id": "N09",
+      "call_label": "N09 - Culpa do outro",
+      "case": "Depois de trair, um homem afirma que a esposa o empurrou para isso porque estava distante e ocupada com os filhos.",
+      "conference_question": "Como reconhecer problemas reais do casamento sem transferir a culpa da infidelidade para a vítima?",
+      "anchors": [
+        "CEC 2380",
+        "CEC 2381",
+        "G03"
+      ],
+      "facilitator_note": "Ensine a distinguir fatores de crise de justificativa moral para o pecado.",
+      "reading_points": [
+        {
+          "title": "Responsabilidade deslocada",
+          "body": "A pessoa usa dificuldades reais para justificar uma escolha própria."
+        },
+        {
+          "title": "Problema não autoriza pecado",
+          "body": "Distância conjugal pode exigir diálogo e ajuda, não adultério."
+        },
+        {
+          "title": "Verdade reparadora",
+          "body": "A conversão começa quando cada um assume a própria parte sem manipulação."
+        }
+      ]
+    },
+    {
+      "id": "N10",
+      "term_id": "N10",
+      "call_label": "N10 - Lei civil absolve",
+      "case": "Após o divórcio civil, uma mulher diz que está livre diante de Deus para uma nova união porque o juiz já encerrou o casamento.",
+      "conference_question": "Como distinguir efeitos civis de uma decisão judicial e permanência do vínculo sacramental?",
+      "anchors": [
+        "CEC 2382",
+        "CEC 2384",
+        "G06"
+      ],
+      "facilitator_note": "Não negue a importância civil; explique seus limites diante do sacramento.",
+      "reading_points": [
+        {
+          "title": "Confusão de planos",
+          "body": "A sentença civil é tomada como se decidisse tudo diante de Deus."
+        },
+        {
+          "title": "Vínculo sacramental",
+          "body": "Entre batizados, o matrimônio válido não é dissolvido por poder humano."
+        },
+        {
+          "title": "Discernimento necessário",
+          "body": "A pessoa deve buscar orientação eclesial, não concluir apenas pela situação civil."
+        }
+      ]
+    },
+    {
+      "id": "N11",
+      "term_id": "N11",
+      "call_label": "N11 - Separar é sempre pecado",
+      "case": "Uma mulher agredida ouve de parentes que, por ser casada na Igreja, deve continuar morando com o agressor em qualquer circunstância.",
+      "conference_question": "Por que essa frase parece defender o matrimônio, mas pode trair a justiça e a proteção da vítima?",
+      "anchors": [
+        "CEC 2383",
+        "B14",
+        "G05"
+      ],
+      "facilitator_note": "Seja explícito: manter o vínculo não obriga convivência quando há perigo sério.",
+      "reading_points": [
+        {
+          "title": "Rigidez perigosa",
+          "body": "A frase aplica a doutrina sem considerar risco, direito e segurança."
+        },
+        {
+          "title": "Separação legítima",
+          "body": "O Catecismo admite separação em certos casos previstos."
+        },
+        {
+          "title": "Proteção moral",
+          "body": "Defender o matrimônio nunca significa abandonar a vítima à violência."
+        }
+      ]
+    },
+    {
+      "id": "N12",
+      "term_id": "N12",
+      "call_label": "N12 - Acolher é aprovar",
+      "case": "Ao ver uma pessoa em segunda união participar da comunidade, alguém conclui que a Igreja mudou a doutrina sobre o matrimônio.",
+      "conference_question": "Como a Igreja pode acolher pessoas em situações irregulares sem aprovar moralmente a situação?",
+      "anchors": [
+        "Jo 8,1-11",
+        "B13",
+        "G11"
+      ],
+      "facilitator_note": "Evite dois extremos: exclusão fria e relativização da doutrina.",
+      "reading_points": [
+        {
+          "title": "Confusão pastoral",
+          "body": "A presença da pessoa é confundida com aprovação de tudo em sua vida."
+        },
+        {
+          "title": "Misericórdia verdadeira",
+          "body": "Acolher é chamar para perto de Cristo, não apagar sua palavra."
+        },
+        {
+          "title": "Caminho possível",
+          "body": "Acompanhamento exige verdade, paciência e discernimento concreto."
+        }
+      ]
+    },
+    {
+      "id": "N13",
+      "term_id": "N13",
+      "call_label": "N13 - Amor é posse",
+      "case": "Um marido verifica o celular da esposa todos os dias, proíbe visitas à família dela e chama esse controle de cuidado.",
+      "conference_question": "Como distinguir cuidado verdadeiro de posse disfarçada de amor?",
+      "anchors": [
+        "Ef 5,25-33",
+        "G13"
+      ],
+      "facilitator_note": "Mostre que fidelidade não se constrói por domínio, vigilância abusiva ou isolamento.",
+      "reading_points": [
+        {
+          "title": "Controle nomeado como cuidado",
+          "body": "A palavra amor é usada para justificar vigilância e isolamento."
+        },
+        {
+          "title": "Dignidade do outro",
+          "body": "O cônjuge não é propriedade nem extensão do medo de alguém."
+        },
+        {
+          "title": "Amor segundo Cristo",
+          "body": "O amor verdadeiro busca o bem do outro na liberdade e na verdade."
+        }
+      ]
+    },
+    {
+      "id": "N14",
+      "term_id": "N14",
+      "call_label": "N14 - Omissão por paz",
+      "case": "Uma tia percebe sinais de abuso contra uma sobrinha, mas prefere não falar para evitar escândalo e briga na família.",
+      "conference_question": "Quando evitar conflito deixa de ser prudência e passa a ser omissão diante do mal?",
+      "anchors": [
+        "CEC 2389",
+        "B15",
+        "G14"
+      ],
+      "facilitator_note": "Aponte que paz verdadeira não é silêncio que protege agressor.",
+      "reading_points": [
+        {
+          "title": "Conflito evitado",
+          "body": "A adulta teme a reação da família mais do que o perigo sofrido pela criança."
+        },
+        {
+          "title": "Omissão grave",
+          "body": "Quando há abuso, calar pode permitir continuação do dano."
+        },
+        {
+          "title": "Proteção acima da aparência",
+          "body": "A resposta moral exige ação prudente, firme e segura."
+        }
+      ]
+    },
+    {
+      "id": "N15",
+      "term_id": "N15",
+      "call_label": "N15 - Perdão sem mudança",
+      "case": "Depois de agressões repetidas, o marido pede perdão chorando, mas recusa qualquer limite, tratamento, afastamento ou consequência.",
+      "conference_question": "Como distinguir perdão cristão de retorno imprudente a uma situação que continua perigosa?",
+      "anchors": [
+        "Jo 8,11",
+        "G09",
+        "O05"
+      ],
+      "facilitator_note": "Explique que misericórdia não elimina verdade, proteção e mudança verificável.",
+      "reading_points": [
+        {
+          "title": "Pedido sem conversão",
+          "body": "As lágrimas são usadas para evitar consequências reais."
+        },
+        {
+          "title": "Risco mantido",
+          "body": "Sem mudança concreta, a situação continua ameaçadora."
+        },
+        {
+          "title": "Perdão ordenado",
+          "body": "Perdoar não dispensa limites, reparação e proteção."
+        }
+      ]
+    },
+    {
+      "id": "G01",
+      "term_id": "G01",
+      "call_label": "G01 - Pessoa e ato",
+      "case": "Um homem em situação matrimonial irregular procura a Igreja; algumas pessoas querem expulsá-lo, outras dizem que nada em sua vida precisa ser revisto.",
+      "conference_question": "Como distinguir a dignidade da pessoa da avaliação moral dos atos?",
+      "anchors": [
+        "Jo 8,1-11",
+        "B13"
+      ],
+      "facilitator_note": "Use a distinção para evitar desprezo pela pessoa e relativização do pecado.",
+      "reading_points": [
+        {
+          "title": "Dois erros opostos",
+          "body": "Um lado nega a dignidade da pessoa; outro nega a gravidade da situação."
+        },
+        {
+          "title": "Dignidade permanece",
+          "body": "A pessoa é sempre chamada, amada e capaz de conversão."
+        },
+        {
+          "title": "Ato deve ser julgado",
+          "body": "Nomear o erro moral não é negar a dignidade de quem precisa de caminho."
+        }
+      ]
+    },
+    {
+      "id": "G02",
+      "term_id": "G02",
+      "call_label": "G02 - Doutrina e acolhimento",
+      "case": "Um grupo de adultos quer preparar uma conversa sobre casais feridos, mas teme que falar da doutrina soe rejeição e que acolher soe permissão para tudo.",
+      "conference_question": "Que critério ajuda a manter doutrina clara e acolhimento real ao mesmo tempo?",
+      "anchors": [
+        "B13",
+        "Jo 8,1-11"
+      ],
+      "facilitator_note": "Mostre que a Igreja não escolhe entre verdade e misericórdia; precisa das duas.",
+      "reading_points": [
+        {
+          "title": "Tensão real",
+          "body": "O grupo percebe que tanto dureza quanto silêncio doutrinal podem ferir."
+        },
+        {
+          "title": "Verdade que chama",
+          "body": "A doutrina mostra o bem do matrimônio e nomeia o que o ofende."
+        },
+        {
+          "title": "Acolhimento que acompanha",
+          "body": "A misericórdia abre caminho sem aprovar o mal."
+        }
+      ]
+    },
+    {
+      "id": "G03",
+      "term_id": "G03",
+      "call_label": "G03 - Culpa e responsabilidade",
+      "case": "Duas pessoas vivem em união livre: uma recusa qualquer compromisso por comodidade, outra cresceu sem formação cristã e começa a procurar orientação.",
+      "conference_question": "Como reconhecer a gravidade objetiva da situação sem julgar do mesmo modo a responsabilidade de cada pessoa?",
+      "anchors": [
+        "CEC 2386",
+        "B13"
+      ],
+      "facilitator_note": "Explique sem relativismo: a situação pode ser objetivamente errada, e a responsabilidade pessoal exige discernimento.",
+      "reading_points": [
+        {
+          "title": "Situação semelhante",
+          "body": "Externamente, as duas situações parecem iguais."
+        },
+        {
+          "title": "História diferente",
+          "body": "Formação, liberdade, conhecimento e intenção influenciam a responsabilidade subjetiva."
+        },
+        {
+          "title": "Discernimento pastoral",
+          "body": "A Igreja nomeia o mal objetivo e acompanha pessoas concretas com prudência."
+        }
+      ]
+    },
+    {
+      "id": "G04",
+      "term_id": "G04",
+      "call_label": "G04 - Desejo e consentimento",
+      "case": "Um homem casado percebe atração por uma colega; em vez de alimentar conversas íntimas, decide limitar contato e falar com alguém maduro.",
+      "conference_question": "O que muda moralmente entre sentir atração e consentir em alimentá-la?",
+      "anchors": [
+        "Mt 5,27-28",
+        "B05"
+      ],
+      "facilitator_note": "Ajude a turma a entender liberdade moral sem negar a força das tentações.",
+      "reading_points": [
+        {
+          "title": "Tentação reconhecida",
+          "body": "A atração aparece, mas não é tratada como ordem a ser seguida."
+        },
+        {
+          "title": "Consentimento evitado",
+          "body": "A pessoa não cultiva o desejo em segredo nem planeja queda."
+        },
+        {
+          "title": "Resposta livre",
+          "body": "A castidade se concretiza em limites e pedido de ajuda."
+        }
+      ]
+    },
+    {
+      "id": "G05",
+      "term_id": "G05",
+      "call_label": "G05 - Separação e divórcio",
+      "case": "Por causa de ameaças e dependência financeira, uma esposa busca residência separada e pensão, mas não pretende assumir nova união.",
+      "conference_question": "Como distinguir separação para proteção de divórcio entendido como ruptura do vínculo?",
+      "anchors": [
+        "CEC 2383",
+        "CEC 2384",
+        "B14"
+      ],
+      "facilitator_note": "Destaque a distinção sem desvalorizar a gravidade da ruptura civil quando usada contra o vínculo.",
+      "reading_points": [
+        {
+          "title": "Proteção concreta",
+          "body": "A medida busca segurança e direitos, não troca de compromisso."
+        },
+        {
+          "title": "Vínculo preservado",
+          "body": "A separação pode ocorrer mantendo o vínculo matrimonial."
+        },
+        {
+          "title": "Critério moral",
+          "body": "A intenção e a necessidade de proteção mudam a leitura do caso."
+        }
+      ]
+    },
+    {
+      "id": "G06",
+      "term_id": "G06",
+      "call_label": "G06 - Vínculo e estado civil",
+      "case": "Após o divórcio civil, um homem diz que seu casamento acabou em todos os sentidos porque a certidão já foi alterada.",
+      "conference_question": "Por que estado civil e vínculo sacramental não são a mesma coisa?",
+      "anchors": [
+        "CEC 2382",
+        "CEC 2384"
+      ],
+      "facilitator_note": "Explique a diferença entre efeitos legais e realidade sacramental sem desprezar a esfera civil.",
+      "reading_points": [
+        {
+          "title": "Plano legal",
+          "body": "A certidão produz efeitos reconhecidos pelo Estado."
+        },
+        {
+          "title": "Plano sacramental",
+          "body": "O matrimônio válido entre batizados não é dissolvido por poder humano."
+        },
+        {
+          "title": "Discernimento necessário",
+          "body": "A situação civil deve ser lida à luz da fé e da orientação da Igreja."
+        }
+      ]
+    },
+    {
+      "id": "G07",
+      "term_id": "G07",
+      "call_label": "G07 - Inocente e causador",
+      "case": "Num bairro, todos tratam igualmente uma mulher abandonada com filhos pequenos e o marido que saiu de casa para viver outra relação.",
+      "conference_question": "Por que a justiça exige distinguir vítima inocente e causador da ruptura?",
+      "anchors": [
+        "CEC 2386",
+        "I05"
+      ],
+      "facilitator_note": "A distinção protege pessoas injustamente abandonadas de acusações genéricas.",
+      "reading_points": [
+        {
+          "title": "Igualação injusta",
+          "body": "O comentário público coloca vítima e causador no mesmo nível moral."
+        },
+        {
+          "title": "Diferença considerável",
+          "body": "O Catecismo distingue quem se esforçou pela fidelidade de quem destruiu o matrimônio."
+        },
+        {
+          "title": "Caridade com justiça",
+          "body": "Acolher todos não significa apagar responsabilidades diferentes."
+        }
+      ]
+    },
+    {
+      "id": "G08",
+      "term_id": "G08",
+      "call_label": "G08 - Queda e projeto",
+      "case": "Uma pessoa cai em adultério, se arrepende e corta a relação; outra organiza uma segunda vida estável e exige que todos a chamem de normal.",
+      "conference_question": "Que diferença moral existe entre uma queda combatida e uma situação planejada como estilo de vida?",
+      "anchors": [
+        "CEC 2380",
+        "CEC 2384",
+        "O04"
+      ],
+      "facilitator_note": "Não diminua a queda; apenas mostre que arrependimento e permanência no erro não são a mesma coisa.",
+      "reading_points": [
+        {
+          "title": "Erro reconhecido",
+          "body": "No primeiro caso há ruptura com o pecado e busca de conversão."
+        },
+        {
+          "title": "Erro organizado",
+          "body": "No segundo, a contradição com o vínculo vira projeto estável."
+        },
+        {
+          "title": "Resposta diferente",
+          "body": "O discernimento considera arrependimento, continuidade e reparação."
+        }
+      ]
+    },
+    {
+      "id": "G09",
+      "term_id": "G09",
+      "call_label": "G09 - Perdão e convivência",
+      "case": "Após ameaças graves, o agressor pede perdão e exige que a esposa volte imediatamente para casa para provar que é cristã.",
+      "conference_question": "Por que perdoar não obriga retorno imediato à convivência quando ainda há perigo?",
+      "anchors": [
+        "CEC 2383",
+        "O09"
+      ],
+      "facilitator_note": "Seja firme: perdão cristão não anula prudência, limites e proteção.",
+      "reading_points": [
+        {
+          "title": "Pressão religiosa",
+          "body": "O perdão é usado como instrumento para forçar retorno."
+        },
+        {
+          "title": "Perigo não resolvido",
+          "body": "Sem segurança e mudança comprovada, a convivência pode ser imprudente."
+        },
+        {
+          "title": "Perdão ordenado",
+          "body": "A misericórdia caminha com verdade, proteção e responsabilidade."
+        }
+      ]
+    },
+    {
+      "id": "G10",
+      "term_id": "G10",
+      "call_label": "G10 - Sigilo e encobrimento",
+      "case": "Uma família pede a um parente que não conte a ninguém sobre suspeita de abuso, alegando que assuntos de casa ficam dentro de casa.",
+      "conference_question": "Como distinguir discrição sobre a intimidade familiar de encobrimento de um mal grave?",
+      "anchors": [
+        "CEC 2389",
+        "Mt 18,6",
+        "O08"
+      ],
+      "facilitator_note": "Deixe claro que abuso não é assunto privado a ser administrado em silêncio.",
+      "reading_points": [
+        {
+          "title": "Sigilo invocado",
+          "body": "A linguagem da privacidade é usada para impedir proteção."
+        },
+        {
+          "title": "Encobrimento grave",
+          "body": "Quando há vulnerável em risco, calar favorece o agressor."
+        },
+        {
+          "title": "Dever de proteger",
+          "body": "A resposta correta aciona ajuda e autoridades competentes."
+        }
+      ]
+    },
+    {
+      "id": "G11",
+      "term_id": "G11",
+      "call_label": "G11 - Acolhida e aprovação",
+      "case": "Um casal em situação irregular é convidado a participar da Missa e a conversar com o padre; algumas pessoas interpretam isso como bênção automática da situação.",
+      "conference_question": "Como distinguir presença na comunidade de aprovação moral da situação em que a pessoa vive?",
+      "anchors": [
+        "B13",
+        "N12"
+      ],
+      "facilitator_note": "Use o caso para mostrar que a Igreja é mãe e mestra, não tribunal frio nem clube sem verdade.",
+      "reading_points": [
+        {
+          "title": "Comunidade aberta",
+          "body": "A presença na Igreja expressa chamado à fé e ao caminho."
+        },
+        {
+          "title": "Situação discernida",
+          "body": "Acolher não significa chamar de bom tudo o que existe na vida da pessoa."
+        },
+        {
+          "title": "Acompanhamento fiel",
+          "body": "A resposta pastoral une pertença, verdade, orientação e paciência."
+        }
+      ]
+    },
+    {
+      "id": "G12",
+      "term_id": "G12",
+      "call_label": "G12 - Nulidade e divórcio",
+      "case": "Um homem diz que vai pedir nulidade porque quer um divórcio católico rápido para casar novamente.",
+      "conference_question": "Por que declaração de nulidade não é simplesmente divórcio com nome religioso?",
+      "anchors": [
+        "Mt 19,9",
+        "CEC 2384"
+      ],
+      "facilitator_note": "Explique que nulidade exige exame da validade desde o início, não simples fracasso posterior.",
+      "reading_points": [
+        {
+          "title": "Confusão comum",
+          "body": "A nulidade é imaginada como modo religioso de encerrar casamento válido."
+        },
+        {
+          "title": "Validade examinada",
+          "body": "O processo pergunta se houve matrimônio válido desde o começo."
+        },
+        {
+          "title": "Seriedade eclesial",
+          "body": "Não se decide nulidade por desejo de nova união, mas por verdade sobre o vínculo."
+        }
+      ]
+    },
+    {
+      "id": "G13",
+      "term_id": "G13",
+      "call_label": "G13 - Amor e posse",
+      "case": "Uma esposa impede o marido de conversar com familiares, controla sua localização e diz que quem ama precisa aceitar ser vigiado.",
+      "conference_question": "Que critério cristão ajuda a separar amor fiel de posse controladora?",
+      "anchors": [
+        "Ef 5,25-33",
+        "N13"
+      ],
+      "facilitator_note": "Não trate controle como cuidado exagerado; nomeie domínio quando aparece.",
+      "reading_points": [
+        {
+          "title": "Controle disfarçado",
+          "body": "A vigilância é apresentada como prova de amor."
+        },
+        {
+          "title": "Bem do outro",
+          "body": "Amar é buscar o bem real do cônjuge, não dominar sua vida."
+        },
+        {
+          "title": "Fidelidade livre",
+          "body": "A fidelidade cristã exige confiança, verdade e limites contra abuso."
+        }
+      ]
+    },
+    {
+      "id": "G14",
+      "term_id": "G14",
+      "call_label": "G14 - Prudência e medo",
+      "case": "Um vizinho escuta agressões frequentes no apartamento ao lado, mas adia qualquer ajuda dizendo que precisa ser prudente e não se meter.",
+      "conference_question": "Como distinguir prudência verdadeira de medo que abandona alguém em risco?",
+      "anchors": [
+        "1Cor 14,33.40",
+        "N14"
+      ],
+      "facilitator_note": "Não incentive imprudência pessoal; aponte caminhos seguros de ajuda e acionamento adequado.",
+      "reading_points": [
+        {
+          "title": "Risco percebido",
+          "body": "Há sinais repetidos de violência que não podem ser tratados como incômodo privado."
+        },
+        {
+          "title": "Prudência autêntica",
+          "body": "A prudência escolhe o modo seguro de agir, não desculpa a omissão."
+        },
+        {
+          "title": "Ação proporcional",
+          "body": "A resposta pode envolver rede de apoio, autoridades competentes e cuidado com a vítima."
+        }
+      ]
+    },
+    {
+      "id": "G15",
+      "term_id": "G15",
+      "call_label": "G15 - Verdade e humilhação",
+      "case": "Depois de saber de um adultério, alguém publica nomes e detalhes nas redes sociais dizendo que só está defendendo a verdade.",
+      "conference_question": "Quando dizer a verdade sobre o pecado vira humilhação e linchamento?",
+      "anchors": [
+        "Jo 8,1-11",
+        "B13"
+      ],
+      "facilitator_note": "Ensine que verdade cristã não se confunde com exposição vingativa.",
+      "reading_points": [
+        {
+          "title": "Exposição pública",
+          "body": "A verdade é usada como arma para destruir reputações."
+        },
+        {
+          "title": "Caridade necessária",
+          "body": "Nomear o pecado não autoriza ridicularizar a pessoa."
+        },
+        {
+          "title": "Caminho justo",
+          "body": "A correção deve buscar conversão, reparação e proteção, não espetáculo."
+        }
+      ]
+    },
+    {
+      "id": "O01",
+      "term_id": "O01",
+      "call_label": "O01 - Dizer a verdade",
+      "case": "Uma esposa percebe que sua relação com um colega passou dos limites e decide dizer a verdade ao marido e procurar ajuda antes de cair mais fundo.",
+      "conference_question": "Como dizer a verdade sem transformar a confissão em agressão, justificativa ou chantagem emocional?",
+      "anchors": [
+        "B13",
+        "G15"
+      ],
+      "facilitator_note": "Mostre que verdade exige caridade, momento adequado e disposição de reparar.",
+      "reading_points": [
+        {
+          "title": "Reconhecimento inicial",
+          "body": "A pessoa para de se enganar e nomeia o risco."
+        },
+        {
+          "title": "Verdade responsável",
+          "body": "Falar a verdade não é descarregar culpa, mas abrir caminho para conversão."
+        },
+        {
+          "title": "Reparação possível",
+          "body": "A confissão deve vir acompanhada de limites e busca de ajuda."
+        }
+      ]
+    },
+    {
+      "id": "O02",
+      "term_id": "O02",
+      "call_label": "O02 - Cortar a ocasião",
+      "case": "Um homem casado percebe que as conversas com uma colega estão se tornando íntimas e pede para mudar a rotina de mensagens e encontros a sós.",
+      "conference_question": "Por que cortar a ocasião é mais honesto do que confiar apenas na própria força?",
+      "anchors": [
+        "Mt 5,27-28",
+        "G04"
+      ],
+      "facilitator_note": "Apresente renúncia como ato de liberdade, não como fraqueza.",
+      "reading_points": [
+        {
+          "title": "Perigo reconhecido",
+          "body": "A pessoa identifica que a situação alimenta uma possível infidelidade."
+        },
+        {
+          "title": "Humildade moral",
+          "body": "Não brincar com a ocasião é sinal de prudência e maturidade."
+        },
+        {
+          "title": "Decisão concreta",
+          "body": "Mudar rotina, interromper chats e evitar encontros a sós protege o vínculo."
+        }
+      ]
+    },
+    {
+      "id": "O03",
+      "term_id": "O03",
+      "call_label": "O03 - Procurar ajuda espiritual",
+      "case": "Um casal em crise procura orientação com um sacerdote antes de tomar decisões definitivas movidas por raiva, medo ou conselho de pessoas confusas.",
+      "conference_question": "Como a ajuda espiritual pode evitar tanto a precipitação quanto o autoengano em uma crise matrimonial?",
+      "anchors": [
+        "B13",
+        "1Cor 14,33.40"
+      ],
+      "facilitator_note": "Explique que ajuda espiritual séria não substitui medidas legais ou psicológicas quando necessárias.",
+      "reading_points": [
+        {
+          "title": "Crise acompanhada",
+          "body": "O casal não decide isolado, no calor da ferida."
+        },
+        {
+          "title": "Discernimento cristão",
+          "body": "A orientação ajuda a escutar a verdade de Deus e as responsabilidades concretas."
+        },
+        {
+          "title": "Caminho ordenado",
+          "body": "A ajuda pode integrar oração, sacramentos, terapia, mediação e proteção."
+        }
+      ]
+    },
+    {
+      "id": "O04",
+      "term_id": "O04",
+      "call_label": "O04 - Confessar o pecado",
+      "case": "Depois de romper uma relação adúltera, uma pessoa procura o sacramento da Reconciliação e aceita conversar sobre reparação e limites.",
+      "conference_question": "Por que a confissão verdadeira exige arrependimento e propósito concreto de mudança?",
+      "anchors": [
+        "Jo 8,11",
+        "G08"
+      ],
+      "facilitator_note": "Evite tratar confissão como formalidade. Ela supõe ruptura com o pecado e caminho de conversão.",
+      "reading_points": [
+        {
+          "title": "Pecado nomeado",
+          "body": "A pessoa deixa de justificar o adultério e o apresenta diante de Deus."
+        },
+        {
+          "title": "Ruptura necessária",
+          "body": "A reconciliação exige abandonar a relação ilícita e seus caminhos."
+        },
+        {
+          "title": "Graça para mudar",
+          "body": "O sacramento fortalece uma conversão que deve aparecer em decisões concretas."
+        }
+      ]
+    },
+    {
+      "id": "O05",
+      "term_id": "O05",
+      "call_label": "O05 - Reparar o dano",
+      "case": "Após uma infidelidade, o cônjuge culpado quer apenas esquecer o assunto, mas se recusa a mudar hábitos, prestar contas ou enfrentar consequências.",
+      "conference_question": "Que tipo de reparação pode ser necessária quando a confiança conjugal foi ferida?",
+      "anchors": [
+        "CEC 2381",
+        "N15"
+      ],
+      "facilitator_note": "Explique que reparação não é castigo vingativo, mas justiça proporcional e reconstrução possível.",
+      "reading_points": [
+        {
+          "title": "Arrependimento incompleto",
+          "body": "Querer esquecer sem mudar evita a responsabilidade pelo dano."
+        },
+        {
+          "title": "Confiança quebrada",
+          "body": "O cônjuge ferido precisa de verdade, tempo e sinais concretos."
+        },
+        {
+          "title": "Justiça reparadora",
+          "body": "Reparar pode incluir romper contatos, assumir limites e buscar acompanhamento."
+        }
+      ]
+    },
+    {
+      "id": "O06",
+      "term_id": "O06",
+      "call_label": "O06 - Conversa de fidelidade",
+      "case": "Um casal percebe afastamento crescente e marca uma conversa séria sobre uso de celular, viagens, amizades ambíguas e tempo real para a família.",
+      "conference_question": "Como uma conversa de fidelidade pode prevenir quedas sem virar interrogatório ou controle?",
+      "anchors": [
+        "B04",
+        "B07"
+      ],
+      "facilitator_note": "Mostre que diálogo maduro inclui limites objetivos e escuta, não vigilância possessiva.",
+      "reading_points": [
+        {
+          "title": "Crise percebida",
+          "body": "O casal não espera a queda consumada para falar do vínculo."
+        },
+        {
+          "title": "Limites claros",
+          "body": "Fidelidade se protege com decisões sobre tempo, comunicação e relações."
+        },
+        {
+          "title": "Diálogo sem posse",
+          "body": "A conversa deve buscar o bem do matrimônio, não controle abusivo."
+        }
+      ]
+    },
+    {
+      "id": "O07",
+      "term_id": "O07",
+      "call_label": "O07 - Proteger os filhos",
+      "case": "Pais separados decidem não mandar recados pela criança, não falar mal um do outro diante dela e tratar guarda e pensão com adultos responsáveis.",
+      "conference_question": "Que decisões concretas mostram que os filhos estão sendo protegidos no conflito conjugal?",
+      "anchors": [
+        "CEC 2381",
+        "B08"
+      ],
+      "facilitator_note": "Destaque que proteger filhos é exigência concreta, não frase genérica sobre amor familiar.",
+      "reading_points": [
+        {
+          "title": "Limite na disputa",
+          "body": "Os pais impedem que a criança vire mensageira ou arma."
+        },
+        {
+          "title": "Adultos responsáveis",
+          "body": "Assuntos de guarda e sustento devem ser tratados por quem pode responder por eles."
+        },
+        {
+          "title": "Bem dos pequenos",
+          "body": "A estabilidade emocional dos filhos orienta palavras e decisões."
+        }
+      ]
+    },
+    {
+      "id": "O08",
+      "term_id": "O08",
+      "call_label": "O08 - Denunciar abuso",
+      "case": "Ao ouvir relato consistente de abuso contra uma menor, uma adulta afasta a criança do suspeito, procura proteção e aciona as autoridades competentes.",
+      "conference_question": "Por que, diante de abuso, denúncia e proteção são parte da resposta moral cristã?",
+      "anchors": [
+        "CEC 2389",
+        "Mt 18,6",
+        "G10"
+      ],
+      "facilitator_note": "Não deixe a carta virar debate sobre exposição; a prioridade é segurança, verdade e encaminhamento competente.",
+      "reading_points": [
+        {
+          "title": "Proteção imediata",
+          "body": "A criança é afastada do risco antes de qualquer negociação familiar."
+        },
+        {
+          "title": "Autoridade competente",
+          "body": "Abuso não deve ser resolvido apenas com conversa interna."
+        },
+        {
+          "title": "Caridade firme",
+          "body": "Defender vulneráveis é exigência grave da justiça cristã."
+        }
+      ]
+    },
+    {
+      "id": "O09",
+      "term_id": "O09",
+      "call_label": "O09 - Buscar segurança",
+      "case": "Depois de novas ameaças, uma mulher sai para a casa de parentes, registra a situação e procura apoio pastoral e jurídico.",
+      "conference_question": "Como buscar segurança pode ser uma resposta fiel à dignidade do matrimônio, e não negação da fé?",
+      "anchors": [
+        "CEC 2383",
+        "B14",
+        "G09"
+      ],
+      "facilitator_note": "Reforce que segurança não é vingança; é proteção diante de risco real.",
+      "reading_points": [
+        {
+          "title": "Ameaça concreta",
+          "body": "A vítima não está apenas incomodada, mas em perigo."
+        },
+        {
+          "title": "Apoio múltiplo",
+          "body": "Família, lei, pastoral e cuidado especializado podem ser necessários."
+        },
+        {
+          "title": "Separação protetiva",
+          "body": "A Igreja admite medidas de proteção sem negar o vínculo."
+        }
+      ]
+    },
+    {
+      "id": "O10",
+      "term_id": "O10",
+      "call_label": "O10 - Regularizar direitos",
+      "case": "Abandonada com filhos, uma mulher procura meios legais para garantir pensão, guarda e moradia, sem usar isso como vingança.",
+      "conference_question": "Por que regularizar direitos pode ser necessário quando a vida familiar foi ferida?",
+      "anchors": [
+        "CEC 2383",
+        "B14",
+        "G05"
+      ],
+      "facilitator_note": "Mostre que medidas civis podem proteger justiça sem pretender apagar o vínculo sacramental.",
+      "reading_points": [
+        {
+          "title": "Direitos ameaçados",
+          "body": "Sustento, guarda e moradia precisam de proteção objetiva."
+        },
+        {
+          "title": "Medida legítima",
+          "body": "O Catecismo admite recurso civil para garantir direitos legítimos."
+        },
+        {
+          "title": "Justiça sem vingança",
+          "body": "Regularizar direitos busca proteção, não humilhação do outro."
+        }
+      ]
+    },
+    {
+      "id": "O11",
+      "term_id": "O11",
+      "call_label": "O11 - Verificar nulidade",
+      "case": "Depois de anos de crise, uma pessoa escuta falar de nulidade e procura o tribunal eclesiástico para saber se houve impedimento ou falta essencial no consentimento.",
+      "conference_question": "Por que verificar nulidade exige processo sério, e não simples conclusão pessoal de que o casamento não deu certo?",
+      "anchors": [
+        "G12",
+        "Mt 19,9"
+      ],
+      "facilitator_note": "Não explique tecnicamente o processo inteiro; destaque a seriedade da verdade sobre o vínculo.",
+      "reading_points": [
+        {
+          "title": "Dúvida séria",
+          "body": "A pessoa não inventa resposta, mas procura exame competente."
+        },
+        {
+          "title": "Validade desde o início",
+          "body": "Nulidade trata de algo essencial ausente na constituição do matrimônio."
+        },
+        {
+          "title": "Caminho eclesial",
+          "body": "A verdade sobre o vínculo deve ser buscada com a Igreja, não por conveniência."
+        }
+      ]
+    },
+    {
+      "id": "O12",
+      "term_id": "O12",
+      "call_label": "O12 - Acompanhar irregulares",
+      "case": "Um casal em segunda união procura a comunidade; uma família cristã os acolhe, convida para a Missa, sugere conversa pastoral e evita tratar a situação como normalidade automática.",
+      "conference_question": "Como acompanhar pessoas em situação irregular sem excluir nem aprovar tudo?",
+      "anchors": [
+        "B13",
+        "G11"
+      ],
+      "facilitator_note": "Enfatize participação possível, oração, educação dos filhos na fé e discernimento pastoral.",
+      "reading_points": [
+        {
+          "title": "Acolhida concreta",
+          "body": "O casal é recebido como pessoas chamadas por Deus."
+        },
+        {
+          "title": "Verdade preservada",
+          "body": "A situação não é automaticamente tratada como plenamente ordenada."
+        },
+        {
+          "title": "Caminho de fé",
+          "body": "Acompanhamento inclui Missa, oração, orientação e formação dos filhos."
+        }
+      ]
+    },
+    {
+      "id": "O13",
+      "term_id": "O13",
+      "call_label": "O13 - Educar para compromisso",
+      "case": "Pais conversam com o filho que namora sobre castidade, promessas, maturidade financeira e respeito, sem reduzir o assunto a medo de gravidez ou festa de casamento.",
+      "conference_question": "Que formação prepara alguém para o matrimônio como doação, e não como improviso afetivo?",
+      "anchors": [
+        "CEC 2390",
+        "CEC 2391",
+        "B06"
+      ],
+      "facilitator_note": "Mostre que educação para o compromisso começa antes do noivado e envolve liberdade responsável.",
+      "reading_points": [
+        {
+          "title": "Formação ampla",
+          "body": "A conversa inclui corpo, promessa, dinheiro, respeito e futuro."
+        },
+        {
+          "title": "Contra o improviso",
+          "body": "O matrimônio exige maturidade para assumir compromissos duradouros."
+        },
+        {
+          "title": "Castidade positiva",
+          "body": "A castidade educa a pessoa para amar sem usar o outro."
+        }
+      ]
+    },
+    {
+      "id": "O14",
+      "term_id": "O14",
+      "call_label": "O14 - Retomar limites digitais",
+      "case": "Após reconhecer dependência de pornografia e conversas ambíguas, um marido instala bloqueios, cancela perfis secretos e aceita prestação de contas a alguém confiável.",
+      "conference_question": "Por que limites digitais precisam ser concretos quando o pecado entrou pelos meios digitais?",
+      "anchors": [
+        "Mt 5,27-28",
+        "I01",
+        "I10"
+      ],
+      "facilitator_note": "Evite solução mágica; limites digitais são parte de conversão, junto com sacramentos e ajuda adequada.",
+      "reading_points": [
+        {
+          "title": "Meios do pecado",
+          "body": "Aplicativos e perfis secretos sustentavam a queda."
+        },
+        {
+          "title": "Limite verificável",
+          "body": "Bloqueios, cancelamentos e prestação de contas tornam a decisão concreta."
+        },
+        {
+          "title": "Fidelidade reconstruída",
+          "body": "A renúncia digital protege o olhar, a confiança e o vínculo conjugal."
+        }
+      ]
+    },
+    {
+      "id": "O15",
+      "term_id": "O15",
+      "call_label": "O15 - Rezar e decidir",
+      "case": "Um casal reza junto diante de uma crise, mas também marca conversa, corta contatos perigosos e assume passos concretos de reconciliação.",
+      "conference_question": "Como evitar que a oração vire desculpa para passividade diante de decisões necessárias?",
+      "anchors": [
+        "B10",
+        "O02",
+        "O04"
+      ],
+      "facilitator_note": "Apresente a oração como fonte de decisão, não como substituto de conversão e responsabilidade.",
+      "reading_points": [
+        {
+          "title": "Oração encarnada",
+          "body": "O casal não usa a oração para fugir da crise."
+        },
+        {
+          "title": "Decisões coerentes",
+          "body": "A oração se traduz em limites, conversa e renúncia ao que fere o vínculo."
+        },
+        {
+          "title": "Graça e resposta",
+          "body": "Deus age, mas chama os esposos a cooperar com escolhas reais."
+        }
+      ]
+    }
+  ]
+}

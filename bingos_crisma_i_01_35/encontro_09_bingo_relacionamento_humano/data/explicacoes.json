@@ -1,0 +1,308 @@
+{
+  "title": "Carta de explicações rápidas — Bingo Relacionamento humano",
+  "meeting": "Encontro 09 — Relacionamento humano",
+  "source_calls": "data/chamadas.json",
+  "purpose": "Explicações breves para o condutor usar durante a chamada de cada carta.",
+  "entries": [
+    {
+      "id": "B01",
+      "explanation": "O erro aqui é reduzir alguém ao que produz. A fé começa pela **dignidade** recebida de Deus. A pessoa pode ser corrigida no trabalho, mas nunca tratada como coisa descartável."
+    },
+    {
+      "id": "B02",
+      "explanation": "A perda de função ou sucesso pode ferir muito. Mas a identidade mais profunda é ser **filho amado** de Deus. Essa verdade não elimina a dor, mas impede que a pessoa se defina pelo fracasso."
+    },
+    {
+      "id": "B03",
+      "explanation": "O ser humano não foi feito para isolamento. A vida social pertence à sua **vocação** e ajuda a desenvolver dons e responsabilidades. Comunhão cristã exige presença concreta, não apenas boa intenção."
+    },
+    {
+      "id": "B04",
+      "explanation": "A caridade não é sentimento bonito nem busca de aplauso. O critério é o amor de Cristo, que se entrega pelo **bem real** do outro. Também é justo reconhecer e repartir pesos quando alguém está sobrecarregado."
+    },
+    {
+      "id": "B05",
+      "explanation": "Amizade verdadeira não é cumplicidade com o erro. Quem ama deseja o **bem** do amigo, mesmo quando precisa dizer uma palavra difícil. A verdade sem caridade fere, mas a caridade sem verdade abandona."
+    },
+    {
+      "id": "B06",
+      "explanation": "A fé não pode ficar separada do modo como tratamos as pessoas. Efésios chama a viver de modo digno da **vocação** recebida. Relações concretas revelam se a fé está formando o coração."
+    },
+    {
+      "id": "B07",
+      "explanation": "Humildade não é se rebaixar artificialmente. É viver na **verdade** diante de Deus, reconhecendo limites e escutando os outros. Quem precisa dominar toda conversa ainda precisa aprender a amar melhor."
+    },
+    {
+      "id": "B08",
+      "explanation": "Amabilidade cristã não é deixar o mal correr solto. Ela une **mansidão** e firmeza. Corrigir com respeito pode ser mais caridoso do que calar para manter aparência de gentileza."
+    },
+    {
+      "id": "B09",
+      "explanation": "Paciência é amor sustentado quando a convivência exige esforço. Ela não significa aceitar abuso nem carregar tudo sozinho. A **caridade** também sabe pedir ajuda e organizar o cuidado."
+    },
+    {
+      "id": "B10",
+      "explanation": "Paz cristã não é silêncio por medo. O **vínculo da paz** precisa de verdade, justiça e disposição de reparar. Esconder o problema pode apenas adiar uma ferida maior."
+    },
+    {
+      "id": "B11",
+      "explanation": "A família é chamada a ser **igreja doméstica**, comunidade de fé, esperança e caridade. Isso não significa família perfeita. Significa que a casa também é lugar de conversão, serviço e reconstrução de vínculos."
+    },
+    {
+      "id": "B12",
+      "explanation": "Honrar pai e mãe envolve respeito e gratidão. Mas **honra** não é obedecer a mentira, pecado ou abuso. O respeito verdadeiro pode precisar de limite claro e consciência formada."
+    },
+    {
+      "id": "B13",
+      "explanation": "Sentimentos são sinais, não senhores. Raiva, medo e tristeza precisam ser lidos com razão, fé e vontade. A **integração** impede que a emoção vire dano."
+    },
+    {
+      "id": "B14",
+      "explanation": "Consciência não é gosto pessoal nem opinião do grupo. É o juízo moral diante da **verdade** e de Deus. Uma consciência formada resiste quando muitos normalizam o erro."
+    },
+    {
+      "id": "B15",
+      "explanation": "O perdão cristão rompe a vingança, mas não nega o mal. Ele pede **verdade**, reparação possível e conversão. Fingir que nada aconteceu não é reconciliação madura."
+    },
+    {
+      "id": "I01",
+      "explanation": "A comparação familiar pode parecer elogio, mas fere quem fica diminuído. Cada pessoa tem dignidade antes de qualquer desempenho. O olhar cristão reconhece dons sem criar competição de valor."
+    },
+    {
+      "id": "I02",
+      "explanation": "Discussão sem escuta vira disputa de defesa. A pessoa escuta apenas para rebater. O caminho cristão pede **escuta real**, paciência e busca da verdade."
+    },
+    {
+      "id": "I03",
+      "explanation": "Amizade possessiva usa carinho para exigir exclusividade. O outro deixa de ser amado e passa a ser controlado. Amizade cristã quer o **bem** e a liberdade responsável do amigo."
+    },
+    {
+      "id": "I04",
+      "explanation": "Um grupo pode parecer unido enquanto cria exclusão. A comunhão cristã não depende de desprezar alguém. A **caridade** pergunta quem está sendo deixado sem lugar."
+    },
+    {
+      "id": "I05",
+      "explanation": "Empurrar alguém para o vício não é brincadeira nem amizade. Vício fere liberdade, família e consciência. Quem quer o bem do outro respeita sua luta e protege sua **sobriedade**."
+    },
+    {
+      "id": "I06",
+      "explanation": "Há segredos que não podem ser guardados. Abuso, violência e risco grave exigem **proteção**, não silêncio. A lealdade verdadeira ajuda a vítima e busca adulto responsável."
+    },
+    {
+      "id": "I07",
+      "explanation": "Ciúme digital transforma desconfiança em regra. Senha, localização e vigilância não são prova de amor. O amor cristão cresce em **confiança**, verdade e liberdade."
+    },
+    {
+      "id": "I08",
+      "explanation": "A ausência familiar pode ferir profundamente a forma de confiar. Essa dor precisa ser reconhecida sem mentira. Mas a ferida não cancela a **identidade** de filho amado de Deus."
+    },
+    {
+      "id": "I09",
+      "explanation": "Cuidar de um idoso revela se a família enxerga a pessoa ou apenas o incômodo. Honrar exige presença e organização concreta. A **caridade doméstica** reparte responsabilidades de modo justo."
+    },
+    {
+      "id": "I10",
+      "explanation": "O trabalho é necessário, mas pode desordenar a vida quando isola. Sustento não substitui presença. A vocação à **comunhão** pede rever ritmos possíveis sem irresponsabilidade."
+    },
+    {
+      "id": "I11",
+      "explanation": "O luto não acaba quando passam o enterro e as primeiras mensagens. Quem sofre precisa de presença discreta e fiel. A **paciência caridosa** acompanha sem invadir a dor."
+    },
+    {
+      "id": "I12",
+      "explanation": "Conflitos entre irmãos podem contaminar gerações. A família ferida precisa de verdade, justiça e perdão. Reconciliação não é apagar o passado, mas buscar **conversão** possível."
+    },
+    {
+      "id": "I13",
+      "explanation": "Intimidade recebida não vira propriedade de quem está com raiva. Expor conversas e imagens pode destruir a dignidade do outro. A **confiança** deve ser protegida mesmo em conflito."
+    },
+    {
+      "id": "I14",
+      "explanation": "Dependência afetiva nasce quando o medo de abandono governa decisões. A pessoa passa a mentir, ceder e se apagar. Amor verdadeiro não exige perda da **liberdade moral**."
+    },
+    {
+      "id": "I15",
+      "explanation": "Reaproximação depois de ferida real pode ser sincera e gradual. Limite não significa falta de perdão. A reconciliação cristã precisa de **verdade**, prudência e passos proporcionais."
+    },
+    {
+      "id": "N01",
+      "explanation": "Fatalismo afetivo diz que ninguém muda. Isso transforma hábito e temperamento em desculpa moral. A graça de Deus não elimina esforço, mas abre caminho de **conversão**."
+    },
+    {
+      "id": "N02",
+      "explanation": "Autenticidade sem freio chama grosseria de sinceridade. Sentir algo não autoriza dizer tudo de qualquer modo. A verdade cristã precisa de **caridade**, finalidade justa e prudência."
+    },
+    {
+      "id": "N03",
+      "explanation": "A ilusão de controle promete segurança, mas destrói confiança. Quem controla o outro não está amando melhor. O amor cristão busca o **bem** da pessoa, não sua posse."
+    },
+    {
+      "id": "N04",
+      "explanation": "Todo mundo faz é uma desculpa forte porque tira o peso da decisão pessoal. Mas quantidade não muda a qualidade moral do ato. A **consciência formada** não terceiriza o bem ao grupo."
+    },
+    {
+      "id": "N05",
+      "explanation": "Amor que sufoca usa preocupação para impedir crescimento. Pode haver afeto real, mas ele fica desordenado. Amar é cuidar do outro sem prender sua **liberdade responsável**."
+    },
+    {
+      "id": "N06",
+      "explanation": "Perdão sem mudança usa a fé para pressionar a pessoa ferida. Isso não é misericórdia; é fuga da responsabilidade. Perdão cristão pede **verdade**, limite e reparação."
+    },
+    {
+      "id": "N07",
+      "explanation": "Corte sem discernir transforma qualquer desconforto em motivo de descarte. Às vezes é preciso afastar-se, mas nem toda correção é abuso. O cristão examina se há **prudência** ou fuga da verdade."
+    },
+    {
+      "id": "N08",
+      "explanation": "Família descartável usa feridas reais para apagar todo vínculo. Há casos que exigem distância e proteção. Mesmo assim, a resposta cristã evita desprezo e busca o cuidado possível com **verdade**."
+    },
+    {
+      "id": "N09",
+      "explanation": "Amizade conveniente aparece quando acaba a vantagem. A pessoa era procurada pelo que oferecia, não por quem era. A amizade em Cristo permanece quando existe **custo** e fidelidade."
+    },
+    {
+      "id": "N10",
+      "explanation": "Sentimento manda quando a emoção vira autoridade final. Crise e sofrimento precisam ser levados a sério, mas não devem decidir tudo sozinhos. A fé ajuda a integrar **sentimento** e consciência."
+    },
+    {
+      "id": "N11",
+      "explanation": "Silêncio como paz evita conflito imediato, mas pode encobrir perigo. Paz falsa abandona quem precisa de proteção. A paz cristã exige **verdade** e coragem prudente."
+    },
+    {
+      "id": "N12",
+      "explanation": "Verdade para ferir usa fatos como arma. O problema não é apenas se a frase é verdadeira, mas para que e como foi dita. Correção cristã busca **conversão**, não humilhação."
+    },
+    {
+      "id": "N13",
+      "explanation": "Ciúme como prova romantiza insegurança e posse. A intensidade do medo não torna justa a vigilância. Amor verdadeiro cresce em **confiança**, liberdade e responsabilidade."
+    },
+    {
+      "id": "N14",
+      "explanation": "Exposição como justiça confunde correção com espetáculo de punição. Um erro pode exigir consequência, mas não destruição pública sem medida. Justiça cristã busca **reparação** proporcional."
+    },
+    {
+      "id": "N15",
+      "explanation": "Oração sem passos usa linguagem religiosa para fugir da conversão. Rezar pela paz e continuar ferindo é contradição. A oração verdadeira move a **vontade** para decisões concretas."
+    },
+    {
+      "id": "G01",
+      "explanation": "Pessoa e ato precisam ser distinguidos. O ato mau deve ser nomeado e corrigido. Mas a pessoa continua tendo **dignidade** e possibilidade de conversão diante de Deus."
+    },
+    {
+      "id": "G02",
+      "explanation": "Sentir não é o mesmo que consentir. A raiva pode surgir sem escolha, mas alimentá-la e agir por ela já envolve liberdade. A vida cristã educa o **coração** sem negar o que se sente."
+    },
+    {
+      "id": "G03",
+      "explanation": "Autonomia é amadurecer em responsabilidade. Ruptura é desprezar vínculos e fugir do diálogo. A fé ajuda a crescer sem abandonar a **honra** e a caridade familiar."
+    },
+    {
+      "id": "G04",
+      "explanation": "Escutar não é aprovar tudo. A dor de alguém pode ser verdadeira, mas sua reação pode ser injusta. A caridade madura une **acolhida** e discernimento moral."
+    },
+    {
+      "id": "G05",
+      "explanation": "Correção busca o bem do outro e a verdade. Humilhação busca vencer, ferir ou expor. O modo da correção também precisa de **caridade**."
+    },
+    {
+      "id": "G06",
+      "explanation": "Prudência escolhe modo, tempo e meios adequados. Omissão cala por medo quando há dever de agir. Em risco grave, a **proteção** do vulnerável deve orientar a resposta."
+    },
+    {
+      "id": "G07",
+      "explanation": "Limite não é desprezo pela pessoa. Às vezes é a forma necessária de não cooperar com o dano. A caridade pode dizer **não** e ainda buscar o bem do outro."
+    },
+    {
+      "id": "G08",
+      "explanation": "Perdão não é impunidade. Perdoar rompe a vingança, mas não elimina automaticamente reparação e consequência. A misericórdia verdadeira respeita a **justiça**."
+    },
+    {
+      "id": "G09",
+      "explanation": "Acolher é receber a pessoa com caridade. Aprovar é declarar boa toda escolha dela. O cristão deve unir **misericórdia** e verdade moral."
+    },
+    {
+      "id": "G10",
+      "explanation": "Nem todo segredo é confidência legítima. Quando há risco de vida, abuso ou violência, silêncio pode proteger o agressor ou o perigo. A lealdade verdadeira busca **ajuda responsável**."
+    },
+    {
+      "id": "G11",
+      "explanation": "Amizade não precisa excluir para ser forte. Panelinha cria superioridade, controle e isolamento. A comunhão cristã permite vínculos profundos sem negar lugar aos outros."
+    },
+    {
+      "id": "G12",
+      "explanation": "Amor e controle podem parecer próximos quando há medo. Mas controlar é reduzir o outro à própria insegurança. Amar é buscar o **bem** dele com confiança e liberdade."
+    },
+    {
+      "id": "G13",
+      "explanation": "Conflito nem sempre é pecado; desacordos existem. Violência começa quando entram ameaça, agressão, intimidação ou destruição da dignidade. A caridade não exige permanecer exposto ao **perigo**."
+    },
+    {
+      "id": "G14",
+      "explanation": "Cuidado ajuda o outro a crescer. Salvadorismo toma o controle da vida dele e cria dependência. A caridade madura acompanha com **limite** e responsabilidade."
+    },
+    {
+      "id": "G15",
+      "explanation": "Autoridade legítima serve ao bem de quem está sob seus cuidados. Abuso usa poder para medo, silêncio ou exploração. A fé nunca manda encobrir **violência**."
+    },
+    {
+      "id": "O01",
+      "explanation": "Nomear o sentimento cria distância entre emoção e decisão. A pessoa reconhece o que sente sem se deixar governar por isso. Esse passo favorece **autoconhecimento** e liberdade."
+    },
+    {
+      "id": "O02",
+      "explanation": "Pedir escuta é uma ação concreta de diálogo. Escolher momento e modo diminui ruído e defesa. A escuta cristã ajuda a buscar **verdade** com paz."
+    },
+    {
+      "id": "O03",
+      "explanation": "Dar limite claro protege a dignidade. O limite precisa nomear o comportamento e a consequência possível. Firmeza cristã não é vingança; é **proteção** proporcional."
+    },
+    {
+      "id": "O04",
+      "explanation": "Palavra injusta precisa de reparação. Quando o dano se espalhou, a correção também deve alcançar quem ouviu. A reconciliação pede **verdade** concreta, não desculpa vaga."
+    },
+    {
+      "id": "O05",
+      "explanation": "Cortar circulação é impedir que o dano continue. Quem repassa participa da humilhação, mesmo sem ter criado o conteúdo. A caridade protege a **dignidade** da pessoa exposta."
+    },
+    {
+      "id": "O06",
+      "explanation": "Buscar adulto responsável é necessário quando há risco grave. A resposta segura não é curiosidade nem promessa de segredo. A caridade prudente procura **proteção** concreta."
+    },
+    {
+      "id": "O07",
+      "explanation": "Pedir perdão concreto é mais que dizer desculpa. É reconhecer o dano, abandonar justificativas e aceitar reparação proporcional. O perdão se torna sério quando aparece em **mudança**."
+    },
+    {
+      "id": "O08",
+      "explanation": "Mediação ajuda quando a conversa direta virou ciclo de agressão. Um terceiro prudente pode dar ordem e limite. Isso não é fraqueza; é **prudência** a serviço da reconciliação."
+    },
+    {
+      "id": "O09",
+      "explanation": "Rever amizades é examinar frutos concretos dos vínculos. Algumas relações nos puxam para vício, mentira ou irresponsabilidade. Afastar-se com prudência pode proteger a **consciência**."
+    },
+    {
+      "id": "O10",
+      "explanation": "Proteger intimidade é guardar a confiança recebida. Briga e mágoa não autorizam usar fotos, conversas ou segredos como arma. A dignidade do outro continua valendo no **conflito**."
+    },
+    {
+      "id": "O11",
+      "explanation": "Rezar com decisão une graça e responsabilidade. A oração não substitui pedido de perdão, limite ou reparação. Ela fortalece a vontade para agir no **bem**."
+    },
+    {
+      "id": "O12",
+      "explanation": "Servir em casa transforma amor em gesto verificável. Não basta dizer que ama enquanto outro carrega tudo. A igreja doméstica cresce em **serviço** proporcional e fiel."
+    },
+    {
+      "id": "O13",
+      "explanation": "Honrar sem mentir reconhece a dignidade do familiar e a verdade da ferida. Respeito não exige encobrimento de violência. Às vezes a caridade precisa de **distância segura**."
+    },
+    {
+      "id": "O14",
+      "explanation": "Acompanhar sem dominar é estar presente sem tomar o lugar da consciência do outro. Quem ajuda deve favorecer responsabilidade, não dependência. A caridade madura sustenta **passos reais**."
+    },
+    {
+      "id": "O15",
+      "explanation": "Confessar pecados relacionais é levar à misericórdia aquilo que feriu o amor. A Reconciliação não apaga magicamente consequências. Ela abre caminho para **conversão** concreta e recomeço."
+    }
+  ]
+}

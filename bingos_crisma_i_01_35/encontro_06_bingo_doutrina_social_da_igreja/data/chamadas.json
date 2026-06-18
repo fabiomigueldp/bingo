@@ -1,0 +1,1970 @@
+{
+  "title": "Chamadas — Bingo Doutrina Social da Igreja",
+  "meeting": "Encontro 06 — Doutrina Social da Igreja",
+  "source_terms": "data/termos.json",
+  "method": {
+    "read_order": [
+      "call_label",
+      "case",
+      "reading_points"
+    ],
+    "rule": "A cada carta, anuncie código e conceito, leia o caso e explique brevemente a relação usando a Leitura do caso. Depois as equipes marcam o código, se estiver na cartela.",
+    "conference_rule": "Ao fechar duas linhas válidas, horizontais, verticais ou diagonais, a equipe escolhe uma dessas linhas completas, explica pelo menos três conceitos da linha escolhida e liga pelo menos um deles à base bíblica ou doutrinal do encontro. As duas linhas podem se cruzar. O centro livre já conta como casa marcada para completar linhas, mas não conta como um dos três conceitos explicados."
+  },
+  "cards": [
+    {
+      "id": "B01",
+      "term_id": "B01",
+      "call_label": "B01 - Senhorio de Deus",
+      "case": "Um empresário aceita vender produto essencial com preço abusivo durante uma crise e diz que a oportunidade não pode ser desperdiçada.",
+      "conference_question": "Como Mt 6,24 ajuda a distinguir iniciativa econômica legítima de submissão à riqueza?",
+      "anchors": [
+        "Mt 6,24",
+        "CEC 2426"
+      ],
+      "facilitator_note": "Conduza sem demonizar toda atividade econômica; o ponto é a riqueza ocupando o lugar de senhor.",
+      "reading_points": [
+        {
+          "title": "Escolha de senhor",
+          "body": "A decisão mostra quando o ganho deixa de ser meio e passa a governar a consciência."
+        },
+        {
+          "title": "Custo humano",
+          "body": "O lucro buscado sem ordem moral pesa sobre pessoas que precisam do produto."
+        },
+        {
+          "title": "Critério cristão",
+          "body": "Servir a Deus exige submeter riqueza, mercado e oportunidade à justiça e ao bem da pessoa."
+        }
+      ]
+    },
+    {
+      "id": "B02",
+      "term_id": "B02",
+      "call_label": "B02 - Dignidade humana",
+      "case": "Em uma empresa, funcionários terceirizados são chamados apenas de 'custo' nas reuniões e ninguém considera suas famílias, saúde ou estabilidade.",
+      "conference_question": "O que muda quando uma pessoa é vista como imagem de Deus e não apenas como custo?",
+      "anchors": [
+        "Gn 1,27",
+        "CEC 2419"
+      ],
+      "facilitator_note": "Mostre que dignidade não depende de cargo, salário ou utilidade produtiva.",
+      "reading_points": [
+        {
+          "title": "Redução da pessoa",
+          "body": "O caso transforma trabalhadores concretos em número de planilha."
+        },
+        {
+          "title": "Valor anterior",
+          "body": "A dignidade vem da pessoa criada por Deus, não da utilidade que ela oferece."
+        },
+        {
+          "title": "Consequência moral",
+          "body": "Decisões econômicas precisam considerar vida, família e justiça, não só resultado financeiro."
+        }
+      ]
+    },
+    {
+      "id": "B03",
+      "term_id": "B03",
+      "call_label": "B03 - Bem comum",
+      "case": "Um bairro fica sem transporte regular, e muitos trabalhadores perdem horas de sono e parte do salário para chegar ao serviço.",
+      "conference_question": "Por que o bem comum não é apenas a soma de interesses individuais?",
+      "anchors": [
+        "CEC 2420",
+        "CEC 2442"
+      ],
+      "facilitator_note": "Ajude a turma a perceber condições sociais concretas que sustentam ou ferem a dignidade.",
+      "reading_points": [
+        {
+          "title": "Condição social",
+          "body": "Transporte, segurança e acesso a serviços afetam a vida real de muitas pessoas."
+        },
+        {
+          "title": "Mais que interesse privado",
+          "body": "O problema não se resolve olhando apenas para a conveniência de cada um isoladamente."
+        },
+        {
+          "title": "Responsabilidade comum",
+          "body": "O bem comum pede decisões públicas e sociais orientadas à dignidade de todos."
+        }
+      ]
+    },
+    {
+      "id": "B04",
+      "term_id": "B04",
+      "call_label": "B04 - Destino dos bens",
+      "case": "Um terreno vazio é mantido fechado por anos para valorização, enquanto famílias próximas vivem sem espaço seguro e sem moradia digna.",
+      "conference_question": "Como distinguir propriedade legítima de uso egoísta dos bens diante de necessidades graves?",
+      "anchors": [
+        "At 2,44-45",
+        "CEC 2426"
+      ],
+      "facilitator_note": "Evite atacar a propriedade em si; destaque a responsabilidade moral ligada aos bens.",
+      "reading_points": [
+        {
+          "title": "Bem parado",
+          "body": "O caso mostra um bem usado apenas para ganho futuro enquanto há necessidade humana grave."
+        },
+        {
+          "title": "Propriedade responsável",
+          "body": "A posse legítima não elimina a finalidade social dos bens criados por Deus."
+        },
+        {
+          "title": "Destino universal",
+          "body": "A fé exige que os bens sirvam à vida digna, não apenas à acumulação."
+        }
+      ]
+    },
+    {
+      "id": "B05",
+      "term_id": "B05",
+      "call_label": "B05 - Trabalho para o homem",
+      "case": "Uma fábrica aumenta metas sem ajustar equipe, e quem não acompanha o ritmo é tratado como peça defeituosa.",
+      "conference_question": "Que critério mostra que o trabalho está servindo à pessoa e não esmagando a pessoa?",
+      "anchors": [
+        "CEC 2428"
+      ],
+      "facilitator_note": "Enfatize que o trabalho é bom, mas não pode se tornar senhor da pessoa.",
+      "reading_points": [
+        {
+          "title": "Pessoa instrumentalizada",
+          "body": "O trabalhador é avaliado como peça de produção, não como autor e destinatário do trabalho."
+        },
+        {
+          "title": "Ritmo desumano",
+          "body": "Metas podem organizar o trabalho, mas não justificar desgaste que destrói saúde e dignidade."
+        },
+        {
+          "title": "Ordem cristã",
+          "body": "O Catecismo ensina que o trabalho é para o homem, e não o homem para o trabalho."
+        }
+      ]
+    },
+    {
+      "id": "B06",
+      "term_id": "B06",
+      "call_label": "B06 - Salário justo",
+      "case": "Uma diarista termina o serviço combinado, mas o contratante diz que só pagará parte porque 'foi o que deu no orçamento'.",
+      "conference_question": "Por que o acordo ou a dificuldade de quem paga não bastam para negar o salário devido?",
+      "anchors": [
+        "CEC 2434",
+        "Tg 5,4"
+      ],
+      "facilitator_note": "Trate salário justo como justiça concreta, não como generosidade opcional.",
+      "reading_points": [
+        {
+          "title": "Trabalho cumprido",
+          "body": "A pessoa entregou sua parte e tem direito ao fruto legítimo do trabalho."
+        },
+        {
+          "title": "Injustiça grave",
+          "body": "Reter ou reduzir pagamento por conveniência explora quem depende daquele valor."
+        },
+        {
+          "title": "Dever moral",
+          "body": "A fé exige pagar o devido e reconhecer que salário justo sustenta vida digna."
+        }
+      ]
+    },
+    {
+      "id": "B07",
+      "term_id": "B07",
+      "call_label": "B07 - Justiça social",
+      "case": "Uma comunidade sem saneamento convive com doenças repetidas, mas autoridades tratam a situação como problema privado de higiene doméstica.",
+      "conference_question": "Por que justiça social inclui condições de vida e não apenas boas intenções individuais?",
+      "anchors": [
+        "CEC 2425",
+        "CEC 2426"
+      ],
+      "facilitator_note": "Mostre que injustiça social aparece em estruturas e decisões, sem apagar responsabilidades pessoais.",
+      "reading_points": [
+        {
+          "title": "Ferida coletiva",
+          "body": "A falta de saneamento produz dano que ultrapassa escolhas de cada família."
+        },
+        {
+          "title": "Necessidade humana",
+          "body": "Há bens básicos que não podem ser abandonados à sorte ou ao interesse econômico."
+        },
+        {
+          "title": "Ordem moral",
+          "body": "A economia e a política devem servir às pessoas dentro da justiça social."
+        }
+      ]
+    },
+    {
+      "id": "B08",
+      "term_id": "B08",
+      "call_label": "B08 - Solidariedade",
+      "case": "Um homem cai na calçada lotada, muitos desviam para não se atrasar e só uma pessoa para, chama ajuda e fica até chegar socorro.",
+      "conference_question": "Como a solidariedade se distingue de pena passageira ou comentário indignado?",
+      "anchors": [
+        "Lc 10,25-37",
+        "CEC 2442"
+      ],
+      "facilitator_note": "Ligue ao bom samaritano: proximidade real, não sentimento distante.",
+      "reading_points": [
+        {
+          "title": "Próximo concreto",
+          "body": "A necessidade aparece diante de pessoas que poderiam agir, mas preferem não se envolver."
+        },
+        {
+          "title": "Responsabilidade assumida",
+          "body": "Solidariedade não é apenas sentir; é fazer o bem possível ao próximo real."
+        },
+        {
+          "title": "Caridade social",
+          "body": "A fé chama a transformar indiferença em cuidado concreto e responsável."
+        }
+      ]
+    },
+    {
+      "id": "B09",
+      "term_id": "B09",
+      "call_label": "B09 - Subsidiariedade",
+      "case": "Uma associação de moradores resolve organizar iluminação e segurança local, mas uma autoridade tenta impedir tudo para concentrar decisões no gabinete.",
+      "conference_question": "Por que a subsidiariedade protege a responsabilidade das comunidades menores?",
+      "anchors": [
+        "CEC 2442"
+      ],
+      "facilitator_note": "Explique que subsidiariedade não é abandono do poder público, mas respeito às iniciativas responsáveis.",
+      "reading_points": [
+        {
+          "title": "Iniciativa próxima",
+          "body": "Quem vive o problema conhece detalhes e pode assumir parte real da solução."
+        },
+        {
+          "title": "Centralização indevida",
+          "body": "Quando tudo é puxado para cima, famílias e comunidades ficam passivas ou sufocadas."
+        },
+        {
+          "title": "Critério social",
+          "body": "A decisão deve ficar o mais perto possível dos interessados, com apoio quando necessário."
+        }
+      ]
+    },
+    {
+      "id": "B10",
+      "term_id": "B10",
+      "call_label": "B10 - Opção pelos pobres",
+      "case": "Na reforma de um serviço público, a primeira proposta corta justamente o atendimento que mais protege famílias sem renda.",
+      "conference_question": "Por que dar atenção preferencial aos pobres não é favoritismo, mas exigência evangélica?",
+      "anchors": [
+        "Mt 25,35-40",
+        "Is 58,6-7"
+      ],
+      "facilitator_note": "Evite tom partidário; fundamente no Evangelho e na vulnerabilidade real.",
+      "reading_points": [
+        {
+          "title": "Maior risco",
+          "body": "Quem tem menos recursos sofre primeiro e mais profundamente quando a proteção falha."
+        },
+        {
+          "title": "Preferência evangélica",
+          "body": "O Evangelho obriga a enxergar Cristo nos pequenos, feridos e necessitados."
+        },
+        {
+          "title": "Justiça concreta",
+          "body": "A opção pelos pobres orienta prioridades quando recursos e decisões são limitados."
+        }
+      ]
+    },
+    {
+      "id": "B11",
+      "term_id": "B11",
+      "call_label": "B11 - Juízo moral da Igreja",
+      "case": "Depois de denúncia de trabalho escravo, alguém diz que a Igreja deveria falar só de oração e não tocar em economia.",
+      "conference_question": "Quando a Igreja tem dever de emitir juízo moral sobre questões sociais e econômicas?",
+      "anchors": [
+        "CEC 2420"
+      ],
+      "facilitator_note": "Diferencie missão moral da Igreja de administração técnica da política pública.",
+      "reading_points": [
+        {
+          "title": "Direitos feridos",
+          "body": "Trabalho escravo atinge diretamente a dignidade e os direitos fundamentais da pessoa."
+        },
+        {
+          "title": "Missão própria",
+          "body": "A Igreja não substitui autoridades políticas, mas anuncia critérios morais quando a pessoa é ameaçada."
+        },
+        {
+          "title": "Fé encarnada",
+          "body": "A salvação não autoriza indiferença diante de injustiças que destroem vidas."
+        }
+      ]
+    },
+    {
+      "id": "B12",
+      "term_id": "B12",
+      "call_label": "B12 - Leigos na vida pública",
+      "case": "Uma profissional cristã percebe fraude em contratos públicos e decide buscar orientação segura para agir sem se omitir.",
+      "conference_question": "Por que a ação social e política é vocação própria dos leigos e não só tarefa dos pastores?",
+      "anchors": [
+        "CEC 2442"
+      ],
+      "facilitator_note": "Valorize a responsabilidade leiga sem clericalizar a vida pública.",
+      "reading_points": [
+        {
+          "title": "Realidade temporal",
+          "body": "A fraude ocorre em ambiente profissional e público onde leigos têm presença direta."
+        },
+        {
+          "title": "Vocação ativa",
+          "body": "A Doutrina Social chama fiéis leigos a animar as realidades temporais com zelo cristão."
+        },
+        {
+          "title": "Paz e justiça",
+          "body": "Agir com prudência e coragem pode proteger o bem comum sem confundir fé com partido."
+        }
+      ]
+    },
+    {
+      "id": "B13",
+      "term_id": "B13",
+      "call_label": "B13 - Ordem moral da economia",
+      "case": "Uma plataforma reduz custos tornando o atendimento pior e os trabalhadores mais inseguros, mas apresenta tudo como simples eficiência.",
+      "conference_question": "Por que eficiência econômica precisa ser julgada também pela ordem moral?",
+      "anchors": [
+        "CEC 2426"
+      ],
+      "facilitator_note": "Não negue métodos econômicos; mostre seus limites diante da justiça social.",
+      "reading_points": [
+        {
+          "title": "Eficiência parcial",
+          "body": "A medida melhora números, mas piora a condição concreta de pessoas afetadas."
+        },
+        {
+          "title": "Limite moral",
+          "body": "A atividade econômica tem métodos próprios, mas não está fora da justiça."
+        },
+        {
+          "title": "Serviço à pessoa",
+          "body": "Produção e lucro devem servir ao homem em sua totalidade e à comunidade humana."
+        }
+      ]
+    },
+    {
+      "id": "B14",
+      "term_id": "B14",
+      "call_label": "B14 - Rejeição das ideologias",
+      "case": "Em uma discussão, cada grupo cita a fé apenas para defender seu sistema político favorito e ignora partes incômodas do Catecismo.",
+      "conference_question": "Como reconhecer quando uma ideologia está mandando mais que o Evangelho?",
+      "anchors": [
+        "CEC 2425"
+      ],
+      "facilitator_note": "Conduza para o critério da Igreja, não para disputa de lados políticos.",
+      "reading_points": [
+        {
+          "title": "Fé selecionada",
+          "body": "Cada lado usa a Igreja como confirmação e descarta o que corrige suas preferências."
+        },
+        {
+          "title": "Crítica dupla",
+          "body": "A Igreja rejeita tanto totalitarismos ateus quanto individualismo de mercado sem freio."
+        },
+        {
+          "title": "Evangelho acima",
+          "body": "O cristão deve deixar a fé julgar sistemas, não dobrar a fé ao sistema escolhido."
+        }
+      ]
+    },
+    {
+      "id": "B15",
+      "term_id": "B15",
+      "call_label": "B15 - Paz e justiça",
+      "case": "Para evitar conflito, uma direção manda todos ficarem calados sobre abusos no trabalho e chama esse silêncio de paz.",
+      "conference_question": "Como distinguir paz verdadeira de silêncio imposto diante da injustiça?",
+      "anchors": [
+        "Mq 6,8",
+        "1Cor 14,33.40"
+      ],
+      "facilitator_note": "Mostre que ordem cristã não é encobrir o mal, mas agir com verdade e dignidade.",
+      "reading_points": [
+        {
+          "title": "Silêncio forçado",
+          "body": "O caso chama de paz o abafamento de uma injustiça real."
+        },
+        {
+          "title": "Justiça necessária",
+          "body": "Sem verdade e correção do abuso, a paz vira aparência que protege o forte."
+        },
+        {
+          "title": "Ordem cristã",
+          "body": "Deus quer paz com dignidade e ordem, não confusão nem omissão cúmplice."
+        }
+      ]
+    },
+    {
+      "id": "I01",
+      "term_id": "I01",
+      "call_label": "I01 - Remédio inacessível",
+      "case": "Uma mãe sai da farmácia sem comprar o remédio do filho porque o preço consome quase todo o salário da semana.",
+      "conference_question": "Que critérios da Doutrina Social ajudam a ler essa cena além da frase 'é o preço do mercado'?",
+      "anchors": [
+        "B03",
+        "B10",
+        "CEC 2426"
+      ],
+      "facilitator_note": "Evite solução técnica simplista; foque dignidade, necessidade vital e bem comum.",
+      "reading_points": [
+        {
+          "title": "Necessidade vital",
+          "body": "O problema envolve saúde e vida concreta, não compra supérflua."
+        },
+        {
+          "title": "Limite do mercado",
+          "body": "Preço legal não resolve sozinho a pergunta moral sobre acesso ao necessário."
+        },
+        {
+          "title": "Bem comum",
+          "body": "A sociedade deve buscar condições para que necessidades humanas graves não fiquem abandonadas."
+        }
+      ]
+    },
+    {
+      "id": "I02",
+      "term_id": "I02",
+      "call_label": "I02 - Salário retido",
+      "case": "Um pedreiro termina a obra, mas o responsável adia o pagamento por semanas dizendo que primeiro precisa fechar outras contas.",
+      "conference_question": "Por que reter salário fere mais que uma simples combinação mal administrada?",
+      "anchors": [
+        "B06",
+        "Tg 5,4",
+        "CEC 2434"
+      ],
+      "facilitator_note": "Mostre o impacto do salário na família e na vida digna.",
+      "reading_points": [
+        {
+          "title": "Fruto do trabalho",
+          "body": "O trabalhador já entregou tempo, força e habilidade."
+        },
+        {
+          "title": "Dependência explorada",
+          "body": "O atraso pesa sobre alimentação, transporte, aluguel e compromissos familiares."
+        },
+        {
+          "title": "Justiça devida",
+          "body": "O salário justo não é favor posterior, mas obrigação moral séria."
+        }
+      ]
+    },
+    {
+      "id": "I03",
+      "term_id": "I03",
+      "call_label": "I03 - Jornada esmagadora",
+      "case": "Uma cuidadora dorme pouco porque emenda dois empregos e ainda recebe mensagens de cobrança fora do horário.",
+      "conference_question": "Como reconhecer quando uma jornada deixa de organizar o trabalho e passa a ferir a pessoa?",
+      "anchors": [
+        "B05",
+        "CEC 2428"
+      ],
+      "facilitator_note": "Fale de limites humanos concretos: sono, família, saúde e oração.",
+      "reading_points": [
+        {
+          "title": "Vida invadida",
+          "body": "O trabalho ocupa o tempo necessário para descanso e cuidado da própria vida."
+        },
+        {
+          "title": "Pessoa acima da meta",
+          "body": "A produtividade não pode justificar desgaste contínuo que destrói saúde."
+        },
+        {
+          "title": "Trabalho ordenado",
+          "body": "O trabalho deve sustentar e realizar a pessoa, não consumi-la por inteiro."
+        }
+      ]
+    },
+    {
+      "id": "I04",
+      "term_id": "I04",
+      "call_label": "I04 - Descarte de idosos",
+      "case": "Os filhos discutem a aposentadoria do pai doente apenas como custo e procuram quem possa 'ficar com ele' sem conversar com ele.",
+      "conference_question": "O que a dignidade humana exige quando uma pessoa idosa se torna dependente?",
+      "anchors": [
+        "B02",
+        "Mt 25,35-40"
+      ],
+      "facilitator_note": "Conduza com firmeza contra o descarte e com realismo sobre necessidade de apoio.",
+      "reading_points": [
+        {
+          "title": "Pessoa silenciada",
+          "body": "O idoso aparece como problema logístico, não como pessoa com história e dignidade."
+        },
+        {
+          "title": "Fragilidade não reduz valor",
+          "body": "Dependência e doença não diminuem a dignidade diante de Deus."
+        },
+        {
+          "title": "Cuidado responsável",
+          "body": "A resposta cristã busca cuidado real, respeito e apoio proporcional à situação."
+        }
+      ]
+    },
+    {
+      "id": "I05",
+      "term_id": "I05",
+      "call_label": "I05 - Moradia precária",
+      "case": "Depois de uma chuva forte, várias casas alagam de novo, e a notícia local trata tudo como tragédia esperada do bairro pobre.",
+      "conference_question": "Por que moradia precária deve ser lida como questão de justiça social e não só azar?",
+      "anchors": [
+        "B03",
+        "B10",
+        "Is 58,6-7"
+      ],
+      "facilitator_note": "Mostre que repetição previsível aponta para responsabilidade social e política.",
+      "reading_points": [
+        {
+          "title": "Dano repetido",
+          "body": "A enchente não atinge todos do mesmo modo e se repete onde faltam condições básicas."
+        },
+        {
+          "title": "Vulnerabilidade social",
+          "body": "Famílias pobres costumam ter menos meios para prevenir, sair ou reconstruir."
+        },
+        {
+          "title": "Dever comum",
+          "body": "O bem comum exige atenção às condições que tornam a vida indigna ou insegura."
+        }
+      ]
+    },
+    {
+      "id": "I06",
+      "term_id": "I06",
+      "call_label": "I06 - Compra por impulso",
+      "case": "Uma pessoa compra um celular caro em parcelas longas para parecer bem-sucedida, embora já esteja atrasando contas essenciais.",
+      "conference_question": "Como distinguir necessidade real, desejo legítimo e consumo governado pela aparência?",
+      "anchors": [
+        "Mt 6,24",
+        "B01"
+      ],
+      "facilitator_note": "Não transforme consumo em pecado automático; destaque desordem e escravidão do status.",
+      "reading_points": [
+        {
+          "title": "Desejo desordenado",
+          "body": "A compra nasce mais de aparência e ansiedade do que de necessidade concreta."
+        },
+        {
+          "title": "Responsabilidade ferida",
+          "body": "O parcelamento compromete obrigações básicas e liberdade futura."
+        },
+        {
+          "title": "Senhorio de Deus",
+          "body": "Mt 6,24 chama a não deixar dinheiro, status e imagem governarem a vida."
+        }
+      ]
+    },
+    {
+      "id": "I07",
+      "term_id": "I07",
+      "call_label": "I07 - Corrupção comum",
+      "case": "Um servidor pede uma quantia pequena para acelerar um documento que deveria seguir a ordem normal de atendimento.",
+      "conference_question": "Por que uma corrupção pequena também fere o bem comum?",
+      "anchors": [
+        "B03",
+        "B15",
+        "Mq 6,8"
+      ],
+      "facilitator_note": "Mostre que o tamanho do valor não elimina o dano à justiça.",
+      "reading_points": [
+        {
+          "title": "Atalho injusto",
+          "body": "O pagamento compra preferência onde deveria haver direito e ordem."
+        },
+        {
+          "title": "Dano coletivo",
+          "body": "Quem não paga fica para trás, e a confiança no serviço público se corrompe."
+        },
+        {
+          "title": "Justiça cotidiana",
+          "body": "A fé exige integridade também nas práticas pequenas que sustentam ou quebram a vida comum."
+        }
+      ]
+    },
+    {
+      "id": "I08",
+      "term_id": "I08",
+      "call_label": "I08 - Lucro sem limite",
+      "case": "Uma empresa corta equipamentos de segurança para economizar e calcula que indenizações eventuais sairão mais baratas.",
+      "conference_question": "Por que o lucro não pode ser separado da responsabilidade moral pelos riscos impostos?",
+      "anchors": [
+        "B13",
+        "CEC 2426"
+      ],
+      "facilitator_note": "Nomeie a gravidade sem transformar toda empresa em inimiga; o erro é o cálculo contra a pessoa.",
+      "reading_points": [
+        {
+          "title": "Cálculo desumano",
+          "body": "A segurança dos trabalhadores é tratada como custo descartável."
+        },
+        {
+          "title": "Lucro desordenado",
+          "body": "Ganhar mais não justifica transferir risco grave para quem trabalha."
+        },
+        {
+          "title": "Economia moral",
+          "body": "A atividade econômica deve respeitar justiça social e serviço à pessoa."
+        }
+      ]
+    },
+    {
+      "id": "I09",
+      "term_id": "I09",
+      "call_label": "I09 - Pobreza invisível",
+      "case": "Todos passam diariamente por uma família dormindo perto da estação, mas comentam apenas que a cidade está feia.",
+      "conference_question": "O que muda quando a pobreza deixa de ser incômodo visual e passa a ser encontro com pessoas?",
+      "anchors": [
+        "B08",
+        "B10",
+        "Lc 10,25-37"
+      ],
+      "facilitator_note": "Evite culpa genérica; conduza para reconhecimento do próximo e resposta possível.",
+      "reading_points": [
+        {
+          "title": "Olhar endurecido",
+          "body": "A miséria se torna paisagem e perde rosto aos olhos de quem passa."
+        },
+        {
+          "title": "Próximo ignorado",
+          "body": "O problema não é só urbano; há pessoas concretas em privação e risco."
+        },
+        {
+          "title": "Conversão do olhar",
+          "body": "Solidariedade começa quando a pessoa ferida volta a ser vista como próximo."
+        }
+      ]
+    },
+    {
+      "id": "I10",
+      "term_id": "I10",
+      "call_label": "I10 - Voto vendido",
+      "case": "Um candidato distribui dinheiro e material de construção em troca de apoio, e moradores aceitam porque precisam muito.",
+      "conference_question": "Como distinguir necessidade real de uma família e corrupção que fere o bem comum?",
+      "anchors": [
+        "B12",
+        "B03",
+        "CEC 2442"
+      ],
+      "facilitator_note": "Reconheça a vulnerabilidade sem justificar a compra de voto.",
+      "reading_points": [
+        {
+          "title": "Necessidade explorada",
+          "body": "A urgência das famílias é usada para capturar a escolha política."
+        },
+        {
+          "title": "Bem comum ferido",
+          "body": "O voto vendido troca responsabilidade pública por vantagem privada imediata."
+        },
+        {
+          "title": "Consciência leiga",
+          "body": "A participação política cristã exige liberdade, verdade e busca do bem comum."
+        }
+      ]
+    },
+    {
+      "id": "I11",
+      "term_id": "I11",
+      "call_label": "I11 - Dívida abusiva",
+      "case": "Uma família pega empréstimo para pagar comida e depois descobre juros que tornam a dívida quase impossível de quitar.",
+      "conference_question": "Que critério moral ajuda a julgar uma oferta legal, mas abusiva diante da necessidade?",
+      "anchors": [
+        "B07",
+        "CEC 2425"
+      ],
+      "facilitator_note": "Mostre a diferença entre crédito legítimo e exploração da urgência.",
+      "reading_points": [
+        {
+          "title": "Urgência explorada",
+          "body": "A família aceita condições pesadas porque está sem alternativa imediata."
+        },
+        {
+          "title": "Legal não basta",
+          "body": "Uma prática pode existir formalmente e ainda ferir a justiça social."
+        },
+        {
+          "title": "Proteção dos fracos",
+          "body": "A economia deve considerar necessidades humanas e não apenas vantagem contratual."
+        }
+      ]
+    },
+    {
+      "id": "I12",
+      "term_id": "I12",
+      "call_label": "I12 - Trabalho informal explorado",
+      "case": "Um entregador sofre acidente durante o serviço, mas a empresa diz que ele era 'parceiro' e não tem responsabilidade alguma.",
+      "conference_question": "Quando a palavra 'autonomia' pode esconder exploração no trabalho?",
+      "anchors": [
+        "B05",
+        "B06",
+        "CEC 2428"
+      ],
+      "facilitator_note": "Não simplifique toda informalidade; destaque o uso da forma para negar deveres justos.",
+      "reading_points": [
+        {
+          "title": "Nome conveniente",
+          "body": "A relação é chamada de parceria quando convém negar proteção."
+        },
+        {
+          "title": "Risco transferido",
+          "body": "Quem trabalha assume sozinho o dano, mesmo servindo ao ganho de outros."
+        },
+        {
+          "title": "Trabalho digno",
+          "body": "O trabalho deve permitir sustento e proteção adequada à pessoa e à família."
+        }
+      ]
+    },
+    {
+      "id": "I13",
+      "term_id": "I13",
+      "call_label": "I13 - Fila dos vulneráveis",
+      "case": "Uma idosa espera meses por exame, enquanto alguém com influência consegue atendimento no mesmo dia.",
+      "conference_question": "Por que furar a fila dos vulneráveis é injustiça e não apenas facilidade de quem tem contato?",
+      "anchors": [
+        "B03",
+        "Pr 31,8-9"
+      ],
+      "facilitator_note": "Mostre que privilégio privado pesa sobre quem tem menos defesa.",
+      "reading_points": [
+        {
+          "title": "Direito desigual",
+          "body": "O acesso deveria seguir necessidade e justiça, mas passa a depender de influência."
+        },
+        {
+          "title": "Fraco prejudicado",
+          "body": "Quem não tem contato sofre mais demora e risco."
+        },
+        {
+          "title": "Bem comum ferido",
+          "body": "A justiça social exige proteger especialmente quem não consegue se defender."
+        }
+      ]
+    },
+    {
+      "id": "I14",
+      "term_id": "I14",
+      "call_label": "I14 - Terceirização da culpa",
+      "case": "Diante de uma rua perigosa e sem iluminação, moradores, empresa e poder público dizem que a responsabilidade é sempre de outro.",
+      "conference_question": "Como a subsidiariedade ajuda a identificar a parte de responsabilidade de cada nível?",
+      "anchors": [
+        "B09",
+        "B12",
+        "CEC 2442"
+      ],
+      "facilitator_note": "Evite solução única; trabalhe responsabilidade proporcional de cada agente.",
+      "reading_points": [
+        {
+          "title": "Culpa empurrada",
+          "body": "Cada responsável desloca o problema e ninguém assume a parte possível."
+        },
+        {
+          "title": "Níveis de ação",
+          "body": "Algumas medidas pertencem aos moradores, outras ao poder público e outras a instituições envolvidas."
+        },
+        {
+          "title": "Responsabilidade ordenada",
+          "body": "Subsidiariedade não é abandono; é agir no nível adequado com cooperação real."
+        }
+      ]
+    },
+    {
+      "id": "I15",
+      "term_id": "I15",
+      "call_label": "I15 - Riqueza como senhor",
+      "case": "Um comerciante deixa de visitar a mãe doente por meses porque nenhum dia sem abrir a loja parece aceitável para ele.",
+      "conference_question": "Como reconhecer quando trabalho e dinheiro deixam de ser meios e viram senhor?",
+      "anchors": [
+        "Mt 6,24",
+        "B01"
+      ],
+      "facilitator_note": "Mostre que a desordem pode aparecer em escolhas familiares e espirituais concretas.",
+      "reading_points": [
+        {
+          "title": "Prioridade revelada",
+          "body": "A decisão repetida mostra o que ocupa o primeiro lugar na vida."
+        },
+        {
+          "title": "Afetos sacrificados",
+          "body": "Família, cuidado e presença são descartados em nome do ganho contínuo."
+        },
+        {
+          "title": "Deus ou riqueza",
+          "body": "Mt 6,24 confronta a falsa liberdade de quem já obedece ao dinheiro."
+        }
+      ]
+    },
+    {
+      "id": "N01",
+      "term_id": "N01",
+      "call_label": "N01 - Mercado resolve tudo",
+      "case": "Uma farmácia aumenta muito o preço de um remédio raro e o gerente afirma que, se alguém precisa, pagará.",
+      "conference_question": "Por que a lei do mercado não basta para decidir o que é justo diante de necessidades humanas graves?",
+      "anchors": [
+        "CEC 2425",
+        "B07"
+      ],
+      "facilitator_note": "Explique que mercado tem função, mas não autoridade moral absoluta.",
+      "reading_points": [
+        {
+          "title": "Necessidade capturada",
+          "body": "A urgência do doente vira oportunidade de ganho."
+        },
+        {
+          "title": "Critério insuficiente",
+          "body": "Preço e demanda não respondem sozinhos à pergunta sobre justiça."
+        },
+        {
+          "title": "Limite moral",
+          "body": "O Catecismo ensina que há necessidades humanas que não podem ser atendidas apenas pelo mercado."
+        }
+      ]
+    },
+    {
+      "id": "N02",
+      "term_id": "N02",
+      "call_label": "N02 - Estado resolve tudo",
+      "case": "Uma comunidade que poderia organizar mutirão de limpeza decide não fazer nada porque 'a prefeitura que resolva tudo'.",
+      "conference_question": "Como distinguir dever do poder público de responsabilidade real da comunidade?",
+      "anchors": [
+        "CEC 2425",
+        "B09"
+      ],
+      "facilitator_note": "Não absolva o Estado de seus deveres; mostre a passividade indevida da comunidade.",
+      "reading_points": [
+        {
+          "title": "Passividade confortável",
+          "body": "A frase transfere toda responsabilidade para cima, mesmo quando há ação local possível."
+        },
+        {
+          "title": "Deveres diversos",
+          "body": "O poder público tem obrigações, mas a sociedade também pode agir de modo responsável."
+        },
+        {
+          "title": "Subsidiariedade",
+          "body": "A vida social amadurece quando cada nível assume o que lhe cabe."
+        }
+      ]
+    },
+    {
+      "id": "N03",
+      "term_id": "N03",
+      "call_label": "N03 - Política não é fé",
+      "case": "Um cristão defende publicamente práticas corruptas e diz que sua fé vale só para domingo, não para contratos ou eleições.",
+      "conference_question": "Por que separar fé e vida pública enfraquece a consciência cristã?",
+      "anchors": [
+        "CEC 2420",
+        "CEC 2442"
+      ],
+      "facilitator_note": "Evite partidarismo; foque coerência moral nas realidades temporais.",
+      "reading_points": [
+        {
+          "title": "Fé isolada",
+          "body": "A pessoa reserva a fé para ritos e exclui decisões que afetam o próximo."
+        },
+        {
+          "title": "Consciência dividida",
+          "body": "Contratos, votos e negócios também podem ferir ou servir a dignidade humana."
+        },
+        {
+          "title": "Vocação leiga",
+          "body": "A Doutrina Social chama leigos a agir na vida pública com critérios evangélicos."
+        }
+      ]
+    },
+    {
+      "id": "N04",
+      "term_id": "N04",
+      "call_label": "N04 - Pobre é culpado",
+      "case": "Ao ver uma família despejada, alguém conclui de imediato que 'quem se esforça de verdade não passa por isso'.",
+      "conference_question": "Como evitar julgar a pobreza sem negar a responsabilidade pessoal?",
+      "anchors": [
+        "B10",
+        "Lc 10,25-37"
+      ],
+      "facilitator_note": "Trabalhe a distinção entre responsabilidade pessoal e julgamento simplista da miséria.",
+      "reading_points": [
+        {
+          "title": "Julgamento rápido",
+          "body": "A fala explica uma situação complexa por uma acusação moral simples."
+        },
+        {
+          "title": "Realidade apagada",
+          "body": "Doença, desemprego, salário baixo e injustiças podem pesar sobre uma família."
+        },
+        {
+          "title": "Olhar cristão",
+          "body": "O Evangelho manda aproximar-se do ferido antes de condená-lo à distância."
+        }
+      ]
+    },
+    {
+      "id": "N05",
+      "term_id": "N05",
+      "call_label": "N05 - Lucro é inocente",
+      "case": "Uma empresa celebra recorde de ganho depois de cortar descanso e aumentar acidentes, mas chama tudo de resultado brilhante.",
+      "conference_question": "Que perguntas morais devem acompanhar a avaliação de um lucro?",
+      "anchors": [
+        "B13",
+        "CEC 2426"
+      ],
+      "facilitator_note": "Mostre que lucro pode ser legítimo, mas precisa ser examinado pela justiça.",
+      "reading_points": [
+        {
+          "title": "Resultado incompleto",
+          "body": "O número positivo esconde o modo como foi alcançado."
+        },
+        {
+          "title": "Custo moral",
+          "body": "Lucro obtido com dano previsível a trabalhadores não é inocente."
+        },
+        {
+          "title": "Economia ordenada",
+          "body": "A atividade econômica deve servir pessoas e comunidade, não apenas multiplicar ganhos."
+        }
+      ]
+    },
+    {
+      "id": "N06",
+      "term_id": "N06",
+      "call_label": "N06 - Acordo basta",
+      "case": "Um patrão oferece salário muito baixo a migrantes recém-chegados e diz que é justo porque todos aceitaram.",
+      "conference_question": "Por que consentimento formal não basta quando há necessidade e desigualdade de poder?",
+      "anchors": [
+        "CEC 2434",
+        "B06"
+      ],
+      "facilitator_note": "Evite negar a importância de contratos; mostre que justiça vai além da assinatura.",
+      "reading_points": [
+        {
+          "title": "Aceitação ferida",
+          "body": "A necessidade pode levar alguém a aceitar o que não é realmente justo."
+        },
+        {
+          "title": "Contrato insuficiente",
+          "body": "O acordo das partes não justifica moralmente qualquer valor de salário."
+        },
+        {
+          "title": "Salário digno",
+          "body": "A remuneração deve considerar necessidades, contribuições e vida digna da família."
+        }
+      ]
+    },
+    {
+      "id": "N07",
+      "term_id": "N07",
+      "call_label": "N07 - Cada um por si",
+      "case": "Depois de um acidente de trabalho, colegas evitam testemunhar porque 'não é problema meu'.",
+      "conference_question": "Por que a liberdade cristã não pode virar indiferença diante do ferido?",
+      "anchors": [
+        "B08",
+        "B03"
+      ],
+      "facilitator_note": "Mostre que solidariedade envolve risco proporcional, não heroísmo imprudente.",
+      "reading_points": [
+        {
+          "title": "Isolamento moral",
+          "body": "A frase protege a própria comodidade enquanto alguém fica sem defesa."
+        },
+        {
+          "title": "Bem comum quebrado",
+          "body": "Quando todos se omitem, o forte fica sem limite e o fraco sem apoio."
+        },
+        {
+          "title": "Responsabilidade cristã",
+          "body": "Solidariedade chama a fazer o bem possível pelo próximo concreto."
+        }
+      ]
+    },
+    {
+      "id": "N08",
+      "term_id": "N08",
+      "call_label": "N08 - Todo mundo faz",
+      "case": "Um funcionário falsifica pequenas notas de reembolso e se defende dizendo que todos no setor fazem o mesmo.",
+      "conference_question": "Por que uma prática comum não se torna justa por ser repetida?",
+      "anchors": [
+        "Mq 6,8",
+        "B15"
+      ],
+      "facilitator_note": "Trabalhe normalização do erro sem moralismo genérico.",
+      "reading_points": [
+        {
+          "title": "Normalidade falsa",
+          "body": "A repetição do erro cria sensação de permissão."
+        },
+        {
+          "title": "Consciência anestesiada",
+          "body": "A pessoa deixa de perguntar se o ato é justo e pergunta só se será descoberta."
+        },
+        {
+          "title": "Retidão necessária",
+          "body": "A fé chama a praticar a justiça mesmo quando o ambiente banaliza a fraude."
+        }
+      ]
+    },
+    {
+      "id": "N09",
+      "term_id": "N09",
+      "call_label": "N09 - Caridade substitui justiça",
+      "case": "Um comerciante paga mal seus empregados, mas faz doações públicas no fim do ano e diz que isso mostra seu bom coração.",
+      "conference_question": "Por que a ajuda aos pobres não apaga injustiça cometida contra trabalhadores?",
+      "anchors": [
+        "B07",
+        "B08",
+        "CEC 2426"
+      ],
+      "facilitator_note": "Mostre a unidade entre caridade e justiça; uma não serve para encobrir a outra.",
+      "reading_points": [
+        {
+          "title": "Generosidade ambígua",
+          "body": "A doação aparece enquanto a injustiça diária continua."
+        },
+        {
+          "title": "Dívida antes de esmola",
+          "body": "Pagar o devido aos trabalhadores é exigência de justiça, não favor opcional."
+        },
+        {
+          "title": "Caridade verdadeira",
+          "body": "A caridade cristã não substitui a correção de práticas injustas."
+        }
+      ]
+    },
+    {
+      "id": "N10",
+      "term_id": "N10",
+      "call_label": "N10 - Justiça sem caridade",
+      "case": "Após denunciar um abuso real, um grupo passa a expor familiares do culpado e comemora cada humilhação pública.",
+      "conference_question": "Como buscar justiça sem transformar o culpado ou seus próximos em alvo de vingança?",
+      "anchors": [
+        "B15",
+        "Mt 25,35-40"
+      ],
+      "facilitator_note": "Afirme a necessidade de justiça, mas corrija linchamento e crueldade.",
+      "reading_points": [
+        {
+          "title": "Justiça desviada",
+          "body": "A denúncia de um mal real passa a alimentar humilhação e vingança."
+        },
+        {
+          "title": "Dignidade permanece",
+          "body": "Mesmo quem erra deve responder com verdade e consequência, não com desumanização."
+        },
+        {
+          "title": "Caridade firme",
+          "body": "A resposta cristã busca correção justa sem ódio nem crueldade."
+        }
+      ]
+    },
+    {
+      "id": "N11",
+      "term_id": "N11",
+      "call_label": "N11 - Neutralidade cômoda",
+      "case": "Uma comissão descobre favorecimento ilegal, mas seus membros preferem 'não tomar partido' para evitar desgaste.",
+      "conference_question": "Quando a neutralidade deixa de ser prudência e passa a favorecer a injustiça?",
+      "anchors": [
+        "Pr 31,8-9",
+        "B12"
+      ],
+      "facilitator_note": "Ajude a distinguir silêncio responsável de omissão cúmplice.",
+      "reading_points": [
+        {
+          "title": "Omissão protegida",
+          "body": "A palavra neutralidade evita o custo de enfrentar um erro conhecido."
+        },
+        {
+          "title": "Efeito concreto",
+          "body": "Não agir mantém o favorecimento e prejudica quem deveria ser tratado com justiça."
+        },
+        {
+          "title": "Voz pelos fracos",
+          "body": "A Escritura chama a defender quem não tem voz diante de abusos."
+        }
+      ]
+    },
+    {
+      "id": "N12",
+      "term_id": "N12",
+      "call_label": "N12 - Riqueza é bênção moral",
+      "case": "Um líder diz que pessoas ricas são sempre mais abençoadas e que a pobreza revela falta de fé ou esforço.",
+      "conference_question": "Por que prosperidade material não pode ser usada como medida automática da vida diante de Deus?",
+      "anchors": [
+        "Mt 6,24",
+        "B01"
+      ],
+      "facilitator_note": "Corrija a falsa teologia da prosperidade sem demonizar quem possui bens.",
+      "reading_points": [
+        {
+          "title": "Sinal mal lido",
+          "body": "A riqueza é tratada como prova moral e espiritual."
+        },
+        {
+          "title": "Pobre humilhado",
+          "body": "A pobreza vira acusação contra quem já sofre privação."
+        },
+        {
+          "title": "Deus acima da riqueza",
+          "body": "Mt 6,24 impede confundir bens materiais com aprovação de Deus."
+        }
+      ]
+    },
+    {
+      "id": "N13",
+      "term_id": "N13",
+      "call_label": "N13 - Miséria inevitável",
+      "case": "Diante de crianças sem comida, alguém suspira e diz que pobreza sempre existiu e não há nada a fazer.",
+      "conference_question": "Como a fé cristã enfrenta o fatalismo sem prometer soluções mágicas?",
+      "anchors": [
+        "B10",
+        "B12"
+      ],
+      "facilitator_note": "Mostre realismo cristão: nem onipotência humana nem acomodação.",
+      "reading_points": [
+        {
+          "title": "Fatalismo paralisante",
+          "body": "A frase transforma sofrimento concreto em destino imutável."
+        },
+        {
+          "title": "Responsabilidade possível",
+          "body": "Nem tudo se resolve de uma vez, mas isso não elimina ações justas e proporcionais."
+        },
+        {
+          "title": "Opção evangélica",
+          "body": "A preferência pelos pobres exige conversão, serviço e busca de justiça."
+        }
+      ]
+    },
+    {
+      "id": "N14",
+      "term_id": "N14",
+      "call_label": "N14 - Ideologia de estimação",
+      "case": "Uma pessoa só aceita trechos da Doutrina Social que atacam seus adversários e ignora os que corrigem seu próprio lado.",
+      "conference_question": "Como perceber quando usamos a fé para proteger nossa ideologia favorita?",
+      "anchors": [
+        "CEC 2423",
+        "B14"
+      ],
+      "facilitator_note": "Conduza para exame de consciência, não para identificação de inimigos políticos.",
+      "reading_points": [
+        {
+          "title": "Seleção conveniente",
+          "body": "A pessoa acolhe apenas a parte da doutrina que confirma sua posição."
+        },
+        {
+          "title": "Fé subordinada",
+          "body": "A ideologia passa a julgar a Igreja, em vez de ser julgada pelo Evangelho."
+        },
+        {
+          "title": "Critério católico",
+          "body": "A Doutrina Social oferece princípios de reflexão, critérios de juízo e orientação para ação."
+        }
+      ]
+    },
+    {
+      "id": "N15",
+      "term_id": "N15",
+      "call_label": "N15 - Sucesso acima de tudo",
+      "case": "Um profissional aceita fraudar resultados para receber promoção e diz que depois compensará sendo generoso com a família.",
+      "conference_question": "Por que uma boa intenção futura não justifica sucesso obtido por meios injustos?",
+      "anchors": [
+        "Mt 6,24",
+        "B05"
+      ],
+      "facilitator_note": "Mostre a idolatria do sucesso e a incoerência moral dos meios injustos.",
+      "reading_points": [
+        {
+          "title": "Meio corrompido",
+          "body": "A promoção é buscada por fraude, não por trabalho honesto."
+        },
+        {
+          "title": "Compensação falsa",
+          "body": "Prometer generosidade futura não apaga a injustiça presente."
+        },
+        {
+          "title": "Senhor errado",
+          "body": "Quando sucesso manda mais que Deus, a pessoa sacrifica verdade e consciência."
+        }
+      ]
+    },
+    {
+      "id": "G01",
+      "term_id": "G01",
+      "call_label": "G01 - Pessoa e função",
+      "case": "Após demissões, um gerente diz que 'perdeu dez cabeças' e comemora a economia sem nomear nenhum trabalhador afetado.",
+      "conference_question": "Como distinguir a função econômica de alguém da dignidade pessoal que nunca pode ser reduzida?",
+      "anchors": [
+        "B02",
+        "B05"
+      ],
+      "facilitator_note": "Mostre que linguagem revela visão moral da pessoa.",
+      "reading_points": [
+        {
+          "title": "Função reduzida",
+          "body": "Os demitidos aparecem como cabeças ou custos, não como pessoas com história."
+        },
+        {
+          "title": "Distinção necessária",
+          "body": "Cargo, produtividade e função podem mudar; dignidade humana permanece."
+        },
+        {
+          "title": "Critério cristão",
+          "body": "O trabalho deve ser organizado sem apagar o valor da pessoa que trabalha."
+        }
+      ]
+    },
+    {
+      "id": "G02",
+      "term_id": "G02",
+      "call_label": "G02 - Lucro e exploração",
+      "case": "Uma pequena empresa cresce e lucra bem pagando corretamente; outra lucra mais porque atrasa salários e ignora segurança.",
+      "conference_question": "Como distinguir lucro legítimo de lucro nascido de exploração?",
+      "anchors": [
+        "B13",
+        "B06"
+      ],
+      "facilitator_note": "A distinção impede respostas simplistas contra ou a favor do lucro em si.",
+      "reading_points": [
+        {
+          "title": "Dois lucros",
+          "body": "O mesmo resultado financeiro pode nascer de práticas moralmente diferentes."
+        },
+        {
+          "title": "Origem importa",
+          "body": "Lucro legítimo respeita salário, segurança e justiça; exploração usa a pessoa como meio."
+        },
+        {
+          "title": "Juízo moral",
+          "body": "A economia deve ser avaliada também pelo modo como trata trabalhadores e comunidade."
+        }
+      ]
+    },
+    {
+      "id": "G03",
+      "term_id": "G03",
+      "call_label": "G03 - Mercado e moral",
+      "case": "Uma empresa diz que não deve adaptar um produto perigoso porque ainda vende bem e a lei não obrigou mudança.",
+      "conference_question": "Por que aceitação do mercado e ausência de proibição legal não encerram o discernimento moral?",
+      "anchors": [
+        "CEC 2425",
+        "B07"
+      ],
+      "facilitator_note": "Destaque três níveis distintos: mercado, lei e moral.",
+      "reading_points": [
+        {
+          "title": "Venda não absolve",
+          "body": "O fato de vender bem não prova que o produto é justo ou seguro."
+        },
+        {
+          "title": "Lei não basta",
+          "body": "A moral cristã pode exigir responsabilidade antes ou além da obrigação legal."
+        },
+        {
+          "title": "Mercado limitado",
+          "body": "O mercado organiza escolhas, mas não é senhor da verdade moral."
+        }
+      ]
+    },
+    {
+      "id": "G04",
+      "term_id": "G04",
+      "call_label": "G04 - Estado e sociedade",
+      "case": "Depois de enchentes, vizinhos querem organizar abrigo temporário, mas alguns dizem que só o governo pode fazer qualquer coisa.",
+      "conference_question": "Como equilibrar dever público e iniciativa social sem cair em abandono nem centralização?",
+      "anchors": [
+        "B09",
+        "CEC 2442"
+      ],
+      "facilitator_note": "Aponte que diferentes níveis podem cooperar sem substituir uns aos outros.",
+      "reading_points": [
+        {
+          "title": "Resposta próxima",
+          "body": "Vizinhos podem oferecer ajuda imediata enquanto estruturas maiores se organizam."
+        },
+        {
+          "title": "Dever público",
+          "body": "A iniciativa local não elimina obrigações do Estado em prevenção e assistência."
+        },
+        {
+          "title": "Subsidiariedade prática",
+          "body": "Cada nível deve agir conforme sua competência, sem omissão nem sufocamento."
+        }
+      ]
+    },
+    {
+      "id": "G05",
+      "term_id": "G05",
+      "call_label": "G05 - Caridade e justiça",
+      "case": "Voluntários distribuem comida a trabalhadores sem receber, mas evitam falar com a empresa que reteve o pagamento.",
+      "conference_question": "Por que socorrer a fome e enfrentar a causa da injustiça são respostas complementares?",
+      "anchors": [
+        "B08",
+        "B07"
+      ],
+      "facilitator_note": "Mostre que caridade imediata e justiça estrutural não se anulam.",
+      "reading_points": [
+        {
+          "title": "Socorro necessário",
+          "body": "A fome precisa ser atendida concretamente e sem demora."
+        },
+        {
+          "title": "Causa mantida",
+          "body": "Se o salário retido não é enfrentado, a injustiça continua produzindo miséria."
+        },
+        {
+          "title": "Unidade cristã",
+          "body": "A caridade verdadeira socorre e também busca justiça proporcional."
+        }
+      ]
+    },
+    {
+      "id": "G06",
+      "term_id": "G06",
+      "call_label": "G06 - Ajuda e dependência",
+      "case": "Uma pessoa doa cestas básicas, mas exige exposição pública dos beneficiados e apoio político em troca.",
+      "conference_question": "Como distinguir ajuda verdadeira de ajuda que controla e humilha?",
+      "anchors": [
+        "B10",
+        "B09"
+      ],
+      "facilitator_note": "Mostre que o pobre não perde liberdade nem dignidade por receber ajuda.",
+      "reading_points": [
+        {
+          "title": "Ajuda condicionada",
+          "body": "A necessidade do outro é usada para obter imagem e controle."
+        },
+        {
+          "title": "Dignidade preservada",
+          "body": "Quem recebe ajuda não deve ser exposto, comprado ou tratado como dependente moral."
+        },
+        {
+          "title": "Serviço correto",
+          "body": "A resposta cristã ampara e fortalece, sem dominar a pessoa vulnerável."
+        }
+      ]
+    },
+    {
+      "id": "G07",
+      "term_id": "G07",
+      "call_label": "G07 - Prudência e omissão",
+      "case": "Uma funcionária sabe de desvio de verba da saúde, mas hesita entre denunciar de qualquer jeito ou fingir que não viu.",
+      "conference_question": "Como a prudência orienta uma ação segura sem virar desculpa para omissão?",
+      "anchors": [
+        "B12",
+        "Pr 31,8-9"
+      ],
+      "facilitator_note": "Valorize canais seguros, provas e responsabilidade; evite incentivar exposição imprudente.",
+      "reading_points": [
+        {
+          "title": "Risco real",
+          "body": "O caso exige cuidado porque há pessoas, provas e consequências envolvidas."
+        },
+        {
+          "title": "Omissão tentadora",
+          "body": "Fingir que nada aconteceu preserva a pessoa, mas deixa o dano continuar."
+        },
+        {
+          "title": "Prudência ativa",
+          "body": "A resposta justa busca modo seguro, competente e proporcional de agir."
+        }
+      ]
+    },
+    {
+      "id": "G08",
+      "term_id": "G08",
+      "call_label": "G08 - Partido e doutrina",
+      "case": "Em uma eleição, um grupo diz que todo católico verdadeiro deve apoiar automaticamente seu candidato, sem examinar propostas e incoerências.",
+      "conference_question": "Como a Doutrina Social orienta a política sem virar crachá partidário?",
+      "anchors": [
+        "CEC 2423",
+        "B14"
+      ],
+      "facilitator_note": "Evite indicar opções políticas; ensine critérios de consciência.",
+      "reading_points": [
+        {
+          "title": "Identificação indevida",
+          "body": "A fé é reduzida a adesão automática a um grupo político."
+        },
+        {
+          "title": "Critério maior",
+          "body": "A Doutrina Social oferece princípios, não substitui a consciência por propaganda."
+        },
+        {
+          "title": "Discernimento leigo",
+          "body": "O fiel deve avaliar propostas, meios e consequências à luz do Evangelho."
+        }
+      ]
+    },
+    {
+      "id": "G09",
+      "term_id": "G09",
+      "call_label": "G09 - Pobreza e culpa",
+      "case": "Um homem perdeu renda após doença grave, mas alguns vizinhos dizem que sua situação prova falta de esforço.",
+      "conference_question": "Como distinguir escolhas pessoais de fatores sociais e feridas que pesam sobre a pobreza?",
+      "anchors": [
+        "B10",
+        "N04"
+      ],
+      "facilitator_note": "Trabalhe a complexidade sem negar liberdade nem transformar a vítima em culpada.",
+      "reading_points": [
+        {
+          "title": "Explicação estreita",
+          "body": "A fala reduz a pobreza a esforço individual e ignora a doença."
+        },
+        {
+          "title": "Responsabilidade complexa",
+          "body": "Pode haver escolhas pessoais, mas também há condições que limitam e ferem."
+        },
+        {
+          "title": "Olhar justo",
+          "body": "A opção pelos pobres exige escuta e discernimento antes de julgamento."
+        }
+      ]
+    },
+    {
+      "id": "G10",
+      "term_id": "G10",
+      "call_label": "G10 - Direito e privilégio",
+      "case": "Uma pessoa exige atendimento preferencial porque conhece alguém na administração, enquanto pacientes mais graves continuam esperando.",
+      "conference_question": "Que diferença moral existe entre receber um direito e usar privilégio contra a justiça?",
+      "anchors": [
+        "B03",
+        "I13"
+      ],
+      "facilitator_note": "Mostre que privilégio não é apenas vantagem; é dano a outros.",
+      "reading_points": [
+        {
+          "title": "Preferência indevida",
+          "body": "O atendimento não segue necessidade nem regra justa, mas influência."
+        },
+        {
+          "title": "Direito distorcido",
+          "body": "Direitos protegem a dignidade; privilégios capturam o que deveria servir a todos."
+        },
+        {
+          "title": "Bem comum",
+          "body": "A justiça social exige critérios públicos e proteção de quem tem menos defesa."
+        }
+      ]
+    },
+    {
+      "id": "G11",
+      "term_id": "G11",
+      "call_label": "G11 - Autoridade e abuso",
+      "case": "Um chefe ameaça cortar turnos de quem pedir equipamento de proteção e diz que está apenas mantendo disciplina.",
+      "conference_question": "Como distinguir autoridade legítima de abuso de poder?",
+      "anchors": [
+        "B03",
+        "B15"
+      ],
+      "facilitator_note": "Mostre que autoridade verdadeira serve ao bem, não ao medo.",
+      "reading_points": [
+        {
+          "title": "Poder pelo medo",
+          "body": "A ameaça silencia uma reivindicação ligada à segurança."
+        },
+        {
+          "title": "Finalidade da autoridade",
+          "body": "Autoridade legítima organiza o bem comum, não protege injustiça."
+        },
+        {
+          "title": "Abuso nomeado",
+          "body": "Quando o poder domina e expõe ao risco, precisa ser corrigido com prudência e firmeza."
+        }
+      ]
+    },
+    {
+      "id": "G12",
+      "term_id": "G12",
+      "call_label": "G12 - Propriedade e destino",
+      "case": "Um produtor prefere destruir alimento excedente para manter preço alto, apesar de haver instituições próximas pedindo doações.",
+      "conference_question": "Como a finalidade social dos bens ilumina o uso da propriedade nesse caso?",
+      "anchors": [
+        "B04",
+        "CEC 2426"
+      ],
+      "facilitator_note": "Não negue direito de propriedade; trabalhe sua responsabilidade diante do necessário.",
+      "reading_points": [
+        {
+          "title": "Excedente negado",
+          "body": "O alimento poderia servir pessoas em necessidade, mas é destruído por cálculo de preço."
+        },
+        {
+          "title": "Propriedade com dever",
+          "body": "Possuir bens não elimina responsabilidade moral pelo uso deles."
+        },
+        {
+          "title": "Destino universal",
+          "body": "Os bens materiais devem permanecer ordenados à vida humana e ao bem comum."
+        }
+      ]
+    },
+    {
+      "id": "G13",
+      "term_id": "G13",
+      "call_label": "G13 - Necessidade e desejo",
+      "case": "Uma família troca a compra de alimentos da semana por produtos de marca para manter aparência nas redes sociais.",
+      "conference_question": "Que sinais ajudam a distinguir necessidade, desejo legítimo e vaidade desordenada?",
+      "anchors": [
+        "Mt 6,24",
+        "I06"
+      ],
+      "facilitator_note": "Conduza sem desprezar beleza ou lazer; o problema é desordem contra deveres básicos.",
+      "reading_points": [
+        {
+          "title": "Prioridade invertida",
+          "body": "A aparência pública pesa mais que uma necessidade concreta da casa."
+        },
+        {
+          "title": "Desejo discernido",
+          "body": "Nem todo desejo é mau, mas precisa ser ordenado por responsabilidades reais."
+        },
+        {
+          "title": "Liberdade cristã",
+          "body": "Não servir à riqueza inclui não deixar status e consumo mandarem nas escolhas."
+        }
+      ]
+    },
+    {
+      "id": "G14",
+      "term_id": "G14",
+      "call_label": "G14 - Conflito e inimigo",
+      "case": "Moradores protestam contra uma obra injusta, mas parte do grupo começa a ameaçar trabalhadores que apenas cumprem ordens no local.",
+      "conference_question": "Como lutar por justiça sem transformar pessoas em inimigos a destruir?",
+      "anchors": [
+        "B15",
+        "N10"
+      ],
+      "facilitator_note": "Afirme a legitimidade do conflito justo, mas limite moralmente violência e ódio.",
+      "reading_points": [
+        {
+          "title": "Conflito real",
+          "body": "A obra pode trazer injustiça e exigir reação organizada."
+        },
+        {
+          "title": "Alvo errado",
+          "body": "Ameaçar trabalhadores desloca a luta para pessoas vulneráveis e alimenta ódio."
+        },
+        {
+          "title": "Justiça com caridade",
+          "body": "O cristão pode resistir ao mal sem desumanizar quem está envolvido."
+        }
+      ]
+    },
+    {
+      "id": "G15",
+      "term_id": "G15",
+      "call_label": "G15 - Vocação e carreira",
+      "case": "Uma médica competente percebe que a busca por prestígio a levou a tratar pacientes, família e oração como interrupções irritantes.",
+      "conference_question": "Como ordenar carreira, serviço, família e fé sem negar o valor do trabalho?",
+      "anchors": [
+        "B05",
+        "N15"
+      ],
+      "facilitator_note": "Mostre que vocação ordena a carreira, não a despreza.",
+      "reading_points": [
+        {
+          "title": "Carreira desordenada",
+          "body": "O trabalho bom passa a ocupar lugar absoluto na vida."
+        },
+        {
+          "title": "Vocação mais ampla",
+          "body": "A pessoa não é chamada apenas a produzir, mas a amar, servir e buscar Deus."
+        },
+        {
+          "title": "Reordenação cristã",
+          "body": "O trabalho deve integrar a vida, não expulsar família, descanso, oração e caridade."
+        }
+      ]
+    },
+    {
+      "id": "O01",
+      "term_id": "O01",
+      "call_label": "O01 - Pagar o devido",
+      "case": "Após atrasar salários, um dono de oficina recebe dinheiro novo e precisa escolher entre trocar seu carro ou regularizar os pagamentos.",
+      "conference_question": "Por que pagar o devido deve vir antes de melhorar o próprio conforto?",
+      "anchors": [
+        "B06",
+        "Tg 5,4"
+      ],
+      "facilitator_note": "A resposta concreta é devolver justiça antes de buscar benefício próprio.",
+      "reading_points": [
+        {
+          "title": "Prioridade moral",
+          "body": "Há uma dívida de justiça com quem já trabalhou."
+        },
+        {
+          "title": "Dependência alheia",
+          "body": "O atraso atinge famílias que contam com aquele salário."
+        },
+        {
+          "title": "Resposta correta",
+          "body": "Pagar o devido repara parcialmente a injustiça e recoloca a economia na ordem moral."
+        }
+      ]
+    },
+    {
+      "id": "O02",
+      "term_id": "O02",
+      "call_label": "O02 - Recusar propina",
+      "case": "Um motorista é parado em situação irregular e recebe a sugestão de 'resolver ali mesmo' com dinheiro.",
+      "conference_question": "Como recusar a propina sem cair em ingenuidade nem em cumplicidade com a corrupção?",
+      "anchors": [
+        "I07",
+        "B15"
+      ],
+      "facilitator_note": "Mostre que a recusa pode exigir calma, registro e aceitação da consequência justa.",
+      "reading_points": [
+        {
+          "title": "Tentação prática",
+          "body": "A propina parece saída rápida para evitar problema imediato."
+        },
+        {
+          "title": "Cumplicidade real",
+          "body": "Aceitar o acordo alimenta uma estrutura que prejudica a justiça comum."
+        },
+        {
+          "title": "Resposta íntegra",
+          "body": "Recusar, manter respeito e seguir o procedimento correto protege a consciência e o bem comum."
+        }
+      ]
+    },
+    {
+      "id": "O03",
+      "term_id": "O03",
+      "call_label": "O03 - Examinar consumo",
+      "case": "Antes de parcelar outra compra, um casal senta para rever dívidas, necessidades da casa e motivos reais do gasto.",
+      "conference_question": "Que perguntas concretas ajudam a examinar o consumo à luz de Mt 6,24?",
+      "anchors": [
+        "G13",
+        "Mt 6,24"
+      ],
+      "facilitator_note": "Valorize exame prático: orçamento, motivo, necessidade, dívida e liberdade.",
+      "reading_points": [
+        {
+          "title": "Pausa necessária",
+          "body": "A compra deixa de ser impulso e passa por discernimento."
+        },
+        {
+          "title": "Motivos revelados",
+          "body": "Orçamento e conversa ajudam a separar necessidade, vaidade e ansiedade."
+        },
+        {
+          "title": "Liberdade diante da riqueza",
+          "body": "Examinar consumo impede que dinheiro e aparência governem a família."
+        }
+      ]
+    },
+    {
+      "id": "O04",
+      "term_id": "O04",
+      "call_label": "O04 - Defender salário justo",
+      "case": "Funcionários percebem descontos indevidos e procuram comprovantes antes de pedir reunião formal com a administração.",
+      "conference_question": "Como defender salário justo de modo firme, responsável e proporcional?",
+      "anchors": [
+        "B06",
+        "I02"
+      ],
+      "facilitator_note": "Evite incentivar briga impulsiva; destaque prova, conversa, apoio e canais adequados.",
+      "reading_points": [
+        {
+          "title": "Injustiça identificada",
+          "body": "Os descontos atingem o fruto legítimo do trabalho."
+        },
+        {
+          "title": "Ação organizada",
+          "body": "Reunir documentos e buscar reunião evita acusação vazia e fortalece a justiça."
+        },
+        {
+          "title": "Firmeza prudente",
+          "body": "Defender salário justo é dever moral e pode exigir apoio competente."
+        }
+      ]
+    },
+    {
+      "id": "O05",
+      "term_id": "O05",
+      "call_label": "O05 - Servir sem dominar",
+      "case": "Uma voluntária ajuda uma família com alimentos, mas combina entrega discreta e pergunta que encaminhamentos seriam úteis.",
+      "conference_question": "Como servir uma pessoa vulnerável sem controlar sua vida nem expô-la?",
+      "anchors": [
+        "G06",
+        "B10"
+      ],
+      "facilitator_note": "Mostre que ajuda cristã preserva liberdade, nome, história e decisão do outro.",
+      "reading_points": [
+        {
+          "title": "Ajuda discreta",
+          "body": "A entrega evita transformar necessidade em espetáculo."
+        },
+        {
+          "title": "Escuta real",
+          "body": "Perguntar antes de decidir reconhece a pessoa como sujeito, não objeto da ajuda."
+        },
+        {
+          "title": "Serviço cristão",
+          "body": "A caridade fortalece e acompanha, sem humilhar nem dominar."
+        }
+      ]
+    },
+    {
+      "id": "O06",
+      "term_id": "O06",
+      "call_label": "O06 - Cobrar com justiça",
+      "case": "Moradores afetados por obra mal feita registram danos, pedem explicações por escrito e recusam espalhar boatos sobre funcionários.",
+      "conference_question": "Como cobrar justiça sem cair em vingança, mentira ou humilhação?",
+      "anchors": [
+        "G14",
+        "B15"
+      ],
+      "facilitator_note": "Destaque firmeza com verdade: registrar fatos, pedir resposta e evitar ataque injusto.",
+      "reading_points": [
+        {
+          "title": "Fatos reunidos",
+          "body": "A cobrança parte de danos verificáveis, não de boato."
+        },
+        {
+          "title": "Firmeza ordenada",
+          "body": "Pedir explicações por escrito torna a ação responsável e proporcional."
+        },
+        {
+          "title": "Justiça com caridade",
+          "body": "Evitar humilhação protege a dignidade mesmo em conflito real."
+        }
+      ]
+    },
+    {
+      "id": "O07",
+      "term_id": "O07",
+      "call_label": "O07 - Votar com consciência",
+      "case": "Uma eleitora recusa vender o voto e compara propostas sobre saúde, trabalho e corrupção antes de decidir.",
+      "conference_question": "O que significa votar com consciência cristã sem reduzir a política a interesse privado?",
+      "anchors": [
+        "B12",
+        "I10"
+      ],
+      "facilitator_note": "Conduza para critérios: bem comum, dignidade, verdade, pobres e meios justos.",
+      "reading_points": [
+        {
+          "title": "Liberdade preservada",
+          "body": "Recusar a compra de voto impede que necessidade seja usada contra o bem comum."
+        },
+        {
+          "title": "Critérios examinados",
+          "body": "Propostas e caráter importam mais que favor imediato."
+        },
+        {
+          "title": "Responsabilidade leiga",
+          "body": "A vida pública é lugar de consciência cristã e serviço à justiça."
+        }
+      ]
+    },
+    {
+      "id": "O08",
+      "term_id": "O08",
+      "call_label": "O08 - Fortalecer o próximo",
+      "case": "Moradores organizam uma escala simples para acompanhar idosos em consultas, enquanto também cobram melhoria do transporte local.",
+      "conference_question": "Como essa resposta une iniciativa próxima e cobrança legítima de estruturas maiores?",
+      "anchors": [
+        "B09",
+        "G04"
+      ],
+      "facilitator_note": "Mostre uma ação possível sem romantizar a ausência de políticas públicas.",
+      "reading_points": [
+        {
+          "title": "Apoio local",
+          "body": "A comunidade assume uma necessidade que está próxima e pode ser parcialmente atendida."
+        },
+        {
+          "title": "Cobrança mantida",
+          "body": "A ajuda dos moradores não elimina o dever de melhorar o transporte."
+        },
+        {
+          "title": "Subsidiariedade viva",
+          "body": "Fortalecer o próximo envolve cooperação entre família, comunidade e autoridade pública."
+        }
+      ]
+    },
+    {
+      "id": "O09",
+      "term_id": "O09",
+      "call_label": "O09 - Denunciar com prudência",
+      "case": "Uma técnica encontra notas falsas em compra hospitalar e procura o canal de integridade com cópias seguras, sem publicar nomes nas redes.",
+      "conference_question": "Por que denúncia responsável exige prova, canal adequado e cuidado com exposição?",
+      "anchors": [
+        "G07",
+        "Pr 31,8-9"
+      ],
+      "facilitator_note": "Ensine que prudência não é medo; é modo justo e seguro de enfrentar o mal.",
+      "reading_points": [
+        {
+          "title": "Injustiça grave",
+          "body": "Fraude em saúde pode prejudicar diretamente pessoas vulneráveis."
+        },
+        {
+          "title": "Canal responsável",
+          "body": "Provas e caminho adequado protegem a verdade e evitam acusação irresponsável."
+        },
+        {
+          "title": "Prudência ativa",
+          "body": "Denunciar com cuidado enfrenta o mal sem criar novo dano."
+        }
+      ]
+    },
+    {
+      "id": "O10",
+      "term_id": "O10",
+      "call_label": "O10 - Reparar dano social",
+      "case": "Uma loja descobre que cobrou taxas indevidas por meses e decide avisar clientes, devolver valores e corrigir o sistema.",
+      "conference_question": "Por que reparar exige mais que lamentar o erro ou prometer melhorar daqui para frente?",
+      "anchors": [
+        "B07",
+        "O01"
+      ],
+      "facilitator_note": "Mostre passos concretos: reconhecer, devolver, corrigir e prevenir repetição.",
+      "reading_points": [
+        {
+          "title": "Dano reconhecido",
+          "body": "A cobrança indevida afetou pessoas concretas, não apenas a imagem da loja."
+        },
+        {
+          "title": "Devolução necessária",
+          "body": "Reparar inclui devolver o que foi cobrado sem justiça."
+        },
+        {
+          "title": "Mudança de prática",
+          "body": "Corrigir o sistema impede que o erro continue se repetindo."
+        }
+      ]
+    },
+    {
+      "id": "O11",
+      "term_id": "O11",
+      "call_label": "O11 - Escutar os pobres",
+      "case": "Antes de montar um projeto social, uma equipe visita famílias atendidas e pergunta quais problemas mais pesam no mês.",
+      "conference_question": "Por que escutar os pobres muda a qualidade moral de uma ação social?",
+      "anchors": [
+        "B10",
+        "Lc 10,25-37"
+      ],
+      "facilitator_note": "Mostre que escuta evita paternalismo e soluções distantes da realidade.",
+      "reading_points": [
+        {
+          "title": "Realidade ouvida",
+          "body": "As famílias falam de necessidades concretas antes que outros decidam por elas."
+        },
+        {
+          "title": "Dignidade reconhecida",
+          "body": "Quem sofre privação não é objeto de plano, mas sujeito com voz."
+        },
+        {
+          "title": "Caridade lúcida",
+          "body": "Escutar melhora a resposta e aproxima a ação da justiça evangélica."
+        }
+      ]
+    },
+    {
+      "id": "O12",
+      "term_id": "O12",
+      "call_label": "O12 - Organizar descanso",
+      "case": "Um trabalhador combina com a família e o empregador limites de horário depois de perceber adoecimento por mensagens de serviço à noite.",
+      "conference_question": "Como proteger descanso sem negar responsabilidade profissional?",
+      "anchors": [
+        "B05",
+        "CEC 2428"
+      ],
+      "facilitator_note": "Mostre que descanso é exigência humana e espiritual, não preguiça.",
+      "reading_points": [
+        {
+          "title": "Limite identificado",
+          "body": "As mensagens fora de hora invadem saúde, família e descanso."
+        },
+        {
+          "title": "Responsabilidade ordenada",
+          "body": "O trabalhador continua responsável, mas não ilimitadamente disponível."
+        },
+        {
+          "title": "Trabalho humano",
+          "body": "Organizar descanso reconhece que o trabalho é para a pessoa."
+        }
+      ]
+    },
+    {
+      "id": "O13",
+      "term_id": "O13",
+      "call_label": "O13 - Formar consciência social",
+      "case": "Antes de discutir economia nas redes, um grupo decide ler o Catecismo e comparar suas opiniões com os princípios da Doutrina Social.",
+      "conference_question": "Como a formação da consciência evita repetir slogans políticos ou econômicos?",
+      "anchors": [
+        "CEC 2423",
+        "B14"
+      ],
+      "facilitator_note": "Valorize estudo sério sem transformar a atividade em debate partidário.",
+      "reading_points": [
+        {
+          "title": "Pausa formativa",
+          "body": "O grupo escolhe estudar antes de reagir por impulso."
+        },
+        {
+          "title": "Critério acima do slogan",
+          "body": "A Doutrina Social oferece princípios que corrigem preferências pessoais."
+        },
+        {
+          "title": "Consciência cristã",
+          "body": "Formar-se ajuda a agir com verdade, justiça e caridade na vida pública."
+        }
+      ]
+    },
+    {
+      "id": "O14",
+      "term_id": "O14",
+      "call_label": "O14 - Priorizar vulneráveis",
+      "case": "Em uma distribuição limitada de água após enchente, a equipe atende primeiro idosos, doentes e famílias com crianças pequenas.",
+      "conference_question": "Por que priorizar vulneráveis pode ser justiça, e não privilégio injusto?",
+      "anchors": [
+        "B10",
+        "I13"
+      ],
+      "facilitator_note": "Mostre que igualdade cristã não ignora diferenças reais de risco e necessidade.",
+      "reading_points": [
+        {
+          "title": "Risco maior",
+          "body": "Algumas pessoas sofrem consequências mais graves se esperarem."
+        },
+        {
+          "title": "Critério justo",
+          "body": "A prioridade se baseia em necessidade objetiva, não em influência ou favoritismo."
+        },
+        {
+          "title": "Opção pelos pobres",
+          "body": "A fé orienta atenção especial a quem tem menos defesa e maior fragilidade."
+        }
+      ]
+    },
+    {
+      "id": "O15",
+      "term_id": "O15",
+      "call_label": "O15 - Rezar e agir",
+      "case": "Uma comunidade reza por desempregados e, depois, organiza uma lista séria de oportunidades, documentos necessários e pessoas que podem orientar currículos.",
+      "conference_question": "Como unir oração e ação sem reduzir a fé a passividade ou ativismo vazio?",
+      "anchors": [
+        "B12",
+        "G07",
+        "Mt 6,24"
+      ],
+      "facilitator_note": "Mostre que a oração ordena a ação e a ação concretiza a responsabilidade possível.",
+      "reading_points": [
+        {
+          "title": "Oração verdadeira",
+          "body": "A comunidade apresenta a necessidade a Deus, sem tratar a oração como fuga."
+        },
+        {
+          "title": "Ação proporcional",
+          "body": "A lista e a orientação são passos possíveis diante do desemprego."
+        },
+        {
+          "title": "Fé encarnada",
+          "body": "Rezar e agir une confiança em Deus e responsabilidade cristã no mundo."
+        }
+      ]
+    }
+  ]
+}

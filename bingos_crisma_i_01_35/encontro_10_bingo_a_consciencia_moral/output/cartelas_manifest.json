@@ -1,0 +1,5842 @@
+{
+  "schema": "bingo-catequese/cartelas-manifest.v1",
+  "card_set_id": "bingo_a_consciencia_moral_24_seed_404_bba6244a11fb",
+  "card_set_hash": "bba6244a11fbebb16f0e55874c2abe4a380c5897a33518a9438ce68ed6710dc3",
+  "project": {
+    "title": "Bingo — A consciência moral",
+    "meeting": "Encontro 10 — A consciência moral",
+    "meeting_label": "Encontro 10",
+    "output_slug": "bingo_a_consciencia_moral",
+    "core_message": "A consciência moral é o juízo da razão diante de Deus: deve ser obedecida quando reconhece o bem, mas precisa ser formada pela Palavra, pela Igreja e pela caridade para não transformar liberdade em queda para o irmão."
+  },
+  "generation": {
+    "algorithm": "balanced-column-assignments-v1",
+    "seed": 404,
+    "num_cards": 24,
+    "columns": [
+      "B",
+      "I",
+      "N",
+      "G",
+      "O"
+    ],
+    "grid": "5x5",
+    "center": {
+      "label": "LIVRE / 1Cor 8,4-13",
+      "fixed": true,
+      "called": false
+    },
+    "win_condition": "duas_linhas"
+  },
+  "source_hashes": {
+    "termos.json": "1ce3e9a750d6ad4c701201dc4e84753270f25a0458804b3295e0a9b73f6e0f9b",
+    "chamadas.json": "c98bda15c9473f69f4322c4cd20aed0964dcda8753d7e578679b23b431be86d9",
+    "explicacoes.json": "f7a13e1780566800ad5fe2a6c21ba0300307075e2b22ba618f96bde87ceb2083"
+  },
+  "line_model": [
+    {
+      "type": "horizontal",
+      "index": 1,
+      "cells": [
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ]
+      ]
+    },
+    {
+      "type": "horizontal",
+      "index": 2,
+      "cells": [
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ]
+      ]
+    },
+    {
+      "type": "horizontal",
+      "index": 3,
+      "cells": [
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          3,
+          5
+        ]
+      ]
+    },
+    {
+      "type": "horizontal",
+      "index": 4,
+      "cells": [
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          4,
+          5
+        ]
+      ]
+    },
+    {
+      "type": "horizontal",
+      "index": 5,
+      "cells": [
+        [
+          5,
+          1
+        ],
+        [
+          5,
+          2
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          5,
+          4
+        ],
+        [
+          5,
+          5
+        ]
+      ]
+    },
+    {
+      "type": "vertical",
+      "index": 1,
+      "cells": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          5,
+          1
+        ]
+      ]
+    },
+    {
+      "type": "vertical",
+      "index": 2,
+      "cells": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          5,
+          2
+        ]
+      ]
+    },
+    {
+      "type": "vertical",
+      "index": 3,
+      "cells": [
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          5,
+          3
+        ]
+      ]
+    },
+    {
+      "type": "vertical",
+      "index": 4,
+      "cells": [
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          4
+        ]
+      ]
+    },
+    {
+      "type": "vertical",
+      "index": 5,
+      "cells": [
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          5
+        ],
+        [
+          5,
+          5
+        ]
+      ]
+    },
+    {
+      "type": "diagonal",
+      "index": 1,
+      "cells": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          5
+        ]
+      ]
+    },
+    {
+      "type": "diagonal",
+      "index": 2,
+      "cells": [
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          5,
+          1
+        ]
+      ]
+    }
+  ],
+  "print_layout": {
+    "pdf": "output/pdf/cartelas_bingo_24_a4.pdf",
+    "cards_per_page": 2,
+    "page_order": [
+      {
+        "page": 1,
+        "positions": [
+          {
+            "slot": "top",
+            "card_id": "C01"
+          },
+          {
+            "slot": "bottom",
+            "card_id": "C02"
+          }
+        ]
+      },
+      {
+        "page": 2,
+        "positions": [
+          {
+            "slot": "top",
+            "card_id": "C03"
+          },
+          {
+            "slot": "bottom",
+            "card_id": "C04"
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "positions": [
+          {
+            "slot": "top",
+            "card_id": "C05"
+          },
+          {
+            "slot": "bottom",
+            "card_id": "C06"
+          }
+        ]
+      },
+      {
+        "page": 4,
+        "positions": [
+          {
+            "slot": "top",
+            "card_id": "C07"
+          },
+          {
+            "slot": "bottom",
+            "card_id": "C08"
+          }
+        ]
+      },
+      {
+        "page": 5,
+        "positions": [
+          {
+            "slot": "top",
+            "card_id": "C09"
+          },
+          {
+            "slot": "bottom",
+            "card_id": "C10"
+          }
+        ]
+      },
+      {
+        "page": 6,
+        "positions": [
+          {
+            "slot": "top",
+            "card_id": "C11"
+          },
+          {
+            "slot": "bottom",
+            "card_id": "C12"
+          }
+        ]
+      },
+      {
+        "page": 7,
+        "positions": [
+          {
+            "slot": "top",
+            "card_id": "C13"
+          },
+          {
+            "slot": "bottom",
+            "card_id": "C14"
+          }
+        ]
+      },
+      {
+        "page": 8,
+        "positions": [
+          {
+            "slot": "top",
+            "card_id": "C15"
+          },
+          {
+            "slot": "bottom",
+            "card_id": "C16"
+          }
+        ]
+      },
+      {
+        "page": 9,
+        "positions": [
+          {
+            "slot": "top",
+            "card_id": "C17"
+          },
+          {
+            "slot": "bottom",
+            "card_id": "C18"
+          }
+        ]
+      },
+      {
+        "page": 10,
+        "positions": [
+          {
+            "slot": "top",
+            "card_id": "C19"
+          },
+          {
+            "slot": "bottom",
+            "card_id": "C20"
+          }
+        ]
+      },
+      {
+        "page": 11,
+        "positions": [
+          {
+            "slot": "top",
+            "card_id": "C21"
+          },
+          {
+            "slot": "bottom",
+            "card_id": "C22"
+          }
+        ]
+      },
+      {
+        "page": 12,
+        "positions": [
+          {
+            "slot": "top",
+            "card_id": "C23"
+          },
+          {
+            "slot": "bottom",
+            "card_id": "C24"
+          }
+        ]
+      }
+    ]
+  },
+  "cards": [
+    {
+      "id": "C01",
+      "number": 1,
+      "term_ids": [
+        "B03",
+        "I15",
+        "N06",
+        "G12",
+        "O13",
+        "B12",
+        "I05",
+        "N13",
+        "G11",
+        "O03",
+        "B04",
+        "I04",
+        "G02",
+        "O02",
+        "B11",
+        "I06",
+        "N15",
+        "G14",
+        "O11",
+        "B05",
+        "I02",
+        "N12",
+        "G03",
+        "O04"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B03",
+            "column": "B",
+            "label": "Lei inscrita por Deus"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I15",
+            "column": "I",
+            "label": "Exemplo que derruba"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N06",
+            "column": "N",
+            "label": "Só obedeci ordens"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G12",
+            "column": "G",
+            "label": "Verdade e humilhação"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O13",
+            "column": "O",
+            "label": "Comunicar com verdade"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B12",
+            "column": "B",
+            "label": "Pecado contra Cristo"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I05",
+            "column": "I",
+            "label": "Propina normalizada"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N13",
+            "column": "N",
+            "label": "Ciência sem amor"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G11",
+            "column": "G",
+            "label": "Prudência e omissão"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O03",
+            "column": "O",
+            "label": "Examinar o dia"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B04",
+            "column": "B",
+            "label": "Bem conhecido"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I04",
+            "column": "I",
+            "label": "Silêncio no acidente"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G02",
+            "column": "G",
+            "label": "Consciência e capricho"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O02",
+            "column": "O",
+            "label": "Formar a consciência"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B11",
+            "column": "B",
+            "label": "Escândalo moral"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I06",
+            "column": "I",
+            "label": "Abandono de idoso"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N15",
+            "column": "N",
+            "label": "Tanto faz agora"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G14",
+            "column": "G",
+            "label": "Autoridade e abuso"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O11",
+            "column": "O",
+            "label": "Proteger o vulnerável"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B05",
+            "column": "B",
+            "label": "Consciência formada"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I02",
+            "column": "I",
+            "label": "Repasse humilhante"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N12",
+            "column": "N",
+            "label": "Hábito como desculpa"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G03",
+            "column": "G",
+            "label": "Juízo certo e erro"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O04",
+            "column": "O",
+            "label": "Buscar bom conselho"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C02",
+      "number": 2,
+      "term_ids": [
+        "B01",
+        "I02",
+        "N12",
+        "G14",
+        "O01",
+        "B13",
+        "I09",
+        "N15",
+        "G06",
+        "O05",
+        "B15",
+        "I13",
+        "G02",
+        "O09",
+        "B02",
+        "I08",
+        "N09",
+        "G03",
+        "O07",
+        "B11",
+        "I12",
+        "N08",
+        "G01",
+        "O12"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B01",
+            "column": "B",
+            "label": "Sacrário da consciência"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I02",
+            "column": "I",
+            "label": "Repasse humilhante"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N12",
+            "column": "N",
+            "label": "Hábito como desculpa"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G14",
+            "column": "G",
+            "label": "Autoridade e abuso"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O01",
+            "column": "O",
+            "label": "Parar antes do ato"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B13",
+            "column": "B",
+            "label": "Regra de ouro"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I09",
+            "column": "I",
+            "label": "Exposição do doente"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N15",
+            "column": "N",
+            "label": "Tanto faz agora"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G06",
+            "column": "G",
+            "label": "Culpa e imputabilidade"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O05",
+            "column": "O",
+            "label": "Confrontar com a Palavra"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B15",
+            "column": "B",
+            "label": "Graça e conversão"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I13",
+            "column": "I",
+            "label": "Ordem injusta no trabalho"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G02",
+            "column": "G",
+            "label": "Consciência e capricho"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O09",
+            "column": "O",
+            "label": "Pedir perdão direto"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B02",
+            "column": "B",
+            "label": "Juízo da razão"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I08",
+            "column": "I",
+            "label": "Venda ao vulnerável"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N09",
+            "column": "N",
+            "label": "Liberdade sem caridade"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G03",
+            "column": "G",
+            "label": "Juízo certo e erro"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O07",
+            "column": "O",
+            "label": "Reparar o dano"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B11",
+            "column": "B",
+            "label": "Escândalo moral"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I12",
+            "column": "I",
+            "label": "Dano ambiental oculto"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N08",
+            "column": "N",
+            "label": "Culpa diluída"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G01",
+            "column": "G",
+            "label": "Pessoa e ato"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O12",
+            "column": "O",
+            "label": "Renunciar por caridade"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C03",
+      "number": 3,
+      "term_ids": [
+        "B09",
+        "I02",
+        "N04",
+        "G02",
+        "O10",
+        "B11",
+        "I10",
+        "N11",
+        "G11",
+        "O14",
+        "B15",
+        "I12",
+        "G03",
+        "O12",
+        "B06",
+        "I11",
+        "N14",
+        "G12",
+        "O08",
+        "B13",
+        "I08",
+        "N05",
+        "G14",
+        "O09"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B09",
+            "column": "B",
+            "label": "Caridade como critério"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I02",
+            "column": "I",
+            "label": "Repasse humilhante"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N04",
+            "column": "N",
+            "label": "Meio mau, fim bom"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G02",
+            "column": "G",
+            "label": "Consciência e capricho"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O10",
+            "column": "O",
+            "label": "Cortar a ocasião"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B11",
+            "column": "B",
+            "label": "Escândalo moral"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I10",
+            "column": "I",
+            "label": "Nota fiscal comprada"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N11",
+            "column": "N",
+            "label": "Relativismo cômodo"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G11",
+            "column": "G",
+            "label": "Prudência e omissão"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O14",
+            "column": "O",
+            "label": "Assumir consequência"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B15",
+            "column": "B",
+            "label": "Graça e conversão"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I12",
+            "column": "I",
+            "label": "Dano ambiental oculto"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G03",
+            "column": "G",
+            "label": "Juízo certo e erro"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O12",
+            "column": "O",
+            "label": "Renunciar por caridade"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B06",
+            "column": "B",
+            "label": "Palavra como luz"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I11",
+            "column": "I",
+            "label": "Vício encoberto"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N14",
+            "column": "N",
+            "label": "Covardia prudente"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G12",
+            "column": "G",
+            "label": "Verdade e humilhação"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O08",
+            "column": "O",
+            "label": "Confessar o pecado"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B13",
+            "column": "B",
+            "label": "Regra de ouro"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I08",
+            "column": "I",
+            "label": "Venda ao vulnerável"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N05",
+            "column": "N",
+            "label": "Legal é moral"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G14",
+            "column": "G",
+            "label": "Autoridade e abuso"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O09",
+            "column": "O",
+            "label": "Pedir perdão direto"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C04",
+      "number": 4,
+      "term_ids": [
+        "B14",
+        "I09",
+        "N10",
+        "G01",
+        "O01",
+        "B12",
+        "I14",
+        "N11",
+        "G07",
+        "O06",
+        "B15",
+        "I12",
+        "G11",
+        "O05",
+        "B01",
+        "I08",
+        "N01",
+        "G04",
+        "O07",
+        "B02",
+        "I06",
+        "N08",
+        "G05",
+        "O15"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B14",
+            "column": "B",
+            "label": "Hábito virtuoso"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I09",
+            "column": "I",
+            "label": "Exposição do doente"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N10",
+            "column": "N",
+            "label": "Culpa sem reparação"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G01",
+            "column": "G",
+            "label": "Pessoa e ato"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O01",
+            "column": "O",
+            "label": "Parar antes do ato"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B12",
+            "column": "B",
+            "label": "Pecado contra Cristo"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I14",
+            "column": "I",
+            "label": "Relação manipuladora"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N11",
+            "column": "N",
+            "label": "Relativismo cômodo"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G07",
+            "column": "G",
+            "label": "Liberdade e impulso"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O06",
+            "column": "O",
+            "label": "Recusar ordem injusta"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B15",
+            "column": "B",
+            "label": "Graça e conversão"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I12",
+            "column": "I",
+            "label": "Dano ambiental oculto"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G11",
+            "column": "G",
+            "label": "Prudência e omissão"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O05",
+            "column": "O",
+            "label": "Confrontar com a Palavra"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B01",
+            "column": "B",
+            "label": "Sacrário da consciência"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I08",
+            "column": "I",
+            "label": "Venda ao vulnerável"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N01",
+            "column": "N",
+            "label": "Falsa autonomia"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G04",
+            "column": "G",
+            "label": "Ignorância vencível"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O07",
+            "column": "O",
+            "label": "Reparar o dano"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B02",
+            "column": "B",
+            "label": "Juízo da razão"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I06",
+            "column": "I",
+            "label": "Abandono de idoso"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N08",
+            "column": "N",
+            "label": "Culpa diluída"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G05",
+            "column": "G",
+            "label": "Ignorância invencível"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O15",
+            "column": "O",
+            "label": "Sustentar hábito virtuoso"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C05",
+      "number": 5,
+      "term_ids": [
+        "B03",
+        "I15",
+        "N04",
+        "G13",
+        "O06",
+        "B06",
+        "I05",
+        "N02",
+        "G10",
+        "O05",
+        "B05",
+        "I14",
+        "G08",
+        "O02",
+        "B12",
+        "I06",
+        "N05",
+        "G15",
+        "O11",
+        "B14",
+        "I12",
+        "N09",
+        "G03",
+        "O10"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B03",
+            "column": "B",
+            "label": "Lei inscrita por Deus"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I15",
+            "column": "I",
+            "label": "Exemplo que derruba"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N04",
+            "column": "N",
+            "label": "Meio mau, fim bom"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G13",
+            "column": "G",
+            "label": "Reparação e punição"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O06",
+            "column": "O",
+            "label": "Recusar ordem injusta"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B06",
+            "column": "B",
+            "label": "Palavra como luz"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I05",
+            "column": "I",
+            "label": "Propina normalizada"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N02",
+            "column": "N",
+            "label": "Consciência como sentimento"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G10",
+            "column": "G",
+            "label": "Caridade e conivência"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O05",
+            "column": "O",
+            "label": "Confrontar com a Palavra"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B05",
+            "column": "B",
+            "label": "Consciência formada"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I14",
+            "column": "I",
+            "label": "Relação manipuladora"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G08",
+            "column": "G",
+            "label": "Lícito e conveniente"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O02",
+            "column": "O",
+            "label": "Formar a consciência"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B12",
+            "column": "B",
+            "label": "Pecado contra Cristo"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I06",
+            "column": "I",
+            "label": "Abandono de idoso"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N05",
+            "column": "N",
+            "label": "Legal é moral"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G15",
+            "column": "G",
+            "label": "Misericórdia e banalização"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O11",
+            "column": "O",
+            "label": "Proteger o vulnerável"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B14",
+            "column": "B",
+            "label": "Hábito virtuoso"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I12",
+            "column": "I",
+            "label": "Dano ambiental oculto"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N09",
+            "column": "N",
+            "label": "Liberdade sem caridade"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G03",
+            "column": "G",
+            "label": "Juízo certo e erro"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O10",
+            "column": "O",
+            "label": "Cortar a ocasião"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C06",
+      "number": 6,
+      "term_ids": [
+        "B14",
+        "I01",
+        "N13",
+        "G09",
+        "O05",
+        "B12",
+        "I05",
+        "N03",
+        "G06",
+        "O02",
+        "B05",
+        "I14",
+        "G05",
+        "O10",
+        "B04",
+        "I06",
+        "N06",
+        "G10",
+        "O11",
+        "B10",
+        "I08",
+        "N07",
+        "G01",
+        "O06"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B14",
+            "column": "B",
+            "label": "Hábito virtuoso"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I01",
+            "column": "I",
+            "label": "Contrato fraudado"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N13",
+            "column": "N",
+            "label": "Ciência sem amor"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G09",
+            "column": "G",
+            "label": "Escândalo e discordância"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O05",
+            "column": "O",
+            "label": "Confrontar com a Palavra"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B12",
+            "column": "B",
+            "label": "Pecado contra Cristo"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I05",
+            "column": "I",
+            "label": "Propina normalizada"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N03",
+            "column": "N",
+            "label": "Todo mundo faz"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G06",
+            "column": "G",
+            "label": "Culpa e imputabilidade"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O02",
+            "column": "O",
+            "label": "Formar a consciência"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B05",
+            "column": "B",
+            "label": "Consciência formada"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I14",
+            "column": "I",
+            "label": "Relação manipuladora"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G05",
+            "column": "G",
+            "label": "Ignorância invencível"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O10",
+            "column": "O",
+            "label": "Cortar a ocasião"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B04",
+            "column": "B",
+            "label": "Bem conhecido"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I06",
+            "column": "I",
+            "label": "Abandono de idoso"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N06",
+            "column": "N",
+            "label": "Só obedeci ordens"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G10",
+            "column": "G",
+            "label": "Caridade e conivência"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O11",
+            "column": "O",
+            "label": "Proteger o vulnerável"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B10",
+            "column": "B",
+            "label": "Liberdade responsável"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I08",
+            "column": "I",
+            "label": "Venda ao vulnerável"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N07",
+            "column": "N",
+            "label": "Ninguém está vendo"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G01",
+            "column": "G",
+            "label": "Pessoa e ato"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O06",
+            "column": "O",
+            "label": "Recusar ordem injusta"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C07",
+      "number": 7,
+      "term_ids": [
+        "B05",
+        "I07",
+        "N08",
+        "G07",
+        "O03",
+        "B15",
+        "I08",
+        "N12",
+        "G04",
+        "O05",
+        "B06",
+        "I11",
+        "G13",
+        "O12",
+        "B08",
+        "I04",
+        "N03",
+        "G02",
+        "O08",
+        "B07",
+        "I10",
+        "N15",
+        "G11",
+        "O15"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B05",
+            "column": "B",
+            "label": "Consciência formada"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I07",
+            "column": "I",
+            "label": "Mentira no currículo"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N08",
+            "column": "N",
+            "label": "Culpa diluída"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G07",
+            "column": "G",
+            "label": "Liberdade e impulso"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O03",
+            "column": "O",
+            "label": "Examinar o dia"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B15",
+            "column": "B",
+            "label": "Graça e conversão"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I08",
+            "column": "I",
+            "label": "Venda ao vulnerável"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N12",
+            "column": "N",
+            "label": "Hábito como desculpa"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G04",
+            "column": "G",
+            "label": "Ignorância vencível"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O05",
+            "column": "O",
+            "label": "Confrontar com a Palavra"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B06",
+            "column": "B",
+            "label": "Palavra como luz"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I11",
+            "column": "I",
+            "label": "Vício encoberto"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G13",
+            "column": "G",
+            "label": "Reparação e punição"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O12",
+            "column": "O",
+            "label": "Renunciar por caridade"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B08",
+            "column": "B",
+            "label": "Exame de consciência"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I04",
+            "column": "I",
+            "label": "Silêncio no acidente"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N03",
+            "column": "N",
+            "label": "Todo mundo faz"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G02",
+            "column": "G",
+            "label": "Consciência e capricho"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O08",
+            "column": "O",
+            "label": "Confessar o pecado"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B07",
+            "column": "B",
+            "label": "Magistério da Igreja"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I10",
+            "column": "I",
+            "label": "Nota fiscal comprada"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N15",
+            "column": "N",
+            "label": "Tanto faz agora"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G11",
+            "column": "G",
+            "label": "Prudência e omissão"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O15",
+            "column": "O",
+            "label": "Sustentar hábito virtuoso"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C08",
+      "number": 8,
+      "term_ids": [
+        "B01",
+        "I13",
+        "N01",
+        "G07",
+        "O10",
+        "B11",
+        "I01",
+        "N08",
+        "G13",
+        "O07",
+        "B05",
+        "I05",
+        "G06",
+        "O09",
+        "B10",
+        "I15",
+        "N11",
+        "G15",
+        "O06",
+        "B07",
+        "I07",
+        "N09",
+        "G04",
+        "O14"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B01",
+            "column": "B",
+            "label": "Sacrário da consciência"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I13",
+            "column": "I",
+            "label": "Ordem injusta no trabalho"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N01",
+            "column": "N",
+            "label": "Falsa autonomia"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G07",
+            "column": "G",
+            "label": "Liberdade e impulso"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O10",
+            "column": "O",
+            "label": "Cortar a ocasião"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B11",
+            "column": "B",
+            "label": "Escândalo moral"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I01",
+            "column": "I",
+            "label": "Contrato fraudado"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N08",
+            "column": "N",
+            "label": "Culpa diluída"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G13",
+            "column": "G",
+            "label": "Reparação e punição"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O07",
+            "column": "O",
+            "label": "Reparar o dano"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B05",
+            "column": "B",
+            "label": "Consciência formada"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I05",
+            "column": "I",
+            "label": "Propina normalizada"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G06",
+            "column": "G",
+            "label": "Culpa e imputabilidade"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O09",
+            "column": "O",
+            "label": "Pedir perdão direto"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B10",
+            "column": "B",
+            "label": "Liberdade responsável"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I15",
+            "column": "I",
+            "label": "Exemplo que derruba"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N11",
+            "column": "N",
+            "label": "Relativismo cômodo"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G15",
+            "column": "G",
+            "label": "Misericórdia e banalização"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O06",
+            "column": "O",
+            "label": "Recusar ordem injusta"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B07",
+            "column": "B",
+            "label": "Magistério da Igreja"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I07",
+            "column": "I",
+            "label": "Mentira no currículo"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N09",
+            "column": "N",
+            "label": "Liberdade sem caridade"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G04",
+            "column": "G",
+            "label": "Ignorância vencível"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O14",
+            "column": "O",
+            "label": "Assumir consequência"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C09",
+      "number": 9,
+      "term_ids": [
+        "B07",
+        "I15",
+        "N12",
+        "G09",
+        "O01",
+        "B09",
+        "I10",
+        "N02",
+        "G01",
+        "O04",
+        "B11",
+        "I11",
+        "G14",
+        "O07",
+        "B06",
+        "I07",
+        "N10",
+        "G02",
+        "O13",
+        "B10",
+        "I04",
+        "N14",
+        "G11",
+        "O15"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B07",
+            "column": "B",
+            "label": "Magistério da Igreja"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I15",
+            "column": "I",
+            "label": "Exemplo que derruba"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N12",
+            "column": "N",
+            "label": "Hábito como desculpa"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G09",
+            "column": "G",
+            "label": "Escândalo e discordância"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O01",
+            "column": "O",
+            "label": "Parar antes do ato"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B09",
+            "column": "B",
+            "label": "Caridade como critério"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I10",
+            "column": "I",
+            "label": "Nota fiscal comprada"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N02",
+            "column": "N",
+            "label": "Consciência como sentimento"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G01",
+            "column": "G",
+            "label": "Pessoa e ato"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O04",
+            "column": "O",
+            "label": "Buscar bom conselho"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B11",
+            "column": "B",
+            "label": "Escândalo moral"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I11",
+            "column": "I",
+            "label": "Vício encoberto"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G14",
+            "column": "G",
+            "label": "Autoridade e abuso"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O07",
+            "column": "O",
+            "label": "Reparar o dano"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B06",
+            "column": "B",
+            "label": "Palavra como luz"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I07",
+            "column": "I",
+            "label": "Mentira no currículo"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N10",
+            "column": "N",
+            "label": "Culpa sem reparação"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G02",
+            "column": "G",
+            "label": "Consciência e capricho"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O13",
+            "column": "O",
+            "label": "Comunicar com verdade"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B10",
+            "column": "B",
+            "label": "Liberdade responsável"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I04",
+            "column": "I",
+            "label": "Silêncio no acidente"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N14",
+            "column": "N",
+            "label": "Covardia prudente"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G11",
+            "column": "G",
+            "label": "Prudência e omissão"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O15",
+            "column": "O",
+            "label": "Sustentar hábito virtuoso"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C10",
+      "number": 10,
+      "term_ids": [
+        "B12",
+        "I04",
+        "N09",
+        "G13",
+        "O01",
+        "B08",
+        "I03",
+        "N02",
+        "G11",
+        "O11",
+        "B01",
+        "I07",
+        "G15",
+        "O15",
+        "B09",
+        "I13",
+        "N10",
+        "G09",
+        "O12",
+        "B10",
+        "I11",
+        "N01",
+        "G10",
+        "O13"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B12",
+            "column": "B",
+            "label": "Pecado contra Cristo"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I04",
+            "column": "I",
+            "label": "Silêncio no acidente"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N09",
+            "column": "N",
+            "label": "Liberdade sem caridade"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G13",
+            "column": "G",
+            "label": "Reparação e punição"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O01",
+            "column": "O",
+            "label": "Parar antes do ato"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B08",
+            "column": "B",
+            "label": "Exame de consciência"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I03",
+            "column": "I",
+            "label": "Atestado falso"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N02",
+            "column": "N",
+            "label": "Consciência como sentimento"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G11",
+            "column": "G",
+            "label": "Prudência e omissão"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O11",
+            "column": "O",
+            "label": "Proteger o vulnerável"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B01",
+            "column": "B",
+            "label": "Sacrário da consciência"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I07",
+            "column": "I",
+            "label": "Mentira no currículo"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G15",
+            "column": "G",
+            "label": "Misericórdia e banalização"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O15",
+            "column": "O",
+            "label": "Sustentar hábito virtuoso"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B09",
+            "column": "B",
+            "label": "Caridade como critério"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I13",
+            "column": "I",
+            "label": "Ordem injusta no trabalho"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N10",
+            "column": "N",
+            "label": "Culpa sem reparação"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G09",
+            "column": "G",
+            "label": "Escândalo e discordância"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O12",
+            "column": "O",
+            "label": "Renunciar por caridade"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B10",
+            "column": "B",
+            "label": "Liberdade responsável"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I11",
+            "column": "I",
+            "label": "Vício encoberto"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N01",
+            "column": "N",
+            "label": "Falsa autonomia"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G10",
+            "column": "G",
+            "label": "Caridade e conivência"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O13",
+            "column": "O",
+            "label": "Comunicar com verdade"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C11",
+      "number": 11,
+      "term_ids": [
+        "B11",
+        "I04",
+        "N14",
+        "G08",
+        "O01",
+        "B02",
+        "I03",
+        "N10",
+        "G12",
+        "O08",
+        "B15",
+        "I10",
+        "G10",
+        "O02",
+        "B04",
+        "I07",
+        "N12",
+        "G09",
+        "O04",
+        "B07",
+        "I11",
+        "N01",
+        "G02",
+        "O13"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B11",
+            "column": "B",
+            "label": "Escândalo moral"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I04",
+            "column": "I",
+            "label": "Silêncio no acidente"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N14",
+            "column": "N",
+            "label": "Covardia prudente"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G08",
+            "column": "G",
+            "label": "Lícito e conveniente"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O01",
+            "column": "O",
+            "label": "Parar antes do ato"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B02",
+            "column": "B",
+            "label": "Juízo da razão"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I03",
+            "column": "I",
+            "label": "Atestado falso"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N10",
+            "column": "N",
+            "label": "Culpa sem reparação"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G12",
+            "column": "G",
+            "label": "Verdade e humilhação"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O08",
+            "column": "O",
+            "label": "Confessar o pecado"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B15",
+            "column": "B",
+            "label": "Graça e conversão"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I10",
+            "column": "I",
+            "label": "Nota fiscal comprada"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G10",
+            "column": "G",
+            "label": "Caridade e conivência"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O02",
+            "column": "O",
+            "label": "Formar a consciência"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B04",
+            "column": "B",
+            "label": "Bem conhecido"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I07",
+            "column": "I",
+            "label": "Mentira no currículo"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N12",
+            "column": "N",
+            "label": "Hábito como desculpa"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G09",
+            "column": "G",
+            "label": "Escândalo e discordância"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O04",
+            "column": "O",
+            "label": "Buscar bom conselho"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B07",
+            "column": "B",
+            "label": "Magistério da Igreja"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I11",
+            "column": "I",
+            "label": "Vício encoberto"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N01",
+            "column": "N",
+            "label": "Falsa autonomia"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G02",
+            "column": "G",
+            "label": "Consciência e capricho"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O13",
+            "column": "O",
+            "label": "Comunicar com verdade"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C12",
+      "number": 12,
+      "term_ids": [
+        "B04",
+        "I15",
+        "N10",
+        "G05",
+        "O06",
+        "B09",
+        "I01",
+        "N11",
+        "G13",
+        "O02",
+        "B13",
+        "I11",
+        "G14",
+        "O03",
+        "B14",
+        "I14",
+        "N01",
+        "G11",
+        "O11",
+        "B10",
+        "I10",
+        "N13",
+        "G07",
+        "O13"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B04",
+            "column": "B",
+            "label": "Bem conhecido"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I15",
+            "column": "I",
+            "label": "Exemplo que derruba"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N10",
+            "column": "N",
+            "label": "Culpa sem reparação"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G05",
+            "column": "G",
+            "label": "Ignorância invencível"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O06",
+            "column": "O",
+            "label": "Recusar ordem injusta"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B09",
+            "column": "B",
+            "label": "Caridade como critério"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I01",
+            "column": "I",
+            "label": "Contrato fraudado"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N11",
+            "column": "N",
+            "label": "Relativismo cômodo"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G13",
+            "column": "G",
+            "label": "Reparação e punição"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O02",
+            "column": "O",
+            "label": "Formar a consciência"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B13",
+            "column": "B",
+            "label": "Regra de ouro"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I11",
+            "column": "I",
+            "label": "Vício encoberto"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G14",
+            "column": "G",
+            "label": "Autoridade e abuso"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O03",
+            "column": "O",
+            "label": "Examinar o dia"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B14",
+            "column": "B",
+            "label": "Hábito virtuoso"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I14",
+            "column": "I",
+            "label": "Relação manipuladora"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N01",
+            "column": "N",
+            "label": "Falsa autonomia"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G11",
+            "column": "G",
+            "label": "Prudência e omissão"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O11",
+            "column": "O",
+            "label": "Proteger o vulnerável"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B10",
+            "column": "B",
+            "label": "Liberdade responsável"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I10",
+            "column": "I",
+            "label": "Nota fiscal comprada"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N13",
+            "column": "N",
+            "label": "Ciência sem amor"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G07",
+            "column": "G",
+            "label": "Liberdade e impulso"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O13",
+            "column": "O",
+            "label": "Comunicar com verdade"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C13",
+      "number": 13,
+      "term_ids": [
+        "B13",
+        "I05",
+        "N04",
+        "G06",
+        "O01",
+        "B02",
+        "I13",
+        "N05",
+        "G12",
+        "O09",
+        "B03",
+        "I03",
+        "G09",
+        "O07",
+        "B01",
+        "I07",
+        "N08",
+        "G04",
+        "O14",
+        "B08",
+        "I01",
+        "N07",
+        "G02",
+        "O12"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B13",
+            "column": "B",
+            "label": "Regra de ouro"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I05",
+            "column": "I",
+            "label": "Propina normalizada"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N04",
+            "column": "N",
+            "label": "Meio mau, fim bom"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G06",
+            "column": "G",
+            "label": "Culpa e imputabilidade"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O01",
+            "column": "O",
+            "label": "Parar antes do ato"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B02",
+            "column": "B",
+            "label": "Juízo da razão"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I13",
+            "column": "I",
+            "label": "Ordem injusta no trabalho"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N05",
+            "column": "N",
+            "label": "Legal é moral"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G12",
+            "column": "G",
+            "label": "Verdade e humilhação"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O09",
+            "column": "O",
+            "label": "Pedir perdão direto"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B03",
+            "column": "B",
+            "label": "Lei inscrita por Deus"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I03",
+            "column": "I",
+            "label": "Atestado falso"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G09",
+            "column": "G",
+            "label": "Escândalo e discordância"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O07",
+            "column": "O",
+            "label": "Reparar o dano"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B01",
+            "column": "B",
+            "label": "Sacrário da consciência"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I07",
+            "column": "I",
+            "label": "Mentira no currículo"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N08",
+            "column": "N",
+            "label": "Culpa diluída"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G04",
+            "column": "G",
+            "label": "Ignorância vencível"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O14",
+            "column": "O",
+            "label": "Assumir consequência"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B08",
+            "column": "B",
+            "label": "Exame de consciência"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I01",
+            "column": "I",
+            "label": "Contrato fraudado"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N07",
+            "column": "N",
+            "label": "Ninguém está vendo"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G02",
+            "column": "G",
+            "label": "Consciência e capricho"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O12",
+            "column": "O",
+            "label": "Renunciar por caridade"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C14",
+      "number": 14,
+      "term_ids": [
+        "B03",
+        "I05",
+        "N02",
+        "G07",
+        "O09",
+        "B13",
+        "I13",
+        "N03",
+        "G05",
+        "O08",
+        "B02",
+        "I02",
+        "G01",
+        "O03",
+        "B14",
+        "I03",
+        "N01",
+        "G04",
+        "O06",
+        "B04",
+        "I12",
+        "N09",
+        "G06",
+        "O14"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B03",
+            "column": "B",
+            "label": "Lei inscrita por Deus"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I05",
+            "column": "I",
+            "label": "Propina normalizada"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N02",
+            "column": "N",
+            "label": "Consciência como sentimento"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G07",
+            "column": "G",
+            "label": "Liberdade e impulso"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O09",
+            "column": "O",
+            "label": "Pedir perdão direto"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B13",
+            "column": "B",
+            "label": "Regra de ouro"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I13",
+            "column": "I",
+            "label": "Ordem injusta no trabalho"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N03",
+            "column": "N",
+            "label": "Todo mundo faz"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G05",
+            "column": "G",
+            "label": "Ignorância invencível"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O08",
+            "column": "O",
+            "label": "Confessar o pecado"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B02",
+            "column": "B",
+            "label": "Juízo da razão"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I02",
+            "column": "I",
+            "label": "Repasse humilhante"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G01",
+            "column": "G",
+            "label": "Pessoa e ato"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O03",
+            "column": "O",
+            "label": "Examinar o dia"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B14",
+            "column": "B",
+            "label": "Hábito virtuoso"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I03",
+            "column": "I",
+            "label": "Atestado falso"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N01",
+            "column": "N",
+            "label": "Falsa autonomia"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G04",
+            "column": "G",
+            "label": "Ignorância vencível"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O06",
+            "column": "O",
+            "label": "Recusar ordem injusta"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B04",
+            "column": "B",
+            "label": "Bem conhecido"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I12",
+            "column": "I",
+            "label": "Dano ambiental oculto"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N09",
+            "column": "N",
+            "label": "Liberdade sem caridade"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G06",
+            "column": "G",
+            "label": "Culpa e imputabilidade"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O14",
+            "column": "O",
+            "label": "Assumir consequência"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C15",
+      "number": 15,
+      "term_ids": [
+        "B12",
+        "I14",
+        "N07",
+        "G07",
+        "O07",
+        "B11",
+        "I05",
+        "N09",
+        "G15",
+        "O02",
+        "B06",
+        "I15",
+        "G06",
+        "O12",
+        "B05",
+        "I13",
+        "N05",
+        "G10",
+        "O10",
+        "B03",
+        "I04",
+        "N14",
+        "G12",
+        "O05"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B12",
+            "column": "B",
+            "label": "Pecado contra Cristo"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I14",
+            "column": "I",
+            "label": "Relação manipuladora"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N07",
+            "column": "N",
+            "label": "Ninguém está vendo"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G07",
+            "column": "G",
+            "label": "Liberdade e impulso"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O07",
+            "column": "O",
+            "label": "Reparar o dano"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B11",
+            "column": "B",
+            "label": "Escândalo moral"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I05",
+            "column": "I",
+            "label": "Propina normalizada"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N09",
+            "column": "N",
+            "label": "Liberdade sem caridade"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G15",
+            "column": "G",
+            "label": "Misericórdia e banalização"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O02",
+            "column": "O",
+            "label": "Formar a consciência"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B06",
+            "column": "B",
+            "label": "Palavra como luz"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I15",
+            "column": "I",
+            "label": "Exemplo que derruba"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G06",
+            "column": "G",
+            "label": "Culpa e imputabilidade"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O12",
+            "column": "O",
+            "label": "Renunciar por caridade"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B05",
+            "column": "B",
+            "label": "Consciência formada"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I13",
+            "column": "I",
+            "label": "Ordem injusta no trabalho"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N05",
+            "column": "N",
+            "label": "Legal é moral"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G10",
+            "column": "G",
+            "label": "Caridade e conivência"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O10",
+            "column": "O",
+            "label": "Cortar a ocasião"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B03",
+            "column": "B",
+            "label": "Lei inscrita por Deus"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I04",
+            "column": "I",
+            "label": "Silêncio no acidente"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N14",
+            "column": "N",
+            "label": "Covardia prudente"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G12",
+            "column": "G",
+            "label": "Verdade e humilhação"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O05",
+            "column": "O",
+            "label": "Confrontar com a Palavra"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C16",
+      "number": 16,
+      "term_ids": [
+        "B07",
+        "I06",
+        "N06",
+        "G05",
+        "O05",
+        "B09",
+        "I02",
+        "N15",
+        "G08",
+        "O04",
+        "B10",
+        "I03",
+        "G10",
+        "O08",
+        "B08",
+        "I09",
+        "N07",
+        "G03",
+        "O03",
+        "B06",
+        "I12",
+        "N14",
+        "G13",
+        "O15"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B07",
+            "column": "B",
+            "label": "Magistério da Igreja"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I06",
+            "column": "I",
+            "label": "Abandono de idoso"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N06",
+            "column": "N",
+            "label": "Só obedeci ordens"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G05",
+            "column": "G",
+            "label": "Ignorância invencível"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O05",
+            "column": "O",
+            "label": "Confrontar com a Palavra"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B09",
+            "column": "B",
+            "label": "Caridade como critério"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I02",
+            "column": "I",
+            "label": "Repasse humilhante"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N15",
+            "column": "N",
+            "label": "Tanto faz agora"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G08",
+            "column": "G",
+            "label": "Lícito e conveniente"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O04",
+            "column": "O",
+            "label": "Buscar bom conselho"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B10",
+            "column": "B",
+            "label": "Liberdade responsável"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I03",
+            "column": "I",
+            "label": "Atestado falso"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G10",
+            "column": "G",
+            "label": "Caridade e conivência"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O08",
+            "column": "O",
+            "label": "Confessar o pecado"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B08",
+            "column": "B",
+            "label": "Exame de consciência"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I09",
+            "column": "I",
+            "label": "Exposição do doente"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N07",
+            "column": "N",
+            "label": "Ninguém está vendo"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G03",
+            "column": "G",
+            "label": "Juízo certo e erro"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O03",
+            "column": "O",
+            "label": "Examinar o dia"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B06",
+            "column": "B",
+            "label": "Palavra como luz"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I12",
+            "column": "I",
+            "label": "Dano ambiental oculto"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N14",
+            "column": "N",
+            "label": "Covardia prudente"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G13",
+            "column": "G",
+            "label": "Reparação e punição"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O15",
+            "column": "O",
+            "label": "Sustentar hábito virtuoso"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C17",
+      "number": 17,
+      "term_ids": [
+        "B08",
+        "I04",
+        "N13",
+        "G08",
+        "O09",
+        "B13",
+        "I10",
+        "N04",
+        "G13",
+        "O11",
+        "B15",
+        "I08",
+        "G10",
+        "O14",
+        "B05",
+        "I07",
+        "N03",
+        "G05",
+        "O03",
+        "B06",
+        "I11",
+        "N12",
+        "G07",
+        "O06"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B08",
+            "column": "B",
+            "label": "Exame de consciência"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I04",
+            "column": "I",
+            "label": "Silêncio no acidente"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N13",
+            "column": "N",
+            "label": "Ciência sem amor"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G08",
+            "column": "G",
+            "label": "Lícito e conveniente"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O09",
+            "column": "O",
+            "label": "Pedir perdão direto"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B13",
+            "column": "B",
+            "label": "Regra de ouro"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I10",
+            "column": "I",
+            "label": "Nota fiscal comprada"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N04",
+            "column": "N",
+            "label": "Meio mau, fim bom"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G13",
+            "column": "G",
+            "label": "Reparação e punição"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O11",
+            "column": "O",
+            "label": "Proteger o vulnerável"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B15",
+            "column": "B",
+            "label": "Graça e conversão"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I08",
+            "column": "I",
+            "label": "Venda ao vulnerável"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G10",
+            "column": "G",
+            "label": "Caridade e conivência"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O14",
+            "column": "O",
+            "label": "Assumir consequência"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B05",
+            "column": "B",
+            "label": "Consciência formada"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I07",
+            "column": "I",
+            "label": "Mentira no currículo"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N03",
+            "column": "N",
+            "label": "Todo mundo faz"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G05",
+            "column": "G",
+            "label": "Ignorância invencível"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O03",
+            "column": "O",
+            "label": "Examinar o dia"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B06",
+            "column": "B",
+            "label": "Palavra como luz"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I11",
+            "column": "I",
+            "label": "Vício encoberto"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N12",
+            "column": "N",
+            "label": "Hábito como desculpa"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G07",
+            "column": "G",
+            "label": "Liberdade e impulso"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O06",
+            "column": "O",
+            "label": "Recusar ordem injusta"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C18",
+      "number": 18,
+      "term_ids": [
+        "B01",
+        "I11",
+        "N01",
+        "G06",
+        "O01",
+        "B03",
+        "I01",
+        "N08",
+        "G03",
+        "O15",
+        "B08",
+        "I03",
+        "G01",
+        "O08",
+        "B02",
+        "I06",
+        "N10",
+        "G02",
+        "O13",
+        "B13",
+        "I02",
+        "N11",
+        "G14",
+        "O04"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B01",
+            "column": "B",
+            "label": "Sacrário da consciência"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I11",
+            "column": "I",
+            "label": "Vício encoberto"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N01",
+            "column": "N",
+            "label": "Falsa autonomia"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G06",
+            "column": "G",
+            "label": "Culpa e imputabilidade"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O01",
+            "column": "O",
+            "label": "Parar antes do ato"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B03",
+            "column": "B",
+            "label": "Lei inscrita por Deus"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I01",
+            "column": "I",
+            "label": "Contrato fraudado"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N08",
+            "column": "N",
+            "label": "Culpa diluída"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G03",
+            "column": "G",
+            "label": "Juízo certo e erro"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O15",
+            "column": "O",
+            "label": "Sustentar hábito virtuoso"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B08",
+            "column": "B",
+            "label": "Exame de consciência"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I03",
+            "column": "I",
+            "label": "Atestado falso"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G01",
+            "column": "G",
+            "label": "Pessoa e ato"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O08",
+            "column": "O",
+            "label": "Confessar o pecado"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B02",
+            "column": "B",
+            "label": "Juízo da razão"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I06",
+            "column": "I",
+            "label": "Abandono de idoso"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N10",
+            "column": "N",
+            "label": "Culpa sem reparação"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G02",
+            "column": "G",
+            "label": "Consciência e capricho"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O13",
+            "column": "O",
+            "label": "Comunicar com verdade"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B13",
+            "column": "B",
+            "label": "Regra de ouro"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I02",
+            "column": "I",
+            "label": "Repasse humilhante"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N11",
+            "column": "N",
+            "label": "Relativismo cômodo"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G14",
+            "column": "G",
+            "label": "Autoridade e abuso"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O04",
+            "column": "O",
+            "label": "Buscar bom conselho"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C19",
+      "number": 19,
+      "term_ids": [
+        "B09",
+        "I09",
+        "N07",
+        "G14",
+        "O02",
+        "B04",
+        "I15",
+        "N10",
+        "G09",
+        "O01",
+        "B07",
+        "I10",
+        "G05",
+        "O04",
+        "B14",
+        "I02",
+        "N15",
+        "G13",
+        "O08",
+        "B03",
+        "I04",
+        "N02",
+        "G08",
+        "O14"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B09",
+            "column": "B",
+            "label": "Caridade como critério"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I09",
+            "column": "I",
+            "label": "Exposição do doente"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N07",
+            "column": "N",
+            "label": "Ninguém está vendo"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G14",
+            "column": "G",
+            "label": "Autoridade e abuso"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O02",
+            "column": "O",
+            "label": "Formar a consciência"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B04",
+            "column": "B",
+            "label": "Bem conhecido"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I15",
+            "column": "I",
+            "label": "Exemplo que derruba"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N10",
+            "column": "N",
+            "label": "Culpa sem reparação"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G09",
+            "column": "G",
+            "label": "Escândalo e discordância"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O01",
+            "column": "O",
+            "label": "Parar antes do ato"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B07",
+            "column": "B",
+            "label": "Magistério da Igreja"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I10",
+            "column": "I",
+            "label": "Nota fiscal comprada"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G05",
+            "column": "G",
+            "label": "Ignorância invencível"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O04",
+            "column": "O",
+            "label": "Buscar bom conselho"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B14",
+            "column": "B",
+            "label": "Hábito virtuoso"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I02",
+            "column": "I",
+            "label": "Repasse humilhante"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N15",
+            "column": "N",
+            "label": "Tanto faz agora"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G13",
+            "column": "G",
+            "label": "Reparação e punição"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O08",
+            "column": "O",
+            "label": "Confessar o pecado"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B03",
+            "column": "B",
+            "label": "Lei inscrita por Deus"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I04",
+            "column": "I",
+            "label": "Silêncio no acidente"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N02",
+            "column": "N",
+            "label": "Consciência como sentimento"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G08",
+            "column": "G",
+            "label": "Lícito e conveniente"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O14",
+            "column": "O",
+            "label": "Assumir consequência"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C20",
+      "number": 20,
+      "term_ids": [
+        "B08",
+        "I05",
+        "N07",
+        "G09",
+        "O03",
+        "B04",
+        "I06",
+        "N04",
+        "G14",
+        "O09",
+        "B12",
+        "I02",
+        "G08",
+        "O14",
+        "B05",
+        "I01",
+        "N14",
+        "G05",
+        "O06",
+        "B10",
+        "I03",
+        "N05",
+        "G01",
+        "O07"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B08",
+            "column": "B",
+            "label": "Exame de consciência"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I05",
+            "column": "I",
+            "label": "Propina normalizada"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N07",
+            "column": "N",
+            "label": "Ninguém está vendo"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G09",
+            "column": "G",
+            "label": "Escândalo e discordância"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O03",
+            "column": "O",
+            "label": "Examinar o dia"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B04",
+            "column": "B",
+            "label": "Bem conhecido"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I06",
+            "column": "I",
+            "label": "Abandono de idoso"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N04",
+            "column": "N",
+            "label": "Meio mau, fim bom"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G14",
+            "column": "G",
+            "label": "Autoridade e abuso"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O09",
+            "column": "O",
+            "label": "Pedir perdão direto"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B12",
+            "column": "B",
+            "label": "Pecado contra Cristo"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I02",
+            "column": "I",
+            "label": "Repasse humilhante"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G08",
+            "column": "G",
+            "label": "Lícito e conveniente"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O14",
+            "column": "O",
+            "label": "Assumir consequência"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B05",
+            "column": "B",
+            "label": "Consciência formada"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I01",
+            "column": "I",
+            "label": "Contrato fraudado"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N14",
+            "column": "N",
+            "label": "Covardia prudente"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G05",
+            "column": "G",
+            "label": "Ignorância invencível"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O06",
+            "column": "O",
+            "label": "Recusar ordem injusta"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B10",
+            "column": "B",
+            "label": "Liberdade responsável"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I03",
+            "column": "I",
+            "label": "Atestado falso"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N05",
+            "column": "N",
+            "label": "Legal é moral"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G01",
+            "column": "G",
+            "label": "Pessoa e ato"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O07",
+            "column": "O",
+            "label": "Reparar o dano"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C21",
+      "number": 21,
+      "term_ids": [
+        "B08",
+        "I09",
+        "N03",
+        "G06",
+        "O13",
+        "B10",
+        "I10",
+        "N09",
+        "G15",
+        "O11",
+        "B12",
+        "I12",
+        "G04",
+        "O12",
+        "B09",
+        "I15",
+        "N14",
+        "G07",
+        "O02",
+        "B04",
+        "I14",
+        "N06",
+        "G12",
+        "O03"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B08",
+            "column": "B",
+            "label": "Exame de consciência"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I09",
+            "column": "I",
+            "label": "Exposição do doente"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N03",
+            "column": "N",
+            "label": "Todo mundo faz"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G06",
+            "column": "G",
+            "label": "Culpa e imputabilidade"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O13",
+            "column": "O",
+            "label": "Comunicar com verdade"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B10",
+            "column": "B",
+            "label": "Liberdade responsável"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I10",
+            "column": "I",
+            "label": "Nota fiscal comprada"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N09",
+            "column": "N",
+            "label": "Liberdade sem caridade"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G15",
+            "column": "G",
+            "label": "Misericórdia e banalização"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O11",
+            "column": "O",
+            "label": "Proteger o vulnerável"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B12",
+            "column": "B",
+            "label": "Pecado contra Cristo"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I12",
+            "column": "I",
+            "label": "Dano ambiental oculto"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G04",
+            "column": "G",
+            "label": "Ignorância vencível"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O12",
+            "column": "O",
+            "label": "Renunciar por caridade"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B09",
+            "column": "B",
+            "label": "Caridade como critério"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I15",
+            "column": "I",
+            "label": "Exemplo que derruba"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N14",
+            "column": "N",
+            "label": "Covardia prudente"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G07",
+            "column": "G",
+            "label": "Liberdade e impulso"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O02",
+            "column": "O",
+            "label": "Formar a consciência"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B04",
+            "column": "B",
+            "label": "Bem conhecido"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I14",
+            "column": "I",
+            "label": "Relação manipuladora"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N06",
+            "column": "N",
+            "label": "Só obedeci ordens"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G12",
+            "column": "G",
+            "label": "Verdade e humilhação"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O03",
+            "column": "O",
+            "label": "Examinar o dia"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C22",
+      "number": 22,
+      "term_ids": [
+        "B01",
+        "I12",
+        "N13",
+        "G08",
+        "O08",
+        "B07",
+        "I09",
+        "N12",
+        "G04",
+        "O15",
+        "B11",
+        "I13",
+        "G15",
+        "O13",
+        "B02",
+        "I08",
+        "N15",
+        "G03",
+        "O12",
+        "B03",
+        "I07",
+        "N04",
+        "G01",
+        "O10"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B01",
+            "column": "B",
+            "label": "Sacrário da consciência"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I12",
+            "column": "I",
+            "label": "Dano ambiental oculto"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N13",
+            "column": "N",
+            "label": "Ciência sem amor"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G08",
+            "column": "G",
+            "label": "Lícito e conveniente"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O08",
+            "column": "O",
+            "label": "Confessar o pecado"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B07",
+            "column": "B",
+            "label": "Magistério da Igreja"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I09",
+            "column": "I",
+            "label": "Exposição do doente"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N12",
+            "column": "N",
+            "label": "Hábito como desculpa"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G04",
+            "column": "G",
+            "label": "Ignorância vencível"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O15",
+            "column": "O",
+            "label": "Sustentar hábito virtuoso"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B11",
+            "column": "B",
+            "label": "Escândalo moral"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I13",
+            "column": "I",
+            "label": "Ordem injusta no trabalho"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G15",
+            "column": "G",
+            "label": "Misericórdia e banalização"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O13",
+            "column": "O",
+            "label": "Comunicar com verdade"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B02",
+            "column": "B",
+            "label": "Juízo da razão"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I08",
+            "column": "I",
+            "label": "Venda ao vulnerável"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N15",
+            "column": "N",
+            "label": "Tanto faz agora"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G03",
+            "column": "G",
+            "label": "Juízo certo e erro"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O12",
+            "column": "O",
+            "label": "Renunciar por caridade"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B03",
+            "column": "B",
+            "label": "Lei inscrita por Deus"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I07",
+            "column": "I",
+            "label": "Mentira no currículo"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N04",
+            "column": "N",
+            "label": "Meio mau, fim bom"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G01",
+            "column": "G",
+            "label": "Pessoa e ato"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O10",
+            "column": "O",
+            "label": "Cortar a ocasião"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C23",
+      "number": 23,
+      "term_ids": [
+        "B06",
+        "I14",
+        "N13",
+        "G12",
+        "O15",
+        "B15",
+        "I09",
+        "N05",
+        "G03",
+        "O14",
+        "B14",
+        "I01",
+        "G15",
+        "O04",
+        "B13",
+        "I03",
+        "N07",
+        "G08",
+        "O07",
+        "B09",
+        "I06",
+        "N06",
+        "G10",
+        "O10"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B06",
+            "column": "B",
+            "label": "Palavra como luz"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I14",
+            "column": "I",
+            "label": "Relação manipuladora"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N13",
+            "column": "N",
+            "label": "Ciência sem amor"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G12",
+            "column": "G",
+            "label": "Verdade e humilhação"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O15",
+            "column": "O",
+            "label": "Sustentar hábito virtuoso"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B15",
+            "column": "B",
+            "label": "Graça e conversão"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I09",
+            "column": "I",
+            "label": "Exposição do doente"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N05",
+            "column": "N",
+            "label": "Legal é moral"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G03",
+            "column": "G",
+            "label": "Juízo certo e erro"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O14",
+            "column": "O",
+            "label": "Assumir consequência"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B14",
+            "column": "B",
+            "label": "Hábito virtuoso"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I01",
+            "column": "I",
+            "label": "Contrato fraudado"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G15",
+            "column": "G",
+            "label": "Misericórdia e banalização"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O04",
+            "column": "O",
+            "label": "Buscar bom conselho"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B13",
+            "column": "B",
+            "label": "Regra de ouro"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I03",
+            "column": "I",
+            "label": "Atestado falso"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N07",
+            "column": "N",
+            "label": "Ninguém está vendo"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G08",
+            "column": "G",
+            "label": "Lícito e conveniente"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O07",
+            "column": "O",
+            "label": "Reparar o dano"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B09",
+            "column": "B",
+            "label": "Caridade como critério"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I06",
+            "column": "I",
+            "label": "Abandono de idoso"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N06",
+            "column": "N",
+            "label": "Só obedeci ordens"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G10",
+            "column": "G",
+            "label": "Caridade e conivência"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O10",
+            "column": "O",
+            "label": "Cortar a ocasião"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C24",
+      "number": 24,
+      "term_ids": [
+        "B15",
+        "I13",
+        "N11",
+        "G11",
+        "O04",
+        "B07",
+        "I08",
+        "N03",
+        "G09",
+        "O09",
+        "B02",
+        "I14",
+        "G04",
+        "O10",
+        "B14",
+        "I01",
+        "N02",
+        "G12",
+        "O11",
+        "B01",
+        "I09",
+        "N06",
+        "G15",
+        "O05"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B15",
+            "column": "B",
+            "label": "Graça e conversão"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I13",
+            "column": "I",
+            "label": "Ordem injusta no trabalho"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N11",
+            "column": "N",
+            "label": "Relativismo cômodo"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G11",
+            "column": "G",
+            "label": "Prudência e omissão"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O04",
+            "column": "O",
+            "label": "Buscar bom conselho"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B07",
+            "column": "B",
+            "label": "Magistério da Igreja"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I08",
+            "column": "I",
+            "label": "Venda ao vulnerável"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N03",
+            "column": "N",
+            "label": "Todo mundo faz"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G09",
+            "column": "G",
+            "label": "Escândalo e discordância"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O09",
+            "column": "O",
+            "label": "Pedir perdão direto"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B02",
+            "column": "B",
+            "label": "Juízo da razão"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I14",
+            "column": "I",
+            "label": "Relação manipuladora"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Gn 1,27"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G04",
+            "column": "G",
+            "label": "Ignorância vencível"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O10",
+            "column": "O",
+            "label": "Cortar a ocasião"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B14",
+            "column": "B",
+            "label": "Hábito virtuoso"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I01",
+            "column": "I",
+            "label": "Contrato fraudado"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N02",
+            "column": "N",
+            "label": "Consciência como sentimento"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G12",
+            "column": "G",
+            "label": "Verdade e humilhação"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O11",
+            "column": "O",
+            "label": "Proteger o vulnerável"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B01",
+            "column": "B",
+            "label": "Sacrário da consciência"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I09",
+            "column": "I",
+            "label": "Exposição do doente"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N06",
+            "column": "N",
+            "label": "Só obedeci ordens"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G15",
+            "column": "G",
+            "label": "Misericórdia e banalização"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O05",
+            "column": "O",
+            "label": "Confrontar com a Palavra"
+          }
+        ]
+      ]
+    }
+  ]
+}

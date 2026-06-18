@@ -1,0 +1,308 @@
+{
+  "title": "Carta de explicações rápidas — Bingo Todo batizado é missionário",
+  "meeting": "Encontro 33 — Todo batizado é missionário",
+  "source_calls": "data/chamadas.json",
+  "purpose": "Explicações breves para o condutor usar durante a chamada de cada carta.",
+  "entries": [
+    {
+      "id": "B01",
+      "explanation": "A **filiação batismal** não é lembrança de infância nem costume de família. Pelo Batismo, a pessoa pertence a Cristo e recebe responsabilidade diante dos homens. A missão nasce dessa identidade recebida."
+    },
+    {
+      "id": "B02",
+      "explanation": "O **Espírito Santo** vem antes da missão. O cristão não testemunha apoiado apenas em coragem natural ou boa comunicação. Ele pede força a Deus e age com humildade."
+    },
+    {
+      "id": "B03",
+      "explanation": "O **testemunho de Cristo** não é autopromoção religiosa. A vida e a palavra do cristão devem apontar para o Senhor. Ser admirado não basta se Cristo fica escondido."
+    },
+    {
+      "id": "B04",
+      "explanation": "A **profissão da fé** é consequência do Batismo. O cristão não precisa fazer espetáculo, mas também não deve negar ou apagar a fé quando ela é pertinente. Clareza e respeito caminham juntos."
+    },
+    {
+      "id": "B05",
+      "explanation": "A **graça** vem antes da tarefa. Missão não é ativismo, controle ou ansiedade por resultado. Primeiro Deus dá vida, força e direção; depois o batizado responde."
+    },
+    {
+      "id": "B06",
+      "explanation": "A **Igreja em missão** não é formada por espectadores e especialistas. Todo batizado participa da missão do povo de Deus. Cada um responde conforme sua vocação, estado de vida e possibilidade real."
+    },
+    {
+      "id": "B07",
+      "explanation": "A **união com Cristo** é a fonte do testemunho. Quem abandona oração e sacramentos enfraquece a própria missão. A coerência nasce de permanecer unido ao Senhor."
+    },
+    {
+      "id": "B08",
+      "explanation": "Os **dons do Espírito** ajudam a decidir bem em situações concretas. Eles formam conselho, força, piedade e temor de Deus. Não são enfeites religiosos, mas auxílio para viver a missão."
+    },
+    {
+      "id": "B09",
+      "explanation": "A **coragem da cruz** enfrenta a vergonha de pertencer a Cristo. Não se trata de provocar os outros, mas de não negar o Senhor por status ou medo. A Confirmação fortalece para essa fidelidade."
+    },
+    {
+      "id": "B10",
+      "explanation": "A **caridade missionária** busca o bem real da pessoa. Ela não é simpatia vaga nem aprovação de tudo. Anuncia a verdade com amor e serve com obras proporcionais."
+    },
+    {
+      "id": "B11",
+      "explanation": "A **verdade anunciada** impede reduzir a fé a boas maneiras. Evangelizar inclui falar de Cristo quando a situação pede. A palavra deve ser verdadeira, simples e respeitosa."
+    },
+    {
+      "id": "B12",
+      "explanation": "A **vida coerente** torna o anúncio crível. Palavras religiosas perdem força quando são acompanhadas de injustiça, mentira ou abuso. A resposta cristã inclui conversão e reparação."
+    },
+    {
+      "id": "B13",
+      "explanation": "Ser **sal e luz** é presença cristã visível e útil no mundo. O discípulo não deve desaparecer por medo. Ele ilumina, preserva o bem e ajuda outros a escolherem com mais clareza."
+    },
+    {
+      "id": "B14",
+      "explanation": "**Palavra e ação** não devem ser separadas. Só falar pode virar discurso vazio; só agir pode esconder Cristo quando a palavra é necessária. A missão cristã integra anúncio, oração e serviço."
+    },
+    {
+      "id": "B15",
+      "explanation": "A **comunhão e envio** protegem a missão do individualismo. Ninguém se envia sozinho como dono da fé. O batizado testemunha Cristo unido à Igreja e aberto à correção."
+    },
+    {
+      "id": "I01",
+      "explanation": "A **fé ocultada** aparece quando a pessoa apaga sinais legítimos de sua pertença a Cristo. Nem toda discrição é vergonha, mas o medo de parecer cristão precisa ser examinado. A resposta é assumir a fé com simplicidade."
+    },
+    {
+      "id": "I02",
+      "explanation": "Uma **conversa sobre Deus** muitas vezes nasce de dor, dúvida ou busca sincera. O cristão não deve responder com frases prontas. Escuta, respeito e verdade tornam o anúncio mais humano e mais fiel."
+    },
+    {
+      "id": "I03",
+      "explanation": "A **rede que escandaliza** também é espaço moral. Curtir, postar e compartilhar podem evangelizar ou contradizer a fé. O testemunho cristão precisa chegar ao comportamento digital."
+    },
+    {
+      "id": "I04",
+      "explanation": "A **família sem perdão** mostra que a missão começa perto. Perdoar não significa negar a justiça nem fingir que nada aconteceu. Significa buscar verdade, reparação e reconciliação possível."
+    },
+    {
+      "id": "I05",
+      "explanation": "O **convite à fé** é um gesto missionário concreto. Ele não deve ser chantagem nem pressão. Convidar com clareza e respeitar a liberdade do outro é caridade prática."
+    },
+    {
+      "id": "I06",
+      "explanation": "O **doente esquecido** revela se a fé fica no discurso ou chega ao cuidado. Cristo se identifica com quem sofre e é abandonado. Visita, presença e ajuda responsável são missão concreta."
+    },
+    {
+      "id": "I07",
+      "explanation": "A **vizinhança ferida** precisa de cristãos que não espalhem medo e boato. A paz cristã não é ingenuidade, pois busca justiça e verdade. Ser pacificador é conter o mal sem criar outro mal."
+    },
+    {
+      "id": "I08",
+      "explanation": "O **trabalho desonesto** testa a fé fora da igreja. Fraudes pequenas não deixam de ser mentira porque todos fazem. A coerência cristã pode custar, mas protege a justiça."
+    },
+    {
+      "id": "I09",
+      "explanation": "A **dor sem sentido** pode ferir também a fé. A testemunha cristã não banaliza o sofrimento nem abandona a esperança. Sua presença ajuda a pessoa a não interpretar a dor como abandono de Deus."
+    },
+    {
+      "id": "I10",
+      "explanation": "O **ambiente de deboche** pressiona o cristão a calar ou reagir mal. A coragem da fé não precisa de agressividade. Uma resposta breve, firme e serena pode ser verdadeiro testemunho."
+    },
+    {
+      "id": "I11",
+      "explanation": "A **festa sem limites** mostra que missão também é escolher limites. Excesso, infidelidade e irresponsabilidade não ficam neutros porque o ambiente incentiva. A liberdade cristã aceita renúncias concretas."
+    },
+    {
+      "id": "I12",
+      "explanation": "O **luto sem esperança** pede presença delicada e fé verdadeira. A esperança cristã não manda a pessoa parar de sofrer. Ela coloca a dor diante de Cristo ressuscitado."
+    },
+    {
+      "id": "I13",
+      "explanation": "O **serviço escondido** tem grande valor missionário. Nem todo bem precisa virar imagem pública. Quando a caridade protege a dignidade do outro, ela testemunha Cristo com pureza."
+    },
+    {
+      "id": "I14",
+      "explanation": "A **discussão pública** exige firmeza e domínio de si. Defender a fé não autoriza insultos. A verdade precisa ser dita com mansidão, fonte segura e respeito pela pessoa."
+    },
+    {
+      "id": "I15",
+      "explanation": "A **comunidade ausente** mostra uma fé tratada como consumo. O batizado não apenas recebe serviços religiosos. Ele pertence a um povo missionário e deve assumir compromisso possível."
+    },
+    {
+      "id": "N01",
+      "explanation": "A **missão distante** é uma desculpa elegante. A pessoa admira missionários longe, mas evita testemunhar onde vive. Atos mostra que o Espírito envia também para a própria Jerusalém."
+    },
+    {
+      "id": "N02",
+      "explanation": "A **fé privada** tenta prender o cristianismo dentro da intimidade. Mas o Batismo chama a professar a fé diante dos homens. Isso deve acontecer com respeito, não com apagamento."
+    },
+    {
+      "id": "N03",
+      "explanation": "A **neutralidade cômoda** aparece quando o silêncio protege apenas o próprio conforto. Nem toda situação pede fala imediata, mas há silêncios que permitem dano real. Prudência escolhe o modo de agir; covardia evita agir."
+    },
+    {
+      "id": "N04",
+      "explanation": "A **vergonha da cruz** nasce quando a aprovação dos outros pesa mais que a fidelidade a Cristo. O cristão pode ser discreto sem esconder o Senhor. A Confirmação fortalece para não negar a fé por medo."
+    },
+    {
+      "id": "N05",
+      "explanation": "O **exemplo sem palavra** é uma meia verdade. O bom exemplo é indispensável, mas às vezes a pergunta sobre a fé precisa de resposta. O cristão não deve esconder Cristo quando a ocasião pede anúncio."
+    },
+    {
+      "id": "N06",
+      "explanation": "A **palavra sem vida** fere o testemunho. A verdade cristã não se torna falsa por causa da incoerência de alguém, mas a incoerência escandaliza. O caminho é conversão, humildade e reparação."
+    },
+    {
+      "id": "N07",
+      "explanation": "O **medo de incomodar** pode se disfarçar de respeito. Quando há risco grave, calar pode ser abandono. A caridade protege a vida e busca ajuda responsável."
+    },
+    {
+      "id": "N08",
+      "explanation": "O **sucesso como critério** mede a missão por aplausos e números imediatos. A fé cristã exige avaliação, mas não idolatria de resultado. Deus pede fidelidade e pode dar fruto em tempo que não controlamos."
+    },
+    {
+      "id": "N09",
+      "explanation": "A **tolerância sem verdade** confunde amor com aprovação total. Acolher a pessoa não exige chamar o mal de bem. A caridade cristã une proximidade, verdade e chamado à responsabilidade."
+    },
+    {
+      "id": "N10",
+      "explanation": "O **zelo agressivo** usa uma causa verdadeira com meios injustos. Defender a fé ou a vida não autoriza insultar, expor ou humilhar. A firmeza cristã precisa de mansidão e respeito."
+    },
+    {
+      "id": "N11",
+      "explanation": "**Esperar estar pronto** pode ser humildade, mas também fuga. Ninguém deve ensinar com arrogância, porém a imperfeição não dispensa a missão. O cristão testemunha enquanto se converte."
+    },
+    {
+      "id": "N12",
+      "explanation": "A **delegação ao padre** esquece que todo batizado é missionário. Ministros ordenados têm missão própria, mas os leigos não são espectadores. Família, trabalho e bairro também são campos de evangelização."
+    },
+    {
+      "id": "N13",
+      "explanation": "A **fé sem Igreja** transforma Cristo em preferência individual. Sem comunhão, sacramentos e correção, a própria opinião domina. A missão cristã pertence ao corpo de Cristo, não a projetos isolados."
+    },
+    {
+      "id": "N14",
+      "explanation": "A **Crisma como formatura** inverte o sentido do sacramento. A Confirmação não encerra a vida cristã. Ela fortalece para difundir e defender a fé com palavra e ação."
+    },
+    {
+      "id": "N15",
+      "explanation": "O **algoritmo manda** quando engajamento vira critério moral. Curtidas não absolvem mentira, agressão ou vaidade. O cristão precisa converter também o modo de comunicar nas redes."
+    },
+    {
+      "id": "G01",
+      "explanation": "**Pessoa e proposta** precisam ser distinguidas. Amar alguém não obriga aprovar toda escolha ou ideia. A caridade cristã preserva a dignidade da pessoa e avalia moralmente o que ela propõe."
+    },
+    {
+      "id": "G02",
+      "explanation": "**Testemunho e propaganda** não são a mesma coisa. Testemunho aponta para Cristo; propaganda religiosa pode apontar para a própria imagem. A intenção e o cuidado com o outro revelam a diferença."
+    },
+    {
+      "id": "G03",
+      "explanation": "**Acolhida e aprovação** não devem ser confundidas. A pessoa deve ser recebida com respeito, sem humilhação. Mas a verdade moral não desaparece para que ninguém se sinta contrariado."
+    },
+    {
+      "id": "G04",
+      "explanation": "**Prudência e covardia** podem parecer iguais por fora. A prudência escolhe tempo, modo e medida para fazer o bem. A covardia usa a cautela como desculpa para manter o próprio conforto."
+    },
+    {
+      "id": "G05",
+      "explanation": "**Coragem e imprudência** precisam de discernimento. O cristão deve enfrentar o mal, mas não pode ferir inocentes por pressa ou vaidade. A força do Espírito age com verdade, justiça e ordem."
+    },
+    {
+      "id": "G06",
+      "explanation": "**Diálogo e relativismo** não são sinônimos. Dialogar exige escutar de verdade. Relativismo abandona a verdade para evitar conflito; o cristão escuta sem renunciar a Cristo."
+    },
+    {
+      "id": "G07",
+      "explanation": "**Convite e pressão** se distinguem pela liberdade. O convite propõe um bem com clareza. A pressão usa vergonha, chantagem ou exposição, e assim desfigura a missão."
+    },
+    {
+      "id": "G08",
+      "explanation": "**Exemplo e silêncio** devem caminhar com critério. A vida coerente fala muito, mas pode chegar a hora de nomear a fé. Humildade não exige esconder Cristo quando alguém pergunta pela fonte do bem."
+    },
+    {
+      "id": "G09",
+      "explanation": "**Erro público e humilhação** exigem separação clara. Corrigir um erro que confunde pessoas pode ser necessário. Ridicularizar quem errou desvia da verdade e fere a caridade."
+    },
+    {
+      "id": "G10",
+      "explanation": "**Consciência e opinião** não são a mesma coisa. A consciência precisa ser formada na verdade. A própria vontade não pode virar medida final do bem e do mal."
+    },
+    {
+      "id": "G11",
+      "explanation": "**Liberdade e capricho** se distinguem pelo bem e pela responsabilidade. Escolher por impulso não é liberdade madura. A liberdade cristã aceita limites quando a vida e a dignidade estão em jogo."
+    },
+    {
+      "id": "G12",
+      "explanation": "**Missão e protagonismo** podem se misturar de modo perigoso. A missão serve a Cristo e ao próximo. O protagonismo usa a missão para construir imagem e poder pessoal."
+    },
+    {
+      "id": "G13",
+      "explanation": "**Serviço e autopromoção** se diferenciam pela intenção e pelo tratamento dado ao outro. A caridade não usa a necessidade alheia como vitrine. Servir bem inclui preservar a dignidade de quem recebe ajuda."
+    },
+    {
+      "id": "G14",
+      "explanation": "**Paciência e omissão** não devem ser confundidas. Paciência respeita processos reais e recaídas. Omissão abandona a pessoa e evita limites, ajuda e acompanhamento."
+    },
+    {
+      "id": "G15",
+      "explanation": "**Defesa da fé e briga** têm espíritos diferentes. Defender a verdade é necessário. Brigar por orgulho, humilhar ou vencer a qualquer custo desmente a mansidão cristã."
+    },
+    {
+      "id": "O01",
+      "explanation": "**Nomear a fé** é uma resposta simples e concreta. Quando a situação é pertinente, o cristão pode dizer que sua fé orienta sua vida. Isso não é espetáculo, é profissão serena da fé."
+    },
+    {
+      "id": "O02",
+      "explanation": "**Escutar antes de falar** evita respostas apressadas. A pessoa concreta vem com história, feridas e perguntas reais. Escutar bem prepara uma palavra mais fiel e mais caridosa."
+    },
+    {
+      "id": "O03",
+      "explanation": "**Dar razão da esperança** é explicar por que a fé sustenta a vida. Não é repetir frases prontas nem negar sofrimento. É falar de Cristo com mansidão e verdade."
+    },
+    {
+      "id": "O04",
+      "explanation": "**Cortar escândalo digital** exige parar o mal e reparar o dano. Apagar em silêncio nem sempre basta. Quando a mentira circulou publicamente, a correção também precisa alcançar quem foi confundido."
+    },
+    {
+      "id": "O05",
+      "explanation": "**Convidar com respeito** une clareza e liberdade. O cristão não deve manipular nem se calar sempre. Ele propõe um bem, acolhe a resposta e continua tratando a pessoa com caridade."
+    },
+    {
+      "id": "O06",
+      "explanation": "**Reparar mau testemunho** é parte da conversão. Não basta lamentar em segredo quando outros foram feridos. Pedido de perdão, mudança concreta e justiça devolvem credibilidade ao testemunho."
+    },
+    {
+      "id": "O07",
+      "explanation": "**Buscar formação segura** protege a fé de improvisos. Dúvidas sérias merecem Bíblia, Catecismo e orientação confiável. Dizer que vai estudar é mais honesto do que responder errado para parecer pronto."
+    },
+    {
+      "id": "O08",
+      "explanation": "**Rezar antes de agir** coloca a missão sob a força do Espírito. Oração não substitui responsabilidade. Ela ordena a ação, purifica a intenção e impede reações impulsivas."
+    },
+    {
+      "id": "O09",
+      "explanation": "**Servir quem sofre** é missão concreta. A caridade não reduz dor psíquica, doença ou pobreza a falta de fé. Ela oferece presença, ajuda possível e encaminhamento responsável."
+    },
+    {
+      "id": "O10",
+      "explanation": "**Defender sem ferir** é sinal de maturidade cristã. A fé pode e deve ser explicada diante de acusações falsas. A defesa perde força quando vira insulto ou desprezo."
+    },
+    {
+      "id": "O11",
+      "explanation": "**Acompanhar sem substituir** respeita a liberdade da pessoa. Ajudar não é controlar consciência nem decidir tudo pelo outro. A presença fiel conduz a Deus, aos sacramentos e à responsabilidade."
+    },
+    {
+      "id": "O12",
+      "explanation": "**Assumir compromisso** transforma intenção em missão real. Reclamar de uma necessidade pode ser o começo, mas não é suficiente. Um serviço possível, regular e fiel edifica a comunidade."
+    },
+    {
+      "id": "O13",
+      "explanation": "**Pedir ajuda pastoral** é prudência diante de situações graves. Abuso, risco, pecado persistente ou dúvida séria não devem ser tratados com improviso. A resposta cristã protege pessoas e busca orientação segura."
+    },
+    {
+      "id": "O14",
+      "explanation": "**Renunciar ao aplauso** purifica o serviço. Reconhecimento pode acontecer, mas não deve governar a missão. Fazer o bem sem depender de visibilidade ajuda a servir por Cristo."
+    },
+    {
+      "id": "O15",
+      "explanation": "**Perseverar no cotidiano** é parte essencial da missão. Pequenas fidelidades formam consciência, ambiente e memória de fé. Nem todo fruto aparece rápido, mas o Espírito sustenta a constância."
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "title": "Carta de explicações rápidas — Bingo A missão de Jesus",
+  "meeting": "Encontro 32 — A missão de Jesus",
+  "source_calls": "data/chamadas.json",
+  "purpose": "Explicações breves para o condutor usar durante a chamada de cada carta.",
+  "entries": [
+    {
+      "id": "B01",
+      "explanation": "A missão de Jesus não nasce de autopromoção, mas da **unção do Espírito**. Quando a obra religiosa vira vitrine, os pobres são usados em vez de servidos. O critério cristão é voltar ao Pai, à obediência e ao serviço concreto."
+    },
+    {
+      "id": "B02",
+      "explanation": "Chamar Jesus de **Cristo** é confessar que ele é o Ungido enviado por Deus. Ele não é apenas mestre de bons valores. Como sacerdote, profeta e rei, realiza a salvação que o Pai prometeu."
+    },
+    {
+      "id": "B03",
+      "explanation": "A **Boa-Nova aos pobres** está no centro do anúncio de Nazaré. A fé não pode falar de Deus ignorando fome, abandono e humilhação. Também não reduz salvação a assistência material: Cristo salva a pessoa inteira."
+    },
+    {
+      "id": "B04",
+      "explanation": "O **Reino dos pequenos** corrige a lógica do prestígio. Deus não mede a pessoa por influência, dinheiro ou visibilidade. Quem segue Jesus aprende a ouvir e servir os que o mundo costuma ignorar."
+    },
+    {
+      "id": "B05",
+      "explanation": "Jesus é enviado aos **contritos de coração**. A dor não deve ser apressada, negada ou tratada como fraqueza incômoda. A resposta cristã une presença, verdade, consolo e ajuda possível."
+    },
+    {
+      "id": "B06",
+      "explanation": "A **libertação dos cativos** inclui prisões do pecado, da mentira, do vício e de injustiças concretas. Nem todo acordo aparente é livre quando a necessidade domina a pessoa. Cristo liberta para a verdade e para o bem."
+    },
+    {
+      "id": "B07",
+      "explanation": "Dar **vista aos cegos** também significa iluminar a consciência. A mentira repetida pode impedir alguém de reconhecer o mal. Jesus devolve luz para que a pessoa veja, nomeie o pecado e busque conversão."
+    },
+    {
+      "id": "B08",
+      "explanation": "O **ano da graça** é tempo de misericórdia e salvação. Mas graça não é licença para adiar a conversão. Quando Deus chama hoje, a resposta precisa começar em decisões concretas."
+    },
+    {
+      "id": "B09",
+      "explanation": "Jesus é o **sacerdote que se oferece**. Ele não exige sacrifício dos outros para preservar a si mesmo. Sua entrega revela que autoridade cristã passa por obediência, misericórdia e amor que assume custo."
+    },
+    {
+      "id": "B10",
+      "explanation": "Jesus é **profeta da Palavra** porque revela o Pai e chama à conversão. O profeta não manipula a mensagem para agradar. A verdade cristã deve ser dita com caridade, mas não escondida por conveniência."
+    },
+    {
+      "id": "B11",
+      "explanation": "Cristo é **rei servidor**, não dominador. Seu Reino não se impõe pela vaidade, pelo medo ou pelo prestígio. Toda autoridade iluminada por Jesus deve proteger, servir e conduzir ao bem."
+    },
+    {
+      "id": "B12",
+      "explanation": "O **hoje da salvação** impede viver adiando Deus. Jesus diz que a Escritura se cumpre hoje, não em uma possibilidade vaga. A graça pede resposta presente: conversão, reconciliação, reparação e missão."
+    },
+    {
+      "id": "B13",
+      "explanation": "A **pobreza de coração** é humildade diante de Deus. Ela não depende de possuir pouco nem autoriza desprezar a pobreza material. Quem é pobre de coração sabe que precisa de graça, perdão e conversão."
+    },
+    {
+      "id": "B14",
+      "explanation": "O **amor ativo aos pobres** precisa virar gesto, decisão e responsabilidade. Não basta sentir pena nem falar de justiça em abstrato. Cristo se identifica com os pequenos e pede cuidado concreto."
+    },
+    {
+      "id": "B15",
+      "explanation": "A **missão do batizado** nasce da união com Cristo. A missão de Jesus continua na Igreja e alcança a vida comum. Cada batizado testemunha com palavra, serviço, caridade e coerência."
+    },
+    {
+      "id": "I01",
+      "explanation": "O despejo mostra que a pobreza tem rosto e endereço. A questão moral não se resolve só com um documento ou uma opinião rápida. O discípulo de Jesus procura justiça, ajuda possível e respeito à dignidade da família."
+    },
+    {
+      "id": "I02",
+      "explanation": "A fila do hospital pode transformar o doente em número. A fé cristã recorda a **dignidade** de quem sofre, mesmo em sistemas difíceis. O cuidado começa por ver a pessoa e tratar sua dor com seriedade."
+    },
+    {
+      "id": "I03",
+      "explanation": "Reter salário devido é uma injustiça grave. O trabalhador depende desse pagamento para sustento, casa e família. A missão de Jesus ilumina o clamor dos pobres e exige justiça concreta."
+    },
+    {
+      "id": "I04",
+      "explanation": "O idoso abandonado revela a tentação de medir valor pela utilidade. A pessoa continua tendo dignidade quando perde força, memória ou autonomia. O amor cristão se expressa em presença, cuidado e responsabilidade proporcional."
+    },
+    {
+      "id": "I05",
+      "explanation": "A dependência química é uma forma real de **cativeiro**. Ela não deve ser tratada só como falta de vergonha nem como desculpa para todo dano. A resposta cristã une verdade, limite, ajuda competente e esperança."
+    },
+    {
+      "id": "I06",
+      "explanation": "A prisão não apaga a dignidade da pessoa. O crime deve ser levado a sério, mas o preso não deixa de ser chamado à conversão. Jesus anuncia libertação que inclui justiça, verdade e possibilidade de recomeço."
+    },
+    {
+      "id": "I07",
+      "explanation": "A mentira que cega muda o nome do pecado para torná-lo aceitável. Quando corrupção vira esperteza, a consciência se deforma. Cristo devolve a vista para que o mal seja reconhecido e reparado."
+    },
+    {
+      "id": "I08",
+      "explanation": "A dívida impagável pode virar prisão social. A necessidade extrema não deve ser usada para explorar alguém. A missão de Jesus anuncia libertação e chama a práticas de justiça, alívio e responsabilidade."
+    },
+    {
+      "id": "I09",
+      "explanation": "O luto sem consolo mostra uma ferida que continua depois dos ritos públicos. A pessoa enlutada não precisa de frases apressadas. A presença fiel é uma forma concreta de participar da missão de Cristo junto aos feridos."
+    },
+    {
+      "id": "I10",
+      "explanation": "O migrante sem rede está exposto a medo, exploração e solidão. A acolhida cristã não é ingenuidade, mas também não é indiferença. Ver Cristo no estrangeiro pede respeito, prudência e ajuda concreta."
+    },
+    {
+      "id": "I11",
+      "explanation": "A criança sem cuidado revela vulnerabilidade grave. A pobreza pode explicar parte da situação, mas não torna o risco aceitável. A resposta cristã protege os pequenos com prudência e responsabilidade adulta."
+    },
+    {
+      "id": "I12",
+      "explanation": "A violência doméstica não deve ser escondida por falsa paz familiar. Controle, medo e agressão são sinais de cativeiro concreto. A missão libertadora de Jesus pede proteção da vítima, verdade e encaminhamento seguro."
+    },
+    {
+      "id": "I13",
+      "explanation": "O comércio explorador lucra sobre a necessidade extrema. Nem todo preço possível é moralmente justo. O amor ativo aos pobres impede transformar sofrimento alheio em oportunidade de vantagem abusiva."
+    },
+    {
+      "id": "I14",
+      "explanation": "O crime muitas vezes promete dinheiro, respeito e pertencimento. Essa promessa é falsa quando prende a pessoa em medo, violência e culpa. Jesus oferece libertação que não exige vender a consciência."
+    },
+    {
+      "id": "I15",
+      "explanation": "Um bairro esquecido mostra pobreza coletiva, não apenas problema individual. Falta de saneamento, transporte e segurança fere vidas concretas. A fé cristã chama a ver esses pobres como destinatários da Boa-Nova e da justiça."
+    },
+    {
+      "id": "N01",
+      "explanation": "O **Evangelho sem pobres** é uma deformação da missão de Jesus. Em Nazaré, Cristo declara que foi enviado para anunciar a Boa-Nova aos pobres. Fé autêntica não abandona os pequenos nem usa religião para escapar da caridade."
+    },
+    {
+      "id": "N02",
+      "explanation": "O **espiritualismo vazio** fala de Deus sem obedecer ao amor concreto. Frases religiosas podem virar fuga quando a necessidade do outro está diante de nós. A fé viva reza, discerne e age."
+    },
+    {
+      "id": "N03",
+      "explanation": "A **falsa neutralidade** aparece quando alguém vê a injustiça e chama omissão de prudência. Nem toda intervenção é possível, mas a indiferença não é virtude. O samaritano mostra que a caridade se aproxima do ferido."
+    },
+    {
+      "id": "N04",
+      "explanation": "Culpar a vítima desloca a atenção do mal cometido. É possível falar de prudência sem humilhar quem sofreu. A missão de Jesus cura o ferido e chama o pecado pelo nome."
+    },
+    {
+      "id": "N05",
+      "explanation": "A **pena sem compromisso** sente tristeza, mas não assume nenhum bem possível. Compaixão cristã não precisa resolver tudo, mas dá um passo real. A fé sem obras diante do necessitado fica vazia."
+    },
+    {
+      "id": "N06",
+      "explanation": "A **liberdade sem verdade** confunde escolha com bem. Uma pessoa pode escolher algo que a escraviza e fere outros. Para Jesus, a verdade liberta; o impulso sem verdade prende."
+    },
+    {
+      "id": "N07",
+      "explanation": "A **misericórdia barata** evita nomear o mal e abandona a vítima. Perdão cristão não é encobrimento nem impunidade automática. A misericórdia verdadeira chama à conversão, reparação e vida nova."
+    },
+    {
+      "id": "N08",
+      "explanation": "O **Reino como poder** troca a missão de Cristo por domínio e prestígio. Jesus não reina pelo medo nem pela manipulação. Seu Reino se revela no serviço, na verdade e na entrega."
+    },
+    {
+      "id": "N09",
+      "explanation": "A **fé só privada** isola Deus das decisões concretas. Contratos, trabalho, dinheiro e relações também precisam ser iluminados pelo Evangelho. O batizado testemunha Cristo com coerência de vida."
+    },
+    {
+      "id": "N10",
+      "explanation": "A lógica de **cada um por si** naturaliza abandono. O cristão não é responsável por tudo, mas não pode fechar os olhos ao próximo ferido. Jesus pergunta quem se fez próximo, não quem encontrou desculpa melhor."
+    },
+    {
+      "id": "N11",
+      "explanation": "Ver o pobre como ameaça apaga seu rosto e sua dignidade. Problemas reais de convivência devem ser tratados sem desumanizar ninguém. Cristo se identifica com os pobres e chama a amor ativo."
+    },
+    {
+      "id": "N12",
+      "explanation": "O **sucesso como salvação** mede a vida por dinheiro, aparência e desempenho. Essa lógica despreza os pequenos e os que servem discretamente. O Reino de Jesus corrige essa medida com humildade e dignidade."
+    },
+    {
+      "id": "N13",
+      "explanation": "Romantizar o sofrimento torna a dor bonita demais para ser enfrentada. Deus pode agir no sofrimento, mas não nos autoriza a amar a miséria injusta. Jesus cura os feridos e manda servir os necessitados."
+    },
+    {
+      "id": "N14",
+      "explanation": "A **oração sem conversão** usa Deus para adiar responsabilidade. Rezar pela paz enquanto se mantém a agressão é contradição. A oração verdadeira abre a pessoa à graça e a decisões concretas."
+    },
+    {
+      "id": "N15",
+      "explanation": "A **justiça sem misericórdia** começa exigindo o bem e termina desejando destruição. O mal deve ser julgado, e os inocentes protegidos. Mas o pecador continua chamado à conversão e não perde sua dignidade diante de Deus."
+    },
+    {
+      "id": "G01",
+      "explanation": "É preciso distinguir **pobreza de coração** e miséria injusta. A primeira é humildade diante de Deus. A segunda fere a dignidade humana e deve ser combatida com justiça e caridade."
+    },
+    {
+      "id": "G02",
+      "explanation": "A distinção entre **pessoa e pecado** é central. O pecado deve ser nomeado com verdade. A pessoa, mesmo culpada, continua tendo dignidade e pode ser chamada à conversão."
+    },
+    {
+      "id": "G03",
+      "explanation": "Pena e **compaixão** não são a mesma coisa. A pena pode observar a dor e seguir adiante. A compaixão cristã se aproxima, mede o que é possível e age com responsabilidade."
+    },
+    {
+      "id": "G04",
+      "explanation": "Cura não é **controle**. Ajudar alguém fragilizado não autoriza decidir tudo por essa pessoa. O cuidado cristão levanta, protege e respeita a dignidade que permanece."
+    },
+    {
+      "id": "G05",
+      "explanation": "Libertação não é licença para qualquer atitude. Sair de um mal não dá direito de produzir outro. Cristo liberta para a verdade, para a responsabilidade e para o bem."
+    },
+    {
+      "id": "G06",
+      "explanation": "A **verdade** pode corrigir ou pode ser usada para humilhar. O critério cristão é buscar salvação, justiça e reparação, não espetáculo. Dizer a verdade sem caridade pode virar nova ferida."
+    },
+    {
+      "id": "G07",
+      "explanation": "Acolher não é aprovar tudo. A pessoa deve ser recebida com dignidade, mas o pecado não deve ser chamado de bem. Jesus une acolhida, verdade e chamado à vida nova."
+    },
+    {
+      "id": "G08",
+      "explanation": "Serviço cristão não é **protagonismo** pessoal. A dor dos pobres não deve virar palco para vaidade. Servir como Cristo é proteger a dignidade de quem recebe ajuda."
+    },
+    {
+      "id": "G09",
+      "explanation": "Há males que pedem urgência, mas urgência não dispensa **prudência**. A ação precipitada pode expor vítimas, acusar inocentes ou ampliar o dano. Caridade verdadeira busca meios justos e seguros."
+    },
+    {
+      "id": "G10",
+      "explanation": "Caridade e assistencialismo precisam ser distinguidos. A ajuda emergencial pode ser necessária e boa. Mas a caridade madura também escuta, respeita e procura caminhos de dignidade."
+    },
+    {
+      "id": "G11",
+      "explanation": "Justiça não é **vingança**. O crime deve ter consequência e os inocentes devem ser protegidos. Mas o cristão não combate o mal tornando-se autor de novo mal."
+    },
+    {
+      "id": "G12",
+      "explanation": "Profecia anuncia a Palavra de Deus; ideologia usa a Palavra como instrumento. O Evangelho corrige também quem o anuncia. A missão de Jesus exige fidelidade, não seleção interessada."
+    },
+    {
+      "id": "G13",
+      "explanation": "Autoridade legítima serve ao bem comum. **Domínio** usa cargo ou prestígio para controlar pessoas. Em Cristo, mandar nunca significa possuir a vida dos outros."
+    },
+    {
+      "id": "G14",
+      "explanation": "A salvação é **graça**, não conquista humana. Mas a graça deve ser acolhida com cooperação real. Passividade religiosa e orgulho autossuficiente são dois desvios opostos."
+    },
+    {
+      "id": "G15",
+      "explanation": "Missão não é ativismo. Muitas ações podem perder a fonte se se afastam de Cristo, da oração e da caridade. O batizado é enviado por Jesus e precisa permanecer unido a ele."
+    },
+    {
+      "id": "O01",
+      "explanation": "Anunciar com clareza é falar de Cristo sem agressividade e sem vergonha. A verdade deve ser compreensível, fiel e respeitosa. O medo de parecer religioso não pode apagar o testemunho quando ele é necessário."
+    },
+    {
+      "id": "O02",
+      "explanation": "Escutar o ferido é uma resposta concreta. Antes de aconselhar ou corrigir, é preciso reconhecer a dor da pessoa. A escuta abre caminho para ajuda prudente e evita aumentar a solidão."
+    },
+    {
+      "id": "O03",
+      "explanation": "Encaminhar ajuda real é reconhecer limites. Algumas situações exigem médico, assistência social, autoridade, família segura ou acompanhamento pastoral. Caridade não é assumir sozinho o que pede rede competente."
+    },
+    {
+      "id": "O04",
+      "explanation": "Cortar exploração exige renúncia concreta. Se uma vantagem depende do sofrimento injusto de alguém, ela não deve ser normalizada. A resposta cristã busca alternativa justa e rompe participação no abuso."
+    },
+    {
+      "id": "O05",
+      "explanation": "Reparar o dano é parte da conversão. Arrependimento não é apenas sentir culpa em silêncio. Quando possível, é preciso restituir, corrigir consequências e pedir perdão."
+    },
+    {
+      "id": "O06",
+      "explanation": "Defender o vulnerável pede coragem e prudência. A vítima não deve ser exposta para que outros pareçam corajosos. A defesa cristã busca proteção real, palavra justa e autoridade competente."
+    },
+    {
+      "id": "O07",
+      "explanation": "Visitar sem invadir é servir com respeito. Doentes, presos, idosos e enlutados não perdem privacidade nem voz. A visita cristã oferece presença e ajuda concreta, não curiosidade."
+    },
+    {
+      "id": "O08",
+      "explanation": "Perdoar com verdade não é negar o mal. A vítima não deve ser pressionada a voltar ao perigo em nome de uma falsa paz. Perdão cristão pode caminhar com limite, justiça e reparação."
+    },
+    {
+      "id": "O09",
+      "explanation": "Formar a consciência exige luz e disciplina. O ambiente pode chamar o erro de normal, mas isso não o torna bom. Escritura, doutrina, exame sincero e orientação segura ajudam a ver com clareza."
+    },
+    {
+      "id": "O10",
+      "explanation": "Servir com constância corrige a caridade movida só por comoção. Muitas necessidades continuam quando a notícia passa. O serviço cristão é fiel, simples e sustentado pelo amor."
+    },
+    {
+      "id": "O11",
+      "explanation": "Denunciar abuso não é espalhar exposição. É buscar autoridade competente e proteger a vítima. A missão libertadora de Jesus pede coragem, verdade e prudência diante da violência."
+    },
+    {
+      "id": "O12",
+      "explanation": "Partilhar bens é mais que dar sobras. A ajuda deve respeitar a dignidade de quem recebe. Dinheiro, tempo e recursos podem ser instrumentos de caridade quando usados com discrição e responsabilidade."
+    },
+    {
+      "id": "O13",
+      "explanation": "Rezar e agir devem caminhar juntos. A oração verdadeira abre a pessoa à vontade de Deus e ao bem concreto. Quando há risco ou necessidade clara, a omissão não pode ser chamada de confiança."
+    },
+    {
+      "id": "O14",
+      "explanation": "Buscar os **sacramentos** é voltar à fonte da graça. Boas obras são necessárias, mas não substituem Cristo agindo na Igreja. Reconciliação e Eucaristia sustentam conversão, humildade e missão."
+    },
+    {
+      "id": "O15",
+      "explanation": "Assumir envio é transformar o Evangelho em compromisso real. A missão de Jesus continua por meio de batizados concretos, em lugares concretos. Um gesto fiel, possível e perseverante já pode ser verdadeira resposta."
+    }
+  ]
+}

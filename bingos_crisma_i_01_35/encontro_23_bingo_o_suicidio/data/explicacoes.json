@@ -1,0 +1,308 @@
+{
+  "title": "Carta de explicações rápidas — Bingo O suicídio",
+  "meeting": "Encontro 23 — O suicídio",
+  "source_calls": "data/chamadas.json",
+  "purpose": "Explicações breves para o condutor usar durante a chamada de cada carta.",
+  "entries": [
+    {
+      "id": "B01",
+      "explanation": "A vida é **dom**, não simples posse individual. Quando a pessoa sofre, esse dom fica ferido, mas não perde valor. A resposta cristã é cuidar da vida recebida de Deus."
+    },
+    {
+      "id": "B02",
+      "explanation": "Ser **administrador da vida** significa ter responsabilidade, não domínio absoluto. A liberdade deve proteger aquilo que Deus confiou. Em crise, administrar bem é aceitar ajuda e não decidir sozinho contra a vida."
+    },
+    {
+      "id": "B03",
+      "explanation": "O **senhorio de Deus** não humilha quem sofre. Ele lembra que a vida tem origem e destino em Deus. Reconhecer esse limite abre caminho para pedir socorro, graça e cuidado."
+    },
+    {
+      "id": "B04",
+      "explanation": "A **dignidade inviolável** não depende de saúde, sucesso ou reputação. O sofrimento pode ferir a pessoa, mas não apagar sua imagem de Deus. Por isso ninguém deve ser tratado como descartável."
+    },
+    {
+      "id": "B05",
+      "explanation": "O **justo amor de si** não é egoísmo. É reconhecer que a própria vida deve ser protegida e conduzida ao bem. Quem errou precisa conversão e reparação, não autodestruição."
+    },
+    {
+      "id": "B06",
+      "explanation": "Os **vínculos de solidariedade** mostram que ninguém vive isolado diante de Deus. O suicídio fere família, comunidade e sociedade. A resposta cristã é carregar pesos juntos, não abandonar quem caiu."
+    },
+    {
+      "id": "B07",
+      "explanation": "Deus está perto do **coração abatido**. A pessoa pode não sentir consolo, mas não está fora do alcance do Senhor. Essa verdade sustenta esperança e impede o abandono."
+    },
+    {
+      "id": "B08",
+      "explanation": "Cristo chama os **aflitos** a irem a Ele. Esse alívio não é fuga mágica, mas graça para atravessar o fardo com ajuda real. O cuidado cristão une oração, presença e meios concretos."
+    },
+    {
+      "id": "B09",
+      "explanation": "A **esperança da salvação** impede a condenação apressada. A Igreja não nega a gravidade do suicídio, mas confia a pessoa à misericórdia de Deus. Não nos cabe fechar o juízo que só Deus conhece."
+    },
+    {
+      "id": "B10",
+      "explanation": "A Igreja **reza pelos que morreram**, também quando atentaram contra a própria vida. Essa oração não aprova o ato, mas entrega a pessoa a Deus. É esperança sóbria, não negação da gravidade."
+    },
+    {
+      "id": "B11",
+      "explanation": "A **responsabilidade diminuída** é uma distinção essencial. Sofrimento psíquico grave, angústia e medo podem reduzir liberdade e culpa. Só Deus conhece plenamente o interior de cada pessoa."
+    },
+    {
+      "id": "B12",
+      "explanation": "A **gravidade objetiva** do suicídio deve ser nomeada. Ele contradiz o amor a si, ao próximo e a Deus. Nomear a gravidade não autoriza dureza contra quem sofre."
+    },
+    {
+      "id": "B13",
+      "explanation": "A **graça na provação** sustenta a pessoa quando suas forças parecem acabar. Deus não exige que alguém atravesse a crise sozinho. A graça pode chegar pela oração, pelos sacramentos, pela comunidade e pelo tratamento."
+    },
+    {
+      "id": "B14",
+      "explanation": "O **escândalo dos vulneráveis** acontece quando o suicídio é exibido como exemplo, beleza ou solução. Isso pode ferir quem já está frágil. A caridade exige discrição e proteção."
+    },
+    {
+      "id": "B15",
+      "explanation": "A **caridade que vigia** presta atenção sem invadir. Ela percebe sinais, aproxima-se com respeito e age quando há risco. Amar não é só sentir compaixão, mas proteger concretamente."
+    },
+    {
+      "id": "I01",
+      "explanation": "O **pensamento suicida** é sinal sério de sofrimento. Mesmo sem gesto externo, ele pede escuta, presença e ajuda responsável. Minimizar pode aumentar o isolamento da pessoa."
+    },
+    {
+      "id": "I02",
+      "explanation": "A **autolesão** revela sofrimento grave, mesmo quando não há intenção clara de morrer. O corpo não deve ser tratado como lugar de descarga da dor. A resposta é cuidado adulto, proteção e tratamento."
+    },
+    {
+      "id": "I03",
+      "explanation": "O **luto por suicídio** costuma trazer culpa, raiva, silêncio e perguntas sem resposta. A Igreja não alimenta curiosidade nem acusação. Ela chora com quem chora e reza com esperança."
+    },
+    {
+      "id": "I04",
+      "explanation": "A **depressão grave** pode ferir energia, esperança e liberdade interior. Não é simples tristeza nem falta de Deus. Por isso a resposta precisa unir cuidado espiritual, familiar e profissional."
+    },
+    {
+      "id": "I05",
+      "explanation": "A **angústia intensa** pode fechar o horizonte da pessoa. Ela pode falar a partir do medo e do desespero, não de uma decisão livre e serena. A resposta é presença calma e ajuda imediata."
+    },
+    {
+      "id": "I06",
+      "explanation": "A **dependência química** pode destruir vínculos e enfraquecer o juízo. Ela não apaga a dignidade da pessoa, mas exige responsabilidade e tratamento. A caridade ajuda sem negar limites."
+    },
+    {
+      "id": "I07",
+      "explanation": "A **dor sem trégua** pode levar ao desespero quando a pessoa se sente abandonada. A fé exige aliviar o sofrimento, não eliminar quem sofre. Cuidado paliativo, presença e tratamento são respostas morais."
+    },
+    {
+      "id": "I08",
+      "explanation": "A **ruína financeira** pode fazer a pessoa se enxergar como fracasso total. Essa conclusão é falsa. O valor da vida não depende de patrimônio, emprego ou capacidade de sustento."
+    },
+    {
+      "id": "I09",
+      "explanation": "A **vergonha pública** pode prender a pessoa ao pior olhar dos outros. A exposição agrava a ferida e pode aumentar o risco. A resposta cristã é cortar humilhação, proteger a dignidade e buscar reparação."
+    },
+    {
+      "id": "I10",
+      "explanation": "O **isolamento silencioso** nem sempre significa risco, mas pode ser sinal importante. Mudanças graves de rotina merecem atenção respeitosa. A caridade se aproxima antes que a pessoa desapareça por completo."
+    },
+    {
+      "id": "I11",
+      "explanation": "A **fala de despedida** deve ser levada a sério. Mensagens de encerramento, doações e frases finais podem indicar risco. Não se interpreta isso sozinho: pergunta-se com clareza e avisa-se quem pode ajudar."
+    },
+    {
+      "id": "I12",
+      "explanation": "A **humilhação persistente** corrói a pessoa por dentro. Ela não é brincadeira nem formação de caráter. Palavra cristã corrige sem destruir e protege o vulnerável."
+    },
+    {
+      "id": "I13",
+      "explanation": "O **abuso e medo grave** podem reduzir muito a liberdade da vítima. A pessoa ameaçada pode não enxergar saída segura. A resposta moral é proteção, ajuda competente e recusa de qualquer julgamento simplista."
+    },
+    {
+      "id": "I14",
+      "explanation": "O **idoso abandonado** pode sentir que já não pertence a ninguém. Essa dor precisa ser vista como ferida real. A dignidade permanece, e a caridade deve tornar-se presença e cuidado."
+    },
+    {
+      "id": "I15",
+      "explanation": "A **exaustão profissional** pode romper a resistência psíquica e espiritual. Não é virtude destruir-se trabalhando. O descanso, o limite e o atendimento podem ser exigências concretas de cuidado da vida."
+    },
+    {
+      "id": "N01",
+      "explanation": "A **falsa autonomia** transforma liberdade em posse absoluta da vida. A fé cristã afirma que somos administradores diante de Deus. A liberdade verdadeira reconhece vínculos e aceita cuidado."
+    },
+    {
+      "id": "N02",
+      "explanation": "A mentira da **saída única** nasce quando o desespero estreita a visão. Sentir que não há saída não prova que não há saída. A resposta é abrir presença, tempo, ajuda e graça."
+    },
+    {
+      "id": "N03",
+      "explanation": "A **mentira de ser peso** confunde precisar de ajuda com não ter valor. Dependência e doença podem cansar, mas não tornam ninguém descartável. A caridade carrega fardos sem negar dignidade."
+    },
+    {
+      "id": "N04",
+      "explanation": "A **romantização da morte** embeleza uma destruição real. Ela pode transformar o suicídio em gesto admirável ou poético. A verdade cristã recusa esse encanto falso e protege os vulneráveis."
+    },
+    {
+      "id": "N05",
+      "explanation": "A **vingança pela dor** usa a própria vida como arma contra outro. Isso não repara a ferida e ainda produz novo mal. A resposta é proteger a pessoa e romper a lógica de manipulação."
+    },
+    {
+      "id": "N06",
+      "explanation": "A **vergonha sem volta** diz que um erro ou exposição encerra a história. A fé cristã não nega culpa nem consequência, mas anuncia conversão e recomeço. Desespero não é arrependimento."
+    },
+    {
+      "id": "N07",
+      "explanation": "A **fé sem tratamento** é uma falsa espiritualidade. Oração e cuidado médico não são inimigos. Deus pode agir por sacramentos, pessoas, ciência e tratamento responsável."
+    },
+    {
+      "id": "N08",
+      "explanation": "A **condenação apressada** fala como se conhecesse o juízo final. O Catecismo manda não desesperar da salvação de quem se matou. A Igreja reza e entrega a pessoa à misericórdia de Deus."
+    },
+    {
+      "id": "N09",
+      "explanation": "O **silêncio protetor** parece lealdade, mas pode virar omissão. Quando há risco de vida, segredo absoluto não protege. Avisar responsáveis é ato de caridade."
+    },
+    {
+      "id": "N10",
+      "explanation": "A **prova de amor falsa** usa ameaça de morte para controlar. A ameaça deve ser levada a sério, mas não obedecida como chantagem. Protege-se a pessoa e mantém-se o limite justo."
+    },
+    {
+      "id": "N11",
+      "explanation": "O **desprezo da doença** chama sofrimento grave de drama ou falta de fé. Isso cala a pessoa e atrasa socorro. A fé cristã reconhece a doença psíquica e pede cuidado concreto."
+    },
+    {
+      "id": "N12",
+      "explanation": "A **coragem invertida** chama autodestruição de força. Coragem verdadeira persevera no bem, mesmo com medo e vergonha. Pedir ajuda pode ser um ato firme de esperança."
+    },
+    {
+      "id": "N13",
+      "explanation": "A **exposição do sofrimento** transforma crise em conteúdo. Comentários, prints e detalhes podem humilhar e ferir outros vulneráveis. A caridade corta circulação e preserva a pessoa."
+    },
+    {
+      "id": "N14",
+      "explanation": "A **culpa total dos vivos** simplifica uma realidade complexa. Familiares podem ter responsabilidades, mas não controlam totalmente doença, liberdade e sofrimento do outro. O luto precisa de misericórdia e verdade."
+    },
+    {
+      "id": "N15",
+      "explanation": "O **desespero como verdade** confunde sentimento intenso com realidade final. A pessoa sente abandono, mas isso não prova que esteja abandonada. A fé confronta o desespero com a presença de Deus e ajuda concreta."
+    },
+    {
+      "id": "G01",
+      "explanation": "A distinção entre **ato e pessoa** é decisiva. O suicídio é objetivamente grave, mas a pessoa não se reduz ao ato. A Igreja condena o mal e reza por quem morreu."
+    },
+    {
+      "id": "G02",
+      "explanation": "A distinção entre **culpa e responsabilidade** evita julgamentos rasos. Um ato pode ser grave em si mesmo e a culpa subjetiva pode estar diminuída. Sofrimento psíquico e medo grave importam moralmente."
+    },
+    {
+      "id": "G03",
+      "explanation": "Nem todo **impulso** é consentimento. Pensamentos destrutivos podem surgir e assustar a pessoa sem serem escolhidos livremente. O sinal pede ajuda e proteção, não culpa automática."
+    },
+    {
+      "id": "G04",
+      "explanation": "A distinção entre **sofrimento e pecado** impede duas respostas erradas. Não se deve aprovar o suicídio, mas também não se deve esmagar quem sofre. Verdade e misericórdia precisam caminhar juntas."
+    },
+    {
+      "id": "G05",
+      "explanation": "A **compaixão** não exige relativizar o mal. Chamar o suicídio de simples escolha pessoal enfraquece a defesa da vida. A misericórdia cristã acolhe sem falsificar a verdade."
+    },
+    {
+      "id": "G06",
+      "explanation": "**Acolhida** não é aprovação de toda fala da pessoa em crise. É possível validar a dor e negar a conclusão mortal. Quem ama escuta, mas também protege."
+    },
+    {
+      "id": "G07",
+      "explanation": "**Sigilo e proteção** não têm o mesmo peso quando há risco de vida. Guardar segredo pode impedir socorro. O correto é avisar quem pode agir com responsabilidade."
+    },
+    {
+      "id": "G08",
+      "explanation": "**Prudência** não é paralisia. Ela escolhe o meio correto, no momento correto, com respeito e firmeza. Quando há sinais sérios, esperar por medo pode ser omissão."
+    },
+    {
+      "id": "G09",
+      "explanation": "**Oração e tratamento** pertencem ao mesmo cuidado integral quando bem ordenados. Recusar ajuda profissional por falsa piedade pode ser perigoso. A fé usa os meios legítimos que Deus oferece."
+    },
+    {
+      "id": "G10",
+      "explanation": "O **luto** precisa falar da dor, mas não virar tribunal. Acusações simplistas ferem quem já está devastado. A resposta cristã une verdade, oração e amparo."
+    },
+    {
+      "id": "G11",
+      "explanation": "**Alerta e chantagem** podem aparecer misturados. A ameaça deve ser tratada como risco, mas não como ordem a obedecer. Chama-se ajuda responsável e mantém-se limite justo."
+    },
+    {
+      "id": "G12",
+      "explanation": "**Cuidado** não é controle total. Proteger alguém em risco exige presença e limites proporcionais, não invasão permanente. Acompanhamento sério inclui responsáveis e profissionais."
+    },
+    {
+      "id": "G13",
+      "explanation": "A distinção entre **fardo e dignidade** corrige uma mentira comum. Cuidar pode cansar, mas a pessoa cuidada não vale menos. A caridade carrega pesos sem descartar vidas."
+    },
+    {
+      "id": "G14",
+      "explanation": "**Tratamento e obstinação** precisam ser distinguidos. Recusar procedimento desproporcional não é o mesmo que suicídio ou eutanásia. O cuidado devido, o alívio e a presença permanecem obrigatórios."
+    },
+    {
+      "id": "G15",
+      "explanation": "**Esperança e certeza** não são a mesma coisa. A Igreja espera na misericórdia de Deus, mas não finge conhecer plenamente o juízo divino. Por isso reza com humildade e confiança."
+    },
+    {
+      "id": "O01",
+      "explanation": "**Perguntar com clareza** pode salvar a conversa da ambiguidade. A pergunta deve ser calma, direta e respeitosa. Se houver risco, ela deve levar a presença e ajuda responsável."
+    },
+    {
+      "id": "O02",
+      "explanation": "**Permanecer junto** é resposta concreta diante de risco imediato. A pessoa não deve ser deixada sozinha enquanto a crise está aberta. Mas quem ajuda também deve chamar uma rede responsável."
+    },
+    {
+      "id": "O03",
+      "explanation": "**Avisar responsável** pode parecer traição, mas é proteção. Risco de vida não deve ser carregado em segredo por uma pessoa só. A caridade escolhe preservar a vida."
+    },
+    {
+      "id": "O04",
+      "explanation": "**Acionar emergência** é necessário quando o risco é imediato. Conversa, boa vontade e oração não substituem ajuda competente nesse momento. A ordem cristã é proteger primeiro."
+    },
+    {
+      "id": "O05",
+      "explanation": "**Reduzir riscos imediatos** é medida prática de proteção. Isso deve ser feito com discrição e ajuda responsável, sem exposição. Cuidar da vida inclui diminuir perigos enquanto chega atendimento."
+    },
+    {
+      "id": "O06",
+      "explanation": "**Encaminhar ao tratamento** transforma preocupação em passo real. Conselhos soltos não bastam diante de sofrimento grave. A pessoa precisa chegar a quem pode avaliar e acompanhar."
+    },
+    {
+      "id": "O07",
+      "explanation": "**Acompanhar passos reais** evita que a ajuda fique só na intenção. Confirmar consulta, retorno e presença pode sustentar a pessoa. Esse cuidado deve ter limites e envolver a rede adequada."
+    },
+    {
+      "id": "O08",
+      "explanation": "**Falar sem julgamento** não significa falar sem verdade. A palavra deve acolher, nomear a seriedade e encaminhar ajuda. Humilhação e minimização fecham a porta do cuidado."
+    },
+    {
+      "id": "O09",
+      "explanation": "**Combinar segurança** ajuda a atravessar a crise com passos claros. A pessoa e a rede precisam saber quem chamar e como agir. Isso reduz improviso e isolamento."
+    },
+    {
+      "id": "O10",
+      "explanation": "**Rezar e sustentar** une fé e caridade concreta. A oração leva o fardo a Cristo, mas não dispensa visitas, tratamento e ajuda prática. Quem reza também serve."
+    },
+    {
+      "id": "O11",
+      "explanation": "**Buscar os sacramentos** abre a vida ferida à graça de Deus. Confissão, Eucaristia, unção quando cabível e direção espiritual podem sustentar a esperança. Isso deve caminhar junto com tratamento necessário."
+    },
+    {
+      "id": "O12",
+      "explanation": "**Amparar enlutados** exige presença discreta. Perguntas invasivas, acusações e boatos ferem ainda mais. A Igreja responde com oração, escuta e ajuda prática."
+    },
+    {
+      "id": "O13",
+      "explanation": "**Cortar exposição** é proteger a pessoa, a família e outros vulneráveis. Não se compartilham detalhes, imagens, prints ou boatos. A caridade interrompe a circulação do dano."
+    },
+    {
+      "id": "O14",
+      "explanation": "**Reparar vínculos** é mais do que sentir culpa. É pedir perdão, mudar condutas e assumir presença possível. A caridade restaura relações com atos concretos."
+    },
+    {
+      "id": "O15",
+      "explanation": "**Observar sinais** não é diagnosticar todo sofrimento. É notar mudanças graves, falas de morte, isolamento e despedidas. A atenção cristã se aproxima cedo e busca ajuda quando necessário."
+    }
+  ]
+}

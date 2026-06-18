@@ -1,0 +1,1272 @@
+{
+  "title": "Bingo — Discípulos missionários",
+  "meeting": "Encontro 35 — Discípulos missionários",
+  "meeting_label": "Encontro 35",
+  "output_slug": "bingo_discipulos_missionarios",
+  "core_message": "Ser discípulo missionário é permanecer em Cristo, professar a fé com coragem e autenticá-la por uma vida coerente, obras concretas de caridade e anúncio fiel do Evangelho.",
+  "source_meeting_markdown": "projects/catequese/material_didatico/output/markdown/encontro_35.md",
+  "scripture": [
+    "1Cor 9,16",
+    "Mt 7,21",
+    "Mt 10,32-33",
+    "Mt 28,19-20",
+    "At 1,8",
+    "Jo 15,5",
+    "Jo 13,35",
+    "Mt 5,16",
+    "Tg 2,17",
+    "1Pd 3,15",
+    "Lc 10,25-37",
+    "2Cor 5,20"
+  ],
+  "catechism": [
+    "CEC 1816",
+    "CEC 2044",
+    "CEC 849",
+    "CEC 863",
+    "CEC 864",
+    "CEC 900",
+    "CEC 905",
+    "CEC 1814",
+    "CEC 1822",
+    "CEC 2447",
+    "CEC 2472",
+    "CEC 2473"
+  ],
+  "card_model": {
+    "total_terms": 75,
+    "columns": 5,
+    "terms_per_column": 15,
+    "grid": "5x5",
+    "center": {
+      "label": "LIVRE / 1Cor 9,16; Mt 7,21; DAp 386",
+      "fixed": true,
+      "called": false
+    },
+    "recommended_win_condition": "duas_linhas"
+  },
+  "columns": [
+    {
+      "key": "B",
+      "title": "Base moral",
+      "function": "Fundamentos bíblicos e doutrinais para ler o tema.",
+      "short_function": "fundamento cristão do tema"
+    },
+    {
+      "key": "I",
+      "title": "Situações concretas",
+      "function": "Formas reais em que o tema aparece na vida concreta, em situações inteligíveis para a turma.",
+      "short_function": "situações concretas do tema"
+    },
+    {
+      "key": "N",
+      "title": "Narrativas falsas",
+      "function": "Desculpas, autoenganos e frases que desviam do bem.",
+      "short_function": "desculpas que normalizam o erro"
+    },
+    {
+      "key": "G",
+      "title": "Discernimentos",
+      "function": "Distinções morais que evitam respostas simplistas.",
+      "short_function": "distinções para discernir"
+    },
+    {
+      "key": "O",
+      "title": "Orientações de resposta",
+      "function": "Ações concretas, prudentes e proporcionais diante do problema.",
+      "short_function": "respostas proporcionais e prudentes"
+    }
+  ],
+  "terms": [
+    {
+      "id": "B01",
+      "column": "B",
+      "label": "Chamado batismal",
+      "definition": "A missão nasce do Batismo e da Confirmação, não de gosto pessoal, cargo ou visibilidade religiosa.",
+      "anchors": [
+        "Mt 28,19-20",
+        "CEC 900",
+        "CEC 863"
+      ],
+      "tags": [
+        "vocação",
+        "batismo",
+        "missão"
+      ]
+    },
+    {
+      "id": "B02",
+      "column": "B",
+      "label": "Urgência do Evangelho",
+      "definition": "Quem foi alcançado por Cristo reconhece que anunciar o Evangelho é necessidade interior e responsabilidade diante de Deus.",
+      "anchors": [
+        "1Cor 9,16",
+        "CEC 1816"
+      ],
+      "tags": [
+        "anúncio",
+        "responsabilidade",
+        "evangelho"
+      ]
+    },
+    {
+      "id": "B03",
+      "column": "B",
+      "label": "Vontade do Pai",
+      "definition": "A autenticidade do discípulo se mede pela obediência concreta a Deus, e não pela repetição de palavras religiosas.",
+      "anchors": [
+        "Mt 7,21",
+        "CEC 2044"
+      ],
+      "tags": [
+        "obediência",
+        "coerência",
+        "verdade"
+      ]
+    },
+    {
+      "id": "B04",
+      "column": "B",
+      "label": "Fé professada",
+      "definition": "A fé cristã deve ser guardada, vivida, confessada diante dos homens e difundida com firmeza.",
+      "anchors": [
+        "Mt 10,32-33",
+        "CEC 1816"
+      ],
+      "tags": [
+        "profissão",
+        "coragem",
+        "fé"
+      ]
+    },
+    {
+      "id": "B05",
+      "column": "B",
+      "label": "Testemunho de vida",
+      "definition": "A vida coerente do cristão autentica a mensagem que ele anuncia e torna visível a força do Evangelho.",
+      "anchors": [
+        "Mt 5,16",
+        "CEC 2044"
+      ],
+      "tags": [
+        "coerência",
+        "vida",
+        "testemunho"
+      ]
+    },
+    {
+      "id": "B06",
+      "column": "B",
+      "label": "Obras concretas",
+      "definition": "O amor cristão não fica em intenção ou discurso; ele se mostra em atitudes reais diante da dor do próximo.",
+      "anchors": [
+        "DAp 386",
+        "Tg 2,17",
+        "CEC 2447"
+      ],
+      "tags": [
+        "caridade",
+        "obras",
+        "próximo"
+      ]
+    },
+    {
+      "id": "B07",
+      "column": "B",
+      "label": "Comunhão com Cristo",
+      "definition": "A missão cristã frutifica quando nasce da união com Cristo, pois sem Ele a ação religiosa vira ativismo vazio.",
+      "anchors": [
+        "Jo 15,5",
+        "CEC 864"
+      ],
+      "tags": [
+        "oração",
+        "Cristo",
+        "fecundidade"
+      ]
+    },
+    {
+      "id": "B08",
+      "column": "B",
+      "label": "Caridade missionária",
+      "definition": "O anúncio do Evangelho deve brotar do amor a Deus e ao próximo, não de vaidade, pressão ou desejo de vencer discussão.",
+      "anchors": [
+        "Jo 13,35",
+        "CEC 1822",
+        "DAp 386"
+      ],
+      "tags": [
+        "caridade",
+        "anúncio",
+        "amor"
+      ]
+    },
+    {
+      "id": "B09",
+      "column": "B",
+      "label": "Esperança anunciada",
+      "definition": "O cristão deve saber dar razão da esperança que recebeu, com clareza, mansidão e respeito.",
+      "anchors": [
+        "1Pd 3,15",
+        "CEC 1816"
+      ],
+      "tags": [
+        "esperança",
+        "razão",
+        "testemunho"
+      ]
+    },
+    {
+      "id": "B10",
+      "column": "B",
+      "label": "Cruz no seguimento",
+      "definition": "Seguir e anunciar Cristo inclui renúncia, contradição e fidelidade em meio a pressões que nunca faltam à Igreja.",
+      "anchors": [
+        "Mt 10,32-33",
+        "CEC 1816"
+      ],
+      "tags": [
+        "cruz",
+        "fidelidade",
+        "perseverança"
+      ]
+    },
+    {
+      "id": "B11",
+      "column": "B",
+      "label": "Graça que transforma",
+      "definition": "A missão cristã não é autoprodução moral; é resposta à graça que converte a pessoa por dentro e a envia.",
+      "anchors": [
+        "Jo 15,5",
+        "CEC 1814",
+        "CEC 864"
+      ],
+      "tags": [
+        "graça",
+        "conversão",
+        "missão"
+      ]
+    },
+    {
+      "id": "B12",
+      "column": "B",
+      "label": "Igreja enviada",
+      "definition": "Toda a Igreja é apostólica e missionária, enviada por Cristo para comunicar a vida dele a todas as pessoas.",
+      "anchors": [
+        "Mt 28,19-20",
+        "At 1,8",
+        "CEC 849",
+        "CEC 863"
+      ],
+      "tags": [
+        "Igreja",
+        "envio",
+        "apostolado"
+      ]
+    },
+    {
+      "id": "B13",
+      "column": "B",
+      "label": "Verdade com mansidão",
+      "definition": "O testemunho cristão exige verdade sem agressão e mansidão sem covardia diante da fé.",
+      "anchors": [
+        "1Pd 3,15",
+        "CEC 2472"
+      ],
+      "tags": [
+        "verdade",
+        "mansidão",
+        "firmeza"
+      ]
+    },
+    {
+      "id": "B14",
+      "column": "B",
+      "label": "Santidadade cotidiana",
+      "definition": "A missão aparece na fidelidade diária: trabalho honesto, palavra verdadeira, perdão, serviço e responsabilidade concreta.",
+      "anchors": [
+        "Mt 5,16",
+        "CEC 2044",
+        "CEC 905"
+      ],
+      "tags": [
+        "santidade",
+        "cotidiano",
+        "coerência"
+      ]
+    },
+    {
+      "id": "B15",
+      "column": "B",
+      "label": "Encontro que envia",
+      "definition": "Encontrar Cristo não termina em experiência privada; quem recebe o tesouro da fé é enviado a partilhá-lo.",
+      "anchors": [
+        "1Cor 9,16",
+        "2Cor 5,20",
+        "DAp 386"
+      ],
+      "tags": [
+        "encontro",
+        "envio",
+        "partilha"
+      ]
+    },
+    {
+      "id": "I01",
+      "column": "I",
+      "label": "Fé de gaveta",
+      "definition": "Situação em que a fé é mantida como lembrança privada, sem influenciar decisões, palavras, vínculos e responsabilidades.",
+      "anchors": [
+        "Mt 7,21",
+        "CEC 2044",
+        "B03"
+      ],
+      "tags": [
+        "incoerência",
+        "privatização",
+        "fé"
+      ]
+    },
+    {
+      "id": "I02",
+      "column": "I",
+      "label": "Religião de fachada",
+      "definition": "Uso externo de sinais religiosos enquanto a vida concreta contradiz gravemente o Evangelho.",
+      "anchors": [
+        "Mt 7,21",
+        "CEC 2044",
+        "B05"
+      ],
+      "tags": [
+        "aparência",
+        "hipocrisia",
+        "testemunho"
+      ]
+    },
+    {
+      "id": "I03",
+      "column": "I",
+      "label": "Omissão por vergonha",
+      "definition": "Silêncio diante da fé ou do bem por medo de julgamento, ridicularização ou perda de aceitação.",
+      "anchors": [
+        "Mt 10,32-33",
+        "CEC 1816",
+        "B04"
+      ],
+      "tags": [
+        "vergonha",
+        "silêncio",
+        "coragem"
+      ]
+    },
+    {
+      "id": "I04",
+      "column": "I",
+      "label": "Ativismo sem oração",
+      "definition": "Acúmulo de ações religiosas ou solidárias sem comunhão com Cristo, sem escuta e sem conversão interior.",
+      "anchors": [
+        "Jo 15,5",
+        "CEC 864",
+        "B07"
+      ],
+      "tags": [
+        "ativismo",
+        "oração",
+        "discernimento"
+      ]
+    },
+    {
+      "id": "I05",
+      "column": "I",
+      "label": "Anúncio sem coerência",
+      "definition": "Fala sobre Deus enfraquecida por atitudes habituais de mentira, exploração, desprezo ou irresponsabilidade.",
+      "anchors": [
+        "CEC 2044",
+        "Mt 5,16",
+        "B05"
+      ],
+      "tags": [
+        "coerência",
+        "escândalo",
+        "anúncio"
+      ]
+    },
+    {
+      "id": "I06",
+      "column": "I",
+      "label": "Caridade sem rosto",
+      "definition": "Ajuda impessoal ou teatral que fala de amor ao próximo, mas não escuta a dor concreta de quem sofre.",
+      "anchors": [
+        "DAp 386",
+        "Lc 10,25-37",
+        "B06"
+      ],
+      "tags": [
+        "caridade",
+        "pobreza",
+        "escuta"
+      ]
+    },
+    {
+      "id": "I07",
+      "column": "I",
+      "label": "Trabalho injusto",
+      "definition": "Ambiente onde a fé é contradita por exploração, fraude, desprezo ao trabalhador ou lucro acima da dignidade humana.",
+      "anchors": [
+        "Mt 7,21",
+        "CEC 2044",
+        "B14"
+      ],
+      "tags": [
+        "trabalho",
+        "justiça",
+        "coerência"
+      ]
+    },
+    {
+      "id": "I08",
+      "column": "I",
+      "label": "Família sem testemunho",
+      "definition": "Casa onde a linguagem religiosa convive com agressividade, mentira, abandono ou incapacidade de pedir perdão.",
+      "anchors": [
+        "Mt 5,16",
+        "CEC 2044",
+        "B05"
+      ],
+      "tags": [
+        "família",
+        "coerência",
+        "perdão"
+      ]
+    },
+    {
+      "id": "I09",
+      "column": "I",
+      "label": "Vitrine digital",
+      "definition": "Uso da imagem religiosa nas redes para parecer virtuoso, sem compromisso real com conversão, serviço e verdade.",
+      "anchors": [
+        "Mt 7,21",
+        "CEC 2044",
+        "B13"
+      ],
+      "tags": [
+        "redes",
+        "aparência",
+        "vaidade"
+      ]
+    },
+    {
+      "id": "I10",
+      "column": "I",
+      "label": "Serviço invisível",
+      "definition": "Bem realizado sem palco, reconhecimento ou aplauso, mas com fidelidade concreta ao próximo e a Deus.",
+      "anchors": [
+        "Mt 5,16",
+        "DAp 386",
+        "B06"
+      ],
+      "tags": [
+        "serviço",
+        "humildade",
+        "caridade"
+      ]
+    },
+    {
+      "id": "I11",
+      "column": "I",
+      "label": "Escuta do ferido",
+      "definition": "Situação em que alguém só reconhece a dor do outro quando para, escuta e deixa de responder com frases prontas.",
+      "anchors": [
+        "Lc 10,25-37",
+        "DAp 386",
+        "B08"
+      ],
+      "tags": [
+        "escuta",
+        "compaixão",
+        "próximo"
+      ]
+    },
+    {
+      "id": "I12",
+      "column": "I",
+      "label": "Perseguição discreta",
+      "definition": "Pressão cotidiana que ridiculariza, isola ou pune quem tenta viver a fé com coerência e sobriedade.",
+      "anchors": [
+        "Mt 10,32-33",
+        "CEC 1816",
+        "B10"
+      ],
+      "tags": [
+        "pressão",
+        "perseverança",
+        "fé"
+      ]
+    },
+    {
+      "id": "I13",
+      "column": "I",
+      "label": "Comunidade fechada",
+      "definition": "Grupo cristão que se protege tanto de sair ao encontro dos outros que transforma a fé em círculo fechado.",
+      "anchors": [
+        "Mt 28,19-20",
+        "CEC 849",
+        "B12"
+      ],
+      "tags": [
+        "Igreja",
+        "saída",
+        "missão"
+      ]
+    },
+    {
+      "id": "I14",
+      "column": "I",
+      "label": "Boa obra exibida",
+      "definition": "Ajuda feita mais para construir reputação do que para servir com discrição e respeito a quem precisa.",
+      "anchors": [
+        "Mt 5,16",
+        "DAp 386",
+        "B08"
+      ],
+      "tags": [
+        "vaidade",
+        "caridade",
+        "intenção"
+      ]
+    },
+    {
+      "id": "I15",
+      "column": "I",
+      "label": "Medo de convidar",
+      "definition": "Hesitação em convidar alguém para a fé, a oração ou a comunidade por receio de parecer inconveniente.",
+      "anchors": [
+        "1Cor 9,16",
+        "1Pd 3,15",
+        "B09"
+      ],
+      "tags": [
+        "convite",
+        "medo",
+        "anúncio"
+      ]
+    },
+    {
+      "id": "N01",
+      "column": "N",
+      "label": "Fé só privada",
+      "definition": "Engano que reduz a fé a sentimento íntimo e nega sua exigência pública de testemunho e coerência.",
+      "anchors": [
+        "Mt 10,32-33",
+        "CEC 1816",
+        "B04"
+      ],
+      "tags": [
+        "privatização",
+        "autoengano",
+        "fé"
+      ]
+    },
+    {
+      "id": "N02",
+      "column": "N",
+      "label": "Basta dizer Senhor",
+      "definition": "Narrativa falsa que troca obediência real por linguagem religiosa, presença externa ou discurso piedoso.",
+      "anchors": [
+        "Mt 7,21",
+        "B03"
+      ],
+      "tags": [
+        "formalismo",
+        "hipocrisia",
+        "obediência"
+      ]
+    },
+    {
+      "id": "N03",
+      "column": "N",
+      "label": "Missão é para especialistas",
+      "definition": "Desculpa que entrega a missão apenas a padres, religiosos ou agentes pastorais e esquece o chamado dos batizados.",
+      "anchors": [
+        "CEC 900",
+        "CEC 905",
+        "B01"
+      ],
+      "tags": [
+        "omissão",
+        "batismo",
+        "missão"
+      ]
+    },
+    {
+      "id": "N04",
+      "column": "N",
+      "label": "Sem tempo para Deus",
+      "definition": "Autoengano que organiza a vida como se Deus fosse resto de agenda, não origem, critério e fim da missão.",
+      "anchors": [
+        "Jo 15,5",
+        "B07"
+      ],
+      "tags": [
+        "ativismo",
+        "oração",
+        "prioridade"
+      ]
+    },
+    {
+      "id": "N05",
+      "column": "N",
+      "label": "Vida dupla normal",
+      "definition": "Narrativa que trata incoerência grave e habitual como detalhe inevitável, sem necessidade de conversão.",
+      "anchors": [
+        "CEC 2044",
+        "Mt 7,21",
+        "B05"
+      ],
+      "tags": [
+        "incoerência",
+        "conversão",
+        "escândalo"
+      ]
+    },
+    {
+      "id": "N06",
+      "column": "N",
+      "label": "Caridade de vitrine",
+      "definition": "Engano que confunde servir com aparecer, usando a dor alheia para produzir imagem de bondade.",
+      "anchors": [
+        "DAp 386",
+        "B08",
+        "I14"
+      ],
+      "tags": [
+        "vaidade",
+        "caridade",
+        "aparência"
+      ]
+    },
+    {
+      "id": "N07",
+      "column": "N",
+      "label": "Não quero incomodar",
+      "definition": "Desculpa que chama de respeito o medo de oferecer uma palavra de fé quando ela poderia ser feita com prudência.",
+      "anchors": [
+        "1Pd 3,15",
+        "1Cor 9,16",
+        "B09"
+      ],
+      "tags": [
+        "medo",
+        "convite",
+        "omissão"
+      ]
+    },
+    {
+      "id": "N08",
+      "column": "N",
+      "label": "Todo mundo decide sozinho",
+      "definition": "Narrativa de falsa autonomia que rejeita qualquer chamado à conversão como invasão da liberdade.",
+      "anchors": [
+        "Mt 7,21",
+        "CEC 1816",
+        "G02"
+      ],
+      "tags": [
+        "autonomia",
+        "conversão",
+        "liberdade"
+      ]
+    },
+    {
+      "id": "N09",
+      "column": "N",
+      "label": "Coerência impossível",
+      "definition": "Autoengano que usa a própria fraqueza como desculpa para desistir da conversão e da fidelidade.",
+      "anchors": [
+        "Jo 15,5",
+        "B11"
+      ],
+      "tags": [
+        "desânimo",
+        "graça",
+        "conversão"
+      ]
+    },
+    {
+      "id": "N10",
+      "column": "N",
+      "label": "Falar já é cumprir",
+      "definition": "Engano que confunde discurso correto com obediência concreta e evita examinar obras, hábitos e escolhas.",
+      "anchors": [
+        "Mt 7,21",
+        "Tg 2,17",
+        "B06"
+      ],
+      "tags": [
+        "discurso",
+        "obras",
+        "formalismo"
+      ]
+    },
+    {
+      "id": "N11",
+      "column": "N",
+      "label": "Silêncio prudente",
+      "definition": "Falsa prudência que encobre medo, comodismo ou cumplicidade quando a verdade deveria ser dita com caridade.",
+      "anchors": [
+        "1Pd 3,15",
+        "CEC 2472",
+        "G07"
+      ],
+      "tags": [
+        "prudência",
+        "omissão",
+        "verdade"
+      ]
+    },
+    {
+      "id": "N12",
+      "column": "N",
+      "label": "Resultado acima de tudo",
+      "definition": "Narrativa que justifica manipulação, agressividade ou mentira em nome de um suposto bem missionário.",
+      "anchors": [
+        "CEC 2044",
+        "1Pd 3,15",
+        "G11"
+      ],
+      "tags": [
+        "meios",
+        "verdade",
+        "manipulação"
+      ]
+    },
+    {
+      "id": "N13",
+      "column": "N",
+      "label": "Só vale o visível",
+      "definition": "Engano que despreza fidelidades pequenas e ocultas porque não geram aplauso, números ou reconhecimento.",
+      "anchors": [
+        "Mt 5,16",
+        "CEC 2044",
+        "I10"
+      ],
+      "tags": [
+        "humildade",
+        "serviço",
+        "visibilidade"
+      ]
+    },
+    {
+      "id": "N14",
+      "column": "N",
+      "label": "Dor alheia é assunto deles",
+      "definition": "Narrativa que separa fé e compaixão, tratando a dor concreta do próximo como problema externo ao discipulado.",
+      "anchors": [
+        "Lc 10,25-37",
+        "DAp 386",
+        "B06"
+      ],
+      "tags": [
+        "indiferença",
+        "caridade",
+        "próximo"
+      ]
+    },
+    {
+      "id": "N15",
+      "column": "N",
+      "label": "Igreja como clube",
+      "definition": "Engano que transforma a comunidade cristã em espaço de conforto interno, sem envio, serviço e abertura missionária.",
+      "anchors": [
+        "Mt 28,19-20",
+        "CEC 849",
+        "I13"
+      ],
+      "tags": [
+        "comunidade",
+        "fechamento",
+        "missão"
+      ]
+    },
+    {
+      "id": "G01",
+      "column": "G",
+      "label": "Discípulo e missionário",
+      "definition": "Distinção que mostra unidade sem separação: o discípulo escuta e segue Cristo, e por isso é enviado a anunciá-lo.",
+      "anchors": [
+        "1Cor 9,16",
+        "Jo 15,5",
+        "DAp 386"
+      ],
+      "tags": [
+        "unidade",
+        "vocação",
+        "envio"
+      ]
+    },
+    {
+      "id": "G02",
+      "column": "G",
+      "label": "Liberdade e envio",
+      "definition": "Distinção entre liberdade verdadeira, que responde ao chamado de Deus, e autonomia fechada que rejeita toda conversão.",
+      "anchors": [
+        "Mt 7,21",
+        "CEC 1816",
+        "N08"
+      ],
+      "tags": [
+        "liberdade",
+        "obediência",
+        "chamado"
+      ]
+    },
+    {
+      "id": "G03",
+      "column": "G",
+      "label": "Palavra e vida",
+      "definition": "Distinção entre anunciar com a boca e confirmar o anúncio com escolhas concretas que tornam a mensagem crível.",
+      "anchors": [
+        "CEC 2044",
+        "Mt 5,16",
+        "B05"
+      ],
+      "tags": [
+        "coerência",
+        "testemunho",
+        "vida"
+      ]
+    },
+    {
+      "id": "G04",
+      "column": "G",
+      "label": "Obra e intenção",
+      "definition": "Distinção entre a ação externa de ajudar e a intenção moral que pode servir o próximo ou alimentar vaidade.",
+      "anchors": [
+        "DAp 386",
+        "B08",
+        "I14"
+      ],
+      "tags": [
+        "intenção",
+        "caridade",
+        "vaidade"
+      ]
+    },
+    {
+      "id": "G05",
+      "column": "G",
+      "label": "Zelo e imposição",
+      "definition": "Distinção entre anunciar com zelo verdadeiro e tentar forçar adesão por pressão, humilhação ou controle.",
+      "anchors": [
+        "1Pd 3,15",
+        "CEC 2472",
+        "B13"
+      ],
+      "tags": [
+        "zelo",
+        "liberdade",
+        "respeito"
+      ]
+    },
+    {
+      "id": "G06",
+      "column": "G",
+      "label": "Mansidão e covardia",
+      "definition": "Distinção entre falar com mansidão evangélica e esconder a verdade por medo de conflito ou rejeição.",
+      "anchors": [
+        "1Pd 3,15",
+        "Mt 10,32-33",
+        "B13"
+      ],
+      "tags": [
+        "mansidão",
+        "coragem",
+        "verdade"
+      ]
+    },
+    {
+      "id": "G07",
+      "column": "G",
+      "label": "Prudência e omissão",
+      "definition": "Distinção entre escolher o modo e o tempo certos para agir e usar a prudência como desculpa para não agir.",
+      "anchors": [
+        "1Pd 3,15",
+        "CEC 2472",
+        "N11"
+      ],
+      "tags": [
+        "prudência",
+        "omissão",
+        "ação"
+      ]
+    },
+    {
+      "id": "G08",
+      "column": "G",
+      "label": "Acolhida e aprovação",
+      "definition": "Distinção entre receber a pessoa com respeito e tratar todo comportamento como moralmente indiferente.",
+      "anchors": [
+        "Jo 13,35",
+        "Mt 7,21",
+        "B08"
+      ],
+      "tags": [
+        "acolhida",
+        "verdade",
+        "caridade"
+      ]
+    },
+    {
+      "id": "G09",
+      "column": "G",
+      "label": "Ferida e desculpa",
+      "definition": "Distinção entre reconhecer a dor real de alguém e transformar a ferida em autorização para permanecer no erro.",
+      "anchors": [
+        "Lc 10,25-37",
+        "Mt 7,21",
+        "B11"
+      ],
+      "tags": [
+        "ferida",
+        "responsabilidade",
+        "cura"
+      ]
+    },
+    {
+      "id": "G10",
+      "column": "G",
+      "label": "Testemunho e fama",
+      "definition": "Distinção entre dar testemunho de Cristo e construir reputação pessoal usando linguagem religiosa.",
+      "anchors": [
+        "Mt 5,16",
+        "CEC 2044",
+        "N06"
+      ],
+      "tags": [
+        "testemunho",
+        "vaidade",
+        "humildade"
+      ]
+    },
+    {
+      "id": "G11",
+      "column": "G",
+      "label": "Firmeza e dureza",
+      "definition": "Distinção entre defender a verdade com caridade e usar a verdade como instrumento de agressão.",
+      "anchors": [
+        "1Pd 3,15",
+        "CEC 2472",
+        "B13"
+      ],
+      "tags": [
+        "firmeza",
+        "caridade",
+        "verdade"
+      ]
+    },
+    {
+      "id": "G12",
+      "column": "G",
+      "label": "Obras e obras mortas",
+      "definition": "Distinção entre obras nascidas da fé e ações corretas por fora, mas desligadas de conversão, caridade e Deus.",
+      "anchors": [
+        "Tg 2,17",
+        "DAp 386",
+        "Jo 15,5"
+      ],
+      "tags": [
+        "obras",
+        "fé",
+        "conversão"
+      ]
+    },
+    {
+      "id": "G13",
+      "column": "G",
+      "label": "Convite e invasão",
+      "definition": "Distinção entre oferecer a fé com liberdade e respeito e invadir a consciência do outro com pressão indevida.",
+      "anchors": [
+        "1Pd 3,15",
+        "1Cor 9,16",
+        "I15"
+      ],
+      "tags": [
+        "convite",
+        "respeito",
+        "anúncio"
+      ]
+    },
+    {
+      "id": "G14",
+      "column": "G",
+      "label": "Êxito e fidelidade",
+      "definition": "Distinção entre medir a missão por resultados visíveis e permanecer fiel mesmo quando os frutos não aparecem logo.",
+      "anchors": [
+        "1Cor 9,16",
+        "Mt 7,21",
+        "B10"
+      ],
+      "tags": [
+        "fidelidade",
+        "resultado",
+        "perseverança"
+      ]
+    },
+    {
+      "id": "G15",
+      "column": "G",
+      "label": "Comunidade e gueto",
+      "definition": "Distinção entre comunidade que forma e envia e grupo fechado que se protege da missão e dos pobres.",
+      "anchors": [
+        "Mt 28,19-20",
+        "CEC 849",
+        "I13"
+      ],
+      "tags": [
+        "comunidade",
+        "envio",
+        "fechamento"
+      ]
+    },
+    {
+      "id": "O01",
+      "column": "O",
+      "label": "Examinar a vida",
+      "definition": "Parar diante de Deus para confrontar palavras, escolhas, hábitos e omissões com a vontade do Pai.",
+      "anchors": [
+        "Mt 7,21",
+        "CEC 2044",
+        "B03"
+      ],
+      "tags": [
+        "exame",
+        "conversão",
+        "coerência"
+      ]
+    },
+    {
+      "id": "O02",
+      "column": "O",
+      "label": "Assumir a fé",
+      "definition": "Dizer e viver a pertença a Cristo sem exibicionismo, vergonha ou agressividade.",
+      "anchors": [
+        "Mt 10,32-33",
+        "CEC 1816",
+        "B04"
+      ],
+      "tags": [
+        "profissão",
+        "coragem",
+        "identidade"
+      ]
+    },
+    {
+      "id": "O03",
+      "column": "O",
+      "label": "Rezar antes de agir",
+      "definition": "Submeter decisões, serviços e palavras missionárias à escuta de Deus para evitar ativismo e vaidade.",
+      "anchors": [
+        "Jo 15,5",
+        "CEC 864",
+        "B07"
+      ],
+      "tags": [
+        "oração",
+        "discernimento",
+        "missão"
+      ]
+    },
+    {
+      "id": "O04",
+      "column": "O",
+      "label": "Falar com mansidão",
+      "definition": "Responder sobre a fé com clareza, respeito e domínio de si, sem ironia, humilhação ou medo.",
+      "anchors": [
+        "1Pd 3,15",
+        "B13",
+        "G06"
+      ],
+      "tags": [
+        "palavra",
+        "mansidão",
+        "verdade"
+      ]
+    },
+    {
+      "id": "O05",
+      "column": "O",
+      "label": "Servir uma dor real",
+      "definition": "Escolher uma necessidade concreta e responder com presença, ajuda proporcional, encaminhamento ou compromisso fiel.",
+      "anchors": [
+        "DAp 386",
+        "Lc 10,25-37",
+        "B06"
+      ],
+      "tags": [
+        "serviço",
+        "caridade",
+        "próximo"
+      ]
+    },
+    {
+      "id": "O06",
+      "column": "O",
+      "label": "Reparar incoerência",
+      "definition": "Reconhecer uma contradição entre fé e vida, pedir perdão quando necessário e mudar o comportamento concreto.",
+      "anchors": [
+        "CEC 2044",
+        "Mt 7,21",
+        "B05"
+      ],
+      "tags": [
+        "reparação",
+        "conversão",
+        "coerência"
+      ]
+    },
+    {
+      "id": "O07",
+      "column": "O",
+      "label": "Convidar sem pressionar",
+      "definition": "Oferecer caminho de fé, oração ou comunidade com liberdade, respeito e abertura para a resposta do outro.",
+      "anchors": [
+        "1Cor 9,16",
+        "1Pd 3,15",
+        "G13"
+      ],
+      "tags": [
+        "convite",
+        "respeito",
+        "anúncio"
+      ]
+    },
+    {
+      "id": "O08",
+      "column": "O",
+      "label": "Escutar antes de responder",
+      "definition": "Ouvir a pessoa e a situação real antes de dar conselho, correção, convite ou julgamento precipitado.",
+      "anchors": [
+        "Lc 10,25-37",
+        "DAp 386",
+        "I11"
+      ],
+      "tags": [
+        "escuta",
+        "prudência",
+        "caridade"
+      ]
+    },
+    {
+      "id": "O09",
+      "column": "O",
+      "label": "Escolher fidelidade pequena",
+      "definition": "Sustentar atos discretos de verdade, serviço, oração e justiça mesmo quando ninguém vê ou aplaude.",
+      "anchors": [
+        "Mt 5,16",
+        "CEC 2044",
+        "I10"
+      ],
+      "tags": [
+        "fidelidade",
+        "humildade",
+        "cotidiano"
+      ]
+    },
+    {
+      "id": "O10",
+      "column": "O",
+      "label": "Cortar a vida dupla",
+      "definition": "Identificar hábitos que desmentem a fé, romper com eles e buscar ajuda concreta para perseverar.",
+      "anchors": [
+        "Mt 7,21",
+        "CEC 2044",
+        "N05"
+      ],
+      "tags": [
+        "conversão",
+        "decisão",
+        "coerência"
+      ]
+    },
+    {
+      "id": "O11",
+      "column": "O",
+      "label": "Formar a consciência",
+      "definition": "Buscar catequese, direção espiritual, bons conselhos e estudo da fé para agir com critério cristão.",
+      "anchors": [
+        "1Pd 3,15",
+        "CEC 1816",
+        "B09"
+      ],
+      "tags": [
+        "formação",
+        "consciência",
+        "discernimento"
+      ]
+    },
+    {
+      "id": "O12",
+      "column": "O",
+      "label": "Dar bom exemplo público",
+      "definition": "Agir com honestidade e caridade em ambientes comuns, deixando que a fé apareça na conduta e não só no discurso.",
+      "anchors": [
+        "Mt 5,16",
+        "CEC 2044",
+        "B14"
+      ],
+      "tags": [
+        "exemplo",
+        "público",
+        "testemunho"
+      ]
+    },
+    {
+      "id": "O13",
+      "column": "O",
+      "label": "Pedir acompanhamento",
+      "definition": "Procurar ajuda madura quando a fé, a moral ou a missão ficam confusas, frágeis ou dominadas por feridas.",
+      "anchors": [
+        "Jo 15,5",
+        "B11",
+        "G09"
+      ],
+      "tags": [
+        "ajuda",
+        "acompanhamento",
+        "cura"
+      ]
+    },
+    {
+      "id": "O14",
+      "column": "O",
+      "label": "Enviar em comunidade",
+      "definition": "Realizar a missão ligado à Igreja, sem isolamento individualista nem fechamento confortável do grupo.",
+      "anchors": [
+        "Mt 28,19-20",
+        "CEC 849",
+        "G15"
+      ],
+      "tags": [
+        "comunidade",
+        "Igreja",
+        "missão"
+      ]
+    },
+    {
+      "id": "O15",
+      "column": "O",
+      "label": "Perseverar na cruz",
+      "definition": "Manter a fidelidade a Cristo quando surgem pressão, lentidão, rejeição ou falta de reconhecimento.",
+      "anchors": [
+        "Mt 10,32-33",
+        "CEC 1816",
+        "B10"
+      ],
+      "tags": [
+        "perseverança",
+        "cruz",
+        "fidelidade"
+      ]
+    }
+  ]
+}

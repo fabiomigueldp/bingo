@@ -1,0 +1,1966 @@
+{
+  "title": "Chamadas — Bingo O respeito à saúde",
+  "meeting": "Encontro 25 — O respeito à saúde",
+  "source_terms": "data/termos.json",
+  "method": {
+    "read_order": [
+      "call_label",
+      "case",
+      "reading_points"
+    ],
+    "rule": "A cada carta, anuncie código e conceito, leia o caso e explique brevemente a relação usando a Leitura do caso. Depois as equipes marcam o código, se estiver na cartela.",
+    "conference_rule": "Ao fechar duas linhas válidas, horizontais, verticais ou diagonais, a equipe escolhe uma dessas linhas completas, explica pelo menos três conceitos da linha escolhida e liga pelo menos um deles à base bíblica ou doutrinal do encontro. As duas linhas podem se cruzar. O centro livre já conta como casa marcada para completar linhas, mas não conta como um dos três conceitos explicados."
+  },
+  "cards": [
+    {
+      "id": "B01",
+      "term_id": "B01",
+      "call_label": "B01 - Corpo templo",
+      "case": "Um atleta volta a treinar antes da liberação médica porque teme perder forma e patrocínio, mesmo sentindo dor forte no joelho.",
+      "conference_question": "Como a imagem do corpo como templo muda a decisão diante da dor, do rendimento e da pressão externa?",
+      "anchors": [
+        "1Cor 6,19-20",
+        "CEC 2288"
+      ],
+      "facilitator_note": "Mostre que o corpo não é instrumento descartável de sucesso.",
+      "reading_points": [
+        {
+          "title": "Uso do corpo",
+          "body": "O caso mostra o corpo tratado como ferramenta de rendimento, não como bem confiado por Deus."
+        },
+        {
+          "title": "Limite real",
+          "body": "A dor e a orientação médica indicam que insistir pode virar negligência grave."
+        },
+        {
+          "title": "Templo de Deus",
+          "body": "Glorificar a Deus no corpo inclui respeitar limites reais e recusar pressão desordenada."
+        }
+      ]
+    },
+    {
+      "id": "B02",
+      "term_id": "B02",
+      "call_label": "B02 - Saúde como dom",
+      "case": "Uma família só procura atendimento quando a doença já está avançada, porque todos dizem que exame preventivo é perda de tempo.",
+      "conference_question": "Por que reconhecer a saúde como dom muda a forma de lidar com prevenção e responsabilidade?",
+      "anchors": [
+        "CEC 2288",
+        "1Ts 5,23"
+      ],
+      "facilitator_note": "Evite culpar situações de pobreza; foque na responsabilidade possível.",
+      "reading_points": [
+        {
+          "title": "Bem recebido",
+          "body": "A saúde não é posse absoluta, mas bem precioso recebido e confiado ao cuidado."
+        },
+        {
+          "title": "Prevenção moral",
+          "body": "Negligenciar sinais e exames possíveis pode transformar descuido em dano evitável."
+        },
+        {
+          "title": "Responsabilidade",
+          "body": "Cuidar do dom recebido é responder a Deus com gratidão concreta."
+        }
+      ]
+    },
+    {
+      "id": "B03",
+      "term_id": "B03",
+      "call_label": "B03 - Dignidade do corpo",
+      "case": "No hospital, um paciente idoso com limitações é tratado por um parente como se fosse apenas gasto e incômodo.",
+      "conference_question": "Que critério cristão impede medir a pessoa pela utilidade, força ou autonomia do corpo?",
+      "anchors": [
+        "Gn 1,27",
+        "CEC 2288"
+      ],
+      "facilitator_note": "Nomeie com firmeza a injustiça de descartar os frágeis.",
+      "reading_points": [
+        {
+          "title": "Pessoa inteira",
+          "body": "A fraqueza corporal não retira a dignidade da pessoa."
+        },
+        {
+          "title": "Erro de medida",
+          "body": "Reduzir alguém ao custo ou à dependência é negar seu valor humano."
+        },
+        {
+          "title": "Imagem de Deus",
+          "body": "A dignidade vem de Deus e permanece na doença, na velhice e na limitação."
+        }
+      ]
+    },
+    {
+      "id": "B04",
+      "term_id": "B04",
+      "call_label": "B04 - Temperança",
+      "case": "Em uma confraternização, uma pessoa continua bebendo e comendo muito além do necessário, embora já esteja agressiva e passando mal.",
+      "conference_question": "Como a temperança ajuda a distinguir festa legítima de excesso que desordena a pessoa?",
+      "anchors": [
+        "CEC 1809",
+        "CEC 2290"
+      ],
+      "facilitator_note": "Não trate prazer como mal; trate o excesso como desordem.",
+      "reading_points": [
+        {
+          "title": "Bem criado",
+          "body": "Comida, bebida e festa podem ser bens quando permanecem ordenados."
+        },
+        {
+          "title": "Perda de domínio",
+          "body": "O excesso aparece quando o prazer passa a comandar a pessoa."
+        },
+        {
+          "title": "Virtude necessária",
+          "body": "A temperança protege a liberdade e conserva os bens no seu lugar."
+        }
+      ]
+    },
+    {
+      "id": "B05",
+      "term_id": "B05",
+      "call_label": "B05 - Justo cuidado",
+      "case": "Uma pessoa alterna semanas de dieta rígida e treino pesado com longos períodos de abandono total, sono ruim e alimentação desordenada.",
+      "conference_question": "O que caracteriza o justo cuidado quando há oscilação entre abandono e controle excessivo?",
+      "anchors": [
+        "CEC 2288",
+        "CEC 2289"
+      ],
+      "facilitator_note": "Valorize a medida, não o perfeccionismo corporal.",
+      "reading_points": [
+        {
+          "title": "Dois extremos",
+          "body": "O caso apresenta tanto negligência quanto rigidez desordenada."
+        },
+        {
+          "title": "Equilíbrio moral",
+          "body": "Cuidar não é idolatrar o corpo nem tratá-lo como coisa sem valor."
+        },
+        {
+          "title": "Caminho cristão",
+          "body": "O justo cuidado busca constância, prudência e gratidão."
+        }
+      ]
+    },
+    {
+      "id": "B06",
+      "term_id": "B06",
+      "call_label": "B06 - Gratidão pelo alimento",
+      "case": "Um restaurante joga fora bandejas inteiras de comida aproveitável no fim do expediente porque planejou mal a produção.",
+      "conference_question": "Como a gratidão pelo alimento se traduz em escolhas concretas contra excesso e desperdício?",
+      "anchors": [
+        "1Cor 10,31",
+        "CEC 2288"
+      ],
+      "facilitator_note": "Ligue alimento a dom de Deus, trabalho humano e responsabilidade.",
+      "reading_points": [
+        {
+          "title": "Dom recebido",
+          "body": "O alimento envolve criação de Deus, trabalho humano e necessidade real."
+        },
+        {
+          "title": "Desordem prática",
+          "body": "O desperdício mostra falta de medida e de responsabilidade com os bens."
+        },
+        {
+          "title": "Gratidão concreta",
+          "body": "A gratidão aparece em planejamento, partilha possível e uso responsável."
+        }
+      ]
+    },
+    {
+      "id": "B07",
+      "term_id": "B07",
+      "call_label": "B07 - Liberdade sob domínio",
+      "case": "Um funcionário diz que para de fumar quando quiser, mas sai várias vezes do trabalho irritado porque precisa do cigarro.",
+      "conference_question": "Como perceber a diferença entre liberdade real e hábito que já domina a vontade?",
+      "anchors": [
+        "CEC 2290",
+        "B04"
+      ],
+      "facilitator_note": "Evite zombaria; dependência pede verdade e ajuda.",
+      "reading_points": [
+        {
+          "title": "Sinal de domínio",
+          "body": "A irritação e a necessidade constante revelam que o hábito não é neutro."
+        },
+        {
+          "title": "Liberdade ferida",
+          "body": "Quando a pessoa já não decide com lucidez, a liberdade está enfraquecida."
+        },
+        {
+          "title": "Temperança",
+          "body": "A vida cristã busca domínio de si para que a pessoa possa escolher o bem."
+        }
+      ]
+    },
+    {
+      "id": "B08",
+      "term_id": "B08",
+      "call_label": "B08 - Bem comum da saúde",
+      "case": "Em um bairro sem saneamento, crianças adoecem com frequência, e alguns dizem que saúde é problema de cada família.",
+      "conference_question": "Por que o cuidado da saúde não pode ser reduzido apenas a esforço individual?",
+      "anchors": [
+        "CEC 2288",
+        "Mt 25,35-40"
+      ],
+      "facilitator_note": "Mostre a dimensão social sem transformar a carta em disputa partidária.",
+      "reading_points": [
+        {
+          "title": "Condição social",
+          "body": "Há doenças que crescem onde faltam condições básicas de vida."
+        },
+        {
+          "title": "Responsabilidade comum",
+          "body": "A saúde dos cidadãos exige também ações sociais, políticas e comunitárias justas."
+        },
+        {
+          "title": "Bem comum",
+          "body": "A fé cristã não separa cuidado do corpo e responsabilidade pelos necessitados."
+        }
+      ]
+    },
+    {
+      "id": "B09",
+      "term_id": "B09",
+      "call_label": "B09 - Corpo não absoluto",
+      "case": "Uma influenciadora cancela compromissos familiares, dívidas e descanso para manter procedimentos estéticos e conteúdo sobre o próprio corpo.",
+      "conference_question": "Como distinguir valorização legítima do corpo de culto do corpo que ocupa o centro da vida?",
+      "anchors": [
+        "CEC 2289",
+        "1Cor 6,19-20"
+      ],
+      "facilitator_note": "Não critique cuidado estético em si; critique a idolatria.",
+      "reading_points": [
+        {
+          "title": "Centro deslocado",
+          "body": "O corpo aparece como critério principal de valor, aprovação e escolha."
+        },
+        {
+          "title": "Sacrifício indevido",
+          "body": "Quando tudo é sacrificado à aparência, a ordem moral foi invertida."
+        },
+        {
+          "title": "Valor mais profundo",
+          "body": "O cristão honra o corpo sem transformá-lo em absoluto."
+        }
+      ]
+    },
+    {
+      "id": "B10",
+      "term_id": "B10",
+      "call_label": "B10 - Pecado de excesso",
+      "case": "Depois de comer e beber sem medida em um rodízio, um homem insiste em dirigir mesmo sonolento e alterado.",
+      "conference_question": "Quando o excesso deixa de ser apenas imprudência leve e passa a envolver culpa grave?",
+      "anchors": [
+        "CEC 2290",
+        "Pr 23,20-21"
+      ],
+      "facilitator_note": "Destaque o risco à própria vida e à vida dos outros.",
+      "reading_points": [
+        {
+          "title": "Excesso visível",
+          "body": "O caso reúne abuso de comida, bebida e condução perigosa."
+        },
+        {
+          "title": "Dano possível",
+          "body": "O pecado se agrava quando o excesso põe outros em risco real."
+        },
+        {
+          "title": "Critério moral",
+          "body": "O Catecismo aponta a temperança como proteção contra abusos que ferem a vida."
+        }
+      ]
+    },
+    {
+      "id": "B11",
+      "term_id": "B11",
+      "call_label": "B11 - Sobriedade",
+      "case": "O piloto de uma lancha recusa bebida durante um passeio, mesmo sendo provocado pelos convidados que dizem que ele está exagerando.",
+      "conference_question": "Por que a sobriedade não é fraqueza, mas condição para decisões responsáveis?",
+      "anchors": [
+        "CEC 2290",
+        "B04"
+      ],
+      "facilitator_note": "Mostre a sobriedade como força moral e não como medo.",
+      "reading_points": [
+        {
+          "title": "Lucidez necessária",
+          "body": "Conduzir pessoas exige atenção, reflexo e domínio."
+        },
+        {
+          "title": "Pressão social",
+          "body": "A provocação tenta transformar responsabilidade em vergonha."
+        },
+        {
+          "title": "Força da virtude",
+          "body": "A sobriedade conserva a liberdade para proteger vidas."
+        }
+      ]
+    },
+    {
+      "id": "B12",
+      "term_id": "B12",
+      "call_label": "B12 - Cooperação com o mal",
+      "case": "Um vendedor repassa discretamente contatos de anabolizantes e remédios controlados porque recebe comissão por cada indicação.",
+      "conference_question": "Por que facilitar o acesso ao dano torna a pessoa moralmente participante do mal causado?",
+      "anchors": [
+        "CEC 2291",
+        "CEC 1868"
+      ],
+      "facilitator_note": "Explique cooperação sem entrar em detalhes técnicos desnecessários.",
+      "reading_points": [
+        {
+          "title": "Facilitação",
+          "body": "O vendedor não apenas observa; ele ajuda o dano a acontecer."
+        },
+        {
+          "title": "Lucro culpável",
+          "body": "Ganhar dinheiro com prática destrutiva agrava a responsabilidade."
+        },
+        {
+          "title": "Lei moral",
+          "body": "A fé rejeita cooperação direta com aquilo que destrói saúde e vida."
+        }
+      ]
+    },
+    {
+      "id": "B13",
+      "term_id": "B13",
+      "call_label": "B13 - Vulnerabilidade humana",
+      "case": "Depois de uma cirurgia, uma mulher acostumada a resolver tudo sozinha precisa aceitar ajuda para banho, comida e remédios.",
+      "conference_question": "O que a vulnerabilidade revela sobre dependência, dignidade e cuidado cristão?",
+      "anchors": [
+        "Lc 10,25-37",
+        "CEC 2288"
+      ],
+      "facilitator_note": "Mostre que precisar de ajuda não diminui a pessoa.",
+      "reading_points": [
+        {
+          "title": "Fragilidade real",
+          "body": "A doença mostra limites que ninguém elimina pela força de vontade."
+        },
+        {
+          "title": "Dependência digna",
+          "body": "Aceitar ajuda não é perder valor nem deixar de ser responsável."
+        },
+        {
+          "title": "Caridade concreta",
+          "body": "O próximo se aproxima da ferida com verdade, cuidado e presença."
+        }
+      ]
+    },
+    {
+      "id": "B14",
+      "term_id": "B14",
+      "call_label": "B14 - Pudor e respeito",
+      "case": "Durante uma visita ao hospital, alguém fotografa um paciente debilitado e envia a imagem a parentes sem pedir permissão.",
+      "conference_question": "Como o pudor protege a dignidade da pessoa quando o corpo está doente ou exposto?",
+      "anchors": [
+        "Gn 1,27",
+        "B03"
+      ],
+      "facilitator_note": "Trate privacidade como exigência moral, não como detalhe social.",
+      "reading_points": [
+        {
+          "title": "Exposição indevida",
+          "body": "O paciente aparece em situação de fragilidade sem consentimento."
+        },
+        {
+          "title": "Dignidade protegida",
+          "body": "A doença não autoriza curiosidade, espetáculo ou circulação de imagens."
+        },
+        {
+          "title": "Respeito concreto",
+          "body": "Pudor pede reserva, permissão e cuidado com a intimidade corporal."
+        }
+      ]
+    },
+    {
+      "id": "B15",
+      "term_id": "B15",
+      "call_label": "B15 - Glorificar no corpo",
+      "case": "Um trabalhador recusa horas extras sucessivas que o deixam sem sono, sem oração e com risco de acidente, mesmo precisando do dinheiro.",
+      "conference_question": "Como glorificar a Deus no corpo pode exigir limite diante de trabalho, dinheiro e pressão?",
+      "anchors": [
+        "1Cor 6,19-20",
+        "Rm 12,1"
+      ],
+      "facilitator_note": "Reconheça a necessidade econômica, mas mostre que nem todo sacrifício é justo.",
+      "reading_points": [
+        {
+          "title": "Pressão concreta",
+          "body": "O dinheiro é necessário, mas a rotina está destruindo corpo, vida espiritual e segurança."
+        },
+        {
+          "title": "Corpo oferecido",
+          "body": "Glorificar a Deus não permite usar o corpo como peça descartável."
+        },
+        {
+          "title": "Limite cristão",
+          "body": "A resposta cristã pode exigir dizer não a uma exigência desumana."
+        }
+      ]
+    },
+    {
+      "id": "I01",
+      "term_id": "I01",
+      "call_label": "I01 - Noites sem descanso",
+      "case": "Um motorista de aplicativo trabalha de madrugada por vários dias seguidos, cochila no volante e quase bate com passageiros no carro.",
+      "conference_question": "Que sinais mostram que a falta de descanso deixou de ser esforço e virou risco moral?",
+      "anchors": [
+        "CEC 2288",
+        "B05"
+      ],
+      "facilitator_note": "Diferencie necessidade econômica de normalização do risco.",
+      "reading_points": [
+        {
+          "title": "Sono roubado",
+          "body": "A rotina nega ao corpo o descanso necessário para funcionar com segurança."
+        },
+        {
+          "title": "Risco alheio",
+          "body": "O cansaço deixa de ser problema privado quando coloca passageiros em perigo."
+        },
+        {
+          "title": "Cuidado devido",
+          "body": "Respeitar a saúde exige reorganizar limites e procurar alternativas possíveis."
+        }
+      ]
+    },
+    {
+      "id": "I02",
+      "term_id": "I02",
+      "call_label": "I02 - Dieta extrema",
+      "case": "Antes de uma festa, uma mulher passa dias quase sem comer para caber em uma roupa e desmaia no trabalho.",
+      "conference_question": "Como distinguir cuidado alimentar de restrição perigosa movida por aparência?",
+      "anchors": [
+        "CEC 2288",
+        "B03"
+      ],
+      "facilitator_note": "Conduza com seriedade e sem comentários sobre corpos.",
+      "reading_points": [
+        {
+          "title": "Restrição perigosa",
+          "body": "O corpo dá sinal de que a alimentação deixou de sustentar a vida."
+        },
+        {
+          "title": "Pressão da imagem",
+          "body": "A roupa e o olhar dos outros passaram a mandar mais que a saúde."
+        },
+        {
+          "title": "Dignidade corporal",
+          "body": "O corpo merece cuidado real, não punição por causa de aparência."
+        }
+      ]
+    },
+    {
+      "id": "I03",
+      "term_id": "I03",
+      "call_label": "I03 - Academia obsessiva",
+      "case": "Um comerciante fecha a loja mais cedo, falta a compromissos familiares e treina com lesão porque não aceita perder definição muscular.",
+      "conference_question": "Quando o exercício deixa de servir à saúde e começa a ocupar lugar desordenado?",
+      "anchors": [
+        "CEC 2289",
+        "B09"
+      ],
+      "facilitator_note": "Não critique atividade física; critique a obsessão.",
+      "reading_points": [
+        {
+          "title": "Treino dominante",
+          "body": "A atividade física passa a governar deveres, relações e juízo pessoal."
+        },
+        {
+          "title": "Sinal de idolatria",
+          "body": "A definição muscular ocupa lugar que não lhe pertence."
+        },
+        {
+          "title": "Medida cristã",
+          "body": "O cuidado do corpo deve servir à vida inteira, não devorá-la."
+        }
+      ]
+    },
+    {
+      "id": "I04",
+      "term_id": "I04",
+      "call_label": "I04 - Anabolizante oculto",
+      "case": "Um frequentador de academia compra injeções por mensagem privada e esconde o uso da família porque quer resultado rápido.",
+      "conference_question": "Por que o resultado físico não justifica uso oculto e arriscado de substâncias?",
+      "anchors": [
+        "CEC 2290",
+        "CEC 2291"
+      ],
+      "facilitator_note": "Fale com clareza sobre risco, mentira e falta de finalidade terapêutica.",
+      "reading_points": [
+        {
+          "title": "Atalho perigoso",
+          "body": "A busca de resultado rápido passa por substância sem acompanhamento devido."
+        },
+        {
+          "title": "Segredo revelador",
+          "body": "Esconder o uso indica consciência de risco ou de desordem."
+        },
+        {
+          "title": "Saúde acima da aparência",
+          "body": "A moral cristã rejeita sacrificar o corpo à performance."
+        }
+      ]
+    },
+    {
+      "id": "I05",
+      "term_id": "I05",
+      "call_label": "I05 - Vape habitual",
+      "case": "Em pausas do trabalho, um jovem adulto usa vape o tempo todo e começa a sentir falta de ar, mas diz que não é cigarro de verdade.",
+      "conference_question": "Como reconhecer a banalização de um hábito que já ameaça saúde e liberdade?",
+      "anchors": [
+        "CEC 2290",
+        "B07"
+      ],
+      "facilitator_note": "Evite tom de campanha; foque na dependência e no dano.",
+      "reading_points": [
+        {
+          "title": "Hábito frequente",
+          "body": "O uso constante mostra que não se trata de gesto ocasional sem peso."
+        },
+        {
+          "title": "Nome enganoso",
+          "body": "Dizer que não é cigarro de verdade não elimina o dano nem a dependência."
+        },
+        {
+          "title": "Liberdade protegida",
+          "body": "A temperança chama a cortar aquilo que começa a dominar a pessoa."
+        }
+      ]
+    },
+    {
+      "id": "I06",
+      "term_id": "I06",
+      "call_label": "I06 - Bebida ao volante",
+      "case": "Depois de um churrasco, o motorista diz que bebeu pouco e insiste em levar quatro pessoas para casa pela estrada.",
+      "conference_question": "Que critério moral ajuda a responder quando alguém minimiza o risco de dirigir alcoolizado?",
+      "anchors": [
+        "CEC 2290",
+        "B11"
+      ],
+      "facilitator_note": "Seja firme: aqui há risco grave à vida.",
+      "reading_points": [
+        {
+          "title": "Risco assumido",
+          "body": "O motorista quer decidir por todos apesar de estar com a lucidez comprometida."
+        },
+        {
+          "title": "Culpa grave",
+          "body": "O Catecismo aponta culpa grave quando embriaguez põe vidas em risco."
+        },
+        {
+          "title": "Resposta segura",
+          "body": "A sobriedade pede impedir a condução e buscar alternativa real."
+        }
+      ]
+    },
+    {
+      "id": "I07",
+      "term_id": "I07",
+      "call_label": "I07 - Remédio sem prescrição",
+      "case": "Uma vizinha oferece comprimidos controlados para alguém dormir melhor, dizendo que sobraram de uma receita antiga.",
+      "conference_question": "Por que a intenção de ajudar não basta quando se oferece remédio sem orientação competente?",
+      "anchors": [
+        "CEC 2290",
+        "Eclo 38,1-15"
+      ],
+      "facilitator_note": "Mostre que cuidado exige competência, não improviso perigoso.",
+      "reading_points": [
+        {
+          "title": "Ajuda imprudente",
+          "body": "A vizinha tenta resolver um problema real com meio arriscado."
+        },
+        {
+          "title": "Remédio não neutro",
+          "body": "Medicamentos podem causar dependência, interação e dano quando usados sem prescrição."
+        },
+        {
+          "title": "Prudência médica",
+          "body": "Buscar atendimento respeita o corpo e evita tratar sintomas às cegas."
+        }
+      ]
+    },
+    {
+      "id": "I08",
+      "term_id": "I08",
+      "call_label": "I08 - Automedicação perigosa",
+      "case": "Um trabalhador mistura analgésicos fortes para suportar dores nas costas e continuar no serviço, sem investigar a causa.",
+      "conference_question": "Como distinguir alívio legítimo de encobrimento perigoso de um problema de saúde?",
+      "anchors": [
+        "CEC 2290",
+        "B05"
+      ],
+      "facilitator_note": "Reconheça a pressão do trabalho, mas não normalize risco médico.",
+      "reading_points": [
+        {
+          "title": "Sintoma encoberto",
+          "body": "O remédio vira forma de suportar uma situação que precisa ser avaliada."
+        },
+        {
+          "title": "Risco acumulado",
+          "body": "Misturar doses e substâncias pode trazer dano sério."
+        },
+        {
+          "title": "Justo cuidado",
+          "body": "Cuidar do corpo pede tratar causa, rotina e orientação profissional."
+        }
+      ]
+    },
+    {
+      "id": "I09",
+      "term_id": "I09",
+      "call_label": "I09 - Jejum por aparência",
+      "case": "Uma modelo recusa refeições por vários dias antes de um ensaio e chama isso de disciplina, embora esteja fraca e irritada.",
+      "conference_question": "Como distinguir penitência ou disciplina legítima de privação comandada pela aparência?",
+      "anchors": [
+        "CEC 2289",
+        "B03"
+      ],
+      "facilitator_note": "Evite confundir jejum espiritual com agressão ao corpo.",
+      "reading_points": [
+        {
+          "title": "Privação desordenada",
+          "body": "O corpo está sendo privado do necessário por causa de imagem."
+        },
+        {
+          "title": "Palavra enganosa",
+          "body": "Chamar de disciplina não muda a finalidade desordenada do ato."
+        },
+        {
+          "title": "Dignidade",
+          "body": "A fé não autoriza usar o corpo contra a própria saúde para agradar olhares."
+        }
+      ]
+    },
+    {
+      "id": "I10",
+      "term_id": "I10",
+      "call_label": "I10 - Desperdício de alimento",
+      "case": "Em um evento, muitos pratos são servidos além da fome e voltam quase inteiros para o lixo.",
+      "conference_question": "O que o desperdício revela sobre gratidão, temperança e responsabilidade diante do alimento?",
+      "anchors": [
+        "B06",
+        "CEC 2288"
+      ],
+      "facilitator_note": "Conecte o gesto pequeno a uma visão cristã dos bens.",
+      "reading_points": [
+        {
+          "title": "Excesso cotidiano",
+          "body": "A comida é tomada sem medida e descartada sem consideração."
+        },
+        {
+          "title": "Falta de gratidão",
+          "body": "O alimento não é tratado como dom, necessidade e fruto de trabalho."
+        },
+        {
+          "title": "Mudança prática",
+          "body": "Temperança aparece também em servir, comprar e descartar com responsabilidade."
+        }
+      ]
+    },
+    {
+      "id": "I11",
+      "term_id": "I11",
+      "call_label": "I11 - Sedentarismo fechado",
+      "case": "Um trabalhador remoto passa semanas quase sem sair de casa, sentado o dia inteiro, com dores e sem convivência fora das telas.",
+      "conference_question": "Como perceber quando uma rotina aparentemente confortável começa a prejudicar o corpo e a vida integral?",
+      "anchors": [
+        "CEC 2288",
+        "B05"
+      ],
+      "facilitator_note": "Não transforme em culto fitness; fale de cuidado ordinário.",
+      "reading_points": [
+        {
+          "title": "Rotina fechada",
+          "body": "O corpo fica reduzido a cadeira, tela e repetição."
+        },
+        {
+          "title": "Sinais de dano",
+          "body": "Dor, isolamento e imobilidade indicam que há desordem concreta."
+        },
+        {
+          "title": "Cuidado simples",
+          "body": "Movimento, convivência e descanso fazem parte do respeito à saúde."
+        }
+      ]
+    },
+    {
+      "id": "I12",
+      "term_id": "I12",
+      "call_label": "I12 - Trabalho sem segurança",
+      "case": "Uma construtora retira equipamentos de proteção para acelerar a obra e reduzir custos, apesar de quedas recentes no canteiro.",
+      "conference_question": "Por que expor trabalhadores a risco evitável é questão moral e não apenas administrativa?",
+      "anchors": [
+        "CEC 2288",
+        "B08"
+      ],
+      "facilitator_note": "Mostre que a saúde do trabalhador faz parte do bem comum.",
+      "reading_points": [
+        {
+          "title": "Risco imposto",
+          "body": "A empresa transfere ao corpo do trabalhador o preço da pressa e do lucro."
+        },
+        {
+          "title": "Vida concreta",
+          "body": "Segurança não é luxo; protege saúde, família e dignidade."
+        },
+        {
+          "title": "Bem comum",
+          "body": "A sociedade deve criar condições para viver e trabalhar com segurança."
+        }
+      ]
+    },
+    {
+      "id": "I13",
+      "term_id": "I13",
+      "call_label": "I13 - Fila de tratamento",
+      "case": "Um homem com exame suspeito espera meses por consulta especializada enquanto a doença avança sem orientação clara.",
+      "conference_question": "Como essa situação mostra que o respeito à saúde envolve também justiça e organização social?",
+      "anchors": [
+        "CEC 2288",
+        "B08"
+      ],
+      "facilitator_note": "Fale da dimensão social sem reduzir o tema a acusação simplista.",
+      "reading_points": [
+        {
+          "title": "Cuidado atrasado",
+          "body": "A demora pode transformar uma doença tratável em sofrimento maior."
+        },
+        {
+          "title": "Não é só privado",
+          "body": "A saúde depende também de acesso, informação e responsabilidade institucional."
+        },
+        {
+          "title": "Exigência cristã",
+          "body": "O bem comum inclui condições reais para cuidar da vida corporal."
+        }
+      ]
+    },
+    {
+      "id": "I14",
+      "term_id": "I14",
+      "call_label": "I14 - Tráfico na vizinhança",
+      "case": "Em uma rua, a venda de drogas cresce perto de casas e comércios; moradores têm medo e algumas famílias já perderam filhos para o vício.",
+      "conference_question": "Por que o tráfico deve ser lido como escândalo moral que destrói saúde, liberdade e comunidade?",
+      "anchors": [
+        "CEC 2291",
+        "B12"
+      ],
+      "facilitator_note": "Seja firme contra o tráfico e prudente quanto à segurança das pessoas.",
+      "reading_points": [
+        {
+          "title": "Dano espalhado",
+          "body": "A droga não fere só o usuário; atinge famílias, ruas e relações."
+        },
+        {
+          "title": "Lucro sobre feridas",
+          "body": "O tráfico explora dependência, medo e fragilidade humana."
+        },
+        {
+          "title": "Cooperação direta",
+          "body": "O Catecismo chama tráfico de prática escandalosa e cooperação com o mal."
+        }
+      ]
+    },
+    {
+      "id": "I15",
+      "term_id": "I15",
+      "call_label": "I15 - Exposição do doente",
+      "case": "Após um acidente, curiosos gravam a vítima caída na rua antes da chegada do socorro e publicam as imagens.",
+      "conference_question": "Como distinguir informação legítima de exposição que fere a pessoa vulnerável?",
+      "anchors": [
+        "B14",
+        "Gn 1,27"
+      ],
+      "facilitator_note": "Destaque que socorrer vem antes de registrar e expor.",
+      "reading_points": [
+        {
+          "title": "Olhar deformado",
+          "body": "A vítima é tratada como conteúdo, não como pessoa que precisa de socorro."
+        },
+        {
+          "title": "Pudor ferido",
+          "body": "Dor, sangue e fragilidade não autorizam espetáculo público."
+        },
+        {
+          "title": "Resposta digna",
+          "body": "Respeito pede proteger, chamar ajuda e não espalhar imagens."
+        }
+      ]
+    },
+    {
+      "id": "N01",
+      "term_id": "N01",
+      "call_label": "N01 - Ilusão de controle",
+      "case": "Um homem bebe todos os dias, perde compromissos e responde à esposa que para quando quiser, mas nunca passa de dois dias sem beber.",
+      "conference_question": "Que fatos ajudam a desmontar a frase 'eu controlo' quando o hábito já controla a pessoa?",
+      "anchors": [
+        "CEC 2290",
+        "B07"
+      ],
+      "facilitator_note": "Trate dependência com verdade e sem desprezo pela pessoa.",
+      "reading_points": [
+        {
+          "title": "Fatos contra discurso",
+          "body": "A fala de controle não combina com perdas repetidas e incapacidade de parar."
+        },
+        {
+          "title": "Autoengano",
+          "body": "A dependência costuma se proteger por negação e minimização."
+        },
+        {
+          "title": "Liberdade ferida",
+          "body": "Reconhecer a perda de domínio é primeiro passo para buscar ajuda."
+        }
+      ]
+    },
+    {
+      "id": "N02",
+      "term_id": "N02",
+      "call_label": "N02 - Falsa autonomia",
+      "case": "Uma pessoa se recusa a tratar uma dependência dizendo que a vida é dela, enquanto a família paga dívidas, sofre ameaças e vive em medo.",
+      "conference_question": "Por que a frase 'é minha vida' não basta quando a escolha fere Deus, a própria pessoa e os outros?",
+      "anchors": [
+        "1Cor 6,19-20",
+        "CEC 2288"
+      ],
+      "facilitator_note": "Mostre que autonomia não elimina vínculos e deveres.",
+      "reading_points": [
+        {
+          "title": "Vínculos reais",
+          "body": "A decisão não fica fechada no indivíduo; ela alcança família e comunidade."
+        },
+        {
+          "title": "Corpo recebido",
+          "body": "O corpo não é posse absoluta sem referência a Deus."
+        },
+        {
+          "title": "Responsabilidade",
+          "body": "Liberdade verdadeira assume consequências e busca o bem."
+        }
+      ]
+    },
+    {
+      "id": "N03",
+      "term_id": "N03",
+      "call_label": "N03 - Culto da aparência",
+      "case": "Uma clínica promete corrigir 'imperfeições inaceitáveis' e pressiona clientes inseguros a financiar procedimentos que não precisam.",
+      "conference_question": "Como identificar quando o cuidado estético vira exploração da insegurança e culto da aparência?",
+      "anchors": [
+        "CEC 2289",
+        "B09"
+      ],
+      "facilitator_note": "Não condene todo procedimento; a chave é a idolatria e a exploração.",
+      "reading_points": [
+        {
+          "title": "Insegurança explorada",
+          "body": "A propaganda transforma traços comuns em defeitos intoleráveis."
+        },
+        {
+          "title": "Imagem como medida",
+          "body": "A aparência passa a definir aceitação e valor pessoal."
+        },
+        {
+          "title": "Valor cristão",
+          "body": "A pessoa vale mais que o espelho, a técnica e a aprovação social."
+        }
+      ]
+    },
+    {
+      "id": "N04",
+      "term_id": "N04",
+      "call_label": "N04 - Performance idolatrada",
+      "case": "Um treinador manda um corredor competir lesionado porque o campeonato vale contrato e visibilidade.",
+      "conference_question": "Por que rendimento, vitória ou contrato não podem ocupar o lugar da saúde e da dignidade?",
+      "anchors": [
+        "CEC 2289",
+        "B09"
+      ],
+      "facilitator_note": "Destaque a escolha seletiva entre fortes e fracos denunciada pelo Catecismo.",
+      "reading_points": [
+        {
+          "title": "Pessoa subordinada",
+          "body": "O atleta é tratado como meio para resultado e lucro."
+        },
+        {
+          "title": "Ídolo do desempenho",
+          "body": "A performance vira critério supremo, acima da saúde."
+        },
+        {
+          "title": "Ordem moral",
+          "body": "O corpo deve ser respeitado mesmo quando há prêmio, fama ou pressão."
+        }
+      ]
+    },
+    {
+      "id": "N05",
+      "term_id": "N05",
+      "call_label": "N05 - Só desta vez",
+      "case": "Na saída de uma festa, o motorista alcoolizado diz que é perto e que só desta vez não haverá problema.",
+      "conference_question": "Como responder a uma desculpa que chama risco grave de exceção pequena?",
+      "anchors": [
+        "CEC 2290",
+        "I06"
+      ],
+      "facilitator_note": "Mostre que uma única decisão pode causar dano irreversível.",
+      "reading_points": [
+        {
+          "title": "Exceção falsa",
+          "body": "A distância curta não elimina a perda de reflexo e julgamento."
+        },
+        {
+          "title": "Dano possível",
+          "body": "Um ato isolado pode bastar para matar ou ferir alguém."
+        },
+        {
+          "title": "Prudência firme",
+          "body": "A resposta correta é impedir a condução e buscar alternativa segura."
+        }
+      ]
+    },
+    {
+      "id": "N06",
+      "term_id": "N06",
+      "call_label": "N06 - Todo mundo usa",
+      "case": "Em uma festa, oferecem vape e comprimidos dizendo que todos usam e que recusar é fazer drama.",
+      "conference_question": "Por que a frequência de um erro não o transforma em escolha boa ou segura?",
+      "anchors": [
+        "CEC 2290",
+        "B11"
+      ],
+      "facilitator_note": "Ajude a turma a nomear pressão de grupo sem romantizá-la.",
+      "reading_points": [
+        {
+          "title": "Pressão de pertencimento",
+          "body": "A frase tenta trocar discernimento por medo de exclusão."
+        },
+        {
+          "title": "Normalização",
+          "body": "O fato de muitos usarem não elimina dano, dependência nem culpa."
+        },
+        {
+          "title": "Sobriedade livre",
+          "body": "A liberdade cristã permite recusar o que desordena o corpo."
+        }
+      ]
+    },
+    {
+      "id": "N07",
+      "term_id": "N07",
+      "call_label": "N07 - Remédio é inofensivo",
+      "case": "Um vendedor online anuncia calmantes e estimulantes como produtos leves, sem exigir receita e sem explicar riscos.",
+      "conference_question": "Que critério distingue medicamento legítimo de produto tratado como atalho irresponsável?",
+      "anchors": [
+        "CEC 2290",
+        "I07"
+      ],
+      "facilitator_note": "Explique que legalidade, embalagem ou propaganda não bastam.",
+      "reading_points": [
+        {
+          "title": "Risco encoberto",
+          "body": "A propaganda chama de leve aquilo que pode causar dependência e dano."
+        },
+        {
+          "title": "Uso sem cuidado",
+          "body": "Medicamento exige finalidade, dose e acompanhamento proporcionais."
+        },
+        {
+          "title": "Prudência",
+          "body": "O corpo não deve ser exposto a substâncias por facilidade ou promessa rápida."
+        }
+      ]
+    },
+    {
+      "id": "N08",
+      "term_id": "N08",
+      "call_label": "N08 - Bebida prova maturidade",
+      "case": "Em um aniversário, familiares pressionam um rapaz a beber muito, dizendo que homem adulto aguenta e não recusa copo.",
+      "conference_question": "Como desmontar a falsa ligação entre maturidade e abuso de álcool?",
+      "anchors": [
+        "CEC 2290",
+        "B11"
+      ],
+      "facilitator_note": "Mostre que maturidade é domínio, não exibição de excesso.",
+      "reading_points": [
+        {
+          "title": "Maturidade distorcida",
+          "body": "A pressão confunde idade adulta com capacidade de abusar."
+        },
+        {
+          "title": "Excesso valorizado",
+          "body": "A cultura do copo transforma perda de domínio em prova social."
+        },
+        {
+          "title": "Sobriedade madura",
+          "body": "A pessoa madura sabe dizer não e proteger a própria lucidez."
+        }
+      ]
+    },
+    {
+      "id": "N09",
+      "term_id": "N09",
+      "call_label": "N09 - Dor escondida",
+      "case": "Uma jovem adulta esconde vômitos, tonturas e medo de comer porque teme ser chamada de exagerada ou vaidosa.",
+      "conference_question": "Como responder a um sofrimento escondido sem humilhar a pessoa nem fingir que não há gravidade?",
+      "anchors": [
+        "B13",
+        "CEC 2288"
+      ],
+      "facilitator_note": "Trate transtornos alimentares como sofrimento sério que pede ajuda.",
+      "reading_points": [
+        {
+          "title": "Vergonha isolante",
+          "body": "O medo de julgamento prende a pessoa no silêncio."
+        },
+        {
+          "title": "Sinal grave",
+          "body": "Vômitos, tonturas e medo de comer exigem cuidado, não comentários banais."
+        },
+        {
+          "title": "Ajuda verdadeira",
+          "body": "A resposta cristã une acolhida, família responsável e acompanhamento profissional."
+        }
+      ]
+    },
+    {
+      "id": "N10",
+      "term_id": "N10",
+      "call_label": "N10 - Corpo descartável",
+      "case": "Um gerente escala funcionários em turnos sem pausa e diz que quem precisa descansar não serve para o ritmo da empresa.",
+      "conference_question": "Por que tratar o corpo como máquina fere a visão cristã da pessoa?",
+      "anchors": [
+        "1Cor 6,19-20",
+        "B01"
+      ],
+      "facilitator_note": "Mostre a injustiça sem negar o valor do trabalho.",
+      "reading_points": [
+        {
+          "title": "Corpo explorado",
+          "body": "A lógica da empresa ignora descanso, saúde e limites humanos."
+        },
+        {
+          "title": "Descarte dos fracos",
+          "body": "Quem não aguenta é tratado como peça defeituosa."
+        },
+        {
+          "title": "Templo vivo",
+          "body": "O corpo é dom de Deus, não equipamento de produção sem dignidade."
+        }
+      ]
+    },
+    {
+      "id": "N11",
+      "term_id": "N11",
+      "call_label": "N11 - Magreza como valor",
+      "case": "Em uma loja de roupas, funcionárias são elogiadas quando emagrecem demais e ridicularizadas quando vestem numeração maior.",
+      "conference_question": "Que dano moral existe quando o valor da pessoa é medido por tamanho, peso ou roupa?",
+      "anchors": [
+        "CEC 2289",
+        "B03"
+      ],
+      "facilitator_note": "Evite comentários corporais; foque na dignidade e na saúde.",
+      "reading_points": [
+        {
+          "title": "Medida falsa",
+          "body": "O corpo vira régua de valor pessoal e pertencimento."
+        },
+        {
+          "title": "Humilhação",
+          "body": "Elogio desordenado e ridicularização podem alimentar sofrimento real."
+        },
+        {
+          "title": "Dignidade estável",
+          "body": "A pessoa não vale mais ou menos por peso, número ou aparência."
+        }
+      ]
+    },
+    {
+      "id": "N12",
+      "term_id": "N12",
+      "call_label": "N12 - Força como dignidade",
+      "case": "Em uma empresa, funcionários com doença crônica são tratados como peso, enquanto os mais resistentes recebem todo reconhecimento.",
+      "conference_question": "Como a fé corrige a tendência de valorizar apenas os fortes e produtivos?",
+      "anchors": [
+        "CEC 2289",
+        "Gn 1,27"
+      ],
+      "facilitator_note": "Destaque a perversão das relações humanas quando só os fortes contam.",
+      "reading_points": [
+        {
+          "title": "Seleção dos fortes",
+          "body": "A empresa mede valor por resistência e produtividade física."
+        },
+        {
+          "title": "Descarte dos frágeis",
+          "body": "Doença e limitação são tratadas como falta de valor."
+        },
+        {
+          "title": "Dignidade comum",
+          "body": "A imagem de Deus permanece nos fortes e nos fracos."
+        }
+      ]
+    },
+    {
+      "id": "N13",
+      "term_id": "N13",
+      "call_label": "N13 - Velocidade sem culpa",
+      "case": "Um motorista grava vídeos ultrapassando em alta velocidade e diz que tem habilidade suficiente para não colocar ninguém em perigo.",
+      "conference_question": "Por que habilidade real ou imaginada não justifica expor outras vidas ao risco?",
+      "anchors": [
+        "CEC 2290",
+        "I06"
+      ],
+      "facilitator_note": "Mostre que risco voluntário a outros é moralmente sério.",
+      "reading_points": [
+        {
+          "title": "Imprudência exibida",
+          "body": "A velocidade é transformada em espetáculo e afirmação pessoal."
+        },
+        {
+          "title": "Risco injusto",
+          "body": "Outras pessoas são colocadas em perigo sem consentimento."
+        },
+        {
+          "title": "Culpa moral",
+          "body": "O Catecismo considera grave pôr em risco a própria segurança e a alheia."
+        }
+      ]
+    },
+    {
+      "id": "N14",
+      "term_id": "N14",
+      "call_label": "N14 - Mercado manda",
+      "case": "Uma loja lucra vendendo produtos que prometem emagrecimento rápido, apesar de reclamações de efeitos graves, e o dono diz que só atende demanda.",
+      "conference_question": "Por que lucro e procura não bastam para tornar uma venda moralmente aceitável?",
+      "anchors": [
+        "CEC 2291",
+        "B12"
+      ],
+      "facilitator_note": "Distinguir comércio legítimo de exploração do dano.",
+      "reading_points": [
+        {
+          "title": "Procura explorada",
+          "body": "A demanda nasce de insegurança e promessa enganosa."
+        },
+        {
+          "title": "Lucro sem critério",
+          "body": "Vender algo danoso não se justifica porque há compradores."
+        },
+        {
+          "title": "Responsabilidade moral",
+          "body": "Quem facilita práticas nocivas responde pela cooperação com o mal."
+        }
+      ]
+    },
+    {
+      "id": "N15",
+      "term_id": "N15",
+      "call_label": "N15 - Espírito contra corpo",
+      "case": "Um líder religioso informal aconselha uma pessoa doente a abandonar o tratamento, dizendo que fé verdadeira não precisa de médico.",
+      "conference_question": "Como distinguir confiança em Deus de desprezo pelo cuidado concreto do corpo?",
+      "anchors": [
+        "1Cor 6,19-20",
+        "Eclo 38,1-15"
+      ],
+      "facilitator_note": "Afirme a fé sem opô-la à medicina responsável.",
+      "reading_points": [
+        {
+          "title": "Fé deformada",
+          "body": "A fala coloca oração e tratamento como inimigos."
+        },
+        {
+          "title": "Corpo importa",
+          "body": "O corpo é templo do Espírito Santo e merece cuidado real."
+        },
+        {
+          "title": "Confiança ordenada",
+          "body": "A fé pode incluir oração, tratamento, prudência e acompanhamento."
+        }
+      ]
+    },
+    {
+      "id": "G01",
+      "term_id": "G01",
+      "call_label": "G01 - Cuidado ou vaidade",
+      "case": "Uma pessoa procura nutricionista por exames alterados, e outra a acusa de vaidade só porque ela começou a organizar a alimentação.",
+      "conference_question": "Que critérios ajudam a distinguir cuidado legítimo do corpo de vaidade desordenada?",
+      "anchors": [
+        "CEC 2288",
+        "CEC 2289"
+      ],
+      "facilitator_note": "Evite condenar todo cuidado corporal como vaidade.",
+      "reading_points": [
+        {
+          "title": "Finalidade do cuidado",
+          "body": "A motivação principal é tratar exames e recuperar saúde."
+        },
+        {
+          "title": "Vaidade não presumida",
+          "body": "Nem toda atenção ao corpo é culto da aparência."
+        },
+        {
+          "title": "Critério cristão",
+          "body": "O justo cuidado serve à vida integral e não à superioridade."
+        }
+      ]
+    },
+    {
+      "id": "G02",
+      "term_id": "G02",
+      "call_label": "G02 - Saúde ou idolatria",
+      "case": "Um atleta amador melhora a alimentação, mas depois cancela descanso, família e oração para cumprir metas corporais cada vez mais rígidas.",
+      "conference_question": "O que muda quando uma prática saudável passa a exigir sacrifícios desordenados?",
+      "anchors": [
+        "CEC 2289",
+        "B09"
+      ],
+      "facilitator_note": "Mostre a passagem do bem ordenado para o ídolo.",
+      "reading_points": [
+        {
+          "title": "Bem inicial",
+          "body": "Melhorar alimentação e exercício pode ser cuidado legítimo."
+        },
+        {
+          "title": "Centro indevido",
+          "body": "A idolatria aparece quando a meta corporal começa a tomar tudo."
+        },
+        {
+          "title": "Ordem dos bens",
+          "body": "A saúde é bem precioso, mas não é absoluto."
+        }
+      ]
+    },
+    {
+      "id": "G03",
+      "term_id": "G03",
+      "call_label": "G03 - Prazer ou domínio",
+      "case": "Em uma festa familiar, alguns bebem moderadamente e conversam; outro bebe até perder a lucidez e ofender pessoas.",
+      "conference_question": "Como distinguir uso ordenado do prazer de perda de domínio sobre si?",
+      "anchors": [
+        "CEC 1809",
+        "CEC 2290"
+      ],
+      "facilitator_note": "Não apresente todo prazer como pecado; o ponto é domínio.",
+      "reading_points": [
+        {
+          "title": "Prazer ordenado",
+          "body": "A festa e a bebida moderada podem permanecer dentro da razão e da convivência."
+        },
+        {
+          "title": "Domínio perdido",
+          "body": "A embriaguez compromete lucidez, palavra e responsabilidade."
+        },
+        {
+          "title": "Temperança",
+          "body": "A virtude não destrói o prazer; ela o coloca a serviço do bem."
+        }
+      ]
+    },
+    {
+      "id": "G04",
+      "term_id": "G04",
+      "call_label": "G04 - Necessidade ou excesso",
+      "case": "Uma pessoa precisa de antibiótico por prescrição, enquanto outra guarda remédios para tomar quando quiser sem consultar ninguém.",
+      "conference_question": "Que diferença moral existe entre uso necessário e excesso irresponsável de remédios?",
+      "anchors": [
+        "CEC 2290",
+        "B04"
+      ],
+      "facilitator_note": "Mostre que a moral não rejeita remédio; rejeita abuso.",
+      "reading_points": [
+        {
+          "title": "Uso necessário",
+          "body": "O remédio prescrito tem finalidade terapêutica e orientação."
+        },
+        {
+          "title": "Uso desordenado",
+          "body": "Guardar e tomar por conta própria ignora dose, risco e diagnóstico."
+        },
+        {
+          "title": "Medida moral",
+          "body": "A temperança ordena também o modo de usar recursos de saúde."
+        }
+      ]
+    },
+    {
+      "id": "G05",
+      "term_id": "G05",
+      "call_label": "G05 - Terapia ou abuso",
+      "case": "Após cirurgia, uma pessoa usa analgésico conforme orientação; meses depois, outra usa o mesmo remédio para suportar ansiedade sem acompanhamento.",
+      "conference_question": "Como a finalidade e a orientação mudam a avaliação moral do uso de uma substância?",
+      "anchors": [
+        "CEC 2290",
+        "CEC 2291"
+      ],
+      "facilitator_note": "Diferencie remédio legítimo de uso desordenado sem simplificar.",
+      "reading_points": [
+        {
+          "title": "Finalidade terapêutica",
+          "body": "Na cirurgia, o remédio serve a tratamento concreto e acompanhado."
+        },
+        {
+          "title": "Desvio de uso",
+          "body": "Usar para anestesiar sofrimento sem cuidado adequado pode virar abuso."
+        },
+        {
+          "title": "Discernimento",
+          "body": "A moral olha finalidade, dose, orientação e risco de dependência."
+        }
+      ]
+    },
+    {
+      "id": "G06",
+      "term_id": "G06",
+      "call_label": "G06 - Descanso ou fuga",
+      "case": "Depois de uma semana pesada, uma mãe descansa no domingo; em outro mês, ela passa dias na cama para não enfrentar dívidas e conversas necessárias.",
+      "conference_question": "Como distinguir repouso justo de fuga persistente das responsabilidades?",
+      "anchors": [
+        "CEC 2288",
+        "B05"
+      ],
+      "facilitator_note": "Reconheça cansaço real e também a possibilidade de fuga.",
+      "reading_points": [
+        {
+          "title": "Repouso devido",
+          "body": "O descanso recupera forças e respeita limites do corpo."
+        },
+        {
+          "title": "Fuga prolongada",
+          "body": "Quando o descanso evita deveres necessários, ele se desordena."
+        },
+        {
+          "title": "Cuidado integral",
+          "body": "A resposta cristã une repouso, verdade e retomada proporcional das obrigações."
+        }
+      ]
+    },
+    {
+      "id": "G07",
+      "term_id": "G07",
+      "call_label": "G07 - Disciplina ou obsessão",
+      "case": "Um corredor segue planilha equilibrada; outro corre com febre e culpa intensa porque teme perder a marca semanal.",
+      "conference_question": "Que sinais mostram a passagem da disciplina saudável para obsessão que aprisiona?",
+      "anchors": [
+        "CEC 2289",
+        "B04"
+      ],
+      "facilitator_note": "Mostre que disciplina é boa quando serve ao bem integral.",
+      "reading_points": [
+        {
+          "title": "Disciplina ordenada",
+          "body": "A planilha pode ajudar constância, saúde e responsabilidade."
+        },
+        {
+          "title": "Obsessão",
+          "body": "Culpa intensa e treino com febre mostram perda de liberdade."
+        },
+        {
+          "title": "Temperança",
+          "body": "A medida cristã inclui descanso, prudência e finalidade correta."
+        }
+      ]
+    },
+    {
+      "id": "G08",
+      "term_id": "G08",
+      "call_label": "G08 - Ato e pessoa",
+      "case": "Um dependente químico rouba dinheiro da mãe, e alguns parentes dizem que ele não presta e deveria ser abandonado.",
+      "conference_question": "Como condenar o ato injusto sem negar a dignidade da pessoa ferida pelo vício?",
+      "anchors": [
+        "Gn 1,27",
+        "B13"
+      ],
+      "facilitator_note": "Mantenha juntos verdade sobre o pecado e dignidade da pessoa.",
+      "reading_points": [
+        {
+          "title": "Ato errado",
+          "body": "Roubar a mãe é injusto e precisa de limite e reparação."
+        },
+        {
+          "title": "Pessoa não descartada",
+          "body": "O vício e o pecado não retiram a dignidade de filho de Deus."
+        },
+        {
+          "title": "Verdade com caridade",
+          "body": "A resposta cristã rejeita o mal e busca caminhos reais de ajuda."
+        }
+      ]
+    },
+    {
+      "id": "G09",
+      "term_id": "G09",
+      "call_label": "G09 - Culpa e fragilidade",
+      "case": "Uma pessoa com transtorno alimentar mente sobre as refeições, e a família oscila entre chamá-la de manipuladora e fingir que nada acontece.",
+      "conference_question": "Como distinguir responsabilidade real de sofrimento que pode diminuir a culpa e exigir cuidado especializado?",
+      "anchors": [
+        "CEC 1735",
+        "B13"
+      ],
+      "facilitator_note": "Evite acusação simplista e também relativização total.",
+      "reading_points": [
+        {
+          "title": "Ato problemático",
+          "body": "A mentira sobre refeições causa dano e precisa ser enfrentada."
+        },
+        {
+          "title": "Fragilidade séria",
+          "body": "O transtorno pode reduzir liberdade e aumentar necessidade de ajuda."
+        },
+        {
+          "title": "Discernimento pastoral",
+          "body": "A resposta une verdade, limites, família responsável e tratamento."
+        }
+      ]
+    },
+    {
+      "id": "G10",
+      "term_id": "G10",
+      "call_label": "G10 - Acolhida e aprovação",
+      "case": "Uma família acolhe um filho dependente em casa, mas decide não lhe entregar dinheiro quando sabe que será usado para droga.",
+      "conference_question": "Como acolher uma pessoa sem aprovar nem financiar aquilo que a destrói?",
+      "anchors": [
+        "Lc 10,25-37",
+        "G08"
+      ],
+      "facilitator_note": "Mostre que acolhida pode incluir limites firmes.",
+      "reading_points": [
+        {
+          "title": "Acolhida real",
+          "body": "A família não abandona a pessoa ferida."
+        },
+        {
+          "title": "Limite necessário",
+          "body": "Entregar dinheiro para droga não é caridade, é facilitar o dano."
+        },
+        {
+          "title": "Amor verdadeiro",
+          "body": "A caridade une presença, verdade e recusa de cooperação com o mal."
+        }
+      ]
+    },
+    {
+      "id": "G11",
+      "term_id": "G11",
+      "call_label": "G11 - Prudência e omissão",
+      "case": "Moradores sabem que há venda de drogas perto de uma praça, mas alguns confundem prudência com nunca comunicar nada a ninguém.",
+      "conference_question": "Como agir com prudência sem transformar o medo em omissão cúmplice?",
+      "anchors": [
+        "CEC 1868",
+        "B12"
+      ],
+      "facilitator_note": "Oriente para canais seguros; não incentive confronto direto.",
+      "reading_points": [
+        {
+          "title": "Medo compreensível",
+          "body": "Há risco real, por isso agir sem prudência pode ser perigoso."
+        },
+        {
+          "title": "Omissão",
+          "body": "Silêncio absoluto diante de dano grave pode favorecer o mal."
+        },
+        {
+          "title": "Prudência ativa",
+          "body": "A resposta busca meios seguros, responsáveis e proporcionais."
+        }
+      ]
+    },
+    {
+      "id": "G12",
+      "term_id": "G12",
+      "call_label": "G12 - Risco e liberdade",
+      "case": "Um motociclista diz que sentir adrenalina é liberdade e costura carros em alta velocidade numa avenida cheia.",
+      "conference_question": "Por que liberdade verdadeira não inclui impor risco injusto aos outros?",
+      "anchors": [
+        "CEC 2290",
+        "B07"
+      ],
+      "facilitator_note": "Destaque que liberdade sem responsabilidade vira agressão.",
+      "reading_points": [
+        {
+          "title": "Adrenalina confundida",
+          "body": "A sensação intensa é chamada de liberdade."
+        },
+        {
+          "title": "Outros expostos",
+          "body": "Motoristas e pedestres são colocados em risco sem escolha."
+        },
+        {
+          "title": "Liberdade responsável",
+          "body": "A liberdade cristã é ordenada ao bem, não ao perigo imposto."
+        }
+      ]
+    },
+    {
+      "id": "G13",
+      "term_id": "G13",
+      "call_label": "G13 - Corpo e identidade",
+      "case": "Durante tratamento, uma mulher perde cabelo e passa a evitar todos, dizendo que deixou de ser ela mesma.",
+      "conference_question": "Como afirmar a importância do corpo sem reduzir a identidade à aparência modificada pela doença?",
+      "anchors": [
+        "Gn 1,27",
+        "CEC 2289"
+      ],
+      "facilitator_note": "Não minimize a dor da perda de aparência; aprofunde a dignidade.",
+      "reading_points": [
+        {
+          "title": "Dor concreta",
+          "body": "A mudança no corpo causa sofrimento real e não deve ser tratada como bobagem."
+        },
+        {
+          "title": "Redução da identidade",
+          "body": "A aparência alterada não apaga quem a pessoa é."
+        },
+        {
+          "title": "Valor estável",
+          "body": "A dignidade pessoal permanece antes, durante e depois da doença."
+        }
+      ]
+    },
+    {
+      "id": "G14",
+      "term_id": "G14",
+      "call_label": "G14 - Ajuda e controle",
+      "case": "Um filho organiza remédios do pai idoso, mas depois passa a decidir suas visitas, conversas e pequenas escolhas sem necessidade.",
+      "conference_question": "Como distinguir cuidado responsável de controle que invade a liberdade legítima de quem é frágil?",
+      "anchors": [
+        "B13",
+        "B14"
+      ],
+      "facilitator_note": "Valorize cuidado e liberdade possível ao mesmo tempo.",
+      "reading_points": [
+        {
+          "title": "Ajuda necessária",
+          "body": "Organizar remédios pode ser serviço concreto e prudente."
+        },
+        {
+          "title": "Controle indevido",
+          "body": "Decidir tudo sem necessidade reduz a pessoa à condição de objeto de cuidado."
+        },
+        {
+          "title": "Dignidade preservada",
+          "body": "Cuidar bem inclui escutar e respeitar escolhas legítimas."
+        }
+      ]
+    },
+    {
+      "id": "G15",
+      "term_id": "G15",
+      "call_label": "G15 - Bem próprio e comum",
+      "case": "Durante falta de um medicamento, uma família compra estoque para muitos meses e deixa outros pacientes sem acesso imediato.",
+      "conference_question": "Como distinguir cuidado legítimo da própria saúde de apropriação que ignora o bem comum?",
+      "anchors": [
+        "CEC 2288",
+        "B08"
+      ],
+      "facilitator_note": "Mostre que necessidade própria não apaga necessidades alheias.",
+      "reading_points": [
+        {
+          "title": "Cuidado legítimo",
+          "body": "Buscar remédio necessário para a família é responsabilidade real."
+        },
+        {
+          "title": "Excesso injusto",
+          "body": "Estocar além do razoável prejudica outros doentes."
+        },
+        {
+          "title": "Bem comum",
+          "body": "A saúde deve considerar necessidades próprias e alheias."
+        }
+      ]
+    },
+    {
+      "id": "O01",
+      "term_id": "O01",
+      "call_label": "O01 - Procurar atendimento",
+      "case": "Uma pessoa sente dor persistente no peito, evita consulta por medo e passa semanas procurando respostas em vídeos na internet.",
+      "conference_question": "Quando procurar atendimento deixa de ser opcional e se torna resposta prudente diante da saúde?",
+      "anchors": [
+        "Eclo 38,1-15",
+        "CEC 2288"
+      ],
+      "facilitator_note": "Não substitua diagnóstico; ensine prudência e encaminhamento.",
+      "reading_points": [
+        {
+          "title": "Sinal persistente",
+          "body": "A dor não resolvida exige avaliação competente."
+        },
+        {
+          "title": "Fuga perigosa",
+          "body": "Vídeos podem informar, mas não substituem cuidado médico."
+        },
+        {
+          "title": "Resposta prudente",
+          "body": "Procurar atendimento é forma concreta de respeitar o dom da saúde."
+        }
+      ]
+    },
+    {
+      "id": "O02",
+      "term_id": "O02",
+      "call_label": "O02 - Pedir ajuda familiar",
+      "case": "Uma filha percebe que a mãe está escondendo garrafas e faltando ao trabalho, então chama dois parentes responsáveis para conversar e buscar orientação.",
+      "conference_question": "Como pedir ajuda familiar sem transformar cuidado em fofoca, acusação ou exposição pública?",
+      "anchors": [
+        "B13",
+        "G09"
+      ],
+      "facilitator_note": "Mostre o valor de envolver pessoas responsáveis e discretas.",
+      "reading_points": [
+        {
+          "title": "Sinal de limite",
+          "body": "O problema já ultrapassou uma conversa casual."
+        },
+        {
+          "title": "Ajuda discreta",
+          "body": "Chamar parentes responsáveis evita isolamento e evita exposição desnecessária."
+        },
+        {
+          "title": "Caminho de cuidado",
+          "body": "Família e orientação competente podem abrir caminho para tratamento."
+        }
+      ]
+    },
+    {
+      "id": "O03",
+      "term_id": "O03",
+      "call_label": "O03 - Cortar substância",
+      "case": "Depois de crises de falta de ar, um usuário de vape descarta os aparelhos, evita a loja onde comprava e pede a um amigo que não lhe ofereça mais.",
+      "conference_question": "Por que cortar acesso e ocasiões concretas é mais sério do que apenas prometer mudar?",
+      "anchors": [
+        "CEC 2290",
+        "CEC 2291"
+      ],
+      "facilitator_note": "Explique que renúncia concreta ajuda a liberdade ferida.",
+      "reading_points": [
+        {
+          "title": "Decisão prática",
+          "body": "A pessoa remove objetos, lugares e ofertas que sustentavam o hábito."
+        },
+        {
+          "title": "Promessa insuficiente",
+          "body": "Quando há dependência, só dizer que vai parar pode não bastar."
+        },
+        {
+          "title": "Liberdade recuperada",
+          "body": "Cortar a substância é passo real para proteger corpo e vontade."
+        }
+      ]
+    },
+    {
+      "id": "O04",
+      "term_id": "O04",
+      "call_label": "O04 - Rever sono",
+      "case": "Após errar no trabalho por cansaço, uma pessoa negocia horários, reduz compromissos noturnos e passa a dormir em horário regular.",
+      "conference_question": "Que mudanças concretas mostram que o descanso está sendo tratado como dever e não como luxo?",
+      "anchors": [
+        "I01",
+        "B05"
+      ],
+      "facilitator_note": "Mostre que rever sono exige decisões sobre agenda.",
+      "reading_points": [
+        {
+          "title": "Erro como alerta",
+          "body": "O cansaço produziu consequência concreta."
+        },
+        {
+          "title": "Reorganização",
+          "body": "A resposta mexe em horários e compromissos, não só em intenção."
+        },
+        {
+          "title": "Cuidado devido",
+          "body": "Dormir bem é parte do respeito à saúde e à responsabilidade diária."
+        }
+      ]
+    },
+    {
+      "id": "O05",
+      "term_id": "O05",
+      "call_label": "O05 - Organizar refeições",
+      "case": "Uma família percebe gastos com comida pronta, excesso de açúcar e desperdício; então planeja compras simples e horários possíveis para comer melhor.",
+      "conference_question": "Como uma organização modesta das refeições pode servir à temperança sem virar obsessão alimentar?",
+      "anchors": [
+        "B06",
+        "G04"
+      ],
+      "facilitator_note": "Valorize soluções proporcionais, possíveis e não perfeccionistas.",
+      "reading_points": [
+        {
+          "title": "Desordem concreta",
+          "body": "O problema envolve gasto, excesso e desperdício."
+        },
+        {
+          "title": "Medida possível",
+          "body": "Planejar não precisa ser controle rígido, mas ordem prática."
+        },
+        {
+          "title": "Temperança doméstica",
+          "body": "Comer melhor pode expressar gratidão, cuidado e responsabilidade."
+        }
+      ]
+    },
+    {
+      "id": "O06",
+      "term_id": "O06",
+      "call_label": "O06 - Limitar telas à noite",
+      "case": "Uma pessoa percebe que vídeos curtos a prendem até de madrugada e decide deixar o celular carregando fora do quarto.",
+      "conference_question": "Por que um limite físico simples pode ser resposta moral concreta contra um hábito que rouba o sono?",
+      "anchors": [
+        "I01",
+        "O04"
+      ],
+      "facilitator_note": "Use a cena para mostrar limite concreto, não demonizar toda tecnologia.",
+      "reading_points": [
+        {
+          "title": "Hábito capturado",
+          "body": "A tela continua prendendo a atenção mesmo quando o corpo precisa dormir."
+        },
+        {
+          "title": "Limite real",
+          "body": "Tirar o celular do quarto muda o ambiente e reduz a ocasião."
+        },
+        {
+          "title": "Sono protegido",
+          "body": "A decisão serve ao descanso, à lucidez e ao cuidado do corpo."
+        }
+      ]
+    },
+    {
+      "id": "O07",
+      "term_id": "O07",
+      "call_label": "O07 - Recusar carona bêbada",
+      "case": "Na saída de um almoço, o motorista que bebera insiste em dirigir; uma convidada recusa a carona e chama outro transporte.",
+      "conference_question": "Como recusar uma carona bêbada sem ceder à vergonha nem criar confronto inútil?",
+      "anchors": [
+        "I06",
+        "CEC 2290"
+      ],
+      "facilitator_note": "Aponte a ação concreta: não entrar e buscar alternativa segura.",
+      "reading_points": [
+        {
+          "title": "Pressão do momento",
+          "body": "A pessoa precisa decidir sob constrangimento social."
+        },
+        {
+          "title": "Não cooperar",
+          "body": "Entrar no carro normalizaria o risco e dificultaria a correção."
+        },
+        {
+          "title": "Segurança",
+          "body": "Recusar e chamar transporte é resposta proporcional e prudente."
+        }
+      ]
+    },
+    {
+      "id": "O08",
+      "term_id": "O08",
+      "call_label": "O08 - Não repassar oferta",
+      "case": "Um contato envia promoção de anabolizantes sem receita em um grupo; uma pessoa apaga a mensagem, não repassa e avisa que aquilo é perigoso.",
+      "conference_question": "Por que não repassar uma oferta nociva já é uma forma concreta de cortar cooperação com o mal?",
+      "anchors": [
+        "B12",
+        "CEC 2291"
+      ],
+      "facilitator_note": "Mostre que pequenas circulações sustentam danos grandes.",
+      "reading_points": [
+        {
+          "title": "Circulação do dano",
+          "body": "A mensagem facilita acesso a uma prática perigosa."
+        },
+        {
+          "title": "Corte responsável",
+          "body": "Não repassar impede que a oferta alcance novas pessoas."
+        },
+        {
+          "title": "Palavra firme",
+          "body": "Avisar com clareza ajuda a desmontar a normalização do risco."
+        }
+      ]
+    },
+    {
+      "id": "O09",
+      "term_id": "O09",
+      "call_label": "O09 - Denunciar tráfico",
+      "case": "Moradores registram venda de drogas perto de crianças e procuram um canal seguro de denúncia, sem expor nomes em redes sociais nem enfrentar os vendedores.",
+      "conference_question": "Como denunciar o tráfico de modo prudente, responsável e sem cair em vingança ou imprudência?",
+      "anchors": [
+        "I14",
+        "G11"
+      ],
+      "facilitator_note": "Reforce canais seguros e nunca estimule confronto direto.",
+      "reading_points": [
+        {
+          "title": "Dano grave",
+          "body": "A venda de drogas ameaça pessoas, famílias e vizinhança."
+        },
+        {
+          "title": "Prudência",
+          "body": "Expor nomes ou enfrentar vendedores pode aumentar o perigo."
+        },
+        {
+          "title": "Responsabilidade",
+          "body": "Denunciar por meios seguros evita cumplicidade e busca proteção comum."
+        }
+      ]
+    },
+    {
+      "id": "O10",
+      "term_id": "O10",
+      "call_label": "O10 - Acompanhar o doente",
+      "case": "Uma vizinha percebe que um idoso perdeu consultas por não ter transporte e se oferece para levá-lo uma vez por semana ao posto de saúde.",
+      "conference_question": "Como a caridade cristã aparece em ajuda concreta sem substituir todas as responsabilidades da família ou do serviço público?",
+      "anchors": [
+        "Mt 25,35-40",
+        "Lc 10,25-37"
+      ],
+      "facilitator_note": "Valorize ajuda proporcional e concreta, não heroísmo impossível.",
+      "reading_points": [
+        {
+          "title": "Necessidade visível",
+          "body": "O idoso perde cuidado por uma dificuldade prática."
+        },
+        {
+          "title": "Presença concreta",
+          "body": "A vizinha ajuda em uma tarefa específica e possível."
+        },
+        {
+          "title": "Caridade ordenada",
+          "body": "A fé se torna serviço real ao corpo ferido do próximo."
+        }
+      ]
+    },
+    {
+      "id": "O11",
+      "term_id": "O11",
+      "call_label": "O11 - Falar sem humilhar",
+      "case": "Uma família precisa conversar sobre o peso e os exames de um parente, mas decide fazê-lo em particular, sem apelidos nem piadas.",
+      "conference_question": "Como falar a verdade sobre saúde sem transformar correção em humilhação do corpo?",
+      "anchors": [
+        "B14",
+        "G08"
+      ],
+      "facilitator_note": "Ensine a diferença entre conversa necessária e exposição cruel.",
+      "reading_points": [
+        {
+          "title": "Tema delicado",
+          "body": "Há uma preocupação real de saúde a ser tratada."
+        },
+        {
+          "title": "Forma da palavra",
+          "body": "Privacidade, linguagem limpa e ausência de piadas protegem a dignidade."
+        },
+        {
+          "title": "Verdade caridosa",
+          "body": "Corrigir com respeito ajuda mais que envergonhar."
+        }
+      ]
+    },
+    {
+      "id": "O12",
+      "term_id": "O12",
+      "call_label": "O12 - Buscar confissão",
+      "case": "Depois de dirigir alcoolizado e quase causar um acidente, um homem procura a confissão e decide reparar o dano possível com atitudes concretas.",
+      "conference_question": "Por que a confissão verdadeira inclui reconhecer o pecado e mudar escolhas concretas?",
+      "anchors": [
+        "B10",
+        "B15"
+      ],
+      "facilitator_note": "Não trate confissão como desculpa mágica; ligue sacramento e conversão.",
+      "reading_points": [
+        {
+          "title": "Pecado concreto",
+          "body": "A embriaguez ao volante colocou vidas em risco."
+        },
+        {
+          "title": "Arrependimento real",
+          "body": "Buscar confissão exige nomear a culpa sem se esconder."
+        },
+        {
+          "title": "Conversão prática",
+          "body": "A graça pede decisão nova, reparação possível e mudança de hábito."
+        }
+      ]
+    },
+    {
+      "id": "O13",
+      "term_id": "O13",
+      "call_label": "O13 - Treino com medida",
+      "case": "Após lesão, uma corredora aceita reduzir ritmo, fazer fisioterapia e voltar aos poucos, mesmo perdendo uma prova importante.",
+      "conference_question": "Como o treino com medida protege a saúde sem negar disciplina e esforço?",
+      "anchors": [
+        "G07",
+        "CEC 2289"
+      ],
+      "facilitator_note": "Mostre que renunciar a uma prova pode ser ato de prudência.",
+      "reading_points": [
+        {
+          "title": "Limite aceito",
+          "body": "A lesão exige mudança de plano e redução de carga."
+        },
+        {
+          "title": "Disciplina verdadeira",
+          "body": "Obedecer ao tratamento também exige força e constância."
+        },
+        {
+          "title": "Saúde ordenada",
+          "body": "O corpo é cuidado quando o treino serve à vida, não ao orgulho."
+        }
+      ]
+    },
+    {
+      "id": "O14",
+      "term_id": "O14",
+      "call_label": "O14 - Reparar desperdício",
+      "case": "Depois de notar sobra semanal de comida, uma casa passa a cozinhar porções menores, congelar parte e doar itens fechados antes de vencer.",
+      "conference_question": "Que diferença há entre sentir culpa pelo desperdício e reparar o hábito com medidas concretas?",
+      "anchors": [
+        "B06",
+        "I10"
+      ],
+      "facilitator_note": "Mostre reparação como mudança prática e estável.",
+      "reading_points": [
+        {
+          "title": "Desperdício reconhecido",
+          "body": "A sobra constante deixa de ser tratada como detalhe inevitável."
+        },
+        {
+          "title": "Correção concreta",
+          "body": "Porções, congelamento e doação mudam o modo de usar o alimento."
+        },
+        {
+          "title": "Gratidão reparadora",
+          "body": "A gratidão se prova na mudança de hábito, não só no sentimento."
+        }
+      ]
+    },
+    {
+      "id": "O15",
+      "term_id": "O15",
+      "call_label": "O15 - Limite do cuidador",
+      "case": "Uma filha que cuida do pai enfermo começa a adoecer de exaustão e organiza revezamento com parentes e horários de descanso.",
+      "conference_question": "Como o limite do cuidador protege tanto quem cuida quanto quem recebe cuidado?",
+      "anchors": [
+        "G14",
+        "B13"
+      ],
+      "facilitator_note": "Mostre que limite não é abandono quando serve ao cuidado responsável.",
+      "reading_points": [
+        {
+          "title": "Esgotamento real",
+          "body": "O cuidado contínuo sem descanso começa a adoecer a cuidadora."
+        },
+        {
+          "title": "Limite responsável",
+          "body": "Revezamento e horários tornam o cuidado sustentável."
+        },
+        {
+          "title": "Caridade ordenada",
+          "body": "Quem cuida também tem corpo e precisa respeitar seus limites."
+        }
+      ]
+    }
+  ]
+}

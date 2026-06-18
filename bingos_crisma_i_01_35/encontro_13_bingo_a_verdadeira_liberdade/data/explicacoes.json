@@ -1,0 +1,308 @@
+{
+  "title": "Carta de explicações rápidas — Bingo A verdadeira liberdade",
+  "meeting": "Encontro 13 — A verdadeira liberdade",
+  "source_calls": "data/chamadas.json",
+  "purpose": "Explicações breves para o condutor usar durante a chamada de cada carta.",
+  "entries": [
+    {
+      "id": "B01",
+      "explanation": "O pecado não fica parado no primeiro ato. Ele cria medo, mentira e dependência. Jesus chama isso de **escravidão do pecado**. A libertação começa quando a pessoa reconhece que precisa de Cristo e de conversão real."
+    },
+    {
+      "id": "B02",
+      "explanation": "A liberdade cristã não é viver sem pai, sem casa e sem vínculos. Em Cristo, somos chamados à **liberdade dos filhos**. O filho permanece na casa porque pertence ao Pai. Por isso Cristo liberta para viver na verdade, não para fugir de toda responsabilidade."
+    },
+    {
+      "id": "B03",
+      "explanation": "Escolher qualquer coisa não é liberdade plena. A liberdade amadurece no **serviço do bem** e da justiça. Quando a escolha fere o outro, ela se torna abuso. A fé cristã mede a liberdade pelos frutos diante de Deus."
+    },
+    {
+      "id": "B04",
+      "explanation": "A graça não apaga a vontade humana. Ela cura, educa e fortalece a liberdade ferida. A **graça que fortalece** ajuda a pessoa a lutar quando a força própria não basta. Por isso oração, sacramentos e decisões concretas caminham juntos."
+    },
+    {
+      "id": "B05",
+      "explanation": "A mentira pode parecer proteção, mas costuma prender. A **verdade que liberta** permite enxergar o mal, reparar danos e pedir ajuda. Verdade cristã não é humilhação. É luz para sair do autoengano."
+    },
+    {
+      "id": "B06",
+      "explanation": "Nem todo impulso precisa virar ação. O **domínio de si** é parte da liberdade, porque impede que raiva, prazer ou medo virem senhores. A pessoa livre aprende a governar o que sente. Isso exige graça, disciplina e vigilância."
+    },
+    {
+      "id": "B07",
+      "explanation": "Bens como dinheiro, carreira e segurança são reais, mas não são Deus. Quando ocupam o centro, tornam-se ídolos. O **Bem último** é Deus, e só nele a liberdade se ordena. Quem serve a outro senhor começa a negociar a consciência."
+    },
+    {
+      "id": "B08",
+      "explanation": "O Batismo não é apenas costume familiar. Ele nos une a Cristo e inaugura uma vida nova. O **Batismo libertador** chama a pessoa a viver como filho de Deus. Essa identidade precisa aparecer nas escolhas concretas."
+    },
+    {
+      "id": "B09",
+      "explanation": "A Confissão não é prêmio para quem já se sente digno. É encontro com Cristo que perdoa e restaura. A **Confissão restauradora** exige verdade, arrependimento e abertura à graça. Ela recoloca a pessoa no caminho da liberdade."
+    },
+    {
+      "id": "B10",
+      "explanation": "A liberdade cristã precisa ser alimentada. A **Eucaristia que alimenta** une a pessoa a Cristo e sustenta a caridade quando a vontade se cansa. Não é só consolo emocional. É força real para perseverar no bem."
+    },
+    {
+      "id": "B11",
+      "explanation": "Nem todo pecado tem o mesmo peso. O **pecado mortal** envolve matéria grave, consciência suficiente e consentimento deliberado. Ele fere profundamente a amizade com Deus. Por isso pede conversão séria e Reconciliação."
+    },
+    {
+      "id": "B12",
+      "explanation": "Cristo não quer apenas comportamento correto por fora. Ele quer a **conversão do coração**. Desejos, afetos e intenções também precisam ser ordenados. A liberdade cresce quando o coração deixa de servir ao pecado."
+    },
+    {
+      "id": "B13",
+      "explanation": "Ser dócil ao Espírito Santo não é ser fraco. A **docilidade ao Espírito** fortalece a consciência diante das pressões. A pessoa aprende a ouvir Deus e a escolher o bem. Assim a graça educa a liberdade por dentro."
+    },
+    {
+      "id": "B14",
+      "explanation": "Amar não é ceder a tudo. A **caridade ordenada** busca o bem real do outro, mesmo quando precisa dizer não. Ajuda que alimenta pecado vira cumplicidade. A caridade cristã une misericórdia, verdade e responsabilidade."
+    },
+    {
+      "id": "B15",
+      "explanation": "A liberdade plena não será escolher o mal. Será estar unido a Deus sem divisão interior. A **liberdade no Céu** é a liberdade totalmente ordenada ao Bem. Essa esperança ajuda a ordenar as escolhas de agora."
+    },
+    {
+      "id": "I01",
+      "explanation": "Uma mentira raramente fica sozinha. A **mentira sustentada** exige novas versões, silêncios e injustiças. Isso prende a pessoa ao medo de ser descoberta. A saída começa pela verdade e pela reparação possível."
+    },
+    {
+      "id": "I02",
+      "explanation": "A pornografia não é apenas um hábito privado sem consequência. A **pornografia habitual** deforma o desejo e transforma pessoas em objetos de consumo. Ela promete prazer e entrega dependência. A resposta cristã exige verdade, corte de ocasiões, ajuda e vida na graça."
+    },
+    {
+      "id": "I03",
+      "explanation": "A raiva pode surgir diante de uma injustiça real. Mas o **ódio alimentado** passa a dominar a memória e as decisões. Ele fecha a pessoa à paz e ao perdão. Cristo liberta sem negar a necessidade de justiça."
+    },
+    {
+      "id": "I04",
+      "explanation": "Comprar pode ser legítimo, mas pode virar fuga. A **compra compulsiva** aparece quando o consumo anestesia dor e gera dívida, segredo e perda de governo interior. O problema não é o objeto comprado, mas o senhor que ele se tornou. A liberdade pede ordem e verdade."
+    },
+    {
+      "id": "I05",
+      "explanation": "A pessoa pode ficar presa à aparência que fabricou. A **imagem fabricada** exige esconder contradições e depender da aprovação. Isso enfraquece a verdade sobre si mesmo. A liberdade cristã não precisa viver de personagem."
+    },
+    {
+      "id": "I06",
+      "explanation": "O jogo se torna prisão quando passa a governar dinheiro, tempo e mentira. O **jogo que domina** deixa marcas concretas: dívida, obsessão, segredo e dano familiar. Nem tudo que diverte permanece inocente. A pergunta moral é se aquilo ainda serve à pessoa ou já a domina."
+    },
+    {
+      "id": "I07",
+      "explanation": "A dor precisa ser levada a sério, mas fuga não cura ferida. A **bebida como fuga** pode anestesiar por algumas horas e prender por anos. A pessoa precisa de verdade, ajuda adequada e graça. A liberdade cristã enfrenta a dor sem entregar-se ao vício."
+    },
+    {
+      "id": "I08",
+      "explanation": "Controle não é prova de amor. O **namoro controlador** usa medo, ciúme e chantagem para reduzir a liberdade do outro. Amor verdadeiro busca o bem da pessoa amada. Onde há posse e vigilância abusiva, a caridade foi deformada."
+    },
+    {
+      "id": "I09",
+      "explanation": "A desonestidade no trabalho não se torna boa por ser comum. O **trabalho desonesto** fere clientes, colegas e consciência. Pressão econômica pode tornar a situação mais difícil, mas não muda a verdade moral da fraude. A liberdade cristã pede coragem proporcional."
+    },
+    {
+      "id": "I10",
+      "explanation": "Expor alguém para rir ou punir é dano real. A **humilhação digital** multiplica a ferida com cada compartilhamento. Ser público ou verdadeiro não basta para justificar divulgação degradante. A caridade exige cortar a circulação do mal."
+    },
+    {
+      "id": "I11",
+      "explanation": "A raiva pode virar identidade quando a pessoa depende dela para se afirmar. A **raiva como identidade** impede reconhecer nuances, bens e pessoas. Ela produz uma falsa força e uma prisão interior. Cristo liberta também da agressividade cultivada."
+    },
+    {
+      "id": "I12",
+      "explanation": "O vício cresce muito no segredo. O **segredo de vício** mistura vergonha, mentira e isolamento. Quanto mais escondido, mais difícil pedir ajuda e proteger os outros. A verdade abre caminho para socorro concreto."
+    },
+    {
+      "id": "I13",
+      "explanation": "A pressão do grupo pode pesar muito sobre a consciência. A **pressão do grupo** promete pertencimento em troca de cumplicidade. A frequência do erro não o torna bom. A graça fortalece para escolher o bem mesmo sob rejeição."
+    },
+    {
+      "id": "I14",
+      "explanation": "O dinheiro é meio, não senhor. Quando decide tudo, aparece o **dinheiro como senhor**. A pessoa começa a negociar justiça, família e verdade pelo ganho. Cristo liberta recolocando Deus acima de qualquer lucro."
+    },
+    {
+      "id": "I15",
+      "explanation": "A culpa pode levar à conversão ou ao desespero. A **culpa sem retorno** prende a pessoa ao erro como se Deus não pudesse perdoar. Isso não honra a vítima nem repara o dano. A misericórdia verdadeira chama à verdade, penitência e esperança."
+    },
+    {
+      "id": "N01",
+      "explanation": "A autonomia humana não é absoluta. A **falsa autonomia** diz que ninguém pode pedir responsabilidade. Mas escolhas ferem pessoas reais e são julgadas diante de Deus. Liberdade cristã não é fuga dos vínculos justos."
+    },
+    {
+      "id": "N02",
+      "explanation": "Quem está preso muitas vezes afirma que controla tudo. A **ilusão de controle** cai quando observamos fatos: segredo, agressividade, perda de tempo e dano. A fala de autodefesa não vale mais que a realidade. Nomear a prisão é começo de liberdade."
+    },
+    {
+      "id": "N03",
+      "explanation": "O erro pode virar costume sem virar bem. A frase **todo mundo faz** troca consciência por maioria. O cristão não mede a moralidade pela repetição social. O bem permanece bem mesmo quando parece minoria."
+    },
+    {
+      "id": "N04",
+      "explanation": "Prazer não é critério último. A narrativa do **prazer como critério** ignora verdade, vínculos e consequências. Uma escolha pode ser intensa e ainda assim má. A liberdade cristã pergunta pelo bem real diante de Deus."
+    },
+    {
+      "id": "N05",
+      "explanation": "Limite não é inimigo automático da liberdade. A **liberdade sem limite** parece ampla, mas pode destruir a pessoa. A liberdade verdadeira precisa de verdade, bem e justiça. Sem isso, vira abuso da liberdade."
+    },
+    {
+      "id": "N06",
+      "explanation": "A verdade não deve ser usada como arma. A **sinceridade brutal** confunde franqueza com humilhação. O cristão fala a verdade com caridade e finalidade justa. Corrigir é diferente de esmagar."
+    },
+    {
+      "id": "N07",
+      "explanation": "Amor não é posse. O **amor possessivo** isola, vigia e acusa para controlar. Ele usa linguagem afetiva para esconder medo e domínio. A caridade ordenada respeita a liberdade e busca o bem do outro."
+    },
+    {
+      "id": "N08",
+      "explanation": "A injustiça sofrida não autoriza qualquer resposta. A **vingança justa** é uma mentira porque chama retaliação de justiça. Vingança devolve mal por mal e aumenta a escravidão da raiva. Justiça verdadeira busca reparação proporcional."
+    },
+    {
+      "id": "N09",
+      "explanation": "O pecado escondido não fica sem efeitos. A desculpa do **privado sem dano** ignora que hábitos secretos deformam o coração. Eles atingem relações, decisões e olhar sobre os outros. Cristo quer libertar também o que está oculto."
+    },
+    {
+      "id": "N10",
+      "explanation": "A mentira do **sem volta** nega a misericórdia de Deus. Ela pode parecer arrependimento profundo, mas prende a pessoa ao desespero. A gravidade do pecado deve ser reconhecida. Mesmo assim, Cristo chama à conversão e ao perdão."
+    },
+    {
+      "id": "N11",
+      "explanation": "Sofrimento real não autoriza injustiça. A desculpa **mereço me aliviar** transforma dor em licença para ferir. A pessoa cansada precisa de ajuda e descanso legítimos. A liberdade cristã não cura uma ferida criando outra."
+    },
+    {
+      "id": "N12",
+      "explanation": "O primeiro consentimento pode parecer pequeno. A narrativa **só uma vez** ignora que o pecado cria marcas, vínculos e portas abertas. Muitas prisões começam com uma concessão minimizada. Vigiar cedo é mais livre que tentar quebrar correntes depois."
+    },
+    {
+      "id": "N13",
+      "explanation": "A misericórdia de Deus não é desculpa para continuar no pecado. A frase **Deus entende tudo** pode ser verdadeira sobre a compaixão divina e falsa quando recusa conversão. Cristo perdoa e levanta. Ele não chama o pecado de caminho bom."
+    },
+    {
+      "id": "N14",
+      "explanation": "Sentimento sincero não cria verdade sozinho. A narrativa **minha verdade basta** fecha a pessoa à realidade. A liberdade precisa de fatos, consciência reta e Palavra de Deus. Sem verdade, a pessoa fica presa à própria versão."
+    },
+    {
+      "id": "N15",
+      "explanation": "A pessoa não é seu pecado. A mentira **o mal me define** impede arrependimento e esperança. A fé cristã condena o mal sem apagar a dignidade de quem pecou. Cristo liberta pessoas reais, não personagens perfeitos."
+    },
+    {
+      "id": "G01",
+      "explanation": "Discernir **ato e pessoa** evita dois erros. Um erro é apagar o pecado para proteger a pessoa. O outro é reduzir a pessoa ao pecado cometido. A verdade cristã chama à conversão preservando a dignidade."
+    },
+    {
+      "id": "G02",
+      "explanation": "Sentir um impulso não é o mesmo que obedecer a ele. A distinção entre **impulso e liberdade** mostra onde a vontade pode agir. A pessoa pode reconhecer a pressão interior e ainda escolher o bem. Isso é parte do domínio de si."
+    },
+    {
+      "id": "G03",
+      "explanation": "Nem todo desejo aponta para o bem. A distinção entre **desejo e bem** impede confundir intensidade com moralidade. O cristão pergunta se a escolha ordena a pessoa a Deus e respeita vínculos reais. Desejo precisa ser discernido, não adorado."
+    },
+    {
+      "id": "G04",
+      "explanation": "A gravidade objetiva de um ato e a responsabilidade subjetiva não são a mesma coisa. A distinção entre **culpa e responsabilidade** evita condenação apressada e relativização. O mal deve ser nomeado. A resposta pastoral precisa considerar liberdade concreta, feridas e consentimento."
+    },
+    {
+      "id": "G05",
+      "explanation": "Ser tentado não é pecar. A diferença entre **tentação e consentimento** ajuda a não desesperar diante de impulsos. O pecado aparece quando a pessoa acolhe e escolhe o mal. Vigilância e oração protegem a liberdade antes da queda."
+    },
+    {
+      "id": "G06",
+      "explanation": "Uma queda isolada e um hábito enraizado pedem respostas diferentes. A distinção entre **hábito e ato isolado** mostra quando a vida já está organizada pelo erro. Hábito exige medidas mais firmes e ajuda mais estável. Não é motivo para desespero, mas para realismo."
+    },
+    {
+      "id": "G07",
+      "explanation": "Reconhecer fraqueza é necessário. Usá-la como permissão é outra coisa. A distinção entre **fraqueza e licença** impede transformar ferida em desculpa permanente. A graça de Cristo fortalece para lutar, reparar e recomeçar."
+    },
+    {
+      "id": "G08",
+      "explanation": "Acolher uma pessoa não significa aprovar tudo que ela faz. A distinção entre **acolhida e aprovação** preserva caridade e verdade. O cristão não abandona o pecador nem chama o pecado de bem. Acolhida verdadeira pode incluir limites claros."
+    },
+    {
+      "id": "G09",
+      "explanation": "Prudência não é medo com nome bonito. A distinção entre **prudência e omissão** pergunta se a pessoa busca o modo certo de agir ou se evita agir. Diante de risco real, calar pode ser cumplicidade. A caridade precisa de coragem ordenada."
+    },
+    {
+      "id": "G10",
+      "explanation": "Justiça busca verdade, reparação e proteção. **Vingança** busca devolver sofrimento. A distinção é decisiva porque a raiva pode se fantasiar de justiça. A liberdade cristã não entrega o coração ao mal que combate."
+    },
+    {
+      "id": "G11",
+      "explanation": "A verdade precisa de caridade para ser bem comunicada. A distinção entre **verdade e humilhação** mostra que o conteúdo certo pode ser dito de modo errado. Expor desnecessariamente pode ferir a dignidade. Corrigir é buscar cura e justiça."
+    },
+    {
+      "id": "G12",
+      "explanation": "Rezar não é fugir da responsabilidade. A distinção entre **oração e passividade** mostra que a graça pede cooperação. Quem reza de verdade pede força para agir no bem. A oração sustenta decisões, limites e conversão."
+    },
+    {
+      "id": "G13",
+      "explanation": "Amor não é controle. A distinção entre **amor e controle** desmascara ciúme, vigilância e chantagem. Amar é querer o bem do outro diante de Deus. Controlar é reduzir o outro ao próprio medo."
+    },
+    {
+      "id": "G14",
+      "explanation": "Firmeza pode ser caridade quando protege o bem. **Dureza** aparece quando o limite vem com desprezo, crueldade ou abandono. A mesma decisão pode ser comunicada de modos moralmente diferentes. O cristão sustenta limites sem perder a caridade."
+    },
+    {
+      "id": "G15",
+      "explanation": "Misericórdia não é banalizar o pecado. A distinção entre **misericórdia e banalização** preserva o perdão e a verdade. Deus perdoa chamando ao arrependimento. Sem conversão, a palavra misericórdia vira desculpa."
+    },
+    {
+      "id": "O01",
+      "explanation": "Não se combate bem aquilo que se recusa a nomear. **Nomear a prisão** é dizer com clareza qual pecado, hábito ou apego domina. Isso não reduz a pessoa ao erro. Pelo contrário, abre caminho para meios reais de libertação."
+    },
+    {
+      "id": "O02",
+      "explanation": "A ocasião de pecado precisa ser tratada concretamente. **Cortar ocasião** é remover acessos, ambientes e rotinas que arrastam a vontade. Isso não é fraqueza, é prudência. Quem quer liberdade não brinca com a própria prisão."
+    },
+    {
+      "id": "O03",
+      "explanation": "A Confissão pede verdade diante de Cristo. **Confessar com verdade** significa abandonar desculpas vagas e nomear o pecado com arrependimento. O objetivo não é exposição inútil, mas cura real. A misericórdia age sobre o que é trazido à luz."
+    },
+    {
+      "id": "O04",
+      "explanation": "Arrependimento sério busca diminuir o dano causado. **Reparar o dano** pode envolver pedido de perdão, restituição, correção pública ou consequência justa. Nem tudo pode ser desfeito, mas algo deve ser assumido. A liberdade cresce quando a pessoa para de fugir das consequências."
+    },
+    {
+      "id": "O05",
+      "explanation": "Limite claro protege o bem. **Pôr limite claro** é dizer o que não será aceito, por quê, e qual consequência haverá. O limite cristão não precisa ser agressivo. Ele precisa ser verdadeiro, proporcional e sustentado."
+    },
+    {
+      "id": "O06",
+      "explanation": "Há lutas que não devem ser enfrentadas sozinho. **Pedir ajuda concreta** é ato de humildade e responsabilidade. Pode envolver família, sacerdote, profissional de saúde ou autoridade adequada. Quando há risco à vida, a proteção imediata vem primeiro."
+    },
+    {
+      "id": "O07",
+      "explanation": "A rotina pode favorecer virtude ou queda. **Ordenar a rotina** é criar condições reais para viver melhor: sono, trabalho, oração, descanso e uso de telas. Isso não substitui a graça. Mas coopera com ela de modo concreto."
+    },
+    {
+      "id": "O08",
+      "explanation": "A correção cristã não procura espetáculo. **Corrigir em privado** pode proteger a verdade e a dignidade quando não há risco grave que exija outra medida. O objetivo é ganhar o irmão, não vencê-lo em público. Caridade e clareza precisam andar juntas."
+    },
+    {
+      "id": "O09",
+      "explanation": "Não basta não ter começado o mal. **Romper cumplicidade** é parar de repassar, encobrir, lucrar ou rir do dano. Pequenos atos mantêm correntes de pecado funcionando. A liberdade cristã corta a participação no erro."
+    },
+    {
+      "id": "O10",
+      "explanation": "Oração verdadeira não é adiamento da conversão. **Rezar com decisão** une pedido de graça e passo concreto. Quem pede libertação precisa aceitar caminhos de mudança. Deus fortalece a liberdade que coopera com sua graça."
+    },
+    {
+      "id": "O11",
+      "explanation": "A liberdade reencontrada precisa de alimento. **Alimentar a graça** significa permanecer nos sacramentos, na Palavra, na oração e na vida da Igreja. A emoção inicial passa. Os meios de graça sustentam a perseverança."
+    },
+    {
+      "id": "O12",
+      "explanation": "Há omissões que enganam. **Dizer a verdade inteira** é comunicar o essencial sem manipular a decisão do outro. A caridade não exige esconder o que importa. A verdade liberta quando é dita com clareza e retidão."
+    },
+    {
+      "id": "O13",
+      "explanation": "Nem sempre é possível resolver tudo de uma vez. **Escolher o bem possível** é dar um passo real, honesto e orientado à conversão. Isso não justifica acomodação. Mostra que a liberdade cresce praticando o bem concreto."
+    },
+    {
+      "id": "O14",
+      "explanation": "Quando dinheiro, prazer, imagem ou poder mandam na consciência, há idolatria prática. **Restituir o senhorio** é recolocar Deus no centro. Isso exige decisões verificáveis, não apenas intenção piedosa. Só Deus pode ocupar o lugar de Bem último."
+    },
+    {
+      "id": "O15",
+      "explanation": "Uma queda não precisa virar desistência. **Perseverar no caminho** é reconhecer o pecado, buscar a graça e retomar os meios concretos. Também não se pode banalizar a recaída. A liberdade cristã amadurece em recomeços verdadeiros."
+    }
+  ]
+}

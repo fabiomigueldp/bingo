@@ -1,0 +1,1989 @@
+{
+  "title": "Chamadas — Bingo A consciência moral",
+  "meeting": "Encontro 10 — A consciência moral",
+  "source_terms": "data/termos.json",
+  "method": {
+    "read_order": [
+      "call_label",
+      "case",
+      "reading_points"
+    ],
+    "rule": "A cada carta, anuncie código e conceito, leia o caso e explique brevemente a relação usando a Leitura do caso. Depois as equipes marcam o código, se estiver na cartela.",
+    "conference_rule": "Ao fechar duas linhas válidas, horizontais, verticais ou diagonais, a equipe escolhe uma dessas linhas completas, explica pelo menos três conceitos da linha escolhida e liga pelo menos um deles à base bíblica ou doutrinal do encontro. As duas linhas podem se cruzar. O centro livre já conta como casa marcada para completar linhas, mas não conta como um dos três conceitos explicados."
+  },
+  "cards": [
+    {
+      "id": "B01",
+      "term_id": "B01",
+      "call_label": "B01 - Sacrário da consciência",
+      "case": "Uma empresária vai assinar uma demissão injusta para agradar o sócio. Sozinha na sala, percebe que o incômodo não é apenas medo de processo, mas a certeza de que está prestes a cometer uma injustiça.",
+      "conference_question": "Como distinguir o incômodo da consciência de uma ansiedade comum ou de medo de ser descoberto?",
+      "anchors": [
+        "CEC 1776",
+        "Gaudium et spes 16"
+      ],
+      "facilitator_note": "Conduza sem psicologizar demais: a consciência é interioridade diante de Deus, não simples emoção.",
+      "reading_points": [
+        {
+          "title": "Lugar interior",
+          "body": "A cena mostra alguém diante de uma decisão que ninguém pode tomar no lugar dela."
+        },
+        {
+          "title": "Voz moral",
+          "body": "O incômodo aponta para uma injustiça real, não só para desconforto emocional."
+        },
+        {
+          "title": "Diante de Deus",
+          "body": "A consciência é o lugar em que a pessoa reconhece uma lei que não inventou."
+        }
+      ]
+    },
+    {
+      "id": "B02",
+      "term_id": "B02",
+      "call_label": "B02 - Juízo da razão",
+      "case": "Um cliente recebe troco muito maior do que deveria. Ele confere a nota, percebe o erro e entende que ficar com o dinheiro seria apropriação indevida.",
+      "conference_question": "O que muda quando a consciência é vista como juízo da razão, e não apenas como sensação de culpa?",
+      "anchors": [
+        "CEC 1778"
+      ],
+      "facilitator_note": "Destaque que a consciência aplica a verdade moral a um ato concreto.",
+      "reading_points": [
+        {
+          "title": "Ato concreto",
+          "body": "A decisão não é abstrata: ficar ou devolver o dinheiro recebido por engano."
+        },
+        {
+          "title": "Razão moral",
+          "body": "Ele julga o ato pela verdade sobre o bem alheio, não pelo lucro possível."
+        },
+        {
+          "title": "Responsabilidade",
+          "body": "O Catecismo ensina que a consciência reconhece a qualidade moral do que vamos fazer."
+        }
+      ]
+    },
+    {
+      "id": "B03",
+      "term_id": "B03",
+      "call_label": "B03 - Lei inscrita por Deus",
+      "case": "Uma enfermeira é tratada com grosseria por um paciente, mas decide não descuidar do atendimento. Ela sabe que a irritação dele não autoriza negligência com sua vida.",
+      "conference_question": "Que critério permite perceber que a vontade ferida da enfermeira não decide sozinha o bem e o mal?",
+      "anchors": [
+        "CEC 1776",
+        "Rm 2,15"
+      ],
+      "facilitator_note": "Mostre que a lei moral não depende da simpatia que sentimos por alguém.",
+      "reading_points": [
+        {
+          "title": "Bem anterior",
+          "body": "A vida do paciente deve ser cuidada mesmo quando ele é difícil de tratar."
+        },
+        {
+          "title": "Lei recebida",
+          "body": "A consciência reconhece uma exigência que não nasce do humor nem da preferência."
+        },
+        {
+          "title": "Chamado ao bem",
+          "body": "Deus chama a amar e fazer o bem também quando o outro não merece nossa simpatia."
+        }
+      ]
+    },
+    {
+      "id": "B04",
+      "term_id": "B04",
+      "call_label": "B04 - Bem conhecido",
+      "case": "Uma contadora sabe que lançar despesa falsa reduzirá ilegalmente o imposto do cliente. O cliente promete pagar bem, mas ela entende claramente que isso é fraude.",
+      "conference_question": "Por que agir contra o bem reconhecido fere a própria consciência, mesmo quando há vantagem ou pressão?",
+      "anchors": [
+        "CEC 1790",
+        "Tg 4,17"
+      ],
+      "facilitator_note": "Evite transformar o caso em medo de punição; o centro é a fidelidade ao bem conhecido.",
+      "reading_points": [
+        {
+          "title": "Conhecimento claro",
+          "body": "A contadora não está confusa sobre a natureza fraudulenta do lançamento."
+        },
+        {
+          "title": "Tentação concreta",
+          "body": "A promessa de ganho tenta calar o juízo moral já reconhecido."
+        },
+        {
+          "title": "Dever de seguir",
+          "body": "A consciência certa deve ser obedecida quando aponta o que é justo."
+        }
+      ]
+    },
+    {
+      "id": "B05",
+      "term_id": "B05",
+      "call_label": "B05 - Consciência formada",
+      "case": "Um comerciante vendia produtos vencidos com desconto e sem aviso. Depois de ser corrigido, percebe que o problema não era o preço baixo, mas esconder a informação de quem comprava.",
+      "conference_question": "Como uma consciência formada muda o modo de julgar uma prática que parecia apenas esperteza comercial?",
+      "anchors": [
+        "CEC 1783",
+        "CEC 1784"
+      ],
+      "facilitator_note": "Mostre que formar a consciência inclui corrigir hábitos antes tratados como normais.",
+      "reading_points": [
+        {
+          "title": "Correção recebida",
+          "body": "O comerciante passa a enxergar um mal que antes justificava por costume."
+        },
+        {
+          "title": "Juízo esclarecido",
+          "body": "A verdade sobre o consumidor muda a avaliação moral da venda."
+        },
+        {
+          "title": "Educação contínua",
+          "body": "A consciência formada aprende a julgar com razão, verdade e justiça."
+        }
+      ]
+    },
+    {
+      "id": "B06",
+      "term_id": "B06",
+      "call_label": "B06 - Palavra como luz",
+      "case": "Um homem quer responder com vingança a uma ofensa pública. Ao rezar com o Evangelho, percebe que sua primeira reação não combina com a Cruz de Cristo.",
+      "conference_question": "Como a Palavra de Deus ilumina uma decisão concreta sem virar frase decorativa?",
+      "anchors": [
+        "CEC 1785",
+        "Sl 119,105"
+      ],
+      "facilitator_note": "Destaque que a Escritura corrige critérios, não apenas consola sentimentos.",
+      "reading_points": [
+        {
+          "title": "Reação ferida",
+          "body": "A ofensa desperta desejo de revidar e parecer forte diante dos outros."
+        },
+        {
+          "title": "Luz externa",
+          "body": "A Palavra confronta a vontade de vingança com o caminho de Cristo."
+        },
+        {
+          "title": "Critério cristão",
+          "body": "Formar a consciência exige assimilar a Palavra na fé, na oração e na prática."
+        }
+      ]
+    },
+    {
+      "id": "B07",
+      "term_id": "B07",
+      "call_label": "B07 - Magistério da Igreja",
+      "case": "Um casal enfrenta uma decisão moral grave e encontra opiniões contraditórias na internet. Em vez de escolher a resposta mais cômoda, procura conhecer o ensinamento da Igreja e pedir orientação séria.",
+      "conference_question": "Por que recorrer ao Magistério ajuda a consciência a não ficar presa ao próprio julgamento?",
+      "anchors": [
+        "CEC 1785",
+        "CEC 1792"
+      ],
+      "facilitator_note": "Explique que autoridade na Igreja serve à verdade e à salvação, não ao controle arbitrário.",
+      "reading_points": [
+        {
+          "title": "Confusão real",
+          "body": "Opiniões diferentes podem aumentar a tentação de escolher só o que agrada."
+        },
+        {
+          "title": "Ensinamento autorizado",
+          "body": "O Magistério ajuda a consciência a não se tornar autônoma de modo errado."
+        },
+        {
+          "title": "Humildade moral",
+          "body": "Buscar a Igreja é reconhecer que a consciência precisa ser guiada pela verdade."
+        }
+      ]
+    },
+    {
+      "id": "B08",
+      "term_id": "B08",
+      "call_label": "B08 - Exame de consciência",
+      "case": "Um médico percebe, ao fim do dia, que respondeu com impaciência a pacientes pobres e foi mais cuidadoso com pacientes influentes. Ele decide nomear isso diante de Deus, sem desculpar o próprio cansaço.",
+      "conference_question": "Como o exame de consciência ajuda a reconhecer pecados que se escondem em hábitos comuns?",
+      "anchors": [
+        "CEC 1785",
+        "Sl 139,23-24"
+      ],
+      "facilitator_note": "Mostre que examinar a consciência inclui omissões, intenções e preferências injustas.",
+      "reading_points": [
+        {
+          "title": "Revisão honesta",
+          "body": "O médico olha para atitudes concretas, não apenas para intenções genéricas."
+        },
+        {
+          "title": "Preferência injusta",
+          "body": "O cansaço pode explicar a fraqueza, mas não torna justa a diferença de trato."
+        },
+        {
+          "title": "Diante da Cruz",
+          "body": "O exame confronta a vida com Deus e abre caminho de conversão."
+        }
+      ]
+    },
+    {
+      "id": "B09",
+      "term_id": "B09",
+      "call_label": "B09 - Caridade como critério",
+      "case": "Em uma festa familiar, um adulto decide não insistir em bebidas alcoólicas porque o irmão está em recuperação. Ele não transforma sua liberdade em pressão sobre alguém frágil.",
+      "conference_question": "Como a caridade muda o uso de uma liberdade que, isoladamente, poderia parecer permitida?",
+      "anchors": [
+        "CEC 1789",
+        "1Cor 8,9",
+        "1Cor 8,12-13"
+      ],
+      "facilitator_note": "Relacione diretamente com 1Cor 8: liberdade cristã não é indiferença ao irmão.",
+      "reading_points": [
+        {
+          "title": "Liberdade real",
+          "body": "O adulto poderia consumir algo lícito em si, mas considera a pessoa concreta à mesa."
+        },
+        {
+          "title": "Fragilidade do irmão",
+          "body": "A consciência ferida do outro entra no discernimento moral da situação."
+        },
+        {
+          "title": "Critério de Paulo",
+          "body": "A caridade evita que a liberdade se torne ocasião de queda."
+        }
+      ]
+    },
+    {
+      "id": "B10",
+      "term_id": "B10",
+      "call_label": "B10 - Liberdade responsável",
+      "case": "Um influenciador cristão publica piadas vulgares e responde que ninguém manda em sua liberdade. Parte do público jovem começa a repetir o mesmo tom como se fosse normal.",
+      "conference_question": "Por que a liberdade cristã precisa considerar os efeitos dos próprios atos sobre outras consciências?",
+      "anchors": [
+        "Gl 5,13",
+        "CEC 1789"
+      ],
+      "facilitator_note": "Não reduza o caso a redes sociais; o ponto é liberdade com responsabilidade moral.",
+      "reading_points": [
+        {
+          "title": "Liberdade distorcida",
+          "body": "Ele usa a palavra liberdade para evitar qualquer responsabilidade pelo exemplo dado."
+        },
+        {
+          "title": "Efeito sobre outros",
+          "body": "A influência pública pode normalizar o que fere a consciência e a pureza da fala."
+        },
+        {
+          "title": "Serviço do amor",
+          "body": "A liberdade cristã não serve ao ego, mas ao bem e à caridade."
+        }
+      ]
+    },
+    {
+      "id": "B11",
+      "term_id": "B11",
+      "call_label": "B11 - Escândalo moral",
+      "case": "Um gerente experiente burla normas de segurança para terminar o serviço mais rápido. Funcionários novos passam a fazer o mesmo, acreditando que ali essa imprudência é aceita.",
+      "conference_question": "Como um mau exemplo pode se tornar escândalo moral e não apenas erro individual?",
+      "anchors": [
+        "1Cor 8,9",
+        "Rm 14,21",
+        "CEC 1789"
+      ],
+      "facilitator_note": "Explique escândalo como levar outro ao mal, não como simples repercussão pública.",
+      "reading_points": [
+        {
+          "title": "Exemplo influente",
+          "body": "A posição do gerente torna sua prática uma autorização informal para os demais."
+        },
+        {
+          "title": "Queda de outros",
+          "body": "O erro deixa de ser isolado quando forma uma cultura de imprudência."
+        },
+        {
+          "title": "Consciência ferida",
+          "body": "A fé exige cuidado para que a própria liberdade não seja tropeço para o irmão."
+        }
+      ]
+    },
+    {
+      "id": "B12",
+      "term_id": "B12",
+      "call_label": "B12 - Pecado contra Cristo",
+      "case": "O dono de uma casa de repouso reduz cuidados básicos de idosos para aumentar lucro. Na planilha, chama isso de ajuste de custo, mas pessoas frágeis ficam sem higiene e alimentação adequadas.",
+      "conference_question": "Por que ferir a consciência e a dignidade do irmão não é dano neutro diante de Cristo?",
+      "anchors": [
+        "1Cor 8,12",
+        "CEC 1849"
+      ],
+      "facilitator_note": "Evite abstrair o pecado; mostre que Cristo se identifica com o irmão ferido.",
+      "reading_points": [
+        {
+          "title": "Dano concreto",
+          "body": "A decisão administrativa atinge corpos reais, frágeis e dependentes."
+        },
+        {
+          "title": "Vocabulário enganoso",
+          "body": "Chamar exploração de ajuste de custo tenta esconder a qualidade moral do ato."
+        },
+        {
+          "title": "Cristo ferido",
+          "body": "Paulo ensina que pecar contra o irmão é pecar contra Cristo."
+        }
+      ]
+    },
+    {
+      "id": "B13",
+      "term_id": "B13",
+      "call_label": "B13 - Regra de ouro",
+      "case": "Um vendedor sabe que o carro usado tem falha grave no motor, mas omite o problema. Ele mesmo jamais aceitaria comprar assim se estivesse no lugar do cliente.",
+      "conference_question": "Como a regra de ouro desmascara vantagens que parecem normais em uma negociação?",
+      "anchors": [
+        "CEC 1789",
+        "Mt 7,12"
+      ],
+      "facilitator_note": "Mostre que a regra de ouro não é simpatia, mas critério moral exigente.",
+      "reading_points": [
+        {
+          "title": "Assimetria injusta",
+          "body": "O vendedor possui informação decisiva que o comprador precisa conhecer."
+        },
+        {
+          "title": "Critério simples",
+          "body": "Perguntar como gostaria de ser tratado revela a injustiça da omissão."
+        },
+        {
+          "title": "Justiça cristã",
+          "body": "A regra de ouro orienta decisões concretas sobre verdade e próximo."
+        }
+      ]
+    },
+    {
+      "id": "B14",
+      "term_id": "B14",
+      "call_label": "B14 - Hábito virtuoso",
+      "case": "Um motorista de ônibus encontra uma carteira esquecida e a entrega à central, como já fez outras vezes. Ele não espera elogio; honestidade se tornou prática estável.",
+      "conference_question": "Por que a virtude não é apenas fazer um bem isolado, mas formar a liberdade por hábitos?",
+      "anchors": [
+        "CEC 1803",
+        "Hb 5,14"
+      ],
+      "facilitator_note": "Destaque que virtude é disposição firme, não momento de entusiasmo.",
+      "reading_points": [
+        {
+          "title": "Repetição do bem",
+          "body": "A honestidade aparece como conduta já praticada em outras ocasiões."
+        },
+        {
+          "title": "Liberdade educada",
+          "body": "O hábito bom torna mais pronta a escolha reta quando surge a tentação."
+        },
+        {
+          "title": "Virtude concreta",
+          "body": "A consciência se fortalece quando a pessoa treina o bem de modo estável."
+        }
+      ]
+    },
+    {
+      "id": "B15",
+      "term_id": "B15",
+      "call_label": "B15 - Graça e conversão",
+      "case": "Depois de anos mentindo para evitar conflitos, um homem reconhece que destruiu a confiança da família. Ele procura ajuda, confissão e passos concretos para viver na verdade.",
+      "conference_question": "Como a graça de Deus sustenta a conversão sem dispensar escolhas concretas de mudança?",
+      "anchors": [
+        "CEC 1784",
+        "1Jo 1,8-9"
+      ],
+      "facilitator_note": "Una misericórdia e responsabilidade; conversão não é só remorso.",
+      "reading_points": [
+        {
+          "title": "Hábito ferido",
+          "body": "A mentira repetida deformou relações e enfraqueceu a consciência."
+        },
+        {
+          "title": "Verdade assumida",
+          "body": "Reconhecer o pecado é condição para deixar de protegê-lo com desculpas."
+        },
+        {
+          "title": "Graça eficaz",
+          "body": "Deus perdoa e chama a uma mudança real, sustentada por meios concretos."
+        }
+      ]
+    },
+    {
+      "id": "I01",
+      "term_id": "I01",
+      "call_label": "I01 - Contrato fraudado",
+      "case": "Uma imobiliária pressiona uma família a assinar rapidamente um contrato com multa abusiva escondida em linguagem técnica. O corretor diz que é padrão e que não há tempo para ler tudo.",
+      "conference_question": "Que critérios mostram que a pressa e a linguagem técnica podem ser usadas contra a consciência e a justiça?",
+      "anchors": [
+        "B02",
+        "B13",
+        "Ef 4,25"
+      ],
+      "facilitator_note": "Mostre que consentimento moralmente sério exige verdade suficiente e liberdade real.",
+      "reading_points": [
+        {
+          "title": "Pressão calculada",
+          "body": "A pressa impede que a família compreenda a obrigação que assumirá."
+        },
+        {
+          "title": "Verdade negada",
+          "body": "Esconder dano em linguagem técnica fere a justiça da relação."
+        },
+        {
+          "title": "Juízo moral",
+          "body": "A consciência deve julgar a negociação pela verdade, não apenas pela assinatura obtida."
+        }
+      ]
+    },
+    {
+      "id": "I02",
+      "term_id": "I02",
+      "call_label": "I02 - Repasse humilhante",
+      "case": "Um vídeo de um homem alcoolizado caindo na rua começa a circular com piadas. Quem encaminha diz que não gravou nada e que só mandou para mais duas pessoas.",
+      "conference_question": "Como distinguir entre não ter produzido a humilhação e cooperar com ela ao repassar?",
+      "anchors": [
+        "B11",
+        "B12",
+        "CEC 1789"
+      ],
+      "facilitator_note": "Evite moral genérica sobre internet; foque na cooperação com o dano.",
+      "reading_points": [
+        {
+          "title": "Alcance aumentado",
+          "body": "Cada repasse amplia a exposição de uma pessoa fragilizada."
+        },
+        {
+          "title": "Desculpa insuficiente",
+          "body": "Não ter gravado não torna neutro o ato de espalhar."
+        },
+        {
+          "title": "Caridade exigente",
+          "body": "A consciência cristã protege o irmão de humilhação, não a multiplica."
+        }
+      ]
+    },
+    {
+      "id": "I03",
+      "term_id": "I03",
+      "call_label": "I03 - Atestado falso",
+      "case": "Um funcionário pede a um médico conhecido um atestado para faltar ao trabalho sem motivo real. O médico pensa em ajudar, mas sabe que o documento mentirá sobre uma doença inexistente.",
+      "conference_question": "Por que uma ajuda aparente pode se tornar cooperação com mentira e injustiça?",
+      "anchors": [
+        "B02",
+        "B04",
+        "Ef 4,25"
+      ],
+      "facilitator_note": "Diferencie compaixão verdadeira de favorecimento injusto.",
+      "reading_points": [
+        {
+          "title": "Documento mentiroso",
+          "body": "O atestado declara uma realidade que não existe."
+        },
+        {
+          "title": "Dano institucional",
+          "body": "A mentira prejudica a confiança no trabalho e na medicina."
+        },
+        {
+          "title": "Consciência reta",
+          "body": "O bem conhecido exige recusar uma falsa ajuda."
+        }
+      ]
+    },
+    {
+      "id": "I04",
+      "term_id": "I04",
+      "call_label": "I04 - Silêncio no acidente",
+      "case": "Um motorista foge depois de atingir uma motocicleta. Uma testemunha anotou a placa, mas prefere ficar calada para não se envolver.",
+      "conference_question": "Quando o silêncio deixa de ser prudência e se torna omissão diante de uma injustiça grave?",
+      "anchors": [
+        "Tg 4,17",
+        "B04",
+        "G11"
+      ],
+      "facilitator_note": "Conduza com proporção: agir pode incluir informar autoridade competente, não exposição imprudente.",
+      "reading_points": [
+        {
+          "title": "Dado decisivo",
+          "body": "A testemunha tem informação que pode proteger a vítima e esclarecer a verdade."
+        },
+        {
+          "title": "Omissão confortável",
+          "body": "O medo de se envolver não apaga a responsabilidade moral."
+        },
+        {
+          "title": "Bem possível",
+          "body": "Saber o que deve ser feito e não agir pode ferir a consciência."
+        }
+      ]
+    },
+    {
+      "id": "I05",
+      "term_id": "I05",
+      "call_label": "I05 - Propina normalizada",
+      "case": "Um fiscal pede dinheiro para liberar um alvará sem concluir a vistoria. O empresário ouve que todos fazem assim e que, sem pagar, ficará meses parado.",
+      "conference_question": "Como a consciência deve julgar uma prática injusta quando ela é tratada como costume normal?",
+      "anchors": [
+        "B13",
+        "N03",
+        "N05"
+      ],
+      "facilitator_note": "Mostre a pressão real sem transformar corrupção em fatalidade moral.",
+      "reading_points": [
+        {
+          "title": "Costume corrupto",
+          "body": "A prática é apresentada como regra informal do sistema."
+        },
+        {
+          "title": "Injustiça objetiva",
+          "body": "A propina distorce a justiça e coloca interesse privado acima do bem comum."
+        },
+        {
+          "title": "Consciência resistente",
+          "body": "O fato de muitos fazerem não transforma o mal em bem."
+        }
+      ]
+    },
+    {
+      "id": "I06",
+      "term_id": "I06",
+      "call_label": "I06 - Abandono de idoso",
+      "case": "Três filhos combinam cuidados para a mãe idosa, mas um deles para de visitar e de contribuir. Ele diz que trabalha demais, enquanto os outros percebem que a mãe fica dias sem higiene adequada.",
+      "conference_question": "Como distinguir dificuldade real de cuidado e abandono culpável de uma pessoa vulnerável?",
+      "anchors": [
+        "B09",
+        "Mt 7,12",
+        "G10"
+      ],
+      "facilitator_note": "Evite julgar situações sem dados; foque no dever real de cuidado proporcional.",
+      "reading_points": [
+        {
+          "title": "Fragilidade concreta",
+          "body": "A idosa depende de outros para cuidados básicos."
+        },
+        {
+          "title": "Desculpa parcial",
+          "body": "Trabalho pode dificultar, mas não autoriza negligência total."
+        },
+        {
+          "title": "Caridade organizada",
+          "body": "A resposta cristã pede cuidado concreto, justo e possível."
+        }
+      ]
+    },
+    {
+      "id": "I07",
+      "term_id": "I07",
+      "call_label": "I07 - Mentira no currículo",
+      "case": "Um candidato coloca no currículo um curso técnico que não concluiu. Ele pensa que aprenderá depois, se for contratado.",
+      "conference_question": "Por que prometer uma competência inexistente fere a verdade e a confiança antes mesmo do trabalho começar?",
+      "anchors": [
+        "B02",
+        "B04",
+        "Ef 4,25"
+      ],
+      "facilitator_note": "Mostre que intenção de aprender não apaga a mentira presente.",
+      "reading_points": [
+        {
+          "title": "Competência simulada",
+          "body": "O currículo apresenta como real uma formação que não existe."
+        },
+        {
+          "title": "Confiança violada",
+          "body": "A contratação depende de informação verdadeira sobre responsabilidade e preparo."
+        },
+        {
+          "title": "Juízo da consciência",
+          "body": "A pessoa reconhece que obter vantagem pela mentira é moralmente errado."
+        }
+      ]
+    },
+    {
+      "id": "I08",
+      "term_id": "I08",
+      "call_label": "I08 - Venda ao vulnerável",
+      "case": "Um vendedor oferece empréstimo caro a uma aposentada confusa, insistindo que ela assine antes de falar com a família. A comissão dele aumenta se o contrato for fechado no mesmo dia.",
+      "conference_question": "Que critério ajuda a reconhecer exploração quando a pessoa vulnerável até assina o documento?",
+      "anchors": [
+        "B09",
+        "B13",
+        "O11"
+      ],
+      "facilitator_note": "Destaque que assinatura não basta quando há confusão explorada e pressão indevida.",
+      "reading_points": [
+        {
+          "title": "Fragilidade explorada",
+          "body": "A confusão da aposentada é usada como oportunidade de venda."
+        },
+        {
+          "title": "Liberdade enfraquecida",
+          "body": "A pressa reduz a capacidade real de compreender e decidir."
+        },
+        {
+          "title": "Proteção devida",
+          "body": "A caridade e a justiça exigem proteger quem está vulnerável."
+        }
+      ]
+    },
+    {
+      "id": "I09",
+      "term_id": "I09",
+      "call_label": "I09 - Exposição do doente",
+      "case": "Um familiar publica foto de um paciente sedado na UTI para comover seguidores. O paciente não pode consentir e a imagem revela sua fragilidade extrema.",
+      "conference_question": "Como distinguir pedido legítimo de oração e exposição indevida do sofrimento de alguém?",
+      "anchors": [
+        "B12",
+        "G12",
+        "B13"
+      ],
+      "facilitator_note": "Não critique a oração; critique o uso indevido da imagem e da vulnerabilidade.",
+      "reading_points": [
+        {
+          "title": "Sofrimento exposto",
+          "body": "A imagem mostra uma pessoa incapaz de consentir e proteger sua intimidade."
+        },
+        {
+          "title": "Comoção ambígua",
+          "body": "O pedido de apoio não autoriza transformar dor em exposição pública."
+        },
+        {
+          "title": "Dignidade preservada",
+          "body": "A consciência cristã respeita o doente mesmo quando quer pedir ajuda."
+        }
+      ]
+    },
+    {
+      "id": "I10",
+      "term_id": "I10",
+      "call_label": "I10 - Nota fiscal comprada",
+      "case": "Um empresário compra nota fiscal de um serviço que nunca foi prestado para reduzir imposto. Ele chama isso de ajuste contábil e diz que a empresa precisa sobreviver.",
+      "conference_question": "Por que a necessidade econômica não transforma uma fraude documental em ato moralmente correto?",
+      "anchors": [
+        "B02",
+        "B04",
+        "N05"
+      ],
+      "facilitator_note": "Mostre a diferença entre dificuldade financeira real e meio moralmente ilícito.",
+      "reading_points": [
+        {
+          "title": "Serviço inexistente",
+          "body": "O documento cria uma aparência falsa de despesa."
+        },
+        {
+          "title": "Nome suavizado",
+          "body": "Chamar fraude de ajuste contábil tenta aliviar a consciência."
+        },
+        {
+          "title": "Meio ilícito",
+          "body": "Não é permitido praticar o mal para alcançar um bem econômico."
+        }
+      ]
+    },
+    {
+      "id": "I11",
+      "term_id": "I11",
+      "call_label": "I11 - Vício encoberto",
+      "case": "Uma família sabe que um filho adulto está afundado em bebida, dívidas e mentiras. Para evitar vergonha, todos fingem normalidade e pagam prejuízos sem exigir tratamento.",
+      "conference_question": "Como distinguir acolher alguém ferido pelo vício e alimentar a destruição por silêncio ou aparência?",
+      "anchors": [
+        "G10",
+        "O04",
+        "O10"
+      ],
+      "facilitator_note": "Trate vício com seriedade e sem desprezo; o ponto é caridade com verdade.",
+      "reading_points": [
+        {
+          "title": "Dano escondido",
+          "body": "O vício já produz mentiras, dívidas e sofrimento concreto."
+        },
+        {
+          "title": "Aparência protegida",
+          "body": "A família preserva a imagem, mas não enfrenta a ferida real."
+        },
+        {
+          "title": "Ajuda verdadeira",
+          "body": "Caridade exige limite, conselho e encaminhamento, não cumplicidade."
+        }
+      ]
+    },
+    {
+      "id": "I12",
+      "term_id": "I12",
+      "call_label": "I12 - Dano ambiental oculto",
+      "case": "Uma fábrica despeja resíduos no córrego durante a madrugada para economizar no tratamento correto. Os moradores começam a notar mau cheiro e peixes mortos.",
+      "conference_question": "Como a consciência deve julgar um dano escondido que atinge pessoas que nem participaram da decisão?",
+      "anchors": [
+        "B13",
+        "B04",
+        "O13"
+      ],
+      "facilitator_note": "Evite debate lateral amplo; foque em ocultação, dano comunitário e responsabilidade moral.",
+      "reading_points": [
+        {
+          "title": "Ocultação deliberada",
+          "body": "A madrugada é escolhida para reduzir a chance de descoberta."
+        },
+        {
+          "title": "Vítimas indiretas",
+          "body": "O prejuízo recai sobre moradores, água e vida ao redor."
+        },
+        {
+          "title": "Responsabilidade objetiva",
+          "body": "A consciência não pode chamar economia de bem quando o meio causa dano injusto."
+        }
+      ]
+    },
+    {
+      "id": "I13",
+      "term_id": "I13",
+      "call_label": "I13 - Ordem injusta no trabalho",
+      "case": "Um supervisor manda a atendente negar uma garantia válida, dizendo que a empresa não pode perder dinheiro. Ela sabe que o cliente tem direito ao reparo.",
+      "conference_question": "Que critério ajuda a responder quando uma ordem profissional exige mentira ou injustiça?",
+      "anchors": [
+        "B04",
+        "G14",
+        "O06"
+      ],
+      "facilitator_note": "Mostre que obediência no trabalho tem limite moral.",
+      "reading_points": [
+        {
+          "title": "Comando injusto",
+          "body": "A ordem exige negar um direito real do consumidor."
+        },
+        {
+          "title": "Pressão hierárquica",
+          "body": "O cargo do supervisor tenta transferir a responsabilidade para baixo."
+        },
+        {
+          "title": "Limite da obediência",
+          "body": "A consciência não deve cooperar com uma mentira conhecida."
+        }
+      ]
+    },
+    {
+      "id": "I14",
+      "term_id": "I14",
+      "call_label": "I14 - Relação manipuladora",
+      "case": "Um namorado exige senha do celular, critica amizades e decide a roupa da namorada. Quando ela reclama, ele responde que só faz isso porque ama e quer cuidar.",
+      "conference_question": "Como distinguir cuidado verdadeiro de controle apresentado como amor?",
+      "anchors": [
+        "G07",
+        "G14",
+        "O11"
+      ],
+      "facilitator_note": "Nomeie o controle sem sensacionalismo; proteção não é posse.",
+      "reading_points": [
+        {
+          "title": "Controle disfarçado",
+          "body": "A linguagem de cuidado encobre domínio sobre decisões e relações."
+        },
+        {
+          "title": "Liberdade ferida",
+          "body": "O amor não anula a responsabilidade e a dignidade da outra pessoa."
+        },
+        {
+          "title": "Resposta prudente",
+          "body": "A consciência deve reconhecer sinais de abuso e buscar proteção proporcional."
+        }
+      ]
+    },
+    {
+      "id": "I15",
+      "term_id": "I15",
+      "call_label": "I15 - Exemplo que derruba",
+      "case": "Um adulto conhecido por participar da Igreja humilha garçons em um restaurante e depois fala de fé com naturalidade. Pessoas à mesa concluem que a fé dele não muda seu modo de tratar os outros.",
+      "conference_question": "Quando a incoerência pública se torna ocasião de queda para outros, e não apenas falha privada?",
+      "anchors": [
+        "B11",
+        "1Cor 8,9",
+        "Rm 14,21"
+      ],
+      "facilitator_note": "Evite atacar a pessoa; mostre como o mau exemplo pode ferir a confiança no bem.",
+      "reading_points": [
+        {
+          "title": "Incoerência visível",
+          "body": "A fala religiosa contrasta com a humilhação concreta dos trabalhadores."
+        },
+        {
+          "title": "Efeito sobre outros",
+          "body": "Quem presencia pode concluir que a fé permite desprezo e grosseria."
+        },
+        {
+          "title": "Escândalo moral",
+          "body": "A liberdade e a imagem pública precisam ser vividas com caridade responsável."
+        }
+      ]
+    },
+    {
+      "id": "N01",
+      "term_id": "N01",
+      "call_label": "N01 - Falsa autonomia",
+      "case": "O dono de uma empresa decide reduzir salários combinados e diz que ninguém tem o direito de interferir, porque o negócio é dele. Os funcionários dependem desse pagamento para sustentar a casa.",
+      "conference_question": "Por que a propriedade ou a decisão pessoal não tornam a vontade individual medida absoluta do bem?",
+      "anchors": [
+        "CEC 1792",
+        "B10"
+      ],
+      "facilitator_note": "Mostre que autonomia sem verdade e justiça vira licença para ferir o próximo.",
+      "reading_points": [
+        {
+          "title": "Vontade absolutizada",
+          "body": "O empresário trata sua decisão como se não tivesse limite moral."
+        },
+        {
+          "title": "Próximo atingido",
+          "body": "A escolha afeta trabalhadores reais, não apenas números da empresa."
+        },
+        {
+          "title": "Liberdade diante de Deus",
+          "body": "A consciência deve reconhecer uma lei moral que supera o próprio interesse."
+        }
+      ]
+    },
+    {
+      "id": "N02",
+      "term_id": "N02",
+      "call_label": "N02 - Consciência como sentimento",
+      "case": "Um motorista dirige em alta velocidade depois de beber pouco e diz que está tranquilo, por isso sua consciência não pesa. Ele ignora o risco real que impõe aos outros.",
+      "conference_question": "Como distinguir sentir-se tranquilo de julgar racionalmente se um ato é moralmente bom?",
+      "anchors": [
+        "CEC 1778",
+        "B02"
+      ],
+      "facilitator_note": "Destaque que ausência de culpa sentida não prova retidão moral.",
+      "reading_points": [
+        {
+          "title": "Paz enganosa",
+          "body": "A tranquilidade emocional não elimina o risco criado."
+        },
+        {
+          "title": "Critério objetivo",
+          "body": "A consciência deve avaliar o ato e suas consequências reais."
+        },
+        {
+          "title": "Razão moral",
+          "body": "O Catecismo fala de juízo da razão, não de simples sensação interior."
+        }
+      ]
+    },
+    {
+      "id": "N03",
+      "term_id": "N03",
+      "call_label": "N03 - Todo mundo faz",
+      "case": "Em um setor da empresa, vários funcionários batem ponto por colegas atrasados. Quando alguém questiona, respondem que isso sempre aconteceu e que só seria errado se fosse exceção.",
+      "conference_question": "Por que a frequência de um erro não muda sua qualidade moral?",
+      "anchors": [
+        "CEC 1792",
+        "Rm 12,2"
+      ],
+      "facilitator_note": "Ajude a turma a perceber a força sedutora do costume coletivo.",
+      "reading_points": [
+        {
+          "title": "Normalidade aparente",
+          "body": "O erro parece menor porque foi absorvido pela rotina."
+        },
+        {
+          "title": "Responsabilidade pessoal",
+          "body": "Cada pessoa ainda escolhe participar ou não da fraude."
+        },
+        {
+          "title": "Conversão do critério",
+          "body": "A consciência cristã não se conforma automaticamente ao padrão do ambiente."
+        }
+      ]
+    },
+    {
+      "id": "N04",
+      "term_id": "N04",
+      "call_label": "N04 - Meio mau, fim bom",
+      "case": "Uma organização altera números de um relatório para conseguir doações destinadas a uma obra social. Os responsáveis dizem que a mentira vale a pena porque ajudará muita gente.",
+      "conference_question": "Como explicar que uma finalidade boa não autoriza escolher um meio moralmente mau?",
+      "anchors": [
+        "CEC 1789"
+      ],
+      "facilitator_note": "Não ataque a obra boa; mostre que o meio injusto corrompe a ação.",
+      "reading_points": [
+        {
+          "title": "Finalidade nobre",
+          "body": "A intenção de ajudar pessoas é apresentada como razão para fraudar."
+        },
+        {
+          "title": "Meio corrompido",
+          "body": "O relatório falso engana doadores e destrói a confiança."
+        },
+        {
+          "title": "Regra moral",
+          "body": "Nunca é permitido praticar um mal para obter um bem."
+        }
+      ]
+    },
+    {
+      "id": "N05",
+      "term_id": "N05",
+      "call_label": "N05 - Legal é moral",
+      "case": "Uma empresa usa uma brecha contratual para atrasar pagamentos de pequenos fornecedores sem multa. O diretor afirma que, se os advogados aprovaram, não há questão de consciência.",
+      "conference_question": "Por que nem tudo que é juridicamente possível é moralmente justo?",
+      "anchors": [
+        "B02",
+        "B13"
+      ],
+      "facilitator_note": "Diferencie legalidade de retidão moral sem desprezar a importância da lei civil.",
+      "reading_points": [
+        {
+          "title": "Brecha explorada",
+          "body": "A empresa usa o contrato para impor prejuízo a quem tem menos força."
+        },
+        {
+          "title": "Redução legalista",
+          "body": "O diretor elimina a pergunta moral porque encontrou permissão jurídica."
+        },
+        {
+          "title": "Juízo mais profundo",
+          "body": "A consciência pergunta pelo bem e pela justiça, não só pela ausência de multa."
+        }
+      ]
+    },
+    {
+      "id": "N06",
+      "term_id": "N06",
+      "call_label": "N06 - Só obedeci ordens",
+      "case": "Um funcionário altera dados de um laudo porque o chefe mandou. Depois, quando o problema aparece, ele diz que não tinha escolha e que apenas cumpriu sua função.",
+      "conference_question": "Como distinguir obediência legítima de cooperação pessoal com uma ordem injusta?",
+      "anchors": [
+        "B04",
+        "G14",
+        "O06"
+      ],
+      "facilitator_note": "Mostre que pressão real pode diminuir liberdade, mas não transforma mentira em bem.",
+      "reading_points": [
+        {
+          "title": "Comando recebido",
+          "body": "A ordem vem de autoridade profissional, mas exige falsificação."
+        },
+        {
+          "title": "Responsabilidade própria",
+          "body": "Cumprir função não apaga o juízo moral sobre o ato praticado."
+        },
+        {
+          "title": "Limite moral",
+          "body": "A consciência deve resistir quando a obediência exige o mal."
+        }
+      ]
+    },
+    {
+      "id": "N07",
+      "term_id": "N07",
+      "call_label": "N07 - Ninguém está vendo",
+      "case": "Um zelador pega dinheiro esquecido em uma gaveta sem câmeras por perto. Ele pensa que, se ninguém notar, o ato não terá peso.",
+      "conference_question": "Por que o valor moral de um ato não depende apenas de ser descoberto ou punido?",
+      "anchors": [
+        "B01",
+        "B04"
+      ],
+      "facilitator_note": "Leve a reflexão para a presença de Deus e a verdade do ato, não para vigilância externa.",
+      "reading_points": [
+        {
+          "title": "Ocasião escondida",
+          "body": "A ausência de testemunhas cria uma tentação de impunidade."
+        },
+        {
+          "title": "Consciência reduzida",
+          "body": "O zelador mede o erro pelo risco de ser visto, não pela justiça."
+        },
+        {
+          "title": "Deus e verdade",
+          "body": "A consciência permanece diante de Deus mesmo quando ninguém observa."
+        }
+      ]
+    },
+    {
+      "id": "N08",
+      "term_id": "N08",
+      "call_label": "N08 - Culpa diluída",
+      "case": "Um boato falso destrói a reputação de uma funcionária. Quem encaminhou a mensagem diz que não é responsável, porque centenas de pessoas também compartilharam.",
+      "conference_question": "Como explicar a responsabilidade pessoal dentro de um mal praticado por muitos?",
+      "anchors": [
+        "B04",
+        "I02"
+      ],
+      "facilitator_note": "Destaque que cooperação pequena pode aumentar dano grande.",
+      "reading_points": [
+        {
+          "title": "Dano coletivo",
+          "body": "A reputação foi ferida por uma corrente de repasses."
+        },
+        {
+          "title": "Desculpa da multidão",
+          "body": "A quantidade de envolvidos tenta apagar a escolha individual."
+        },
+        {
+          "title": "Responsabilidade concreta",
+          "body": "Cada participação no mal deve ser julgada pela consciência."
+        }
+      ]
+    },
+    {
+      "id": "N09",
+      "term_id": "N09",
+      "call_label": "N09 - Liberdade sem caridade",
+      "case": "Durante um almoço, alguém insiste em servir bebida a um parente recém-saído de tratamento contra alcoolismo. Quando é advertido, responde que cada um deve cuidar da própria vida.",
+      "conference_question": "Como a caridade corrige uma liberdade que despreza a fragilidade concreta do outro?",
+      "anchors": [
+        "B09",
+        "Gl 5,13",
+        "1Cor 8,9"
+      ],
+      "facilitator_note": "Relacione com Paulo: o problema não é só o ato em si, mas a queda do irmão.",
+      "reading_points": [
+        {
+          "title": "Fragilidade conhecida",
+          "body": "Todos sabem que aquele parente enfrenta uma luta real contra a dependência."
+        },
+        {
+          "title": "Liberdade egoísta",
+          "body": "A frase sobre cuidar da própria vida ignora a influência sobre o outro."
+        },
+        {
+          "title": "Caridade concreta",
+          "body": "A liberdade cristã se limita por amor quando pode se tornar tropeço."
+        }
+      ]
+    },
+    {
+      "id": "N10",
+      "term_id": "N10",
+      "call_label": "N10 - Culpa sem reparação",
+      "case": "Depois de desviar dinheiro da associação do bairro, o tesoureiro chora e diz que se sente péssimo. Mas evita devolver valores, mostrar contas e procurar as pessoas prejudicadas.",
+      "conference_question": "Por que sentir culpa não basta quando há dano concreto a reparar?",
+      "anchors": [
+        "O07",
+        "Mt 5,23-24",
+        "Lc 19,8"
+      ],
+      "facilitator_note": "Não despreze o arrependimento; mostre que arrependimento verdadeiro busca reparação possível.",
+      "reading_points": [
+        {
+          "title": "Culpa sentida",
+          "body": "O sofrimento emocional aparece, mas ainda não enfrenta a injustiça cometida."
+        },
+        {
+          "title": "Dano pendente",
+          "body": "O dinheiro e a confiança da comunidade continuam feridos."
+        },
+        {
+          "title": "Conversão verificável",
+          "body": "A consciência pede verdade, devolução e reparação possível."
+        }
+      ]
+    },
+    {
+      "id": "N11",
+      "term_id": "N11",
+      "call_label": "N11 - Relativismo cômodo",
+      "case": "Um homem descobre corrupção no negócio da família e diz que não existe certo e errado, apenas pontos de vista. Ele sabe que denunciar ou corrigir o esquema trará conflito dentro de casa.",
+      "conference_question": "Como reconhecer quando o discurso de que tudo é relativo serve para evitar conversão?",
+      "anchors": [
+        "CEC 1792",
+        "Jo 8,31-32"
+      ],
+      "facilitator_note": "Mostre que relativismo pode ser fuga da verdade que exige custo.",
+      "reading_points": [
+        {
+          "title": "Verdade inconveniente",
+          "body": "A corrupção é real, mas reconhecê-la traria perda e conflito."
+        },
+        {
+          "title": "Fuga intelectual",
+          "body": "A frase sobre pontos de vista protege a vantagem e adia a decisão moral."
+        },
+        {
+          "title": "Libertação pela verdade",
+          "body": "A consciência cristã busca a verdade mesmo quando ela exige conversão."
+        }
+      ]
+    },
+    {
+      "id": "N12",
+      "term_id": "N12",
+      "call_label": "N12 - Hábito como desculpa",
+      "case": "Um homem grita com a esposa e os filhos sempre que é contrariado. Depois diz que esse é seu jeito e que todos já deveriam ter aprendido a lidar com ele.",
+      "conference_question": "Por que um hábito antigo pode explicar uma fraqueza sem tornar a pessoa inocente diante dela?",
+      "anchors": [
+        "B14",
+        "CEC 1784"
+      ],
+      "facilitator_note": "Trate o hábito como campo de conversão, não como identidade imutável.",
+      "reading_points": [
+        {
+          "title": "Padrão repetido",
+          "body": "A agressividade não aparece como acidente isolado, mas como costume."
+        },
+        {
+          "title": "Desculpa de identidade",
+          "body": "Dizer que é seu jeito tenta impedir correção e responsabilidade."
+        },
+        {
+          "title": "Virtude possível",
+          "body": "A formação da consciência educa hábitos e cura movimentos desordenados."
+        }
+      ]
+    },
+    {
+      "id": "N13",
+      "term_id": "N13",
+      "call_label": "N13 - Ciência sem amor",
+      "case": "Um cristão instruído sabe que uma prática social não o levaria ao pecado, mas faz questão de exibi-la diante de recém-convertidos confusos. Alguns entendem aquilo como autorização para voltar a antigos vícios.",
+      "conference_question": "Como distinguir conhecimento correto de uso orgulhoso do conhecimento que derruba os fracos?",
+      "anchors": [
+        "1Cor 8,4-13",
+        "B09"
+      ],
+      "facilitator_note": "Aplique 1Cor 8 com clareza: saber mais não dispensa amar mais.",
+      "reading_points": [
+        {
+          "title": "Conhecimento real",
+          "body": "A pessoa compreende algo que outros ainda não conseguem discernir."
+        },
+        {
+          "title": "Exibição perigosa",
+          "body": "O modo público de agir confunde consciências frágeis."
+        },
+        {
+          "title": "Amor superior",
+          "body": "Paulo ensina que o critério final não é ostentar liberdade, mas edificar o irmão."
+        }
+      ]
+    },
+    {
+      "id": "N14",
+      "term_id": "N14",
+      "call_label": "N14 - Covardia prudente",
+      "case": "Um enfermeiro percebe sinais de maus-tratos contra um paciente idoso. Ele chama seu silêncio de prudência, mas no fundo quer evitar conflito com a equipe.",
+      "conference_question": "Como distinguir prudência verdadeira de omissão motivada por medo e conveniência?",
+      "anchors": [
+        "G11",
+        "Tg 4,17"
+      ],
+      "facilitator_note": "Mostre que prudência procura modo adequado de agir, não desculpa para abandonar a vítima.",
+      "reading_points": [
+        {
+          "title": "Sinal grave",
+          "body": "Há indícios concretos de dano contra alguém vulnerável."
+        },
+        {
+          "title": "Nome falso",
+          "body": "A palavra prudência encobre medo de enfrentar o problema."
+        },
+        {
+          "title": "Ação proporcional",
+          "body": "A consciência deve buscar um caminho seguro e verdadeiro para proteger."
+        }
+      ]
+    },
+    {
+      "id": "N15",
+      "term_id": "N15",
+      "call_label": "N15 - Tanto faz agora",
+      "case": "Depois de ser descoberto em uma fraude, um contador diz que sua reputação já acabou e que não adianta mudar. Ele continua aceitando trabalhos irregulares.",
+      "conference_question": "Por que o erro já cometido não autoriza continuar no erro nem fechar a porta à conversão?",
+      "anchors": [
+        "B15",
+        "1Jo 1,8-9"
+      ],
+      "facilitator_note": "Mostre que desespero moral pode virar desculpa para perseverar no pecado.",
+      "reading_points": [
+        {
+          "title": "Queda reconhecida",
+          "body": "A fraude já veio à tona e trouxe consequências reais."
+        },
+        {
+          "title": "Desânimo cúmplice",
+          "body": "A frase sobre não adiantar mudar protege a continuação do mal."
+        },
+        {
+          "title": "Recomeço necessário",
+          "body": "A graça chama à verdade e à conversão mesmo depois de queda grave."
+        }
+      ]
+    },
+    {
+      "id": "G01",
+      "term_id": "G01",
+      "call_label": "G01 - Pessoa e ato",
+      "case": "Uma mulher descobre que o irmão roubou dinheiro da própria mãe. Ela quer chamá-lo para sempre de ladrão e expulsá-lo de qualquer conversa familiar.",
+      "conference_question": "Como condenar claramente o ato sem reduzir a pessoa ao pecado que cometeu?",
+      "anchors": [
+        "B12",
+        "CEC 1849"
+      ],
+      "facilitator_note": "Una firmeza contra o ato e respeito à dignidade da pessoa.",
+      "reading_points": [
+        {
+          "title": "Ato grave",
+          "body": "Roubar a própria mãe exige verdade, consequência e reparação."
+        },
+        {
+          "title": "Pessoa não reduzida",
+          "body": "A dignidade do irmão não desaparece por causa do pecado cometido."
+        },
+        {
+          "title": "Juízo cristão",
+          "body": "A fé permite chamar o mal de mal sem negar a possibilidade de conversão."
+        }
+      ]
+    },
+    {
+      "id": "G02",
+      "term_id": "G02",
+      "call_label": "G02 - Consciência e capricho",
+      "case": "Durante uma enchente, um comerciante triplica o preço da água e diz que sua consciência está em paz. Ele sabe que as famílias não têm alternativa.",
+      "conference_question": "Que sinais mostram que ele está usando a palavra consciência para proteger um capricho ou interesse?",
+      "anchors": [
+        "B02",
+        "N02"
+      ],
+      "facilitator_note": "Mostre que invocar consciência não basta; é preciso juízo reto sobre o ato.",
+      "reading_points": [
+        {
+          "title": "Necessidade explorada",
+          "body": "A emergência torna os compradores dependentes do produto."
+        },
+        {
+          "title": "Consciência invocada",
+          "body": "Ele usa paz interior como escudo para não julgar a injustiça."
+        },
+        {
+          "title": "Juízo objetivo",
+          "body": "Consciência moral não é autorização para chamar interesse próprio de bem."
+        }
+      ]
+    },
+    {
+      "id": "G03",
+      "term_id": "G03",
+      "call_label": "G03 - Juízo certo e erro",
+      "case": "Uma cuidadora aprendeu uma prática antiga de medicação que hoje se sabe perigosa. Ao receber orientação correta, precisa mudar, embora tenha agido antes sem intenção de ferir.",
+      "conference_question": "Como distinguir seguir a consciência no passado e corrigir a consciência quando o erro aparece?",
+      "anchors": [
+        "CEC 1790",
+        "CEC 1793"
+      ],
+      "facilitator_note": "Evite simplificar como culpa total ou inocência total; destaque correção do erro.",
+      "reading_points": [
+        {
+          "title": "Erro aprendido",
+          "body": "A prática foi recebida como normal, mas se revela perigosa."
+        },
+        {
+          "title": "Consciência corrigida",
+          "body": "Ao conhecer a verdade, a cuidadora não pode permanecer no mesmo procedimento."
+        },
+        {
+          "title": "Dever duplo",
+          "body": "Deve-se seguir a consciência, mas também trabalhar para corrigi-la de seus erros."
+        }
+      ]
+    },
+    {
+      "id": "G04",
+      "term_id": "G04",
+      "call_label": "G04 - Ignorância vencível",
+      "case": "Um empresário evita ler normas trabalhistas e recusa orientação moral porque prefere não saber se sua prática é injusta. Ele diz que ignorância o deixa em paz.",
+      "conference_question": "Por que a recusa de buscar a verdade pode tornar a ignorância moralmente culpável?",
+      "anchors": [
+        "CEC 1792",
+        "CEC 1783"
+      ],
+      "facilitator_note": "Explique que ignorância buscada ou mantida por conveniência não é inocência.",
+      "reading_points": [
+        {
+          "title": "Não querer saber",
+          "body": "Ele evita informação justamente porque ela poderia exigir mudança."
+        },
+        {
+          "title": "Ignorância escolhida",
+          "body": "A falta de conhecimento nasce de comodismo e proteção de vantagem."
+        },
+        {
+          "title": "Dever de formar",
+          "body": "A consciência precisa ser educada, especialmente diante de responsabilidades graves."
+        }
+      ]
+    },
+    {
+      "id": "G05",
+      "term_id": "G05",
+      "call_label": "G05 - Ignorância invencível",
+      "case": "Um trabalhador rural, sem acesso a orientação técnica, usa por anos uma substância que todos na região consideravam inofensiva. Depois se descobre que ela contaminava a água.",
+      "conference_question": "Como distinguir a ausência real de culpa pessoal e a permanência objetiva de um dano que precisa ser corrigido?",
+      "anchors": [
+        "CEC 1793"
+      ],
+      "facilitator_note": "Mostre que não imputar culpa não significa chamar o mal de bem.",
+      "reading_points": [
+        {
+          "title": "Limite real",
+          "body": "A pessoa não tinha meios proporcionais de conhecer o perigo."
+        },
+        {
+          "title": "Dano objetivo",
+          "body": "A contaminação continua sendo uma desordem que precisa cessar."
+        },
+        {
+          "title": "Correção necessária",
+          "body": "Quando a verdade aparece, a consciência deve mudar o procedimento."
+        }
+      ]
+    },
+    {
+      "id": "G06",
+      "term_id": "G06",
+      "call_label": "G06 - Culpa e imputabilidade",
+      "case": "Uma funcionária assina um documento irregular depois de sofrer ameaça direta de demissão e represália. O ato é falso, mas a pressão sofrida pesa na avaliação de sua responsabilidade.",
+      "conference_question": "Como distinguir a gravidade objetiva de um ato e a responsabilidade subjetiva de quem agiu sob pressão grave?",
+      "anchors": [
+        "CEC 1735",
+        "CEC 1793"
+      ],
+      "facilitator_note": "Evite absolver automaticamente ou condenar sem considerar liberdade, medo e pressão.",
+      "reading_points": [
+        {
+          "title": "Ato errado",
+          "body": "O documento irregular não se torna verdadeiro por causa da ameaça."
+        },
+        {
+          "title": "Liberdade diminuída",
+          "body": "Medo e coação podem reduzir a responsabilidade pessoal."
+        },
+        {
+          "title": "Discernimento justo",
+          "body": "A moral cristã considera tanto o ato quanto a condição concreta do agente."
+        }
+      ]
+    },
+    {
+      "id": "G07",
+      "term_id": "G07",
+      "call_label": "G07 - Liberdade e impulso",
+      "case": "Depois de uma ofensa, um homem escreve uma mensagem cruel para destruir a reputação de outro. Ele diz que está sendo autêntico porque escreveu no calor do momento.",
+      "conference_question": "Por que agir por impulso não é o mesmo que agir livremente em sentido moral?",
+      "anchors": [
+        "B10",
+        "CEC 1784"
+      ],
+      "facilitator_note": "Mostre que liberdade exige domínio de si e juízo, não só espontaneidade.",
+      "reading_points": [
+        {
+          "title": "Paixão dominante",
+          "body": "A raiva conduz a ação antes que a razão julgue o bem."
+        },
+        {
+          "title": "Autenticidade falsa",
+          "body": "Ser sincero sobre a raiva não torna justa a crueldade."
+        },
+        {
+          "title": "Liberdade educada",
+          "body": "A consciência formada aprende a não obedecer automaticamente ao impulso."
+        }
+      ]
+    },
+    {
+      "id": "G08",
+      "term_id": "G08",
+      "call_label": "G08 - Lícito e conveniente",
+      "case": "Um médico pode apresentar um caso clínico sem nome em congresso, mas a cidade é pequena e os detalhes identificam facilmente a paciente. Ele precisa decidir se aquilo convém.",
+      "conference_question": "Como distinguir algo permitido em tese daquilo que convém fazer diante de pessoas concretas?",
+      "anchors": [
+        "1Cor 8,4-13",
+        "B09"
+      ],
+      "facilitator_note": "Aplique a lógica de 1Cor 8: o permitido pode exigir renúncia por caridade e prudência.",
+      "reading_points": [
+        {
+          "title": "Permissão aparente",
+          "body": "O caso sem nome parece aceitável em regra geral."
+        },
+        {
+          "title": "Contexto concreto",
+          "body": "Os detalhes podem expor uma pessoa real em ambiente pequeno."
+        },
+        {
+          "title": "Conveniente e caridoso",
+          "body": "A consciência cristã considera efeitos concretos, não apenas permissão formal."
+        }
+      ]
+    },
+    {
+      "id": "G09",
+      "term_id": "G09",
+      "call_label": "G09 - Escândalo e discordância",
+      "case": "Um funcionário se recusa a participar de fraude interna. Colegas ficam irritados e dizem que ele criou escândalo porque quebrou a harmonia do setor.",
+      "conference_question": "Como distinguir escandalizar alguém e simplesmente incomodar pessoas ao fazer o que é certo?",
+      "anchors": [
+        "B11",
+        "1Cor 8,9"
+      ],
+      "facilitator_note": "Mostre que nem todo incômodo causado pelo bem é escândalo moral.",
+      "reading_points": [
+        {
+          "title": "Bem incômodo",
+          "body": "A recusa expõe uma prática errada que os outros preferiam manter."
+        },
+        {
+          "title": "Palavra manipulada",
+          "body": "Chamam de escândalo o desconforto causado pela verdade."
+        },
+        {
+          "title": "Critério correto",
+          "body": "Escândalo moral é levar ao mal, não desagradar por praticar o bem."
+        }
+      ]
+    },
+    {
+      "id": "G10",
+      "term_id": "G10",
+      "call_label": "G10 - Caridade e conivência",
+      "case": "A família sabe que um parente dirige bêbado, mas evita confrontá-lo para não criar clima ruim. Todos dizem que fazem isso por amor.",
+      "conference_question": "Como a caridade verdadeira se diferencia da conivência que deixa o mal continuar?",
+      "anchors": [
+        "B09",
+        "O11"
+      ],
+      "facilitator_note": "Mostre que amor não é deixar a pessoa destruir a si mesma e aos outros.",
+      "reading_points": [
+        {
+          "title": "Risco grave",
+          "body": "Dirigir bêbado ameaça a vida do parente e de inocentes."
+        },
+        {
+          "title": "Amor deformado",
+          "body": "Evitar conflito pode ser mais comodismo do que caridade."
+        },
+        {
+          "title": "Correção necessária",
+          "body": "Amar inclui colocar limites e proteger pessoas em risco."
+        }
+      ]
+    },
+    {
+      "id": "G11",
+      "term_id": "G11",
+      "call_label": "G11 - Prudência e omissão",
+      "case": "Uma vizinha ouve violência doméstica no apartamento ao lado. Ela sabe que agir sozinha pode ser perigoso, mas também sabe que fingir que não ouviu deixará a vítima sem ajuda.",
+      "conference_question": "Como a prudência encontra um modo seguro de agir sem cair na omissão?",
+      "anchors": [
+        "Tg 4,17",
+        "B04"
+      ],
+      "facilitator_note": "Indique resposta proporcional: procurar autoridade competente ou rede segura, não heroísmo imprudente.",
+      "reading_points": [
+        {
+          "title": "Perigo real",
+          "body": "Há risco para a vítima e também para quem intervém sem preparo."
+        },
+        {
+          "title": "Omissão tentadora",
+          "body": "Fingir que nada aconteceu protege o conforto, não a pessoa ferida."
+        },
+        {
+          "title": "Prudência ativa",
+          "body": "A resposta moral busca caminho seguro, concreto e eficaz."
+        }
+      ]
+    },
+    {
+      "id": "G12",
+      "term_id": "G12",
+      "call_label": "G12 - Verdade e humilhação",
+      "case": "Um gerente expõe o erro de uma funcionária diante de clientes e colegas, dizendo que todos precisam saber a verdade. A correção poderia ter sido feita em particular.",
+      "conference_question": "Quando dizer a verdade se transforma em humilhação e deixa de servir à correção?",
+      "anchors": [
+        "Ef 4,25",
+        "B13"
+      ],
+      "facilitator_note": "Mostre que verdade sem caridade pode virar instrumento de domínio.",
+      "reading_points": [
+        {
+          "title": "Erro real",
+          "body": "A funcionária pode precisar de correção pelo que fez."
+        },
+        {
+          "title": "Exposição indevida",
+          "body": "O gerente escolhe um modo que fere a honra e aumenta a vergonha."
+        },
+        {
+          "title": "Verdade caridosa",
+          "body": "A consciência busca corrigir o mal sem humilhar desnecessariamente."
+        }
+      ]
+    },
+    {
+      "id": "G13",
+      "term_id": "G13",
+      "call_label": "G13 - Reparação e punição",
+      "case": "Depois de um furto interno, a empresa quer apenas expor o funcionário nas redes para servir de exemplo. O dinheiro ainda não foi devolvido e não houve processo justo.",
+      "conference_question": "Como distinguir reparação justa de punição movida por raiva e exposição?",
+      "anchors": [
+        "O07",
+        "Mt 5,23-24",
+        "Lc 19,8"
+      ],
+      "facilitator_note": "Mostre que consequência pode ser necessária, mas vingança pública não repara o dano.",
+      "reading_points": [
+        {
+          "title": "Dano concreto",
+          "body": "O furto exige verdade, restituição e proteção contra novos prejuízos."
+        },
+        {
+          "title": "Punição desordenada",
+          "body": "A exposição pública busca descarregar raiva mais do que restaurar justiça."
+        },
+        {
+          "title": "Reparação cristã",
+          "body": "A resposta justa procura recuperar o que foi ferido e abrir caminho de conversão."
+        }
+      ]
+    },
+    {
+      "id": "G14",
+      "term_id": "G14",
+      "call_label": "G14 - Autoridade e abuso",
+      "case": "Um coordenador exige horas extras sem pagamento e ameaça cortar oportunidades de quem reclamar. Ele diz que autoridade existe para ser obedecida.",
+      "conference_question": "Como reconhecer quando uma autoridade deixa de servir ao bem e passa a abusar do poder?",
+      "anchors": [
+        "N06",
+        "O06"
+      ],
+      "facilitator_note": "Diferencie autoridade legítima de domínio injusto, sem atacar toda autoridade.",
+      "reading_points": [
+        {
+          "title": "Poder real",
+          "body": "O coordenador tem influência concreta sobre oportunidades de trabalho."
+        },
+        {
+          "title": "Uso abusivo",
+          "body": "A ameaça transforma autoridade em instrumento de exploração."
+        },
+        {
+          "title": "Limite moral",
+          "body": "A obediência não é cega quando o comando fere a justiça."
+        }
+      ]
+    },
+    {
+      "id": "G15",
+      "term_id": "G15",
+      "call_label": "G15 - Misericórdia e banalização",
+      "case": "Depois de uma fraude, parentes dizem que é preciso perdoar e deixar tudo quieto. A vítima ainda não foi ressarcida e quem errou não reconheceu a mentira.",
+      "conference_question": "Como distinguir misericórdia verdadeira de banalização do pecado e da injustiça?",
+      "anchors": [
+        "B15",
+        "N10",
+        "O07"
+      ],
+      "facilitator_note": "Mostre que perdão cristão não apaga verdade, reparação e conversão.",
+      "reading_points": [
+        {
+          "title": "Perdão invocado",
+          "body": "A palavra misericórdia aparece antes da verdade e da reparação."
+        },
+        {
+          "title": "Injustiça pendente",
+          "body": "A vítima continua ferida e o dano permanece sem resposta."
+        },
+        {
+          "title": "Misericórdia exigente",
+          "body": "Deus perdoa chamando ao arrependimento e à mudança real."
+        }
+      ]
+    },
+    {
+      "id": "O01",
+      "term_id": "O01",
+      "call_label": "O01 - Parar antes do ato",
+      "case": "Uma diretora está prestes a enviar uma mensagem agressiva a toda a equipe. Antes de clicar, percebe que quer ferir mais do que corrigir e decide esperar para reler com calma.",
+      "conference_question": "Como uma pausa concreta pode proteger a consciência antes que o impulso vire ato?",
+      "anchors": [
+        "B02",
+        "B04"
+      ],
+      "facilitator_note": "Mostre que parar não é fraqueza; é abrir espaço para juízo moral.",
+      "reading_points": [
+        {
+          "title": "Ato iminente",
+          "body": "O envio da mensagem tornaria pública uma reação ainda desordenada."
+        },
+        {
+          "title": "Intenção examinada",
+          "body": "Ela percebe que o objetivo não é só corrigir, mas ferir."
+        },
+        {
+          "title": "Pausa responsável",
+          "body": "Interromper o gesto permite que a razão julgue antes da ação."
+        }
+      ]
+    },
+    {
+      "id": "O02",
+      "term_id": "O02",
+      "call_label": "O02 - Formar a consciência",
+      "case": "Um profissional encontra dúvidas morais recorrentes no trabalho e percebe que decide tudo por opinião de colegas. Ele começa a estudar o Catecismo, ouvir orientação séria e rezar sobre as escolhas.",
+      "conference_question": "Por que formar a consciência exige meios concretos e não apenas boa intenção?",
+      "anchors": [
+        "CEC 1783",
+        "CEC 1785"
+      ],
+      "facilitator_note": "Indique os meios do encontro: Palavra, oração, Igreja, conselhos e virtude.",
+      "reading_points": [
+        {
+          "title": "Critério frágil",
+          "body": "Opiniões de colegas não bastam para decisões morais sérias."
+        },
+        {
+          "title": "Meios de formação",
+          "body": "Estudo, oração e conselho ajudam a consciência a julgar com retidão."
+        },
+        {
+          "title": "Tarefa permanente",
+          "body": "A educação da consciência é compromisso de toda a vida."
+        }
+      ]
+    },
+    {
+      "id": "O03",
+      "term_id": "O03",
+      "call_label": "O03 - Examinar o dia",
+      "case": "Antes de dormir, um pai revê o dia e percebe palavras duras com os filhos e uma dívida que vem adiando. Ele anota o que precisa reparar no dia seguinte.",
+      "conference_question": "Como o exame do dia transforma consciência em conversão concreta, e não em culpa vaga?",
+      "anchors": [
+        "B08",
+        "Sl 139,23-24"
+      ],
+      "facilitator_note": "Mostre que exame de consciência nomeia atos e omissões específicos.",
+      "reading_points": [
+        {
+          "title": "Revisão concreta",
+          "body": "Ele não fica em sentimento vago, mas reconhece palavras e dívida."
+        },
+        {
+          "title": "Responsabilidade assumida",
+          "body": "O exame aponta para reparação possível no dia seguinte."
+        },
+        {
+          "title": "Oração honesta",
+          "body": "Diante de Deus, a consciência aprende a ver a própria vida com verdade."
+        }
+      ]
+    },
+    {
+      "id": "O04",
+      "term_id": "O04",
+      "call_label": "O04 - Buscar bom conselho",
+      "case": "Uma mulher descobre irregularidade fiscal no negócio do marido e não sabe como agir sem destruir a família nem acobertar fraude. Ela procura orientação de pessoa prudente e competente.",
+      "conference_question": "Que características tornam um conselho moralmente bom em uma decisão grave?",
+      "anchors": [
+        "CEC 1785",
+        "Pr 12,15"
+      ],
+      "facilitator_note": "Destaque prudência, competência, fidelidade à verdade e ausência de interesse no erro.",
+      "reading_points": [
+        {
+          "title": "Conflito sério",
+          "body": "A decisão envolve verdade, família, justiça e possíveis consequências."
+        },
+        {
+          "title": "Limite próprio",
+          "body": "Ela reconhece que emoção e medo podem estreitar seu julgamento."
+        },
+        {
+          "title": "Conselho prudente",
+          "body": "A consciência é ajudada pelo testemunho e conselho de outros."
+        }
+      ]
+    },
+    {
+      "id": "O05",
+      "term_id": "O05",
+      "call_label": "O05 - Confrontar com a Palavra",
+      "case": "Um homem quer retaliar um concorrente que o prejudicou. Antes de agir, reza com a Palavra e pergunta se a resposta pretendida combina com Cristo crucificado.",
+      "conference_question": "Como confrontar uma decisão com a Palavra impede confundir justiça com vingança?",
+      "anchors": [
+        "CEC 1785",
+        "Sl 119,105"
+      ],
+      "facilitator_note": "Mostre que a Palavra ilumina o ato concreto e suas intenções.",
+      "reading_points": [
+        {
+          "title": "Desejo de retaliação",
+          "body": "A reação nasce de ferida real, mas pode se tornar vingança."
+        },
+        {
+          "title": "Critério da Cruz",
+          "body": "Cristo permite examinar intenção, meio e consequência."
+        },
+        {
+          "title": "Luz para agir",
+          "body": "A Palavra forma a consciência para buscar justiça sem pecado."
+        }
+      ]
+    },
+    {
+      "id": "O06",
+      "term_id": "O06",
+      "call_label": "O06 - Recusar ordem injusta",
+      "case": "Um funcionário recebe ordem para falsificar a assinatura de um cliente. Ele responde que não pode fazer isso, pede que a ordem seja formalizada e procura o setor responsável.",
+      "conference_question": "Como recusar uma ordem injusta de modo firme, prudente e proporcional?",
+      "anchors": [
+        "B04",
+        "G14",
+        "N06"
+      ],
+      "facilitator_note": "Aponte caminhos seguros: recusar o ato, registrar fatos, buscar instância competente.",
+      "reading_points": [
+        {
+          "title": "Mal pedido",
+          "body": "A assinatura falsa é mentira concreta, não detalhe burocrático."
+        },
+        {
+          "title": "Recusa clara",
+          "body": "Ele não coopera com o ato, mas também não age por impulso desordenado."
+        },
+        {
+          "title": "Prudência prática",
+          "body": "Buscar registro e instância competente protege a verdade e a pessoa."
+        }
+      ]
+    },
+    {
+      "id": "O07",
+      "term_id": "O07",
+      "call_label": "O07 - Reparar o dano",
+      "case": "Um pedreiro usou material inferior ao combinado e o piso começou a soltar. Ele volta, reconhece o erro, troca o material e assume o custo possível.",
+      "conference_question": "Por que reparar exige mais do que admitir o erro com palavras?",
+      "anchors": [
+        "Mt 5,23-24",
+        "Lc 19,8",
+        "G13"
+      ],
+      "facilitator_note": "Mostre que reparação procura restaurar o bem ferido de modo concreto.",
+      "reading_points": [
+        {
+          "title": "Erro material",
+          "body": "O serviço entregue não corresponde ao combinado."
+        },
+        {
+          "title": "Responsabilidade prática",
+          "body": "Reconhecer o erro inclui corrigir o dano e assumir custo proporcional."
+        },
+        {
+          "title": "Justiça restaurada",
+          "body": "A conversão cristã busca reparar o que foi ferido quando isso é possível."
+        }
+      ]
+    },
+    {
+      "id": "O08",
+      "term_id": "O08",
+      "call_label": "O08 - Confessar o pecado",
+      "case": "Uma pessoa evita confessar um pecado grave porque tem vergonha de nomeá-lo. Depois reconhece que esconder a verdade só endurece a consciência e procura o sacramento com arrependimento.",
+      "conference_question": "Como a confissão ajuda a consciência a sair da desculpa e entrar na verdade diante de Deus?",
+      "anchors": [
+        "1Jo 1,8-9",
+        "B15"
+      ],
+      "facilitator_note": "Fale com seriedade e esperança: confissão não é humilhação, é volta à verdade e à graça.",
+      "reading_points": [
+        {
+          "title": "Vergonha paralisante",
+          "body": "A pessoa evita nomear o pecado para não encarar sua gravidade."
+        },
+        {
+          "title": "Consciência endurecida",
+          "body": "Esconder repetidamente torna mais difícil reconhecer e combater o mal."
+        },
+        {
+          "title": "Perdão recebido",
+          "body": "Confessar é abrir a vida à misericórdia de Deus e à conversão."
+        }
+      ]
+    },
+    {
+      "id": "O09",
+      "term_id": "O09",
+      "call_label": "O09 - Pedir perdão direto",
+      "case": "Uma irmã espalhou suspeitas injustas sobre o irmão em uma divisão de herança. Ela decide procurá-lo, admitir o que disse e pedir perdão sem culpar o clima da família.",
+      "conference_question": "Por que pedir perdão diretamente exige nomear a falta e abandonar desculpas?",
+      "anchors": [
+        "Mt 5,23-24",
+        "O07"
+      ],
+      "facilitator_note": "Destaque que perdão pedido não obriga a vítima a fingir que nada aconteceu.",
+      "reading_points": [
+        {
+          "title": "Ofensa nomeada",
+          "body": "Ela reconhece palavras concretas que feriram a reputação do irmão."
+        },
+        {
+          "title": "Sem transferência",
+          "body": "Não joga a culpa no ambiente familiar para fugir da responsabilidade."
+        },
+        {
+          "title": "Reconciliação possível",
+          "body": "Pedir perdão abre caminho para reparar confiança e verdade."
+        }
+      ]
+    },
+    {
+      "id": "O10",
+      "term_id": "O10",
+      "call_label": "O10 - Cortar a ocasião",
+      "case": "Um homem percebe que aplicativos de aposta o levam a mentir e contrair dívidas. Ele bloqueia as contas, entrega a gestão do dinheiro por um tempo e procura ajuda adequada.",
+      "conference_question": "Como cortar a ocasião difere de apenas prometer que na próxima vez será diferente?",
+      "anchors": [
+        "B14",
+        "CEC 1784"
+      ],
+      "facilitator_note": "Trate a ocasião de pecado com realismo: medidas externas podem proteger a liberdade.",
+      "reading_points": [
+        {
+          "title": "Padrão de queda",
+          "body": "O uso dos aplicativos já está ligado a mentira e dano financeiro."
+        },
+        {
+          "title": "Medida concreta",
+          "body": "Bloquear acesso e prestar contas muda a situação que favorecia a queda."
+        },
+        {
+          "title": "Liberdade protegida",
+          "body": "A virtude também se forma retirando alimento dos hábitos destrutivos."
+        }
+      ]
+    },
+    {
+      "id": "O11",
+      "term_id": "O11",
+      "call_label": "O11 - Proteger o vulnerável",
+      "case": "Em uma clínica, uma paciente confusa está prestes a assinar autorização que não compreendeu. Uma enfermeira interrompe o processo e pede que a explicação seja refeita com responsável presente.",
+      "conference_question": "Como proteger o vulnerável sem tomar sua dignidade nem ignorar sua liberdade?",
+      "anchors": [
+        "B09",
+        "Mt 7,12",
+        "G10"
+      ],
+      "facilitator_note": "Mostre proteção proporcional: impedir exploração e favorecer decisão compreendida.",
+      "reading_points": [
+        {
+          "title": "Fragilidade percebida",
+          "body": "A paciente não compreende o que está para assinar."
+        },
+        {
+          "title": "Intervenção proporcional",
+          "body": "A enfermeira não decide tudo por ela, mas impede um consentimento confuso."
+        },
+        {
+          "title": "Caridade justa",
+          "body": "A consciência cristã protege a liberdade real, especialmente dos frágeis."
+        }
+      ]
+    },
+    {
+      "id": "O12",
+      "term_id": "O12",
+      "call_label": "O12 - Renunciar por caridade",
+      "case": "Em um jantar, a família decide não servir vinho porque um convidado está no início da recuperação do alcoolismo. Ninguém faz discurso; apenas evita transformar a mesa em ocasião de queda.",
+      "conference_question": "Por que renunciar a algo lícito pode ser uma resposta moralmente mais cristã naquele contexto?",
+      "anchors": [
+        "1Cor 8,13",
+        "Rm 14,21",
+        "B09"
+      ],
+      "facilitator_note": "Relacione com a renúncia de Paulo em favor do irmão de consciência frágil.",
+      "reading_points": [
+        {
+          "title": "Bem lícito",
+          "body": "Servir vinho não é necessariamente pecado em si."
+        },
+        {
+          "title": "Pessoa concreta",
+          "body": "A presença do convidado em recuperação muda o discernimento da situação."
+        },
+        {
+          "title": "Caridade renunciada",
+          "body": "Abrir mão por amor pode proteger o irmão de uma queda real."
+        }
+      ]
+    },
+    {
+      "id": "O13",
+      "term_id": "O13",
+      "call_label": "O13 - Comunicar com verdade",
+      "case": "Uma funcionária descobre fraude em relatórios internos. Ela reúne fatos, documentos e datas, evitando insultos, boatos e exposição desnecessária, e procura o canal responsável.",
+      "conference_question": "Como comunicar a verdade sobre um mal sem cair em difamação, exagero ou humilhação?",
+      "anchors": [
+        "Ef 4,25",
+        "G12"
+      ],
+      "facilitator_note": "Mostre que verdade moral exige precisão, não explosão emocional.",
+      "reading_points": [
+        {
+          "title": "Fatos verificados",
+          "body": "Ela não age com boatos, mas com dados concretos."
+        },
+        {
+          "title": "Modo justo",
+          "body": "Evitar insultos preserva a finalidade de corrigir o mal."
+        },
+        {
+          "title": "Verdade com caridade",
+          "body": "A consciência fala a verdade de modo adequado ao bem que precisa proteger."
+        }
+      ]
+    },
+    {
+      "id": "O14",
+      "term_id": "O14",
+      "call_label": "O14 - Assumir consequência",
+      "case": "Um motorista arranha um carro estacionado e percebe que ninguém viu. Ele deixa contato, reconhece o dano e se dispõe a pagar o conserto.",
+      "conference_question": "Por que assumir consequência é parte da fidelidade à consciência, mesmo quando seria fácil escapar?",
+      "anchors": [
+        "B04",
+        "O07"
+      ],
+      "facilitator_note": "Mostre que responsabilidade moral aparece especialmente quando a fuga parece possível.",
+      "reading_points": [
+        {
+          "title": "Dano oculto",
+          "body": "O prejuízo existe mesmo sem testemunhas."
+        },
+        {
+          "title": "Responsabilidade escolhida",
+          "body": "O motorista não deixa a facilidade de fugir decidir por ele."
+        },
+        {
+          "title": "Justiça prática",
+          "body": "Assumir consequência repara o dano e fortalece a consciência."
+        }
+      ]
+    },
+    {
+      "id": "O15",
+      "term_id": "O15",
+      "call_label": "O15 - Sustentar hábito virtuoso",
+      "case": "Uma comerciante cria rotina semanal para conferir validade, peso e preços dos produtos. Ela faz isso antes que clientes reclamem, porque quer evitar pequenas injustiças repetidas.",
+      "conference_question": "Como uma prática estável ajuda a consciência antes que a tentação apareça?",
+      "anchors": [
+        "B14",
+        "CEC 1803"
+      ],
+      "facilitator_note": "Mostre que virtude se sustenta por rotinas concretas, não só por intenção geral.",
+      "reading_points": [
+        {
+          "title": "Prevenção concreta",
+          "body": "A rotina reduz espaço para engano, descuido e vantagem indevida."
+        },
+        {
+          "title": "Bem repetido",
+          "body": "A comerciante escolhe práticas que tornam a justiça mais fácil."
+        },
+        {
+          "title": "Virtude sustentada",
+          "body": "Hábitos bons educam a liberdade e fortalecem a consciência."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "title": "Carta de explicações rápidas — Bingo Casamento",
+  "meeting": "Encontro 20 — Casamento",
+  "source_calls": "data/chamadas.json",
+  "purpose": "Explicações breves para o condutor usar durante a chamada de cada carta.",
+  "entries": [
+    {
+      "id": "B01",
+      "explanation": "O erro é tratar o matrimônio como invenção social sem verdade própria. A fé ensina que **Deus é o autor do matrimônio**. Por isso a Igreja não defende apenas um costume, mas uma realidade da criação confirmada por Cristo."
+    },
+    {
+      "id": "B02",
+      "explanation": "A aliança matrimonial não é só festa, documento ou moradia comum. Ela é uma **comunhão de vida toda**, com responsabilidade pelo bem dos esposos e pelos filhos. Sem essa entrega, a relação fica reduzida a conveniência."
+    },
+    {
+      "id": "B03",
+      "explanation": "A unidade conjugal exige exclusividade real. Manter duplicidade afetiva ou sexual fere a **uma só aliança**. Sustento, costume ou segredo não tornam justa uma divisão do amor matrimonial."
+    },
+    {
+      "id": "B04",
+      "explanation": "A indissolubilidade não ignora crises, mas afirma a seriedade do vínculo. Cristo diz: **não separe o homem o que Deus uniu**. A promessa matrimonial não pode depender apenas de conforto, emoção ou facilidade."
+    },
+    {
+      "id": "B05",
+      "explanation": "Uma só carne significa comunhão concreta de vida. Não é posse nem apagamento da pessoa, mas **unidade de corpo, decisões e responsabilidades**. Viver como solteiro dentro do casamento contradiz essa verdade."
+    },
+    {
+      "id": "B06",
+      "explanation": "O matrimônio é ordenado ao **bem dos cônjuges**. Carreira, dinheiro e projetos pessoais precisam ser discernidos à luz da comunhão. Uma decisão que abandona o outro não pode ser chamada de progresso familiar."
+    },
+    {
+      "id": "B07",
+      "explanation": "A fecundidade pertence à verdade do casamento. Ela inclui **abertura responsável à vida**, não cálculo egoísta contra os filhos. Planejamento cristão une prudência, generosidade e confiança em Deus."
+    },
+    {
+      "id": "B08",
+      "explanation": "Gerar filhos implica educá-los. Os pais não podem terceirizar totalmente a **formação moral e religiosa**. A casa educa por presença, exemplo, correção, oração e fidelidade cotidiana."
+    },
+    {
+      "id": "B09",
+      "explanation": "O matrimônio entre batizados é **sacramento da graça**. Cristo não enfeita uma relação pronta; Ele cura e fortalece esposos feridos pelo pecado. Fidelidade, perdão e fecundidade precisam dessa ajuda."
+    },
+    {
+      "id": "B10",
+      "explanation": "Casamento não é remédio para solidão nem projeto de consumo afetivo. É **vocação ao amor**, isto é, chamado a entregar a vida. Quem entra nele deve perguntar o que oferecerá, não só o que receberá."
+    },
+    {
+      "id": "B11",
+      "explanation": "Homem e mulher possuem **igual dignidade** diante de Deus. Diferença de renda, força ou função não autoriza domínio. A comunhão conjugal exige reciprocidade, respeito e responsabilidade."
+    },
+    {
+      "id": "B12",
+      "explanation": "A fé é realista: o pecado fere as relações. Dominação, ciúme, infidelidade e acusação são **feridas do pecado**, não a verdade do matrimônio. A resposta cristã pede graça, conversão e responsabilidade."
+    },
+    {
+      "id": "B13",
+      "explanation": "O amor conjugal é **dom total de si**, não uso do outro. Quando o cônjuge vira serviço, conforto ou objeto, a aliança é deformada. Amar é buscar o bem do outro com entrega e fidelidade."
+    },
+    {
+      "id": "B14",
+      "explanation": "A fidelidade não se limita a evitar adultério físico. Ela guarda **corpo, palavra, imaginação, tempo e intenção**. Segredos íntimos e aproximações indevidas já enfraquecem a aliança."
+    },
+    {
+      "id": "B15",
+      "explanation": "A família não é assunto isolado da sociedade. O bem comum depende da saúde da **comunidade conjugal e familiar**. Trabalho, economia e cultura podem sustentar ou ferir a vida da casa."
+    },
+    {
+      "id": "I01",
+      "explanation": "Noivado sem verdade manipula o discernimento do outro. Esconder dívida, vício ou dupla vida fere a **liberdade do consentimento**. Amar exige falar a verdade antes de prometer a vida."
+    },
+    {
+      "id": "I02",
+      "explanation": "Coabitação improvisada cria aparência de casamento sem aliança. A convivência pode gerar expectativas, dependência e injustiça sem **promessa pública e sacramental**. A fé chama a relação para verdade, castidade e compromisso."
+    },
+    {
+      "id": "I03",
+      "explanation": "Casamento por aparência fere a seriedade da aliança. Festa, fotos e pressão familiar não substituem **consentimento livre e verdadeiro**. É melhor enfrentar uma vergonha passageira do que construir uma promessa falsa."
+    },
+    {
+      "id": "I04",
+      "explanation": "Infidelidade secreta já é ruptura moral. O segredo mostra que a pessoa sabe estar ferindo a **confiança conjugal**. A resposta precisa cortar a fonte do pecado e buscar reparação."
+    },
+    {
+      "id": "I05",
+      "explanation": "Divórcio banalizado trata qualquer crise como fim inevitável. A Igreja lembra a gravidade do **vínculo indissolúvel**. Isso não nega problemas reais, mas impede respostas automáticas e superficiais."
+    },
+    {
+      "id": "I06",
+      "explanation": "Ciúme controlador não é amor intenso. Vigilância, ameaça e isolamento revelam **posse**, não cuidado. A dignidade do cônjuge exige limites, verdade e ajuda quando houver risco."
+    },
+    {
+      "id": "I07",
+      "explanation": "Filhos não são obstáculos de consumo. Uma gravidez pode trazer medo e sacrifício, mas a criança possui **dignidade própria**. A fecundidade matrimonial pede conversão do olhar e responsabilidade."
+    },
+    {
+      "id": "I08",
+      "explanation": "A pressão contra filhos pode vir da cultura, da família ou do trabalho. Quando a carreira exige fechamento à vida, a família é subordinada à **lógica produtiva**. O cristão deve discernir essa injustiça com firmeza."
+    },
+    {
+      "id": "I09",
+      "explanation": "O trabalho é necessário, mas precisa estar ordenado ao bem da casa. Quando dinheiro e consumo roubam toda presença, a família paga o preço. A questão é a **ordem dos bens**, não desprezo pela profissão."
+    },
+    {
+      "id": "I10",
+      "explanation": "Sogros e família de origem devem ser respeitados, mas não podem governar a nova casa. O casal forma uma **nova unidade**. Limites claros protegem o matrimônio sem exigir desprezo pelos pais."
+    },
+    {
+      "id": "I11",
+      "explanation": "Dívida escondida é mentira prática. O dinheiro toca futuro, confiança e responsabilidades comuns. Ordenar a vida financeira é parte da **fidelidade conjugal**."
+    },
+    {
+      "id": "I12",
+      "explanation": "A fertilidade ferida exige delicadeza e verdade. Infertilidade não diminui a dignidade dos esposos nem autoriza acusações. A fé sustenta **esperança fecunda** mesmo na dor."
+    },
+    {
+      "id": "I13",
+      "explanation": "Violência doméstica é ferida grave contra a pessoa e contra o matrimônio. Preservar aparência não vale mais que **proteger a vítima**. A resposta cristã exige segurança, ajuda competente e responsabilização."
+    },
+    {
+      "id": "I14",
+      "explanation": "Pornografia no casamento não é fantasia neutra. Ela deforma o olhar, alimenta comparação e fere a **intimidade conjugal**. A resposta pede corte concreto, confissão e restauração da fidelidade."
+    },
+    {
+      "id": "I15",
+      "explanation": "Abandono espiritual deixa a casa sem uma fonte essencial de sentido. A fé não pode ser tratada como detalhe privado sem consequência. Pais cristãos têm missão real de **educar para Deus**."
+    },
+    {
+      "id": "N01",
+      "explanation": "O formalismo diz que papel, festa e fotos bastam. Mas o matrimônio é **aliança viva**, não simples registro. O sinal externo precisa corresponder a fidelidade, sacramento e responsabilidade."
+    },
+    {
+      "id": "N02",
+      "explanation": "A narrativa do amor sem promessa parece romântica, mas evita responsabilidade. Amor conjugal verdadeiro é capaz de **prometer e permanecer**. Sem compromisso, o outro fica vulnerável à instabilidade do sentimento."
+    },
+    {
+      "id": "N03",
+      "explanation": "Até quando der certo transforma o casamento em experiência provisória. A fé cristã anuncia o **para sempre** como graça possível, não como ingenuidade. A promessa exige conversão quando chegam dificuldades."
+    },
+    {
+      "id": "N04",
+      "explanation": "Filhos atrapalham é uma narrativa que enxerga só custo. A fé reconhece sacrifício, mas vê a vida como **dom**, não como inimiga do casal. A fecundidade ordena o amor para além do conforto."
+    },
+    {
+      "id": "N05",
+      "explanation": "Meu corpo, minha regra pode esconder falsa autonomia. No matrimônio, o corpo participa da **aliança conjugal**. Ninguém é propriedade do outro, mas ninguém vive a sexualidade como se a promessa não existisse."
+    },
+    {
+      "id": "N06",
+      "explanation": "Ciúme não prova amor quando se torna controle. Gritos, ameaça e vigilância revelam **dominação**, não zelo. O amor cristão protege a pessoa sem possuí-la."
+    },
+    {
+      "id": "N07",
+      "explanation": "Traição discreta não deixa de ser traição. O mal não começa quando é descoberto; começa quando a **aliança é violada**. A consciência cristã não mede pecado apenas pelo escândalo público."
+    },
+    {
+      "id": "N08",
+      "explanation": "Divórcio resolve tudo é simplificação perigosa. Há feridas, filhos, responsabilidades e vínculos que não desaparecem por assinatura. A resposta cristã exige **discernimento**, não solução automática."
+    },
+    {
+      "id": "N09",
+      "explanation": "Casar não muda automaticamente uma pessoa sem conversão. Vícios, violência e mentira não devem ser empurrados para dentro da aliança. O noivado pede **verdade antes da promessa**."
+    },
+    {
+      "id": "N10",
+      "explanation": "Desejo forte não vira direito moral. Atração precisa ser discernida diante do bem, da dignidade e da promessa. A liberdade cristã ordena o desejo pela **vocação ao amor**."
+    },
+    {
+      "id": "N11",
+      "explanation": "Família reduzida a contrato vira troca de vantagens. O matrimônio é mais que acordo útil; é **comunhão, vocação e responsabilidade social**. Quando tudo depende do saldo de interesse, os mais frágeis sofrem."
+    },
+    {
+      "id": "N12",
+      "explanation": "Fé é assunto privado pode virar omissão. O sacramento precisa alcançar decisões, filhos, perdão e rotina da casa. A família cristã é chamada a viver uma **fé visível e responsável**."
+    },
+    {
+      "id": "N13",
+      "explanation": "Amor não precisa graça é autossuficiência. O pecado fere a vontade, o olhar e a fidelidade. Por isso o matrimônio precisa da **graça de Cristo** e também de atitudes concretas."
+    },
+    {
+      "id": "N14",
+      "explanation": "Liberdade sem vínculo muitas vezes quer receber sem prometer. A verdadeira liberdade não é fuga de responsabilidade. Ela é capacidade de **amar com compromisso** e responder pelo bem do outro."
+    },
+    {
+      "id": "N15",
+      "explanation": "Aparência de família pode esconder mentira, medo e humilhação. Manter vitrine pública não cura a casa. A resposta cristã procura **verdade prudente**, proteção e ajuda adequada."
+    },
+    {
+      "id": "G01",
+      "explanation": "Sentimentos mudam, e isso precisa ser reconhecido com realismo. Mas o amor conjugal não se reduz à emoção. Ele é **decisão fiel** de buscar o bem do outro."
+    },
+    {
+      "id": "G02",
+      "explanation": "União não é fusão. A comunhão matrimonial não apaga consciência, história e responsabilidade pessoal. Quando alguém precisa desaparecer para manter a paz, a **unidade foi distorcida**."
+    },
+    {
+      "id": "G03",
+      "explanation": "A pessoa mantém sua dignidade mesmo quando peca. O comportamento errado, porém, deve ser nomeado sem confusão. A fé une **misericórdia e responsabilidade**."
+    },
+    {
+      "id": "G04",
+      "explanation": "Acolher não é aprovar tudo. A caridade cristã trata pessoas feridas com dignidade, mas não chama o erro de bem. O caminho correto une **verdade e amor**."
+    },
+    {
+      "id": "G05",
+      "explanation": "Prudência não é fugir de conversa difícil. Ela avalia o risco, busca conselho e age no tempo certo. O medo, ao contrário, protege a aparência e deixa o problema crescer."
+    },
+    {
+      "id": "G06",
+      "explanation": "Perdão não é conivência. O cristão pode perdoar sem negar o mal, sem apagar consequências e sem voltar ao risco. A **misericórdia verdadeira** não protege o agressor."
+    },
+    {
+      "id": "G07",
+      "explanation": "Separação por segurança não é banalização do divórcio. Em perigo grave, proteger a vida pode ser necessário. Isso não muda o ideal cristão do **vínculo indissolúvel**."
+    },
+    {
+      "id": "G08",
+      "explanation": "Nulidade não é divórcio religioso. Ela pergunta se houve matrimônio válido desde o início. A Igreja procura a **verdade do vínculo**, não uma saída conveniente."
+    },
+    {
+      "id": "G09",
+      "explanation": "Desejo e atração não bastam para discernir vocação. Casamento exige maturidade, fé, liberdade, responsabilidade e abertura à vida. A vocação matrimonial precisa de **discernimento inteiro**."
+    },
+    {
+      "id": "G10",
+      "explanation": "Fecundidade não se reduz a conseguir uma gravidez. A abertura à vida é essencial, mas a infertilidade não tira a dignidade dos esposos. O amor pode ser **fecundo** também em cuidado e serviço."
+    },
+    {
+      "id": "G11",
+      "explanation": "Autoridade familiar existe para servir ao bem. Quando vira grito, humilhação ou controle, torna-se **dominação**. A fé não autoriza abuso com linguagem religiosa."
+    },
+    {
+      "id": "G12",
+      "explanation": "Intimidade do casal é um bem real. Mas isolamento absoluto pode esconder violência, mentira e abandono. Buscar ajuda prudente não é fofoca; pode ser **proteção e cura**."
+    },
+    {
+      "id": "G13",
+      "explanation": "Sinceridade não autoriza crueldade. A verdade cristã precisa de caridade, finalidade justa e modo adequado. Corrigir é diferente de **humilhar para vencer**."
+    },
+    {
+      "id": "G14",
+      "explanation": "Misericórdia não é banalização. Deus perdoa chamando à conversão, não tratando o pecado como normal. Onde houve ferida grave, a **reparação** também é necessária."
+    },
+    {
+      "id": "G15",
+      "explanation": "Crise não equivale automaticamente a ruptura. Algumas crises pedem paciência e mediação; outras pedem proteção imediata. O discernimento cristão evita **negação e precipitação**."
+    },
+    {
+      "id": "O01",
+      "explanation": "A vocação se prepara antes da decisão final. Imagens, hábitos e escolhas atuais formam o coração para amar ou usar. Preparar o matrimônio inclui formar **critério cristão** sobre amor e fidelidade."
+    },
+    {
+      "id": "O02",
+      "explanation": "Dizer a verdade é ato concreto de amor. Mentira pode preservar planos, mas destrói liberdade e confiança. A aliança só pode nascer de **consentimento real**."
+    },
+    {
+      "id": "O03",
+      "explanation": "Guardar o corpo não é frase vaga. Exige reconhecer ocasiões de queda e escolher limites concretos. A castidade protege a **verdade do amor** conforme o estado de vida."
+    },
+    {
+      "id": "O04",
+      "explanation": "Limites protegem a comunhão. Eles podem ser firmes sem serem agressivos. O casal precisa defender sua **nova unidade** diante de interferências, excessos de trabalho e vínculos desordenados."
+    },
+    {
+      "id": "O05",
+      "explanation": "Direção espiritual ajuda a discernir diante de Deus. Ela não decide no lugar da pessoa, mas ilumina vocação, pecado e liberdade. Buscar conselho sério é sinal de **maturidade cristã**."
+    },
+    {
+      "id": "O06",
+      "explanation": "Rezar como casal não resolve tudo por mágica. A oração abre espaço para a graça ordenar palavras, decisões e perdão. Uma casa cristã precisa de **Deus no cotidiano**."
+    },
+    {
+      "id": "O07",
+      "explanation": "Procurar mediação pode ser ato de humildade. Quando a conversa sempre vira grito, ajuda competente evita repetição do dano. Mediação séria é diferente de **fofoca ou exposição**."
+    },
+    {
+      "id": "O08",
+      "explanation": "Romper o abuso começa por proteção. Violência não é conflito comum nem prova de amor. A resposta cristã exige **segurança, ajuda competente e responsabilização**."
+    },
+    {
+      "id": "O09",
+      "explanation": "Reparar confiança exige mais que pedir desculpas. É preciso cortar a fonte do pecado, aceitar consequências e reconstruir transparência. A confissão deve levar a **mudança concreta**."
+    },
+    {
+      "id": "O10",
+      "explanation": "Honrar a promessa aparece em decisões pequenas. Permanecer no bem inclui evitar ocasiões de queda, cuidar do outro e procurar ajuda. A fidelidade é **perseverança ativa**."
+    },
+    {
+      "id": "O11",
+      "explanation": "Ordenar o dinheiro é parte da caridade conjugal. Dívidas escondidas e gastos desordenados ferem a confiança. Orçamento, verdade e renúncia servem ao **bem da família**."
+    },
+    {
+      "id": "O12",
+      "explanation": "Educar para a fé exige prática, não só discurso. Crianças aprendem com oração, domingo, sacramentos, exemplo e conversa. A família cristã tem missão de **transmitir a fé**."
+    },
+    {
+      "id": "O13",
+      "explanation": "Cuidar da fertilidade pede esperança e ética. A dor da infertilidade não deve virar acusação entre esposos. O caminho cristão une **acompanhamento, diálogo e dignidade da vida**."
+    },
+    {
+      "id": "O14",
+      "explanation": "Ajuda sacramental não substitui responsabilidade. Confissão e Eucaristia fortalecem a conversão e a reparação concreta. A graça de Cristo sustenta o matrimônio em sua **fidelidade difícil**."
+    },
+    {
+      "id": "O15",
+      "explanation": "Sustentar famílias é caridade concreta. Ajuda verdadeira pode ser refeição, cuidado, presença, encaminhamento e discrição. A comunidade serve melhor quando une **apoio real e respeito**."
+    }
+  ]
+}

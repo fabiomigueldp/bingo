@@ -1,0 +1,1966 @@
+{
+  "title": "Chamadas — Bingo Vida de Oração",
+  "meeting": "Encontro 26 — Vida de Oração",
+  "source_terms": "data/termos.json",
+  "method": {
+    "read_order": [
+      "call_label",
+      "case",
+      "reading_points"
+    ],
+    "rule": "A cada carta, anuncie código e conceito, leia o caso e explique brevemente a relação usando a Leitura do caso. Depois as equipes marcam o código, se estiver na cartela.",
+    "conference_rule": "Ao fechar duas linhas válidas, horizontais, verticais ou diagonais, a equipe escolhe uma dessas linhas completas, explica pelo menos três conceitos da linha escolhida e liga pelo menos um deles à base bíblica ou doutrinal do encontro. As duas linhas podem se cruzar. O centro livre já conta como casa marcada para completar linhas, mas não conta como um dos três conceitos explicados."
+  },
+  "cards": [
+    {
+      "id": "B01",
+      "term_id": "B01",
+      "call_label": "B01 - Relação viva",
+      "case": "Um homem mantém um crucifixo no carro e repete uma oração antes de viajar, mas nunca fala com Deus sobre as decisões, pecados e medos que realmente conduzem sua vida.",
+      "conference_question": "Como distinguir uma prática religiosa exterior de uma relação viva com Deus?",
+      "anchors": [
+        "CEC 2558",
+        "CEC 2565"
+      ],
+      "facilitator_note": "Mostre que a oração inclui fórmulas, mas não se reduz a costume ou proteção simbólica.",
+      "reading_points": [
+        {
+          "title": "Sinal sem relação",
+          "body": "O objeto religioso aparece, mas o coração permanece fechado ao diálogo real com Deus."
+        },
+        {
+          "title": "Critério cristão",
+          "body": "O Catecismo chama a oração de relação viva e pessoal com o Deus vivo e verdadeiro."
+        },
+        {
+          "title": "Conversão necessária",
+          "body": "Rezar envolve entregar a Deus a vida concreta, não apenas conservar sinais religiosos."
+        }
+      ]
+    },
+    {
+      "id": "B02",
+      "term_id": "B02",
+      "call_label": "B02 - Humildade orante",
+      "case": "Depois de uma discussão dura em casa, uma pessoa se senta para rezar e só consegue justificar suas palavras, sem admitir o que feriu nos outros.",
+      "conference_question": "Por que a humildade muda a forma de rezar depois de um conflito?",
+      "anchors": [
+        "CEC 2559",
+        "Lc 18,9-14"
+      ],
+      "facilitator_note": "Conduza para a diferença entre explicar-se diante de Deus e colocar-se diante dele com verdade.",
+      "reading_points": [
+        {
+          "title": "Defesa de si",
+          "body": "A oração vira continuação da própria justificativa, não abertura à verdade."
+        },
+        {
+          "title": "Fundamento da oração",
+          "body": "A humildade reconhece que a pessoa precisa receber luz, perdão e correção."
+        },
+        {
+          "title": "Coração contrito",
+          "body": "O publicano mostra que Deus acolhe quem se apresenta sem máscara e pede misericórdia."
+        }
+      ]
+    },
+    {
+      "id": "B03",
+      "term_id": "B03",
+      "call_label": "B03 - Mendigo de Deus",
+      "case": "Uma profissional competente atravessa uma crise familiar e percebe que sua inteligência, dinheiro e organização não bastam para sustentar a paz da casa.",
+      "conference_question": "O que significa reconhecer a própria necessidade sem negar responsabilidade pessoal?",
+      "anchors": [
+        "CEC 2559",
+        "Rm 8,26"
+      ],
+      "facilitator_note": "Evite confundir dependência de Deus com incapacidade humana; a graça não anula a ação responsável.",
+      "reading_points": [
+        {
+          "title": "Limite humano",
+          "body": "Competência e recursos ajudam, mas não substituem a graça, a sabedoria e a conversão."
+        },
+        {
+          "title": "Pobreza diante de Deus",
+          "body": "Ser mendigo de Deus é reconhecer que a salvação e os bens convenientes são recebidos."
+        },
+        {
+          "title": "Pedido verdadeiro",
+          "body": "A oração não humilha a pessoa; coloca sua vida no lugar certo diante do Pai."
+        }
+      ]
+    },
+    {
+      "id": "B04",
+      "term_id": "B04",
+      "call_label": "B04 - Jesus orante",
+      "case": "Um médico muito procurado por pacientes decide interromper alguns atendimentos extras para dormir, rezar e não tratar as pessoas como peças de uma máquina.",
+      "conference_question": "Como o exemplo de Jesus ajuda a ordenar missão, serviço e recolhimento?",
+      "anchors": [
+        "Lc 5,15-16",
+        "CEC 2600"
+      ],
+      "facilitator_note": "Mostre que retirar-se para rezar não é desprezo pelas necessidades, mas fidelidade à fonte da missão.",
+      "reading_points": [
+        {
+          "title": "Demanda real",
+          "body": "Há pessoas precisando de ajuda, mas a pessoa também precisa permanecer enraizada em Deus."
+        },
+        {
+          "title": "Modelo de Cristo",
+          "body": "Jesus se retirava para rezar mesmo quando muitos o procuravam para ouvir e ser curados."
+        },
+        {
+          "title": "Serviço ordenado",
+          "body": "A oração purifica a missão e impede que o serviço vire exaustão sem caridade."
+        }
+      ]
+    },
+    {
+      "id": "B05",
+      "term_id": "B05",
+      "call_label": "B05 - Vontade do Pai",
+      "case": "Antes de aceitar uma proposta lucrativa, um empresário percebe que o contrato exige enganar fornecedores menores e começa a rezar sem querer encarar essa verdade.",
+      "conference_question": "Como a oração muda quando a vontade do Pai entra em conflito com uma vantagem desejada?",
+      "anchors": [
+        "CEC 2600",
+        "Jo 17,1-3"
+      ],
+      "facilitator_note": "Nomeie a tentação de pedir aprovação de Deus para uma decisão já tomada.",
+      "reading_points": [
+        {
+          "title": "Vantagem tentadora",
+          "body": "O lucro aparece como bem imediato, mas exige injustiça concreta."
+        },
+        {
+          "title": "Entrega da vontade",
+          "body": "A oração cristã não força Deus a aprovar o que fere sua vontade."
+        },
+        {
+          "title": "Obediência concreta",
+          "body": "Rezar diante de uma decisão exige disposição real para renunciar ao mal."
+        }
+      ]
+    },
+    {
+      "id": "B06",
+      "term_id": "B06",
+      "call_label": "B06 - Comunhão com Cristo",
+      "case": "Uma mulher que vive a fé sozinha há anos percebe que sua oração se tornou fechada, sem sacramentos, sem Igreja e sem caridade concreta com ninguém.",
+      "conference_question": "Por que a comunhão com Cristo não pode ser separada da Igreja e da caridade?",
+      "anchors": [
+        "CEC 2565",
+        "Jo 17,1-26"
+      ],
+      "facilitator_note": "Evite reduzir o tema a sociabilidade; a questão é comunhão com Cristo no seu Corpo.",
+      "reading_points": [
+        {
+          "title": "Fé isolada",
+          "body": "A pessoa conserva linguagem religiosa, mas perde vínculos concretos de comunhão."
+        },
+        {
+          "title": "Cristo e seu Corpo",
+          "body": "A oração cristã cresce na Igreja, que é o Corpo de Cristo."
+        },
+        {
+          "title": "Comunhão real",
+          "body": "Estar com Deus abre a pessoa aos sacramentos, à comunidade e ao amor concreto."
+        }
+      ]
+    },
+    {
+      "id": "B07",
+      "term_id": "B07",
+      "call_label": "B07 - Dom do Espírito",
+      "case": "Um homem acompanha a doença da esposa e já não sabe o que pedir; apenas permanece diante de Deus com lágrimas e poucas palavras.",
+      "conference_question": "O que muda quando a oração não depende de saber formular tudo com clareza?",
+      "anchors": [
+        "Rm 8,26",
+        "CEC 2613"
+      ],
+      "facilitator_note": "Mostre que a pobreza de palavras não impede a oração quando há fé e entrega.",
+      "reading_points": [
+        {
+          "title": "Palavras insuficientes",
+          "body": "A dor real pode deixar a pessoa sem linguagem adequada diante de Deus."
+        },
+        {
+          "title": "Auxílio do Espírito",
+          "body": "A fé cristã reconhece que o Espírito sustenta nossa oração na fraqueza."
+        },
+        {
+          "title": "Presença fiel",
+          "body": "Permanecer diante de Deus já pode ser oração verdadeira quando há confiança humilde."
+        }
+      ]
+    },
+    {
+      "id": "B08",
+      "term_id": "B08",
+      "call_label": "B08 - Palavra rezada",
+      "case": "Um grupo discute um texto bíblico apenas para vencer argumentos, e ninguém pergunta que conversão Deus está pedindo naquela Palavra.",
+      "conference_question": "Como a leitura da Escritura muda quando é acompanhada de oração?",
+      "anchors": [
+        "CEC 2653",
+        "Lc 11,1"
+      ],
+      "facilitator_note": "Conduza a turma a ver que a Bíblia não é arma de disputa, mas Palavra de Deus recebida na fé.",
+      "reading_points": [
+        {
+          "title": "Debate sem escuta",
+          "body": "O texto bíblico vira material para vencer discussões, não lugar de encontro com Deus."
+        },
+        {
+          "title": "Colóquio com Deus",
+          "body": "A Igreja ensina que falamos a Deus quando rezamos e o ouvimos quando lemos a Escritura."
+        },
+        {
+          "title": "Resposta de fé",
+          "body": "Ler rezando leva à obediência, à conversão e a uma escuta mais humilde."
+        }
+      ]
+    },
+    {
+      "id": "B09",
+      "term_id": "B09",
+      "call_label": "B09 - Oração vocal",
+      "case": "Durante o Pai-Nosso em um velório, algumas pessoas rezam em voz baixa e sustentam quem não consegue encontrar palavras próprias.",
+      "conference_question": "Por que uma oração aprendida pode ser oração verdadeira e não apenas repetição?",
+      "anchors": [
+        "CEC 2699",
+        "Lc 11,1"
+      ],
+      "facilitator_note": "Valorize as orações da Igreja sem negar que precisam envolver o coração.",
+      "reading_points": [
+        {
+          "title": "Palavras recebidas",
+          "body": "A oração comum oferece linguagem quando a dor impede palavras espontâneas."
+        },
+        {
+          "title": "Corpo e fé",
+          "body": "A oração vocal usa voz, memória e palavras para conduzir o coração a Deus."
+        },
+        {
+          "title": "Coração presente",
+          "body": "A fórmula é viva quando a pessoa reza com atenção, fé e entrega."
+        }
+      ]
+    },
+    {
+      "id": "B10",
+      "term_id": "B10",
+      "call_label": "B10 - Meditação cristã",
+      "case": "Depois de ler a parábola do publicano, uma pessoa percebe que suas críticas constantes aos outros escondem soberba e começa a rever suas atitudes.",
+      "conference_question": "Como a meditação cristã passa de reflexão sobre um texto para conversão concreta?",
+      "anchors": [
+        "CEC 2699",
+        "Lc 18,9-14"
+      ],
+      "facilitator_note": "Destaque que meditar não é apenas pensar; é deixar a Palavra iluminar a vida.",
+      "reading_points": [
+        {
+          "title": "Texto que confronta",
+          "body": "A parábola não fica distante; ela revela uma atitude concreta da pessoa."
+        },
+        {
+          "title": "Reflexão diante de Deus",
+          "body": "A meditação cristã considera a Palavra e a própria vida sob a luz da fé."
+        },
+        {
+          "title": "Conversão prática",
+          "body": "A oração amadurece quando leva a mudar palavras, julgamentos e escolhas."
+        }
+      ]
+    },
+    {
+      "id": "B11",
+      "term_id": "B11",
+      "call_label": "B11 - Contemplação",
+      "case": "Na capela silenciosa de um hospital, uma filha cansada senta sem pedir explicações e fica diante de Deus enquanto o pai está na UTI.",
+      "conference_question": "Como reconhecer uma contemplação cristã em uma presença silenciosa diante de Deus?",
+      "anchors": [
+        "CEC 2699",
+        "CEC 2565"
+      ],
+      "facilitator_note": "Mostre que contemplação não é vazio psicológico, mas presença amorosa diante do Deus vivo.",
+      "reading_points": [
+        {
+          "title": "Silêncio carregado",
+          "body": "A pessoa não foge da dor, mas permanece diante de Deus com o coração aberto."
+        },
+        {
+          "title": "Presença amorosa",
+          "body": "A contemplação guarda a Palavra e permanece na presença de Deus."
+        },
+        {
+          "title": "Fé sem ruído",
+          "body": "Nem toda oração precisa de muitas palavras; algumas pedem fidelidade silenciosa."
+        }
+      ]
+    },
+    {
+      "id": "B12",
+      "term_id": "B12",
+      "call_label": "B12 - Memória do coração",
+      "case": "Uma enfermeira faz pequenas pausas durante o plantão para lembrar diante de Deus os pacientes mais frágeis, sem abandonar o trabalho.",
+      "conference_question": "Como a memória do coração une o trabalho cotidiano à presença de Deus?",
+      "anchors": [
+        "CEC 2697",
+        "CEC 2745"
+      ],
+      "facilitator_note": "Explique que lembrar-se de Deus ao longo do dia não substitui tempos fortes de oração.",
+      "reading_points": [
+        {
+          "title": "Deus no cotidiano",
+          "body": "A oração aparece no meio do trabalho sem fugir da responsabilidade concreta."
+        },
+        {
+          "title": "Recordação de Deus",
+          "body": "A tradição espiritual fala da oração como despertar frequente da memória do coração."
+        },
+        {
+          "title": "Vida unificada",
+          "body": "A pessoa aprende a unir presença de Deus, dever profissional e caridade real."
+        }
+      ]
+    },
+    {
+      "id": "B13",
+      "term_id": "B13",
+      "call_label": "B13 - Ritmos de oração",
+      "case": "Uma família só reza quando há doença grave; depois de uma crise, decide retomar a bênção das refeições e uma oração breve à noite.",
+      "conference_question": "Por que ritmos simples ajudam mais do que depender apenas de momentos de crise?",
+      "anchors": [
+        "CEC 2697",
+        "CEC 2698"
+      ],
+      "facilitator_note": "Evite idealizar rotinas perfeitas; valorize compromissos simples, reais e fiéis.",
+      "reading_points": [
+        {
+          "title": "Crise como único gatilho",
+          "body": "A oração aparece só quando a situação aperta e desaparece na normalidade."
+        },
+        {
+          "title": "Tempos fortes",
+          "body": "A Igreja propõe ritmos cotidianos e litúrgicos que sustentam a vida de oração."
+        },
+        {
+          "title": "Fidelidade possível",
+          "body": "Pequenos horários assumidos com seriedade educam o coração para Deus."
+        }
+      ]
+    },
+    {
+      "id": "B14",
+      "term_id": "B14",
+      "call_label": "B14 - Oração e vida",
+      "case": "Um comerciante reza todos os dias, mas mantém salários atrasados enquanto troca de carro e evita conversar com os funcionários.",
+      "conference_question": "Por que a oração fica falsa quando não toca justiça, caridade e reparação?",
+      "anchors": [
+        "CEC 2745",
+        "Jo 15,16-17"
+      ],
+      "facilitator_note": "Nomeie a incoerência sem negar o valor da oração quando ela leva à conversão.",
+      "reading_points": [
+        {
+          "title": "Piedade sem justiça",
+          "body": "A prática religiosa convive com uma injustiça concreta contra trabalhadores."
+        },
+        {
+          "title": "Mesmo amor",
+          "body": "O Catecismo afirma que oração e vida cristã são inseparáveis."
+        },
+        {
+          "title": "Resposta moral",
+          "body": "Rezar deve mover a pessoa a corrigir o dano, falar a verdade e agir com caridade."
+        }
+      ]
+    },
+    {
+      "id": "B15",
+      "term_id": "B15",
+      "call_label": "B15 - Perseverança da fé",
+      "case": "Uma mãe reza há anos por um filho dependente químico, acompanha tratamentos possíveis e luta para não transformar a demora em revolta contra Deus.",
+      "conference_question": "Como perseverar na oração sem negar a gravidade da situação nem cobrar Deus como devedor?",
+      "anchors": [
+        "Lc 18,1-8",
+        "CEC 2613"
+      ],
+      "facilitator_note": "Aponte a diferença entre perseverança cristã e solução rápida; não banalize sofrimento grave.",
+      "reading_points": [
+        {
+          "title": "Demora dolorosa",
+          "body": "A situação é séria e prolongada, sem resposta simples ou imediata."
+        },
+        {
+          "title": "Fé que insiste",
+          "body": "Jesus ensina a rezar sempre sem esmorecer, como a viúva persistente."
+        },
+        {
+          "title": "Esperança ativa",
+          "body": "Perseverar inclui oração, busca de ajuda real e confiança no tempo de Deus."
+        }
+      ]
+    },
+    {
+      "id": "I01",
+      "term_id": "I01",
+      "call_label": "I01 - Fama sem recolhimento",
+      "case": "Um comunicador religioso recebe muitos convites, elogios e mensagens, mas começa a não rezar mais porque sente que precisa responder a todos imediatamente.",
+      "conference_question": "Que critério ajuda a perceber quando a exposição começa a sufocar a vida de oração?",
+      "anchors": [
+        "Lc 5,15-16",
+        "B04"
+      ],
+      "facilitator_note": "Mostre que a demanda pode ser boa, mas não pode substituir a fonte espiritual da missão.",
+      "reading_points": [
+        {
+          "title": "Pressão da visibilidade",
+          "body": "A pessoa confunde disponibilidade total com fidelidade a Deus."
+        },
+        {
+          "title": "Jesus se retira",
+          "body": "Cristo não deixou a fama comandar seu ritmo interior; ele buscava lugares solitários para rezar."
+        },
+        {
+          "title": "Recolhimento necessário",
+          "body": "Quem serve sem recolhimento corre o risco de alimentar vaidade, cansaço e superficialidade."
+        }
+      ]
+    },
+    {
+      "id": "I02",
+      "term_id": "I02",
+      "call_label": "I02 - Agenda sem Deus",
+      "case": "Uma gerente diz que sua vida é corrida demais para rezar, mas passa longos períodos à noite pulando de vídeo em vídeo sem descanso verdadeiro.",
+      "conference_question": "Como distinguir falta real de tempo de uma escolha desordenada de prioridades?",
+      "anchors": [
+        "CEC 2697",
+        "B13"
+      ],
+      "facilitator_note": "Evite acusar toda distração; concentre-se na decisão própria de reservar tempos fortes.",
+      "reading_points": [
+        {
+          "title": "Tempo ocupado",
+          "body": "A agenda é cheia, mas há espaços consumidos sem consciência e sem descanso profundo."
+        },
+        {
+          "title": "Decisão própria",
+          "body": "O Catecismo ensina que não se ora sempre sem rezar em certos momentos escolhidos."
+        },
+        {
+          "title": "Prioridade concreta",
+          "body": "A resposta começa por separar um tempo possível e protegido para Deus."
+        }
+      ]
+    },
+    {
+      "id": "I03",
+      "term_id": "I03",
+      "call_label": "I03 - Pedido no desespero",
+      "case": "Um homem que ignorou a fé por anos começa a rezar apenas quando o exame médico aponta risco grave e promete mudar tudo se for curado.",
+      "conference_question": "Como acolher uma oração feita no desespero sem reduzir Deus a recurso de emergência?",
+      "anchors": [
+        "CEC 2558",
+        "Lc 11,5-8"
+      ],
+      "facilitator_note": "A dor pode abrir uma porta verdadeira; o problema é permanecer numa relação utilitária com Deus.",
+      "reading_points": [
+        {
+          "title": "Crise que desperta",
+          "body": "A doença rompe a autossuficiência e leva a pessoa a pedir ajuda a Deus."
+        },
+        {
+          "title": "Relação maior",
+          "body": "A oração cristã não é só pedido urgente, mas relação viva com o Pai."
+        },
+        {
+          "title": "Conversão após a crise",
+          "body": "O pedido sincero deve abrir caminho para fé, escuta e mudança de vida."
+        }
+      ]
+    },
+    {
+      "id": "I04",
+      "term_id": "I04",
+      "call_label": "I04 - Reza de aparência",
+      "case": "Em uma reunião pública, um líder faz uma oração longa, elogia as próprias obras e depois humilha discretamente quem discordou dele.",
+      "conference_question": "Que sinais mostram que a oração foi usada para construir imagem e não para buscar Deus?",
+      "anchors": [
+        "Lc 18,9-14",
+        "B02"
+      ],
+      "facilitator_note": "Não critique a oração pública em si; critique a soberba que usa a oração como vitrine.",
+      "reading_points": [
+        {
+          "title": "Exibição religiosa",
+          "body": "A oração é usada para reforçar prestígio e autoridade diante dos presentes."
+        },
+        {
+          "title": "Desprezo do outro",
+          "body": "A soberba aparece quando a prática religiosa convive com humilhação."
+        },
+        {
+          "title": "Humildade exigida",
+          "body": "Jesus contrapõe o fariseu exibido ao publicano que pede misericórdia."
+        }
+      ]
+    },
+    {
+      "id": "I05",
+      "term_id": "I05",
+      "call_label": "I05 - Bíblia sem escuta",
+      "case": "Uma pessoa abre a Bíblia procurando uma frase para confirmar uma decisão injusta que já tomou, sem aceitar ser contrariada pela Palavra.",
+      "conference_question": "Como distinguir buscar luz na Escritura de usar a Escritura para confirmar a própria vontade?",
+      "anchors": [
+        "CEC 2653",
+        "B08"
+      ],
+      "facilitator_note": "Mostre que a Palavra julga e cura a vida; ela não é instrumento para legitimar o erro.",
+      "reading_points": [
+        {
+          "title": "Texto usado",
+          "body": "A pessoa não escuta Deus; procura uma frase que sirva ao próprio plano."
+        },
+        {
+          "title": "Escuta orante",
+          "body": "A leitura bíblica deve ser acompanhada de oração para haver verdadeiro diálogo."
+        },
+        {
+          "title": "Obediência à Palavra",
+          "body": "A Escritura ilumina, corrige e chama à conversão concreta."
+        }
+      ]
+    },
+    {
+      "id": "I06",
+      "term_id": "I06",
+      "call_label": "I06 - Domingo esvaziado",
+      "case": "Uma família enche o domingo de compras, partidas e tarefas atrasadas, e a Missa vira a primeira coisa a ser cortada quando falta tempo.",
+      "conference_question": "O que revela a ordem das escolhas quando o domingo perde a centralidade da Eucaristia?",
+      "anchors": [
+        "CEC 2698",
+        "B13"
+      ],
+      "facilitator_note": "Não transforme em regra cega de agenda; mostre a centralidade cristã do domingo.",
+      "reading_points": [
+        {
+          "title": "Centro deslocado",
+          "body": "O dia do Senhor é tratado como espaço sobrando entre consumo e tarefas."
+        },
+        {
+          "title": "Ritmo cristão",
+          "body": "A tradição santifica o domingo principalmente pela Eucaristia e pela oração."
+        },
+        {
+          "title": "Escolha visível",
+          "body": "A vida de oração precisa aparecer na organização concreta do tempo."
+        }
+      ]
+    },
+    {
+      "id": "I07",
+      "term_id": "I07",
+      "call_label": "I07 - Decisão sem oração",
+      "case": "Um casal decide mudar de cidade por uma promoção, mas evita conversar sobre os efeitos na família, na fé e nos compromissos já assumidos.",
+      "conference_question": "Como a oração poderia iluminar essa decisão sem substituir a análise responsável dos fatos?",
+      "anchors": [
+        "CEC 2600",
+        "B05"
+      ],
+      "facilitator_note": "Explique que oração não é adivinhação; é colocar a decisão diante de Deus com honestidade.",
+      "reading_points": [
+        {
+          "title": "Escolha importante",
+          "body": "A mudança envolve dinheiro, vínculos, família e responsabilidades concretas."
+        },
+        {
+          "title": "Sem presença de Deus",
+          "body": "A decisão é tratada apenas como cálculo de vantagem e medo de perder oportunidade."
+        },
+        {
+          "title": "Discernimento cristão",
+          "body": "Rezar antes de decidir pede luz, liberdade interior e disposição para obedecer ao bem."
+        }
+      ]
+    },
+    {
+      "id": "I08",
+      "term_id": "I08",
+      "call_label": "I08 - Luto sem esperança",
+      "case": "Depois da morte do irmão, um homem guarda todas as dores em silêncio e passa a dizer que rezar pelos mortos é inútil porque tudo acabou.",
+      "conference_question": "Como a oração cristã enfrenta o luto sem negar a dor nem cair no desespero?",
+      "anchors": [
+        "Jo 17,1-3",
+        "B06"
+      ],
+      "facilitator_note": "Fale com sobriedade; não minimize a morte nem transforme a esperança em frase pronta.",
+      "reading_points": [
+        {
+          "title": "Dor fechada",
+          "body": "O luto é vivido como muro final, sem abertura à esperança e à comunhão."
+        },
+        {
+          "title": "Vida eterna",
+          "body": "Jesus revela que a vida eterna é conhecer o Pai e aquele que ele enviou."
+        },
+        {
+          "title": "Oração esperançosa",
+          "body": "Rezar no luto entrega a dor a Deus e sustenta a fé quando faltam explicações."
+        }
+      ]
+    },
+    {
+      "id": "I09",
+      "term_id": "I09",
+      "call_label": "I09 - Culpa não confessada",
+      "case": "Um homem traiu a confiança de um sócio, encerrou a parceria e segue rezando sem tocar no assunto diante de Deus ou reparar o prejuízo.",
+      "conference_question": "Por que a oração fica dividida quando a culpa é escondida e a reparação é evitada?",
+      "anchors": [
+        "Lc 18,13-14",
+        "B02"
+      ],
+      "facilitator_note": "Nomeie pecado, misericórdia e reparação sem expor detalhes desnecessários.",
+      "reading_points": [
+        {
+          "title": "Culpa escondida",
+          "body": "A pessoa mantém vida religiosa, mas protege uma injustiça concreta do olhar de Deus."
+        },
+        {
+          "title": "Humildade necessária",
+          "body": "O publicano não se justifica; pede misericórdia reconhecendo sua condição."
+        },
+        {
+          "title": "Caminho de volta",
+          "body": "Oração sincera pede confissão, verdade e reparação proporcional quando há dano."
+        }
+      ]
+    },
+    {
+      "id": "I10",
+      "term_id": "I10",
+      "call_label": "I10 - Cansaço espiritual",
+      "case": "Uma pessoa que antes rezava com constância começa a abandonar tudo porque não sente mais gosto e conclui que perdeu a fé.",
+      "conference_question": "Como distinguir aridez espiritual de abandono culpável da oração?",
+      "anchors": [
+        "CEC 2697",
+        "B15"
+      ],
+      "facilitator_note": "Evite diagnosticar a pessoa; apresente o critério da fidelidade nos tempos fortes.",
+      "reading_points": [
+        {
+          "title": "Aridez real",
+          "body": "A falta de gosto torna a oração pesada e tenta a pessoa a desistir."
+        },
+        {
+          "title": "Fé além do sentimento",
+          "body": "A oração não depende apenas de consolação sensível, mas de decisão fiel."
+        },
+        {
+          "title": "Retomar o ritmo",
+          "body": "Tempos simples e perseverantes ajudam a atravessar o cansaço sem romper com Deus."
+        }
+      ]
+    },
+    {
+      "id": "I11",
+      "term_id": "I11",
+      "call_label": "I11 - Ativismo seco",
+      "case": "Um coordenador de obras sociais resolve problemas o dia inteiro, mas se torna impaciente, duro e incapaz de rezar pelas pessoas que atende.",
+      "conference_question": "Quando o serviço aos outros começa a secar por falta de oração?",
+      "anchors": [
+        "CEC 2745",
+        "B14"
+      ],
+      "facilitator_note": "Não critique o serviço; mostre que ele precisa ser alimentado pela união com Deus.",
+      "reading_points": [
+        {
+          "title": "Obra sem fonte",
+          "body": "A pessoa faz muito bem visível, mas perde paciência, misericórdia e interioridade."
+        },
+        {
+          "title": "Unidade necessária",
+          "body": "Oração e vida cristã procedem do mesmo amor e não devem ser separadas."
+        },
+        {
+          "title": "Caridade sustentada",
+          "body": "A oração purifica o serviço para que ele não vire controle, irritação ou vaidade."
+        }
+      ]
+    },
+    {
+      "id": "I12",
+      "term_id": "I12",
+      "call_label": "I12 - Silêncio evitado",
+      "case": "Ao chegar em casa, uma pessoa liga televisão, celular e música ao mesmo tempo para não ficar sozinha com pensamentos sobre a própria vida.",
+      "conference_question": "Por que evitar todo silêncio pode impedir o encontro com Deus e com a própria consciência?",
+      "anchors": [
+        "CEC 2699",
+        "B11"
+      ],
+      "facilitator_note": "Trate o silêncio como espaço espiritual, não como técnica de relaxamento.",
+      "reading_points": [
+        {
+          "title": "Ruído como fuga",
+          "body": "O barulho constante impede a pessoa de encarar feridas, deveres e perguntas de Deus."
+        },
+        {
+          "title": "Recolhimento do coração",
+          "body": "As expressões da oração exigem vigilância para permanecer na presença de Deus."
+        },
+        {
+          "title": "Silêncio verdadeiro",
+          "body": "Guardar silêncio cria espaço para escuta, arrependimento e entrega."
+        }
+      ]
+    },
+    {
+      "id": "I13",
+      "term_id": "I13",
+      "call_label": "I13 - Família sem bênção",
+      "case": "Em uma casa marcada por discussões, todos comem juntos em silêncio tenso, mas ninguém se dispõe a fazer uma oração simples antes da refeição.",
+      "conference_question": "Como uma oração familiar simples pode abrir espaço para reconciliação sem resolver tudo magicamente?",
+      "anchors": [
+        "CEC 2698",
+        "B13"
+      ],
+      "facilitator_note": "Evite idealizar família perfeita; a oração simples pode ser começo humilde de conversão.",
+      "reading_points": [
+        {
+          "title": "Mesa sem Deus",
+          "body": "A refeição comum existe, mas a tensão domina e ninguém invoca Deus."
+        },
+        {
+          "title": "Ritmo cotidiano",
+          "body": "A oração antes das refeições é um ritmo simples que educa a casa para a gratidão."
+        },
+        {
+          "title": "Começo concreto",
+          "body": "Uma bênção breve pode abrir caminho para humildade, perdão e diálogo."
+        }
+      ]
+    },
+    {
+      "id": "I14",
+      "term_id": "I14",
+      "call_label": "I14 - Dor que insiste",
+      "case": "Uma trabalhadora enfrenta um processo injusto há anos, ora por justiça e precisa lutar para não responder com ódio ou desistência.",
+      "conference_question": "Como perseverar na oração por justiça sem alimentar vingança nem desistir da verdade?",
+      "anchors": [
+        "Lc 18,1-8",
+        "B15"
+      ],
+      "facilitator_note": "Dê peso à injustiça real; perseverança não significa aceitar passivamente o mal.",
+      "reading_points": [
+        {
+          "title": "Injustiça prolongada",
+          "body": "A demora corrói a pessoa e torna a desistência ou o ódio tentações reais."
+        },
+        {
+          "title": "Viúva persistente",
+          "body": "Jesus ensina a rezar sempre, clamando por justiça sem esmorecer."
+        },
+        {
+          "title": "Fé firme",
+          "body": "A oração sustenta ações justas e impede que a dor governe o coração."
+        }
+      ]
+    },
+    {
+      "id": "I15",
+      "term_id": "I15",
+      "call_label": "I15 - Gratidão esquecida",
+      "case": "Depois de sair de uma dívida pesada com ajuda de parentes, um homem comemora a liberdade financeira, mas não agradece nem revê o modo como gastava.",
+      "conference_question": "Por que a gratidão cristã deve tocar memória, oração e mudança de vida?",
+      "anchors": [
+        "CEC 2558",
+        "B14"
+      ],
+      "facilitator_note": "Mostre que agradecer não é formalidade; é reconhecer dons e responder a eles.",
+      "reading_points": [
+        {
+          "title": "Bem recebido",
+          "body": "A pessoa recebeu ajuda real, mas age como se tudo fosse apenas mérito próprio."
+        },
+        {
+          "title": "Memória agradecida",
+          "body": "A oração reconhece Deus e os instrumentos humanos pelos quais o bem chegou."
+        },
+        {
+          "title": "Resposta concreta",
+          "body": "Gratidão madura leva a responsabilidade, generosidade e mudança de hábitos."
+        }
+      ]
+    },
+    {
+      "id": "N01",
+      "term_id": "N01",
+      "call_label": "N01 - Rezar é sentir",
+      "case": "Uma pessoa abandona a oração diária porque já não sente paz imediata e diz que, se não sente nada, Deus não está ali.",
+      "conference_question": "Como desmontar a ideia de que a oração só é verdadeira quando produz sensação agradável?",
+      "anchors": [
+        "CEC 2697",
+        "G05"
+      ],
+      "facilitator_note": "Distingua consolação sensível de presença real de Deus e fidelidade.",
+      "reading_points": [
+        {
+          "title": "Critério emocional",
+          "body": "A pessoa mede a oração pelo efeito sentido no momento."
+        },
+        {
+          "title": "Erro sedutor",
+          "body": "Sentimentos podem acompanhar a oração, mas não são sua medida definitiva."
+        },
+        {
+          "title": "Fidelidade da fé",
+          "body": "A vida de oração precisa de decisão fiel também na aridez."
+        }
+      ]
+    },
+    {
+      "id": "N02",
+      "term_id": "N02",
+      "call_label": "N02 - Só rezo quando preciso",
+      "case": "Um comerciante passa meses sem rezar, mas quando uma fiscalização ameaça multá-lo, acende vela e promete mudar tudo se escapar.",
+      "conference_question": "Por que a oração de necessidade pode ser legítima, mas não deve virar relação utilitária com Deus?",
+      "anchors": [
+        "CEC 2558",
+        "B01"
+      ],
+      "facilitator_note": "Não ridicularize o pedido em crise; mostre que ele deve abrir relação contínua.",
+      "reading_points": [
+        {
+          "title": "Procura de emergência",
+          "body": "Deus é lembrado apenas quando há ameaça concreta."
+        },
+        {
+          "title": "Relação reduzida",
+          "body": "A narrativa transforma o Pai em recurso acionado só na necessidade."
+        },
+        {
+          "title": "Conversão do pedido",
+          "body": "O pedido sincero deve conduzir a diálogo, escuta e vida de oração."
+        }
+      ]
+    },
+    {
+      "id": "N03",
+      "term_id": "N03",
+      "call_label": "N03 - Deus já sabe",
+      "case": "Diante de uma decisão grave, uma mulher diz que não precisa rezar porque Deus já conhece tudo, e segue decidindo sozinha.",
+      "conference_question": "Por que saber que Deus conhece tudo não dispensa o diálogo filial da oração?",
+      "anchors": [
+        "CEC 2559",
+        "Rm 8,26"
+      ],
+      "facilitator_note": "Mostre que a oração não informa Deus; transforma o coração que se coloca diante dele.",
+      "reading_points": [
+        {
+          "title": "Desculpa elegante",
+          "body": "Uma verdade sobre Deus é usada para evitar encontro, pedido e escuta."
+        },
+        {
+          "title": "Oração não informa",
+          "body": "Deus já sabe, mas a pessoa precisa abrir o coração e receber a graça."
+        },
+        {
+          "title": "Confiança filial",
+          "body": "Rezar é colocar a vida diante do Pai, não repassar dados a ele."
+        }
+      ]
+    },
+    {
+      "id": "N04",
+      "term_id": "N04",
+      "call_label": "N04 - Não tenho tempo",
+      "case": "Um advogado afirma que não tem cinco minutos para rezar, mas reorganiza a agenda imediatamente quando surge uma oportunidade de negócio.",
+      "conference_question": "Como perceber quando a falta de tempo revela uma hierarquia real de prioridades?",
+      "anchors": [
+        "CEC 2697",
+        "O01"
+      ],
+      "facilitator_note": "Evite simplificar vidas sobrecarregadas; foque na diferença entre impossibilidade e prioridade.",
+      "reading_points": [
+        {
+          "title": "Agenda seletiva",
+          "body": "O tempo aparece quando algo é considerado suficientemente importante."
+        },
+        {
+          "title": "Narrativa conveniente",
+          "body": "Dizer que não há tempo pode esconder que a oração não foi escolhida."
+        },
+        {
+          "title": "Decisão concreta",
+          "body": "A tradição pede tempos fortes assumidos por decisão própria."
+        }
+      ]
+    },
+    {
+      "id": "N05",
+      "term_id": "N05",
+      "call_label": "N05 - Deus falhou",
+      "case": "Depois de rezar por uma vaga e não ser contratado, um homem conclui que Deus não escuta e abandona a fé.",
+      "conference_question": "Como distinguir oração confiante de exigir que Deus cumpra exatamente o resultado pedido?",
+      "anchors": [
+        "Lc 18,1-8",
+        "G07"
+      ],
+      "facilitator_note": "Não negue a frustração; mostre que Deus não é medido por um resultado imediato.",
+      "reading_points": [
+        {
+          "title": "Frustração real",
+          "body": "A pessoa esperava um bem concreto e sofre quando ele não acontece."
+        },
+        {
+          "title": "Conclusão falsa",
+          "body": "A demora ou negativa é interpretada como falha de Deus."
+        },
+        {
+          "title": "Confiança madura",
+          "body": "A fé persevera pedindo, trabalhando e entregando o tempo a Deus."
+        }
+      ]
+    },
+    {
+      "id": "N06",
+      "term_id": "N06",
+      "call_label": "N06 - Oração mágica",
+      "case": "Uma pessoa copia uma corrente religiosa que promete resolver dinheiro e saúde se a oração for reenviada a vinte contatos.",
+      "conference_question": "Por que fórmulas de garantia transformam a oração em superstição?",
+      "anchors": [
+        "CEC 2559",
+        "G11"
+      ],
+      "facilitator_note": "Nomeie superstição com clareza, sem desprezar devoções autênticas da Igreja.",
+      "reading_points": [
+        {
+          "title": "Promessa mecânica",
+          "body": "A oração é tratada como procedimento que obriga um resultado."
+        },
+        {
+          "title": "Controle religioso",
+          "body": "A lógica mágica dispensa humildade, liberdade de Deus e conversão."
+        },
+        {
+          "title": "Fé verdadeira",
+          "body": "A oração cristã pede com confiança, mas não manipula Deus."
+        }
+      ]
+    },
+    {
+      "id": "N07",
+      "term_id": "N07",
+      "call_label": "N07 - Piedade de vitrine",
+      "case": "Uma influenciadora publica todos os jejuns e orações, mas trata funcionários com desprezo quando não há câmera.",
+      "conference_question": "Como distinguir testemunho público de fé de uso da piedade para autopromoção?",
+      "anchors": [
+        "Lc 18,9-14",
+        "G13"
+      ],
+      "facilitator_note": "Não condene todo testemunho público; destaque intenção, coerência e caridade.",
+      "reading_points": [
+        {
+          "title": "Imagem piedosa",
+          "body": "A prática religiosa é exposta como capital de prestígio."
+        },
+        {
+          "title": "Incoerência visível",
+          "body": "A mesma pessoa que mostra oração despreza quem deveria tratar com justiça."
+        },
+        {
+          "title": "Humildade cristã",
+          "body": "A oração autêntica não fabrica superioridade; conduz à caridade."
+        }
+      ]
+    },
+    {
+      "id": "N08",
+      "term_id": "N08",
+      "call_label": "N08 - Autossuficiência",
+      "case": "Um atleta diz que não precisa rezar porque treino, dieta e disciplina bastam para vencer, e considera dependência de Deus sinal de fraqueza.",
+      "conference_question": "Como reconhecer o valor do esforço humano sem cair na autossuficiência espiritual?",
+      "anchors": [
+        "CEC 2559",
+        "B03"
+      ],
+      "facilitator_note": "Afirme o valor da disciplina, mas mostre seu limite diante da graça e da salvação.",
+      "reading_points": [
+        {
+          "title": "Força real",
+          "body": "Disciplina e competência são bens, mas não salvam nem bastam para tudo."
+        },
+        {
+          "title": "Orgulho escondido",
+          "body": "A autossuficiência chama humildade de fraqueza e fecha a pessoa a Deus."
+        },
+        {
+          "title": "Dependência filial",
+          "body": "Reconhecer necessidade de Deus ordena o esforço, não o destrói."
+        }
+      ]
+    },
+    {
+      "id": "N09",
+      "term_id": "N09",
+      "call_label": "N09 - Bíblia sem oração",
+      "case": "Durante uma discussão familiar, alguém cita versículos para calar os outros, mas nunca se pergunta se a própria dureza precisa de conversão.",
+      "conference_question": "Por que citar a Bíblia sem oração pode impedir a escuta da própria Palavra?",
+      "anchors": [
+        "CEC 2653",
+        "B08"
+      ],
+      "facilitator_note": "Mostre que a Escritura não deve ser usada como arma para evitar conversão pessoal.",
+      "reading_points": [
+        {
+          "title": "Versículo como arma",
+          "body": "A Palavra é usada para vencer pessoas, não para ouvir Deus."
+        },
+        {
+          "title": "Escuta bloqueada",
+          "body": "Quem não reza com a Escritura pode usá-la sem deixar-se corrigir."
+        },
+        {
+          "title": "Colóquio verdadeiro",
+          "body": "A leitura bíblica pede oração, humildade e resposta concreta."
+        }
+      ]
+    },
+    {
+      "id": "N10",
+      "term_id": "N10",
+      "call_label": "N10 - Fé sem prática",
+      "case": "Um síndico lidera orações no condomínio, mas manipula prestações de contas e intimida moradores que pedem transparência.",
+      "conference_question": "Por que a oração não pode ser separada da justiça concreta nas responsabilidades assumidas?",
+      "anchors": [
+        "CEC 2745",
+        "B14"
+      ],
+      "facilitator_note": "Nomeie a incoerência moral; a questão não é imperfeição, mas conservar injustiça.",
+      "reading_points": [
+        {
+          "title": "Religião e fraude",
+          "body": "A prática devota convive com mentira e abuso de poder."
+        },
+        {
+          "title": "Separação falsa",
+          "body": "A narrativa permite rezar sem tocar escolhas injustas."
+        },
+        {
+          "title": "Unidade cristã",
+          "body": "Oração e obras devem proceder do mesmo amor e da mesma renúncia."
+        }
+      ]
+    },
+    {
+      "id": "N11",
+      "term_id": "N11",
+      "call_label": "N11 - Barulho necessário",
+      "case": "Uma pessoa diz que silêncio é perda de tempo e mantém áudio, notificações e conversas constantes para não ficar sem estímulo.",
+      "conference_question": "Como distinguir necessidade legítima de companhia de fuga sistemática do silêncio diante de Deus?",
+      "anchors": [
+        "CEC 2699",
+        "G04"
+      ],
+      "facilitator_note": "Evite tratar todo barulho como pecado; foque na fuga do recolhimento.",
+      "reading_points": [
+        {
+          "title": "Estímulo permanente",
+          "body": "A pessoa organiza a vida para nunca enfrentar silêncio interior."
+        },
+        {
+          "title": "Engano do ruído",
+          "body": "O barulho constante parece aliviar, mas pode impedir escuta e conversão."
+        },
+        {
+          "title": "Recolhimento necessário",
+          "body": "A oração pede guardar o coração na presença de Deus."
+        }
+      ]
+    },
+    {
+      "id": "N12",
+      "term_id": "N12",
+      "call_label": "N12 - Culpa paralisante",
+      "case": "Depois de cometer um pecado grave, uma pessoa evita rezar porque pensa que Deus só a receberá quando ela já estiver limpa.",
+      "conference_question": "Como distinguir vergonha que afasta de Deus de contrição que leva à misericórdia?",
+      "anchors": [
+        "Lc 18,13-14",
+        "G10"
+      ],
+      "facilitator_note": "Seja firme sobre pecado e igualmente firme sobre misericórdia e retorno.",
+      "reading_points": [
+        {
+          "title": "Fuga após a queda",
+          "body": "A culpa faz a pessoa se esconder justamente quando precisa voltar a Deus."
+        },
+        {
+          "title": "Mentira espiritual",
+          "body": "Ninguém se purifica sozinho para depois merecer a misericórdia."
+        },
+        {
+          "title": "Contrição humilde",
+          "body": "O publicano mostra o caminho: reconhecer o pecado e pedir piedade."
+        }
+      ]
+    },
+    {
+      "id": "N13",
+      "term_id": "N13",
+      "call_label": "N13 - Oração opcional",
+      "case": "Um cristão diz que é suficiente ser correto e que oração é detalhe para pessoas mais religiosas.",
+      "conference_question": "Por que reduzir a oração a detalhe opcional empobrece a vida cristã?",
+      "anchors": [
+        "CEC 2558",
+        "CEC 2697"
+      ],
+      "facilitator_note": "Mostre que moral sem oração tende a virar autossuficiência ou moralismo.",
+      "reading_points": [
+        {
+          "title": "Fé reduzida",
+          "body": "A vida cristã é tratada como comportamento correto sem relação viva com Deus."
+        },
+        {
+          "title": "Oração vital",
+          "body": "O Catecismo apresenta a oração como vida do coração novo."
+        },
+        {
+          "title": "Risco moralista",
+          "body": "Sem oração, a prática moral perde fonte, graça e comunhão."
+        }
+      ]
+    },
+    {
+      "id": "N14",
+      "term_id": "N14",
+      "call_label": "N14 - Comparação religiosa",
+      "case": "Um homem se tranquiliza dizendo que reza mais que o irmão, contribui mais que os vizinhos e portanto não precisa rever a própria soberba.",
+      "conference_question": "Como a comparação religiosa desvia a pessoa do verdadeiro exame diante de Deus?",
+      "anchors": [
+        "Lc 18,9-14",
+        "B02"
+      ],
+      "facilitator_note": "Mostre que a comparação pode usar fatos verdadeiros para esconder orgulho.",
+      "reading_points": [
+        {
+          "title": "Medida errada",
+          "body": "A pessoa mede a si mesma pelos defeitos dos outros."
+        },
+        {
+          "title": "Soberba piedosa",
+          "body": "A prática religiosa vira prova de superioridade e não caminho de humildade."
+        },
+        {
+          "title": "Olhar de Deus",
+          "body": "A oração verdadeira coloca o coração diante de Deus, não contra o próximo."
+        }
+      ]
+    },
+    {
+      "id": "N15",
+      "term_id": "N15",
+      "call_label": "N15 - Controle de Deus",
+      "case": "Uma pessoa promete uma oferta se Deus fizer exatamente o que ela quer e se revolta quando a situação toma outro rumo.",
+      "conference_question": "Por que negociar com Deus para controlar resultados distorce a oração cristã?",
+      "anchors": [
+        "CEC 2600",
+        "G03"
+      ],
+      "facilitator_note": "Diferencie promessa religiosa séria de tentativa de barganhar com Deus.",
+      "reading_points": [
+        {
+          "title": "Barganha religiosa",
+          "body": "A oferta é tratada como moeda para dirigir a ação de Deus."
+        },
+        {
+          "title": "Vontade no centro",
+          "body": "A pessoa não pede bens convenientes; tenta impor o próprio plano."
+        },
+        {
+          "title": "Entrega filial",
+          "body": "Cristo ensina a entregar a vontade humana à vontade amorosa do Pai."
+        }
+      ]
+    },
+    {
+      "id": "G01",
+      "term_id": "G01",
+      "call_label": "G01 - Rezar ou repetir?",
+      "case": "Durante uma novena, algumas pessoas respondem automaticamente enquanto conversam pelo celular; outra, com poucas palavras, acompanha cada oração com atenção.",
+      "conference_question": "Que critério distingue repetição vazia de oração vocal autêntica?",
+      "anchors": [
+        "CEC 2699",
+        "B09"
+      ],
+      "facilitator_note": "Defenda a oração vocal sem aceitar mecanicismo distraído.",
+      "reading_points": [
+        {
+          "title": "Mesmas palavras",
+          "body": "A diferença não está apenas no texto rezado, mas na presença do coração."
+        },
+        {
+          "title": "Risco mecânico",
+          "body": "Repetir sem atenção pode esvaziar uma oração boa."
+        },
+        {
+          "title": "Oração vocal real",
+          "body": "Palavras da fé se tornam oração quando a pessoa as assume diante de Deus."
+        }
+      ]
+    },
+    {
+      "id": "G02",
+      "term_id": "G02",
+      "call_label": "G02 - Insistência e teimosia",
+      "case": "Uma família reza por uma cirurgia arriscada, mas alguns dizem que insistir na oração significa exigir que Deus cure de qualquer modo.",
+      "conference_question": "Como distinguir insistir com fé de impor a Deus uma única saída aceitável?",
+      "anchors": [
+        "Lc 11,5-8",
+        "Lc 18,1-8"
+      ],
+      "facilitator_note": "Mostre que insistência cristã convive com confiança e entrega.",
+      "reading_points": [
+        {
+          "title": "Pedido intenso",
+          "body": "A necessidade é grave e a oração insistente é legítima."
+        },
+        {
+          "title": "Limite da teimosia",
+          "body": "A teimosia fecha o coração a qualquer resposta que não seja a desejada."
+        },
+        {
+          "title": "Perseverança filial",
+          "body": "Jesus ensina a pedir com insistência e a confiar no Pai."
+        }
+      ]
+    },
+    {
+      "id": "G03",
+      "term_id": "G03",
+      "call_label": "G03 - Pedido e vontade do Pai",
+      "case": "Um jovem adulto pede a Deus um emprego específico, mas a vaga exigiria mentir sobre qualificações e prejudicar outro candidato.",
+      "conference_question": "Como pedir algo a Deus mantendo abertura real à vontade do Pai?",
+      "anchors": [
+        "CEC 2559",
+        "CEC 2600"
+      ],
+      "facilitator_note": "Ensine que nem todo desejo pode ser apresentado como bem conveniente.",
+      "reading_points": [
+        {
+          "title": "Desejo concreto",
+          "body": "O emprego parece bom, mas o caminho proposto envolve mentira e injustiça."
+        },
+        {
+          "title": "Bens convenientes",
+          "body": "A oração pede a Deus o que convém ao bem verdadeiro, não qualquer vantagem."
+        },
+        {
+          "title": "Abertura obediente",
+          "body": "Pedir cristãmente inclui aceitar que Deus corrija desejos desordenados."
+        }
+      ]
+    },
+    {
+      "id": "G04",
+      "term_id": "G04",
+      "call_label": "G04 - Silêncio e fuga",
+      "case": "Depois de uma perda, uma pessoa se isola de todos e chama isso de vida de oração, mas deixa de trabalhar, comer direito e procurar ajuda.",
+      "conference_question": "Como distinguir silêncio orante de isolamento que foge da vida e da ajuda necessária?",
+      "anchors": [
+        "CEC 2699",
+        "B11"
+      ],
+      "facilitator_note": "Seja cuidadoso com sofrimento psíquico; indique que oração não dispensa ajuda responsável.",
+      "reading_points": [
+        {
+          "title": "Isolamento perigoso",
+          "body": "A pessoa usa linguagem espiritual enquanto abandona deveres e cuidados básicos."
+        },
+        {
+          "title": "Silêncio orante",
+          "body": "O silêncio cristão permanece diante de Deus e não rompe com a verdade da vida."
+        },
+        {
+          "title": "Discernimento prudente",
+          "body": "Quando há risco ou sofrimento grave, oração e ajuda adequada devem caminhar juntas."
+        }
+      ]
+    },
+    {
+      "id": "G05",
+      "term_id": "G05",
+      "call_label": "G05 - Emoção e fidelidade",
+      "case": "Em um retiro, alguém sente grande alegria ao rezar; semanas depois, sem a mesma emoção, pensa que sua oração perdeu valor.",
+      "conference_question": "Por que a fidelidade à oração não pode depender apenas de emoção religiosa intensa?",
+      "anchors": [
+        "CEC 2697",
+        "B15"
+      ],
+      "facilitator_note": "Valorize consolações, mas mostre que maturidade espiritual não se mede por intensidade emocional.",
+      "reading_points": [
+        {
+          "title": "Consolação legítima",
+          "body": "A alegria sentida pode ser dom e ajuda real."
+        },
+        {
+          "title": "Critério insuficiente",
+          "body": "Quando a emoção passa, a oração não deixa de ser necessária ou verdadeira."
+        },
+        {
+          "title": "Fidelidade madura",
+          "body": "Tempos fortes de oração sustentam a fé também quando o coração está árido."
+        }
+      ]
+    },
+    {
+      "id": "G06",
+      "term_id": "G06",
+      "call_label": "G06 - Humildade e vergonha",
+      "case": "Uma mulher quer voltar a rezar depois de anos afastada, mas sente vergonha de Deus e acha que humildade significa aceitar ficar longe.",
+      "conference_question": "Como distinguir humildade verdadeira de vergonha que afasta do Pai?",
+      "anchors": [
+        "CEC 2559",
+        "Lc 18,13-14"
+      ],
+      "facilitator_note": "A humildade aproxima de Deus; a vergonha fechada paralisa e mente sobre a misericórdia.",
+      "reading_points": [
+        {
+          "title": "Vergonha fechada",
+          "body": "A pessoa reconhece sua distância, mas conclui que não deve voltar."
+        },
+        {
+          "title": "Humildade real",
+          "body": "Humildade é apresentar a pobreza a Deus, não esconder-se dele."
+        },
+        {
+          "title": "Misericórdia pedida",
+          "body": "O publicano volta justificado porque pede piedade com coração contrito."
+        }
+      ]
+    },
+    {
+      "id": "G07",
+      "term_id": "G07",
+      "call_label": "G07 - Confiança e cobrança",
+      "case": "Um homem reza pela reconciliação com a filha, mas passa a dizer que Deus lhe deve essa paz porque ele voltou a frequentar a Igreja.",
+      "conference_question": "Como confiar em Deus sem transformar oração e prática religiosa em cobrança?",
+      "anchors": [
+        "Lc 18,1-8",
+        "B05"
+      ],
+      "facilitator_note": "Ajude a distinguir confiança filial de mentalidade contratual.",
+      "reading_points": [
+        {
+          "title": "Pedido justo",
+          "body": "A reconciliação familiar é um bem que pode e deve ser apresentado a Deus."
+        },
+        {
+          "title": "Cobrança indevida",
+          "body": "O erro está em tratar práticas religiosas como crédito contra Deus."
+        },
+        {
+          "title": "Confiança filial",
+          "body": "A oração persevera sem transformar o Pai em devedor."
+        }
+      ]
+    },
+    {
+      "id": "G08",
+      "term_id": "G08",
+      "call_label": "G08 - Interioridade e isolamento",
+      "case": "Uma pessoa diz que sua fé é só entre ela e Deus, por isso rejeita sacramentos, comunidade e qualquer compromisso com os necessitados.",
+      "conference_question": "Como distinguir vida interior autêntica de espiritualidade isolada e sem corpo eclesial?",
+      "anchors": [
+        "CEC 2565",
+        "B06"
+      ],
+      "facilitator_note": "Mostre que oração pessoal é necessária, mas não dispensa comunhão com Cristo na Igreja.",
+      "reading_points": [
+        {
+          "title": "Privatização da fé",
+          "body": "A pessoa usa a interioridade para romper vínculos e responsabilidades."
+        },
+        {
+          "title": "Comunhão cristã",
+          "body": "A oração cresce na Igreja, Corpo de Cristo, e tem as dimensões do amor de Cristo."
+        },
+        {
+          "title": "Interioridade encarnada",
+          "body": "Vida interior verdadeira abre para sacramentos, comunidade e caridade."
+        }
+      ]
+    },
+    {
+      "id": "G09",
+      "term_id": "G09",
+      "call_label": "G09 - Oração e passividade",
+      "case": "Um vizinho sabe que uma idosa sofre abandono, diz que vai rezar por ela, mas nunca avisa a família, a assistência ou alguém que possa ajudar.",
+      "conference_question": "Como distinguir entregar uma situação a Deus de omitir o bem concreto possível?",
+      "anchors": [
+        "CEC 2745",
+        "Jo 15,16-17"
+      ],
+      "facilitator_note": "Aponte que a oração não substitui deveres de caridade e proteção quando há ação possível.",
+      "reading_points": [
+        {
+          "title": "Omissão piedosa",
+          "body": "A oração é usada para evitar uma responsabilidade concreta diante de alguém vulnerável."
+        },
+        {
+          "title": "Unidade da vida",
+          "body": "Oração e obras pertencem ao mesmo amor cristão."
+        },
+        {
+          "title": "Caridade ativa",
+          "body": "Rezar por alguém deve mover a providências proporcionais e seguras."
+        }
+      ]
+    },
+    {
+      "id": "G10",
+      "term_id": "G10",
+      "call_label": "G10 - Culpa e contrição",
+      "case": "Depois de ofender gravemente a esposa, um homem sente culpa, mas prefere afundar em autopunição a pedir perdão e mudar a conduta.",
+      "conference_question": "Como distinguir culpa que paralisa de contrição que leva a misericórdia, reparação e mudança?",
+      "anchors": [
+        "Lc 18,13-14",
+        "B02"
+      ],
+      "facilitator_note": "Nomeie a gravidade da ofensa e a necessidade de passos reais, não apenas sentimento de culpa.",
+      "reading_points": [
+        {
+          "title": "Culpa estéril",
+          "body": "O peso moral existe, mas não se transforma em verdade, pedido de perdão ou reparação."
+        },
+        {
+          "title": "Contrição verdadeira",
+          "body": "A contrição reconhece o pecado diante de Deus e abre caminho de conversão."
+        },
+        {
+          "title": "Passo responsável",
+          "body": "A oração sincera pede misericórdia e assume mudança concreta."
+        }
+      ]
+    },
+    {
+      "id": "G11",
+      "term_id": "G11",
+      "call_label": "G11 - Devoção e superstição",
+      "case": "Uma senhora reza o terço com fé, enquanto outra pessoa diz que certas contas do rosário garantem proteção automática se usadas no bolso.",
+      "conference_question": "Que critério distingue devoção católica de superstição religiosa?",
+      "anchors": [
+        "CEC 2558",
+        "CEC 2559"
+      ],
+      "facilitator_note": "Proteja a devoção legítima e corrija a lógica de objeto mágico.",
+      "reading_points": [
+        {
+          "title": "Gestos parecidos",
+          "body": "Os objetos e palavras podem parecer iguais, mas a lógica espiritual é diferente."
+        },
+        {
+          "title": "Fé ou controle",
+          "body": "A devoção se dirige a Deus com confiança; a superstição busca garantia automática."
+        },
+        {
+          "title": "Coração humilde",
+          "body": "A oração verdadeira pede graça, não manipula forças sagradas."
+        }
+      ]
+    },
+    {
+      "id": "G12",
+      "term_id": "G12",
+      "call_label": "G12 - Rotina e mecanicismo",
+      "case": "Um casal reza toda noite com os filhos; em alguns dias há cansaço, mas eles mantêm a oração breve e atenta em vez de fazê-la correndo e sem sentido.",
+      "conference_question": "Como uma rotina de oração pode educar o coração sem virar mecanicismo?",
+      "anchors": [
+        "CEC 2697",
+        "CEC 2698"
+      ],
+      "facilitator_note": "Diferencie fidelidade cotidiana de automatismo sem atenção.",
+      "reading_points": [
+        {
+          "title": "Rotina boa",
+          "body": "A repetição regular cria um espaço estável para Deus na vida da família."
+        },
+        {
+          "title": "Risco automático",
+          "body": "A mesma rotina pode se esvaziar quando é feita sem atenção e intenção."
+        },
+        {
+          "title": "Fidelidade atenta",
+          "body": "Um ritmo simples, consciente e possível sustenta a oração contínua."
+        }
+      ]
+    },
+    {
+      "id": "G13",
+      "term_id": "G13",
+      "call_label": "G13 - Discrição e omissão",
+      "case": "No trabalho, uma pessoa evita ostentar sua fé, mas também se cala quando a oração de um doente é ridicularizada por medo de parecer religiosa.",
+      "conference_question": "Como distinguir discrição humilde de omissão por vergonha da fé?",
+      "anchors": [
+        "Lc 18,9-14",
+        "B14"
+      ],
+      "facilitator_note": "Mostre que sobriedade não é esconder Deus quando a caridade e a verdade pedem palavra.",
+      "reading_points": [
+        {
+          "title": "Sobriedade necessária",
+          "body": "Nem toda fé precisa ser exibida em público o tempo todo."
+        },
+        {
+          "title": "Omissão por vergonha",
+          "body": "Calar por vergonha diante da humilhação de alguém não é humildade."
+        },
+        {
+          "title": "Testemunho prudente",
+          "body": "A oração autêntica forma coragem, respeito e palavra proporcional."
+        }
+      ]
+    },
+    {
+      "id": "G14",
+      "term_id": "G14",
+      "call_label": "G14 - Comunidade e intimismo",
+      "case": "Um homem diz que reza melhor sozinho em casa e por isso abandona a Eucaristia dominical por meses, sem impedimento real.",
+      "conference_question": "Por que oração pessoal intensa não substitui a comunhão sacramental e eclesial?",
+      "anchors": [
+        "CEC 2565",
+        "CEC 2698"
+      ],
+      "facilitator_note": "Valorize a oração pessoal e afirme a centralidade eclesial do domingo.",
+      "reading_points": [
+        {
+          "title": "Pessoal sem Igreja",
+          "body": "A oração individual é usada para dispensar a comunhão visível da fé."
+        },
+        {
+          "title": "Corpo de Cristo",
+          "body": "A oração cristã cresce na Igreja e o domingo é centrado na Eucaristia."
+        },
+        {
+          "title": "Comunhão completa",
+          "body": "O encontro pessoal com Deus não se opõe aos sacramentos; pede-os."
+        }
+      ]
+    },
+    {
+      "id": "G15",
+      "term_id": "G15",
+      "call_label": "G15 - Contemplação e vazio",
+      "case": "Uma pessoa procura técnicas de silêncio para não pensar em nada, mas estranha quando a oração cristã fala de permanecer diante de Deus com amor.",
+      "conference_question": "O que distingue contemplação cristã de simples esvaziamento interior?",
+      "anchors": [
+        "CEC 2699",
+        "B11"
+      ],
+      "facilitator_note": "Evite atacar práticas de silêncio genericamente; destaque a identidade cristã da contemplação.",
+      "reading_points": [
+        {
+          "title": "Silêncio ambíguo",
+          "body": "Nem todo silêncio tem o mesmo sentido espiritual."
+        },
+        {
+          "title": "Relação com Deus",
+          "body": "A contemplação cristã é presença diante do Deus vivo, não ausência de relação."
+        },
+        {
+          "title": "Amor e verdade",
+          "body": "O recolhimento guarda a Palavra e permanece em comunhão com Deus."
+        }
+      ]
+    },
+    {
+      "id": "O01",
+      "term_id": "O01",
+      "call_label": "O01 - Marcar horário de oração",
+      "case": "Depois de meses dizendo que rezaria quando sobrasse tempo, uma pessoa escolhe dez minutos pela manhã, deixa o celular fora do quarto e mantém esse horário por uma semana.",
+      "conference_question": "Por que escolher um horário concreto é resposta mais séria do que apenas prometer rezar mais?",
+      "anchors": [
+        "CEC 2697",
+        "CEC 2698"
+      ],
+      "facilitator_note": "Valorize passos pequenos e sustentáveis; não proponha metas irreais.",
+      "reading_points": [
+        {
+          "title": "Decisão visível",
+          "body": "A oração deixa de depender da sobra e entra na organização real do dia."
+        },
+        {
+          "title": "Tempo forte",
+          "body": "A vida de oração precisa de momentos escolhidos por decisão própria."
+        },
+        {
+          "title": "Fidelidade possível",
+          "body": "Um compromisso pequeno e firme pode reeducar o coração para Deus."
+        }
+      ]
+    },
+    {
+      "id": "O02",
+      "term_id": "O02",
+      "call_label": "O02 - Rezar antes de decidir",
+      "case": "Antes de romper uma sociedade, uma empresária passa alguns dias rezando, consulta documentos, escuta um conselheiro honesto e busca agir sem vingança.",
+      "conference_question": "Como rezar antes de decidir ajuda a unir prudência, justiça e liberdade interior?",
+      "anchors": [
+        "CEC 2600",
+        "B05"
+      ],
+      "facilitator_note": "Mostre que oração séria não dispensa informação, conselho e responsabilidade.",
+      "reading_points": [
+        {
+          "title": "Decisão pesada",
+          "body": "A escolha envolve dinheiro, confiança quebrada e risco de vingança."
+        },
+        {
+          "title": "Luz diante de Deus",
+          "body": "Rezar ajuda a entregar a vontade e purificar intenções."
+        },
+        {
+          "title": "Prudência concreta",
+          "body": "A resposta inclui oração, dados reais, conselho e decisão justa."
+        }
+      ]
+    },
+    {
+      "id": "O03",
+      "term_id": "O03",
+      "call_label": "O03 - Ler a Palavra rezando",
+      "case": "Uma pessoa lê o Evangelho do dia, fica em silêncio, anota uma frase e pergunta a Deus que atitude precisa mudar naquela semana.",
+      "conference_question": "Como a leitura orante da Palavra evita tanto pressa quanto curiosidade vazia?",
+      "anchors": [
+        "CEC 2653",
+        "B08"
+      ],
+      "facilitator_note": "Dê uma forma simples: ler, silenciar, perguntar, responder com uma decisão.",
+      "reading_points": [
+        {
+          "title": "Escuta concreta",
+          "body": "A leitura não termina na informação; ela se abre para resposta diante de Deus."
+        },
+        {
+          "title": "Diálogo da fé",
+          "body": "A Escritura acompanhada de oração estabelece colóquio entre Deus e o homem."
+        },
+        {
+          "title": "Passo de conversão",
+          "body": "Uma frase meditada pode iluminar uma mudança real de atitude."
+        }
+      ]
+    },
+    {
+      "id": "O04",
+      "term_id": "O04",
+      "call_label": "O04 - Pedir com humildade",
+      "case": "Ao perder o emprego, um pai reza pedindo trabalho, força para procurar vagas, paciência com a família e coragem para aceitar ajuda sem orgulho.",
+      "conference_question": "O que mostra que esse pedido é humilde e não apenas cobrança por solução imediata?",
+      "anchors": [
+        "CEC 2559",
+        "Lc 18,13-14"
+      ],
+      "facilitator_note": "Mostre que pedir bens concretos é cristão quando feito com humildade e abertura.",
+      "reading_points": [
+        {
+          "title": "Necessidade real",
+          "body": "A falta de trabalho atinge sustento, dignidade e paz da família."
+        },
+        {
+          "title": "Pedido amplo",
+          "body": "A pessoa pede emprego, mas também virtudes e disposição para agir."
+        },
+        {
+          "title": "Humildade filial",
+          "body": "Pedir com humildade reconhece dependência de Deus e responsabilidade própria."
+        }
+      ]
+    },
+    {
+      "id": "O05",
+      "term_id": "O05",
+      "call_label": "O05 - Perseverar sem esmorecer",
+      "case": "Uma família continua rezando por um processo judicial lento, guarda documentos, procura orientação correta e evita ameaçar a parte contrária.",
+      "conference_question": "Como perseverar na oração ajuda a buscar justiça sem ceder ao ódio?",
+      "anchors": [
+        "Lc 18,1-8",
+        "CEC 2613"
+      ],
+      "facilitator_note": "Aponte que perseverança cristã não é passividade nem agressão.",
+      "reading_points": [
+        {
+          "title": "Espera difícil",
+          "body": "A demora do processo pressiona a família a desistir ou agir mal."
+        },
+        {
+          "title": "Oração perseverante",
+          "body": "Jesus ensina a rezar sempre sem esmorecer."
+        },
+        {
+          "title": "Ação reta",
+          "body": "A fé sustenta medidas justas sem transformar a dor em violência."
+        }
+      ]
+    },
+    {
+      "id": "O06",
+      "term_id": "O06",
+      "call_label": "O06 - Examinar a consciência",
+      "case": "Antes de dormir, uma mulher revê o dia diante de Deus, reconhece que foi injusta com a mãe idosa e decide pedir desculpas no dia seguinte.",
+      "conference_question": "Como o exame de consciência transforma oração em verdade e próximo passo concreto?",
+      "anchors": [
+        "Lc 18,13-14",
+        "B14"
+      ],
+      "facilitator_note": "Mostre que exame não é obsessão; é rever a vida diante de Deus com verdade.",
+      "reading_points": [
+        {
+          "title": "Revisão diante de Deus",
+          "body": "A pessoa olha para atos concretos, não apenas para sentimentos vagos."
+        },
+        {
+          "title": "Reconhecimento do pecado",
+          "body": "A oração permite nomear a injustiça sem desculpa."
+        },
+        {
+          "title": "Passo reparador",
+          "body": "O exame amadurece quando leva a pedido de perdão e mudança real."
+        }
+      ]
+    },
+    {
+      "id": "O07",
+      "term_id": "O07",
+      "call_label": "O07 - Confessar e recomeçar",
+      "case": "Depois de anos evitando o sacramento por vergonha, um homem procura um sacerdote, confessa um pecado grave e combina medidas para não voltar à mesma situação.",
+      "conference_question": "Por que confessar e recomeçar exige mais do que aliviar a culpa?",
+      "anchors": [
+        "Lc 18,13-14",
+        "B02"
+      ],
+      "facilitator_note": "Fale com clareza sobre confissão sacramental, arrependimento e propósito de mudança.",
+      "reading_points": [
+        {
+          "title": "Vergonha vencida",
+          "body": "A pessoa deixa de esconder o pecado e busca misericórdia."
+        },
+        {
+          "title": "Confissão verdadeira",
+          "body": "O arrependimento reconhece a culpa diante de Deus e recebe perdão."
+        },
+        {
+          "title": "Recomeço concreto",
+          "body": "A graça pede medidas proporcionais para evitar a repetição do mal."
+        }
+      ]
+    },
+    {
+      "id": "O08",
+      "term_id": "O08",
+      "call_label": "O08 - Santificar o domingo",
+      "case": "Um casal reorganiza compras e visitas para participar da Missa dominical e reservar parte do dia ao descanso, à família e a uma visita a um parente doente.",
+      "conference_question": "Como santificar o domingo ordena oração, descanso e caridade sem virar formalismo?",
+      "anchors": [
+        "CEC 2698",
+        "B13"
+      ],
+      "facilitator_note": "Mostre a centralidade da Eucaristia e a forma concreta que o domingo pode tomar.",
+      "reading_points": [
+        {
+          "title": "Agenda reordenada",
+          "body": "O domingo deixa de ser sobra e ganha centro espiritual."
+        },
+        {
+          "title": "Eucaristia e oração",
+          "body": "A Igreja santifica o domingo principalmente pela oração e pela Eucaristia."
+        },
+        {
+          "title": "Caridade concreta",
+          "body": "O descanso cristão pode abrir tempo para família, visita e serviço."
+        }
+      ]
+    },
+    {
+      "id": "O09",
+      "term_id": "O09",
+      "call_label": "O09 - Unir oração e obra",
+      "case": "Depois de rezar por moradores de rua, uma família decide separar roupas em bom estado, procurar uma instituição séria e tratar cada pessoa atendida pelo nome.",
+      "conference_question": "Como unir oração e obra evita tanto ativismo vazio quanto piedade sem caridade?",
+      "anchors": [
+        "CEC 2745",
+        "Jo 15,16-17"
+      ],
+      "facilitator_note": "Mostre uma resposta proporcional, não um projeto grandioso irreal.",
+      "reading_points": [
+        {
+          "title": "Oração que move",
+          "body": "A prece pelos necessitados desperta uma ação concreta e responsável."
+        },
+        {
+          "title": "Obra ordenada",
+          "body": "A ajuda é feita com critério, respeito e mediação segura."
+        },
+        {
+          "title": "Mesmo amor",
+          "body": "Oração e obras se unem quando procedem da caridade de Cristo."
+        }
+      ]
+    },
+    {
+      "id": "O10",
+      "term_id": "O10",
+      "call_label": "O10 - Cortar distrações",
+      "case": "Percebendo que perde a oração noturna nas redes sociais, uma pessoa define horário para desligar o celular e deixa a Bíblia sobre a mesa.",
+      "conference_question": "Por que cortar distrações concretas é parte da decisão de rezar?",
+      "anchors": [
+        "CEC 2697",
+        "CEC 2699"
+      ],
+      "facilitator_note": "Evite demonizar tecnologia; foque no governo concreto dos obstáculos.",
+      "reading_points": [
+        {
+          "title": "Obstáculo identificado",
+          "body": "A pessoa reconhece que o uso sem limite rouba o tempo de oração."
+        },
+        {
+          "title": "Renúncia prática",
+          "body": "Desligar o celular cria espaço real para recolhimento."
+        },
+        {
+          "title": "Coração guardado",
+          "body": "A oração precisa de vigilância para permanecer na presença de Deus."
+        }
+      ]
+    },
+    {
+      "id": "O11",
+      "term_id": "O11",
+      "call_label": "O11 - Pedir ajuda espiritual",
+      "case": "Uma pessoa começa a ter medo constante de rezar errado e procura orientação espiritual em vez de ficar presa a pesquisas confusas na internet.",
+      "conference_question": "Quando pedir ajuda espiritual é sinal de humildade e não de fraqueza?",
+      "anchors": [
+        "CEC 2601",
+        "B06"
+      ],
+      "facilitator_note": "Indique a importância de orientação segura quando há confusão, escrúpulo ou sofrimento.",
+      "reading_points": [
+        {
+          "title": "Confusão espiritual",
+          "body": "A pessoa se perde em medo e informações soltas."
+        },
+        {
+          "title": "Aprender a rezar",
+          "body": "Os discípulos pediram a Jesus que os ensinasse a orar."
+        },
+        {
+          "title": "Ajuda prudente",
+          "body": "Procurar orientação segura protege a fé e ajuda a ordenar a consciência."
+        }
+      ]
+    },
+    {
+      "id": "O12",
+      "term_id": "O12",
+      "call_label": "O12 - Rezar em família",
+      "case": "Após uma briga forte, um pai pede perdão aos filhos e propõe uma oração breve antes da refeição, sem fingir que o conflito desapareceu.",
+      "conference_question": "Como rezar em família pode sustentar reconciliação sem encobrir responsabilidades?",
+      "anchors": [
+        "CEC 2698",
+        "B13"
+      ],
+      "facilitator_note": "Mostre que oração familiar não é teatro de harmonia; pode ser lugar de verdade humilde.",
+      "reading_points": [
+        {
+          "title": "Conflito nomeado",
+          "body": "A oração não apaga a briga nem dispensa pedido de perdão."
+        },
+        {
+          "title": "Gesto comum",
+          "body": "A bênção da refeição cria um pequeno ritmo de Deus dentro da casa."
+        },
+        {
+          "title": "Reconciliação possível",
+          "body": "A família aprende a colocar conflitos e perdão diante do Pai."
+        }
+      ]
+    },
+    {
+      "id": "O13",
+      "term_id": "O13",
+      "call_label": "O13 - Guardar silêncio real",
+      "case": "No fim do dia, uma pessoa deixa o celular em outro cômodo, senta por cinco minutos e apresenta a Deus aquilo que vinha evitando pensar.",
+      "conference_question": "Por que guardar silêncio real exige uma decisão concreta contra a fuga interior?",
+      "anchors": [
+        "CEC 2699",
+        "B11"
+      ],
+      "facilitator_note": "Mostre que silêncio cristão não é ausência vazia, mas presença diante de Deus.",
+      "reading_points": [
+        {
+          "title": "Espaço protegido",
+          "body": "A pessoa cria condições materiais para não fugir imediatamente."
+        },
+        {
+          "title": "Verdade diante de Deus",
+          "body": "O silêncio permite encarar aquilo que o barulho escondia."
+        },
+        {
+          "title": "Presença orante",
+          "body": "Guardar silêncio é permanecer diante do Deus vivo com coração recolhido."
+        }
+      ]
+    },
+    {
+      "id": "O14",
+      "term_id": "O14",
+      "call_label": "O14 - Agradecer concretamente",
+      "case": "Depois de recuperar a saúde, uma mulher escreve uma oração de agradecimento, visita quem a ajudou e decide servir mensalmente em uma obra de misericórdia.",
+      "conference_question": "Como a gratidão deixa de ser sentimento passageiro e se torna resposta cristã?",
+      "anchors": [
+        "CEC 2558",
+        "B14"
+      ],
+      "facilitator_note": "Mostre que agradecer a Deus inclui memória, palavra e gesto proporcional.",
+      "reading_points": [
+        {
+          "title": "Dom reconhecido",
+          "body": "A recuperação é recebida como bem que pede memória agradecida."
+        },
+        {
+          "title": "Agradecimento nomeado",
+          "body": "A pessoa fala com Deus e reconhece também os instrumentos humanos do cuidado."
+        },
+        {
+          "title": "Serviço como resposta",
+          "body": "A gratidão amadurece quando se torna caridade concreta."
+        }
+      ]
+    },
+    {
+      "id": "O15",
+      "term_id": "O15",
+      "call_label": "O15 - Rezar pelo inimigo",
+      "case": "Um funcionário injustamente acusado decide rezar por quem o difamou, busca defender sua honra pelos meios corretos e pede a Deus para não alimentar vingança.",
+      "conference_question": "Como rezar pelo inimigo une justiça, verdade e liberdade interior?",
+      "anchors": [
+        "Jo 15,16-17",
+        "CEC 2745"
+      ],
+      "facilitator_note": "Não confunda perdão com deixar a injustiça sem resposta; destaque justiça sem vingança.",
+      "reading_points": [
+        {
+          "title": "Ferida real",
+          "body": "A difamação causa dano concreto e precisa ser enfrentada com verdade."
+        },
+        {
+          "title": "Oração difícil",
+          "body": "Rezar por quem feriu impede que o ódio governe o coração."
+        },
+        {
+          "title": "Justiça sem vingança",
+          "body": "A resposta cristã busca reparação justa e conversão, não destruição do outro."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "title": "Carta de explicações rápidas — Bingo Vocação",
+  "meeting": "Encontro 27 — Vocação",
+  "source_calls": "data/chamadas.json",
+  "purpose": "Explicações breves para o condutor usar durante a chamada de cada carta.",
+  "entries": [
+    {
+      "id": "B01",
+      "explanation": "A vida humana não começa como produto útil nem como problema a administrar. O primeiro chamado é o **chamado à existência**: Deus quer a pessoa antes de qualquer desempenho. A resposta cristã é acolher a vida com reverência e responsabilidade."
+    },
+    {
+      "id": "B02",
+      "explanation": "A pessoa não vale apenas pelo cargo, pelo sucesso ou pela aprovação que recebe. Em Cristo, ela é chamada a ser filha e a caminhar para a santidade. A **eleição em Cristo** dá fundamento para recomeçar sem negar as responsabilidades concretas."
+    },
+    {
+      "id": "B03",
+      "explanation": "Santidade não é setor reservado a padres, freiras ou pessoas extraordinárias. Todo batizado é chamado a viver diante de Deus com verdade e caridade. A **santidade universal** alcança trabalho, família, afetos, dinheiro e decisões."
+    },
+    {
+      "id": "B04",
+      "explanation": "A aparência religiosa pode esconder relações feridas e falta de conversão. A perfeição cristã se mede pelo crescimento no amor concreto, não pela imagem pública. A **perfeição do amor** exige reparar o mal e ordenar a vida ao bem."
+    },
+    {
+      "id": "B05",
+      "explanation": "Vocação não é produto escolhido por conveniência. Ela é **dom** recebido de Deus e respondido com liberdade responsável. Discernir é perguntar o que Deus chama a viver, não apenas o que dá mais controle."
+    },
+    {
+      "id": "B06",
+      "explanation": "Nem todo impulso com linguagem religiosa é discernimento. **Discernir** exige oração, tempo, verdade, conselho e atenção aos frutos. A vocação é buscada diante de Deus, não inventada para justificar desejos imediatos."
+    },
+    {
+      "id": "B07",
+      "explanation": "Toda vocação verdadeira tem forma de **missão**. Deus não chama apenas para realização individual, mas para amar, servir e santificar a vida dos outros. O critério cristão pergunta a quem essa escolha serve e que bem ela produz."
+    },
+    {
+      "id": "B08",
+      "explanation": "O matrimônio não é só festa, atração ou convivência agradável. É **aliança** de vida toda, orientada ao bem dos esposos e à fecundidade. Por isso exige preparação, liberdade, fidelidade e fé madura."
+    },
+    {
+      "id": "B09",
+      "explanation": "A indissolubilidade afirma que o matrimônio não é descartável quando fica difícil. Ela protege a verdade da promessa e a dignidade da aliança. Ao mesmo tempo, não pode ser usada para encobrir violência ou impedir proteção."
+    },
+    {
+      "id": "B10",
+      "explanation": "A fecundidade não permite tratar filhos como inimigos da liberdade. O amor conjugal é chamado à **abertura à vida** e à educação responsável. Isso exige generosidade, prudência e consciência diante de Deus."
+    },
+    {
+      "id": "B11",
+      "explanation": "A graça matrimonial não apaga automaticamente feridas nem substitui conversão. Cristo sustenta os esposos para perdoar, reparar, carregar o fardo e recomeçar com verdade. A **graça** pede cooperação concreta."
+    },
+    {
+      "id": "B12",
+      "explanation": "A família cristã não transmite a fé apenas por cobrança. Ela ensina pela palavra, pelo exemplo, pela oração e pelo modo de viver. A **Igreja doméstica** favorece a vocação quando torna Deus presente na vida cotidiana."
+    },
+    {
+      "id": "B13",
+      "explanation": "A Ordem não é uma função criada por necessidade administrativa. É sacramento pelo qual continua a missão apostólica confiada por Cristo à Igreja. O **ministério ordenado** serve ao povo de Deus e à edificação da Igreja."
+    },
+    {
+      "id": "B14",
+      "explanation": "A autoridade ordenada nunca deve virar privilégio intocável. Ela é medida por Cristo, Cabeça, Pastor e Servo. O **serviço ministerial** existe para conduzir a Cristo, cuidar do povo e não proteger vaidades."
+    },
+    {
+      "id": "B15",
+      "explanation": "A virgindade pelo Reino não é vida sem amor. É **entrega** a Deus com coração indiviso e sinal da vida futura. Ela não despreza o matrimônio; mostra que Deus é o bem definitivo."
+    },
+    {
+      "id": "I01",
+      "explanation": "O medo de escolher pode parecer prudência, mas às vezes vira fuga. Quem tenta manter todas as portas abertas pode acabar sem responder a nenhuma. O discernimento pede passos proporcionais, não controle total do futuro."
+    },
+    {
+      "id": "I02",
+      "explanation": "Uma experiência espiritual forte pode ser verdadeira e ainda assim precisar de maturação. A **pressa** pode confundir emoção com certeza. A resposta séria passa por tempo, conselho, frutos e obediência prudente."
+    },
+    {
+      "id": "I03",
+      "explanation": "Trabalho e carreira são bens importantes, mas não são absolutos. Quando dinheiro ou prestígio governam tudo, a vocação fica distorcida. A vida cristã ordena a profissão à **missão**, à família, à fé e ao bem comum."
+    },
+    {
+      "id": "I04",
+      "explanation": "Namoro sem horizonte evita perguntas que precisam ser feitas. Fidelidade, fé, castidade, filhos e futuro não são detalhes secundários. O amor verdadeiro precisa de **verdade**, não de silêncio conveniente."
+    },
+    {
+      "id": "I05",
+      "explanation": "Preparar uma festa não é o mesmo que preparar o matrimônio. O sim precisa ser livre, responsável e apoiado em bases humanas e cristãs. O **noivado** deve enfrentar temas concretos antes das núpcias."
+    },
+    {
+      "id": "I06",
+      "explanation": "Um casamento ferido não deve ser tratado com romantismo nem desespero. Pecados, agressões e crises precisam ser nomeados com verdade. A resposta pode exigir conversão, ajuda, limites e proteção quando houver risco."
+    },
+    {
+      "id": "I07",
+      "explanation": "A fé transmitida em família não depende só de discursos. Gestos simples, oração e cuidado concreto educam profundamente. A **família que transmite fé** ajuda cada pessoa a perceber que Deus chama a vida inteira."
+    },
+    {
+      "id": "I08",
+      "explanation": "Pessoas solteiras, viúvas ou sem parentes próximos não são sobras da comunidade. Elas também pertencem à família da Igreja e têm vocação à santidade. A caridade precisa criar vínculos reais, não apenas lembranças ocasionais."
+    },
+    {
+      "id": "I09",
+      "explanation": "Desejo de sacerdócio deve ser tratado com respeito e humildade. Ele pode ser sinal, mas não confirma sozinho o chamado. A **Igreja** discerne, forma e convoca quem deve receber a Ordem."
+    },
+    {
+      "id": "I10",
+      "explanation": "O serviço escondido revela a intenção do coração. Quem serve apenas quando aparece pode estar buscando palco, não missão. A vocação cristã amadurece quando aceita tarefas necessárias sem exigir aplauso."
+    },
+    {
+      "id": "I11",
+      "explanation": "Atração pela vida consagrada não deve ser ridicularizada nem romantizada. Pobreza, castidade e obediência só fazem sentido como entrega pelo Reino. Esse sinal precisa de acompanhamento, realismo e liberdade."
+    },
+    {
+      "id": "I12",
+      "explanation": "A família pode aconselhar, mas não possuir a vocação de alguém. Pressão por status, dinheiro ou projeto familiar pode sufocar a escuta de Deus. A resposta pede respeito, firmeza e discernimento acompanhado."
+    },
+    {
+      "id": "I13",
+      "explanation": "Usar linguagem religiosa para controlar consciências é grave. A autoridade espiritual legítima serve à verdade e à liberdade diante de Deus. O **abuso espiritual** precisa ser reconhecido, interrompido e encaminhado com seriedade."
+    },
+    {
+      "id": "I14",
+      "explanation": "Pecado grave não deve ser suavizado. Mas também não deve virar sentença definitiva sobre a pessoa. A queda pede **conversão**, confissão, reparação e esperança responsável."
+    },
+    {
+      "id": "I15",
+      "explanation": "Um estado de vida bom pode ser buscado por motivo errado. Casamento, seminário ou consagração não podem servir como fuga de trabalho, conflito ou amadurecimento. O discernimento precisa examinar a **intenção**."
+    },
+    {
+      "id": "N01",
+      "explanation": "Autonomia sem Deus parece liberdade, mas fecha a pessoa dentro de si mesma. A vida é dom recebido, não posse absoluta. A liberdade cristã responde ao bem que Deus mostra, em vez de negar qualquer prestação de contas."
+    },
+    {
+      "id": "N02",
+      "explanation": "Dizer que santidade é para poucos alivia a consciência, mas falsifica o Evangelho. Deus chama todo o seu povo a ser santo. Essa verdade impede separar fé de trabalho, afetos, família e decisões morais."
+    },
+    {
+      "id": "N03",
+      "explanation": "Vocação como carreira troca missão por status. O problema não é considerar condições concretas, mas fazer prestígio e segurança ocuparem o centro. A vocação verdadeira se mede por **serviço**, amor e fidelidade a Deus."
+    },
+    {
+      "id": "N04",
+      "explanation": "Sentimentos são importantes, mas não são senhores da vocação. Quando a emoção manda sozinha, compromissos ficam frágeis e instáveis. O amor cristão ordena afetos pela verdade, pela fidelidade e pela caridade."
+    },
+    {
+      "id": "N05",
+      "explanation": "Pressa pode parecer generosidade, mas também pode esconder fuga do discernimento. Uma certeza sem prova, conselho e frutos pode ser apenas intensidade passageira. A prudência cristã dá tempo para o chamado amadurecer."
+    },
+    {
+      "id": "N06",
+      "explanation": "A lógica descartável trata a promessa como contrato de conveniência. O matrimônio cristão exige fidelidade e trabalho de conversão. Isso não elimina a necessidade de proteção quando há violência, mas impede banalizar o vínculo."
+    },
+    {
+      "id": "N07",
+      "explanation": "Ver filhos apenas como obstáculo revela fechamento à fecundidade do amor. A vida não é inimiga da liberdade; ela chama a uma liberdade mais generosa. A responsabilidade cristã discerne sem egoísmo e sem imprudência."
+    },
+    {
+      "id": "N08",
+      "explanation": "Celibato pelo Reino não é inutilidade nem vida sem amor. Ele testemunha que Deus basta e que a vida futura é real. Sua fecundidade aparece no serviço, na oração e na entrega indivisa."
+    },
+    {
+      "id": "N09",
+      "explanation": "Sacerdócio buscado como status já nasce deformado. O ministro ordenado é chamado a servir, ensinar, santificar e conduzir segundo Cristo. Prestígio, controle e vaidade são sinais que precisam ser purificados."
+    },
+    {
+      "id": "N10",
+      "explanation": "Ninguém tem direito de exigir a ordenação. A Ordem é dom imerecido e sacramento recebido pela convocação da Igreja. Desejo pessoal pode ser sincero, mas precisa ser discernido e confirmado eclesialmente."
+    },
+    {
+      "id": "N11",
+      "explanation": "Serviço só quando aparece é serviço condicionado ao ego. A missão cristã inclui tarefas discretas, cansativas e pouco reconhecidas. O coração vocacional se purifica quando aprende a servir sem transformar tudo em palco."
+    },
+    {
+      "id": "N12",
+      "explanation": "Família perfeita não existe como condição para começar a viver a fé. Feridas reais precisam de verdade e cura, mas não cancelam a responsabilidade de transmitir o bem possível. A **Igreja doméstica** nasce de fidelidade concreta, não de idealização."
+    },
+    {
+      "id": "N13",
+      "explanation": "A mentira diz que Deus só chama gente sem pecado. A fé cristã nomeia o pecado e chama à conversão, não ao desespero. Quem caiu precisa confessar, reparar e voltar a escutar Deus com humildade."
+    },
+    {
+      "id": "N14",
+      "explanation": "Amor sem compromisso usa uma palavra boa para esconder recusa de entrega. Relações sem verdade, fidelidade e responsabilidade não devem ser romantizadas. O amor cristão busca o bem do outro de modo estável e verdadeiro."
+    },
+    {
+      "id": "N15",
+      "explanation": "Nem todo caminho serve só porque agrada. A vocação tem relação com verdade, santidade e missão. O discernimento cristão avalia escolhas diante de Deus, e não apenas pela felicidade imediata."
+    },
+    {
+      "id": "G01",
+      "explanation": "Desejo não é inimigo da vocação, mas também não é prova final. Ele pode revelar algo que Deus quer purificar e orientar. O discernimento observa permanência, frutos, conselho e liberdade interior."
+    },
+    {
+      "id": "G02",
+      "explanation": "Liberdade não é obedecer a todo impulso. O capricho rompe vínculos quando encontra dificuldade; a liberdade cristã escolhe o bem. Uma vocação só pode amadurecer onde existe compromisso responsável."
+    },
+    {
+      "id": "G03",
+      "explanation": "Projetos pessoais são importantes, mas não podem substituir o chamado de Deus. O plano fechado transforma Deus em confirmador dos nossos desejos. A vocação como **dom** mantém o coração disponível à correção."
+    },
+    {
+      "id": "G04",
+      "explanation": "Nenhum estado de vida torna a pessoa automaticamente santa. Matrimônio, sacerdócio, consagração e vida laical exigem fidelidade concreta. A santidade está na resposta à graça dentro do caminho recebido."
+    },
+    {
+      "id": "G05",
+      "explanation": "Paixão pode acompanhar o amor, mas não sustenta sozinha uma aliança. O matrimônio exige decisão, fidelidade, perdão e graça. Essa distinção protege o amor de ser governado apenas por oscilações afetivas."
+    },
+    {
+      "id": "G06",
+      "explanation": "Fidelidade matrimonial não significa suportar violência em silêncio. A doutrina nunca deve ser usada para prender uma vítima no perigo. Proteger a vida, buscar ajuda e colocar limites também são deveres morais."
+    },
+    {
+      "id": "G07",
+      "explanation": "Fecundidade não é produtividade nem medida de utilidade. Um casal não vale menos por sofrer infertilidade ou limitações reais. A fecundidade cristã une abertura à vida, cuidado, educação e bem concreto."
+    },
+    {
+      "id": "G08",
+      "explanation": "Celibato pelo Reino e solidão ferida não são a mesma coisa. O celibato vocacional é entrega; abandono e invisibilidade precisam de cuidado. A Igreja deve reconhecer a vocação e também oferecer comunhão real."
+    },
+    {
+      "id": "G09",
+      "explanation": "Acolher não é aprovar tudo, e corrigir não é humilhar. A pessoa deve ser tratada com dignidade mesmo quando há pecado a converter. A resposta cristã une **verdade** e **caridade**."
+    },
+    {
+      "id": "G10",
+      "explanation": "Autoridade espiritual legítima ilumina, não sequestra a consciência. Quando há manipulação, medo e isolamento, a autoridade foi deformada em abuso. A pessoa tem direito a proteção, conselho seguro e verdade."
+    },
+    {
+      "id": "G11",
+      "explanation": "Serviço e protagonismo podem parecer parecidos por fora. A diferença aparece quando é preciso partilhar, obedecer, perder destaque ou fazer o que ninguém vê. A missão pertence a Deus, não ao ego de quem serve."
+    },
+    {
+      "id": "G12",
+      "explanation": "Conselho bom ajuda a consciência a ver melhor. Pressão usa medo, culpa ou afeto condicionado para controlar decisões. No discernimento vocacional, ouvir os outros é necessário, mas a consciência não pode ser substituída."
+    },
+    {
+      "id": "G13",
+      "explanation": "Discernir sinais não é exigir certeza total do futuro. Deus costuma conduzir por frutos, paz, conselhos, perseverança e realidade concreta. A fé dá passos prudentes sem transformar prudência em paralisia."
+    },
+    {
+      "id": "G14",
+      "explanation": "A queda precisa ser assumida com verdade, não escondida. Mas a pessoa não é idêntica ao pior pecado que cometeu. A graça chama à conversão, reparação e recomeço humilde."
+    },
+    {
+      "id": "G15",
+      "explanation": "Esperar o tempo de Deus não é ficar parado. Passividade sem oração, formação e serviço não é discernimento. A espera cristã coopera com Deus por passos concretos e proporcionais."
+    },
+    {
+      "id": "O01",
+      "explanation": "Rezar pela vocação precisa ter forma concreta. Tempo, silêncio e pergunta sincera diante de Deus educam a liberdade. A oração não substitui decisões, mas prepara a pessoa para decidir melhor."
+    },
+    {
+      "id": "O02",
+      "explanation": "Desejos escondidos costumam governar a pessoa sem serem examinados. Nomeá-los ajuda a distinguir atração, medo, vaidade, fuga e chamado. Essa verdade interior deve ser levada à oração e ao conselho."
+    },
+    {
+      "id": "O03",
+      "explanation": "Direção espiritual séria não é dependência nem busca de aprovação fácil. Ela ajuda a pessoa a discernir com fatos, oração e fidelidade à Igreja. O acompanhamento deve respeitar a liberdade da consciência diante de Deus."
+    },
+    {
+      "id": "O04",
+      "explanation": "Escutar a Igreja é parte essencial quando a vocação envolve sacramento e ministério. Ninguém se envia sozinho em nome da Igreja. A obediência eclesial protege o chamado, a pessoa e o povo de Deus."
+    },
+    {
+      "id": "O05",
+      "explanation": "Castidade não é desprezo do corpo. É ordenar corpo, afetos e desejo ao amor verdadeiro. Por isso precisa de limites concretos, fuga de ocasiões de pecado, confissão e perseverança."
+    },
+    {
+      "id": "O06",
+      "explanation": "Preparar o noivado é tratar da vida real antes do sim definitivo. Fé, filhos, dinheiro, temperamento e feridas familiares não podem ser ignorados. Essa preparação torna o consentimento mais livre e responsável."
+    },
+    {
+      "id": "O07",
+      "explanation": "Servir no escondido combate a vaidade que pode contaminar a vocação. Tarefas discretas também edificam a Igreja e cuidam de pessoas reais. O serviço cristão aprende de Cristo, que não buscou aplauso."
+    },
+    {
+      "id": "O08",
+      "explanation": "Honrar a família não significa permitir manipulação, pecado ou violência. É possível cuidar, agradecer e ajudar sem entregar a consciência ao controle alheio. A caridade também sabe colocar **limites**."
+    },
+    {
+      "id": "O09",
+      "explanation": "Sem silêncio, a pessoa escuta mais o ruído do que a consciência. Proteger tempo sem tela, pressa e distração é ato concreto de discernimento. O silêncio abre espaço para oração, exame e escuta de Deus."
+    },
+    {
+      "id": "O10",
+      "explanation": "Idealizar uma vocação é perigoso porque esconde cruzes e responsabilidades. Conhecer a realidade não diminui a beleza do chamado. O realismo torna a resposta mais livre, humilde e perseverante."
+    },
+    {
+      "id": "O11",
+      "explanation": "Pedir perdão não é encerrar rapidamente o assunto. Quando há dano, é preciso reconhecer, confessar, reparar o possível e mudar práticas concretas. O recomeço cristão une misericórdia e responsabilidade."
+    },
+    {
+      "id": "O12",
+      "explanation": "Apoiar vocações sagradas exige oração, ajuda concreta e respeito. Não se deve idolatrar o vocacionado nem explorá-lo como prestador de serviços. O apoio verdadeiro ama a missão da Igreja e busca o bem da pessoa."
+    },
+    {
+      "id": "O13",
+      "explanation": "Discernir com fatos impede que fantasia governe a decisão. Frutos, perseverança, maturidade, limites e conselhos são dados importantes. A fé não dispensa prudência; ela a purifica e orienta."
+    },
+    {
+      "id": "O14",
+      "explanation": "Renúncia cristã não é perda vazia. É escolher o bem maior e cortar aquilo que escraviza ou desvia de Deus. A vocação amadurece quando a liberdade aceita limites concretos."
+    },
+    {
+      "id": "O15",
+      "explanation": "Integrar solteiros, viúvos e pessoas sem família próxima é responsabilidade concreta da Igreja. Não basta ter pena ou lembrar apenas em emergências. A comunidade cristã deve abrir casa, amizade, serviço e pertença real."
+    }
+  ]
+}

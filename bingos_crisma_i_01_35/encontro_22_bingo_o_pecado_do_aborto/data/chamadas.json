@@ -1,0 +1,2041 @@
+{
+  "title": "Chamadas — Bingo O pecado do aborto",
+  "meeting": "Encontro 22 — O pecado do aborto",
+  "source_terms": "data/termos.json",
+  "method": {
+    "read_order": [
+      "call_label",
+      "case",
+      "reading_points"
+    ],
+    "rule": "A cada carta, anuncie código e conceito, leia o caso e explique brevemente a relação usando a Leitura do caso. Depois as equipes marcam o código, se estiver na cartela.",
+    "conference_rule": "Ao fechar duas linhas válidas, horizontais, verticais ou diagonais, a equipe escolhe uma dessas linhas completas, explica pelo menos três conceitos da linha escolhida e liga pelo menos um deles à base bíblica ou doutrinal do encontro. As duas linhas podem se cruzar. O centro livre já conta como casa marcada para completar linhas, mas não conta como um dos três conceitos explicados."
+  },
+  "cards": [
+    {
+      "id": "B01",
+      "term_id": "B01",
+      "call_label": "B01 - Dignidade desde a concepção",
+      "case": "Um exame confirma uma gestação de poucas semanas, e alguns familiares dizem que ainda não há ninguém a proteger porque a criança não nasceu.",
+      "conference_question": "Que critério cristão impede medir a dignidade humana pela idade, aparência ou nascimento?",
+      "anchors": [
+        "CEC 2270",
+        "Jr 1,5",
+        "Sl 138(139),13-16"
+      ],
+      "facilitator_note": "Conduza para o princípio: desde a concepção já existe vida humana que deve ser protegida.",
+      "reading_points": [
+        {
+          "title": "Início escondido",
+          "body": "A cena mostra uma vida ainda invisível para muitos, mas já real e dependente de proteção."
+        },
+        {
+          "title": "Valor não adiado",
+          "body": "A dignidade não começa quando alguém reconhece, deseja ou vê a criança."
+        },
+        {
+          "title": "Fundamento cristão",
+          "body": "CEC 2270, Jeremias e o Salmo afirmam o cuidado de Deus desde o ventre."
+        }
+      ]
+    },
+    {
+      "id": "B02",
+      "term_id": "B02",
+      "call_label": "B02 - Imagem de Deus",
+      "case": "Em uma conversa familiar, a criança no ventre é tratada apenas como obstáculo para planos de trabalho, casamento e moradia.",
+      "conference_question": "O que muda quando a criança é vista como imagem de Deus e não como problema a administrar?",
+      "anchors": [
+        "Gn 1,26-27",
+        "CEC 1700",
+        "B01"
+      ],
+      "facilitator_note": "Evite linguagem abstrata; mostre que imagem de Deus impede reduzir alguém à utilidade.",
+      "reading_points": [
+        {
+          "title": "Redução da pessoa",
+          "body": "A criança aparece na fala dos adultos apenas como dificuldade prática."
+        },
+        {
+          "title": "Dignidade anterior",
+          "body": "Ser imagem de Deus significa possuir valor antes de qualquer utilidade."
+        },
+        {
+          "title": "Olhar da fé",
+          "body": "A fé cristã exige tratar cada vida humana como alguém querido por Deus."
+        }
+      ]
+    },
+    {
+      "id": "B03",
+      "term_id": "B03",
+      "call_label": "B03 - Direito inviolável à vida",
+      "case": "Um gestor público defende que a proteção jurídica só deveria começar depois do parto, porque antes disso haveria apenas interesse privado.",
+      "conference_question": "Por que o direito à vida do inocente não pode depender da decisão do Estado ou de terceiros?",
+      "anchors": [
+        "CEC 2270",
+        "CEC 2272",
+        "Ex 20,13"
+      ],
+      "facilitator_note": "Mostre que direito inviolável não é concessão social, mas exigência da dignidade humana.",
+      "reading_points": [
+        {
+          "title": "Proteção negada",
+          "body": "A fala retira de uma categoria humana a proteção básica da lei."
+        },
+        {
+          "title": "Direito fundamental",
+          "body": "O direito à vida é anterior à conveniência política e à autorização de outros."
+        },
+        {
+          "title": "Mandamento moral",
+          "body": "Não matar o inocente é exigência que a lei justa deve reconhecer."
+        }
+      ]
+    },
+    {
+      "id": "B04",
+      "term_id": "B04",
+      "call_label": "B04 - Nascituro como pessoa",
+      "case": "Em uma clínica de reprodução, embriões congelados são chamados de sobras do procedimento e tratados como material sem dono.",
+      "conference_question": "Como a noção de pessoa desde a concepção muda o modo de tratar embriões humanos?",
+      "anchors": [
+        "CEC 2274",
+        "CEC 2273",
+        "B03"
+      ],
+      "facilitator_note": "Conduza a distinção entre coisa disponível e vida humana confiada a cuidado.",
+      "reading_points": [
+        {
+          "title": "Linguagem de descarte",
+          "body": "Chamar embriões de sobras facilita tratá-los como coisas."
+        },
+        {
+          "title": "Pessoa em fragilidade",
+          "body": "A fragilidade não elimina a exigência de respeito e proteção."
+        },
+        {
+          "title": "Cuidado devido",
+          "body": "O Catecismo ensina que o embrião deve ser tratado como pessoa desde a concepção."
+        }
+      ]
+    },
+    {
+      "id": "B05",
+      "term_id": "B05",
+      "call_label": "B05 - Deus conhece no ventre",
+      "case": "Uma gestante em crise diz que ninguém conhece aquela criança e que talvez fosse melhor desaparecer antes que a vida começasse de verdade.",
+      "conference_question": "Como Jr 1,5 e Sl 138 ajudam a responder à ideia de que a vida escondida não conta?",
+      "anchors": [
+        "Jr 1,5",
+        "Sl 138(139),13-16",
+        "B01"
+      ],
+      "facilitator_note": "Use a Escritura com sobriedade, sem sentimentalismo, ligando conhecimento de Deus e dignidade.",
+      "reading_points": [
+        {
+          "title": "Solidão percebida",
+          "body": "A mãe fala como se a criança não tivesse rosto, história ou valor."
+        },
+        {
+          "title": "Deus vê o escondido",
+          "body": "A Palavra afirma que a vida no ventre não está fora do olhar de Deus."
+        },
+        {
+          "title": "Vocação e cuidado",
+          "body": "Ser conhecido por Deus antes do nascimento fundamenta respeito e proteção."
+        }
+      ]
+    },
+    {
+      "id": "B06",
+      "term_id": "B06",
+      "call_label": "B06 - Vida como dom recebido",
+      "case": "Um casal afirma que só aceita levar a gestação adiante se tudo sair conforme o plano de carreira, de saúde e de conforto da família.",
+      "conference_question": "Como distinguir receber uma vida como dom de tratá-la como produto condicionado ao desejo?",
+      "anchors": [
+        "Jo 10,10",
+        "CEC 2271",
+        "Dt 30,19"
+      ],
+      "facilitator_note": "Mostre que responsabilidade não é controle absoluto sobre quem pode viver.",
+      "reading_points": [
+        {
+          "title": "Condição imposta",
+          "body": "A criança é aceita apenas se couber no projeto dos adultos."
+        },
+        {
+          "title": "Dom não fabricado",
+          "body": "A vida humana não é encomenda que se devolve quando frustra expectativas."
+        },
+        {
+          "title": "Cuidado responsável",
+          "body": "A fé chama a escolher a vida e cuidar do dom recebido."
+        }
+      ]
+    },
+    {
+      "id": "B07",
+      "term_id": "B07",
+      "call_label": "B07 - Não matar o inocente",
+      "case": "Em uma discussão, alguém diz que o mandamento de não matar vale para pessoas já nascidas, mas não para a criança no ventre.",
+      "conference_question": "Por que o mandamento protege especialmente quem é inocente e indefeso?",
+      "anchors": [
+        "Ex 20,13",
+        "Didaqué 2,2",
+        "CEC 2271"
+      ],
+      "facilitator_note": "Recorde a continuidade do ensinamento da Igreja desde os primeiros séculos.",
+      "reading_points": [
+        {
+          "title": "Restrição indevida",
+          "body": "A fala tenta limitar o mandamento conforme a fase de desenvolvimento."
+        },
+        {
+          "title": "Inocência vulnerável",
+          "body": "Quem não pode se defender precisa de proteção ainda mais clara."
+        },
+        {
+          "title": "Tradição constante",
+          "body": "A Didaqué e o Catecismo condenam diretamente matar a criança por aborto."
+        }
+      ]
+    },
+    {
+      "id": "B08",
+      "term_id": "B08",
+      "call_label": "B08 - Aborto direto",
+      "case": "Depois de confirmar a gravidez, uma mulher recebe comprimidos com a finalidade explícita de interromper a gestação e eliminar o filho.",
+      "conference_question": "Que elementos mostram que aqui a morte do nascituro foi escolhida como fim ou meio?",
+      "anchors": [
+        "CEC 2271",
+        "CEC 1753",
+        "G05"
+      ],
+      "facilitator_note": "Nomeie o ato com precisão, sem transformar a explicação em acusação pessoal.",
+      "reading_points": [
+        {
+          "title": "Finalidade declarada",
+          "body": "O ato é organizado para provocar a morte da criança."
+        },
+        {
+          "title": "Objeto moral",
+          "body": "Boa intenção alegada não torna lícito escolher diretamente a morte do inocente."
+        },
+        {
+          "title": "Ensino da Igreja",
+          "body": "O aborto direto é gravemente contrário à lei moral em qualquer circunstância."
+        }
+      ]
+    },
+    {
+      "id": "B09",
+      "term_id": "B09",
+      "call_label": "B09 - Cooperação formal",
+      "case": "Um homem paga o procedimento, marca o horário e diz que quer resolver logo porque não aceita ser pai naquela situação.",
+      "conference_question": "Por que essa participação não é apenas proximidade, mas cooperação formal com o aborto?",
+      "anchors": [
+        "CEC 2272",
+        "CEC 1750-1756",
+        "G10"
+      ],
+      "facilitator_note": "Diferencie presença confusa de participação consciente e voluntária no ato mau.",
+      "reading_points": [
+        {
+          "title": "Participação ativa",
+          "body": "Ele não apenas sabe do aborto, mas o financia e o organiza."
+        },
+        {
+          "title": "Vontade aderida",
+          "body": "Cooperação formal acontece quando a pessoa assume o ato mau como solução desejada."
+        },
+        {
+          "title": "Responsabilidade grave",
+          "body": "CEC 2272 trata essa cooperação como falta grave contra a vida humana."
+        }
+      ]
+    },
+    {
+      "id": "B10",
+      "term_id": "B10",
+      "call_label": "B10 - Gravidade do pecado",
+      "case": "Após um aborto, um familiar comenta que não foi nada demais e que o importante é não tocar mais no assunto.",
+      "conference_question": "Como reconhecer a gravidade do pecado sem esmagar a pessoa ferida?",
+      "anchors": [
+        "CEC 2271",
+        "CEC 2272",
+        "Didaqué 2,2"
+      ],
+      "facilitator_note": "Una gravidade e misericórdia; não permita banalização nem condenação cruel.",
+      "reading_points": [
+        {
+          "title": "Banalização",
+          "body": "A fala tenta apagar a gravidade moral do que aconteceu."
+        },
+        {
+          "title": "Ferida real",
+          "body": "O aborto fere o inocente morto, os envolvidos e a sociedade."
+        },
+        {
+          "title": "Verdade para curar",
+          "body": "Só há conversão e cura quando o mal é nomeado com verdade."
+        }
+      ]
+    },
+    {
+      "id": "B11",
+      "term_id": "B11",
+      "call_label": "B11 - Misericórdia e conversão",
+      "case": "Uma mulher evita entrar na igreja há anos porque participou de um aborto e acredita que Deus só a olha com condenação.",
+      "conference_question": "Como anunciar misericórdia sem negar a gravidade do pecado cometido?",
+      "anchors": [
+        "Lc 15,11-32",
+        "CEC 1846-1848",
+        "CEC 1451-1460"
+      ],
+      "facilitator_note": "Aponte para Confissão, verdade e esperança, não para desespero ou autoabsolvição.",
+      "reading_points": [
+        {
+          "title": "Vergonha paralisante",
+          "body": "A culpa a afasta de Deus em vez de levá-la à conversão."
+        },
+        {
+          "title": "Misericórdia verdadeira",
+          "body": "Deus perdoa o pecado reconhecido, não precisa fingir que ele foi bom."
+        },
+        {
+          "title": "Caminho sacramental",
+          "body": "A Confissão oferece perdão real e início de cura."
+        }
+      ]
+    },
+    {
+      "id": "B12",
+      "term_id": "B12",
+      "call_label": "B12 - Lei civil justa",
+      "case": "Uma proposta legislativa retira toda proteção da criança antes do nascimento e afirma que a lei não deve se ocupar dela.",
+      "conference_question": "Que dever a autoridade civil tem quando uma vida frágil não consegue se defender?",
+      "anchors": [
+        "CEC 2273",
+        "Pr 31,8-9",
+        "B03"
+      ],
+      "facilitator_note": "Mantenha o foco na proteção do inocente e na justiça, sem debate partidário.",
+      "reading_points": [
+        {
+          "title": "Categoria excluída",
+          "body": "A lei deixaria um grupo humano sem proteção básica."
+        },
+        {
+          "title": "Estado de direito",
+          "body": "Quando os fracos ficam sem defesa, a igualdade perante a lei é ferida."
+        },
+        {
+          "title": "Voz pelos indefesos",
+          "body": "A vida pública deve proteger quem não pode falar por si."
+        }
+      ]
+    },
+    {
+      "id": "B13",
+      "term_id": "B13",
+      "call_label": "B13 - Cuidado do mais fraco",
+      "case": "Uma gestante sem renda procura ajuda, mas todos discutem o problema sem oferecer transporte, alimento, consulta ou abrigo.",
+      "conference_question": "Como a caridade cristã evita que a defesa da vida vire apenas discurso?",
+      "anchors": [
+        "Mt 25,40",
+        "Lc 10,25-37",
+        "CEC 2273"
+      ],
+      "facilitator_note": "Mostre que proteger o nascituro inclui amparar concretamente a mãe.",
+      "reading_points": [
+        {
+          "title": "Fragilidade dupla",
+          "body": "Mãe e filho estão vulneráveis e precisam de cuidado real."
+        },
+        {
+          "title": "Discurso insuficiente",
+          "body": "Falar corretamente sobre a vida não substitui ajuda proporcionada."
+        },
+        {
+          "title": "Caridade concreta",
+          "body": "Cristo se identifica com o pequeno e chama a agir como próximo."
+        }
+      ]
+    },
+    {
+      "id": "B14",
+      "term_id": "B14",
+      "call_label": "B14 - Unidade da pessoa",
+      "case": "Uma empresa oferece seleção de embriões por características desejadas, tratando o corpo humano como material de ajuste técnico.",
+      "conference_question": "Por que o corpo humano não pode ser tratado como peça disponível para seleção e descarte?",
+      "anchors": [
+        "CEC 2275",
+        "1Cor 6,19-20",
+        "B04"
+      ],
+      "facilitator_note": "Explique que dignidade inclui corpo, identidade e história pessoal.",
+      "reading_points": [
+        {
+          "title": "Controle do corpo",
+          "body": "A técnica passa a escolher quem merece continuar existindo."
+        },
+        {
+          "title": "Pessoa inteira",
+          "body": "O corpo não é material separado da dignidade da pessoa."
+        },
+        {
+          "title": "Limite moral",
+          "body": "A Igreja rejeita manipulações que selecionam seres humanos por qualidades desejadas."
+        }
+      ]
+    },
+    {
+      "id": "B15",
+      "term_id": "B15",
+      "call_label": "B15 - Esperança de perdão",
+      "case": "Anos depois de ter levado a namorada a abortar, um homem procura orientação e pergunta se ainda existe caminho de perdão.",
+      "conference_question": "Que diferença há entre esperança cristã e tentativa de apagar a responsabilidade?",
+      "anchors": [
+        "CEC 1451-1460",
+        "2Cor 5,18-20",
+        "B11"
+      ],
+      "facilitator_note": "Mostre que a esperança passa por arrependimento, Confissão e reparação possível.",
+      "reading_points": [
+        {
+          "title": "Culpa reconhecida",
+          "body": "Ele não está negando a participação, mas buscando caminho diante dela."
+        },
+        {
+          "title": "Perdão responsável",
+          "body": "A misericórdia não apaga a verdade, mas abre conversão e reparação possível."
+        },
+        {
+          "title": "Reconciliação",
+          "body": "A Confissão é lugar concreto para receber perdão e recomeçar."
+        }
+      ]
+    },
+    {
+      "id": "I01",
+      "term_id": "I01",
+      "call_label": "I01 - Gravidez inesperada",
+      "case": "Uma mulher descobre a gravidez depois de perder o emprego e passa a dormir mal, repetindo que não vê saída possível.",
+      "conference_question": "Como responder a uma gravidez inesperada sem transformar medo em autorização para eliminar o filho?",
+      "anchors": [
+        "CEC 2270",
+        "B13",
+        "O02"
+      ],
+      "facilitator_note": "Mostre que medo real exige apoio real, não solução injusta.",
+      "reading_points": [
+        {
+          "title": "Crise concreta",
+          "body": "A gestação vem junto com desemprego, ansiedade e falta de horizonte."
+        },
+        {
+          "title": "Medo não decide tudo",
+          "body": "A aflição explica a pressão, mas não muda a dignidade da criança."
+        },
+        {
+          "title": "Ajuda segura",
+          "body": "A resposta cristã procura apoio concreto para mãe e filho."
+        }
+      ]
+    },
+    {
+      "id": "I02",
+      "term_id": "I02",
+      "call_label": "I02 - Pressão do namorado",
+      "case": "O namorado diz que vai embora se ela continuar a gravidez e oferece dinheiro para que ela resolva tudo sem contar a ninguém.",
+      "conference_question": "Como identificar chantagem moral nessa situação e que responsabilidade está sendo recusada?",
+      "anchors": [
+        "CEC 2272",
+        "B09",
+        "O05"
+      ],
+      "facilitator_note": "Nomeie a pressão sem colocar toda a carga moral sobre a mulher coagida.",
+      "reading_points": [
+        {
+          "title": "Chantagem afetiva",
+          "body": "O vínculo é usado para forçar uma decisão grave."
+        },
+        {
+          "title": "Fuga paterna",
+          "body": "Ele tenta trocar responsabilidade por dinheiro e segredo."
+        },
+        {
+          "title": "Recusa necessária",
+          "body": "A resposta justa corta a cooperação e busca apoio seguro."
+        }
+      ]
+    },
+    {
+      "id": "I03",
+      "term_id": "I03",
+      "call_label": "I03 - Família que ameaça expulsar",
+      "case": "Ao saber da gravidez, a família diz que ela só continua em casa se marcar o aborto ainda naquela semana.",
+      "conference_question": "Como distinguir correção familiar legítima de ameaça que empurra ao pecado grave?",
+      "anchors": [
+        "Gl 6,1-2",
+        "B13",
+        "O04"
+      ],
+      "facilitator_note": "Mostre que vergonha familiar nunca autoriza coerção contra mãe e filho.",
+      "reading_points": [
+        {
+          "title": "Ameaça doméstica",
+          "body": "A moradia vira instrumento de pressão contra a gestante."
+        },
+        {
+          "title": "Honra distorcida",
+          "body": "A família tenta proteger reputação sacrificando uma vida inocente."
+        },
+        {
+          "title": "Proteção responsável",
+          "body": "É preciso chamar ajuda madura e segura para defender mãe e filho."
+        }
+      ]
+    },
+    {
+      "id": "I04",
+      "term_id": "I04",
+      "call_label": "I04 - Diagnóstico grave",
+      "case": "Um exame indica uma malformação severa, e a consulta passa rapidamente da informação médica para a sugestão de interromper a gestação.",
+      "conference_question": "Que critério separa um diagnóstico orientado ao cuidado de um diagnóstico usado como sentença?",
+      "anchors": [
+        "CEC 2274",
+        "G07",
+        "O11"
+      ],
+      "facilitator_note": "Explique que doença grave pede cuidado mais intenso, não eliminação do doente.",
+      "reading_points": [
+        {
+          "title": "Informação pesada",
+          "body": "O diagnóstico traz medo, dor e decisões difíceis."
+        },
+        {
+          "title": "Desvio do cuidado",
+          "body": "O exame deixa de servir à cura quando vira caminho para eliminar."
+        },
+        {
+          "title": "Orientação correta",
+          "body": "A moral cristã permite diagnóstico voltado à salvaguarda e tratamento."
+        }
+      ]
+    },
+    {
+      "id": "I05",
+      "term_id": "I05",
+      "call_label": "I05 - Risco médico real",
+      "case": "Uma gestante com doença grave precisa iniciar tratamento urgente, e a equipe médica discute riscos reais para ela e para o bebê.",
+      "conference_question": "Como discernir tratamento médico legítimo sem confundi-lo com aborto direto?",
+      "anchors": [
+        "CEC 2271",
+        "G04",
+        "G06"
+      ],
+      "facilitator_note": "Não simplifique casos médicos; destaque intenção, objeto do ato e proporção.",
+      "reading_points": [
+        {
+          "title": "Risco verdadeiro",
+          "body": "A situação envolve perigo médico real, não conveniência."
+        },
+        {
+          "title": "Objeto do tratamento",
+          "body": "É preciso saber se o ato busca curar a gestante ou matar diretamente a criança."
+        },
+        {
+          "title": "Discernimento moral",
+          "body": "A Igreja distingue aborto direto de tratamento lícito com efeito não desejado."
+        }
+      ]
+    },
+    {
+      "id": "I06",
+      "term_id": "I06",
+      "call_label": "I06 - Clínica que lucra",
+      "case": "Uma clínica divulga atendimento discreto, pagamento facilitado e promessa de resolver a gravidez como se fosse um serviço comum.",
+      "conference_question": "Por que vender uma solução rápida pode esconder exploração de vulnerabilidade?",
+      "anchors": [
+        "CEC 2272",
+        "Tg 2,14-17",
+        "O12"
+      ],
+      "facilitator_note": "Aponte o problema econômico sem reduzir tudo a dinheiro; há vida e consciência envolvidas.",
+      "reading_points": [
+        {
+          "title": "Mercado da crise",
+          "body": "A vulnerabilidade da mulher é transformada em oportunidade de lucro."
+        },
+        {
+          "title": "Falsa normalidade",
+          "body": "A linguagem de serviço comum esconde a morte do inocente."
+        },
+        {
+          "title": "Resposta prudente",
+          "body": "Quando há exploração, é preciso proteger a vítima e buscar ajuda competente."
+        }
+      ]
+    },
+    {
+      "id": "I07",
+      "term_id": "I07",
+      "call_label": "I07 - Conselho apressado",
+      "case": "Em uma conversa de poucos minutos, uma conhecida indica contato, preço e endereço para abortar, sem perguntar o que a mulher precisa para continuar.",
+      "conference_question": "Quando um conselho deixa de ser ajuda e se torna cooperação com o mal?",
+      "anchors": [
+        "CEC 2272",
+        "G10",
+        "O01"
+      ],
+      "facilitator_note": "Mostre que ouvir é diferente de encaminhar para o aborto.",
+      "reading_points": [
+        {
+          "title": "Pressa perigosa",
+          "body": "A orientação pula a escuta e oferece logo o caminho do aborto."
+        },
+        {
+          "title": "Ajuda falsa",
+          "body": "Facilitar o mal não é apoiar uma pessoa em crise."
+        },
+        {
+          "title": "Escuta correta",
+          "body": "A resposta cristã acolhe sem aprovar e procura alternativas seguras."
+        }
+      ]
+    },
+    {
+      "id": "I08",
+      "term_id": "I08",
+      "call_label": "I08 - Aborto clandestino",
+      "case": "Com medo de ser julgada, uma mulher compra remédios pela internet, passa mal sozinha e apaga as mensagens para ninguém descobrir.",
+      "conference_question": "Que feridas aparecem quando segredo, medo e abandono cercam uma decisão grave?",
+      "anchors": [
+        "CEC 2271",
+        "B13",
+        "O02"
+      ],
+      "facilitator_note": "Não trate o risco físico como argumento único; inclua vida do nascituro, consciência e abandono.",
+      "reading_points": [
+        {
+          "title": "Isolamento",
+          "body": "Ela enfrenta medo, risco e segredo sem apoio responsável."
+        },
+        {
+          "title": "Gravidade moral",
+          "body": "O perigo para a mulher não torna lícita a eliminação do filho."
+        },
+        {
+          "title": "Ajuda antes da queda",
+          "body": "A comunidade deve criar caminhos seguros de apoio antes que a crise vire desespero."
+        }
+      ]
+    },
+    {
+      "id": "I09",
+      "term_id": "I09",
+      "call_label": "I09 - Pobreza e abandono",
+      "case": "Uma mãe com dois filhos pequenos atrasa o aluguel e ouve que trazer mais uma criança seria irresponsabilidade imperdoável.",
+      "conference_question": "Como reconhecer a dureza da pobreza sem concluir que o pobre tem menos direito de viver?",
+      "anchors": [
+        "Tg 2,14-17",
+        "G08",
+        "O10"
+      ],
+      "facilitator_note": "Conduza para solidariedade concreta, não julgamento frio da situação.",
+      "reading_points": [
+        {
+          "title": "Necessidade real",
+          "body": "A família enfrenta uma carga material pesada e urgente."
+        },
+        {
+          "title": "Conclusão falsa",
+          "body": "A dificuldade econômica não autoriza eliminar a criança."
+        },
+        {
+          "title": "Apoio verificável",
+          "body": "A fé pede ajuda concreta, não apenas opinião sobre a pobreza."
+        }
+      ]
+    },
+    {
+      "id": "I10",
+      "term_id": "I10",
+      "call_label": "I10 - Violência sexual",
+      "case": "Depois de uma agressão sexual, a vítima descobre a gravidez, e pessoas próximas dizem que a única forma de seguir em frente é abortar.",
+      "conference_question": "Como proteger a vítima sem transferir a culpa do agressor para outra vida inocente?",
+      "anchors": [
+        "CEC 2270",
+        "B03",
+        "O02"
+      ],
+      "facilitator_note": "Trate com extrema sobriedade: reconheça a violência, exija cuidado e mantenha a inocência do nascituro.",
+      "reading_points": [
+        {
+          "title": "Violência gravíssima",
+          "body": "A agressão exige proteção, justiça, tratamento e acompanhamento sério."
+        },
+        {
+          "title": "Inocente não culpado",
+          "body": "A criança não é autora da violência e não pode pagar por ela com a vida."
+        },
+        {
+          "title": "Cuidado integral",
+          "body": "A resposta cristã busca defender a vítima e a vida inocente."
+        }
+      ]
+    },
+    {
+      "id": "I11",
+      "term_id": "I11",
+      "call_label": "I11 - Descarte de embriões",
+      "case": "Um laboratório comunica que alguns embriões não serão usados e pergunta se a família autoriza o descarte do material excedente.",
+      "conference_question": "Por que a palavra excedente é moralmente perigosa quando se trata de embriões humanos?",
+      "anchors": [
+        "CEC 2275",
+        "B04",
+        "B14"
+      ],
+      "facilitator_note": "Evite tecnicismo excessivo; mostre a redução da pessoa a material disponível.",
+      "reading_points": [
+        {
+          "title": "Materialização",
+          "body": "A linguagem técnica esconde que se trata de vidas humanas embrionárias."
+        },
+        {
+          "title": "Dignidade ignorada",
+          "body": "Nenhum ser humano deve ser tratado como sobra descartável."
+        },
+        {
+          "title": "Limite da técnica",
+          "body": "A biotecnologia deve respeitar a integridade e identidade do embrião."
+        }
+      ]
+    },
+    {
+      "id": "I12",
+      "term_id": "I12",
+      "call_label": "I12 - Seleção por deficiência",
+      "case": "Após suspeita de deficiência, a equipe médica pergunta aos pais se eles pretendem prosseguir, como se a doença decidisse o valor da criança.",
+      "conference_question": "Como distinguir preparação para cuidar de seleção contra quem não corresponde a um padrão?",
+      "anchors": [
+        "CEC 2274",
+        "CEC 2275",
+        "N07"
+      ],
+      "facilitator_note": "Mantenha firmeza sem negar o peso real que famílias podem enfrentar.",
+      "reading_points": [
+        {
+          "title": "Padrão de aceitação",
+          "body": "A criança passa a ser avaliada pela saúde esperada."
+        },
+        {
+          "title": "Discriminação letal",
+          "body": "Eliminar por deficiência é negar dignidade a quem precisaria de maior cuidado."
+        },
+        {
+          "title": "Preparar para cuidar",
+          "body": "O diagnóstico deve orientar tratamento, acolhida e suporte proporcionado."
+        }
+      ]
+    },
+    {
+      "id": "I13",
+      "term_id": "I13",
+      "call_label": "I13 - Pai que se omite",
+      "case": "Ao saber da gravidez, o homem diz que a decisão é toda dela e desaparece por semanas, embora saiba da pressão pelo aborto.",
+      "conference_question": "Por que chamar a omissão de neutralidade pode esconder cooperação e abandono?",
+      "anchors": [
+        "CEC 2272",
+        "G10",
+        "O06"
+      ],
+      "facilitator_note": "Mostre a responsabilidade paterna sem apagar outros fatores da situação.",
+      "reading_points": [
+        {
+          "title": "Fuga disfarçada",
+          "body": "Ele usa a palavra decisão para abandonar mãe e filho."
+        },
+        {
+          "title": "Omissão com efeito",
+          "body": "Sumir diante da pressão pode empurrar a mulher para o aborto."
+        },
+        {
+          "title": "Responsabilidade contínua",
+          "body": "A resposta justa exige presença, cuidado e compromisso proporcional."
+        }
+      ]
+    },
+    {
+      "id": "I14",
+      "term_id": "I14",
+      "call_label": "I14 - Segredo após aborto",
+      "case": "Uma mulher guarda há anos uma data que nunca comenta; quando ela chega, falta ao trabalho e evita qualquer conversa familiar.",
+      "conference_question": "Como reconhecer uma ferida moral sem expor a pessoa nem fingir que nada aconteceu?",
+      "anchors": [
+        "CEC 1451-1460",
+        "B15",
+        "O07"
+      ],
+      "facilitator_note": "Aponte para cuidado pastoral e sacramental, sem curiosidade invasiva.",
+      "reading_points": [
+        {
+          "title": "Memória ferida",
+          "body": "O silêncio mostra que o ato deixou marcas profundas."
+        },
+        {
+          "title": "Segredo insuficiente",
+          "body": "Esconder a dor não é o mesmo que ser curado."
+        },
+        {
+          "title": "Caminho de cura",
+          "body": "Verdade, Confissão e acompanhamento podem abrir esperança."
+        }
+      ]
+    },
+    {
+      "id": "I15",
+      "term_id": "I15",
+      "call_label": "I15 - Debate público e lei",
+      "case": "Em uma audiência pública, grupos defendem leis opostas sobre aborto, e a criança no ventre quase não é mencionada como sujeito de direito.",
+      "conference_question": "Que pergunta moral precisa aparecer quando a lei discute aborto no espaço público?",
+      "anchors": [
+        "CEC 2273",
+        "B12",
+        "O13"
+      ],
+      "facilitator_note": "Conduza sem partidarizar; o ponto é a dignidade humana e a proteção jurídica do inocente.",
+      "reading_points": [
+        {
+          "title": "Ausência do mais fraco",
+          "body": "O debate fala de interesses adultos e esquece quem não tem voz."
+        },
+        {
+          "title": "Direito negado",
+          "body": "A lei civil é injusta quando priva uma categoria humana de proteção."
+        },
+        {
+          "title": "Participação responsável",
+          "body": "O cristão deve defender a vida com argumentos e ação pública ordenada."
+        }
+      ]
+    },
+    {
+      "id": "N01",
+      "term_id": "N01",
+      "call_label": "N01 - Falsa autonomia",
+      "case": "Em discussão com a família, uma gestante repete que ninguém pode opinar porque é só o corpo dela, enquanto todos evitam falar da criança.",
+      "conference_question": "Como distinguir autonomia legítima de poder absoluto sobre outra vida dependente?",
+      "anchors": [
+        "CEC 2270",
+        "B03",
+        "G09"
+      ],
+      "facilitator_note": "Não negue a dignidade da mulher; mostre que liberdade inclui responsabilidade pelo outro.",
+      "reading_points": [
+        {
+          "title": "Verdade parcial",
+          "body": "A mulher tem dignidade e não deve ser tratada como objeto de controle."
+        },
+        {
+          "title": "Outro envolvido",
+          "body": "A frase fica falsa quando apaga a vida do filho no ventre."
+        },
+        {
+          "title": "Liberdade responsável",
+          "body": "A liberdade cristã não é poder de decidir a morte do inocente."
+        }
+      ]
+    },
+    {
+      "id": "N02",
+      "term_id": "N02",
+      "call_label": "N02 - Vida sem valor ainda",
+      "case": "Alguém comenta que, nas primeiras semanas, não há motivo para falar em vida humana com direitos, pois ainda é muito pequeno.",
+      "conference_question": "Por que tamanho e estágio de desenvolvimento não definem quem merece proteção?",
+      "anchors": [
+        "CEC 2270",
+        "Jr 1,5",
+        "B01"
+      ],
+      "facilitator_note": "Mostre que a narrativa desloca a dignidade para critérios arbitrários.",
+      "reading_points": [
+        {
+          "title": "Critério instável",
+          "body": "O valor da vida é colocado na aparência ou no tamanho."
+        },
+        {
+          "title": "Dignidade desde o início",
+          "body": "A vida humana não passa a valer apenas quando se torna visível ou forte."
+        },
+        {
+          "title": "Base doutrinal",
+          "body": "CEC 2270 reconhece direitos de pessoa desde o primeiro momento da existência."
+        }
+      ]
+    },
+    {
+      "id": "N03",
+      "term_id": "N03",
+      "call_label": "N03 - Menos sofrimento",
+      "case": "Diante de uma gestação difícil, uma parente diz que abortar pouparia sofrimento de todos e seria a opção mais humana.",
+      "conference_question": "Como distinguir aliviar sofrimento de eliminar uma pessoa para não enfrentar sofrimento?",
+      "anchors": [
+        "B13",
+        "G13",
+        "CEC 2271"
+      ],
+      "facilitator_note": "Reconheça que há sofrimento real, mas não aceite a morte do inocente como remédio.",
+      "reading_points": [
+        {
+          "title": "Dor usada como argumento",
+          "body": "A parente tenta resolver a angústia eliminando quem exige cuidado."
+        },
+        {
+          "title": "Compaixão desviada",
+          "body": "A compaixão cristã alivia a carga sem matar o vulnerável."
+        },
+        {
+          "title": "Cuidado verdadeiro",
+          "body": "A resposta adequada busca suporte, tratamento e presença."
+        }
+      ]
+    },
+    {
+      "id": "N04",
+      "term_id": "N04",
+      "call_label": "N04 - Problema só da mulher",
+      "case": "Depois de pressionar pela relação e fugir quando soube da gravidez, o homem diz aos amigos que isso é assunto dela e que ele não deve se envolver.",
+      "conference_question": "Como essa frase esconde abandono sob aparência de respeito?",
+      "anchors": [
+        "Gl 6,1-2",
+        "I13",
+        "O06"
+      ],
+      "facilitator_note": "Destaque a responsabilidade de quem participou da origem da vida.",
+      "reading_points": [
+        {
+          "title": "Respeito falso",
+          "body": "A frase parece defender liberdade, mas serve para fugir da responsabilidade."
+        },
+        {
+          "title": "Abandono concreto",
+          "body": "A omissão aumenta a solidão e a pressão sobre a gestante."
+        },
+        {
+          "title": "Carga partilhada",
+          "body": "A caridade cristã chama a carregar o peso do outro e proteger a vida."
+        }
+      ]
+    },
+    {
+      "id": "N05",
+      "term_id": "N05",
+      "call_label": "N05 - Ninguém precisa saber",
+      "case": "Uma amiga oferece guardar tudo em segredo, apagar mensagens e evitar qualquer adulto que possa impedir o aborto.",
+      "conference_question": "Quando o segredo deixa de proteger a intimidade e passa a bloquear a ajuda necessária?",
+      "anchors": [
+        "Sl 138(139),13-16",
+        "G14",
+        "O04"
+      ],
+      "facilitator_note": "Diferencie discrição de encobrimento de risco e pecado grave.",
+      "reading_points": [
+        {
+          "title": "Segredo organizado",
+          "body": "A preocupação principal vira esconder o caminho do aborto."
+        },
+        {
+          "title": "Ajuda bloqueada",
+          "body": "O silêncio impede que pessoas responsáveis protejam mãe e filho."
+        },
+        {
+          "title": "Verdade diante de Deus",
+          "body": "Nada fica fora do olhar de Deus, e a verdade pode abrir socorro."
+        }
+      ]
+    },
+    {
+      "id": "N06",
+      "term_id": "N06",
+      "call_label": "N06 - Solução econômica",
+      "case": "Um parente faz contas de aluguel, fraldas e mercado, e conclui que o aborto é a opção mais racional para a família.",
+      "conference_question": "Por que a necessidade financeira exige solidariedade e não eliminação do mais fraco?",
+      "anchors": [
+        "Tg 2,14-17",
+        "G08",
+        "O10"
+      ],
+      "facilitator_note": "Não trate pobreza com frieza; exija ajuda concreta como parte da resposta.",
+      "reading_points": [
+        {
+          "title": "Conta incompleta",
+          "body": "As despesas são reais, mas a criança é reduzida a custo."
+        },
+        {
+          "title": "Racionalidade injusta",
+          "body": "Uma solução eficiente pode ser moralmente má se elimina o inocente."
+        },
+        {
+          "title": "Fé com obras",
+          "body": "A comunidade deve transformar compaixão em apoio material concreto."
+        }
+      ]
+    },
+    {
+      "id": "N07",
+      "term_id": "N07",
+      "call_label": "N07 - Deficiência como sentença",
+      "case": "Depois de um exame, alguém afirma que seria cruel deixar nascer uma criança que talvez precise de cuidados por toda a vida.",
+      "conference_question": "Que visão de pessoa está por trás da ideia de que deficiência diminui o direito de viver?",
+      "anchors": [
+        "CEC 2274",
+        "CEC 2275",
+        "I12"
+      ],
+      "facilitator_note": "Mostre a gravidade da discriminação sem negar a exigência real do cuidado.",
+      "reading_points": [
+        {
+          "title": "Vida condicionada",
+          "body": "A criança é aceita apenas se promete autonomia ou desempenho."
+        },
+        {
+          "title": "Cuidado substituído",
+          "body": "A solução proposta elimina quem exigiria apoio maior."
+        },
+        {
+          "title": "Dignidade inteira",
+          "body": "Doença ou deficiência não retiram identidade nem direito à vida."
+        }
+      ]
+    },
+    {
+      "id": "N08",
+      "term_id": "N08",
+      "call_label": "N08 - Direito sem limite",
+      "case": "Em uma mesa de debate, alguém afirma que qualquer limite ao aborto é agressão aos direitos, sem mencionar o direito da criança.",
+      "conference_question": "Como avaliar uma linguagem de direitos que silencia o direito do inocente à vida?",
+      "anchors": [
+        "CEC 2272",
+        "B03",
+        "B12"
+      ],
+      "facilitator_note": "Evite caricatura política; examine a coerência moral da linguagem dos direitos.",
+      "reading_points": [
+        {
+          "title": "Direito isolado",
+          "body": "A fala considera apenas um sujeito e apaga o outro."
+        },
+        {
+          "title": "Limite moral",
+          "body": "Nenhum direito humano inclui autorização para matar o inocente."
+        },
+        {
+          "title": "Justiça completa",
+          "body": "A defesa da vida exige reconhecer todos os envolvidos, especialmente o indefeso."
+        }
+      ]
+    },
+    {
+      "id": "N09",
+      "term_id": "N09",
+      "call_label": "N09 - Ciência pela metade",
+      "case": "Uma postagem usa termos médicos para parecer neutra, mas evita dizer que há um organismo humano vivo e em desenvolvimento.",
+      "conference_question": "Como usar a ciência sem recortar apenas o que favorece uma conclusão já escolhida?",
+      "anchors": [
+        "CEC 2270",
+        "B04",
+        "G07"
+      ],
+      "facilitator_note": "Mostre que a fé não precisa negar fatos biológicos; o problema é a leitura moral truncada.",
+      "reading_points": [
+        {
+          "title": "Vocabulário seletivo",
+          "body": "A linguagem técnica pode esconder informações morais relevantes."
+        },
+        {
+          "title": "Fato e dignidade",
+          "body": "Reconhecer vida humana em desenvolvimento exige perguntar como ela deve ser tratada."
+        },
+        {
+          "title": "Consciência formada",
+          "body": "A verdade inteira ajuda a discernir, em vez de manipular a opinião."
+        }
+      ]
+    },
+    {
+      "id": "N10",
+      "term_id": "N10",
+      "call_label": "N10 - Compaixão que mata",
+      "case": "Uma enfermeira, com tom calmo, diz que o mais compassivo seria interromper a gestação para evitar dificuldades futuras.",
+      "conference_question": "Por que uma fala aparentemente sensível pode carregar uma solução moralmente injusta?",
+      "anchors": [
+        "Lc 10,25-37",
+        "G13",
+        "O03"
+      ],
+      "facilitator_note": "Destaque que tom gentil não transforma eliminação em cuidado.",
+      "reading_points": [
+        {
+          "title": "Tom acolhedor",
+          "body": "A fala parece cuidadosa porque reconhece medo e sofrimento."
+        },
+        {
+          "title": "Meio injusto",
+          "body": "A solução proposta é matar o vulnerável, não cuidar melhor."
+        },
+        {
+          "title": "Compaixão verdadeira",
+          "body": "O próximo cristão se aproxima para sustentar, tratar e proteger."
+        }
+      ]
+    },
+    {
+      "id": "N11",
+      "term_id": "N11",
+      "call_label": "N11 - Culpa sempre dos outros",
+      "case": "Após participar do aborto, uma pessoa diz que ninguém pode responder por nada, porque família, medo e sociedade explicam tudo.",
+      "conference_question": "Como reconhecer pressões reais sem apagar toda responsabilidade moral?",
+      "anchors": [
+        "CEC 1735",
+        "G02",
+        "B09"
+      ],
+      "facilitator_note": "Mantenha a distinção entre fatores que reduzem culpa e negação completa de responsabilidade.",
+      "reading_points": [
+        {
+          "title": "Pressões existentes",
+          "body": "Medo, ameaça e abandono podem diminuir a liberdade de uma pessoa."
+        },
+        {
+          "title": "Desculpa total",
+          "body": "Transformar contexto em isenção absoluta impede verdade e conversão."
+        },
+        {
+          "title": "Discernimento justo",
+          "body": "A Igreja distingue gravidade objetiva e responsabilidade subjetiva."
+        }
+      ]
+    },
+    {
+      "id": "N12",
+      "term_id": "N12",
+      "call_label": "N12 - Legalidade como moral",
+      "case": "Alguém encerra a conversa dizendo que, se a lei permite em certo lugar, então não há mais questão moral a discutir.",
+      "conference_question": "Por que uma lei positiva pode permitir algo que continua moralmente errado?",
+      "anchors": [
+        "CEC 2273",
+        "G12",
+        "B12"
+      ],
+      "facilitator_note": "Explique sem incentivar desordem; a questão é que moralidade não nasce da permissão legal.",
+      "reading_points": [
+        {
+          "title": "Atalho legal",
+          "body": "A pessoa troca discernimento moral por simples consulta à permissão da lei."
+        },
+        {
+          "title": "Lei injusta",
+          "body": "Uma norma pode falhar quando retira proteção do inocente."
+        },
+        {
+          "title": "Consciência cristã",
+          "body": "O cristão deve formar a consciência também pela lei moral e pela dignidade humana."
+        }
+      ]
+    },
+    {
+      "id": "N13",
+      "term_id": "N13",
+      "call_label": "N13 - Todo mundo faz",
+      "case": "Em um ambiente de trabalho, colegas dizem que muitas mulheres já passaram por isso e que transformar o aborto em drama é atraso.",
+      "conference_question": "Como a repetição social pode anestesiar a consciência sem mudar a verdade moral do ato?",
+      "anchors": [
+        "Rm 12,21",
+        "CEC 1750-1756",
+        "B10"
+      ],
+      "facilitator_note": "Mostre que frequência cultural não é critério moral.",
+      "reading_points": [
+        {
+          "title": "Normalização",
+          "body": "O grupo usa a frequência do ato para diminuir sua gravidade."
+        },
+        {
+          "title": "Consciência anestesiada",
+          "body": "O costume pode tornar alguém menos sensível ao mal, não tornar o mal bom."
+        },
+        {
+          "title": "Critério cristão",
+          "body": "O cristão discerne pela verdade do bem, não pela pressão do ambiente."
+        }
+      ]
+    },
+    {
+      "id": "N14",
+      "term_id": "N14",
+      "call_label": "N14 - Religião no privado",
+      "case": "No debate sobre leis, alguém afirma que cristãos podem crer contra o aborto em casa, mas não devem defender essa posição publicamente.",
+      "conference_question": "Como distinguir imposição religiosa de defesa pública de um direito humano fundamental?",
+      "anchors": [
+        "CEC 2273",
+        "B12",
+        "I15"
+      ],
+      "facilitator_note": "Mantenha o foco no direito à vida e na razão pública, não em disputa confessional.",
+      "reading_points": [
+        {
+          "title": "Privatização da fé",
+          "body": "A fala tenta impedir que a consciência cristã participe do bem comum."
+        },
+        {
+          "title": "Questão humana",
+          "body": "Defender o inocente não é assunto apenas interno de uma religião."
+        },
+        {
+          "title": "Vida pública",
+          "body": "A lei justa deve proteger os mais fracos, qualquer que seja a maioria cultural."
+        }
+      ]
+    },
+    {
+      "id": "N15",
+      "term_id": "N15",
+      "call_label": "N15 - Depois eu esqueço",
+      "case": "Antes do procedimento, uma amiga insiste que bastará não falar mais no assunto e que a vida voltará ao normal rapidamente.",
+      "conference_question": "Por que tratar uma decisão irreversível como incômodo passageiro enfraquece a consciência?",
+      "anchors": [
+        "CEC 1846-1848",
+        "I14",
+        "B15"
+      ],
+      "facilitator_note": "Evite apelo emocional exagerado; mostre a seriedade objetiva e a possibilidade de cura.",
+      "reading_points": [
+        {
+          "title": "Promessa falsa",
+          "body": "A frase vende esquecimento onde haverá uma perda real."
+        },
+        {
+          "title": "Ato irreversível",
+          "body": "A morte do inocente e a ferida moral não se apagam por silêncio."
+        },
+        {
+          "title": "Esperança verdadeira",
+          "body": "A fé oferece perdão e cura, não negação da realidade."
+        }
+      ]
+    },
+    {
+      "id": "G01",
+      "term_id": "G01",
+      "call_label": "G01 - Ato e pessoa",
+      "case": "Depois que uma mulher conta ter abortado no passado, alguém passa a se referir a ela apenas pelo pecado cometido.",
+      "conference_question": "Como condenar o ato sem reduzir a pessoa à pior decisão de sua história?",
+      "anchors": [
+        "CEC 1846-1848",
+        "Lc 15,11-32",
+        "B11"
+      ],
+      "facilitator_note": "Faça a distinção com clareza: pecado grave não apaga dignidade nem necessidade de conversão.",
+      "reading_points": [
+        {
+          "title": "Redução cruel",
+          "body": "A pessoa é transformada em rótulo moral definitivo."
+        },
+        {
+          "title": "Ato condenável",
+          "body": "O aborto deve ser condenado como pecado grave, sem negar a dignidade de quem caiu."
+        },
+        {
+          "title": "Misericórdia ordenada",
+          "body": "A fé chama à conversão e ao perdão, não à humilhação permanente."
+        }
+      ]
+    },
+    {
+      "id": "G02",
+      "term_id": "G02",
+      "call_label": "G02 - Culpa objetiva e subjetiva",
+      "case": "Uma jovem foi ameaçada de expulsão e pressionada por vários adultos até abortar; depois, todos discutem se ela é tão culpada quanto quem a pressionou.",
+      "conference_question": "Como avaliar a gravidade do ato e, ao mesmo tempo, as condições concretas de liberdade?",
+      "anchors": [
+        "CEC 1735",
+        "CEC 2271",
+        "N11"
+      ],
+      "facilitator_note": "Mostre que a distinção não relativiza o aborto nem ignora coerções reais.",
+      "reading_points": [
+        {
+          "title": "Ato grave",
+          "body": "O aborto direto continua objetivamente contrário à lei moral."
+        },
+        {
+          "title": "Liberdade ferida",
+          "body": "Ameaça, medo e pressão podem diminuir a responsabilidade subjetiva."
+        },
+        {
+          "title": "Juízo prudente",
+          "body": "A Igreja ensina a distinguir o mal do ato das condições da pessoa."
+        }
+      ]
+    },
+    {
+      "id": "G03",
+      "term_id": "G03",
+      "call_label": "G03 - Acolhida e aprovação",
+      "case": "Uma pastoral recebe uma mulher ferida por aborto passado; alguns acham que acolher significa nunca nomear o pecado, outros querem afastá-la.",
+      "conference_question": "Como acolher sem aprovar o mal e corrigir sem expulsar a pessoa ferida?",
+      "anchors": [
+        "B11",
+        "O01",
+        "CEC 1846-1848"
+      ],
+      "facilitator_note": "Mostre que verdade sem misericórdia fere, e misericórdia sem verdade confunde.",
+      "reading_points": [
+        {
+          "title": "Dois extremos",
+          "body": "Um lado silencia a verdade, o outro nega acolhida."
+        },
+        {
+          "title": "Distinção necessária",
+          "body": "A pessoa deve ser recebida, mas o ato não pode ser chamado de bem."
+        },
+        {
+          "title": "Caminho cristão",
+          "body": "Acolher corretamente conduz à verdade, à Confissão e à cura."
+        }
+      ]
+    },
+    {
+      "id": "G04",
+      "term_id": "G04",
+      "call_label": "G04 - Aborto e tratamento médico",
+      "case": "Uma gestante precisa de tratamento sério para uma doença agressiva, e a família teme que qualquer intervenção médica seja aborto.",
+      "conference_question": "Que critérios ajudam a distinguir tratamento lícito de aborto direto?",
+      "anchors": [
+        "CEC 2271",
+        "I05",
+        "G06"
+      ],
+      "facilitator_note": "Não resolva tecnicamente casos médicos; explique a distinção moral essencial.",
+      "reading_points": [
+        {
+          "title": "Medo compreensível",
+          "body": "A família teme ferir a vida do bebê ao tratar a mãe."
+        },
+        {
+          "title": "Objeto do ato",
+          "body": "Tratamento que busca curar a gestante não é o mesmo que escolher matar o filho."
+        },
+        {
+          "title": "Discernimento sério",
+          "body": "A moral católica exige intenção reta, meio lícito e proporção."
+        }
+      ]
+    },
+    {
+      "id": "G05",
+      "term_id": "G05",
+      "call_label": "G05 - Fim e meio",
+      "case": "Um médico diz que o objetivo é aliviar a vida da família, mas o procedimento escolhido consiste diretamente em eliminar a criança.",
+      "conference_question": "Por que um fim apresentado como bom não justifica usar a morte do inocente como meio?",
+      "anchors": [
+        "CEC 1750-1756",
+        "CEC 1753",
+        "B08"
+      ],
+      "facilitator_note": "Explique que intenção, objeto e meios precisam ser avaliados juntos.",
+      "reading_points": [
+        {
+          "title": "Fim declarado",
+          "body": "A fala apresenta alívio e estabilidade como objetivos."
+        },
+        {
+          "title": "Meio ilícito",
+          "body": "O caminho escolhido é diretamente a morte do nascituro."
+        },
+        {
+          "title": "Moral do ato",
+          "body": "Não é lícito fazer o mal para alcançar um bem esperado."
+        }
+      ]
+    },
+    {
+      "id": "G06",
+      "term_id": "G06",
+      "call_label": "G06 - Duplo efeito",
+      "case": "Uma intervenção necessária para tratar grave risco materno pode ter como consequência não desejada a morte do bebê, embora a equipe não a busque.",
+      "conference_question": "Quais diferenças existem entre tolerar um efeito mau não querido e escolher esse efeito como meio?",
+      "anchors": [
+        "CEC 1750-1756",
+        "G04",
+        "I05"
+      ],
+      "facilitator_note": "Fale de modo simples: efeito previsto não é sempre efeito querido.",
+      "reading_points": [
+        {
+          "title": "Efeito doloroso",
+          "body": "Há risco de morte do bebê, mas a morte não é o objetivo do tratamento."
+        },
+        {
+          "title": "Meio não usado",
+          "body": "O mal não pode ser escolhido como caminho para obter o bem."
+        },
+        {
+          "title": "Prudência moral",
+          "body": "O duplo efeito exige ato bom ou proporcionado, intenção reta e proporção séria."
+        }
+      ]
+    },
+    {
+      "id": "G07",
+      "term_id": "G07",
+      "call_label": "G07 - Diagnóstico e sentença",
+      "case": "Um exame pré-natal detecta uma condição grave; um médico oferece acompanhamento, outro apresenta o resultado como motivo automático para abortar.",
+      "conference_question": "O que muda quando o diagnóstico serve ao cuidado em vez de funcionar como sentença de morte?",
+      "anchors": [
+        "CEC 2274",
+        "I04",
+        "O11"
+      ],
+      "facilitator_note": "Mostre a finalidade moral do diagnóstico: salvaguarda, cura ou preparação responsável.",
+      "reading_points": [
+        {
+          "title": "Mesmo dado",
+          "body": "O resultado médico é o mesmo, mas pode ser usado de modos moralmente diferentes."
+        },
+        {
+          "title": "Finalidade decisiva",
+          "body": "Diagnosticar para cuidar é diferente de diagnosticar para eliminar."
+        },
+        {
+          "title": "Critério da Igreja",
+          "body": "O Catecismo permite diagnóstico orientado à vida e rejeita diagnóstico como sentença."
+        }
+      ]
+    },
+    {
+      "id": "G08",
+      "term_id": "G08",
+      "call_label": "G08 - Pobreza e licença moral",
+      "case": "Uma família sem renda está desesperada, e um vizinho diz que, nesse caso, a moral precisa abrir exceção para o aborto.",
+      "conference_question": "Como a pobreza muda nossa obrigação de ajudar, mas não muda o direito da criança à vida?",
+      "anchors": [
+        "Tg 2,14-17",
+        "I09",
+        "N06"
+      ],
+      "facilitator_note": "Evite resposta fria; a distinção pede ajuda concreta e firmeza moral.",
+      "reading_points": [
+        {
+          "title": "Sofrimento material",
+          "body": "A necessidade econômica é real e exige resposta comunitária."
+        },
+        {
+          "title": "Licença falsa",
+          "body": "A pobreza não transforma a morte do inocente em ato bom."
+        },
+        {
+          "title": "Obras de fé",
+          "body": "A resposta cristã deve proteger a vida e aliviar a carga concreta."
+        }
+      ]
+    },
+    {
+      "id": "G09",
+      "term_id": "G09",
+      "call_label": "G09 - Medo e liberdade",
+      "case": "Ao receber a notícia da gravidez, uma mulher em pânico aceita uma solução que, horas depois, ela mesma diz não ter conseguido pensar direito.",
+      "conference_question": "Como o medo pode ferir a liberdade sem eliminar a necessidade de buscar o bem?",
+      "anchors": [
+        "CEC 1735",
+        "I01",
+        "O04"
+      ],
+      "facilitator_note": "Mostre que pânico exige pausa, proteção e ajuda madura.",
+      "reading_points": [
+        {
+          "title": "Decisão sob choque",
+          "body": "O medo reduz a capacidade de avaliar a realidade com calma."
+        },
+        {
+          "title": "Liberdade ferida",
+          "body": "A responsabilidade pessoal pode ser afetada por pânico e pressão."
+        },
+        {
+          "title": "Ajuda prudente",
+          "body": "É preciso interromper a pressa e chamar apoio confiável."
+        }
+      ]
+    },
+    {
+      "id": "G10",
+      "term_id": "G10",
+      "call_label": "G10 - Conselho e cooperação",
+      "case": "Uma amiga ouve o desespero da gestante, mas depois envia contatos de clínicas e se oferece para levá-la ao procedimento.",
+      "conference_question": "Onde termina a escuta compassiva e começa a cooperação com o aborto?",
+      "anchors": [
+        "CEC 2272",
+        "B09",
+        "O01"
+      ],
+      "facilitator_note": "Explique que intenção de aliviar não justifica facilitar o ato mau.",
+      "reading_points": [
+        {
+          "title": "Escuta inicial",
+          "body": "Ouvir a angústia é necessário e pode ser uma boa ação."
+        },
+        {
+          "title": "Passagem para cooperação",
+          "body": "Enviar contatos e transportar para abortar facilita diretamente o ato."
+        },
+        {
+          "title": "Resposta correta",
+          "body": "A ajuda deve buscar proteção e alternativas lícitas, não execução do mal."
+        }
+      ]
+    },
+    {
+      "id": "G11",
+      "term_id": "G11",
+      "call_label": "G11 - Perdão e banalização",
+      "case": "Ao aconselhar alguém que abortou, uma pessoa diz que Deus perdoa tudo e por isso não é preciso confessar nem tocar no assunto.",
+      "conference_question": "Como anunciar perdão sem transformar misericórdia em desculpa para não converter?",
+      "anchors": [
+        "B11",
+        "B15",
+        "CEC 1451-1460"
+      ],
+      "facilitator_note": "Mostre que perdão cristão inclui arrependimento, verdade e sacramento.",
+      "reading_points": [
+        {
+          "title": "Consolo incompleto",
+          "body": "A fala tenta aliviar a culpa pulando o caminho da conversão."
+        },
+        {
+          "title": "Misericórdia exigente",
+          "body": "Deus perdoa de verdade, mas chama o pecado pelo nome."
+        },
+        {
+          "title": "Confissão",
+          "body": "O sacramento oferece perdão objetivo e reordena a vida."
+        }
+      ]
+    },
+    {
+      "id": "G12",
+      "term_id": "G12",
+      "call_label": "G12 - Lei civil e lei moral",
+      "case": "Uma empresa diz que seguirá apenas o que a lei permitir sobre descarte de embriões, sem discutir se a prática é justa.",
+      "conference_question": "Como distinguir cumprimento legal de retidão moral em temas de vida humana?",
+      "anchors": [
+        "CEC 2273",
+        "B12",
+        "N12"
+      ],
+      "facilitator_note": "Explique que legalidade pode ser mínima e ainda assim moralmente insuficiente.",
+      "reading_points": [
+        {
+          "title": "Critério reduzido",
+          "body": "A decisão moral é substituída por análise de permissão legal."
+        },
+        {
+          "title": "Lei não basta",
+          "body": "Nem tudo que é permitido por uma norma humana é justo diante de Deus."
+        },
+        {
+          "title": "Consciência pública",
+          "body": "A lei deve servir à proteção da vida e não ao descarte do vulnerável."
+        }
+      ]
+    },
+    {
+      "id": "G13",
+      "term_id": "G13",
+      "call_label": "G13 - Compaixão e relativização",
+      "case": "Para não aumentar a dor de uma amiga, alguém evita dizer que o aborto é pecado e passa a afirmar que cada caso decide sua própria moral.",
+      "conference_question": "Como ser compassivo sem relativizar a verdade moral?",
+      "anchors": [
+        "Lc 10,25-37",
+        "N10",
+        "O03"
+      ],
+      "facilitator_note": "Mostre que compaixão cristã se aproxima da dor sem mentir sobre o bem.",
+      "reading_points": [
+        {
+          "title": "Medo de ferir",
+          "body": "A pessoa evita a verdade para não aumentar o sofrimento."
+        },
+        {
+          "title": "Relativização",
+          "body": "Transformar a dor em critério final destrói o discernimento moral."
+        },
+        {
+          "title": "Presença verdadeira",
+          "body": "A compaixão protege, acompanha e fala com caridade."
+        }
+      ]
+    },
+    {
+      "id": "G14",
+      "term_id": "G14",
+      "call_label": "G14 - Sigilo e encobrimento",
+      "case": "Uma jovem relata ameaça do namorado e intenção de abortar escondido; a pessoa que ouve promete sigilo absoluto sem procurar ajuda.",
+      "conference_question": "Como proteger a intimidade sem encobrir risco, coerção e pecado grave?",
+      "anchors": [
+        "N05",
+        "O04",
+        "1Cor 14,33.40"
+      ],
+      "facilitator_note": "Oriente para ajuda responsável e segura; não incentive exposição pública.",
+      "reading_points": [
+        {
+          "title": "Risco presente",
+          "body": "Há ameaça, isolamento e possibilidade de dano grave."
+        },
+        {
+          "title": "Sigilo mal usado",
+          "body": "Guardar tudo sozinho pode permitir que a violência avance."
+        },
+        {
+          "title": "Ordem e proteção",
+          "body": "A resposta prudente envolve responsável confiável sem expor a pessoa."
+        }
+      ]
+    },
+    {
+      "id": "G15",
+      "term_id": "G15",
+      "call_label": "G15 - Prudência e omissão",
+      "case": "Ao saber de uma mulher sendo pressionada a abortar, alguém diz que é melhor não se envolver para não criar conflito.",
+      "conference_question": "Quando a prudência é virtude e quando vira desculpa para abandono?",
+      "anchors": [
+        "Pr 31,8-9",
+        "B13",
+        "O02"
+      ],
+      "facilitator_note": "Mostre que agir prudentemente não significa agir sozinho nem agir de modo imprudente.",
+      "reading_points": [
+        {
+          "title": "Conflito evitado",
+          "body": "A pessoa usa a paz aparente para não enfrentar a injustiça."
+        },
+        {
+          "title": "Omissão perigosa",
+          "body": "Não agir pode deixar mãe e filho entregues à pressão."
+        },
+        {
+          "title": "Prudência ativa",
+          "body": "A virtude procura ajuda segura, proporcional e eficaz."
+        }
+      ]
+    },
+    {
+      "id": "O01",
+      "term_id": "O01",
+      "call_label": "O01 - Escuta sem aprovação",
+      "case": "Uma mulher conta que pensa em abortar; quem a ouve não a interrompe com insultos, mas também não diz que qualquer escolha será boa.",
+      "conference_question": "Como escutar uma pessoa em crise sem aprovar uma decisão moralmente injusta?",
+      "anchors": [
+        "G03",
+        "B11",
+        "Gl 6,1-2"
+      ],
+      "facilitator_note": "Mostre uma resposta equilibrada: presença, verdade e próximo passo seguro.",
+      "reading_points": [
+        {
+          "title": "Escuta real",
+          "body": "A pessoa é ouvida sem humilhação e sem pressa."
+        },
+        {
+          "title": "Verdade preservada",
+          "body": "Acolher não exige chamar o aborto de opção boa."
+        },
+        {
+          "title": "Ajuda aberta",
+          "body": "A escuta deve conduzir a apoio concreto e proteção da vida."
+        }
+      ]
+    },
+    {
+      "id": "O02",
+      "term_id": "O02",
+      "call_label": "O02 - Encaminhar ajuda segura",
+      "case": "Uma gestante isolada recebe o contato de um serviço sério de saúde, de uma assistente social e de uma pessoa da família que pode acolhê-la sem violência.",
+      "conference_question": "Por que encaminhar bem é diferente de tentar resolver sozinho uma crise grave?",
+      "anchors": [
+        "B13",
+        "Lc 10,25-37",
+        "G15"
+      ],
+      "facilitator_note": "Destaque proporcionalidade e segurança, sem soluções heroicas ou improvisadas.",
+      "reading_points": [
+        {
+          "title": "Rede concreta",
+          "body": "A ajuda não fica no conselho; conecta a pessoa a apoios reais."
+        },
+        {
+          "title": "Limite pessoal",
+          "body": "Nem todo problema grave deve ser carregado por uma pessoa sozinha."
+        },
+        {
+          "title": "Caridade prudente",
+          "body": "Ser próximo inclui encaminhar com responsabilidade e acompanhar o possível."
+        }
+      ]
+    },
+    {
+      "id": "O03",
+      "term_id": "O03",
+      "call_label": "O03 - Proteger mãe e filho",
+      "case": "Diante de pressão familiar, uma irmã afirma que a prioridade é encontrar modo de proteger a gestante e a criança, não escolher uma contra a outra.",
+      "conference_question": "Como evitar a falsa oposição entre cuidar da mãe e defender o filho?",
+      "anchors": [
+        "CEC 2270",
+        "B13",
+        "G13"
+      ],
+      "facilitator_note": "Mostre que a moral cristã não sacrifica um inocente para ajudar outro.",
+      "reading_points": [
+        {
+          "title": "Falsa escolha",
+          "body": "A crise faz parecer que só uma vida pode ser considerada."
+        },
+        {
+          "title": "Duas dignidades",
+          "body": "Mãe e filho devem ser tratados como pessoas, não como rivais."
+        },
+        {
+          "title": "Proteção integral",
+          "body": "A resposta cristã busca soluções que amparem ambos."
+        }
+      ]
+    },
+    {
+      "id": "O04",
+      "term_id": "O04",
+      "call_label": "O04 - Chamar responsável confiável",
+      "case": "Uma jovem recebe ameaça de ser colocada para fora de casa e pede que ninguém conte; quem a ouve procura uma adulta confiável capaz de proteger.",
+      "conference_question": "Como decidir quando é necessário envolver alguém maduro sem expor a pessoa desnecessariamente?",
+      "anchors": [
+        "G09",
+        "G14",
+        "1Cor 14,33.40"
+      ],
+      "facilitator_note": "Sublinhe segurança, discrição e proteção; não incentive segredo absoluto em caso de risco.",
+      "reading_points": [
+        {
+          "title": "Pedido de segredo",
+          "body": "A jovem teme consequências e tenta carregar o risco sozinha."
+        },
+        {
+          "title": "Proteção maior",
+          "body": "Quando há ameaça, sigilo absoluto pode aumentar o perigo."
+        },
+        {
+          "title": "Ajuda responsável",
+          "body": "Chamar alguém confiável preserva ordem e cuidado proporcional."
+        }
+      ]
+    },
+    {
+      "id": "O05",
+      "term_id": "O05",
+      "call_label": "O05 - Recusar pressão",
+      "case": "Um homem é chamado a pagar parte do aborto e responde que não vai financiar nem pressionar, mas está disposto a assumir responsabilidades concretas.",
+      "conference_question": "Por que recusar cooperação deve vir acompanhada de responsabilidade real?",
+      "anchors": [
+        "B09",
+        "I02",
+        "G10"
+      ],
+      "facilitator_note": "Evite transformar recusa em abandono; a resposta inclui não cooperar e assumir o bem possível.",
+      "reading_points": [
+        {
+          "title": "Corte do mal",
+          "body": "Ele se recusa a financiar ou facilitar o aborto."
+        },
+        {
+          "title": "Responsabilidade positiva",
+          "body": "Não basta dizer não ao aborto e abandonar a gestante."
+        },
+        {
+          "title": "Conversão prática",
+          "body": "A resposta correta une recusa da cooperação e compromisso com mãe e filho."
+        }
+      ]
+    },
+    {
+      "id": "O06",
+      "term_id": "O06",
+      "call_label": "O06 - Sustentar o acompanhamento",
+      "case": "Depois de uma primeira ajuda, uma família combina revezar transporte para consultas e acompanhar a gestante nos meses seguintes.",
+      "conference_question": "O que torna o acompanhamento diferente de uma ajuda rápida que desaparece depois da crise inicial?",
+      "anchors": [
+        "Gl 6,1-2",
+        "I13",
+        "Tg 2,14-17"
+      ],
+      "facilitator_note": "Mostre que constância é parte da caridade, dentro dos limites reais de cada um.",
+      "reading_points": [
+        {
+          "title": "Ajuda continuada",
+          "body": "A resposta não termina na primeira conversa."
+        },
+        {
+          "title": "Carga partilhada",
+          "body": "A gestante não fica sozinha para enfrentar consultas, medo e necessidades."
+        },
+        {
+          "title": "Caridade concreta",
+          "body": "A fé age com obras proporcionais e sustentáveis."
+        }
+      ]
+    },
+    {
+      "id": "O07",
+      "term_id": "O07",
+      "call_label": "O07 - Buscar Confissão",
+      "case": "Uma pessoa reconhece ter cooperado com um aborto e, em vez de justificar tudo, marca conversa com um sacerdote para confessar.",
+      "conference_question": "Por que a Confissão é resposta concreta, e não apenas alívio emocional?",
+      "anchors": [
+        "CEC 1451-1460",
+        "B15",
+        "G11"
+      ],
+      "facilitator_note": "Fale com respeito sobre o sacramento, sem curiosidade sobre detalhes pessoais.",
+      "reading_points": [
+        {
+          "title": "Reconhecimento",
+          "body": "A pessoa deixa de fugir da própria responsabilidade."
+        },
+        {
+          "title": "Sacramento objetivo",
+          "body": "A Confissão oferece perdão de Deus, não simples esquecimento psicológico."
+        },
+        {
+          "title": "Conversão",
+          "body": "O caminho inclui arrependimento, absolvição e mudança concreta de vida."
+        }
+      ]
+    },
+    {
+      "id": "O08",
+      "term_id": "O08",
+      "call_label": "O08 - Reparar cooperação",
+      "case": "Quem antes indicou uma clínica reconhece o mal feito, procura Confissão e passa a ajudar discretamente uma obra que acolhe gestantes vulneráveis.",
+      "conference_question": "Como reparar sem fingir que é possível desfazer totalmente o dano causado?",
+      "anchors": [
+        "B09",
+        "B15",
+        "2Cor 5,18-20"
+      ],
+      "facilitator_note": "Explique reparação como fruto de conversão, não como compra do perdão.",
+      "reading_points": [
+        {
+          "title": "Culpa assumida",
+          "body": "A pessoa não disfarça a participação no mal."
+        },
+        {
+          "title": "Dano irreversível",
+          "body": "A vida perdida não pode ser recuperada por obras futuras."
+        },
+        {
+          "title": "Reparação possível",
+          "body": "A conversão busca perdão e assume ações reais em favor da vida."
+        }
+      ]
+    },
+    {
+      "id": "O09",
+      "term_id": "O09",
+      "call_label": "O09 - Formar a consciência",
+      "case": "Antes de aconselhar uma prima grávida, alguém lê o Catecismo, conversa com pessoa competente e abandona vídeos que tratavam o tema com ironia.",
+      "conference_question": "Por que formar a consciência é necessário antes de opinar ou orientar alguém em crise?",
+      "anchors": [
+        "CEC 1750-1756",
+        "B08",
+        "N09"
+      ],
+      "facilitator_note": "Mostre que boa vontade sem formação pode causar dano grave.",
+      "reading_points": [
+        {
+          "title": "Cuidado antes da fala",
+          "body": "A pessoa percebe que o tema exige responsabilidade."
+        },
+        {
+          "title": "Fontes confiáveis",
+          "body": "A consciência precisa ser formada pela verdade, não por ironia ou pressão cultural."
+        },
+        {
+          "title": "Conselho prudente",
+          "body": "Quem aconselha deve conhecer critérios morais básicos e limites da própria competência."
+        }
+      ]
+    },
+    {
+      "id": "O10",
+      "term_id": "O10",
+      "call_label": "O10 - Apoio material concreto",
+      "case": "Uma vizinha reúne fraldas, ajuda no transporte para consultas e procura uma rede de assistência para uma gestante sem renda.",
+      "conference_question": "Como o apoio material torna mais coerente a defesa cristã da vida?",
+      "anchors": [
+        "Tg 2,14-17",
+        "I09",
+        "G08"
+      ],
+      "facilitator_note": "Valorize ações simples e verificáveis, sem prometer solução total.",
+      "reading_points": [
+        {
+          "title": "Necessidade atendida",
+          "body": "A ajuda toca problemas reais como transporte, alimento e cuidado básico."
+        },
+        {
+          "title": "Coerência moral",
+          "body": "Defender a vida inclui reduzir pressões que empurram ao aborto."
+        },
+        {
+          "title": "Fé operosa",
+          "body": "A caridade cristã se torna visível em obras proporcionais."
+        }
+      ]
+    },
+    {
+      "id": "O11",
+      "term_id": "O11",
+      "call_label": "O11 - Orientar diagnóstico",
+      "case": "Depois de um exame preocupante, os pais buscam segunda opinião séria e perguntam quais cuidados podem preparar para receber e tratar a criança.",
+      "conference_question": "Como uma família pode usar o diagnóstico para cuidar, não para eliminar?",
+      "anchors": [
+        "CEC 2274",
+        "G07",
+        "I04"
+      ],
+      "facilitator_note": "Foque em prudência médica, informação honesta e finalidade de cuidado.",
+      "reading_points": [
+        {
+          "title": "Informação responsável",
+          "body": "A família não ignora o exame nem entra em desespero imediato."
+        },
+        {
+          "title": "Finalidade correta",
+          "body": "O diagnóstico é usado para orientar cuidado, tratamento e preparação."
+        },
+        {
+          "title": "Proteção da vida",
+          "body": "O Catecismo rejeita que o diagnóstico vire sentença de morte."
+        }
+      ]
+    },
+    {
+      "id": "O12",
+      "term_id": "O12",
+      "call_label": "O12 - Denunciar exploração",
+      "case": "Uma mulher recebe mensagens cobrando alto valor por remédios abortivos e ameaçando expô-la se desistir do pagamento.",
+      "conference_question": "Como agir contra exploração e coerção sem expor ainda mais a pessoa vulnerável?",
+      "anchors": [
+        "I06",
+        "G14",
+        "Pr 31,8-9"
+      ],
+      "facilitator_note": "Oriente para ajuda competente e proteção; não incentive confronto improvisado.",
+      "reading_points": [
+        {
+          "title": "Abuso claro",
+          "body": "Há cobrança, ameaça e manipulação de uma pessoa em crise."
+        },
+        {
+          "title": "Risco ampliado",
+          "body": "Exposição pública ou confronto sem preparo pode piorar a situação."
+        },
+        {
+          "title": "Denúncia prudente",
+          "body": "A resposta busca autoridade competente e cuidado seguro para a vítima."
+        }
+      ]
+    },
+    {
+      "id": "O13",
+      "term_id": "O13",
+      "call_label": "O13 - Defender lei justa",
+      "case": "Um cidadão escreve a representantes, participa de audiência e defende proteção ao nascituro junto com políticas de apoio a gestantes vulneráveis.",
+      "conference_question": "Como defender a vida na vida pública sem reduzir o tema a disputa superficial?",
+      "anchors": [
+        "CEC 2273",
+        "B12",
+        "I15"
+      ],
+      "facilitator_note": "Aponte para argumentos, ordem, caridade e compromisso com mãe e filho.",
+      "reading_points": [
+        {
+          "title": "Participação ordenada",
+          "body": "A pessoa age por meios públicos legítimos e responsáveis."
+        },
+        {
+          "title": "Proteção jurídica",
+          "body": "A lei deve reconhecer o direito à vida do nascituro."
+        },
+        {
+          "title": "Amparo conjunto",
+          "body": "Defender lei justa inclui sustentar políticas e ações que ajudem a gestante."
+        }
+      ]
+    },
+    {
+      "id": "O14",
+      "term_id": "O14",
+      "call_label": "O14 - Rezar com compromisso",
+      "case": "Um grupo reza por gestantes em crise e, na mesma semana, organiza uma lista simples de pessoas que podem oferecer transporte, alimento e escuta.",
+      "conference_question": "Como evitar que a oração vire desculpa para não fazer o bem possível?",
+      "anchors": [
+        "Tg 2,14-17",
+        "G15",
+        "Rm 12,21"
+      ],
+      "facilitator_note": "Mostre que oração e ação concreta não competem; uma purifica e sustenta a outra.",
+      "reading_points": [
+        {
+          "title": "Oração verdadeira",
+          "body": "A oração coloca a situação diante de Deus e forma o coração."
+        },
+        {
+          "title": "Responsabilidade assumida",
+          "body": "O grupo não usa a oração para fugir do que pode fazer."
+        },
+        {
+          "title": "Bem concreto",
+          "body": "A fé combate o mal com obras proporcionais de cuidado."
+        }
+      ]
+    },
+    {
+      "id": "O15",
+      "term_id": "O15",
+      "call_label": "O15 - Guardar a esperança",
+      "case": "Uma mulher que abortou no passado diz que não merece mais rezar; uma amiga a acompanha com discrição até buscar orientação espiritual.",
+      "conference_question": "Como sustentar esperança sem negar a verdade do pecado nem alimentar desespero?",
+      "anchors": [
+        "B15",
+        "Lc 15,11-32",
+        "2Cor 5,18-20"
+      ],
+      "facilitator_note": "Conduza para esperança concreta: acompanhamento, Confissão e vida nova.",
+      "reading_points": [
+        {
+          "title": "Desespero espiritual",
+          "body": "A culpa a faz pensar que Deus não a quer mais."
+        },
+        {
+          "title": "Verdade e misericórdia",
+          "body": "O pecado é grave, mas não maior que a misericórdia de Deus para quem se converte."
+        },
+        {
+          "title": "Acompanhamento",
+          "body": "A esperança se guarda com presença discreta e caminho sacramental."
+        }
+      ]
+    }
+  ]
+}

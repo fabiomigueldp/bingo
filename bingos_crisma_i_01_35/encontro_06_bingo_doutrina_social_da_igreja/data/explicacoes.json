@@ -1,0 +1,308 @@
+{
+  "title": "Carta de explicações rápidas — Bingo Doutrina Social da Igreja",
+  "meeting": "Encontro 06 — Doutrina Social da Igreja",
+  "source_calls": "data/chamadas.json",
+  "purpose": "Explicações breves para o condutor usar durante a chamada de cada carta.",
+  "entries": [
+    {
+      "id": "B01",
+      "explanation": "O erro aparece quando a riqueza deixa de ser meio e vira **senhor**. Jesus é direto: não se pode servir a Deus e à riqueza. A Doutrina Social começa colocando dinheiro, lucro e poder econômico sob o juízo de Deus."
+    },
+    {
+      "id": "B02",
+      "explanation": "A pessoa não vale pelo que produz, compra ou rende. Sua **dignidade** vem de Deus e permanece em qualquer condição social. Por isso a economia deve tratar trabalhadores, pobres e vulneráveis como pessoas, não como custos."
+    },
+    {
+      "id": "B03",
+      "explanation": "O **bem comum** não é vantagem para a maioria nem soma de interesses privados. Ele envolve condições concretas para uma vida digna. Transporte, saúde, segurança, trabalho e justiça entram nesse discernimento."
+    },
+    {
+      "id": "B04",
+      "explanation": "A propriedade não é negada, mas precisa ser moralmente ordenada. Os bens têm um **destino universal** e devem servir à vida humana. Acumular ou desperdiçar diante da necessidade grave fere essa ordem."
+    },
+    {
+      "id": "B05",
+      "explanation": "O trabalho é bom e participa da realização da pessoa. Mas ele se corrompe quando a pessoa vira instrumento da produção. O critério cristão é claro: **o trabalho é para o homem**, não o homem para o trabalho."
+    },
+    {
+      "id": "B06",
+      "explanation": "Salário não é esmola nem favor. É fruto legítimo do trabalho e deve permitir vida digna. Reter, reduzir ou atrasar injustamente o pagamento pode ser **grave injustiça**."
+    },
+    {
+      "id": "B07",
+      "explanation": "A justiça social olha para condições concretas que ferem a dignidade de muitos. Nem tudo se resolve por esforço individual ou por preço de mercado. A economia deve ficar dentro da **ordem moral** e servir às pessoas."
+    },
+    {
+      "id": "B08",
+      "explanation": "Solidariedade não é pena distante. É reconhecer o outro como **próximo** e assumir o bem possível. A fé cristã combate a indiferença com responsabilidade concreta."
+    },
+    {
+      "id": "B09",
+      "explanation": "A **subsidiariedade** protege a responsabilidade de famílias, comunidades e associações. O Estado não deve sufocar tudo, e a sociedade não deve abandonar seus deveres. Cada nível deve agir conforme sua competência."
+    },
+    {
+      "id": "B10",
+      "explanation": "A opção pelos pobres nasce do Evangelho, não de inveja nem de ideologia. Quem sofre privação precisa de atenção real e preferencial. Cristo se identifica com os pequenos e chama a uma **justiça concreta**."
+    },
+    {
+      "id": "B11",
+      "explanation": "A Igreja não governa o Estado nem oferece técnica para tudo. Mas ela tem missão de emitir **juízo moral** quando a dignidade, a justiça ou a salvação das almas estão em jogo. Fé e vida social não são mundos separados."
+    },
+    {
+      "id": "B12",
+      "explanation": "Os leigos têm vocação própria nas realidades temporais. Trabalho, política, economia e cultura são lugares de consciência cristã. A Doutrina Social chama os fiéis leigos a serem **artesãos da paz e da justiça**."
+    },
+    {
+      "id": "B13",
+      "explanation": "A economia tem métodos próprios, mas não está fora da moral. Lucro, eficiência e produção precisam respeitar a **justiça social**. Quando a pessoa é sacrificada ao resultado, a ordem econômica foi invertida."
+    },
+    {
+      "id": "B14",
+      "explanation": "A Igreja não cabe em ideologia de estimação. Ela rejeita totalitarismos ateus e também o individualismo que absolutiza o mercado. O cristão deixa a **fé julgar os sistemas**, não o contrário."
+    },
+    {
+      "id": "B15",
+      "explanation": "Paz não é silêncio imposto. Onde há injustiça encoberta, a ordem é falsa. A paz cristã exige **verdade, justiça e caridade**, sem confusão nem vingança."
+    },
+    {
+      "id": "I01",
+      "explanation": "O remédio inacessível mostra uma necessidade vital abandonada ao preço. Nem toda necessidade humana cabe no cálculo do mercado. O critério cristão pergunta pelo **bem comum** e pela vida concreta dos pobres."
+    },
+    {
+      "id": "I02",
+      "explanation": "Salário retido atinge diretamente a vida da família. Quem trabalhou tem direito ao fruto do próprio trabalho. A fé nomeia isso como questão de **justiça**, não de gentileza."
+    },
+    {
+      "id": "I03",
+      "explanation": "A jornada esmagadora revela trabalho desordenado. Quando descanso, saúde e família são consumidos, a produção tomou o lugar da pessoa. O trabalho precisa servir à **vida humana integral**."
+    },
+    {
+      "id": "I04",
+      "explanation": "O descarte de idosos nasce de medir a pessoa pela utilidade. Dependência, doença e velhice não reduzem a dignidade. O cuidado cristão reconhece o idoso como **pessoa**, não como peso."
+    },
+    {
+      "id": "I05",
+      "explanation": "Moradia precária não é só azar quando se repete entre os mais frágeis. Ela revela condições sociais injustas e previsíveis. O bem comum exige olhar para **moradia, segurança e dignidade**."
+    },
+    {
+      "id": "I06",
+      "explanation": "Compra por impulso pode revelar escravidão ao status. O problema não é possuir bens, mas deixar desejo e aparência governarem responsabilidades. Mt 6,24 chama a liberdade diante da **riqueza**."
+    },
+    {
+      "id": "I07",
+      "explanation": "Corrupção comum continua sendo corrupção. O pequeno valor não elimina o dano à justiça e à confiança pública. A fé pede retidão também nas práticas que parecem **normais**."
+    },
+    {
+      "id": "I08",
+      "explanation": "Lucro sem limite aparece quando o ganho pesa mais que a segurança e a vida. A pessoa não pode ser usada como custo calculável. A economia deve respeitar a **ordem moral**."
+    },
+    {
+      "id": "I09",
+      "explanation": "A pobreza invisível mostra o coração acostumado à miséria. Quando a pessoa vira paisagem, a solidariedade morre. O Evangelho chama a ver o pobre como **próximo concreto**."
+    },
+    {
+      "id": "I10",
+      "explanation": "Voto vendido explora necessidade real e destrói responsabilidade pública. O favor imediato cobra um preço sobre o bem comum. A consciência cristã exige liberdade diante da **compra política**."
+    },
+    {
+      "id": "I11",
+      "explanation": "Dívida abusiva usa a urgência do pobre contra ele. Nem toda condição legal é moralmente justa. A Doutrina Social pergunta se a economia protege ou captura a **vulnerabilidade**."
+    },
+    {
+      "id": "I12",
+      "explanation": "Trabalho informal explorado usa nomes convenientes para negar deveres. Autonomia falsa pode esconder risco transferido e proteção ausente. O trabalho digno exige **responsabilidade real** de quem se beneficia dele."
+    },
+    {
+      "id": "I13",
+      "explanation": "A fila dos vulneráveis revela diferença entre direito e influência. Quando o contato vence a necessidade, a justiça é ferida. O bem comum exige proteger quem tem **menos defesa**."
+    },
+    {
+      "id": "I14",
+      "explanation": "Terceirizar a culpa é uma forma de omissão. Problemas sociais costumam envolver responsabilidades em vários níveis. A subsidiariedade ajuda a identificar a **parte concreta** que cada um deve assumir."
+    },
+    {
+      "id": "I15",
+      "explanation": "Riqueza como senhor aparece em escolhas repetidas. Quando dinheiro governa afetos, família e consciência, a pessoa já está obedecendo a outro senhor. Mt 6,24 pede **conversão de prioridade**."
+    },
+    {
+      "id": "N01",
+      "explanation": "A narrativa 'mercado resolve tudo' dá ao mercado uma autoridade que ele não tem. Preço, demanda e lucro não decidem sozinhos o que é justo. Há necessidades humanas que exigem **critério moral**."
+    },
+    {
+      "id": "N02",
+      "explanation": "A narrativa 'Estado resolve tudo' transforma pessoas e comunidades em espectadores. O poder público tem deveres, mas não substitui toda responsabilidade social. A subsidiariedade pede **ação no nível adequado**."
+    },
+    {
+      "id": "N03",
+      "explanation": "Separar fé e política pode parecer prudente, mas muitas vezes vira incoerência. A fé ilumina contratos, votos, trabalho e economia. O cristão não deixa a consciência do lado de fora da **vida pública**."
+    },
+    {
+      "id": "N04",
+      "explanation": "Culpar automaticamente o pobre é julgamento injusto. A pobreza pode envolver doença, desemprego, exploração e abandono social. O Evangelho manda aproximar-se do ferido antes de lançar **acusação moral**."
+    },
+    {
+      "id": "N05",
+      "explanation": "Lucro não é automaticamente pecado, mas também não é automaticamente inocente. É preciso perguntar como ele foi obtido. Quando nasce de exploração ou dano, precisa ser julgado pela **justiça social**."
+    },
+    {
+      "id": "N06",
+      "explanation": "Contrato assinado não resolve tudo. Necessidade, medo e desigualdade podem ferir a liberdade de quem aceita. O Catecismo ensina que o acordo das partes não basta para justificar um **salário injusto**."
+    },
+    {
+      "id": "N07",
+      "explanation": "Cada um por si é a negação prática da solidariedade. A liberdade cristã não autoriza indiferença diante do próximo ferido. O bem comum exige **responsabilidade compartilhada**."
+    },
+    {
+      "id": "N08",
+      "explanation": "Todo mundo faz é anestesia da consciência. A repetição do erro não muda sua natureza moral. O cristão pergunta pelo que é **justo**, não apenas pelo que é comum."
+    },
+    {
+      "id": "N09",
+      "explanation": "Caridade não substitui justiça. Doar enquanto se explora é usar a bondade aparente para encobrir uma dívida moral. A caridade verdadeira começa por pagar o **devido**."
+    },
+    {
+      "id": "N10",
+      "explanation": "Justiça sem caridade vira vingança. O mal deve ser corrigido com verdade e consequência, mas sem humilhar ou desumanizar. A resposta cristã une **firmeza e caridade**."
+    },
+    {
+      "id": "N11",
+      "explanation": "Neutralidade pode ser prudência, mas também pode ser comodidade. Quando a omissão protege o forte e prejudica o fraco, ela deixa de ser neutra. A consciência cristã exige **coragem responsável**."
+    },
+    {
+      "id": "N12",
+      "explanation": "Riqueza não prova santidade, e pobreza não prova culpa. Confundir prosperidade com bênção moral distorce o Evangelho. Mt 6,24 impede fazer da riqueza um **sinal absoluto**."
+    },
+    {
+      "id": "N13",
+      "explanation": "Miséria inevitável é uma mentira paralisante. Nem tudo depende de nós, mas sempre há alguma responsabilidade possível. A fé cristã combate fatalismo com **conversão e ação justa**."
+    },
+    {
+      "id": "N14",
+      "explanation": "Ideologia de estimação usa a fé como confirmação de preferências. A Doutrina Social não é arma de um lado contra outro. Ela corrige todos os sistemas pela luz do **Evangelho**."
+    },
+    {
+      "id": "N15",
+      "explanation": "Sucesso acima de tudo é idolatria prática. Promoção, carreira e reconhecimento não justificam fraude ou abandono de deveres. Deus deve permanecer acima do **êxito**."
+    },
+    {
+      "id": "G01",
+      "explanation": "Pessoa e função precisam ser distinguidas. A função pode mudar, acabar ou ser avaliada; a dignidade permanece. Essa distinção impede tratar trabalhadores como **peças descartáveis**."
+    },
+    {
+      "id": "G02",
+      "explanation": "Lucro e exploração não são a mesma coisa. O lucro pode ser legítimo quando respeita justiça, salário e segurança. Torna-se injusto quando nasce do uso da pessoa como **meio descartável**."
+    },
+    {
+      "id": "G03",
+      "explanation": "Mercado e moral pertencem a níveis diferentes. O mercado mostra demanda e troca, mas não define sozinho o bem. A consciência cristã julga a economia pela **dignidade humana**."
+    },
+    {
+      "id": "G04",
+      "explanation": "Estado e sociedade têm responsabilidades reais. O Estado não deve abandonar seus deveres, e a sociedade não deve esperar tudo passivamente. A subsidiariedade organiza a **cooperação justa**."
+    },
+    {
+      "id": "G05",
+      "explanation": "Caridade e justiça não competem. A caridade socorre a necessidade imediata; a justiça enfrenta a causa do dano. Separá-las empobrece a resposta cristã."
+    },
+    {
+      "id": "G06",
+      "explanation": "Ajuda e dependência precisam ser discernidas. Ajudar não dá direito de controlar, expor ou comprar a pessoa vulnerável. A caridade deve fortalecer a **liberdade** do outro."
+    },
+    {
+      "id": "G07",
+      "explanation": "Prudência não é medo disfarçado. Ela busca o modo certo, seguro e proporcional de agir. Quando vira desculpa para não fazer o bem possível, tornou-se **omissão**."
+    },
+    {
+      "id": "G08",
+      "explanation": "Partido e doutrina não são a mesma coisa. A Doutrina Social orienta critérios, mas não vira adesão automática a candidato ou grupo. A fé deve formar a **consciência política**."
+    },
+    {
+      "id": "G09",
+      "explanation": "Pobreza e culpa exigem discernimento. Há responsabilidades pessoais, mas também doenças, salários baixos, injustiças e exclusões. Julgar tudo como culpa individual é **simplificação injusta**."
+    },
+    {
+      "id": "G10",
+      "explanation": "Direito protege o que é devido à dignidade e ao bem comum. Privilégio usa influência para tomar vantagem indevida. Confundir os dois corrompe a **justiça social**."
+    },
+    {
+      "id": "G11",
+      "explanation": "Autoridade legítima serve ao bem comum. Abuso usa poder para calar, dominar ou obter vantagem. O cristão respeita a autoridade, mas não chama abuso de **disciplina**."
+    },
+    {
+      "id": "G12",
+      "explanation": "Propriedade e destino universal dos bens caminham juntos. Possuir algo não elimina a responsabilidade pelo seu uso. Quando há necessidade grave, a propriedade deve ser lida à luz da **função social dos bens**."
+    },
+    {
+      "id": "G13",
+      "explanation": "Necessidade e desejo não são iguais. Desejos podem ser legítimos, mas precisam ser ordenados por deveres reais. Discernir consumo é parte da liberdade diante da **riqueza**."
+    },
+    {
+      "id": "G14",
+      "explanation": "Conflito não autoriza transformar pessoas em inimigos absolutos. A luta por justiça deve evitar ódio, ameaça e desumanização. O cristão pode resistir ao mal com **caridade firme**."
+    },
+    {
+      "id": "G15",
+      "explanation": "Carreira é bem importante, mas não é vocação inteira. A vida cristã ordena trabalho, família, serviço, descanso e oração. Quando a carreira vira senhor, precisa ser **recolocada em ordem**."
+    },
+    {
+      "id": "O01",
+      "explanation": "Pagar o devido é resposta concreta de justiça. Antes de conforto próprio, vem o salário ou a reparação devida. A fé não aceita espiritualizar uma dívida que precisa ser **quitada**."
+    },
+    {
+      "id": "O02",
+      "explanation": "Recusar propina protege a consciência e o bem comum. O atalho parece pequeno, mas alimenta uma estrutura injusta. A resposta cristã escolhe **integridade**, mesmo com custo."
+    },
+    {
+      "id": "O03",
+      "explanation": "Examinar consumo é pôr ordem no desejo. A pergunta não é só se posso comprar, mas por que quero comprar e o que isso compromete. Mt 6,24 ajuda a recuperar **liberdade interior**."
+    },
+    {
+      "id": "O04",
+      "explanation": "Defender salário justo pede firmeza e prudência. Reunir provas, buscar conversa e usar canais adequados torna a ação mais justa. A injustiça salarial não deve ser aceita como **normal**."
+    },
+    {
+      "id": "O05",
+      "explanation": "Servir sem dominar preserva a dignidade de quem recebe ajuda. A caridade não expõe, não compra apoio e não controla a vida do outro. Ela acompanha com **respeito e escuta**."
+    },
+    {
+      "id": "O06",
+      "explanation": "Cobrar com justiça é agir com verdade e medida. A firmeza não precisa virar boato, humilhação ou vingança. O cristão busca correção real com **proporção**."
+    },
+    {
+      "id": "O07",
+      "explanation": "Votar com consciência exige liberdade diante de favores e pressões. A política deve ser avaliada pelo bem comum, pela dignidade e pela justiça. O voto não é mercadoria, é **responsabilidade pública**."
+    },
+    {
+      "id": "O08",
+      "explanation": "Fortalecer o próximo é assumir o bem possível no nível próximo. Isso não elimina deveres do Estado ou de instituições maiores. A subsidiariedade cria **cooperação**, não abandono."
+    },
+    {
+      "id": "O09",
+      "explanation": "Denunciar com prudência é enfrentar o mal sem imprudência. Provas, canais seguros e cuidado com exposição protegem a verdade. A prudência cristã é **ação ordenada**, não silêncio covarde."
+    },
+    {
+      "id": "O10",
+      "explanation": "Reparar dano social exige mais que pedir desculpas. É preciso devolver, corrigir práticas e prevenir repetição. A justiça cristã busca **reparação concreta**."
+    },
+    {
+      "id": "O11",
+      "explanation": "Escutar os pobres impede paternalismo. Quem sofre privação tem voz, experiência e dignidade. A caridade cristã começa por reconhecer o outro como **sujeito**, não como objeto de projeto."
+    },
+    {
+      "id": "O12",
+      "explanation": "Organizar descanso é proteger a pessoa contra a idolatria da produção. Descanso, família e oração não são sobras do trabalho. Eles pertencem à **vida humana digna**."
+    },
+    {
+      "id": "O13",
+      "explanation": "Formar consciência social impede repetir slogans. A Doutrina Social oferece princípios de reflexão, critérios de juízo e orientação para agir. O cristão precisa estudar para discernir com **maturidade**."
+    },
+    {
+      "id": "O14",
+      "explanation": "Priorizar vulneráveis pode ser exigência de justiça. Tratar igualmente situações desiguais pode aumentar o dano. A opção pelos pobres orienta atenção a quem tem **maior risco** e menos defesa."
+    },
+    {
+      "id": "O15",
+      "explanation": "Rezar e agir pertencem à mesma fidelidade cristã. A oração não deve virar fuga da responsabilidade possível, e a ação não deve perder sua raiz em Deus. A resposta madura une **confiança e compromisso**."
+    }
+  ]
+}

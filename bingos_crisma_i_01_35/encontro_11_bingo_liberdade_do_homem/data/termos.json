@@ -1,0 +1,1130 @@
+{
+  "title": "Bingo — Liberdade do homem",
+  "meeting": "Encontro 11 — Liberdade do homem",
+  "meeting_label": "Encontro 11",
+  "output_slug": "bingo_liberdade_do_homem",
+  "core_message": "A liberdade humana não é licença para seguir impulsos, mas capacidade de escolher o bem na verdade, crescer diante de Deus e deixar-se libertar por Cristo.",
+  "source_meeting_markdown": "projects/catequese/material_didatico/output/markdown/encontro_11.md",
+  "scripture": [
+    "Gl 5,1",
+    "Eclo 15,14",
+    "Jo 8,32",
+    "2Cor 3,17",
+    "Gl 5,13",
+    "Rm 6,16",
+    "1Cor 6,12",
+    "Dt 30,19",
+    "Jo 15,5",
+    "Tg 1,14-15",
+    "1Pd 2,16",
+    "Mt 6,24",
+    "Rm 12,2"
+  ],
+  "catechism": [
+    "CEC 1730",
+    "CEC 1731",
+    "CEC 1732",
+    "CEC 1733",
+    "CEC 1739",
+    "CEC 1740",
+    "CEC 1741",
+    "CEC 1742"
+  ],
+  "card_model": {
+    "total_terms": 75,
+    "columns": 5,
+    "terms_per_column": 15,
+    "grid": "5x5",
+    "center": {
+      "label": "LIVRE / Gl 5,1",
+      "fixed": true,
+      "called": false
+    },
+    "recommended_win_condition": "duas_linhas"
+  },
+  "columns": [
+    {
+      "key": "B",
+      "title": "Base moral",
+      "function": "Fundamentos bíblicos e doutrinais para ler o tema.",
+      "short_function": "fundamento cristão do tema"
+    },
+    {
+      "key": "I",
+      "title": "Situações concretas",
+      "function": "Formas reais em que o tema aparece na vida concreta, em situações inteligíveis para a turma.",
+      "short_function": "situações concretas do tema"
+    },
+    {
+      "key": "N",
+      "title": "Narrativas falsas",
+      "function": "Desculpas, autoenganos e frases que desviam do bem.",
+      "short_function": "desculpas que normalizam o erro"
+    },
+    {
+      "key": "G",
+      "title": "Discernimentos",
+      "function": "Distinções morais que evitam respostas simplistas.",
+      "short_function": "distinções para discernir"
+    },
+    {
+      "key": "O",
+      "title": "Orientações de resposta",
+      "function": "Ações concretas, prudentes e proporcionais diante do problema.",
+      "short_function": "respostas proporcionais e prudentes"
+    }
+  ],
+  "terms": [
+    {
+      "id": "B01",
+      "column": "B",
+      "label": "Criado livre",
+      "definition": "Deus criou o ser humano com razão, vontade e dignidade pessoal, capaz de procurar o Criador e aderir livremente ao bem.",
+      "anchors": [
+        "CEC 1730",
+        "Eclo 15,14"
+      ],
+      "tags": [
+        "dignidade",
+        "livre-arbítrio"
+      ]
+    },
+    {
+      "id": "B02",
+      "column": "B",
+      "label": "Razão e vontade",
+      "definition": "A liberdade cristã não é mero impulso, mas poder de deliberar com a razão e escolher com a vontade.",
+      "anchors": [
+        "CEC 1731"
+      ],
+      "tags": [
+        "deliberação",
+        "vontade"
+      ]
+    },
+    {
+      "id": "B03",
+      "column": "B",
+      "label": "Atos deliberados",
+      "definition": "Os atos humanos propriamente morais são escolhas conscientes, capazes de mérito, culpa, crescimento ou queda.",
+      "anchors": [
+        "CEC 1731",
+        "CEC 1732"
+      ],
+      "tags": [
+        "ato moral",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "B04",
+      "column": "B",
+      "label": "Bem último",
+      "definition": "A liberdade alcança sua perfeição quando se ordena a Deus, que é o bem pleno e a bem-aventurança da pessoa.",
+      "anchors": [
+        "CEC 1731",
+        "Jo 15,5"
+      ],
+      "tags": [
+        "finalidade",
+        "Deus"
+      ]
+    },
+    {
+      "id": "B05",
+      "column": "B",
+      "label": "Serviço do bem",
+      "definition": "A verdadeira liberdade não está em fazer qualquer coisa, mas em servir ao bem e à justiça.",
+      "anchors": [
+        "CEC 1733",
+        "Gl 5,13"
+      ],
+      "tags": [
+        "justiça",
+        "bem"
+      ]
+    },
+    {
+      "id": "B06",
+      "column": "B",
+      "label": "Senhor dos atos",
+      "definition": "A pessoa é chamada a governar seus atos, não a se entregar sem discernimento ao temperamento, à pressão ou ao medo.",
+      "anchors": [
+        "CEC 1730",
+        "CEC 1731"
+      ],
+      "tags": [
+        "domínio de si",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "B07",
+      "column": "B",
+      "label": "Mérito e culpa",
+      "definition": "A liberdade torna possível louvor ou repreensão, mérito ou demérito, porque a escolha moral envolve responsabilidade real.",
+      "anchors": [
+        "CEC 1732"
+      ],
+      "tags": [
+        "mérito",
+        "culpa"
+      ]
+    },
+    {
+      "id": "B08",
+      "column": "B",
+      "label": "Liberdade finita",
+      "definition": "A liberdade humana é real, mas limitada e falível; por isso precisa de verdade, vigilância, formação e graça.",
+      "anchors": [
+        "CEC 1739",
+        "Tg 1,14-15"
+      ],
+      "tags": [
+        "limite",
+        "falibilidade"
+      ]
+    },
+    {
+      "id": "B09",
+      "column": "B",
+      "label": "Pecado escraviza",
+      "definition": "O mau uso da liberdade prende a pessoa ao pecado, rompe a fraternidade e enfraquece a capacidade de escolher o bem.",
+      "anchors": [
+        "CEC 1733",
+        "CEC 1739",
+        "Rm 6,16"
+      ],
+      "tags": [
+        "pecado",
+        "escravidão"
+      ]
+    },
+    {
+      "id": "B10",
+      "column": "B",
+      "label": "Graça libertadora",
+      "definition": "A graça de Cristo não concorre com a liberdade; ela cura, fortalece e educa a pessoa para escolher o bem.",
+      "anchors": [
+        "CEC 1742",
+        "Jo 15,5"
+      ],
+      "tags": [
+        "graça",
+        "cura"
+      ]
+    },
+    {
+      "id": "B11",
+      "column": "B",
+      "label": "Verdade que liberta",
+      "definition": "A liberdade amadurece quando a pessoa aceita a verdade sobre Deus, sobre si e sobre seus atos.",
+      "anchors": [
+        "Jo 8,32",
+        "CEC 1741"
+      ],
+      "tags": [
+        "verdade",
+        "conversão"
+      ]
+    },
+    {
+      "id": "B12",
+      "column": "B",
+      "label": "Espírito e liberdade",
+      "definition": "Onde age o Espírito do Senhor, a liberdade interior cresce para resistir às pressões e colaborar com a obra de Deus.",
+      "anchors": [
+        "2Cor 3,17",
+        "CEC 1742"
+      ],
+      "tags": [
+        "Espírito Santo",
+        "liberdade interior"
+      ]
+    },
+    {
+      "id": "B13",
+      "column": "B",
+      "label": "Lei moral",
+      "definition": "A lei moral não é inimiga da liberdade; ela orienta a pessoa para a verdade do bem e impede a escravidão do capricho.",
+      "anchors": [
+        "CEC 1740",
+        "1Pd 2,16"
+      ],
+      "tags": [
+        "lei moral",
+        "ordem"
+      ]
+    },
+    {
+      "id": "B14",
+      "column": "B",
+      "label": "Dignidade da pessoa",
+      "definition": "A liberdade existe em uma pessoa dotada de dignidade, nunca em um objeto descartável, manipulável ou reduzido a interesse.",
+      "anchors": [
+        "CEC 1730",
+        "Eclo 15,14"
+      ],
+      "tags": [
+        "pessoa",
+        "dignidade"
+      ]
+    },
+    {
+      "id": "B15",
+      "column": "B",
+      "label": "Vocação à perfeição",
+      "definition": "A liberdade é força de crescimento e amadurecimento na verdade e na bondade, até a plena perfeição em Deus.",
+      "anchors": [
+        "CEC 1731",
+        "CEC 1733"
+      ],
+      "tags": [
+        "amadurecimento",
+        "santidade"
+      ]
+    },
+    {
+      "id": "I01",
+      "column": "I",
+      "label": "Mentira encadeada",
+      "definition": "Situação em que uma mentira inicial exige novas mentiras para se sustentar, prendendo a pessoa ao medo e à falsidade.",
+      "anchors": [
+        "B09",
+        "Jo 8,32"
+      ],
+      "tags": [
+        "mentira",
+        "escravidão"
+      ]
+    },
+    {
+      "id": "I02",
+      "column": "I",
+      "label": "Vício digital",
+      "definition": "Uso compulsivo de telas, jogos, apostas ou conteúdos que rouba domínio de si, tempo, atenção e responsabilidade.",
+      "anchors": [
+        "B08",
+        "1Cor 6,12"
+      ],
+      "tags": [
+        "compulsão",
+        "domínio de si"
+      ]
+    },
+    {
+      "id": "I03",
+      "column": "I",
+      "label": "Dívida por consumo",
+      "definition": "Endividamento causado pela busca de aparência, prazer imediato ou status, sem prudência diante das obrigações reais.",
+      "anchors": [
+        "B02",
+        "CEC 1740"
+      ],
+      "tags": [
+        "consumo",
+        "prudência"
+      ]
+    },
+    {
+      "id": "I04",
+      "column": "I",
+      "label": "Corrupção cotidiana",
+      "definition": "Escolha de pequenas fraudes, propinas ou jeitinhos que parecem úteis, mas corroem a justiça e a liberdade moral.",
+      "anchors": [
+        "B05",
+        "CEC 1733"
+      ],
+      "tags": [
+        "justiça",
+        "fraude"
+      ]
+    },
+    {
+      "id": "I05",
+      "column": "I",
+      "label": "Pressão no trabalho",
+      "definition": "Situação em que autoridade, salário ou medo de demissão são usados para empurrar alguém a agir contra a consciência.",
+      "anchors": [
+        "B12",
+        "CEC 1740"
+      ],
+      "tags": [
+        "coação",
+        "trabalho"
+      ]
+    },
+    {
+      "id": "I06",
+      "column": "I",
+      "label": "Relação controladora",
+      "definition": "Vínculo afetivo em que uma pessoa confunde amor com posse, vigilância, chantagem ou domínio sobre a outra.",
+      "anchors": [
+        "B14",
+        "G12"
+      ],
+      "tags": [
+        "controle",
+        "afetividade"
+      ]
+    },
+    {
+      "id": "I07",
+      "column": "I",
+      "label": "Exposição por vingança",
+      "definition": "Divulgação de conversas, imagens ou informações íntimas para ferir, humilhar ou recuperar poder sobre alguém.",
+      "anchors": [
+        "B14",
+        "G11"
+      ],
+      "tags": [
+        "vingança",
+        "exposição"
+      ]
+    },
+    {
+      "id": "I08",
+      "column": "I",
+      "label": "Abandono do dever",
+      "definition": "Fuga de responsabilidades assumidas, especialmente quando outras pessoas dependem de cuidado, presença ou sustento.",
+      "anchors": [
+        "B03",
+        "B07"
+      ],
+      "tags": [
+        "dever",
+        "omissão"
+      ]
+    },
+    {
+      "id": "I09",
+      "column": "I",
+      "label": "Assinatura fraudulenta",
+      "definition": "Uso indevido do nome, da confiança ou da fragilidade de outra pessoa para obter vantagem injusta.",
+      "anchors": [
+        "B05",
+        "B14"
+      ],
+      "tags": [
+        "fraude",
+        "abuso"
+      ]
+    },
+    {
+      "id": "I10",
+      "column": "I",
+      "label": "Propaganda enganosa",
+      "definition": "Promoção de produto, promessa ou serviço com informações falsas ou manipuladas para explorar confiança e desejo.",
+      "anchors": [
+        "B11",
+        "CEC 1740"
+      ],
+      "tags": [
+        "verdade",
+        "manipulação"
+      ]
+    },
+    {
+      "id": "I11",
+      "column": "I",
+      "label": "Exploração de fraqueza",
+      "definition": "Aproveitar a necessidade, ignorância, dependência ou desespero de alguém para lucrar ou dominar.",
+      "anchors": [
+        "B14",
+        "CEC 1740"
+      ],
+      "tags": [
+        "injustiça",
+        "vulnerabilidade"
+      ]
+    },
+    {
+      "id": "I12",
+      "column": "I",
+      "label": "Fuga pela bebida",
+      "definition": "Uso da bebida como escape de dor, culpa ou pressão, até perder domínio de si e ferir vínculos e deveres.",
+      "anchors": [
+        "B08",
+        "B09"
+      ],
+      "tags": [
+        "fuga",
+        "vício"
+      ]
+    },
+    {
+      "id": "I13",
+      "column": "I",
+      "label": "Silêncio por medo",
+      "definition": "Omissão diante de um mal visto ou conhecido por receio de conflito, perda, rejeição ou represália.",
+      "anchors": [
+        "B06",
+        "G10"
+      ],
+      "tags": [
+        "medo",
+        "omissão"
+      ]
+    },
+    {
+      "id": "I14",
+      "column": "I",
+      "label": "Promessa quebrada",
+      "definition": "Descumprimento de palavra dada ou compromisso assumido, tratando a confiança do outro como detalhe descartável.",
+      "anchors": [
+        "B03",
+        "B07"
+      ],
+      "tags": [
+        "promessa",
+        "confiança"
+      ]
+    },
+    {
+      "id": "I15",
+      "column": "I",
+      "label": "Descarte do frágil",
+      "definition": "Tratamento de doentes, idosos, pobres ou dependentes como peso inútil, em vez de pessoas com dignidade.",
+      "anchors": [
+        "B14",
+        "CEC 1740"
+      ],
+      "tags": [
+        "fragilidade",
+        "dignidade"
+      ]
+    },
+    {
+      "id": "N01",
+      "column": "N",
+      "label": "Sem limites",
+      "definition": "Narrativa que confunde liberdade com ausência de regras, vínculos, compromissos e consequências.",
+      "anchors": [
+        "CEC 1740",
+        "1Pd 2,16"
+      ],
+      "tags": [
+        "licença",
+        "limites"
+      ]
+    },
+    {
+      "id": "N02",
+      "column": "N",
+      "label": "Falsa autonomia",
+      "definition": "Autoengano de quem usa a própria vida como argumento para negar responsabilidades diante de Deus e dos outros.",
+      "anchors": [
+        "B04",
+        "Gl 5,13"
+      ],
+      "tags": [
+        "autonomia",
+        "egoísmo"
+      ]
+    },
+    {
+      "id": "N03",
+      "column": "N",
+      "label": "Só sigo meu desejo",
+      "definition": "Desculpa que transforma desejo em autoridade final, mesmo quando ele conduz ao mal ou trai a verdade da pessoa.",
+      "anchors": [
+        "B02",
+        "G02"
+      ],
+      "tags": [
+        "desejo",
+        "impulso"
+      ]
+    },
+    {
+      "id": "N04",
+      "column": "N",
+      "label": "Ninguém manda em mim",
+      "definition": "Narrativa que rejeita toda autoridade, conselho ou correção como ameaça, mesmo quando apontam para o bem.",
+      "anchors": [
+        "B13",
+        "CEC 1740"
+      ],
+      "tags": [
+        "autoridade",
+        "rebeldia"
+      ]
+    },
+    {
+      "id": "N05",
+      "column": "N",
+      "label": "Todo mundo faz",
+      "definition": "Desculpa que tenta transformar frequência social em critério moral, como se o erro deixasse de ser erro por ser comum.",
+      "anchors": [
+        "Rm 12,2",
+        "B11"
+      ],
+      "tags": [
+        "conformismo",
+        "autoengano"
+      ]
+    },
+    {
+      "id": "N06",
+      "column": "N",
+      "label": "Eu mereço agora",
+      "definition": "Narrativa que usa carência, cansaço ou desejo de recompensa para justificar escolhas injustas ou imprudentes.",
+      "anchors": [
+        "B08",
+        "Tg 1,14-15"
+      ],
+      "tags": [
+        "imediatismo",
+        "justificativa"
+      ]
+    },
+    {
+      "id": "N07",
+      "column": "N",
+      "label": "Não prejudico ninguém",
+      "definition": "Autoengano que ignora danos indiretos, vínculos quebrados, escândalo, dependência e erosão da própria liberdade.",
+      "anchors": [
+        "CEC 1740",
+        "Gl 5,13"
+      ],
+      "tags": [
+        "dano oculto",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "N08",
+      "column": "N",
+      "label": "Depois eu paro",
+      "definition": "Ilusão de controle que adia a conversão enquanto o hábito mau cresce e a liberdade interior diminui.",
+      "anchors": [
+        "B09",
+        "1Cor 6,12"
+      ],
+      "tags": [
+        "vício",
+        "adiamento"
+      ]
+    },
+    {
+      "id": "N09",
+      "column": "N",
+      "label": "Culpa do sistema",
+      "definition": "Desculpa que reconhece injustiças reais, mas as usa para negar a responsabilidade pessoal pelo mal escolhido.",
+      "anchors": [
+        "B07",
+        "CEC 1740"
+      ],
+      "tags": [
+        "responsabilidade",
+        "injustiça"
+      ]
+    },
+    {
+      "id": "N10",
+      "column": "N",
+      "label": "Misericórdia barata",
+      "definition": "Abuso da bondade de Deus para permanecer no pecado sem arrependimento, reparação ou mudança de vida.",
+      "anchors": [
+        "B10",
+        "B11"
+      ],
+      "tags": [
+        "misericórdia",
+        "arrependimento"
+      ]
+    },
+    {
+      "id": "N11",
+      "column": "N",
+      "label": "Sinceridade basta",
+      "definition": "Narrativa que confunde falar o que sente com agir bem, sem medir verdade, caridade, justiça e consequência.",
+      "anchors": [
+        "G11",
+        "Gl 5,13"
+      ],
+      "tags": [
+        "sinceridade",
+        "caridade"
+      ]
+    },
+    {
+      "id": "N12",
+      "column": "N",
+      "label": "Resultado justifica",
+      "definition": "Desculpa que tenta legitimar mentira, violência ou injustiça porque o objetivo parece útil ou vitorioso.",
+      "anchors": [
+        "B05",
+        "CEC 1733"
+      ],
+      "tags": [
+        "meios",
+        "justiça"
+      ]
+    },
+    {
+      "id": "N13",
+      "column": "N",
+      "label": "Amor é posse",
+      "definition": "Narrativa que chama de amor o controle, o ciúme dominador, a chantagem e a invasão da liberdade do outro.",
+      "anchors": [
+        "I06",
+        "G12"
+      ],
+      "tags": [
+        "amor",
+        "controle"
+      ]
+    },
+    {
+      "id": "N14",
+      "column": "N",
+      "label": "Verdade é agressão",
+      "definition": "Narrativa que trata qualquer correção ou palavra objetiva como violência, impedindo conversão e discernimento.",
+      "anchors": [
+        "B11",
+        "G11"
+      ],
+      "tags": [
+        "verdade",
+        "correção"
+      ]
+    },
+    {
+      "id": "N15",
+      "column": "N",
+      "label": "Regras me oprimem",
+      "definition": "Autoengano que vê toda norma como inimiga, sem distinguir regra justa, limite educativo e abuso real.",
+      "anchors": [
+        "B13",
+        "G05"
+      ],
+      "tags": [
+        "regra",
+        "limite"
+      ]
+    },
+    {
+      "id": "G01",
+      "column": "G",
+      "label": "Liberdade ou impulso",
+      "definition": "Distingue escolha verdadeiramente livre de reação imediata dominada por raiva, medo, prazer ou pressão.",
+      "anchors": [
+        "B02",
+        "CEC 1731"
+      ],
+      "tags": [
+        "impulso",
+        "discernimento"
+      ]
+    },
+    {
+      "id": "G02",
+      "column": "G",
+      "label": "Desejo ou bem",
+      "definition": "Distingue o que a pessoa quer em determinado momento daquilo que realmente a conduz ao bem e à verdade.",
+      "anchors": [
+        "B04",
+        "Tg 1,14-15"
+      ],
+      "tags": [
+        "desejo",
+        "bem"
+      ]
+    },
+    {
+      "id": "G03",
+      "column": "G",
+      "label": "Pessoa ou ato",
+      "definition": "Distingue a dignidade inviolável da pessoa da avaliação moral de seus atos, que podem ser bons ou maus.",
+      "anchors": [
+        "B14",
+        "CEC 1732"
+      ],
+      "tags": [
+        "dignidade",
+        "ato moral"
+      ]
+    },
+    {
+      "id": "G04",
+      "column": "G",
+      "label": "Culpa e responsabilidade",
+      "definition": "Distingue a gravidade objetiva de um ato dos fatores que podem aumentar, diminuir ou ferir a responsabilidade subjetiva.",
+      "anchors": [
+        "B07",
+        "B08"
+      ],
+      "tags": [
+        "culpa",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "G05",
+      "column": "G",
+      "label": "Limite ou prisão",
+      "definition": "Distingue limite que protege e educa da prisão que oprime, manipula ou impede o bem.",
+      "anchors": [
+        "B13",
+        "CEC 1740"
+      ],
+      "tags": [
+        "limite",
+        "libertação"
+      ]
+    },
+    {
+      "id": "G06",
+      "column": "G",
+      "label": "Consciência ou capricho",
+      "definition": "Distingue juízo moral formado diante da verdade de preferência pessoal usada para evitar dever ou correção.",
+      "anchors": [
+        "B02",
+        "B11"
+      ],
+      "tags": [
+        "consciência",
+        "capricho"
+      ]
+    },
+    {
+      "id": "G07",
+      "column": "G",
+      "label": "Autonomia ou isolamento",
+      "definition": "Distingue maturidade para decidir do fechamento orgulhoso que recusa vínculos, conselho e responsabilidade.",
+      "anchors": [
+        "B06",
+        "Gl 5,13"
+      ],
+      "tags": [
+        "autonomia",
+        "vínculo"
+      ]
+    },
+    {
+      "id": "G08",
+      "column": "G",
+      "label": "Graça ou concorrência",
+      "definition": "Distingue a ajuda de Deus, que fortalece a liberdade, da ideia falsa de que Deus decide no lugar da pessoa.",
+      "anchors": [
+        "B10",
+        "CEC 1742"
+      ],
+      "tags": [
+        "graça",
+        "cooperação"
+      ]
+    },
+    {
+      "id": "G09",
+      "column": "G",
+      "label": "Acolhida ou aprovação",
+      "definition": "Distingue receber a pessoa com dignidade de confirmar ou normalizar uma escolha moralmente errada.",
+      "anchors": [
+        "G03",
+        "B14"
+      ],
+      "tags": [
+        "acolhida",
+        "aprovação"
+      ]
+    },
+    {
+      "id": "G10",
+      "column": "G",
+      "label": "Prudência ou omissão",
+      "definition": "Distingue agir com cuidado, tempo e meios proporcionais de usar a cautela como desculpa para não enfrentar o mal.",
+      "anchors": [
+        "I13",
+        "B05"
+      ],
+      "tags": [
+        "prudência",
+        "omissão"
+      ]
+    },
+    {
+      "id": "G11",
+      "column": "G",
+      "label": "Verdade ou humilhação",
+      "definition": "Distingue dizer a verdade para corrigir e salvar de expor o outro para vencer, ferir ou dominar.",
+      "anchors": [
+        "B11",
+        "Gl 5,13"
+      ],
+      "tags": [
+        "verdade",
+        "caridade"
+      ]
+    },
+    {
+      "id": "G12",
+      "column": "G",
+      "label": "Amor ou controle",
+      "definition": "Distingue cuidado verdadeiro de posse, vigilância, chantagem emocional ou domínio sobre a liberdade alheia.",
+      "anchors": [
+        "I06",
+        "B14"
+      ],
+      "tags": [
+        "amor",
+        "controle"
+      ]
+    },
+    {
+      "id": "G13",
+      "column": "G",
+      "label": "Lei ou legalismo",
+      "definition": "Distingue a norma justa que orienta o bem da aplicação rígida que esquece a finalidade moral da lei.",
+      "anchors": [
+        "B13",
+        "CEC 1740"
+      ],
+      "tags": [
+        "lei",
+        "discernimento"
+      ]
+    },
+    {
+      "id": "G14",
+      "column": "G",
+      "label": "Arrependimento ou medo",
+      "definition": "Distingue conversão real, que reconhece o mal e busca reparar, de simples medo de ser descoberto ou punido.",
+      "anchors": [
+        "N10",
+        "B11"
+      ],
+      "tags": [
+        "arrependimento",
+        "conversão"
+      ]
+    },
+    {
+      "id": "G15",
+      "column": "G",
+      "label": "Liberdade ou licença",
+      "definition": "Distingue a liberdade ordenada ao bem da licença que se dá permissão para ferir, mentir ou destruir.",
+      "anchors": [
+        "B05",
+        "N01"
+      ],
+      "tags": [
+        "licença",
+        "bem"
+      ]
+    },
+    {
+      "id": "O01",
+      "column": "O",
+      "label": "Nomear a escolha",
+      "definition": "Parar antes de agir e dizer claramente qual escolha está sendo feita, sem esconder o ato atrás de desculpas vagas.",
+      "anchors": [
+        "B03",
+        "B11"
+      ],
+      "tags": [
+        "clareza",
+        "decisão"
+      ]
+    },
+    {
+      "id": "O02",
+      "column": "O",
+      "label": "Cortar o gatilho",
+      "definition": "Remover acesso, ambiente, rotina ou ocasião que alimenta um hábito mau quando a liberdade já está enfraquecida.",
+      "anchors": [
+        "B08",
+        "B09"
+      ],
+      "tags": [
+        "ocasião",
+        "vício"
+      ]
+    },
+    {
+      "id": "O03",
+      "column": "O",
+      "label": "Pedir ajuda concreta",
+      "definition": "Buscar uma pessoa, serviço ou autoridade capaz de ajudar de modo real, sem fingir controle onde há risco ou queda repetida.",
+      "anchors": [
+        "B08",
+        "O12"
+      ],
+      "tags": [
+        "ajuda",
+        "humildade"
+      ]
+    },
+    {
+      "id": "O04",
+      "column": "O",
+      "label": "Confessar e recomeçar",
+      "definition": "Levar o pecado a Deus com arrependimento, receber a graça e assumir passos concretos de mudança.",
+      "anchors": [
+        "B10",
+        "B11",
+        "Gl 5,1"
+      ],
+      "tags": [
+        "confissão",
+        "recomeço"
+      ]
+    },
+    {
+      "id": "O05",
+      "column": "O",
+      "label": "Reparar o dano",
+      "definition": "Reconhecer o mal causado e fazer restituição, correção ou pedido de perdão proporcional ao dano produzido.",
+      "anchors": [
+        "B07",
+        "G14"
+      ],
+      "tags": [
+        "reparação",
+        "justiça"
+      ]
+    },
+    {
+      "id": "O06",
+      "column": "O",
+      "label": "Assumir limite claro",
+      "definition": "Estabelecer um limite justo e comunicável diante de pressão, abuso, tentação ou risco de queda.",
+      "anchors": [
+        "G05",
+        "B13"
+      ],
+      "tags": [
+        "limite",
+        "prudência"
+      ]
+    },
+    {
+      "id": "O07",
+      "column": "O",
+      "label": "Dizer não com firmeza",
+      "definition": "Recusar participação em erro, fraude, violência ou manipulação, com palavra direta e sem agressividade.",
+      "anchors": [
+        "B05",
+        "G15"
+      ],
+      "tags": [
+        "recusa",
+        "firmeza"
+      ]
+    },
+    {
+      "id": "O08",
+      "column": "O",
+      "label": "Ordenar rotina",
+      "definition": "Organizar tempo, sono, trabalho, estudo, oração e descanso para que a liberdade não fique entregue ao improviso e ao impulso.",
+      "anchors": [
+        "B06",
+        "CEC 1731"
+      ],
+      "tags": [
+        "rotina",
+        "domínio de si"
+      ]
+    },
+    {
+      "id": "O09",
+      "column": "O",
+      "label": "Escolher serviço",
+      "definition": "Transformar liberdade em disponibilidade concreta para o bem do outro, em vez de viver apenas para satisfação própria.",
+      "anchors": [
+        "B05",
+        "Gl 5,13"
+      ],
+      "tags": [
+        "serviço",
+        "caridade"
+      ]
+    },
+    {
+      "id": "O10",
+      "column": "O",
+      "label": "Formar a consciência",
+      "definition": "Buscar verdade moral em oração, Escritura, ensinamento da Igreja e conselho sério antes de decidir.",
+      "anchors": [
+        "B02",
+        "B11",
+        "Rm 12,2"
+      ],
+      "tags": [
+        "consciência",
+        "formação"
+      ]
+    },
+    {
+      "id": "O11",
+      "column": "O",
+      "label": "Romper cumplicidade",
+      "definition": "Deixar de sustentar o mal por silêncio, repasse, cobertura, assinatura, dinheiro, presença ou aprovação.",
+      "anchors": [
+        "I13",
+        "B05"
+      ],
+      "tags": [
+        "cumplicidade",
+        "coragem"
+      ]
+    },
+    {
+      "id": "O12",
+      "column": "O",
+      "label": "Buscar acompanhamento",
+      "definition": "Aceitar acompanhamento espiritual, familiar, profissional ou comunitário quando a escolha isolada não basta para mudar.",
+      "anchors": [
+        "B10",
+        "B12"
+      ],
+      "tags": [
+        "acompanhamento",
+        "cura"
+      ]
+    },
+    {
+      "id": "O13",
+      "column": "O",
+      "label": "Praticar renúncia",
+      "definition": "Escolher pequenas e reais renúncias para educar a vontade e diminuir o domínio do prazer imediato.",
+      "anchors": [
+        "B06",
+        "B15"
+      ],
+      "tags": [
+        "renúncia",
+        "vontade"
+      ]
+    },
+    {
+      "id": "O14",
+      "column": "O",
+      "label": "Rezar com decisão",
+      "definition": "Pedir a graça de Deus enquanto se assume uma decisão concreta, sem usar a oração como fuga da responsabilidade.",
+      "anchors": [
+        "B10",
+        "G08"
+      ],
+      "tags": [
+        "oração",
+        "decisão"
+      ]
+    },
+    {
+      "id": "O15",
+      "column": "O",
+      "label": "Perseverar no bem",
+      "definition": "Manter escolhas boas ao longo do tempo, mesmo sem entusiasmo inicial, para crescer em verdadeira liberdade.",
+      "anchors": [
+        "B15",
+        "CEC 1733"
+      ],
+      "tags": [
+        "perseverança",
+        "amadurecimento"
+      ]
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
-  "buildCommand": "cd encontro_04_bingo_violencia_discriminacao/pwa && npm ci && npm run build",
-  "outputDirectory": "encontro_04_bingo_violencia_discriminacao/pwa/dist",
+  "buildCommand": "cd pwa && npm ci && npm run build",
+  "outputDirectory": "pwa/dist",
   "cleanUrls": true,
   "headers": [
     {

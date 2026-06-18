@@ -1,0 +1,1276 @@
+{
+  "title": "Bingo — Cultura atual",
+  "meeting": "Encontro 01 — Cultura atual",
+  "meeting_label": "Encontro 01",
+  "output_slug": "bingo_cultura_atual",
+  "core_message": "Cristo é a Verdade que liberta; sua Palavra forma a consciência, purifica a cultura e educa a liberdade para escolher o bem.",
+  "source_meeting_markdown": "projects/catequese/material_didatico/output/markdown/encontro_01.md",
+  "scripture": [
+    "Jo 8,31-32",
+    "Jo 14,6",
+    "Jo 8,12",
+    "Jo 16,13",
+    "Mt 5,37",
+    "1Jo 1,6",
+    "Sl 119,90",
+    "Rm 3,4",
+    "Gn 1,27",
+    "Ef 4,25",
+    "Mt 5,27-28",
+    "Mt 18,15",
+    "1Cor 6,19-20",
+    "Fl 4,8",
+    "Tg 3,5-10",
+    "Gl 5,1",
+    "Gl 5,13",
+    "Rm 12,2",
+    "Jo 20,22-23"
+  ],
+  "catechism": [
+    "CEC 2525",
+    "CEC 2526",
+    "CEC 2527",
+    "CEC 2465",
+    "CEC 2466",
+    "CEC 2467",
+    "CEC 2468",
+    "CEC 2469",
+    "CEC 2470",
+    "CEC 1783",
+    "CEC 1784",
+    "CEC 1785",
+    "CEC 1733"
+  ],
+  "card_model": {
+    "total_terms": 75,
+    "columns": 5,
+    "terms_per_column": 15,
+    "grid": "5x5",
+    "center": {
+      "label": "LIVRE / Jo 8,31-32; Jo 14,6",
+      "fixed": true,
+      "called": false
+    },
+    "recommended_win_condition": "duas_linhas"
+  },
+  "columns": [
+    {
+      "key": "B",
+      "title": "Base moral",
+      "function": "Fundamentos bíblicos e doutrinais para ler o tema.",
+      "short_function": "fundamento cristão do tema"
+    },
+    {
+      "key": "I",
+      "title": "Situações concretas",
+      "function": "Formas reais em que o tema aparece na vida concreta, em situações inteligíveis para a turma.",
+      "short_function": "situações concretas do tema"
+    },
+    {
+      "key": "N",
+      "title": "Narrativas falsas",
+      "function": "Desculpas, autoenganos e frases que desviam do bem.",
+      "short_function": "desculpas que normalizam o erro"
+    },
+    {
+      "key": "G",
+      "title": "Discernimentos",
+      "function": "Distinções morais que evitam respostas simplistas.",
+      "short_function": "distinções para discernir"
+    },
+    {
+      "key": "O",
+      "title": "Orientações de resposta",
+      "function": "Ações concretas, prudentes e proporcionais diante do problema.",
+      "short_function": "respostas proporcionais e prudentes"
+    }
+  ],
+  "terms": [
+    {
+      "id": "B01",
+      "column": "B",
+      "label": "Verdade em Cristo",
+      "definition": "A verdade não é fabricada pelo sentimento individual; ela tem sua fonte em Deus e se manifesta plenamente em Jesus Cristo.",
+      "anchors": [
+        "Jo 14,6",
+        "CEC 2466",
+        "Jo 8,12"
+      ],
+      "tags": [
+        "verdade",
+        "cristo",
+        "doutrina"
+      ]
+    },
+    {
+      "id": "B02",
+      "column": "B",
+      "label": "Palavra que liberta",
+      "definition": "A liberdade cristã nasce de permanecer na palavra de Jesus, conhecer a verdade e deixar-se conduzir por ela.",
+      "anchors": [
+        "Jo 8,31-32",
+        "CEC 2466"
+      ],
+      "tags": [
+        "palavra",
+        "liberdade",
+        "discipulado"
+      ]
+    },
+    {
+      "id": "B03",
+      "column": "B",
+      "label": "Consciência formada",
+      "definition": "A consciência deve ser educada para julgar segundo o bem verdadeiro, e não segundo medo, pressão, orgulho ou preferência pessoal.",
+      "anchors": [
+        "CEC 1783",
+        "CEC 1785"
+      ],
+      "tags": [
+        "consciência",
+        "formação",
+        "juízo moral"
+      ]
+    },
+    {
+      "id": "B04",
+      "column": "B",
+      "label": "Liberdade para o bem",
+      "definition": "A liberdade cresce quando escolhe o bem e se corrompe quando usa a escolha para justificar desobediência, egoísmo ou pecado.",
+      "anchors": [
+        "CEC 1733",
+        "Gl 5,13"
+      ],
+      "tags": [
+        "liberdade",
+        "bem",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "B05",
+      "column": "B",
+      "label": "Lei moral",
+      "definition": "A lei moral não destrói a liberdade; educa a pessoa para reconhecer o bem e ordenar seus atos à justiça e à verdade.",
+      "anchors": [
+        "CEC 2526",
+        "CEC 1783"
+      ],
+      "tags": [
+        "lei moral",
+        "ordem",
+        "educação"
+      ]
+    },
+    {
+      "id": "B06",
+      "column": "B",
+      "label": "Dignidade moral",
+      "definition": "A pessoa humana possui dignidade moral e espiritual, por isso não pode ser tratada como objeto de uso, consumo, manipulação ou descarte.",
+      "anchors": [
+        "Gn 1,27",
+        "CEC 2526"
+      ],
+      "tags": [
+        "dignidade",
+        "pessoa",
+        "antropologia"
+      ]
+    },
+    {
+      "id": "B07",
+      "column": "B",
+      "label": "Pureza do coração",
+      "definition": "A pureza cristã ordena o olhar, o desejo e os costumes para que a pessoa veja o outro com dignidade, não como objeto.",
+      "anchors": [
+        "CEC 2525",
+        "Mt 5,27-28"
+      ],
+      "tags": [
+        "pureza",
+        "desejo",
+        "coração"
+      ]
+    },
+    {
+      "id": "B08",
+      "column": "B",
+      "label": "Veracidade",
+      "definition": "A veracidade é a virtude de agir e falar conforme a verdade, evitando duplicidade, simulação, hipocrisia e mentira conveniente.",
+      "anchors": [
+        "CEC 2468",
+        "Mt 5,37"
+      ],
+      "tags": [
+        "verdade",
+        "fala",
+        "virtude"
+      ]
+    },
+    {
+      "id": "B09",
+      "column": "B",
+      "label": "Confiança social",
+      "definition": "A vida comum depende de confiança recíproca; quando a mentira se normaliza, a convivência fica ferida na justiça.",
+      "anchors": [
+        "CEC 2469",
+        "Ef 4,25"
+      ],
+      "tags": [
+        "confiança",
+        "sociedade",
+        "justiça"
+      ]
+    },
+    {
+      "id": "B10",
+      "column": "B",
+      "label": "Discípulo na verdade",
+      "definition": "Seguir Cristo exige viver na verdade do agir e da palavra, não apenas afirmar fé enquanto se caminha na duplicidade.",
+      "anchors": [
+        "CEC 2470",
+        "1Jo 1,6"
+      ],
+      "tags": [
+        "discipulado",
+        "coerência",
+        "verdade"
+      ]
+    },
+    {
+      "id": "B11",
+      "column": "B",
+      "label": "Boa Nova que purifica",
+      "definition": "O Evangelho não destrói a cultura; purifica, eleva e restaura costumes feridos pela sedução do pecado.",
+      "anchors": [
+        "CEC 2527",
+        "Rm 12,2"
+      ],
+      "tags": [
+        "evangelho",
+        "cultura",
+        "purificação"
+      ]
+    },
+    {
+      "id": "B12",
+      "column": "B",
+      "label": "Sedução do pecado",
+      "definition": "O pecado se apresenta como vantagem, prazer ou liberdade, mas desordena o coração e enfraquece a capacidade de escolher o bem.",
+      "anchors": [
+        "CEC 2527",
+        "CEC 1733"
+      ],
+      "tags": [
+        "pecado",
+        "tentação",
+        "liberdade"
+      ]
+    },
+    {
+      "id": "B13",
+      "column": "B",
+      "label": "Razão e fé",
+      "definition": "A fé católica não dispensa a razão; ilumina a busca honesta da verdade e impede que a opinião vire medida absoluta.",
+      "anchors": [
+        "CEC 2467",
+        "CEC 1783"
+      ],
+      "tags": [
+        "fé",
+        "razão",
+        "verdade"
+      ]
+    },
+    {
+      "id": "B14",
+      "column": "B",
+      "label": "Modéstia cristã",
+      "definition": "A modéstia protege a intimidade, ordena a expressão do corpo e recusa transformar a pessoa em espetáculo.",
+      "anchors": [
+        "CEC 2525",
+        "1Cor 6,19-20"
+      ],
+      "tags": [
+        "modéstia",
+        "corpo",
+        "intimidade"
+      ]
+    },
+    {
+      "id": "B15",
+      "column": "B",
+      "label": "Comunhão e verdade",
+      "definition": "A comunhão verdadeira exige luz e retidão; não há unidade cristã sólida quando a mentira, a simulação ou a hipocrisia governam as relações.",
+      "anchors": [
+        "1Jo 1,6",
+        "CEC 2470"
+      ],
+      "tags": [
+        "comunhão",
+        "verdade",
+        "coerência"
+      ]
+    },
+    {
+      "id": "I01",
+      "column": "I",
+      "label": "Verdade sob medida",
+      "definition": "Situação em que cada pessoa trata sua preferência como se fosse verdade suficiente para si, recusando critério comum de bem e mal.",
+      "anchors": [
+        "B01",
+        "CEC 2465",
+        "CEC 2467"
+      ],
+      "tags": [
+        "relativismo",
+        "subjetivismo",
+        "verdade"
+      ]
+    },
+    {
+      "id": "I02",
+      "column": "I",
+      "label": "Consumo de intimidade",
+      "definition": "Exposição ou busca de cenas íntimas como entretenimento, curiosidade ou prazer, ferindo a dignidade do corpo e do olhar.",
+      "anchors": [
+        "B07",
+        "CEC 2525",
+        "Mt 5,27-28"
+      ],
+      "tags": [
+        "intimidade",
+        "pureza",
+        "mídia"
+      ]
+    },
+    {
+      "id": "I03",
+      "column": "I",
+      "label": "Opinião irresponsável",
+      "definition": "Ato de lançar opinião, acusação ou julgamento público sem compromisso com verdade, justiça e consequências para os envolvidos.",
+      "anchors": [
+        "B08",
+        "B09",
+        "CEC 2469"
+      ],
+      "tags": [
+        "opinião",
+        "responsabilidade",
+        "verdade"
+      ]
+    },
+    {
+      "id": "I04",
+      "column": "I",
+      "label": "Algoritmo de vaidade",
+      "definition": "Busca de visibilidade, aprovação e comparação constante que treina a pessoa a medir seu valor pela reação dos outros.",
+      "anchors": [
+        "B06",
+        "B12",
+        "Rm 12,2"
+      ],
+      "tags": [
+        "vaidade",
+        "mídia",
+        "identidade"
+      ]
+    },
+    {
+      "id": "I05",
+      "column": "I",
+      "label": "Humor que degrada",
+      "definition": "Uso da graça, ironia ou meme para reduzir alguém a objeto de riso, vergonha ou desprezo.",
+      "anchors": [
+        "B06",
+        "B09",
+        "Tg 3,5-10"
+      ],
+      "tags": [
+        "humilhação",
+        "fala",
+        "dignidade"
+      ]
+    },
+    {
+      "id": "I06",
+      "column": "I",
+      "label": "Educação permissiva",
+      "definition": "Formação que evita corrigir o erro e chama qualquer limite moral de repressão, deixando a liberdade sem educação.",
+      "anchors": [
+        "B03",
+        "B05",
+        "CEC 2526"
+      ],
+      "tags": [
+        "educação",
+        "permissividade",
+        "liberdade"
+      ]
+    },
+    {
+      "id": "I07",
+      "column": "I",
+      "label": "Trabalho sem consciência",
+      "definition": "Situação profissional em que resultados, lucro ou imagem pública são colocados acima da verdade e da justiça.",
+      "anchors": [
+        "B03",
+        "B08",
+        "CEC 2468"
+      ],
+      "tags": [
+        "trabalho",
+        "consciência",
+        "justiça"
+      ]
+    },
+    {
+      "id": "I08",
+      "column": "I",
+      "label": "Família como obstáculo",
+      "definition": "Mentalidade que trata vínculos, deveres familiares e cuidado concreto como impedimentos à realização individual.",
+      "anchors": [
+        "B04",
+        "B06",
+        "Gl 5,13"
+      ],
+      "tags": [
+        "família",
+        "dever",
+        "individualismo"
+      ]
+    },
+    {
+      "id": "I09",
+      "column": "I",
+      "label": "Fé como gosto privado",
+      "definition": "Redução da fé a preferência íntima sem exigência pública de conversão, coerência, culto e testemunho.",
+      "anchors": [
+        "B10",
+        "B11",
+        "Jo 14,6"
+      ],
+      "tags": [
+        "fé",
+        "testemunho",
+        "privatização"
+      ]
+    },
+    {
+      "id": "I10",
+      "column": "I",
+      "label": "Mentira útil",
+      "definition": "Uso da falsidade para evitar prejuízo, preservar imagem ou conseguir vantagem, como se o resultado justificasse a duplicidade.",
+      "anchors": [
+        "B08",
+        "CEC 2468",
+        "Mt 5,37"
+      ],
+      "tags": [
+        "mentira",
+        "vantagem",
+        "veracidade"
+      ]
+    },
+    {
+      "id": "I11",
+      "column": "I",
+      "label": "Corpo como vitrine",
+      "definition": "Exposição do corpo como produto de aprovação, desejo ou mercado, separando aparência, dignidade e interioridade.",
+      "anchors": [
+        "B06",
+        "B14",
+        "1Cor 6,19-20"
+      ],
+      "tags": [
+        "corpo",
+        "modéstia",
+        "exposição"
+      ]
+    },
+    {
+      "id": "I12",
+      "column": "I",
+      "label": "Indiferença ao próximo",
+      "definition": "Recusa prática de deveres de cuidado, justiça e caridade porque o problema do outro não interfere no próprio conforto.",
+      "anchors": [
+        "B04",
+        "Gl 5,13",
+        "B06"
+      ],
+      "tags": [
+        "individualismo",
+        "caridade",
+        "dever"
+      ]
+    },
+    {
+      "id": "I13",
+      "column": "I",
+      "label": "Linchamento digital",
+      "definition": "Ataque coletivo em ambiente digital que mistura indignação, exposição e punição sem justiça, proporção ou caridade.",
+      "anchors": [
+        "B09",
+        "B15",
+        "Tg 3,5-10"
+      ],
+      "tags": [
+        "internet",
+        "justiça",
+        "violência"
+      ]
+    },
+    {
+      "id": "I14",
+      "column": "I",
+      "label": "Prazer como critério",
+      "definition": "Decisão moral guiada pelo que dá prazer imediato, sem avaliar verdade, bem, consequências e dignidade das pessoas envolvidas.",
+      "anchors": [
+        "B04",
+        "B12",
+        "CEC 1733"
+      ],
+      "tags": [
+        "prazer",
+        "critério",
+        "liberdade"
+      ]
+    },
+    {
+      "id": "I15",
+      "column": "I",
+      "label": "Silêncio conveniente",
+      "definition": "Omissão calculada diante de mentira, abuso ou injustiça para preservar conforto, vínculo, cargo ou reputação.",
+      "anchors": [
+        "B08",
+        "B09",
+        "CEC 2469"
+      ],
+      "tags": [
+        "omissão",
+        "verdade",
+        "prudência"
+      ]
+    },
+    {
+      "id": "N01",
+      "column": "N",
+      "label": "Verdade para mim",
+      "definition": "Narrativa que transforma verdade em sentimento particular e impede a pessoa de confrontar sua vida com Deus, a razão e o bem objetivo.",
+      "anchors": [
+        "B01",
+        "CEC 2465",
+        "CEC 2467"
+      ],
+      "tags": [
+        "relativismo",
+        "subjetivismo",
+        "verdade"
+      ]
+    },
+    {
+      "id": "N02",
+      "column": "N",
+      "label": "Falsa autonomia",
+      "definition": "Desculpa que confunde liberdade com não dever nada a ninguém, recusando Deus, vínculos, consequências e responsabilidade moral.",
+      "anchors": [
+        "B04",
+        "CEC 1733",
+        "Gl 5,13"
+      ],
+      "tags": [
+        "autonomia",
+        "liberdade",
+        "individualismo"
+      ]
+    },
+    {
+      "id": "N03",
+      "column": "N",
+      "label": "Ilusão de controle",
+      "definition": "Autoengano de quem acredita dominar hábitos, desejos ou ambientes que já estão moldando sua vontade e enfraquecendo sua liberdade.",
+      "anchors": [
+        "B12",
+        "CEC 1733",
+        "B03"
+      ],
+      "tags": [
+        "autoengano",
+        "pecado",
+        "hábito"
+      ]
+    },
+    {
+      "id": "N04",
+      "column": "N",
+      "label": "Todo mundo faz",
+      "definition": "Frase que usa a maioria como critério moral, como se a repetição social tornasse o erro verdadeiro ou bom.",
+      "anchors": [
+        "B05",
+        "Rm 12,2",
+        "CEC 1783"
+      ],
+      "tags": [
+        "pressão social",
+        "normalização",
+        "moral"
+      ]
+    },
+    {
+      "id": "N05",
+      "column": "N",
+      "label": "Só não julgue",
+      "definition": "Narrativa que usa a palavra julgamento para bloquear qualquer correção moral, mesmo quando há erro real e dano concreto.",
+      "anchors": [
+        "B03",
+        "B08",
+        "Mt 18,15"
+      ],
+      "tags": [
+        "correção",
+        "juízo",
+        "relativismo"
+      ]
+    },
+    {
+      "id": "N06",
+      "column": "N",
+      "label": "Sem vítimas visíveis",
+      "definition": "Desculpa que nega o mal porque o dano não aparece imediatamente, embora costumes, consciência e relações estejam sendo feridos.",
+      "anchors": [
+        "CEC 2525",
+        "CEC 2527",
+        "B12"
+      ],
+      "tags": [
+        "dano",
+        "costumes",
+        "autoengano"
+      ]
+    },
+    {
+      "id": "N07",
+      "column": "N",
+      "label": "Privado não importa",
+      "definition": "Engano que separa vida íntima e vida moral, como se o que é escondido não formasse ou deformasse o coração.",
+      "anchors": [
+        "B07",
+        "B10",
+        "1Jo 1,6"
+      ],
+      "tags": [
+        "vida privada",
+        "consciência",
+        "coerência"
+      ]
+    },
+    {
+      "id": "N08",
+      "column": "N",
+      "label": "Desejo como direito",
+      "definition": "Narrativa que transforma qualquer desejo em direito exigível, recusando ordenação moral, renúncia e responsabilidade.",
+      "anchors": [
+        "B04",
+        "B07",
+        "Gl 5,13"
+      ],
+      "tags": [
+        "desejo",
+        "direito",
+        "liberdade"
+      ]
+    },
+    {
+      "id": "N09",
+      "column": "N",
+      "label": "Opinião basta",
+      "definition": "Desculpa que dispensa estudo, escuta e busca da verdade, tratando impressão pessoal como prova suficiente.",
+      "anchors": [
+        "B13",
+        "CEC 2467",
+        "CEC 1783"
+      ],
+      "tags": [
+        "opinião",
+        "razão",
+        "verdade"
+      ]
+    },
+    {
+      "id": "N10",
+      "column": "N",
+      "label": "Amor sem verdade",
+      "definition": "Narrativa que chama de amor a aprovação de qualquer escolha, mesmo quando a escolha fere a pessoa e a afasta do bem.",
+      "anchors": [
+        "B01",
+        "B04",
+        "Jo 14,6"
+      ],
+      "tags": [
+        "amor",
+        "verdade",
+        "aprovação"
+      ]
+    },
+    {
+      "id": "N11",
+      "column": "N",
+      "label": "Liberdade sem lei",
+      "definition": "Engano que vê toda lei moral como opressão e esquece que a liberdade precisa ser educada para não virar escravidão do pecado.",
+      "anchors": [
+        "B05",
+        "CEC 2526",
+        "CEC 1733"
+      ],
+      "tags": [
+        "lei moral",
+        "liberdade",
+        "permissividade"
+      ]
+    },
+    {
+      "id": "N12",
+      "column": "N",
+      "label": "Sinceridade brutal",
+      "definition": "Desculpa que confunde dizer a verdade com ferir, expor ou humilhar, ignorando justiça, caridade e discrição.",
+      "anchors": [
+        "B08",
+        "CEC 2469",
+        "Ef 4,25"
+      ],
+      "tags": [
+        "sinceridade",
+        "caridade",
+        "fala"
+      ]
+    },
+    {
+      "id": "N13",
+      "column": "N",
+      "label": "Fé sem exigência",
+      "definition": "Narrativa que reduz a fé a conforto espiritual e recusa conversão concreta da conduta, dos costumes e das escolhas.",
+      "anchors": [
+        "B10",
+        "B11",
+        "CEC 2470"
+      ],
+      "tags": [
+        "fé",
+        "conversão",
+        "coerência"
+      ]
+    },
+    {
+      "id": "N14",
+      "column": "N",
+      "label": "Cultura inevitável",
+      "definition": "Autoengano que trata os costumes dominantes como destino, como se o cristão não pudesse discernir, resistir e purificar a cultura.",
+      "anchors": [
+        "B11",
+        "CEC 2527",
+        "Rm 12,2"
+      ],
+      "tags": [
+        "cultura",
+        "conformismo",
+        "evangelho"
+      ]
+    },
+    {
+      "id": "N15",
+      "column": "N",
+      "label": "Modéstia ultrapassada",
+      "definition": "Narrativa que ridiculariza pudor e modéstia para legitimar exposição, consumo do corpo e perda do sentido da intimidade.",
+      "anchors": [
+        "B14",
+        "CEC 2525",
+        "1Cor 6,19-20"
+      ],
+      "tags": [
+        "modéstia",
+        "corpo",
+        "costumes"
+      ]
+    },
+    {
+      "id": "G01",
+      "column": "G",
+      "label": "Pessoa e ato",
+      "definition": "Distinguir a dignidade inviolável da pessoa do juízo moral sobre seus atos, para corrigir o erro sem desprezar quem errou.",
+      "anchors": [
+        "Gn 1,27",
+        "B06",
+        "B03"
+      ],
+      "tags": [
+        "dignidade",
+        "ato moral",
+        "discernimento"
+      ]
+    },
+    {
+      "id": "G02",
+      "column": "G",
+      "label": "Consciência e capricho",
+      "definition": "Distinguir consciência moral formada de preferência pessoal, emoção momentânea ou vontade de justificar a própria escolha.",
+      "anchors": [
+        "CEC 1783",
+        "CEC 1785",
+        "B03"
+      ],
+      "tags": [
+        "consciência",
+        "capricho",
+        "formação"
+      ]
+    },
+    {
+      "id": "G03",
+      "column": "G",
+      "label": "Liberdade e impulso",
+      "definition": "Distinguir escolha livre de reação impulsiva, hábito desordenado ou dependência que reduz o domínio de si.",
+      "anchors": [
+        "CEC 1733",
+        "B04",
+        "B12"
+      ],
+      "tags": [
+        "liberdade",
+        "impulso",
+        "domínio de si"
+      ]
+    },
+    {
+      "id": "G04",
+      "column": "G",
+      "label": "Desejo e bem",
+      "definition": "Distinguir o fato de desejar algo do juízo sobre se aquilo é bom, justo e ordenado à dignidade da pessoa.",
+      "anchors": [
+        "B04",
+        "B07",
+        "Gl 5,13"
+      ],
+      "tags": [
+        "desejo",
+        "bem",
+        "discernimento"
+      ]
+    },
+    {
+      "id": "G05",
+      "column": "G",
+      "label": "Acolhida e aprovação",
+      "definition": "Distinguir acolher uma pessoa com respeito de aprovar toda escolha que ela faz ou toda narrativa que ela assume.",
+      "anchors": [
+        "G01",
+        "B01",
+        "B06"
+      ],
+      "tags": [
+        "acolhida",
+        "aprovação",
+        "verdade"
+      ]
+    },
+    {
+      "id": "G06",
+      "column": "G",
+      "label": "Verdade e humilhação",
+      "definition": "Distinguir manifestar a verdade necessária de expor alguém para vencer discussão, ferir reputação ou produzir vergonha pública.",
+      "anchors": [
+        "B08",
+        "CEC 2469",
+        "Mt 18,15"
+      ],
+      "tags": [
+        "verdade",
+        "humilhação",
+        "discrição"
+      ]
+    },
+    {
+      "id": "G07",
+      "column": "G",
+      "label": "Prudência e omissão",
+      "definition": "Distinguir silêncio prudente, que protege a verdade e as pessoas, de omissão que abandona diante de mentira ou injustiça.",
+      "anchors": [
+        "CEC 2469",
+        "B09",
+        "B15"
+      ],
+      "tags": [
+        "prudência",
+        "omissão",
+        "verdade"
+      ]
+    },
+    {
+      "id": "G08",
+      "column": "G",
+      "label": "Opinião e verdade",
+      "definition": "Distinguir opinião pessoal, que pode ser limitada ou errada, da verdade que deve ser buscada, honrada e testemunhada.",
+      "anchors": [
+        "CEC 2467",
+        "B13",
+        "B01"
+      ],
+      "tags": [
+        "opinião",
+        "verdade",
+        "razão"
+      ]
+    },
+    {
+      "id": "G09",
+      "column": "G",
+      "label": "Tolerância e relativismo",
+      "definition": "Distinguir convivência paciente com pessoas diferentes de negar que exista verdade moral objetiva.",
+      "anchors": [
+        "B01",
+        "B04",
+        "CEC 2467"
+      ],
+      "tags": [
+        "tolerância",
+        "relativismo",
+        "convivência"
+      ]
+    },
+    {
+      "id": "G10",
+      "column": "G",
+      "label": "Privado e secreto culpável",
+      "definition": "Distinguir intimidade legítima, que deve ser guardada, de segredo usado para esconder pecado, abuso, mentira ou exploração.",
+      "anchors": [
+        "CEC 2469",
+        "B14",
+        "B10"
+      ],
+      "tags": [
+        "intimidade",
+        "segredo",
+        "culpa"
+      ]
+    },
+    {
+      "id": "G11",
+      "column": "G",
+      "label": "Cultura e Evangelho",
+      "definition": "Distinguir valor legítimo de uma cultura de costumes que precisam ser purificados pela Boa Nova de Cristo.",
+      "anchors": [
+        "CEC 2527",
+        "B11",
+        "Rm 12,2"
+      ],
+      "tags": [
+        "cultura",
+        "evangelho",
+        "purificação"
+      ]
+    },
+    {
+      "id": "G12",
+      "column": "G",
+      "label": "Autoridade e abuso",
+      "definition": "Distinguir autoridade legítima, que serve à verdade e ao bem, de abuso que manipula consciências ou impõe interesses próprios.",
+      "anchors": [
+        "CEC 1783",
+        "B05",
+        "B09"
+      ],
+      "tags": [
+        "autoridade",
+        "abuso",
+        "consciência"
+      ]
+    },
+    {
+      "id": "G13",
+      "column": "G",
+      "label": "Misericórdia e banalização",
+      "definition": "Distinguir misericórdia que chama à conversão de banalização que trata o pecado como irrelevante.",
+      "anchors": [
+        "B12",
+        "B10",
+        "Jo 8,31-32"
+      ],
+      "tags": [
+        "misericórdia",
+        "pecado",
+        "conversão"
+      ]
+    },
+    {
+      "id": "G14",
+      "column": "G",
+      "label": "Informação e voyeurismo",
+      "definition": "Distinguir informação necessária e justa de curiosidade que consome intimidade, tragédia ou pecado como espetáculo.",
+      "anchors": [
+        "CEC 2525",
+        "B07",
+        "B09"
+      ],
+      "tags": [
+        "informação",
+        "voyeurismo",
+        "mídia"
+      ]
+    },
+    {
+      "id": "G15",
+      "column": "G",
+      "label": "Autenticidade e virtude",
+      "definition": "Distinguir ser verdadeiro sobre a própria situação de usar autenticidade como desculpa para não educar desejos, palavras e escolhas.",
+      "anchors": [
+        "B08",
+        "B03",
+        "CEC 1784"
+      ],
+      "tags": [
+        "autenticidade",
+        "virtude",
+        "formação"
+      ]
+    },
+    {
+      "id": "O01",
+      "column": "O",
+      "label": "Examinar a consciência",
+      "definition": "Parar diante de Deus, confrontar escolhas concretas com a Palavra, reconhecer faltas e assumir passos reais de conversão.",
+      "anchors": [
+        "CEC 1785",
+        "B03",
+        "Jo 8,31-32"
+      ],
+      "tags": [
+        "exame",
+        "consciência",
+        "conversão"
+      ]
+    },
+    {
+      "id": "O02",
+      "column": "O",
+      "label": "Permanecer na Palavra",
+      "definition": "Criar prática estável de escuta, oração e obediência à Palavra de Cristo para formar a consciência contra a confusão cultural.",
+      "anchors": [
+        "Jo 8,31-32",
+        "B02",
+        "CEC 1785"
+      ],
+      "tags": [
+        "palavra",
+        "oração",
+        "formação"
+      ]
+    },
+    {
+      "id": "O03",
+      "column": "O",
+      "label": "Nomear o erro",
+      "definition": "Dizer com clareza, sem insulto e sem covardia, qual ato é falso, injusto ou desordenado quando o bem exige essa palavra.",
+      "anchors": [
+        "B08",
+        "G06",
+        "Mt 18,15"
+      ],
+      "tags": [
+        "correção",
+        "verdade",
+        "firmeza"
+      ]
+    },
+    {
+      "id": "O04",
+      "column": "O",
+      "label": "Recusar circulação",
+      "definition": "Não repassar conteúdo humilhante, impuro, falso ou invasivo, e cortar a cadeia de dano quando ela chega às próprias mãos.",
+      "anchors": [
+        "CEC 2525",
+        "B09",
+        "Tg 3,5-10"
+      ],
+      "tags": [
+        "mídia",
+        "limite",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "O05",
+      "column": "O",
+      "label": "Guardar o olhar",
+      "definition": "Desviar, bloquear ou abandonar ambientes que treinam o olhar para consumir corpos, intimidade, sofrimento ou pecado.",
+      "anchors": [
+        "CEC 2525",
+        "B07",
+        "Mt 5,27-28"
+      ],
+      "tags": [
+        "olhar",
+        "pureza",
+        "renúncia"
+      ]
+    },
+    {
+      "id": "O06",
+      "column": "O",
+      "label": "Pedir conselho",
+      "definition": "Buscar ajuda de pessoa madura e fiel quando a consciência está confusa, pressionada ou inclinada a justificar o erro.",
+      "anchors": [
+        "CEC 1785",
+        "B03",
+        "G02"
+      ],
+      "tags": [
+        "conselho",
+        "discernimento",
+        "humildade"
+      ]
+    },
+    {
+      "id": "O07",
+      "column": "O",
+      "label": "Reparar a mentira",
+      "definition": "Corrigir informação falsa, assumir a própria responsabilidade e reparar o dano causado na medida possível.",
+      "anchors": [
+        "B08",
+        "B09",
+        "Ef 4,25"
+      ],
+      "tags": [
+        "reparação",
+        "mentira",
+        "justiça"
+      ]
+    },
+    {
+      "id": "O08",
+      "column": "O",
+      "label": "Limitar o consumo",
+      "definition": "Estabelecer horários, filtros, recusas e escolhas de conteúdo para não entregar a formação da consciência ao fluxo da mídia.",
+      "anchors": [
+        "CEC 2525",
+        "CEC 2526",
+        "Rm 12,2"
+      ],
+      "tags": [
+        "mídia",
+        "disciplina",
+        "formação"
+      ]
+    },
+    {
+      "id": "O09",
+      "column": "O",
+      "label": "Formar critérios",
+      "definition": "Estudar a fé, ouvir a Igreja, comparar argumentos e aprender a julgar situações pela verdade, não pela pressão do momento.",
+      "anchors": [
+        "CEC 1783",
+        "CEC 1785",
+        "B13"
+      ],
+      "tags": [
+        "formação",
+        "critérios",
+        "verdade"
+      ]
+    },
+    {
+      "id": "O10",
+      "column": "O",
+      "label": "Testemunhar sem atacar",
+      "definition": "Apresentar a verdade cristã com clareza, mansidão e firmeza, sem transformar a pessoa discordante em inimiga.",
+      "anchors": [
+        "B10",
+        "G01",
+        "CEC 2470"
+      ],
+      "tags": [
+        "testemunho",
+        "caridade",
+        "clareza"
+      ]
+    },
+    {
+      "id": "O11",
+      "column": "O",
+      "label": "Romper ocasião de pecado",
+      "definition": "Afastar-se de ambiente, hábito, contato ou conteúdo que alimenta queda repetida, em vez de negociar indefinidamente com a tentação.",
+      "anchors": [
+        "B12",
+        "G03",
+        "CEC 1733"
+      ],
+      "tags": [
+        "pecado",
+        "renúncia",
+        "liberdade"
+      ]
+    },
+    {
+      "id": "O12",
+      "column": "O",
+      "label": "Proteger o íntimo",
+      "definition": "Guardar a própria intimidade e a dos outros, recusando exposição, curiosidade invasiva e uso do corpo como espetáculo.",
+      "anchors": [
+        "B14",
+        "G10",
+        "CEC 2525"
+      ],
+      "tags": [
+        "intimidade",
+        "modéstia",
+        "proteção"
+      ]
+    },
+    {
+      "id": "O13",
+      "column": "O",
+      "label": "Corrigir com caridade",
+      "definition": "Procurar a pessoa no tempo e modo adequados, falar a verdade necessária e buscar o bem dela, não a derrota dela.",
+      "anchors": [
+        "Mt 18,15",
+        "G06",
+        "B08"
+      ],
+      "tags": [
+        "correção",
+        "caridade",
+        "verdade"
+      ]
+    },
+    {
+      "id": "O14",
+      "column": "O",
+      "label": "Assumir deveres",
+      "definition": "Reconhecer vínculos reais com Deus, família e próximo, e transformar liberdade em serviço, responsabilidade e cuidado concreto.",
+      "anchors": [
+        "B04",
+        "Gl 5,13",
+        "B06"
+      ],
+      "tags": [
+        "dever",
+        "serviço",
+        "responsabilidade"
+      ]
+    },
+    {
+      "id": "O15",
+      "column": "O",
+      "label": "Buscar sacramentos",
+      "definition": "Levar a conversão à vida sacramental, especialmente à confissão e à Eucaristia, para receber graça e recomeçar com verdade.",
+      "anchors": [
+        "Jo 20,22-23",
+        "B02",
+        "B10"
+      ],
+      "tags": [
+        "sacramentos",
+        "graça",
+        "conversão"
+      ]
+    }
+  ]
+}
