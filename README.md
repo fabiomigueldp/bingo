@@ -26,6 +26,11 @@ Durante o build, `pwa/scripts/generate-game-data.py` publica os PDFs em
 como `teachingMaterial`. A interface deve consumir esse payload, não ler arquivos
 do encontro diretamente.
 
+O mesmo build também cria `pwa/public/content/catalog.json` e um bundle em
+`pwa/public/content/{slug}/` para cada bingo da coleção. O seletor de encontro do
+PWA usa esse catálogo em runtime, mantendo o app raiz independente de um encontro
+específico.
+
 ## Trocar o Bingo Ativo
 
 Edite `pwa/pwa.config.json`:

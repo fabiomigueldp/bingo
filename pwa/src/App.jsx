@@ -1,28 +1,42 @@
-import { memo, useCallback, useEffect, useLayoutEffect, useMemo, useRef, useState } from "react";
-import data, {
-  COLUMN_COLORS,
-  COLUMN_ORDER,
-  DRAW_MODES,
-  boardByNumber,
-  cardByCode,
-  cardById,
-  columnByKey,
-  createGame,
-  dismissAlertBatch,
-  dismissBoardAlert,
-  drawCardById,
-  drawNext,
-  getBoardProgress,
-  getCompletedLines,
-  lineDefinitions,
-  recordValidatedWin,
-  undoLastDraw,
-  visibleLineType
-} from "./game";
-import { loadSavedGame, saveGame } from "./storage";
+import { createContext, memo, useCallback, useContext, useEffect, useLayoutEffect, useMemo, useRef, useState } from "react";
+import defaultData from "./data/game-data.json";
+import { DRAW_MODES, createGameModel } from "./game";
+import { loadSavedGame, loadSelectedContentId, saveGame, saveSelectedContentId } from "./storage";
 
-const MATERIAL_OPTIONS = data.materials || [];
-const TEACHING_MATERIAL = data.teachingMaterial || null;
+const CONTENT_CATALOG_URL = "./content/catalog.json";
+const DEFAULT_CATALOG = {
+  schema: "bingo-catequese/content-catalog.v1",
+  defaultContentId: defaultData.slug,
+  items: [catalogItemFromData(defaultData, "./data/game-data.json")]
+};
+const ContentContext = createContext(null);
+
+function catalogItemFromData(contentData, href) {
+  return {
+    id: contentData.slug,
+    href,
+    title: contentData.title,
+    subtitle: contentData.subtitle,
+    meeting: contentData.meeting,
+    meetingLabel: contentData.meetingLabel,
+    coreMessage: contentData.coreMessage,
+    cardSetId: contentData.cardSetId,
+    boardCount: contentData.boards?.length || 0,
+    cardCount: contentData.cards?.length || 0
+  };
+}
+
+function useContent() {
+  const context = useContext(ContentContext);
+  if (!context) throw new Error("ContentContext is not available");
+  return context;
+}
+
+async function fetchJson(url) {
+  const response = await fetch(url, { cache: "force-cache" });
+  if (!response.ok) throw new Error(`HTTP ${response.status}`);
+  return response.json();
+}
 
 function Icon({ name }) {
   const common = { width: 22, height: 22, viewBox: "0 0 24 24", fill: "none", "aria-hidden": "true" };
@@ -134,7 +148,69 @@ function lineTabLabel(line) {
   return line.label;
 }
 
+function EncounterSelectButton({ isOpen, onClick }) {
+  const { data, activeCatalogItem } = useContent();
+
+  return (
+    <button
+      className={isOpen ? "encounter-select open" : "encounter-select"}
+      type="button"
+      onClick={onClick}
+      aria-expanded={isOpen}
+      aria-controls="encounter-picker"
+      aria-label="Selecionar encontro e tema"
+    >
+      <span className="encounter-select-main">
+        <small>{data.meetingLabel || data.meeting || "Encontro"}</small>
+        <strong>{data.subtitle || activeCatalogItem?.subtitle || data.title}</strong>
+      </span>
+      <span className="encounter-select-cue" aria-hidden="true" />
+    </button>
+  );
+}
+
+function EncounterInlinePicker({ onSelect }) {
+  const { catalog, contentId, onSelectContent } = useContent();
+
+  function chooseContent(nextContentId) {
+    onSelectContent(nextContentId);
+    onSelect();
+  }
+
+  return (
+    <div className="encounter-panel" id="encounter-picker">
+      <div className="encounter-panel-scroll">
+        {catalog.items.map((item) => {
+          const selected = item.id === contentId;
+          return (
+            <button
+              type="button"
+              className={selected ? "encounter-option selected" : "encounter-option"}
+              key={item.id}
+              onClick={() => chooseContent(item.id)}
+              aria-pressed={selected}
+            >
+              <span className="encounter-option-number">{item.encounterNumber || "..."}</span>
+              <span className="encounter-option-copy">
+                <strong>{item.subtitle || item.title}</strong>
+                <small>{item.meetingLabel || item.meeting || `${item.cardCount || 75} chamadas`}</small>
+              </span>
+              <span className="encounter-option-state" aria-hidden="true">
+                {selected ? <Icon name="check" /> : null}
+              </span>
+            </button>
+          );
+        })}
+      </div>
+    </div>
+  );
+}
+
+const MemoEncounterInlinePicker = memo(EncounterInlinePicker);
+
 function SetupScreen({ onStart }) {
+  const { data } = useContent();
+  const teachingMaterial = data.teachingMaterial || null;
   const [selection, setSelection] = useState([]);
   const [drawMode, setDrawMode] = useState(DRAW_MODES.APP);
   const [isStarting, setIsStarting] = useState(false);
@@ -142,8 +218,10 @@ function SetupScreen({ onStart }) {
   const startTimer = useRef(null);
   const selected = selection.length;
   const closeSetupSheet = useCallback(() => setSetupSheet(null), []);
-  const selectAllBoards = useCallback(() => setSelection(data.boards.map((board) => board.number)), []);
+  const selectAllBoards = useCallback(() => setSelection(data.boards.map((board) => board.number)), [data.boards]);
   const clearSelection = useCallback(() => setSelection([]), []);
+  const closeEncounter = useCallback(() => setSetupSheet((current) => (current === "encounter" ? null : current)), []);
+  const toggleEncounter = useCallback(() => setSetupSheet((current) => (current === "encounter" ? null : "encounter")), []);
   const openTeaching = useCallback(() => setSetupSheet("teaching"), []);
   const openMaterials = useCallback(() => setSetupSheet("materials"), []);
   const openRules = useCallback(() => setSetupSheet("rules"), []);
@@ -178,8 +256,12 @@ function SetupScreen({ onStart }) {
       <div className="setup-content">
         <section className="setup-hero" aria-labelledby="setup-title">
           <h1 id="setup-title">Bingo</h1>
-          <p>{data.subtitle || data.meeting}</p>
         </section>
+
+        <div className={setupSheet === "encounter" ? "encounter-control open" : "encounter-control"}>
+          <EncounterSelectButton isOpen={setupSheet === "encounter"} onClick={toggleEncounter} />
+          {setupSheet === "encounter" ? <MemoEncounterInlinePicker onSelect={closeEncounter} /> : null}
+        </div>
 
         <section className="board-picker" aria-label="Cartelas da partida">
           <div className="picker-head">
@@ -234,7 +316,7 @@ function SetupScreen({ onStart }) {
         </section>
 
         <nav className="setup-secondary-actions" aria-label="Materiais de apoio">
-          {TEACHING_MATERIAL ? (
+          {teachingMaterial ? (
             <button type="button" onClick={openTeaching}>
               <Icon name="lightbulb" />
               <span>Tema</span>
@@ -309,8 +391,9 @@ function EmptyCard({ drawMode = DRAW_MODES.APP }) {
 }
 
 function CallCard({ card, drawCount, drawMode }) {
+  const { model } = useContent();
   if (!card) return <EmptyCard drawMode={drawMode} />;
-  const columnColor = COLUMN_COLORS[card.column];
+  const columnColor = model.COLUMN_COLORS[card.column];
 
   return (
     <article
@@ -322,7 +405,7 @@ function CallCard({ card, drawCount, drawMode }) {
       <div className="card-sheen" aria-hidden="true" />
       <header className="card-head">
         <span className="code-chip">{card.code}</span>
-        <span className="column-label">{columnByKey[card.column]?.title}</span>
+        <span className="column-label">{model.columnByKey[card.column]?.title}</span>
       </header>
 
       <div className="card-section concept-section">
@@ -388,6 +471,8 @@ function CardFlight({ exitingCard, enteringCard, drawCount, phase, drawMode }) {
 const MemoCardFlight = memo(CardFlight);
 
 function TopBar({ game, currentCard, onOpenBoards, onOpenTeaching }) {
+  const { data } = useContent();
+  const teachingMaterial = data.teachingMaterial || null;
   const progress = game.drawnIds.length / data.cards.length;
   return (
     <header className="topbar">
@@ -399,7 +484,7 @@ function TopBar({ game, currentCard, onOpenBoards, onOpenTeaching }) {
         </div>
       </div>
       <div className="topbar-actions">
-        {TEACHING_MATERIAL ? (
+        {teachingMaterial ? (
           <button
             className="icon-button"
             type="button"
@@ -446,6 +531,7 @@ function BottomControls({ game, onUndo, onDraw, onHistory, busy = false }) {
 }
 
 function ManualCallControls({ game, onUndo, onCall, onHistory, onKeyboardOpenChange, busy = false }) {
+  const { data, model } = useContent();
   const [activeColumn, setActiveColumn] = useState("");
   const [pendingManualCode, setPendingManualCode] = useState("");
   const [motionPhase, setMotionPhase] = useState("idle");
@@ -462,12 +548,12 @@ function ManualCallControls({ game, onUndo, onCall, onHistory, onKeyboardOpenCha
   const drawnSet = useMemo(() => new Set(game.drawnIds), [game.drawnIds]);
   const finished = game.drawnIds.length >= data.cards.length;
   const numbers = useMemo(() => Array.from({ length: 15 }, (_, index) => (index + 1).toString().padStart(2, "0")), []);
-  const currentCode = game.drawnIds.length ? cardById[game.drawnIds.at(-1)]?.code || "" : "";
+  const currentCode = game.drawnIds.length ? model.cardById[game.drawnIds.at(-1)]?.code || "" : "";
   const displayCode = pendingManualCode || activeColumn || lastCode || "...";
   const codeState = pendingManualCode ? "confirming" : activeColumn ? "selecting" : lastCode ? "registered" : "idle";
   const ballState = pendingManualCode ? "committing" : activeColumn ? "selecting" : lastCode ? "called" : "idle";
   const ballColumn = activeColumn || (pendingManualCode ? pendingManualCode[0] : lastCode ? lastCode[0] : "");
-  const ballAccentColor = ballColumn ? COLUMN_COLORS[ballColumn] : "oklch(92% 0.015 80)";
+  const ballAccentColor = ballColumn ? model.COLUMN_COLORS[ballColumn] : "oklch(92% 0.015 80)";
   const locked = busy || Boolean(pendingManualCode);
   const keyboardVisuallyOpen = Boolean(activeColumn && motionPhase !== "closing");
   const controlsClass = [
@@ -478,25 +564,25 @@ function ManualCallControls({ game, onUndo, onCall, onHistory, onKeyboardOpenCha
   ].filter(Boolean).join(" ");
   const availableColumns = useMemo(() => {
     return Object.fromEntries(
-      COLUMN_ORDER.map((column) => [
+      model.COLUMN_ORDER.map((column) => [
         column,
         numbers.some((number) => {
-          const card = cardByCode[`${column}${number}`];
+          const card = model.cardByCode[`${column}${number}`];
           return card && !drawnSet.has(card.id);
         })
       ])
     );
-  }, [drawnSet, numbers]);
+  }, [drawnSet, model, numbers]);
   const numberStates = useMemo(() => {
     return numbers.map((number) => {
-      const card = renderColumn ? cardByCode[`${renderColumn}${number}`] : null;
+      const card = renderColumn ? model.cardByCode[`${renderColumn}${number}`] : null;
       return {
         number,
         used: card ? drawnSet.has(card.id) : false,
         label: renderColumn ? `${renderColumn}${number}` : `Número ${number}`
       };
     });
-  }, [drawnSet, numbers, renderColumn]);
+  }, [drawnSet, model, numbers, renderColumn]);
 
   useEffect(() => {
     setLastCode(currentCode);
@@ -553,7 +639,7 @@ function ManualCallControls({ game, onUndo, onCall, onHistory, onKeyboardOpenCha
   function submitNumber(number) {
     if (!activeColumn || locked) return;
     const code = `${activeColumn}${number}`;
-    const card = cardByCode[code];
+    const card = model.cardByCode[code];
     if (!card || drawnSet.has(card.id)) return;
 
     setLastCode(code);
@@ -628,7 +714,7 @@ function ManualCallControls({ game, onUndo, onCall, onHistory, onKeyboardOpenCha
           className={activeColumn ? "manual-columns has-selection" : "manual-columns"}
           aria-label="Letra da bolinha"
         >
-          {COLUMN_ORDER.map((column) => (
+          {model.COLUMN_ORDER.map((column) => (
             <button
               type="button"
               key={column}
@@ -839,11 +925,12 @@ function BottomSheet({ title, children, onClose, className = "" }) {
 }
 
 function HistoryDisclosure({ card, historyKey, isOpen, onToggle }) {
+  const { model } = useContent();
   return (
     <div
       className={isOpen ? "history-row open" : "history-row"}
       data-history-id={historyKey}
-      style={{ "--row-accent": COLUMN_COLORS[card.column] }}
+      style={{ "--row-accent": model.COLUMN_COLORS[card.column] }}
     >
       <button
         className="history-summary"
@@ -885,7 +972,8 @@ function HistoryDisclosure({ card, historyKey, isOpen, onToggle }) {
 }
 
 function HistorySheet({ game, onClose, onNewGame }) {
-  const cards = [...game.drawnIds].reverse().map((id) => cardById[id]).filter(Boolean);
+  const { model } = useContent();
+  const cards = [...game.drawnIds].reverse().map((id) => model.cardById[id]).filter(Boolean);
   const [openHistoryId, setOpenHistoryId] = useState(null);
   const scrollRef = useRef(null);
 
@@ -1012,10 +1100,13 @@ function MaterialRow({ item }) {
 }
 
 function MaterialsSheet({ onClose }) {
+  const { data } = useContent();
+  const materialOptions = data.materials || [];
+
   return (
     <BottomSheet title="Imprimir" onClose={onClose} className="materials-sheet">
       <div className="materials-list">
-        {MATERIAL_OPTIONS.map((item) => (
+        {materialOptions.map((item) => (
           <MaterialRow item={item} key={item.href} />
         ))}
       </div>
@@ -1027,7 +1118,8 @@ function MaterialsSheet({ onClose }) {
 const MemoMaterialsSheet = memo(MaterialsSheet);
 
 function TeachingSheet({ onClose }) {
-  const material = TEACHING_MATERIAL;
+  const { data } = useContent();
+  const material = data.teachingMaterial || null;
   if (!material) return null;
 
   const meta = material.meta || [];
@@ -1102,8 +1194,9 @@ function lineCountLabel(count) {
 }
 
 function MiniBoard({ board, drawnIds, highlightLineId, compact = false, decorative = false }) {
+  const { model } = useContent();
   const marked = new Set([...drawnIds, "FREE"]);
-  const highlight = highlightLineId ? lineDefinitions.find((line) => line.id === highlightLineId) : null;
+  const highlight = highlightLineId ? model.lineDefinitions.find((line) => line.id === highlightLineId) : null;
   const highlightedCells = new Set((highlight?.cells || []).map(([row, col]) => `${row}-${col}`));
   const markedCount = board.grid.flat().filter((cell) => marked.has(cell.id)).length;
   const boardLabel = board.number.toString().padStart(2, "0");
@@ -1136,9 +1229,10 @@ function MiniBoard({ board, drawnIds, highlightLineId, compact = false, decorati
 }
 
 function BoardsSheet({ game, onClose, onConfer }) {
+  const { model } = useContent();
   const rows = game.activeBoardNumbers.map((number) => {
-    const board = boardByNumber[number];
-    const progress = getBoardProgress(board, game.drawnIds);
+    const board = model.boardByNumber[number];
+    const progress = model.getBoardProgress(board, game.drawnIds);
     return { board, progress };
   });
 
@@ -1170,10 +1264,11 @@ function BoardsSheet({ game, onClose, onConfer }) {
 const MemoBoardsSheet = memo(BoardsSheet);
 
 function AlertSheet({ game, alerts, onClose, onConfer }) {
+  const { model } = useContent();
   const isMultiple = alerts.length > 1;
   const rows = alerts.map((alert) => {
-    const board = boardByNumber[alert.boardNumber];
-    const lines = getCompletedLines(board, game.drawnIds);
+    const board = model.boardByNumber[alert.boardNumber];
+    const lines = model.getCompletedLines(board, game.drawnIds);
     return { alert, board, lines };
   });
 
@@ -1228,8 +1323,9 @@ function AlertSheet({ game, alerts, onClose, onConfer }) {
 const MemoAlertSheet = memo(AlertSheet);
 
 function ConceptDisclosure({ cell, isOpen, onToggle }) {
-  const card = cell.id === "FREE" ? null : cardById[cell.id];
-  const accent = card ? COLUMN_COLORS[card.column] : "var(--free)";
+  const { model } = useContent();
+  const card = cell.id === "FREE" ? null : model.cardById[cell.id];
+  const accent = card ? model.COLUMN_COLORS[card.column] : "var(--free)";
 
   if (!card) {
     return (
@@ -1283,14 +1379,15 @@ function ConceptDisclosure({ cell, isOpen, onToggle }) {
 }
 
 function ConferenceSheet({ game, boardNumber, onClose, onValidated }) {
-  const board = boardByNumber[boardNumber];
-  const completedLines = useMemo(() => getCompletedLines(board, game.drawnIds), [board, game.drawnIds]);
+  const { model } = useContent();
+  const board = model.boardByNumber[boardNumber];
+  const completedLines = useMemo(() => model.getCompletedLines(board, game.drawnIds), [board, game.drawnIds, model]);
   const [selectedLineId, setSelectedLineId] = useState(completedLines[0]?.id);
   const [openConceptId, setOpenConceptId] = useState(null);
   const scrollRef = useRef(null);
   const selectedLine = completedLines.find((line) => line.id === selectedLineId) || completedLines[0];
   const cells = selectedLine?.cells || [];
-  const selectedLineLabel = selectedLine ? `${visibleLineType(selectedLine.kind)} ${lineTabLabel(selectedLine)}` : "linha completa";
+  const selectedLineLabel = selectedLine ? `${model.visibleLineType(selectedLine.kind)} ${lineTabLabel(selectedLine)}` : "linha completa";
   const boardLabel = boardNumber.toString().padStart(2, "0");
 
   useEffect(() => {
@@ -1345,7 +1442,7 @@ function ConferenceSheet({ game, boardNumber, onClose, onValidated }) {
               aria-selected={line.id === selectedLine?.id}
               aria-controls="conference-line-details"
             >
-              <span>{visibleLineType(line.kind)}</span>
+              <span>{model.visibleLineType(line.kind)}</span>
               <strong>{lineTabLabel(line)}</strong>
             </button>
           ))}
@@ -1438,7 +1535,24 @@ function ConfirmDialog({ isOpen, title, message, confirmLabel, cancelLabel, onCo
 
 const MemoConfirmDialog = memo(ConfirmDialog);
 
+function LoadingScreen({ message = "Carregando encontro" }) {
+  return (
+    <main className="setup-screen">
+      <div className="setup-content loading-content">
+        <section className="setup-hero" aria-label={message}>
+          <h1>Bingo</h1>
+        </section>
+        <div className="loading-panel" role="status" aria-live="polite">
+          <span className="loading-mark" aria-hidden="true" />
+          <strong>{message}</strong>
+        </div>
+      </div>
+    </main>
+  );
+}
+
 function GameScreen({ game, setGame, onReset }) {
+  const { model } = useContent();
   const [sheet, setSheet] = useState(null);
   const [conferenceBoard, setConferenceBoard] = useState(null);
   const [toast, setToast] = useState("");
@@ -1448,7 +1562,7 @@ function GameScreen({ game, setGame, onReset }) {
   const flightTimers = useRef([]);
   const flightFrames = useRef([]);
   const drawMode = game.drawMode || DRAW_MODES.APP;
-  const currentCard = game.drawnIds.length ? cardById[game.drawnIds.at(-1)] : null;
+  const currentCard = game.drawnIds.length ? model.cardById[game.drawnIds.at(-1)] : null;
   const currentAlertBatch = useMemo(() => {
     const firstAlert = game.alertQueue[0];
     if (!firstAlert) return [];
@@ -1536,44 +1650,44 @@ function GameScreen({ game, setGame, onReset }) {
     if (flight || game.deck.length === 0) return;
 
     const nextId = game.deck[0];
-    const nextCard = cardById[nextId];
+    const nextCard = model.cardById[nextId];
     const nextDrawCount = game.drawnIds.length + 1;
-    presentCard(nextCard, nextDrawCount, (current) => drawNext(current));
-  }, [flight, game.deck, game.drawnIds.length, presentCard]);
+    presentCard(nextCard, nextDrawCount, (current) => model.drawNext(current));
+  }, [flight, game.deck, game.drawnIds.length, model, presentCard]);
 
   const manualCall = useCallback((cardId) => {
     if (flight) return;
-    const nextCard = cardById[cardId];
+    const nextCard = model.cardById[cardId];
     const nextDrawCount = game.drawnIds.length + 1;
-    presentCard(nextCard, nextDrawCount, (current) => drawCardById(current, cardId));
-  }, [flight, game.drawnIds.length, presentCard]);
+    presentCard(nextCard, nextDrawCount, (current) => model.drawCardById(current, cardId));
+  }, [flight, game.drawnIds.length, model, presentCard]);
 
   const undo = useCallback(() => {
     if (flight) return;
-    setGame((current) => undoLastDraw(current));
-  }, [flight, setGame]);
+    setGame((current) => model.undoLastDraw(current));
+  }, [flight, model, setGame]);
 
   const closeAlert = useCallback(() => {
     const drawIndex = currentAlertBatch[0]?.drawIndex;
     if (typeof drawIndex === "number") {
-      setGame((current) => dismissAlertBatch(current, drawIndex));
+      setGame((current) => model.dismissAlertBatch(current, drawIndex));
     }
-  }, [currentAlertBatch, setGame]);
+  }, [currentAlertBatch, model, setGame]);
 
   const openConference = useCallback((boardNumber, alertDrawIndex) => {
     setConferenceBoard(boardNumber);
     setSheet(null);
     if (typeof alertDrawIndex === "number") {
-      setGame((current) => dismissBoardAlert(current, boardNumber, alertDrawIndex));
+      setGame((current) => model.dismissBoardAlert(current, boardNumber, alertDrawIndex));
     }
-  }, [setGame]);
+  }, [model, setGame]);
 
   const validated = useCallback((boardNumber, lineId) => {
-    setGame((current) => recordValidatedWin(current, boardNumber, lineId));
+    setGame((current) => model.recordValidatedWin(current, boardNumber, lineId));
     setConferenceBoard(null);
     setToast(`Cartela ${boardNumber.toString().padStart(2, "0")} validada`);
     window.setTimeout(() => setToast(""), 2200);
-  }, [setGame]);
+  }, [model, setGame]);
 
   const newGame = useCallback(() => {
     setShowConfirmReset(true);
@@ -1656,23 +1770,126 @@ function GameScreen({ game, setGame, onReset }) {
 }
 
 export default function App() {
-  const [game, setGame] = useState(() => loadSavedGame());
+  const [catalog, setCatalog] = useState(DEFAULT_CATALOG);
+  const [contentId, setContentId] = useState(() => loadSelectedContentId() || DEFAULT_CATALOG.defaultContentId);
+  const [activeData, setActiveData] = useState(defaultData);
+  const [contentStatus, setContentStatus] = useState("ready");
+  const [contentError, setContentError] = useState("");
+  const [game, setGame] = useState(null);
+  const model = useMemo(() => createGameModel(activeData), [activeData]);
+  const activeCatalogItem = useMemo(
+    () => catalog.items.find((item) => item.id === activeData.slug) || catalogItemFromData(activeData, ""),
+    [activeData, catalog.items]
+  );
 
   useEffect(() => {
-    document.title = data.title || "Bingo";
+    let cancelled = false;
+
+    fetchJson(CONTENT_CATALOG_URL)
+      .then((nextCatalog) => {
+        if (cancelled) return;
+        const nextItems = nextCatalog.items?.length ? nextCatalog.items : DEFAULT_CATALOG.items;
+        const savedContentId = loadSelectedContentId();
+        const defaultContentId = nextCatalog.defaultContentId || nextItems[0]?.id || defaultData.slug;
+        const nextContentId = nextItems.some((item) => item.id === savedContentId) ? savedContentId : defaultContentId;
+        setCatalog({ ...nextCatalog, defaultContentId, items: nextItems });
+        setContentId(nextContentId);
+      })
+      .catch(() => {
+        if (cancelled) return;
+        setCatalog(DEFAULT_CATALOG);
+        setContentId(DEFAULT_CATALOG.defaultContentId);
+      });
+
+    return () => {
+      cancelled = true;
+    };
   }, []);
 
   useEffect(() => {
-    saveGame(game);
-  }, [game]);
+    const item = catalog.items.find((candidate) => candidate.id === contentId);
+    if (!item) return undefined;
 
-  const appReady = useMemo(() => Boolean(data.cards.length && data.boards.length), []);
+    let cancelled = false;
+    setContentStatus((current) => (current === "ready" ? "switching" : current));
+    setContentError("");
 
-  if (!appReady) return null;
+    const applyContent = (nextData) => {
+      if (cancelled) return;
+      setActiveData(nextData);
+      setGame(loadSavedGame(nextData));
+      setContentStatus("ready");
+    };
 
-  if (!game) {
-    return <SetupScreen onStart={(selection, drawMode) => setGame(createGame(selection, drawMode))} />;
+    if (item.href === "./data/game-data.json") {
+      applyContent(defaultData);
+      return () => {
+        cancelled = true;
+      };
+    }
+
+    fetchJson(item.href)
+      .then(applyContent)
+      .catch((error) => {
+        if (cancelled) return;
+        setContentError(error.message || "Não foi possível carregar este encontro.");
+        applyContent(defaultData);
+      });
+
+    return () => {
+      cancelled = true;
+    };
+  }, [catalog.items, contentId]);
+
+  useEffect(() => {
+    document.title = activeData.title || "Bingo";
+  }, [activeData.title]);
+
+  useEffect(() => {
+    saveSelectedContentId(contentId);
+  }, [contentId]);
+
+  useEffect(() => {
+    if (contentStatus !== "ready") return;
+    saveGame(activeData, game);
+  }, [activeData, contentStatus, game]);
+
+  const selectContent = useCallback((nextContentId) => {
+    if (!nextContentId || nextContentId === contentId) return;
+    setContentStatus("switching");
+    setContentId(nextContentId);
+  }, [contentId]);
+
+  const contextValue = useMemo(
+    () => ({
+      data: activeData,
+      model,
+      catalog,
+      contentId,
+      activeCatalogItem,
+      contentError,
+      onSelectContent: selectContent
+    }),
+    [activeCatalogItem, activeData, catalog, contentError, contentId, model, selectContent]
+  );
+
+  const appReady = Boolean(activeData.cards?.length && activeData.boards?.length);
+
+  if (contentStatus === "loading" && !appReady) {
+    return <LoadingScreen />;
   }
 
-  return <GameScreen game={game} setGame={setGame} onReset={() => setGame(null)} />;
+  if (!appReady) {
+    return <LoadingScreen message="Conteúdo indisponível" />;
+  }
+
+  return (
+    <ContentContext.Provider value={contextValue}>
+      {!game ? (
+        <SetupScreen onStart={(selection, drawMode) => setGame(model.createGame(selection, drawMode))} />
+      ) : (
+        <GameScreen game={game} setGame={setGame} onReset={() => setGame(null)} />
+      )}
+    </ContentContext.Provider>
+  );
 }

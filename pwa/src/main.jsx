@@ -9,6 +9,7 @@ function installIOSViewportGuards() {
     ".call-card",
     ".history-list",
     ".boards-list",
+    ".encounter-panel-scroll",
     ".materials-list",
     ".teaching-scroll",
     ".rules-list",

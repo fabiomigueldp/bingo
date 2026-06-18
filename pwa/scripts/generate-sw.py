@@ -31,6 +31,10 @@ def collect_precache() -> list[str]:
     for pattern in patterns:
         files.extend(path for path in DIST.glob(pattern) if path.is_file() and path.suffix != ".map")
 
+    content_dir = DIST / "content"
+    if content_dir.exists():
+        files.extend(path for path in content_dir.rglob("*") if path.is_file() and path.suffix != ".map")
+
     paths = ["./"]
     paths.extend(web_path(path) for path in sorted(set(files)))
     return paths

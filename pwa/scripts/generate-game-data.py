@@ -14,6 +14,7 @@ SRC_DATA = PWA_ROOT / "src" / "data"
 OUT_PATH = SRC_DATA / "game-data.json"
 PUBLIC_DIR = PWA_ROOT / "public"
 MATERIALS_DIR = PUBLIC_DIR / "materials"
+CONTENT_DIR = PUBLIC_DIR / "content"
 
 DEFAULT_CONFIG = {
     "contentProject": "bingos_crisma_i_01_35/encontro_04_bingo_violencia_discriminacao",
@@ -67,6 +68,34 @@ def resolve_encounter_dir(config: dict) -> Path:
     return encounter_dir
 
 
+def resolve_collection_dir(config: dict, default_encounter_dir: Path) -> Path:
+    collection_value = config.get("contentCollection")
+    collection_dir = resolve_from_repo(collection_value) if collection_value else default_encounter_dir.parent
+    if not collection_dir.exists():
+        raise SystemExit(f"Content collection directory not found: {collection_dir}")
+    return collection_dir
+
+
+def relative_to_repo(path: Path) -> str:
+    try:
+        return path.relative_to(REPO_ROOT).as_posix()
+    except ValueError:
+        return path.as_posix()
+
+
+def discover_encounter_dirs(collection_dir: Path) -> list[Path]:
+    return sorted(
+        [path for path in collection_dir.iterdir() if path.is_dir() and re.match(r"encontro_\d{2}_bingo_", path.name)],
+        key=lambda path: path.name,
+    )
+
+
+def reset_directory(path: Path) -> None:
+    if path.exists():
+        shutil.rmtree(path)
+    path.mkdir(parents=True, exist_ok=True)
+
+
 def load_project_data(data_dir: Path) -> tuple[dict, dict, list[dict], list[dict]]:
     terms_data = load_json(data_dir / "termos.json")
     calls_data = load_json(data_dir / "chamadas.json")
@@ -111,15 +140,18 @@ def format_material_value(value: str, context: dict[str, str]) -> str:
     return value.format(**context)
 
 
-def public_material_href(file_name: str) -> str:
-    return f"./materials/{file_name}"
+def public_material_href(file_name: str, href_base: str) -> str:
+    return f"{href_base.rstrip('/')}/{file_name}"
 
 
-def publish_materials(config: dict, encounter_dir: Path, manifest: dict) -> list[dict]:
-    MATERIALS_DIR.mkdir(parents=True, exist_ok=True)
-    for stale_file in MATERIALS_DIR.glob("*"):
-        if stale_file.is_file():
-            stale_file.unlink()
+def publish_materials(
+    config: dict,
+    encounter_dir: Path,
+    manifest: dict,
+    destination_dir: Path,
+    href_base: str,
+) -> list[dict]:
+    destination_dir.mkdir(parents=True, exist_ok=True)
 
     context = {
         "output_slug": manifest["project"]["output_slug"],
@@ -132,13 +164,13 @@ def publish_materials(config: dict, encounter_dir: Path, manifest: dict) -> list
             raise SystemExit(f"Material not found: {source}")
 
         file_name = format_material_value(material.get("fileName") or source.name, context)
-        destination = MATERIALS_DIR / file_name
+        destination = destination_dir / file_name
         shutil.copy2(source, destination)
         published.append(
             {
                 "title": material["title"],
                 "meta": material.get("meta", ""),
-                "href": public_material_href(file_name),
+                "href": public_material_href(file_name, href_base),
                 "fileName": file_name,
                 "recommended": bool(material.get("recommended", False)),
             }
@@ -204,7 +236,7 @@ def parse_teaching_markdown(text: str) -> dict:
     return {"title": title, "meta": meta, "sections": sections}
 
 
-def publish_teaching_material(encounter_dir: Path) -> dict:
+def publish_teaching_material(encounter_dir: Path, destination_dir: Path, href_base: str) -> dict:
     encounter_number = encounter_number_from_path(encounter_dir)
     source_dir = encounter_dir / "material_didatico"
     source_pdf = source_dir / f"material_didatico_encontro_{encounter_number}.pdf"
@@ -217,7 +249,7 @@ def publish_teaching_material(encounter_dir: Path) -> dict:
 
     pdf_file_name = f"material_didatico_encontro_{encounter_number}.pdf"
     md_text = source_md.read_text(encoding="utf-8")
-    shutil.copy2(source_pdf, MATERIALS_DIR / pdf_file_name)
+    shutil.copy2(source_pdf, destination_dir / pdf_file_name)
     parsed = parse_teaching_markdown(md_text)
 
     return {
@@ -227,7 +259,7 @@ def publish_teaching_material(encounter_dir: Path) -> dict:
         "pdf": {
             "title": "Material didático",
             "meta": "PDF completo do encontro",
-            "href": public_material_href(pdf_file_name),
+            "href": public_material_href(pdf_file_name, href_base),
             "fileName": pdf_file_name,
         },
     }
@@ -271,6 +303,136 @@ def boards_from_manifest(manifest: dict, terms_by_id: dict[str, dict]) -> list[d
         }
         for card in manifest["cards"]
     ]
+
+
+def build_payload(
+    config: dict,
+    encounter_dir: Path,
+    material_destination_dir: Path,
+    material_href_base: str,
+    slug_override: str | None = None,
+) -> dict:
+    data_dir = encounter_dir / "data"
+    cartelas_manifest = load_cartelas_manifest(encounter_dir)
+    manifest_project = cartelas_manifest["project"]
+    slug = slug_override or config.get("slug") or manifest_project["output_slug"]
+
+    terms_data, calls_data, terms, calls = load_project_data(data_dir)
+    explanations_data = load_explanations_data(data_dir)
+
+    terms_by_id = {term["id"]: term for term in terms}
+    explanations_by_id = {entry["id"]: entry["explanation"] for entry in explanations_data["entries"]}
+    pwa_boards = boards_from_manifest(cartelas_manifest, terms_by_id)
+    materials = publish_materials(config, encounter_dir, cartelas_manifest, material_destination_dir, material_href_base)
+    teaching_material = publish_teaching_material(encounter_dir, material_destination_dir, material_href_base)
+
+    call_cards = []
+    for call in calls:
+        term = terms_by_id[call["term_id"]]
+        call_cards.append(
+            {
+                "id": call["id"],
+                "termId": call["term_id"],
+                "code": call["id"],
+                "label": term["label"],
+                "column": term["column"],
+                "columnTitle": next(col["title"] for col in terms_data["columns"] if col["key"] == term["column"]),
+                "definition": term["definition"],
+                "case": call["case"],
+                "readingPoints": call["reading_points"],
+                "conferenceQuestion": call["conference_question"],
+                "anchors": call["anchors"],
+                "facilitatorNote": call["facilitator_note"],
+                "explanation": explanations_by_id[call["id"]],
+            }
+        )
+
+    title = manifest_project.get("title") or terms_data["title"]
+    version = cartelas_manifest["card_set_id"]
+    return {
+        "version": version,
+        "slug": slug,
+        "cardSetId": cartelas_manifest["card_set_id"],
+        "cardSetHash": cartelas_manifest["card_set_hash"],
+        "title": title,
+        "subtitle": display_subtitle(title),
+        "meeting": manifest_project.get("meeting") or terms_data["meeting"],
+        "meetingLabel": manifest_project.get("meeting_label"),
+        "coreMessage": manifest_project.get("core_message"),
+        "scripture": terms_data["scripture"],
+        "catechism": terms_data["catechism"],
+        "cardModel": terms_data["card_model"],
+        "columns": terms_data["columns"],
+        "lineModel": cartelas_manifest["line_model"],
+        "printLayout": cartelas_manifest["print_layout"],
+        "sourceHashes": cartelas_manifest["source_hashes"],
+        "teachingMaterial": teaching_material,
+        "method": calls_data["method"],
+        "materials": materials,
+        "cards": call_cards,
+        "boards": pwa_boards,
+    }
+
+
+def catalog_item(payload: dict, encounter_dir: Path, href: str) -> dict:
+    return {
+        "id": payload["slug"],
+        "href": href,
+        "title": payload["title"],
+        "subtitle": payload["subtitle"],
+        "meeting": payload["meeting"],
+        "meetingLabel": payload.get("meetingLabel"),
+        "coreMessage": payload.get("coreMessage"),
+        "cardSetId": payload["cardSetId"],
+        "encounterNumber": encounter_number_from_path(encounter_dir),
+        "directory": relative_to_repo(encounter_dir),
+        "boardCount": len(payload["boards"]),
+        "cardCount": len(payload["cards"]),
+    }
+
+
+def write_content_catalog(config: dict, default_encounter_dir: Path, default_payload: dict) -> dict:
+    collection_dir = resolve_collection_dir(config, default_encounter_dir)
+    encounter_dirs = discover_encounter_dirs(collection_dir)
+    if not encounter_dirs:
+        raise SystemExit(f"No bingo encounter directories found in {collection_dir}")
+
+    reset_directory(CONTENT_DIR)
+    items = []
+    seen_ids = set()
+
+    for encounter_dir in encounter_dirs:
+        content_slug = load_cartelas_manifest(encounter_dir)["project"]["output_slug"]
+        if content_slug in seen_ids:
+            raise SystemExit(f"Duplicate content slug: {content_slug}")
+        seen_ids.add(content_slug)
+
+        content_root = CONTENT_DIR / content_slug
+        material_dir = content_root / "materials"
+        material_href_base = f"./content/{content_slug}/materials"
+        payload = build_payload(
+            config,
+            encounter_dir,
+            material_dir,
+            material_href_base,
+            slug_override=content_slug,
+        )
+        href = f"./content/{content_slug}/game-data.json"
+        write_json(content_root / "game-data.json", payload)
+        items.append(catalog_item(payload, encounter_dir, href))
+
+    if default_payload["slug"] not in seen_ids:
+        href = f"./content/{default_payload['slug']}/game-data.json"
+        items.insert(0, catalog_item(default_payload, default_encounter_dir, href))
+
+    catalog = {
+        "schema": "bingo-catequese/content-catalog.v1",
+        "defaultContentId": default_payload["slug"],
+        "collection": relative_to_repo(collection_dir),
+        "items": items,
+    }
+    write_json(CONTENT_DIR / "catalog.json", catalog)
+    return catalog
 
 
 def write_manifest(title: str) -> None:
@@ -328,70 +490,18 @@ def write_manifest(title: str) -> None:
 def main() -> None:
     config = load_config()
     encounter_dir = resolve_encounter_dir(config)
-    data_dir = encounter_dir / "data"
-    cartelas_manifest = load_cartelas_manifest(encounter_dir)
-    manifest_project = cartelas_manifest["project"]
-    slug = config.get("slug") or manifest_project["output_slug"]
 
-    terms_data, calls_data, terms, calls = load_project_data(data_dir)
-    explanations_data = load_explanations_data(data_dir)
+    reset_directory(MATERIALS_DIR)
+    default_payload = build_payload(config, encounter_dir, MATERIALS_DIR, "./materials")
+    write_json(OUT_PATH, default_payload)
+    write_manifest(default_payload["title"])
+    catalog = write_content_catalog(config, encounter_dir, default_payload)
 
-    terms_by_id = {term["id"]: term for term in terms}
-    explanations_by_id = {entry["id"]: entry["explanation"] for entry in explanations_data["entries"]}
-    pwa_boards = boards_from_manifest(cartelas_manifest, terms_by_id)
-    materials = publish_materials(config, encounter_dir, cartelas_manifest)
-    teaching_material = publish_teaching_material(encounter_dir)
-
-    call_cards = []
-    for call in calls:
-        term = terms_by_id[call["term_id"]]
-        call_cards.append(
-            {
-                "id": call["id"],
-                "termId": call["term_id"],
-                "code": call["id"],
-                "label": term["label"],
-                "column": term["column"],
-                "columnTitle": next(col["title"] for col in terms_data["columns"] if col["key"] == term["column"]),
-                "definition": term["definition"],
-                "case": call["case"],
-                "readingPoints": call["reading_points"],
-                "conferenceQuestion": call["conference_question"],
-                "anchors": call["anchors"],
-                "facilitatorNote": call["facilitator_note"],
-                "explanation": explanations_by_id[call["id"]],
-            }
-        )
-
-    title = manifest_project.get("title") or terms_data["title"]
-    version = cartelas_manifest["card_set_id"]
-    payload = {
-        "version": version,
-        "slug": slug,
-        "cardSetId": cartelas_manifest["card_set_id"],
-        "cardSetHash": cartelas_manifest["card_set_hash"],
-        "title": title,
-        "subtitle": display_subtitle(title),
-        "meeting": manifest_project.get("meeting") or terms_data["meeting"],
-        "meetingLabel": manifest_project.get("meeting_label"),
-        "coreMessage": manifest_project.get("core_message"),
-        "scripture": terms_data["scripture"],
-        "catechism": terms_data["catechism"],
-        "cardModel": terms_data["card_model"],
-        "columns": terms_data["columns"],
-        "lineModel": cartelas_manifest["line_model"],
-        "printLayout": cartelas_manifest["print_layout"],
-        "sourceHashes": cartelas_manifest["source_hashes"],
-        "teachingMaterial": teaching_material,
-        "method": calls_data["method"],
-        "materials": materials,
-        "cards": call_cards,
-        "boards": pwa_boards,
-    }
-
-    write_json(OUT_PATH, payload)
-    write_manifest(title)
-    print(f"Generated {OUT_PATH.relative_to(PWA_ROOT)} from {encounter_dir.relative_to(REPO_ROOT)}")
+    print(
+        "Generated "
+        f"{OUT_PATH.relative_to(PWA_ROOT)} and {len(catalog['items'])} content bundles "
+        f"from {relative_to_repo(resolve_collection_dir(config, encounter_dir))}"
+    )
 
 
 if __name__ == "__main__":
