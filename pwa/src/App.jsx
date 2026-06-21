@@ -131,9 +131,17 @@ function Icon({ name }) {
 }
 
 function renderRich(text) {
-  return text.split("**").map((part, index) => {
-    if (index % 2) return <strong key={`${part}-${index}`}>{part}</strong>;
-    return <span key={`${part}-${index}`}>{part}</span>;
+  return String(text || "")
+    .split(/(\*\*[^*]+\*\*|\*[^*]+\*)/g)
+    .filter(Boolean)
+    .map((part, index) => {
+      if (part.startsWith("**") && part.endsWith("**")) {
+        return <strong key={`${part}-${index}`}>{part.slice(2, -2)}</strong>;
+      }
+      if (part.startsWith("*") && part.endsWith("*")) {
+        return <em key={`${part}-${index}`}>{part.slice(1, -1)}</em>;
+      }
+      return <span key={`${part}-${index}`}>{part}</span>;
   });
 }
 
@@ -148,6 +156,31 @@ function catechismItemsFromParagraphs(paragraphs = []) {
       return body ? { number: match[1], body } : null;
     })
     .filter(Boolean);
+}
+
+function stripMarkdownEmphasis(text = "") {
+  return String(text).replace(/^\*\*?|\*\*?$/g, "").trim();
+}
+
+function scriptureVersesFromParagraphs(paragraphs = []) {
+  const text = paragraphs.slice(1).join(" ").trim();
+  const matches = [...text.matchAll(/(?<!\S)(\d{1,3})\s+/g)];
+  if (!matches.length) return text ? [{ body: text }] : [];
+
+  return matches
+    .map((match, index) => {
+      const next = matches[index + 1];
+      const body = text.slice(match.index + match[0].length, next ? next.index : text.length).trim();
+      return body ? { number: match[1], body } : null;
+    })
+    .filter(Boolean);
+}
+
+function cleanTeachingTitle(title = "", meetingLabel = "") {
+  const escapedLabel = meetingLabel.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  const labelPattern = escapedLabel ? new RegExp(`^${escapedLabel}\\s*[—-]\\s*`, "i") : null;
+  const withoutLabel = labelPattern ? title.replace(labelPattern, "") : title;
+  return withoutLabel.replace(/^ENCONTRO\s+\d+\s*[—-]\s*/i, "").trim() || title;
 }
 
 function lineTone(line) {
@@ -1130,6 +1163,20 @@ function MaterialsSheet({ onClose }) {
 
 const MemoMaterialsSheet = memo(MaterialsSheet);
 
+function ReflectionSection({ section, sectionIndex }) {
+  const [lead, ...body] = section.paragraphs || [];
+
+  return (
+    <section className="teaching-section reflection-section">
+      <h3>{section.title}</h3>
+      {lead ? <p className="reflection-question">{renderRich(lead)}</p> : null}
+      {body.map((paragraph, index) => (
+        <p key={`${section.title}-${sectionIndex}-${index}`}>{renderRich(paragraph)}</p>
+      ))}
+    </section>
+  );
+}
+
 function CatechismSection({ section }) {
   const items = section.items?.length ? section.items : catechismItemsFromParagraphs(section.paragraphs);
 
@@ -1140,6 +1187,7 @@ function CatechismSection({ section }) {
         {items.map((item, index) => (
           <li className="catechism-item" key={`${item.number}-${index}`}>
             <span className="catechism-number" aria-label={`Parágrafo ${item.number}`}>
+              <span aria-hidden="true">§ </span>
               {item.number}
             </span>
             <p>{renderRich(item.body)}</p>
@@ -1150,9 +1198,56 @@ function CatechismSection({ section }) {
   );
 }
 
+function ScriptureSection({ section, sectionIndex }) {
+  const reference = section.reference || stripMarkdownEmphasis(section.paragraphs?.[0] || "");
+  const verses = section.verses?.length ? section.verses : scriptureVersesFromParagraphs(section.paragraphs);
+
+  return (
+    <section className="teaching-section scripture-section">
+      <div className="scripture-head">
+        <h3>{section.title}</h3>
+        {reference ? <p className="scripture-reference">{reference}</p> : null}
+      </div>
+      <div className="scripture-verses" aria-label={reference ? `Texto bíblico: ${reference}` : section.title}>
+        {verses.map((verse, index) => (
+          <p className="scripture-verse" key={`${reference}-${sectionIndex}-${verse.number || index}`}>
+            {verse.number ? <span className="scripture-verse-number">{verse.number}</span> : null}
+            <span>{renderRich(verse.body)}</span>
+          </p>
+        ))}
+      </div>
+    </section>
+  );
+}
+
+function MemorySection({ section }) {
+  return (
+    <section className="teaching-section memory-section">
+      <h3>{section.title}</h3>
+      {section.paragraphs.map((paragraph, index) => (
+        <p className="memory-text" key={`${section.title}-${index}`}>
+          {renderRich(paragraph)}
+        </p>
+      ))}
+    </section>
+  );
+}
+
 function TeachingSection({ section, sectionIndex }) {
+  if (section.kind === "reflection") {
+    return <ReflectionSection section={section} sectionIndex={sectionIndex} />;
+  }
+
   if (section.kind === "catechism" || section.items?.length) {
     return <CatechismSection section={section} />;
+  }
+
+  if (section.kind === "scripture") {
+    return <ScriptureSection section={section} sectionIndex={sectionIndex} />;
+  }
+
+  if (section.kind === "memory") {
+    return <MemorySection section={section} />;
   }
 
   return (
@@ -1172,13 +1267,15 @@ function TeachingSheet({ onClose }) {
 
   const meta = material.meta || [];
   const sections = material.sections || [];
+  const meetingLabel = data.meetingLabel || data.meeting || "Encontro";
+  const teachingTitle = cleanTeachingTitle(material.title || data.subtitle || data.title, meetingLabel);
 
   return (
     <BottomSheet title="Tema" onClose={onClose} className="teaching-sheet">
       <div className="teaching-scroll">
         <section className="teaching-hero" aria-labelledby="teaching-title">
-          <span>{data.meetingLabel || data.meeting || "Encontro"}</span>
-          <h3 id="teaching-title">{material.title || data.subtitle || data.title}</h3>
+          <span>{meetingLabel}</span>
+          <h3 id="teaching-title">{teachingTitle}</h3>
           {data.coreMessage ? <p>{data.coreMessage}</p> : null}
         </section>
 

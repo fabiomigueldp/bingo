@@ -198,12 +198,59 @@ def catechism_items_from_paragraphs(paragraphs: list[str]) -> list[dict]:
     return items
 
 
+def strip_markdown_emphasis(text: str) -> str:
+    stripped = text.strip()
+    strong_match = re.fullmatch(r"\*\*(.+?)\*\*", stripped)
+    if strong_match:
+        return strong_match.group(1).strip()
+    emphasis_match = re.fullmatch(r"\*(.+?)\*", stripped)
+    if emphasis_match:
+        return emphasis_match.group(1).strip()
+    return stripped
+
+
+def scripture_verses_from_paragraphs(paragraphs: list[str]) -> list[dict]:
+    text = " ".join(paragraphs[1:]).strip()
+    matches = list(re.finditer(r"(?<!\S)(\d{1,3})\s+", text))
+    verses = []
+
+    for index, match in enumerate(matches):
+        next_match = matches[index + 1] if index + 1 < len(matches) else None
+        body_start = match.end()
+        body_end = next_match.start() if next_match else len(text)
+        body = text[body_start:body_end].strip()
+        if body:
+            verses.append({"number": match.group(1), "body": body})
+
+    if not verses and text:
+        verses.append({"body": text})
+    return verses
+
+
 def enrich_teaching_section(section: dict) -> dict:
     title = section.get("title", "")
-    if "CATECISMO" in title.upper():
-        items = catechism_items_from_paragraphs(section.get("paragraphs", []))
+    upper_title = title.upper()
+    paragraphs = section.get("paragraphs", [])
+
+    if "CATECISMO" in upper_title:
+        items = catechism_items_from_paragraphs(paragraphs)
         if items:
             return {**section, "kind": "catechism", "items": items}
+
+    if upper_title == "PALAVRA DE DEUS" and paragraphs:
+        return {
+            **section,
+            "kind": "scripture",
+            "reference": strip_markdown_emphasis(paragraphs[0]),
+            "verses": scripture_verses_from_paragraphs(paragraphs),
+        }
+
+    if upper_title == "GUARDAR NO CORAÇÃO":
+        return {**section, "kind": "memory"}
+
+    if upper_title == "PARA REFLETIR":
+        return {**section, "kind": "reflection"}
+
     return section
 
 

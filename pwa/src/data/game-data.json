@@ -565,7 +565,8 @@
           "O ponto de partida é Gn 1,26–27. Todo ser humano, sem exceção, é criado à imagem e semelhança de Deus. Isso confere a cada pessoa uma dignidade que não depende de cor, classe, religião, nacionalidade, capacidade física ou intelectual. O Catecismo afirma com clareza que \"qualquer forma de discriminação nos direitos fundamentais da pessoa deve ser superada e eliminada, porque contrária ao plano de Deus\" (CEC 1935).",
           "É importante distinguir bem. A Igreja condena a discriminação injusta, aquela que fere a dignidade ou os direitos fundamentais da pessoa. Reconhecer diferenças legítimas, como entre homem e mulher, entre culturas, entre funções, não é discriminação. Discriminar é tratar alguém como inferior em humanidade ou em direitos básicos pelo simples fato do que ele é.",
           "A novidade cristã vai além. Jesus pede o amor ao inimigo e o perdão das ofensas (CEC 1933), e identifica-se pessoalmente com os pequeninos e marginalizados. \"Todas as vezes que fizestes isso a um destes meus irmãos mais pequeninos, foi a mim mesmo que o fizestes\" (Mt 25,40). Combater a violência e a discriminação não é, portanto, um tema apenas social. É responder a Cristo presente no irmão."
-        ]
+        ],
+        "kind": "reflection"
       },
       {
         "title": "CATECISMO DA IGREJA CATÓLICA",
@@ -615,6 +616,18 @@
         "paragraphs": [
           "*Gn 1,26-27*",
           "26 Então Deus disse: “Façamos o homem à nossa imagem e semelhança. Que ele reine sobre os peixes do mar, sobre as aves do céu, sobre os animais domésticos e sobre toda a terra, e sobre todos os répteis que se arrastam sobre a terra”. 27 Deus criou o homem à sua imagem; criou-o à imagem de Deus, criou o homem e a mulher."
+        ],
+        "kind": "scripture",
+        "reference": "Gn 1,26-27",
+        "verses": [
+          {
+            "number": "26",
+            "body": "Então Deus disse: “Façamos o homem à nossa imagem e semelhança. Que ele reine sobre os peixes do mar, sobre as aves do céu, sobre os animais domésticos e sobre toda a terra, e sobre todos os répteis que se arrastam sobre a terra”."
+          },
+          {
+            "number": "27",
+            "body": "Deus criou o homem à sua imagem; criou-o à imagem de Deus, criou o homem e a mulher."
+          }
         ]
       },
       {
@@ -622,13 +635,22 @@
         "paragraphs": [
           "*Mt 25,40*",
           "40 Responderá o Rei: ‘Em verdade eu vos declaro: todas as vezes que fizestes isso a um destes meus irmãos mais pequeninos, foi a mim mesmo que o fizestes.’"
+        ],
+        "kind": "scripture",
+        "reference": "Mt 25,40",
+        "verses": [
+          {
+            "number": "40",
+            "body": "Responderá o Rei: ‘Em verdade eu vos declaro: todas as vezes que fizestes isso a um destes meus irmãos mais pequeninos, foi a mim mesmo que o fizestes.’"
+          }
         ]
       },
       {
         "title": "GUARDAR NO CORAÇÃO",
         "paragraphs": [
           "Todo ser humano possui igual dignidade diante de Deus; por isso, combater a violência, a discriminação e o ódio é exigência da caridade cristã."
-        ]
+        ],
+        "kind": "memory"
       }
     ]
   },

@@ -2367,8 +2367,11 @@ button.material-row[aria-busy="true"] .material-icon svg {
 .teaching-meta {
   flex: 0 0 auto;
   display: grid;
-  gap: 8px;
   margin: 0 0 12px;
+  overflow: hidden;
+  border-radius: 15px;
+  background: color-mix(in oklch, var(--surface-soft) 72%, var(--paper));
+  border: 1px solid color-mix(in oklch, var(--line) 78%, var(--paper));
 }
 
 .teaching-meta div {
@@ -2376,10 +2379,11 @@ button.material-row[aria-busy="true"] .material-icon svg {
   grid-template-columns: minmax(78px, auto) minmax(0, 1fr);
   gap: 10px;
   align-items: baseline;
-  padding: 9px 11px;
-  border-radius: 14px;
-  background: color-mix(in oklch, var(--surface-soft) 74%, var(--paper));
-  border: 1px solid color-mix(in oklch, var(--line) 78%, oklch(100% 0 0));
+  padding: 10px 12px;
+}
+
+.teaching-meta div + div {
+  border-top: 1px solid color-mix(in oklch, var(--line) 72%, var(--paper));
 }
 
 .teaching-meta dt {
@@ -2442,46 +2446,142 @@ button.material-row[aria-busy="true"] .material-icon svg {
   font-weight: 860;
 }
 
+.teaching-section em {
+  color: var(--charcoal);
+  font-style: normal;
+  font-weight: 760;
+}
+
+.reflection-section {
+  gap: 10px;
+}
+
+.reflection-question {
+  color: var(--charcoal);
+  font-size: 15.5px;
+  font-weight: 780;
+  line-height: 1.38;
+}
+
 .catechism-section {
-  gap: 12px;
+  gap: 11px;
 }
 
 .catechism-list {
   display: grid;
-  gap: 10px;
   margin: 0;
   padding: 0;
   list-style: none;
+  overflow: hidden;
+  border-radius: 15px;
+  background: color-mix(in oklch, var(--paper) 50%, var(--surface));
+  border: 1px solid color-mix(in oklch, var(--line) 74%, var(--paper));
 }
 
 .catechism-item {
   display: grid;
-  grid-template-columns: 52px minmax(0, 1fr);
-  gap: 12px;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 7px;
   align-items: start;
-  padding: 12px 12px 13px;
-  border-radius: 14px;
-  background: color-mix(in oklch, var(--paper) 54%, var(--surface-soft));
-  border: 1px solid color-mix(in oklch, var(--line) 70%, var(--paper));
+  padding: 13px 13px 14px;
+  color: var(--ink);
+}
+
+.catechism-item + .catechism-item {
+  border-top: 1px solid color-mix(in oklch, var(--line) 70%, var(--paper));
 }
 
 .catechism-number {
+  justify-self: start;
   min-width: 0;
-  padding: 6px 7px;
-  border-radius: 10px;
-  color: var(--charcoal);
-  background: color-mix(in oklch, var(--surface) 62%, var(--paper));
-  border: 1px solid color-mix(in oklch, var(--line) 72%, var(--ink) 4%);
-  font-size: 13px;
-  font-weight: 920;
-  line-height: 1;
-  text-align: center;
+  color: color-mix(in oklch, var(--charcoal) 82%, var(--muted));
+  font-size: 12px;
+  font-weight: 880;
+  line-height: 1.1;
+  letter-spacing: 0;
   font-variant-numeric: tabular-nums;
 }
 
 .catechism-item p {
+  color: color-mix(in oklch, var(--ink) 88%, var(--muted));
+  font-size: 14.75px;
+  font-weight: 520;
+  line-height: 1.58;
+}
+
+.scripture-section {
+  gap: 12px;
+  background:
+    linear-gradient(180deg, color-mix(in oklch, var(--paper) 36%, var(--surface)), color-mix(in oklch, var(--surface-soft) 78%, var(--paper)));
+}
+
+.scripture-head {
+  display: grid;
+  gap: 6px;
+}
+
+.scripture-reference {
+  justify-self: start;
+  padding: 5px 9px;
+  border-radius: 999px;
+  color: color-mix(in oklch, var(--charcoal) 86%, var(--muted));
+  background: color-mix(in oklch, var(--surface) 66%, var(--paper));
+  border: 1px solid color-mix(in oklch, var(--line) 72%, var(--paper));
+  font-size: 12px;
+  font-weight: 850;
+  line-height: 1;
+}
+
+.scripture-verses {
+  display: grid;
+  gap: 8px;
+}
+
+.scripture-verse {
+  display: grid;
+  grid-template-columns: 24px minmax(0, 1fr);
+  gap: 9px;
+  align-items: start;
+  color: color-mix(in oklch, var(--ink) 90%, var(--muted));
+  font-size: 15px;
+  font-weight: 540;
+  line-height: 1.56;
+}
+
+.scripture-verse-number {
   padding-top: 1px;
-  line-height: 1.52;
+  color: color-mix(in oklch, var(--muted) 82%, var(--charcoal));
+  font-size: 11.5px;
+  font-weight: 900;
+  line-height: 1.3;
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+.memory-section {
+  gap: 10px;
+  background:
+    linear-gradient(180deg, color-mix(in oklch, var(--surface) 72%, var(--paper)), color-mix(in oklch, var(--paper-deep) 18%, var(--surface-soft)));
+}
+
+.memory-text {
+  color: var(--charcoal);
+  font-family: Georgia, Cambria, "Times New Roman", serif;
+  font-size: 17px;
+  font-weight: 700;
+  line-height: 1.32;
+}
+
+@media (min-width: 430px) {
+  .catechism-item {
+    grid-template-columns: 54px minmax(0, 1fr);
+    gap: 13px;
+    padding: 14px 14px 15px;
+  }
+
+  .catechism-number {
+    padding-top: 3px;
+  }
 }
 
 .rules-list {
