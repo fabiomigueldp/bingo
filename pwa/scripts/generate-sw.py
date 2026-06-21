@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import hashlib
 from pathlib import Path
 
 
@@ -40,6 +41,20 @@ def collect_precache() -> list[str]:
     return paths
 
 
+def cache_fingerprint(paths: list[str]) -> str:
+    digest = hashlib.sha256()
+    for web_file in paths:
+        if web_file == "./":
+            path = DIST / "index.html"
+        else:
+            path = DIST / web_file.removeprefix("./")
+        if not path.exists() or not path.is_file():
+            continue
+        digest.update(web_file.encode("utf-8"))
+        digest.update(path.read_bytes())
+    return digest.hexdigest()[:12]
+
+
 def main() -> None:
     if not DIST.exists():
         raise SystemExit("dist does not exist. Run vite build before generate-sw.py.")
@@ -48,8 +63,9 @@ def main() -> None:
     version = "dev"
     if GAME_DATA.exists():
         version = json.loads(GAME_DATA.read_text(encoding="utf-8")).get("version", version)
+    cache_version = f"{version}-{cache_fingerprint(precache)}"
 
-    sw = f"""const CACHE_NAME = "bingo-pwa-{version}";
+    sw = f"""const CACHE_NAME = "bingo-pwa-{cache_version}";
 const APP_SHELL = {json.dumps(precache, indent=2)};
 
 self.addEventListener("install", (event) => {{
@@ -86,6 +102,20 @@ self.addEventListener("fetch", (event) => {{
           return response;
         }})
         .catch(() => caches.match("./index.html").then((home) => home || caches.match("./")))
+    );
+    return;
+  }}
+
+  if (requestUrl.pathname.endsWith(".json")) {{
+    event.respondWith(
+      fetch(event.request)
+        .then((response) => {{
+          if (!response || response.status !== 200 || response.type === "opaque") return response;
+          const copy = response.clone();
+          caches.open(CACHE_NAME).then((cache) => cache.put(event.request, copy));
+          return response;
+        }})
+        .catch(() => caches.match(event.request, {{ ignoreSearch: true }}))
     );
     return;
   }}

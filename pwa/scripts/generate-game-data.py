@@ -182,6 +182,31 @@ def markdown_inline_text(text: str) -> str:
     return text.strip()
 
 
+def catechism_items_from_paragraphs(paragraphs: list[str]) -> list[dict]:
+    text = "\n".join(paragraphs)
+    matches = list(re.finditer(r"\*\*(\d+[A-Za-z]?)\.\*\*\s*", text))
+    items = []
+
+    for index, match in enumerate(matches):
+        next_match = matches[index + 1] if index + 1 < len(matches) else None
+        body_start = match.end()
+        body_end = next_match.start() if next_match else len(text)
+        body = text[body_start:body_end].strip()
+        if body:
+            items.append({"number": match.group(1), "body": body})
+
+    return items
+
+
+def enrich_teaching_section(section: dict) -> dict:
+    title = section.get("title", "")
+    if "CATECISMO" in title.upper():
+        items = catechism_items_from_paragraphs(section.get("paragraphs", []))
+        if items:
+            return {**section, "kind": "catechism", "items": items}
+    return section
+
+
 def parse_teaching_markdown(text: str) -> dict:
     title = ""
     meta = []
@@ -199,7 +224,7 @@ def parse_teaching_markdown(text: str) -> dict:
         nonlocal current_section
         flush_paragraph()
         if current_section is not None:
-            sections.append(current_section)
+            sections.append(enrich_teaching_section(current_section))
         current_section = None
 
     for raw_line in text.splitlines():
@@ -222,6 +247,10 @@ def parse_teaching_markdown(text: str) -> dict:
             continue
 
         quote = stripped[1:].strip()
+        if not quote:
+            flush_paragraph()
+            continue
+
         heading_match = re.fullmatch(r"\*\*(.+?)\*\*", quote)
         if heading_match:
             flush_section()
@@ -249,6 +278,7 @@ def publish_teaching_material(encounter_dir: Path, destination_dir: Path, href_b
 
     pdf_file_name = f"material_didatico_encontro_{encounter_number}.pdf"
     md_text = source_md.read_text(encoding="utf-8")
+    destination_dir.mkdir(parents=True, exist_ok=True)
     shutil.copy2(source_pdf, destination_dir / pdf_file_name)
     parsed = parse_teaching_markdown(md_text)
 
@@ -256,12 +286,16 @@ def publish_teaching_material(encounter_dir: Path, destination_dir: Path, href_b
         "title": parsed["title"],
         "meta": parsed["meta"],
         "sections": parsed["sections"],
-        "pdf": {
-            "title": "Material didático",
-            "meta": "PDF completo do encontro",
-            "href": public_material_href(pdf_file_name, href_base),
-            "fileName": pdf_file_name,
-        },
+        "pdf": teaching_material_option(pdf_file_name, href_base),
+    }
+
+
+def teaching_material_option(file_name: str, href_base: str) -> dict:
+    return {
+        "title": "Material didático",
+        "meta": "PDF completo do encontro",
+        "href": public_material_href(file_name, href_base),
+        "fileName": file_name,
     }
 
 
@@ -323,8 +357,11 @@ def build_payload(
     terms_by_id = {term["id"]: term for term in terms}
     explanations_by_id = {entry["id"]: entry["explanation"] for entry in explanations_data["entries"]}
     pwa_boards = boards_from_manifest(cartelas_manifest, terms_by_id)
-    materials = publish_materials(config, encounter_dir, cartelas_manifest, material_destination_dir, material_href_base)
     teaching_material = publish_teaching_material(encounter_dir, material_destination_dir, material_href_base)
+    materials = publish_materials(config, encounter_dir, cartelas_manifest, material_destination_dir, material_href_base)
+    teaching_pdf = teaching_material.pop("pdf", None)
+    if teaching_pdf:
+        materials.append(teaching_pdf)
 
     call_cards = []
     for call in calls:

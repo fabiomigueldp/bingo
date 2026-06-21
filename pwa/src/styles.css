@@ -2399,15 +2399,6 @@ button.material-row[aria-busy="true"] .material-icon svg {
   line-height: 1.28;
 }
 
-.teaching-pdf {
-  flex: 0 0 auto;
-  margin-bottom: 14px;
-}
-
-.teaching-pdf .material-row {
-  margin-bottom: 0;
-}
-
 .teaching-sections {
   display: grid;
   gap: 12px;
@@ -2449,6 +2440,48 @@ button.material-row[aria-busy="true"] .material-icon svg {
 .teaching-section strong {
   color: var(--charcoal);
   font-weight: 860;
+}
+
+.catechism-section {
+  gap: 12px;
+}
+
+.catechism-list {
+  display: grid;
+  gap: 10px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.catechism-item {
+  display: grid;
+  grid-template-columns: 52px minmax(0, 1fr);
+  gap: 12px;
+  align-items: start;
+  padding: 12px 12px 13px;
+  border-radius: 14px;
+  background: color-mix(in oklch, var(--paper) 54%, var(--surface-soft));
+  border: 1px solid color-mix(in oklch, var(--line) 70%, var(--paper));
+}
+
+.catechism-number {
+  min-width: 0;
+  padding: 6px 7px;
+  border-radius: 10px;
+  color: var(--charcoal);
+  background: color-mix(in oklch, var(--surface) 62%, var(--paper));
+  border: 1px solid color-mix(in oklch, var(--line) 72%, var(--ink) 4%);
+  font-size: 13px;
+  font-weight: 920;
+  line-height: 1;
+  text-align: center;
+  font-variant-numeric: tabular-nums;
+}
+
+.catechism-item p {
+  padding-top: 1px;
+  line-height: 1.52;
 }
 
 .rules-list {

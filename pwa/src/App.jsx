@@ -33,7 +33,7 @@ function useContent() {
 }
 
 async function fetchJson(url) {
-  const response = await fetch(url, { cache: "force-cache" });
+  const response = await fetch(url, { cache: "no-store" });
   if (!response.ok) throw new Error(`HTTP ${response.status}`);
   return response.json();
 }
@@ -135,6 +135,19 @@ function renderRich(text) {
     if (index % 2) return <strong key={`${part}-${index}`}>{part}</strong>;
     return <span key={`${part}-${index}`}>{part}</span>;
   });
+}
+
+function catechismItemsFromParagraphs(paragraphs = []) {
+  const text = paragraphs.join("\n");
+  const matches = [...text.matchAll(/\*\*(\d+[A-Za-z]?)\.\*\*\s*/g)];
+
+  return matches
+    .map((match, index) => {
+      const next = matches[index + 1];
+      const body = text.slice(match.index + match[0].length, next ? next.index : text.length).trim();
+      return body ? { number: match[1], body } : null;
+    })
+    .filter(Boolean);
 }
 
 function lineTone(line) {
@@ -1117,6 +1130,41 @@ function MaterialsSheet({ onClose }) {
 
 const MemoMaterialsSheet = memo(MaterialsSheet);
 
+function CatechismSection({ section }) {
+  const items = section.items?.length ? section.items : catechismItemsFromParagraphs(section.paragraphs);
+
+  return (
+    <section className="teaching-section catechism-section">
+      <h3>{section.title}</h3>
+      <ol className="catechism-list" aria-label={section.title}>
+        {items.map((item, index) => (
+          <li className="catechism-item" key={`${item.number}-${index}`}>
+            <span className="catechism-number" aria-label={`Parágrafo ${item.number}`}>
+              {item.number}
+            </span>
+            <p>{renderRich(item.body)}</p>
+          </li>
+        ))}
+      </ol>
+    </section>
+  );
+}
+
+function TeachingSection({ section, sectionIndex }) {
+  if (section.kind === "catechism" || section.items?.length) {
+    return <CatechismSection section={section} />;
+  }
+
+  return (
+    <section className="teaching-section" key={`${section.title}-${sectionIndex}`}>
+      <h3>{section.title}</h3>
+      {section.paragraphs.map((paragraph, index) => (
+        <p key={`${section.title}-${sectionIndex}-${index}`}>{renderRich(paragraph)}</p>
+      ))}
+    </section>
+  );
+}
+
 function TeachingSheet({ onClose }) {
   const { data } = useContent();
   const material = data.teachingMaterial || null;
@@ -1145,20 +1193,9 @@ function TeachingSheet({ onClose }) {
           </dl>
         ) : null}
 
-        {material.pdf ? (
-          <section className="teaching-pdf" aria-label="PDF do material didático">
-            <MaterialRow item={material.pdf} />
-          </section>
-        ) : null}
-
         <div className="teaching-sections">
           {sections.map((section, sectionIndex) => (
-            <section className="teaching-section" key={`${section.title}-${sectionIndex}`}>
-              <h3>{section.title}</h3>
-              {section.paragraphs.map((paragraph, index) => (
-                <p key={`${section.title}-${sectionIndex}-${index}`}>{renderRich(paragraph)}</p>
-              ))}
-            </section>
+            <TeachingSection section={section} sectionIndex={sectionIndex} key={`${section.title}-${sectionIndex}`} />
           ))}
         </div>
       </div>

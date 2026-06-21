@@ -570,19 +570,58 @@
       {
         "title": "CATECISMO DA IGREJA CATÓLICA",
         "paragraphs": [
-          "**1931.** O respeito pela pessoa humana passa pelo respeito deste princípio: \"Que cada um respeite o próximo, sem exceção, como 'outro eu', levando em consideração antes de tudo sua vida e os meios necessários para mantê-la dignamente\". Nenhuma lei seria capaz, por si só, de fazer desaparecer os temores, os preconceitos, as atitudes de orgulho e egoísmo que constituem obstáculos para o estabelecimento de sociedades verdadeiramente fraternas. Esses comportamentos só podem cessar com a caridade, que vê em cada homem um \"próximo\", um irmão.  **1932.** O dever de tomar-se o próximo do outro e servi-lo ativamente se torna ainda mais urgente quando este se acha mais carente, em qualquer setor que seja. \"Todas as vezes que fizestes a um destes meus irmãos menores, a mim o fizestes\" (Mt 25,40).  **1933.** Este mesmo dever se estende àqueles que pensam ou agem diferentemente de nós. A doutrina de Cristo vai até o ponto de exigir o perdão das ofensas. Estende o mandamento do amor, que é o da nova lei, a todos os inimigos. A libertação no espírito do Evangelho é incompatível com o ódio ao inimigo, como pessoas mas não com o ódio ao mal que este pratica, como inimigo.  **1934.** Criados à imagem do Deus único, dotados de uma mesma alma racional, todos os homens têm a mesma natureza e a mesma origem. Resgatados pelo sacrifício de Cristo, todos são convidados a participar na mesma felicidade divina; todos gozam, portanto, de igual dignidade.  **1935.** A igualdade entre os homens diz respeito essencialmente à sua dignidade pessoal e aos direitos que daí decorrem. Qualquer forma de discriminação nos direitos fundamentais da pessoa, seja (essa discriminação) social ou cultural, ou que se fundamente no sexo, na raça, na cor, na condição social, na língua ou na religião deve ser superada e eliminada, porque contrária ao plano de Deus.  **1938.** Existem também desigualdades iníquas que atingem milhões de homens e mulheres e se acham em contradição aberta com o Evangelho: A igual dignidade das pessoas postula que se chegue a condições de vida mais justas e mais humanas. Pois as excessivas desigualdades econômicas e sociais entre os membros e povos da única família humana provocam escândalo e são contrárias à justiça social, à eqüidade, à dignidade da pessoa humana e à paz social e internacional.  **1939.** O princípio da solidariedade, enunciado também sob o nome de \"amizade\" ou \"caridade social\", é uma exigência direta da fraternidade humana e cristã: Um erro, \"hoje amplamente difundido, é o esquecimento desta lei da solidariedade humana e da caridade, ditada e imposta tanto pela comunidade de origem e pela igualdade da natureza racional em todos os homens, seja qual for o povo a que pertençam, como também pelo sacrifício redentor oferecido por Jesus Cristo no altar da cruz a seu Pai celeste, em prol da humanidade pecadora.\""
+          "**1931.** O respeito pela pessoa humana passa pelo respeito deste princípio: \"Que cada um respeite o próximo, sem exceção, como 'outro eu', levando em consideração antes de tudo sua vida e os meios necessários para mantê-la dignamente\". Nenhuma lei seria capaz, por si só, de fazer desaparecer os temores, os preconceitos, as atitudes de orgulho e egoísmo que constituem obstáculos para o estabelecimento de sociedades verdadeiramente fraternas. Esses comportamentos só podem cessar com a caridade, que vê em cada homem um \"próximo\", um irmão.",
+          "**1932.** O dever de tomar-se o próximo do outro e servi-lo ativamente se torna ainda mais urgente quando este se acha mais carente, em qualquer setor que seja. \"Todas as vezes que fizestes a um destes meus irmãos menores, a mim o fizestes\" (Mt 25,40).",
+          "**1933.** Este mesmo dever se estende àqueles que pensam ou agem diferentemente de nós. A doutrina de Cristo vai até o ponto de exigir o perdão das ofensas. Estende o mandamento do amor, que é o da nova lei, a todos os inimigos. A libertação no espírito do Evangelho é incompatível com o ódio ao inimigo, como pessoas mas não com o ódio ao mal que este pratica, como inimigo.",
+          "**1934.** Criados à imagem do Deus único, dotados de uma mesma alma racional, todos os homens têm a mesma natureza e a mesma origem. Resgatados pelo sacrifício de Cristo, todos são convidados a participar na mesma felicidade divina; todos gozam, portanto, de igual dignidade.",
+          "**1935.** A igualdade entre os homens diz respeito essencialmente à sua dignidade pessoal e aos direitos que daí decorrem. Qualquer forma de discriminação nos direitos fundamentais da pessoa, seja (essa discriminação) social ou cultural, ou que se fundamente no sexo, na raça, na cor, na condição social, na língua ou na religião deve ser superada e eliminada, porque contrária ao plano de Deus.",
+          "**1938.** Existem também desigualdades iníquas que atingem milhões de homens e mulheres e se acham em contradição aberta com o Evangelho: A igual dignidade das pessoas postula que se chegue a condições de vida mais justas e mais humanas. Pois as excessivas desigualdades econômicas e sociais entre os membros e povos da única família humana provocam escândalo e são contrárias à justiça social, à eqüidade, à dignidade da pessoa humana e à paz social e internacional.",
+          "**1939.** O princípio da solidariedade, enunciado também sob o nome de \"amizade\" ou \"caridade social\", é uma exigência direta da fraternidade humana e cristã: Um erro, \"hoje amplamente difundido, é o esquecimento desta lei da solidariedade humana e da caridade, ditada e imposta tanto pela comunidade de origem e pela igualdade da natureza racional em todos os homens, seja qual for o povo a que pertençam, como também pelo sacrifício redentor oferecido por Jesus Cristo no altar da cruz a seu Pai celeste, em prol da humanidade pecadora.\""
+        ],
+        "kind": "catechism",
+        "items": [
+          {
+            "number": "1931",
+            "body": "O respeito pela pessoa humana passa pelo respeito deste princípio: \"Que cada um respeite o próximo, sem exceção, como 'outro eu', levando em consideração antes de tudo sua vida e os meios necessários para mantê-la dignamente\". Nenhuma lei seria capaz, por si só, de fazer desaparecer os temores, os preconceitos, as atitudes de orgulho e egoísmo que constituem obstáculos para o estabelecimento de sociedades verdadeiramente fraternas. Esses comportamentos só podem cessar com a caridade, que vê em cada homem um \"próximo\", um irmão."
+          },
+          {
+            "number": "1932",
+            "body": "O dever de tomar-se o próximo do outro e servi-lo ativamente se torna ainda mais urgente quando este se acha mais carente, em qualquer setor que seja. \"Todas as vezes que fizestes a um destes meus irmãos menores, a mim o fizestes\" (Mt 25,40)."
+          },
+          {
+            "number": "1933",
+            "body": "Este mesmo dever se estende àqueles que pensam ou agem diferentemente de nós. A doutrina de Cristo vai até o ponto de exigir o perdão das ofensas. Estende o mandamento do amor, que é o da nova lei, a todos os inimigos. A libertação no espírito do Evangelho é incompatível com o ódio ao inimigo, como pessoas mas não com o ódio ao mal que este pratica, como inimigo."
+          },
+          {
+            "number": "1934",
+            "body": "Criados à imagem do Deus único, dotados de uma mesma alma racional, todos os homens têm a mesma natureza e a mesma origem. Resgatados pelo sacrifício de Cristo, todos são convidados a participar na mesma felicidade divina; todos gozam, portanto, de igual dignidade."
+          },
+          {
+            "number": "1935",
+            "body": "A igualdade entre os homens diz respeito essencialmente à sua dignidade pessoal e aos direitos que daí decorrem. Qualquer forma de discriminação nos direitos fundamentais da pessoa, seja (essa discriminação) social ou cultural, ou que se fundamente no sexo, na raça, na cor, na condição social, na língua ou na religião deve ser superada e eliminada, porque contrária ao plano de Deus."
+          },
+          {
+            "number": "1938",
+            "body": "Existem também desigualdades iníquas que atingem milhões de homens e mulheres e se acham em contradição aberta com o Evangelho: A igual dignidade das pessoas postula que se chegue a condições de vida mais justas e mais humanas. Pois as excessivas desigualdades econômicas e sociais entre os membros e povos da única família humana provocam escândalo e são contrárias à justiça social, à eqüidade, à dignidade da pessoa humana e à paz social e internacional."
+          },
+          {
+            "number": "1939",
+            "body": "O princípio da solidariedade, enunciado também sob o nome de \"amizade\" ou \"caridade social\", é uma exigência direta da fraternidade humana e cristã: Um erro, \"hoje amplamente difundido, é o esquecimento desta lei da solidariedade humana e da caridade, ditada e imposta tanto pela comunidade de origem e pela igualdade da natureza racional em todos os homens, seja qual for o povo a que pertençam, como também pelo sacrifício redentor oferecido por Jesus Cristo no altar da cruz a seu Pai celeste, em prol da humanidade pecadora.\""
+          }
         ]
       },
       {
         "title": "PALAVRA DE DEUS",
         "paragraphs": [
-          "*Gn 1,26-27*  26 Então Deus disse: “Façamos o homem à nossa imagem e semelhança. Que ele reine sobre os peixes do mar, sobre as aves do céu, sobre os animais domésticos e sobre toda a terra, e sobre todos os répteis que se arrastam sobre a terra”. 27 Deus criou o homem à sua imagem; criou-o à imagem de Deus, criou o homem e a mulher."
+          "*Gn 1,26-27*",
+          "26 Então Deus disse: “Façamos o homem à nossa imagem e semelhança. Que ele reine sobre os peixes do mar, sobre as aves do céu, sobre os animais domésticos e sobre toda a terra, e sobre todos os répteis que se arrastam sobre a terra”. 27 Deus criou o homem à sua imagem; criou-o à imagem de Deus, criou o homem e a mulher."
         ]
       },
       {
         "title": "PALAVRA DE DEUS",
         "paragraphs": [
-          "*Mt 25,40*  40 Responderá o Rei: ‘Em verdade eu vos declaro: todas as vezes que fizestes isso a um destes meus irmãos mais pequeninos, foi a mim mesmo que o fizestes.’"
+          "*Mt 25,40*",
+          "40 Responderá o Rei: ‘Em verdade eu vos declaro: todas as vezes que fizestes isso a um destes meus irmãos mais pequeninos, foi a mim mesmo que o fizestes.’"
         ]
       },
       {
@@ -591,13 +630,7 @@
           "Todo ser humano possui igual dignidade diante de Deus; por isso, combater a violência, a discriminação e o ódio é exigência da caridade cristã."
         ]
       }
-    ],
-    "pdf": {
-      "title": "Material didático",
-      "meta": "PDF completo do encontro",
-      "href": "./materials/material_didatico_encontro_04.pdf",
-      "fileName": "material_didatico_encontro_04.pdf"
-    }
+    ]
   },
   "method": {
     "read_order": [
@@ -622,6 +655,12 @@
       "href": "./materials/kit_impressao_bingo_violencia_discriminacao.pdf",
       "fileName": "kit_impressao_bingo_violencia_discriminacao.pdf",
       "recommended": false
+    },
+    {
+      "title": "Material didático",
+      "meta": "PDF completo do encontro",
+      "href": "./materials/material_didatico_encontro_04.pdf",
+      "fileName": "material_didatico_encontro_04.pdf"
     }
   ],
   "cards": [
