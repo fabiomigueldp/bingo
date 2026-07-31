@@ -7,34 +7,37 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 DIST = ROOT / "dist"
-GAME_DATA = ROOT / "src" / "data" / "game-data.json"
+BOOTSTRAP_DATA = ROOT / "src" / "data" / "bootstrap-data.json"
 
 
 def web_path(path: Path) -> str:
     return "./" + path.relative_to(DIST).as_posix()
 
 
-def collect_precache() -> list[str]:
-    patterns = [
+def collect_precache(default_content_id: str) -> list[str]:
+    exact_paths = [
         "index.html",
         "manifest.webmanifest",
         "icon.svg",
         "favicon.ico",
         "favicon-16x16.png",
         "favicon-32x32.png",
-        "assets/*",
-        "icons/*",
-        "materials/*",
-        "screenshots/*",
-        "splash/*",
+        "icons/apple-touch-icon.png",
+        "icons/icon-192.png",
+        "icons/icon-512.png",
+        "icons/maskable-192.png",
+        "icons/maskable-512.png",
+        "content/catalog.json",
+        f"content/{default_content_id}/game-data.json",
     ]
-    files: list[Path] = []
-    for pattern in patterns:
-        files.extend(path for path in DIST.glob(pattern) if path.is_file() and path.suffix != ".map")
 
-    content_dir = DIST / "content"
-    if content_dir.exists():
-        files.extend(path for path in content_dir.rglob("*") if path.is_file() and path.suffix != ".map")
+    files = [DIST / path for path in exact_paths]
+    files.extend(path for path in DIST.glob("assets/*") if path.is_file() and path.suffix != ".map")
+
+    missing = [path for path in files if not path.is_file()]
+    if missing:
+        missing_paths = ", ".join(path.relative_to(DIST).as_posix() for path in missing)
+        raise SystemExit(f"Missing required precache files: {missing_paths}")
 
     paths = ["./"]
     paths.extend(web_path(path) for path in sorted(set(files)))
@@ -59,18 +62,50 @@ def main() -> None:
     if not DIST.exists():
         raise SystemExit("dist does not exist. Run vite build before generate-sw.py.")
 
-    precache = collect_precache()
-    version = "dev"
-    if GAME_DATA.exists():
-        version = json.loads(GAME_DATA.read_text(encoding="utf-8")).get("version", version)
+    if not BOOTSTRAP_DATA.exists():
+        raise SystemExit(f"Bootstrap data does not exist: {BOOTSTRAP_DATA}")
+
+    bootstrap = json.loads(BOOTSTRAP_DATA.read_text(encoding="utf-8"))
+    default_content_id = bootstrap["defaultContentId"]
+    version = bootstrap.get("defaultItem", {}).get("cardSetId", default_content_id)
+    precache = collect_precache(default_content_id)
     cache_version = f"{version}-{cache_fingerprint(precache)}"
 
-    sw = f"""const CACHE_NAME = "bingo-pwa-{cache_version}";
+    sw = f"""const CACHE_PREFIX = "bingo-pwa-";
+const CACHE_NAME = `${{CACHE_PREFIX}}{cache_version}`;
 const APP_SHELL = {json.dumps(precache, indent=2)};
+
+function responseForCache(response) {{
+  const headers = new Headers(response.headers);
+  [
+    "connection",
+    "content-encoding",
+    "content-length",
+    "keep-alive",
+    "transfer-encoding",
+    "vary"
+  ].forEach((header) => headers.delete(header));
+  return new Response(response.body, {{
+    status: response.status,
+    statusText: response.statusText,
+    headers
+  }});
+}}
 
 self.addEventListener("install", (event) => {{
   event.waitUntil(
-    caches.open(CACHE_NAME).then((cache) => cache.addAll(APP_SHELL)).then(() => self.skipWaiting())
+    caches
+      .open(CACHE_NAME)
+      .then((cache) =>
+        Promise.all(
+          APP_SHELL.map(async (url) => {{
+            const response = await fetch(url, {{ cache: "reload" }});
+            if (!response.ok) throw new Error(`Precache failed: ${{url}} (${{response.status}})`);
+            await cache.put(url, responseForCache(response));
+          }})
+        )
+      )
+      .then(() => self.skipWaiting())
   );
 }});
 
@@ -78,7 +113,13 @@ self.addEventListener("activate", (event) => {{
   event.waitUntil(
     caches
       .keys()
-      .then((keys) => Promise.all(keys.filter((key) => key !== CACHE_NAME).map((key) => caches.delete(key))))
+      .then((keys) =>
+        Promise.all(
+          keys
+            .filter((key) => key.startsWith(CACHE_PREFIX) && key !== CACHE_NAME)
+            .map((key) => caches.delete(key))
+        )
+      )
       .then(() => self.clients.claim())
   );
 }});
@@ -98,10 +139,15 @@ self.addEventListener("fetch", (event) => {{
       fetch(event.request)
         .then((response) => {{
           const copy = response.clone();
-          caches.open(CACHE_NAME).then((cache) => cache.put("./index.html", copy));
+          caches
+            .open(CACHE_NAME)
+            .then((cache) => cache.put("./index.html", responseForCache(copy)))
+            .catch(() => {{}});
           return response;
         }})
-        .catch(() => caches.match("./index.html").then((home) => home || caches.match("./")))
+        .catch(() => caches.match("./index.html", {{ ignoreVary: true }}).then(
+          (home) => home || caches.match("./", {{ ignoreVary: true }})
+        ))
     );
     return;
   }}
@@ -112,22 +158,28 @@ self.addEventListener("fetch", (event) => {{
         .then((response) => {{
           if (!response || response.status !== 200 || response.type === "opaque") return response;
           const copy = response.clone();
-          caches.open(CACHE_NAME).then((cache) => cache.put(event.request, copy));
+          caches
+            .open(CACHE_NAME)
+            .then((cache) => cache.put(event.request, responseForCache(copy)))
+            .catch(() => {{}});
           return response;
         }})
-        .catch(() => caches.match(event.request, {{ ignoreSearch: true }}))
+        .catch(() => caches.match(event.request, {{ ignoreSearch: true, ignoreVary: true }}))
     );
     return;
   }}
 
   event.respondWith(
-    caches.match(event.request, {{ ignoreSearch: true }}).then((cached) => {{
+    caches.match(event.request, {{ ignoreSearch: true, ignoreVary: true }}).then((cached) => {{
       if (cached) return cached;
 
       return fetch(event.request).then((response) => {{
         if (!response || response.status !== 200 || response.type === "opaque") return response;
         const copy = response.clone();
-        caches.open(CACHE_NAME).then((cache) => cache.put(event.request, copy));
+        caches
+          .open(CACHE_NAME)
+          .then((cache) => cache.put(event.request, responseForCache(copy)))
+          .catch(() => {{}});
         return response;
       }});
     }})

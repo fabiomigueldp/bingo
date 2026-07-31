@@ -791,7 +791,6 @@ button {
 
 .game-screen.manual-mode.manual-keyboard-open .card-stage {
   transform: translate3d(0, calc(0px - var(--manual-stage-lift)), 0) scale(var(--manual-stage-scale));
-  will-change: transform;
 }
 
 .call-card {
@@ -1327,7 +1326,6 @@ button {
   backface-visibility: hidden;
   -webkit-backface-visibility: hidden;
   touch-action: none;
-  --manual-tray-height: 150px;
   --number-rise-delay: 0ms;
 }
 
@@ -3969,7 +3967,6 @@ button.material-row[aria-busy="true"] .material-icon svg {
     padding-inline: 10px;
     padding-bottom: calc(30px + var(--safe-bottom));
     gap: 8px;
-    --manual-tray-height: 126px;
   }
 
   .game-screen.manual-mode {
@@ -4022,10 +4019,6 @@ button.material-row[aria-busy="true"] .material-icon svg {
 }
 
 @media (max-height: 720px) and (max-width: 520px) {
-  .manual-controls {
-    --manual-tray-height: 132px;
-  }
-
   .game-screen.manual-mode {
     --manual-rest-space: calc(222px + var(--safe-bottom));
     --manual-stage-lift: 0px;

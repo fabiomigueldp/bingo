@@ -1,30 +1,23 @@
 import { createContext, memo, useCallback, useContext, useEffect, useLayoutEffect, useMemo, useRef, useState } from "react";
-import defaultData from "./data/game-data.json";
+import bootstrapData from "./data/bootstrap-data.json";
 import { DRAW_MODES, createGameModel } from "./game";
 import { loadSavedGame, loadSelectedContentId, saveGame, saveSelectedContentId } from "./storage";
 
 const CONTENT_CATALOG_URL = "./content/catalog.json";
 const DEFAULT_CATALOG = {
   schema: "bingo-catequese/content-catalog.v1",
-  defaultContentId: defaultData.slug,
-  items: [catalogItemFromData(defaultData, "./data/game-data.json")]
+  defaultContentId: bootstrapData.defaultContentId,
+  items: [bootstrapData.defaultItem]
 };
+const MANUAL_MOTION = Object.freeze({
+  selectionSettle: 240,
+  closeStart: 150,
+  columnRelease: 520,
+  presentationDelay: 560,
+  controlSettle: 700
+});
+const CARD_FLIGHT_DURATION = 560;
 const ContentContext = createContext(null);
-
-function catalogItemFromData(contentData, href) {
-  return {
-    id: contentData.slug,
-    href,
-    title: contentData.title,
-    subtitle: contentData.subtitle,
-    meeting: contentData.meeting,
-    meetingLabel: contentData.meetingLabel,
-    coreMessage: contentData.coreMessage,
-    cardSetId: contentData.cardSetId,
-    boardCount: contentData.boards?.length || 0,
-    cardCount: contentData.cards?.length || 0
-  };
-}
 
 function useContent() {
   const context = useContext(ContentContext);
@@ -516,16 +509,16 @@ function CardFlight({ exitingCard, enteringCard, drawCount, phase, drawMode }) {
 
 const MemoCardFlight = memo(CardFlight);
 
-function TopBar({ game, currentCard, onOpenBoards, onOpenTeaching }) {
+function TopBar({ game, currentCard, drawCount = game.drawnIds.length, onOpenBoards, onOpenTeaching }) {
   const { data } = useContent();
   const teachingMaterial = data.teachingMaterial || null;
-  const progress = game.drawnIds.length / data.cards.length;
+  const progress = drawCount / data.cards.length;
   return (
     <header className="topbar">
       <div>
         <div className="app-title">Bingo</div>
         <div className="round-text">
-          {game.drawnIds.length} de {data.cards.length}
+          {drawCount} de {data.cards.length}
           {currentCard ? ` · ${currentCard.code}` : ""}
         </div>
       </div>
@@ -584,9 +577,6 @@ function ManualCallControls({ game, onUndo, onCall, onHistory, onKeyboardOpenCha
   const [pressedNumber, setPressedNumber] = useState("");
   const lastColumnRef = useRef("");
   const manualCallTimers = useRef([]);
-  if (activeColumn && activeColumn !== lastColumnRef.current) {
-    lastColumnRef.current = activeColumn;
-  }
   const renderColumn = activeColumn || lastColumnRef.current;
   
   const [lastCode, setLastCode] = useState("");
@@ -640,6 +630,12 @@ function ManualCallControls({ game, onUndo, onCall, onHistory, onKeyboardOpenCha
   }, [currentCode]);
 
   useLayoutEffect(() => {
+    if (activeColumn) {
+      lastColumnRef.current = activeColumn;
+    }
+  }, [activeColumn]);
+
+  useLayoutEffect(() => {
     onKeyboardOpenChange?.(keyboardVisuallyOpen);
   }, [keyboardVisuallyOpen, onKeyboardOpenChange]);
 
@@ -663,7 +659,7 @@ function ManualCallControls({ game, onUndo, onCall, onHistory, onKeyboardOpenCha
   function scheduleManualCall(callback, delay) {
     const timer = window.setTimeout(() => {
       manualCallTimers.current = manualCallTimers.current.filter((item) => item !== timer);
-      window.requestAnimationFrame(callback);
+      callback();
     }, delay);
     manualCallTimers.current.push(timer);
   }
@@ -678,7 +674,7 @@ function ManualCallControls({ game, onUndo, onCall, onHistory, onKeyboardOpenCha
     if (nextColumn) {
       scheduleManualCall(() => {
         setMotionPhase("idle");
-      }, 240);
+      }, MANUAL_MOTION.selectionSettle);
     }
   }
 
@@ -698,30 +694,30 @@ function ManualCallControls({ game, onUndo, onCall, onHistory, onKeyboardOpenCha
     const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
     if (reduceMotion) {
       setActiveColumn("");
-      onCall(card.id);
+      onCall(card.id, 0);
       setPendingManualCode("");
       setPressedNumber("");
       setMotionPhase("idle");
       return;
     }
 
+    // O estado do jogo é confirmado imediatamente. A apresentação visual
+    // continua aguardando o recolhimento do teclado.
+    onCall(card.id, MANUAL_MOTION.presentationDelay);
+
     scheduleManualCall(() => {
       setMotionPhase("closing");
-    }, 150);
+    }, MANUAL_MOTION.closeStart);
 
     scheduleManualCall(() => {
       setActiveColumn("");
-    }, 520);
-
-    scheduleManualCall(() => {
-      onCall(card.id);
-    }, 560);
+    }, MANUAL_MOTION.columnRelease);
 
     scheduleManualCall(() => {
       setPendingManualCode("");
       setPressedNumber("");
       setMotionPhase("idle");
-    }, 700);
+    }, MANUAL_MOTION.controlSettle);
   }
 
   return (
@@ -1711,12 +1707,16 @@ function GameScreen({ game, setGame, onReset }) {
     manualKeyboardOpen ? "manual-keyboard-open" : ""
   ].filter(Boolean).join(" ");
 
-  useEffect(() => {
-    return () => {
-      flightTimers.current.forEach((timer) => window.clearTimeout(timer));
-      flightFrames.current.forEach((frame) => window.cancelAnimationFrame(frame));
-    };
+  const clearFlightWork = useCallback(() => {
+    flightTimers.current.forEach((timer) => window.clearTimeout(timer));
+    flightFrames.current.forEach((frame) => window.cancelAnimationFrame(frame));
+    flightTimers.current = [];
+    flightFrames.current = [];
   }, []);
+
+  useEffect(() => {
+    return clearFlightWork;
+  }, [clearFlightWork]);
 
   useEffect(() => {
     if (drawMode !== DRAW_MODES.MANUAL) {
@@ -1732,32 +1732,32 @@ function GameScreen({ game, setGame, onReset }) {
   const openHistorySheet = useCallback(() => setSheet("history"), []);
   const reportManualKeyboardOpen = useCallback((isOpen) => setManualKeyboardOpen(isOpen), []);
 
-  const presentCard = useCallback((nextCard, nextDrawCount, commitGame) => {
+  const presentCard = useCallback((nextCard, nextDrawCount, commitGame, presentationDelay = 0) => {
     if (!nextCard) return;
 
     const shouldAnimate = !window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    clearFlightWork();
+    setGame(commitGame);
 
     if (!shouldAnimate) {
-      setGame(commitGame);
       return;
     }
 
-    flightTimers.current.forEach((timer) => window.clearTimeout(timer));
-    flightFrames.current.forEach((frame) => window.cancelAnimationFrame(frame));
-    flightTimers.current = [];
-    flightFrames.current = [];
+    const token = `${nextCard.id}-${nextDrawCount}-${Date.now()}`;
 
     setFlight({
+      token,
       phase: "preparing",
       exitingCard: currentCard,
       enteringCard: nextCard,
-      drawCount: nextDrawCount
+      drawCount: nextDrawCount,
+      previousDrawCount: Math.max(0, nextDrawCount - 1)
     });
 
     const startDealing = () => {
       flightFrames.current = [];
       setFlight((current) =>
-        current?.drawCount === nextDrawCount
+        current?.token === token
           ? {
               ...current,
               phase: "dealing"
@@ -1765,20 +1765,32 @@ function GameScreen({ game, setGame, onReset }) {
           : current
       );
 
-      flightTimers.current.push(window.setTimeout(() => {
-        setGame(commitGame);
-        setFlight(null);
-        flightTimers.current = [];
-      }, 560));
+      const finishTimer = window.setTimeout(() => {
+        flightTimers.current = flightTimers.current.filter((timer) => timer !== finishTimer);
+        setFlight((current) => (current?.token === token ? null : current));
+      }, CARD_FLIGHT_DURATION);
+      flightTimers.current.push(finishTimer);
     };
 
-    const firstFrame = window.requestAnimationFrame(() => {
-      const secondFrame = window.requestAnimationFrame(startDealing);
-      flightFrames.current.push(secondFrame);
-    });
+    const prepareFrames = () => {
+      const firstFrame = window.requestAnimationFrame(() => {
+        const secondFrame = window.requestAnimationFrame(startDealing);
+        flightFrames.current.push(secondFrame);
+      });
 
-    flightFrames.current.push(firstFrame);
-  }, [currentCard, setGame]);
+      flightFrames.current.push(firstFrame);
+    };
+
+    if (presentationDelay > 0) {
+      const delayTimer = window.setTimeout(() => {
+        flightTimers.current = flightTimers.current.filter((timer) => timer !== delayTimer);
+        prepareFrames();
+      }, presentationDelay);
+      flightTimers.current.push(delayTimer);
+    } else {
+      prepareFrames();
+    }
+  }, [clearFlightWork, currentCard, setGame]);
 
   const draw = useCallback(() => {
     if (flight || game.deck.length === 0) return;
@@ -1789,11 +1801,11 @@ function GameScreen({ game, setGame, onReset }) {
     presentCard(nextCard, nextDrawCount, (current) => model.drawNext(current));
   }, [flight, game.deck, game.drawnIds.length, model, presentCard]);
 
-  const manualCall = useCallback((cardId) => {
+  const manualCall = useCallback((cardId, presentationDelay = 0) => {
     if (flight) return;
     const nextCard = model.cardById[cardId];
     const nextDrawCount = game.drawnIds.length + 1;
-    presentCard(nextCard, nextDrawCount, (current) => model.drawCardById(current, cardId));
+    presentCard(nextCard, nextDrawCount, (current) => model.drawCardById(current, cardId), presentationDelay);
   }, [flight, game.drawnIds.length, model, presentCard]);
 
   const undo = useCallback(() => {
@@ -1837,12 +1849,15 @@ function GameScreen({ game, setGame, onReset }) {
   }, [onReset]);
 
   const drawnCount = game.drawnIds.length;
+  const visualDrawCount = flight ? flight.previousDrawCount : drawnCount;
+  const visualCurrentCard = flight ? flight.exitingCard : currentCard;
 
   return (
     <main className={screenClass}>
       <TopBar
         game={game}
-        currentCard={currentCard}
+        currentCard={visualCurrentCard}
+        drawCount={visualDrawCount}
         onOpenBoards={openBoardsSheet}
         onOpenTeaching={openTeachingSheet}
       />
@@ -1906,14 +1921,22 @@ function GameScreen({ game, setGame, onReset }) {
 export default function App() {
   const [catalog, setCatalog] = useState(DEFAULT_CATALOG);
   const [contentId, setContentId] = useState(() => loadSelectedContentId() || DEFAULT_CATALOG.defaultContentId);
-  const [activeData, setActiveData] = useState(defaultData);
-  const [contentStatus, setContentStatus] = useState("ready");
+  const [activeData, setActiveData] = useState(null);
+  const [contentStatus, setContentStatus] = useState("loading");
   const [contentError, setContentError] = useState("");
   const [game, setGame] = useState(null);
-  const model = useMemo(() => createGameModel(activeData), [activeData]);
+  const loadedContentIdRef = useRef("");
+  const model = useMemo(() => (activeData ? createGameModel(activeData) : null), [activeData]);
+  const selectedCatalogItem = useMemo(
+    () => catalog.items.find((item) => item.id === contentId) || null,
+    [catalog.items, contentId]
+  );
   const activeCatalogItem = useMemo(
-    () => catalog.items.find((item) => item.id === activeData.slug) || catalogItemFromData(activeData, ""),
-    [activeData, catalog.items]
+    () =>
+      catalog.items.find((item) => item.id === activeData?.slug) ||
+      selectedCatalogItem ||
+      DEFAULT_CATALOG.items[0],
+    [activeData?.slug, catalog.items, selectedCatalogItem]
   );
 
   useEffect(() => {
@@ -1924,7 +1947,7 @@ export default function App() {
         if (cancelled) return;
         const nextItems = nextCatalog.items?.length ? nextCatalog.items : DEFAULT_CATALOG.items;
         const savedContentId = loadSelectedContentId();
-        const defaultContentId = nextCatalog.defaultContentId || nextItems[0]?.id || defaultData.slug;
+        const defaultContentId = nextCatalog.defaultContentId || nextItems[0]?.id || DEFAULT_CATALOG.defaultContentId;
         const nextContentId = nextItems.some((item) => item.id === savedContentId) ? savedContentId : defaultContentId;
         setCatalog({ ...nextCatalog, defaultContentId, items: nextItems });
         setContentId(nextContentId);
@@ -1941,49 +1964,58 @@ export default function App() {
   }, []);
 
   useEffect(() => {
-    const item = catalog.items.find((candidate) => candidate.id === contentId);
+    const item = selectedCatalogItem;
     if (!item) return undefined;
+    if (loadedContentIdRef.current === item.id) return undefined;
 
     let cancelled = false;
-    setContentStatus((current) => (current === "ready" ? "switching" : current));
+    setContentStatus((current) => (current === "ready" ? "switching" : "loading"));
     setContentError("");
 
     const applyContent = (nextData) => {
       if (cancelled) return;
+      loadedContentIdRef.current = nextData.slug;
       setActiveData(nextData);
       setGame(loadSavedGame(nextData));
       setContentStatus("ready");
     };
 
-    if (item.href === "./data/game-data.json") {
-      applyContent(defaultData);
-      return () => {
-        cancelled = true;
-      };
-    }
-
     fetchJson(item.href)
       .then(applyContent)
-      .catch((error) => {
+      .catch(async (error) => {
         if (cancelled) return;
+        const fallbackItem = DEFAULT_CATALOG.items[0];
+
+        if (item.id !== fallbackItem.id) {
+          try {
+            const fallbackData = await fetchJson(fallbackItem.href);
+            if (cancelled) return;
+            setContentId(fallbackItem.id);
+            applyContent(fallbackData);
+            return;
+          } catch {
+            // A mensagem abaixo cobre a falha do conteúdo escolhido e do fallback.
+          }
+        }
+
         setContentError(error.message || "Não foi possível carregar este encontro.");
-        applyContent(defaultData);
+        setContentStatus("error");
       });
 
     return () => {
       cancelled = true;
     };
-  }, [catalog.items, contentId]);
+  }, [selectedCatalogItem?.href, selectedCatalogItem?.id]);
 
   useEffect(() => {
-    document.title = activeData.title || "Bingo";
-  }, [activeData.title]);
+    document.title = activeData?.title || "Bingo";
+  }, [activeData?.title]);
 
   useEffect(() => {
     saveSelectedContentId(contentId);
   }, [contentId]);
 
-  useEffect(() => {
+  useLayoutEffect(() => {
     if (contentStatus !== "ready") return;
     saveGame(activeData, game);
   }, [activeData, contentStatus, game]);
@@ -2007,14 +2039,14 @@ export default function App() {
     [activeCatalogItem, activeData, catalog, contentError, contentId, model, selectContent]
   );
 
-  const appReady = Boolean(activeData.cards?.length && activeData.boards?.length);
+  const appReady = Boolean(activeData?.cards?.length && activeData?.boards?.length && model);
 
   if (contentStatus === "loading" && !appReady) {
     return <LoadingScreen />;
   }
 
   if (!appReady) {
-    return <LoadingScreen message="Conteúdo indisponível" />;
+    return <LoadingScreen message={contentError ? "Conteúdo indisponível" : "Carregando encontro"} />;
   }
 
   return (

@@ -1,0 +1,18 @@
+{
+  "schema": "bingo-catequese/content-bootstrap.v1",
+  "defaultContentId": "bingo_violencia_discriminacao",
+  "defaultItem": {
+    "id": "bingo_violencia_discriminacao",
+    "href": "./content/bingo_violencia_discriminacao/game-data.json",
+    "title": "Bingo — Violência e discriminação",
+    "subtitle": "Violência e discriminação",
+    "meeting": "Encontro 04 — Violência e discriminação",
+    "meetingLabel": "Encontro 04",
+    "coreMessage": "Todo ser humano possui igual dignidade diante de Deus; por isso, combater violência, discriminação e ódio é exigência concreta da caridade cristã.",
+    "cardSetId": "bingo_violencia_discriminacao_24_seed_404_2536130b98d1",
+    "encounterNumber": "04",
+    "directory": "bingos_crisma_i_01_35/encontro_04_bingo_violencia_discriminacao",
+    "boardCount": 24,
+    "cardCount": 75
+  }
+}

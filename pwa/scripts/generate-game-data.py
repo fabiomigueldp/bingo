@@ -12,6 +12,7 @@ REPO_ROOT = PWA_ROOT.parent
 CONFIG_PATH = PWA_ROOT / "pwa.config.json"
 SRC_DATA = PWA_ROOT / "src" / "data"
 OUT_PATH = SRC_DATA / "game-data.json"
+BOOTSTRAP_PATH = SRC_DATA / "bootstrap-data.json"
 PUBLIC_DIR = PWA_ROOT / "public"
 MATERIALS_DIR = PUBLIC_DIR / "materials"
 CONTENT_DIR = PUBLIC_DIR / "content"
@@ -519,6 +520,25 @@ def write_content_catalog(config: dict, default_encounter_dir: Path, default_pay
     return catalog
 
 
+def write_bootstrap_data(catalog: dict) -> None:
+    default_content_id = catalog["defaultContentId"]
+    default_item = next(
+        (item for item in catalog["items"] if item["id"] == default_content_id),
+        None,
+    )
+    if not default_item:
+        raise SystemExit(f"Default content is missing from catalog: {default_content_id}")
+
+    write_json(
+        BOOTSTRAP_PATH,
+        {
+            "schema": "bingo-catequese/content-bootstrap.v1",
+            "defaultContentId": default_content_id,
+            "defaultItem": default_item,
+        },
+    )
+
+
 def write_manifest(title: str) -> None:
     manifest = {
         "id": "/",
@@ -580,10 +600,12 @@ def main() -> None:
     write_json(OUT_PATH, default_payload)
     write_manifest(default_payload["title"])
     catalog = write_content_catalog(config, encounter_dir, default_payload)
+    write_bootstrap_data(catalog)
 
     print(
         "Generated "
-        f"{OUT_PATH.relative_to(PWA_ROOT)} and {len(catalog['items'])} content bundles "
+        f"{OUT_PATH.relative_to(PWA_ROOT)}, {BOOTSTRAP_PATH.relative_to(PWA_ROOT)} "
+        f"and {len(catalog['items'])} content bundles "
         f"from {relative_to_repo(resolve_collection_dir(config, encounter_dir))}"
     )
 
