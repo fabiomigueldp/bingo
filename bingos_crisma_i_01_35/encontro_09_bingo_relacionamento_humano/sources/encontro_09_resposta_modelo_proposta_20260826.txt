@@ -1,0 +1,2737 @@
+TERMOS_JSON_BEGIN
+{
+"title": "Bingo — Relacionamento humano",
+"meeting": "Encontro 09 — Relacionamento humano",
+"meeting_label": "Encontro 09",
+"output_slug": "bingo_relacionamento_humano",
+"core_message": "Criados à imagem de Deus e chamados à comunhão, aprendemos em Cristo a governar os sentimentos, procurar o bem do outro com verdade e liberdade, proteger a dignidade com limites justos e atravessar as feridas com perdão, reparação e reconciliação prudente.",
+"source_meeting_markdown": "projects/catequese/material_didatico/output/markdown/encontro_09.md",
+"scripture": [
+"Gn 1,27",
+"Sl 138",
+"Mt 5,23-24.44",
+"Mt 18,15-17.21-35",
+"Lc 19,8",
+"Jo 15,12-15",
+"Rm 12,17-21",
+"1Cor 13,4-7",
+"Gl 5,13",
+"Ef 4,15.25-32",
+"Cl 3,12-15.20-21",
+"Tg 1,19-20",
+"Pr 18,13",
+"Pr 27,5-6"
+],
+"catechism": [
+"CEC 356-357",
+"CEC 1762-1770",
+"CEC 1763",
+"CEC 1766-1767",
+"CEC 1769",
+"CEC 1878-1879",
+"CEC 2201-2206",
+"CEC 2214-2223",
+"CEC 2232",
+"CEC 2477",
+"CEC 2487",
+"CEC 2843"
+],
+"card_model": {
+"total_terms": 75,
+"columns": 5,
+"terms_per_column": 15,
+"grid": "5x5",
+"center": {
+"label": "LIVRE / Jo 15,12-15",
+"fixed": true,
+"called": false
+},
+"recommended_win_condition": "duas_linhas"
+},
+"columns": [
+{
+"key": "B",
+"title": "Base moral",
+"function": "Fundamentos bíblicos e doutrinais para ler o tema.",
+"short_function": "fundamento cristão do tema"
+},
+{
+"key": "I",
+"title": "Situações concretas",
+"function": "Formas reais em que o tema aparece na vida concreta, em situações inteligíveis para a turma.",
+"short_function": "situações concretas do tema"
+},
+{
+"key": "N",
+"title": "Narrativas falsas",
+"function": "Desculpas, autoenganos e frases que desviam do bem.",
+"short_function": "desculpas que normalizam o erro"
+},
+{
+"key": "G",
+"title": "Discernimentos",
+"function": "Distinções morais que evitam respostas simplistas.",
+"short_function": "distinções para discernir"
+},
+{
+"key": "O",
+"title": "Orientações de resposta",
+"function": "Ações concretas, prudentes e proporcionais diante do problema.",
+"short_function": "respostas proporcionais e prudentes"
+}
+],
+"terms": [
+{
+"id": "B01",
+"column": "B",
+"label": "Dignidade de pessoa",
+"definition": "Todo ser humano é alguém querido por Deus e possui valor próprio, que não depende de utilidade, aparência, desempenho, autonomia ou aprovação social.",
+"anchors": ["CEC 356-357", "Gn 1,27"],
+"tags": ["dignidade", "pessoa", "valor"]
+},
+{
+"id": "B02",
+"column": "B",
+"label": "Imagem de Deus",
+"definition": "A semelhança com o Criador fundamenta a igual dignidade humana e impede que alguém seja tratado como objeto, obstáculo ou instrumento.",
+"anchors": ["Gn 1,27", "CEC 356"],
+"tags": ["criação", "igualdade", "imagem de Deus"]
+},
+{
+"id": "B03",
+"column": "B",
+"label": "Vocação à comunhão",
+"definition": "A pessoa foi criada para viver relações de verdade, amor e serviço recíproco, sem perder sua liberdade, responsabilidade e singularidade.",
+"anchors": ["CEC 1878-1879", "Jo 15,12-15"],
+"tags": ["comunhão", "vida social", "reciprocidade"]
+},
+{
+"id": "B04",
+"column": "B",
+"label": "Amor quer o bem",
+"definition": "Amar é querer e procurar o bem real do outro, e não apenas agradá-lo, evitar conflitos ou satisfazer seus desejos imediatos.",
+"anchors": ["CEC 1766", "Jo 15,12-13"],
+"tags": ["amor", "caridade", "bem"]
+},
+{
+"id": "B05",
+"column": "B",
+"label": "Dom de si livre",
+"definition": "A doação cristã nasce da liberdade e da verdade; não pode ser obtida por chantagem, medo, exploração ou apagamento da própria responsabilidade.",
+"anchors": ["CEC 357", "Jo 15,13"],
+"tags": ["doação", "liberdade", "serviço"]
+},
+{
+"id": "B06",
+"column": "B",
+"label": "Governo dos sentimentos",
+"definition": "Sentimentos devem ser reconhecidos e integrados pela razão, pela vontade e pela graça, sem repressão cega nem obediência automática ao impulso.",
+"anchors": ["CEC 1763-1769", "Amoris laetitia 145"],
+"tags": ["sentimentos", "razão", "vontade"]
+},
+{
+"id": "B07",
+"column": "B",
+"label": "Verdade na caridade",
+"definition": "A verdade deve servir ao bem, à correção e à comunhão; não pode ser omitida por covardia nem usada para ferir, expor ou dominar.",
+"anchors": ["Ef 4,15", "CEC 2477"],
+"tags": ["verdade", "caridade", "correção"]
+},
+{
+"id": "B08",
+"column": "B",
+"label": "Liberdade responsável",
+"definition": "A liberdade humana não é licença para qualquer ação, mas capacidade de escolher o bem e responder pelas consequências das próprias decisões.",
+"anchors": ["CEC 357", "Gl 5,13"],
+"tags": ["liberdade", "responsabilidade", "escolha"]
+},
+{
+"id": "B09",
+"column": "B",
+"label": "Família: igreja doméstica",
+"definition": "A família cristã é chamada a ser comunidade de fé, esperança e caridade, expressa em oração, serviço, respeito, cuidado e reconciliação concreta.",
+"anchors": ["CEC 2204-2206", "Cl 3,12-15"],
+"tags": ["família", "igreja doméstica", "comunhão"]
+},
+{
+"id": "B10",
+"column": "B",
+"label": "Autoridade como serviço",
+"definition": "A autoridade legítima orienta, educa e protege o bem das pessoas confiadas a ela; não existe para controlar, humilhar ou substituir a consciência.",
+"anchors": ["CEC 2217", "CEC 2221-2223"],
+"tags": ["autoridade", "educação", "proteção"]
+},
+{
+"id": "B11",
+"column": "B",
+"label": "Amizade em Cristo",
+"definition": "A amizade cristã é fiel, sincera e livre, procura o bem do amigo e recusa tanto a manipulação quanto a cumplicidade com o erro.",
+"anchors": ["Jo 15,12-15", "Christus vivit 151-152"],
+"tags": ["amizade", "fidelidade", "Cristo"]
+},
+{
+"id": "B12",
+"column": "B",
+"label": "Respeito à reputação",
+"definition": "A fama e a intimidade do próximo devem ser protegidas; nem toda informação verdadeira pode ser divulgada, sobretudo quando não há razão justa.",
+"anchors": ["CEC 2477", "Ef 4,25"],
+"tags": ["reputação", "confidência", "verdade"]
+},
+{
+"id": "B13",
+"column": "B",
+"label": "Perdão de coração",
+"definition": "Perdoar é renunciar à vingança e entregar a ferida à ação do Espírito Santo, mesmo quando a dor e a memória da ofensa ainda permanecem.",
+"anchors": ["Mt 18,21-35", "CEC 2843"],
+"tags": ["perdão", "misericórdia", "memória"]
+},
+{
+"id": "B14",
+"column": "B",
+"label": "Dever de reparação",
+"definition": "Quem causou um dano contra a verdade, a justiça, a reputação ou os bens do próximo deve fazer o possível para corrigi-lo de modo proporcional.",
+"anchors": ["CEC 2487", "Lc 19,8"],
+"tags": ["reparação", "justiça", "responsabilidade"]
+},
+{
+"id": "B15",
+"column": "B",
+"label": "Graça da reconciliação",
+"definition": "A restauração da comunhão exige verdade, conversão e participação possível dos envolvidos, sendo sustentada pela graça e não imposta por pressão.",
+"anchors": ["Mt 5,23-24", "2Cor 5,18-20", "Fratelli tutti 250"],
+"tags": ["reconciliação", "graça", "conversão"]
+},
+{
+"id": "I01",
+"column": "I",
+"label": "Comparação corrosiva",
+"definition": "Situação em que alguém mede continuamente o próprio valor pela aparência, pelo desempenho ou pela vida exposta por outras pessoas.",
+"anchors": ["Sl 138", "Dilexit nos 6", "B01"],
+"tags": ["comparação", "autoimagem", "inveja"]
+},
+{
+"id": "I02",
+"column": "I",
+"label": "Persona fabricada",
+"definition": "Construção deliberada de uma imagem falsa para obter atenção, aprovação ou vínculo, impedindo que os outros conheçam a pessoa real.",
+"anchors": ["Sl 138", "Dilexit nos 6", "Ef 4,25"],
+"tags": ["aparência", "mentira", "autoconhecimento"]
+},
+{
+"id": "I03",
+"column": "I",
+"label": "Silêncio punitivo",
+"definition": "Recusa prolongada de diálogo usada para castigar, controlar ou forçar o outro a ceder, e não para recuperar serenidade.",
+"anchors": ["Amoris laetitia 136-139", "Ef 4,26"],
+"tags": ["silêncio", "punição", "controle"]
+},
+{
+"id": "I04",
+"column": "I",
+"label": "Ciúme vigilante",
+"definition": "Vigilância de mensagens, localização, amizades ou horários motivada por posse e apresentada como prova de afeto.",
+"anchors": ["1Cor 13,4-5", "B04", "G07"],
+"tags": ["ciúme", "vigilância", "posse"]
+},
+{
+"id": "I05",
+"column": "I",
+"label": "Pressão por cumplicidade",
+"definition": "Uso de amizade, parentesco ou lealdade para exigir mentira, encobrimento ou participação numa ação moralmente errada.",
+"anchors": ["Pr 27,5-6", "B11", "O05"],
+"tags": ["pressão", "cumplicidade", "lealdade"]
+},
+{
+"id": "I06",
+"column": "I",
+"label": "Confidência exposta",
+"definition": "Divulgação de conversa, imagem ou informação privada recebida em confiança, especialmente após conflito ou rompimento.",
+"anchors": ["CEC 2477", "B12"],
+"tags": ["confidência", "exposição", "traição"]
+},
+{
+"id": "I07",
+"column": "I",
+"label": "Boato em cadeia",
+"definition": "Acusação não verificada que ganha aparência de verdade à medida que várias pessoas a repetem ou encaminham.",
+"anchors": ["CEC 2477", "Tg 3,5-10"],
+"tags": ["boato", "reputação", "rede"]
+},
+{
+"id": "I08",
+"column": "I",
+"label": "Correção humilhante",
+"definition": "Exposição pública de uma falha sob o pretexto de corrigir, com linguagem ou cenário que reduz a pessoa ao erro cometido.",
+"anchors": ["Mt 18,15", "Ef 4,15", "G09"],
+"tags": ["correção", "humilhação", "exposição"]
+},
+{
+"id": "I09",
+"column": "I",
+"label": "Ordem familiar injusta",
+"definition": "Pedido ou comando de um familiar que exige mentira, fraude, violência ou outra ação contrária à consciência moral.",
+"anchors": ["CEC 2217", "At 5,29"],
+"tags": ["família", "obediência", "consciência"]
+},
+{
+"id": "I10",
+"column": "I",
+"label": "Violência doméstica encoberta",
+"definition": "Agressão, ameaça ou coerção dentro da família escondida para preservar aparência, patrimônio, posição social ou nome familiar.",
+"anchors": ["Fratelli tutti 241", "CEC 2217", "O10"],
+"tags": ["violência", "família", "proteção"]
+},
+{
+"id": "I11",
+"column": "I",
+"label": "Segredo de risco",
+"definition": "Informação sobre abuso, exploração, risco de vida ou intenção de ferir que não pode permanecer em segredo.",
+"anchors": ["G10", "O10", "O11"],
+"tags": ["risco", "segredo", "proteção"]
+},
+{
+"id": "I12",
+"column": "I",
+"label": "Conflito de expectativas",
+"definition": "Tensão produzida quando alguém trata uma expectativa não conversada como obrigação evidente do outro.",
+"anchors": ["Amoris laetitia 135-139", "Tg 1,19"],
+"tags": ["conflito", "expectativa", "diálogo"]
+},
+{
+"id": "I13",
+"column": "I",
+"label": "Pedido de perdão vazio",
+"definition": "Fala que aparenta arrependimento, mas evita nomear o ato, transfere culpa à vítima ou rejeita qualquer mudança e reparação.",
+"anchors": ["CEC 2487", "Mt 5,23-24"],
+"tags": ["pedido de perdão", "responsabilidade", "manipulação"]
+},
+{
+"id": "I14",
+"column": "I",
+"label": "Retorno sem mudança",
+"definition": "Pressão para retomar uma convivência ferida sem reconhecimento do mal, conversão verificável, segurança ou reconstrução da confiança.",
+"anchors": ["Fratelli tutti 241", "G12", "O14"],
+"tags": ["retorno", "reconciliação", "segurança"]
+},
+{
+"id": "I15",
+"column": "I",
+"label": "Conexão sem presença",
+"definition": "Contato digital frequente que substitui escuta, cuidado e convivência real, produzindo aparência de proximidade sem comunhão.",
+"anchors": ["CEC 1879", "Christus vivit 87-90"],
+"tags": ["redes digitais", "presença", "isolamento"]
+},
+{
+"id": "N01",
+"column": "N",
+"label": "Sentimento é prova",
+"definition": "Engano que transforma uma emoção real em certeza automática sobre os fatos, as intenções do outro ou a decisão correta.",
+"anchors": ["CEC 1767", "G01", "O02"],
+"tags": ["sentimento", "interpretação", "impulso"]
+},
+{
+"id": "N02",
+"column": "N",
+"label": "Ciúme é amor",
+"definition": "Narrativa que chama de amor a posse, a vigilância e a restrição da liberdade alheia porque são acompanhadas de emoção intensa.",
+"anchors": ["1Cor 13,4-5", "G07"],
+"tags": ["ciúme", "amor", "posse"]
+},
+{
+"id": "N03",
+"column": "N",
+"label": "Controle é cuidado",
+"definition": "Justificativa que apresenta invasão, vigilância ou domínio como proteção, mesmo quando anula a liberdade e a responsabilidade do outro.",
+"anchors": ["Amoris laetitia 261-262", "CEC 2232", "G08"],
+"tags": ["controle", "cuidado", "autonomia"]
+},
+{
+"id": "N04",
+"column": "N",
+"label": "Quem ama obedece",
+"definition": "Chantagem que mede o amor pela disposição de ceder a qualquer pedido, inclusive quando ele é injusto, imprudente ou pecaminoso.",
+"anchors": ["CEC 2217", "G07", "O05"],
+"tags": ["chantagem", "obediência", "cumplicidade"]
+},
+{
+"id": "N05",
+"column": "N",
+"label": "Era só brincadeira",
+"definition": "Desculpa usada para negar responsabilidade por humilhação, crueldade ou exposição, transferindo à vítima a culpa por ter sofrido.",
+"anchors": ["Ef 4,29", "CEC 2477"],
+"tags": ["humilhação", "brincadeira", "responsabilidade"]
+},
+{
+"id": "N06",
+"column": "N",
+"label": "Eu só repassei",
+"definition": "Falsa neutralidade de quem amplia uma ofensa, um boato ou uma exposição e procura inocentar-se por não ter criado o conteúdo.",
+"anchors": ["CEC 2477", "Christus vivit 87-90", "O07"],
+"tags": ["repassar", "cooperação", "dano"]
+},
+{
+"id": "N07",
+"column": "N",
+"label": "Verdade autoriza exposição",
+"definition": "Erro de supor que a veracidade de uma informação basta para tornar justa sua divulgação, independentemente de finalidade e necessidade.",
+"anchors": ["CEC 2477", "B07", "B12"],
+"tags": ["verdade", "exposição", "reputação"]
+},
+{
+"id": "N08",
+"column": "N",
+"label": "Família não se denuncia",
+"definition": "Regra falsa que coloca a aparência ou a unidade familiar acima da proteção de vítimas e do enfrentamento de violência ou abuso.",
+"anchors": ["CEC 2217", "Fratelli tutti 241", "O10"],
+"tags": ["família", "silêncio", "violência"]
+},
+{
+"id": "N09",
+"column": "N",
+"label": "Perdoar é esquecer",
+"definition": "Confusão que exige o desaparecimento da dor e da memória como prova de perdão e impede reconhecer consequências e riscos reais.",
+"anchors": ["CEC 2843", "G11", "G12"],
+"tags": ["perdão", "memória", "ferida"]
+},
+{
+"id": "N10",
+"column": "N",
+"label": "Perdoar exige voltar",
+"definition": "Pressão que transforma o perdão numa obrigação de reatar imediatamente, mesmo sem mudança, segurança ou confiança reconstruída.",
+"anchors": ["Fratelli tutti 241", "G12", "O14"],
+"tags": ["perdão", "retorno", "reconciliação"]
+},
+{
+"id": "N11",
+"column": "N",
+"label": "Desculpa apaga o dano",
+"definition": "Ideia de que pronunciar um pedido de desculpas encerra a responsabilidade, dispensando verdade, consequência, mudança e reparação.",
+"anchors": ["CEC 2487", "B14", "O13"],
+"tags": ["desculpa", "dano", "reparação"]
+},
+{
+"id": "N12",
+"column": "N",
+"label": "Paz a qualquer preço",
+"definition": "Falsa prudência que silencia a verdade e protege o agressor ou a injustiça para evitar tensão, conflito ou desgaste institucional.",
+"anchors": ["Mt 18,15-17", "Ef 4,15", "G04"],
+"tags": ["paz", "omissão", "conflito"]
+},
+{
+"id": "N13",
+"column": "N",
+"label": "Rejeição define valor",
+"definition": "Autoengano que transforma o abandono, a comparação ou a falta de aprovação em prova de inferioridade pessoal.",
+"anchors": ["CEC 356-357", "Sl 138", "B01"],
+"tags": ["rejeição", "dignidade", "autoimagem"]
+},
+{
+"id": "N14",
+"column": "N",
+"label": "Autonomia sem vínculos",
+"definition": "Concepção de liberdade que rejeita deveres, correções e responsabilidades para com pessoas legitimamente ligadas às próprias escolhas.",
+"anchors": ["CEC 1878-1879", "Gl 5,13", "B08"],
+"tags": ["autonomia", "responsabilidade", "vínculos"]
+},
+{
+"id": "N15",
+"column": "N",
+"label": "O outro deve me completar",
+"definition": "Expectativa de que uma pessoa satisfaça todas as necessidades afetivas, cure toda ferida e garanta continuamente segurança e valor.",
+"anchors": ["Dilexit nos 21", "CEC 357", "Jo 15,12-15"],
+"tags": ["dependência afetiva", "expectativa", "posse"]
+},
+{
+"id": "G01",
+"column": "G",
+"label": "Sentimento ou decisão",
+"definition": "Sentir é experimentar um movimento interior; decidir é consentir, escolher e agir, assumindo responsabilidade moral.",
+"anchors": ["CEC 1763-1767", "B06"],
+"tags": ["sentimento", "decisão", "responsabilidade"]
+},
+{
+"id": "G02",
+"column": "G",
+"label": "Pessoa ou ato",
+"definition": "A dignidade da pessoa permanece, enquanto seus atos podem e devem ser julgados como bons, maus, justos ou injustos.",
+"anchors": ["CEC 356-357", "Jo 8,11"],
+"tags": ["pessoa", "ato", "juízo moral"]
+},
+{
+"id": "G03",
+"column": "G",
+"label": "Escuta ou aprovação",
+"definition": "Escutar procura compreender a pessoa e os fatos; aprovar significa reconhecer como correta uma opinião, interpretação ou conduta.",
+"anchors": ["Amoris laetitia 136-139", "Tg 1,19"],
+"tags": ["escuta", "aprovação", "diálogo"]
+},
+{
+"id": "G04",
+"column": "G",
+"label": "Paciência ou passividade",
+"definition": "A paciência suporta limites e trabalha pelo bem; a passividade deixa o mal prosseguir quando havia dever e possibilidade de agir.",
+"anchors": ["1Cor 13,4-7", "Fratelli tutti 241"],
+"tags": ["paciência", "passividade", "omissão"]
+},
+{
+"id": "G05",
+"column": "G",
+"label": "Limite ou desprezo",
+"definition": "O limite recusa uma conduta ou protege um bem; o desprezo nega valor à pessoa, humilha ou busca fazê-la sofrer.",
+"anchors": ["Fratelli tutti 241", "B01"],
+"tags": ["limite", "desprezo", "dignidade"]
+},
+{
+"id": "G06",
+"column": "G",
+"label": "Conflito ou violência",
+"definition": "Conflito é divergência que pode ser enfrentada pelo diálogo; violência usa ameaça, coerção, humilhação, agressão ou domínio.",
+"anchors": ["Amoris laetitia 135-139", "Ef 4,26-27"],
+"tags": ["conflito", "violência", "coerção"]
+},
+{
+"id": "G07",
+"column": "G",
+"label": "Amizade ou posse",
+"definition": "A amizade procura o bem e respeita a liberdade; a posse exige exclusividade, vigilância, submissão ou acesso irrestrito.",
+"anchors": ["Jo 15,12-15", "Christus vivit 151-152"],
+"tags": ["amizade", "posse", "liberdade"]
+},
+{
+"id": "G08",
+"column": "G",
+"label": "Autoridade ou abuso",
+"definition": "Autoridade legítima serve ao bem comum dentro de limites morais; abuso usa posição ou dependência para dominar e explorar.",
+"anchors": ["CEC 2217", "CEC 2221-2223", "B10"],
+"tags": ["autoridade", "abuso", "serviço"]
+},
+{
+"id": "G09",
+"column": "G",
+"label": "Correção ou humilhação",
+"definition": "A correção busca verdade, mudança e bem da pessoa; a humilhação usa a falha para rebaixar, expor ou exercer superioridade.",
+"anchors": ["Mt 18,15", "Ef 4,15"],
+"tags": ["correção", "humilhação", "verdade"]
+},
+{
+"id": "G10",
+"column": "G",
+"label": "Confidência ou segredo de risco",
+"definition": "Confidências legítimas merecem reserva; informações sobre abuso, violência ou risco grave devem ser comunicadas a quem possa proteger.",
+"anchors": ["CEC 2477", "I11", "O10"],
+"tags": ["confidência", "risco", "proteção"]
+},
+{
+"id": "G11",
+"column": "G",
+"label": "Perdão ou impunidade",
+"definition": "Perdão renuncia à vingança e ao ódio; impunidade elimina indevidamente consequências, proteção, justiça e reparação.",
+"anchors": ["CEC 2843", "CEC 2487", "Fratelli tutti 241"],
+"tags": ["perdão", "impunidade", "justiça"]
+},
+{
+"id": "G12",
+"column": "G",
+"label": "Perdão ou reconciliação",
+"definition": "O perdão pode começar no coração de quem foi ferido; a reconciliação restaura uma relação e normalmente exige participação e mudança de ambos.",
+"anchors": ["CEC 2843", "Mt 5,23-24", "Fratelli tutti 250"],
+"tags": ["perdão", "reconciliação", "mudança"]
+},
+{
+"id": "G13",
+"column": "G",
+"label": "Justiça ou vingança",
+"definition": "A justiça procura verdade, proteção e reparação proporcionais; a vingança quer devolver sofrimento e prolongar o domínio da ofensa.",
+"anchors": ["Rm 12,17-21", "CEC 2487"],
+"tags": ["justiça", "vingança", "proporção"]
+},
+{
+"id": "G14",
+"column": "G",
+"label": "Autonomia ou ruptura",
+"definition": "Autonomia madura assume escolhas próprias com respeito e responsabilidade; ruptura rejeita qualquer vínculo apenas para evitar diálogo ou correção.",
+"anchors": ["CEC 2232", "Amoris laetitia 261-262"],
+"tags": ["autonomia", "ruptura", "maturidade"]
+},
+{
+"id": "G15",
+"column": "G",
+"label": "Ajuda ou dependência",
+"definition": "A ajuda fortalece a capacidade de agir e enfrentar a verdade; a dependência mantém irresponsabilidade, manipulação ou repetição do dano.",
+"anchors": ["Gl 6,2", "B04", "G05"],
+"tags": ["ajuda", "dependência", "responsabilidade"]
+},
+{
+"id": "O01",
+"column": "O",
+"label": "Nomear o que sente",
+"definition": "Reconhecer com precisão a emoção, sua intensidade e os desejos envolvidos antes de interpretar os fatos ou escolher uma ação.",
+"anchors": ["Sl 138,23-24", "CEC 1763", "G01"],
+"tags": ["sentimentos", "autoconhecimento", "discernimento"]
+},
+{
+"id": "O02",
+"column": "O",
+"label": "Conferir os fatos",
+"definition": "Separar o que realmente aconteceu das suposições, perguntar com serenidade e evitar acusação baseada apenas em medo ou impressão.",
+"anchors": ["Pr 18,13", "CEC 1767", "N01"],
+"tags": ["fatos", "interpretação", "prudência"]
+},
+{
+"id": "O03",
+"column": "O",
+"label": "Falar sem acusar",
+"definition": "Descrever o fato e seu efeito, formular um pedido claro e evitar rótulos, ironias, generalizações e julgamento de intenções.",
+"anchors": ["Ef 4,15", "Amoris laetitia 136-139"],
+"tags": ["diálogo", "verdade", "comunicação"]
+},
+{
+"id": "O04",
+"column": "O",
+"label": "Escutar até compreender",
+"definition": "Dar tempo, atenção e perguntas honestas ao outro antes de responder, interromper ou preparar uma defesa.",
+"anchors": ["Tg 1,19", "Amoris laetitia 136-139", "G03"],
+"tags": ["escuta", "diálogo", "compreensão"]
+},
+{
+"id": "O05",
+"column": "O",
+"label": "Recusar cumplicidade",
+"definition": "Negar participação em mentira, fraude, humilhação ou outra ação má, ainda que a recusa produza tensão ou perda de aprovação.",
+"anchors": ["Pr 27,5-6", "CEC 2217", "I05"],
+"tags": ["recusa", "cumplicidade", "consciência"]
+},
+{
+"id": "O06",
+"column": "O",
+"label": "Guardar confidência legítima",
+"definition": "Proteger informação privada recebida em confiança quando não há risco grave nem dever moral de comunicá-la.",
+"anchors": ["CEC 2477", "B12", "G10"],
+"tags": ["confidência", "reserva", "reputação"]
+},
+{
+"id": "O07",
+"column": "O",
+"label": "Romper a circulação",
+"definition": "Não encaminhar conteúdo ofensivo, apagar o material, advertir quem enviou e usar os meios adequados de denúncia ou remoção.",
+"anchors": ["Christus vivit 87-90", "CEC 2477", "N06"],
+"tags": ["rede digital", "exposição", "interrupção"]
+},
+{
+"id": "O08",
+"column": "O",
+"label": "Corrigir sem expor",
+"definition": "Abordar a pessoa no contexto adequado, apresentar fatos concretos, indicar o dano e pedir mudança sem transformar a falha em espetáculo.",
+"anchors": ["Mt 18,15", "Ef 4,15", "G09"],
+"tags": ["correção", "privacidade", "mudança"]
+},
+{
+"id": "O09",
+"column": "O",
+"label": "Estabelecer limite claro",
+"definition": "Comunicar de modo objetivo qual conduta não será aceita, qual consequência seguirá e como a dignidade e a segurança serão preservadas.",
+"anchors": ["Fratelli tutti 241", "G05", "G06"],
+"tags": ["limite", "segurança", "clareza"]
+},
+{
+"id": "O10",
+"column": "O",
+"label": "Buscar proteção imediata",
+"definition": "Diante de ameaça, abuso ou risco grave, afastar-se quando possível e procurar rapidamente pessoas e serviços capazes de proteger.",
+"anchors": ["Fratelli tutti 241", "G06", "G10"],
+"tags": ["proteção", "violência", "urgência"]
+},
+{
+"id": "O11",
+"column": "O",
+"label": "Procurar outro adulto",
+"definition": "Quando o primeiro adulto minimiza ou não age diante de risco grave, comunicar o fato a outra pessoa responsável ou serviço competente.",
+"anchors": ["G10", "O10", "I11"],
+"tags": ["adulto de confiança", "persistência", "proteção"]
+},
+{
+"id": "O12",
+"column": "O",
+"label": "Pedir perdão sem desculpas",
+"definition": "Nomear o ato cometido, reconhecer o dano, escutar a pessoa ferida e evitar justificativas que diminuam a responsabilidade.",
+"anchors": ["Mt 5,23-24", "CEC 2487", "I13"],
+"tags": ["pedido de perdão", "verdade", "responsabilidade"]
+},
+{
+"id": "O13",
+"column": "O",
+"label": "Reparar onde feriu",
+"definition": "Corrigir a mentira, devolver o que foi tomado, indenizar o dano ou restaurar a reputação no mesmo alcance em que a ofensa ocorreu.",
+"anchors": ["CEC 2487", "Lc 19,8", "B14"],
+"tags": ["reparação", "justiça", "alcance"]
+},
+{
+"id": "O14",
+"column": "O",
+"label": "Reconstruir confiança devagar",
+"definition": "Restabelecer responsabilidades e proximidade de maneira gradual, conforme mudança consistente, verdade, segurança e liberdade dos envolvidos.",
+"anchors": ["G12", "Fratelli tutti 250", "B15"],
+"tags": ["confiança", "reconciliação", "processo"]
+},
+{
+"id": "O15",
+"column": "O",
+"label": "Levar a ferida à oração",
+"definition": "Apresentar a Deus a dor, a ira e a memória da ofensa, pedir libertação da vingança e perseverar nas medidas justas de proteção e reparação.",
+"anchors": ["CEC 2843", "Mt 5,44", "B13"],
+"tags": ["oração", "perdão", "ferida"]
+}
+]
+}
+TERMOS_JSON_END
+
+CHAMADAS_JSON_BEGIN
+{
+"title": "Chamadas — Bingo Relacionamento humano",
+"meeting": "Encontro 09 — Relacionamento humano",
+"source_terms": "data/termos.json",
+"method": {
+"read_order": ["call_label", "case", "reading_points"],
+"rule": "A cada carta, anuncie código e conceito, leia o caso e explique brevemente a relação usando a Leitura do caso. Depois as equipes marcam o código, se estiver na cartela.",
+"conference_rule": "Ao fechar duas linhas válidas, horizontais, verticais ou diagonais, a equipe escolhe uma dessas linhas completas, explica pelo menos três conceitos da linha escolhida e liga pelo menos um deles à base bíblica ou doutrinal do encontro. As duas linhas podem se cruzar. O centro livre já conta como casa marcada para completar linhas, mas não conta como um dos três conceitos explicados."
+},
+"cards": [
+{
+"id": "B01",
+"term_id": "B01",
+"call_label": "B01 - Dignidade de pessoa",
+"case": "Num lar de idosos, um morador lúcido passa a ser chamado apenas pelo número do quarto. Decisões sobre seus horários e objetos são tomadas sem que ninguém lhe pergunte nada.",
+"conference_question": "Por que eficiência e cuidado material não bastam quando a pessoa deixa de ser tratada como sujeito?",
+"anchors": ["CEC 356-357", "Gn 1,27"],
+"facilitator_note": "Mostre que dependência física não elimina voz, história nem dignidade.",
+"reading_points": [
+{
+"title": "Alguém, não algo",
+"body": "O morador não é um leito a administrar, mas uma pessoa capaz de ser reconhecida e ouvida."
+},
+{
+"title": "Valor não condicionado",
+"body": "Fragilidade, idade ou necessidade de ajuda não diminuem seu valor humano."
+},
+{
+"title": "Critério cristão",
+"body": "A dignidade dada por Deus exige cuidado que respeite identidade, liberdade possível e participação."
+}
+]
+},
+{
+"id": "B02",
+"term_id": "B02",
+"call_label": "B02 - Imagem de Deus",
+"case": "Uma empresa rejeita uma candidata qualificada porque uma cicatriz visível não combina com a imagem que deseja apresentar aos clientes.",
+"conference_question": "Que critério permite reconhecer a injustiça mesmo quando a empresa chama a decisão de escolha de imagem?",
+"anchors": ["Gn 1,27", "CEC 356"],
+"facilitator_note": "Não reduza o caso à falta de delicadeza; trate da igual dignidade.",
+"reading_points": [
+{
+"title": "Aparência como medida",
+"body": "A candidata é julgada por um traço corporal que não impede o exercício do trabalho."
+},
+{
+"title": "Redução da pessoa",
+"body": "A lógica empresarial transforma alguém em peça de vitrine e ignora sua competência."
+},
+{
+"title": "Fundamento da igualdade",
+"body": "Ser imagem de Deus impede que aparência, prestígio ou conveniência definam quem merece respeito."
+}
+]
+},
+{
+"id": "B03",
+"term_id": "B03",
+"call_label": "B03 - Vocação à comunhão",
+"case": "Depois de ficar viúvo, um homem recusa toda visita e afirma que precisar dos outros é sinal de fraqueza. Com o tempo, deixa de cuidar da alimentação e da saúde.",
+"conference_question": "Como distinguir uma solidão escolhida para recolhimento de um isolamento que nega a necessidade humana de comunhão?",
+"anchors": ["CEC 1878-1879", "Jo 15,12-15"],
+"facilitator_note": "Evite afirmar que toda pessoa deve socializar do mesmo modo.",
+"reading_points": [
+{
+"title": "Necessidade humana",
+"body": "Receber presença e ajuda não é defeito, mas parte da condição relacional da pessoa."
+},
+{
+"title": "Isolamento destrutivo",
+"body": "A recusa absoluta de vínculos começa a comprometer cuidados básicos e fecha caminhos de auxílio."
+},
+{
+"title": "Comunhão sem dependência",
+"body": "A vida cristã une capacidade de estar consigo mesmo, abertura aos outros e responsabilidade pessoal."
+}
+]
+},
+{
+"id": "B04",
+"term_id": "B04",
+"call_label": "B04 - Amor quer o bem",
+"case": "Uma mãe paga repetidamente as dívidas de jogo do filho adulto para que ele não fique irritado. Ela evita qualquer conversa sobre tratamento ou responsabilidade.",
+"conference_question": "Por que aliviar uma consequência imediata pode deixar de ser amor quando mantém a pessoa presa ao dano?",
+"anchors": ["CEC 1766", "Jo 15,12-13"],
+"facilitator_note": "Diferencie cuidado real de facilitação irresponsável.",
+"reading_points": [
+{
+"title": "Alívio imediato",
+"body": "Pagar a dívida reduz a crise daquele momento, mas não enfrenta o comportamento que a produz."
+},
+{
+"title": "Bem real",
+"body": "Querer o bem exige considerar liberdade, verdade, tratamento e consequências, não apenas evitar irritação."
+},
+{
+"title": "Caridade exigente",
+"body": "O amor pode incluir ajuda, mas também limite, recusa e busca de apoio competente."
+}
+]
+},
+{
+"id": "B05",
+"term_id": "B05",
+"call_label": "B05 - Dom de si livre",
+"case": "Uma mulher assume sozinha todos os cuidados do pai doente porque os irmãos dizem que, se ela realmente o ama, deve abandonar trabalho, descanso e projetos pessoais.",
+"conference_question": "O que distingue uma entrega generosa de uma exploração sustentada por culpa e chantagem?",
+"anchors": ["CEC 357", "Jo 15,13"],
+"facilitator_note": "Não oponha cuidado familiar e liberdade; examine como as responsabilidades são distribuídas.",
+"reading_points": [
+{
+"title": "Cuidado verdadeiro",
+"body": "O pai precisa de assistência, e a dedicação da filha pode ser um bem real."
+},
+{
+"title": "Coerção afetiva",
+"body": "Os irmãos transformam o amor em obrigação ilimitada e fogem da própria responsabilidade."
+},
+{
+"title": "Doação ordenada",
+"body": "O dom de si é livre e pode exigir divisão de tarefas, descanso e ajuda externa."
+}
+]
+},
+{
+"id": "B06",
+"term_id": "B06",
+"call_label": "B06 - Governo dos sentimentos",
+"case": "Após ser fechado no trânsito, um motorista sente raiva, acelera e persegue o outro carro. Depois afirma que não teve escolha porque perdeu a cabeça.",
+"conference_question": "Que responsabilidade permanece entre sentir uma ira intensa e decidir persegui-la por meio de uma ação perigosa?",
+"anchors": ["CEC 1763-1769", "Amoris laetitia 145"],
+"facilitator_note": "Reconheça a emoção sem apresentá-la como autorização moral.",
+"reading_points": [
+{
+"title": "Raiva real",
+"body": "A emoção surge diante de algo percebido como agressão e não é idêntica à perseguição."
+},
+{
+"title": "Passagem à ação",
+"body": "Acelerar e colocar outros em risco envolve consentimento e decisão, ainda que feitos sob forte impulso."
+},
+{
+"title": "Integração moral",
+"body": "Governar o sentimento significa interromper a escalada, recuperar lucidez e escolher uma resposta segura."
+}
+]
+},
+{
+"id": "B07",
+"term_id": "B07",
+"call_label": "B07 - Verdade na caridade",
+"case": "Um supervisor percebe um erro sério num relatório e corrige o funcionário diante de clientes, acrescentando comentários sobre sua incompetência habitual.",
+"conference_question": "Como dizer uma verdade necessária sem transformá-la em instrumento de rebaixamento pessoal?",
+"anchors": ["Ef 4,15", "CEC 2477"],
+"facilitator_note": "A falha pode exigir correção imediata, mas não insulto nem exposição desnecessária.",
+"reading_points": [
+{
+"title": "Verdade necessária",
+"body": "O erro do relatório precisa ser identificado para evitar decisões equivocadas."
+},
+{
+"title": "Uso destrutivo",
+"body": "Os comentários gerais e públicos ultrapassam a correção e atingem a dignidade do funcionário."
+},
+{
+"title": "Caridade e precisão",
+"body": "A verdade deve ser dita no tempo, no modo e ao público necessários para corrigir o dano."
+}
+]
+},
+{
+"id": "B08",
+"term_id": "B08",
+"call_label": "B08 - Liberdade responsável",
+"case": "Depois de um rompimento, um homem publica detalhes íntimos da relação e responde às críticas dizendo que o perfil é dele e que pode escrever o que quiser.",
+"conference_question": "Por que ter capacidade técnica e liberdade de publicação não torna justa qualquer divulgação?",
+"anchors": ["CEC 357", "Gl 5,13", "CEC 2477"],
+"facilitator_note": "Mostre que liberdade e responsabilidade crescem juntas.",
+"reading_points": [
+{
+"title": "Escolha possível",
+"body": "A plataforma permite publicar, mas possibilidade técnica não define o valor moral da ação."
+},
+{
+"title": "Direitos do outro",
+"body": "A intimidade e a reputação da outra pessoa continuam merecendo respeito após o fim da relação."
+},
+{
+"title": "Liberdade ordenada",
+"body": "A liberdade madura considera verdade, finalidade, consequências e o bem de quem será atingido."
+}
+]
+},
+{
+"id": "B09",
+"term_id": "B09",
+"call_label": "B09 - Família: igreja doméstica",
+"case": "Uma família participa regularmente das celebrações, mas em casa ridiculariza o filho que está desempregado, evita pedir perdão e deixa todo cuidado da avó para uma só pessoa.",
+"conference_question": "Que sinais mostram se a fé celebrada está realmente formando a convivência familiar?",
+"anchors": ["CEC 2204-2206", "Cl 3,12-15"],
+"facilitator_note": "Não despreze a prática religiosa; mostre que ela deve produzir vida concreta.",
+"reading_points": [
+{
+"title": "Prática e convivência",
+"body": "A participação religiosa é importante, mas não substitui justiça, serviço e reconciliação dentro de casa."
+},
+{
+"title": "Responsabilidades visíveis",
+"body": "Humilhação e abandono de tarefas revelam uma comunhão familiar ferida."
+},
+{
+"title": "Missão doméstica",
+"body": "A igreja doméstica se forma por oração unida a respeito, cuidado, gratidão e mudança de conduta."
+}
+]
+},
+{
+"id": "B10",
+"term_id": "B10",
+"call_label": "B10 - Autoridade como serviço",
+"case": "Um pai escolhe a profissão da filha adulta, controla todo o salário dela e afirma que respeito aos pais significa aceitar suas decisões sem discussão.",
+"conference_question": "Que critérios permitem distinguir orientação familiar legítima de domínio sobre a vida adulta de um filho?",
+"anchors": ["CEC 2217", "CEC 2221-2223", "CEC 2232"],
+"facilitator_note": "Reconheça o respeito devido aos pais sem absolutizar sua autoridade.",
+"reading_points": [
+{
+"title": "Orientar não é substituir",
+"body": "Pais podem aconselhar e advertir, mas não devem eliminar a responsabilidade própria de um filho adulto."
+},
+{
+"title": "Uso indevido da posição",
+"body": "Controlar profissão e salário ultrapassa a educação e cria dependência."
+},
+{
+"title": "Serviço à maturidade",
+"body": "A autoridade cumpre sua missão quando ajuda a pessoa a discernir e responder livremente diante de Deus."
+}
+]
+},
+{
+"id": "B11",
+"term_id": "B11",
+"call_label": "B11 - Amizade em Cristo",
+"case": "Ao perceber que o amigo pretende dirigir depois de beber muito, um homem pega as chaves e chama transporte. O amigo se irrita e diz que foi traído.",
+"conference_question": "Por que contrariar a vontade imediata de alguém pode ser uma forma mais fiel de amizade?",
+"anchors": ["Jo 15,12-15", "Christus vivit 151-152"],
+"facilitator_note": "Destaque que amizade não é concordância automática.",
+"reading_points": [
+{
+"title": "Risco concreto",
+"body": "Dirigir alcoolizado ameaça a vida do próprio amigo e de outras pessoas."
+},
+{
+"title": "Fidelidade ao bem",
+"body": "A intervenção suporta a irritação momentânea para impedir um dano grave."
+},
+{
+"title": "Medida de Cristo",
+"body": "O amigo verdadeiro não manipula nem encobre; procura o bem mesmo quando isso custa aprovação."
+}
+]
+},
+{
+"id": "B12",
+"term_id": "B12",
+"call_label": "B12 - Respeito à reputação",
+"case": "Durante uma disputa por promoção, um funcionário conta a vários colegas um erro verdadeiro que o concorrente cometeu anos antes e que já havia sido corrigido.",
+"conference_question": "Por que uma informação verdadeira pode ser injustamente divulgada quando não serve a uma necessidade atual?",
+"anchors": ["CEC 2477", "Ef 4,25"],
+"facilitator_note": "Trabalhe finalidade, necessidade e alcance da divulgação.",
+"reading_points": [
+{
+"title": "Verdade parcial",
+"body": "O fato ocorreu, mas está sendo retirado do contexto de correção e mudança."
+},
+{
+"title": "Finalidade competitiva",
+"body": "A informação é usada para prejudicar a reputação e obter vantagem pessoal."
+},
+{
+"title": "Dever de reserva",
+"body": "Respeitar a fama alheia exige não divulgar faltas sem razão proporcional e justa."
+}
+]
+},
+{
+"id": "B13",
+"term_id": "B13",
+"call_label": "B13 - Perdão de coração",
+"case": "Uma mulher decide não se vingar de quem espalhou uma mentira sobre ela, mas ainda sente dor quando recorda o episódio. Alguém afirma que isso prova que ela não perdoou.",
+"conference_question": "O que permite reconhecer um caminho real de perdão mesmo quando a memória ainda causa sofrimento?",
+"anchors": ["Mt 18,21-35", "CEC 2843"],
+"facilitator_note": "Não confunda perdão com anestesia emocional.",
+"reading_points": [
+{
+"title": "Ferida persistente",
+"body": "A dor pode permanecer sem que a pessoa escolha alimentar ódio ou vingança."
+},
+{
+"title": "Decisão interior",
+"body": "Renunciar à retaliação e entregar a ofensa a Deus já orienta o coração para o perdão."
+},
+{
+"title": "Obra da graça",
+"body": "O Espírito Santo pode purificar a memória gradualmente, sem apagar a verdade do ocorrido."
+}
+]
+},
+{
+"id": "B14",
+"term_id": "B14",
+"call_label": "B14 - Dever de reparação",
+"case": "Uma loja publica a fotografia de uma cliente acusando-a injustamente de furto. Depois descobre o erro e envia a ela apenas um pedido de desculpas privado.",
+"conference_question": "Por que a reparação precisa alcançar também as pessoas diante das quais a reputação foi ferida?",
+"anchors": ["CEC 2487", "Lc 19,8"],
+"facilitator_note": "Mostre a relação entre alcance do dano e alcance da reparação.",
+"reading_points": [
+{
+"title": "Dano público",
+"body": "A acusação atingiu a cliente diante de todos que viram a publicação."
+},
+{
+"title": "Desculpa insuficiente",
+"body": "A mensagem privada reconhece o erro, mas não corrige a falsa impressão deixada no público."
+},
+{
+"title": "Reparação proporcional",
+"body": "A loja deve retirar a acusação, publicar a correção e responder por prejuízos causados."
+}
+]
+},
+{
+"id": "B15",
+"term_id": "B15",
+"call_label": "B15 - Graça da reconciliação",
+"case": "Depois de anos de conflito, um irmão reconhece as mentiras que contou, corrige parte do dano e aceita mediação. O outro ainda não consegue retomar a antiga proximidade.",
+"conference_question": "Que elementos mostram que a reconciliação está sendo preparada sem poder ser imposta imediatamente?",
+"anchors": ["Mt 5,23-24", "2Cor 5,18-20", "Fratelli tutti 250"],
+"facilitator_note": "Respeite o tempo da pessoa ferida e valorize sinais concretos de conversão.",
+"reading_points": [
+{
+"title": "Mudança iniciada",
+"body": "Reconhecimento, correção e mediação indicam disposição real para sair do padrão anterior."
+},
+{
+"title": "Comunhão não automática",
+"body": "A pessoa ferida não pode ser obrigada a restaurar confiança no mesmo ritmo."
+},
+{
+"title": "Esperança responsável",
+"body": "A graça abre caminho, mas atua por verdade, liberdade, perseverança e condições reais."
+}
+]
+},
+{
+"id": "I01",
+"term_id": "I01",
+"call_label": "I01 - Comparação corrosiva",
+"case": "Uma mulher passa horas vendo fotografias de corpos, viagens e carreiras nas redes. Começa a evitar encontros familiares porque considera sua vida um fracasso.",
+"conference_question": "O que muda quando imagens selecionadas da vida alheia se tornam a medida do próprio valor?",
+"anchors": ["Sl 138", "Dilexit nos 6", "B01"],
+"facilitator_note": "Diferencie inspiração legítima de comparação que corrói a identidade.",
+"reading_points": [
+{
+"title": "Medida distorcida",
+"body": "A pessoa compara sua vida inteira com recortes cuidadosamente escolhidos da vida dos outros."
+},
+{
+"title": "Efeito sobre os vínculos",
+"body": "A vergonha produz isolamento e impede receber afeto e realidade de quem está próximo."
+},
+{
+"title": "Retorno à verdade",
+"body": "O valor pessoal deve ser reconhecido diante de Deus, não calculado por aparência ou desempenho comparado."
+}
+]
+},
+{
+"id": "I02",
+"term_id": "I02",
+"call_label": "I02 - Persona fabricada",
+"case": "Para iniciar um relacionamento, um homem inventa conquistas profissionais, altera fotografias e esconde dívidas graves. Quanto mais é admirado, maior fica o medo de ser conhecido.",
+"conference_question": "Por que uma imagem capaz de atrair atenção pode tornar impossível uma intimidade verdadeira?",
+"anchors": ["Sl 138", "Dilexit nos 6", "Ef 4,25"],
+"facilitator_note": "Trate a fabricação como mentira relacional, não apenas insegurança estética.",
+"reading_points": [
+{
+"title": "Vínculo com uma aparência",
+"body": "A outra pessoa se relaciona com informações fabricadas, não com a realidade de quem as apresentou."
+},
+{
+"title": "Medo de exposição",
+"body": "A admiração recebida não traz segurança porque depende da manutenção da mentira."
+},
+{
+"title": "Verdade que possibilita comunhão",
+"body": "Intimidade exige apresentação honesta, reconhecimento de limites e responsabilidade pelas próprias condições."
+}
+]
+},
+{
+"id": "I03",
+"term_id": "I03",
+"call_label": "I03 - Silêncio punitivo",
+"case": "Após uma discussão, um marido passa quatro dias sem responder à esposa, embora converse normalmente com outras pessoas. Ele só volta a falar quando ela aceita sua exigência.",
+"conference_question": "Como distinguir uma pausa legítima para recuperar serenidade de um silêncio usado como instrumento de controle?",
+"anchors": ["Amoris laetitia 136-139", "Ef 4,26"],
+"facilitator_note": "Observe finalidade, duração e possibilidade de retomada do diálogo.",
+"reading_points": [
+{
+"title": "Comunicação retirada",
+"body": "O silêncio não serve para organizar emoções, mas para provocar sofrimento e obter submissão."
+},
+{
+"title": "Controle indireto",
+"body": "A ausência de palavra se torna uma sanção sem diálogo nem critério proporcional."
+},
+{
+"title": "Pausa responsável",
+"body": "Quem precisa parar pode comunicar isso e combinar quando a conversa será retomada."
+}
+]
+},
+{
+"id": "I04",
+"term_id": "I04",
+"call_label": "I04 - Ciúme vigilante",
+"case": "Um namorado exige localização em tempo real, senhas e fotografias que provem onde a parceira está. Quando ela recusa, ele diz que transparência total é obrigação de quem ama.",
+"conference_question": "Que sinais revelam que a busca de segurança ultrapassou o diálogo e se tornou posse?",
+"anchors": ["1Cor 13,4-5", "B04", "G07"],
+"facilitator_note": "Não trate invasão como simples excesso romântico.",
+"reading_points": [
+{
+"title": "Vigilância permanente",
+"body": "A relação passa a depender de prova contínua e acesso irrestrito à vida da outra pessoa."
+},
+{
+"title": "Liberdade reduzida",
+"body": "A recusa legítima é interpretada como culpa, criando medo e submissão."
+},
+{
+"title": "Amor sem posse",
+"body": "Confiança se constrói por verdade e responsabilidade, não por fiscalização total."
+}
+]
+},
+{
+"id": "I05",
+"term_id": "I05",
+"call_label": "I05 - Pressão por cumplicidade",
+"case": "Depois de faltar dinheiro no caixa, um funcionário pede ao colega que confirme uma contagem falsa. Diz que amigos de verdade não deixam o outro perder o emprego.",
+"conference_question": "Como a lealdade é deformada quando passa a exigir participação numa mentira?",
+"anchors": ["Pr 27,5-6", "B11", "O05"],
+"facilitator_note": "Mostre que recusar a fraude não significa desejar a ruína do colega.",
+"reading_points": [
+{
+"title": "Apelo ao vínculo",
+"body": "A amizade é usada para pressionar o colega a assumir parte da fraude."
+},
+{
+"title": "Lealdade invertida",
+"body": "Proteger alguém da verdade imediata pode aprofundar o dano e envolver outra pessoa."
+},
+{
+"title": "Fidelidade responsável",
+"body": "O colega pode recusar a mentira e incentivar confissão, correção e busca de ajuda."
+}
+]
+},
+{
+"id": "I06",
+"term_id": "I06",
+"call_label": "I06 - Confidência exposta",
+"case": "Após o fim de uma amizade, uma pessoa envia a contatos em comum um áudio privado no qual a antiga amiga falava de um problema familiar.",
+"conference_question": "Por que o término de um vínculo não elimina o dever de proteger o que foi legitimamente confiado?",
+"anchors": ["CEC 2477", "B12"],
+"facilitator_note": "Destaque que confiança passada continua gerando responsabilidade.",
+"reading_points": [
+{
+"title": "Informação recebida em confiança",
+"body": "O áudio foi compartilhado num contexto privado e não para circulação."
+},
+{
+"title": "Retaliação pela exposição",
+"body": "A divulgação usa uma vulnerabilidade para punir a antiga amiga."
+},
+{
+"title": "Dever que permanece",
+"body": "Conflito ou rompimento não transformam intimidade alheia em propriedade disponível."
+}
+]
+},
+{
+"id": "I07",
+"term_id": "I07",
+"call_label": "I07 - Boato em cadeia",
+"case": "Num grupo de moradores, alguém afirma que um funcionário do condomínio furtou encomendas. Sem verificar, várias pessoas encaminham a acusação para outros prédios.",
+"conference_question": "Como a repetição por muitas pessoas aumenta o dano sem transformar a acusação em fato comprovado?",
+"anchors": ["CEC 2477", "Tg 3,5-10"],
+"facilitator_note": "Trabalhe responsabilidade individual de cada encaminhamento.",
+"reading_points": [
+{
+"title": "Acusação não verificada",
+"body": "A informação circula antes de qualquer apuração capaz de confirmar autoria e circunstâncias."
+},
+{
+"title": "Alcance multiplicado",
+"body": "Cada repasse amplia a suspeita e dificulta a recuperação da reputação."
+},
+{
+"title": "Prudência necessária",
+"body": "É preciso interromper a circulação e encaminhar fatos concretos aos responsáveis adequados."
+}
+]
+},
+{
+"id": "I08",
+"term_id": "I08",
+"call_label": "I08 - Correção humilhante",
+"case": "Um gerente chama uma funcionária pelo alto-falante e descreve diante da loja inteira um erro que ela cometeu no estoque.",
+"conference_question": "Quando a necessidade de corrigir deixa de justificar o modo escolhido para fazer a correção?",
+"anchors": ["Mt 18,15", "Ef 4,15", "G09"],
+"facilitator_note": "O erro pode ser real; o foco é a desproporção da exposição.",
+"reading_points": [
+{
+"title": "Falha concreta",
+"body": "O problema no estoque precisa ser esclarecido e corrigido."
+},
+{
+"title": "Exposição desnecessária",
+"body": "O alto-falante transforma uma conversa de trabalho em constrangimento público."
+},
+{
+"title": "Correção proporcional",
+"body": "O responsável deve abordar fatos e consequências no ambiente adequado e sem rebaixar a pessoa."
+}
+]
+},
+{
+"id": "I09",
+"term_id": "I09",
+"call_label": "I09 - Ordem familiar injusta",
+"case": "Um pai pede ao filho adulto que assine como testemunha de uma venda que não presenciou. Quando ele hesita, o pai acusa-o de ingratidão.",
+"conference_question": "Por que o respeito familiar não obriga alguém a confirmar por escrito algo que sabe não ser verdadeiro?",
+"anchors": ["CEC 2217", "At 5,29"],
+"facilitator_note": "Diferencie desobediência arrogante de objeção moral fundada.",
+"reading_points": [
+{
+"title": "Pedido objetivamente falso",
+"body": "Assinar como testemunha sem ter presenciado o ato envolve uma declaração mentirosa."
+},
+{
+"title": "Pressão pela gratidão",
+"body": "O vínculo familiar é usado para vencer a consciência do filho."
+},
+{
+"title": "Limite da obediência",
+"body": "Nenhuma autoridade humana pode exigir uma ação que a pessoa reconhece como moralmente má."
+}
+]
+},
+{
+"id": "I10",
+"term_id": "I10",
+"call_label": "I10 - Violência doméstica encoberta",
+"case": "Vizinhos ouvem agressões frequentes numa casa. Parentes próximos sabem do problema, mas pedem silêncio para não manchar o nome da família.",
+"conference_question": "Por que preservar a aparência familiar se torna cooperação com o dano quando há violência e risco?",
+"anchors": ["Fratelli tutti 241", "CEC 2217", "O10"],
+"facilitator_note": "Não incentive confronto direto com o agressor; destaque proteção e comunicação competente.",
+"reading_points": [
+{
+"title": "Risco real",
+"body": "A repetição das agressões indica que não se trata de mera divergência privada."
+},
+{
+"title": "Silêncio protetor do agressor",
+"body": "A preocupação com reputação impede que a vítima tenha acesso a proteção."
+},
+{
+"title": "Dever de agir",
+"body": "O cuidado verdadeiro procura serviços e pessoas capazes de interromper a violência com segurança."
+}
+]
+},
+{
+"id": "I11",
+"term_id": "I11",
+"call_label": "I11 - Segredo de risco",
+"case": "Uma pessoa diz a um amigo que pretende tirar a própria vida naquela noite e exige que ele prometa não contar a ninguém.",
+"conference_question": "Que critério mostra que romper esse segredo é cuidado e não traição?",
+"anchors": ["G10", "O10", "O11"],
+"facilitator_note": "Afirme claramente que risco de vida exige ajuda imediata e não deve ser administrado sozinho.",
+"reading_points": [
+{
+"title": "Ameaça à vida",
+"body": "A informação indica perigo grave e próximo, superior ao dever comum de reserva."
+},
+{
+"title": "Promessa inválida",
+"body": "Nenhuma promessa obriga moralmente a ocultar uma situação que exige proteção urgente."
+},
+{
+"title": "Comunicação protetiva",
+"body": "É preciso procurar imediatamente adulto responsável, família segura ou serviço de emergência capaz de agir."
+}
+]
+},
+{
+"id": "I12",
+"term_id": "I12",
+"call_label": "I12 - Conflito de expectativas",
+"case": "Num casamento, uma pessoa considera óbvio visitar seus pais todos os domingos. A outra imaginava alternar compromissos e passa a ser acusada de desprezar a família.",
+"conference_question": "Como uma expectativa legítima pode gerar injustiça quando é tratada como acordo já existente?",
+"anchors": ["Amoris laetitia 135-139", "Tg 1,19"],
+"facilitator_note": "Não escolha um lado; trabalhe explicitação, negociação e limites.",
+"reading_points": [
+{
+"title": "Desejos diferentes",
+"body": "Ambos podem ter razões compreensíveis, mas não chegaram a um acordo sobre frequência e prioridades."
+},
+{
+"title": "Obrigação presumida",
+"body": "Uma expectativa pessoal é apresentada como dever evidente e moraliza a divergência."
+},
+{
+"title": "Conflito dialogável",
+"body": "A saída exige escuta, expressão clara e construção de compromisso possível."
+}
+]
+},
+{
+"id": "I13",
+"term_id": "I13",
+"call_label": "I13 - Pedido de perdão vazio",
+"case": "Depois de insultar uma funcionária diante da equipe, o chefe diz: 'Desculpe se você se sentiu ofendida, mas estava muito sensível'. Na semana seguinte, repete a conduta.",
+"conference_question": "Que elementos faltam para essa fala se tornar um pedido de perdão verdadeiro?",
+"anchors": ["CEC 2487", "Mt 5,23-24"],
+"facilitator_note": "Mostre como a formulação transfere responsabilidade à pessoa ferida.",
+"reading_points": [
+{
+"title": "Ato não reconhecido",
+"body": "O chefe não nomeia o insulto e trata o dano como simples reação exagerada."
+},
+{
+"title": "Justificativa defensiva",
+"body": "A palavra desculpe é seguida de uma explicação que reduz sua responsabilidade."
+},
+{
+"title": "Ausência de mudança",
+"body": "Sem reconhecimento, reparação e conduta nova, a fala não restaura a relação."
+}
+]
+},
+{
+"id": "I14",
+"term_id": "I14",
+"call_label": "I14 - Retorno sem mudança",
+"case": "Uma mulher afastou-se de um companheiro que a ameaçava. Parentes pressionam para que ela volte porque ele afirma sentir saudade, embora negue as ameaças e recuse ajuda.",
+"conference_question": "Por que saudade e promessa genérica não bastam para tornar seguro o retorno à convivência?",
+"anchors": ["Fratelli tutti 241", "G12", "O14"],
+"facilitator_note": "Mantenha a prioridade da segurança e não sugira mediação direta em contexto de ameaça.",
+"reading_points": [
+{
+"title": "Risco não enfrentado",
+"body": "O comportamento ameaçador não foi reconhecido nem tratado."
+},
+{
+"title": "Pressão sobre a vítima",
+"body": "Os parentes colocam o peso da reconciliação sobre quem precisou se proteger."
+},
+{
+"title": "Mudança verificável",
+"body": "Qualquer retomada exigiria segurança, responsabilidade, ajuda adequada e liberdade real da pessoa ferida."
+}
+]
+},
+{
+"id": "I15",
+"term_id": "I15",
+"call_label": "I15 - Conexão sem presença",
+"case": "Uma mulher que perdeu o marido recebe muitas reações e mensagens curtas nas redes, mas durante semanas ninguém se dispõe a visitá-la, telefonar ou ajudá-la nas tarefas básicas.",
+"conference_question": "O que falta quando a comunicação é frequente, mas não se transforma em escuta, tempo ou serviço?",
+"anchors": ["CEC 1879", "Christus vivit 87-90"],
+"facilitator_note": "Não desvalorize o contato digital; mostre seu limite quando substitui toda presença.",
+"reading_points": [
+{
+"title": "Sinal de proximidade",
+"body": "As mensagens mostram que outras pessoas souberam da perda e desejaram manifestar algo."
+},
+{
+"title": "Cuidado incompleto",
+"body": "A dor e as necessidades concretas continuam sem companhia, escuta ou auxílio."
+},
+{
+"title": "Comunhão encarnada",
+"body": "O relacionamento amadurece quando palavras se tornam tempo oferecido, atenção e serviço possível."
+}
+]
+},
+{
+"id": "N01",
+"term_id": "N01",
+"call_label": "N01 - Sentimento é prova",
+"case": "Um amigo demora a responder uma mensagem. A pessoa sente medo de ser abandonada, conclui que houve traição e publica uma acusação antes de perguntar o que aconteceu.",
+"conference_question": "Como reconhecer a verdade do medo sem tratá-lo como prova suficiente da intenção do amigo?",
+"anchors": ["CEC 1767", "G01", "O02"],
+"facilitator_note": "Valide o sentimento e questione a conclusão automática.",
+"reading_points": [
+{
+"title": "Emoção verdadeira",
+"body": "O medo foi realmente experimentado e merece ser reconhecido."
+},
+{
+"title": "Conclusão não verificada",
+"body": "A demora da resposta não prova abandono, desprezo ou traição."
+},
+{
+"title": "Discernimento necessário",
+"body": "Antes de acusar, é preciso conferir fatos, considerar outras explicações e conversar."
+}
+]
+},
+{
+"id": "N02",
+"term_id": "N02",
+"call_label": "N02 - Ciúme é amor",
+"case": "Um homem proíbe a companheira de manter antigas amizades e afirma que não sentiria tanto ciúme se não a amasse profundamente.",
+"conference_question": "Por que a intensidade do ciúme não demonstra que as exigências feitas são boas ou justas?",
+"anchors": ["1Cor 13,4-5", "G07"],
+"facilitator_note": "Separe a emoção sentida da legitimidade das restrições.",
+"reading_points": [
+{
+"title": "Sentimento intenso",
+"body": "O ciúme pode revelar medo, insegurança ou desejo de exclusividade."
+},
+{
+"title": "Posse disfarçada",
+"body": "Proibir amizades restringe a liberdade alheia e não resolve a raiz do medo."
+},
+{
+"title": "Critério do amor",
+"body": "Amar é procurar o bem da pessoa e construir confiança, não transformar emoção em direito de controlar."
+}
+]
+},
+{
+"id": "N03",
+"term_id": "N03",
+"call_label": "N03 - Controle é cuidado",
+"case": "A mãe de um filho adulto consulta escondida seus extratos bancários e mensagens. Ela afirma que precisa saber tudo para impedir que ele tome decisões erradas.",
+"conference_question": "Quando a preocupação deixa de orientar e passa a impedir que o outro assuma responsabilidade pela própria vida?",
+"anchors": ["Amoris laetitia 261-262", "CEC 2232", "G08"],
+"facilitator_note": "Considere que situações de incapacidade real exigiriam avaliação diferente.",
+"reading_points": [
+{
+"title": "Preocupação possível",
+"body": "A mãe pode conhecer fragilidades do filho e desejar protegê-lo."
+},
+{
+"title": "Invasão escondida",
+"body": "Acesso sem consentimento substitui diálogo por vigilância e enfraquece a autonomia."
+},
+{
+"title": "Cuidado que amadurece",
+"body": "Orientar significa oferecer conselho, estabelecer limites legítimos e permitir responsabilidade proporcional."
+}
+]
+},
+{
+"id": "N04",
+"term_id": "N04",
+"call_label": "N04 - Quem ama obedece",
+"case": "Um amigo pede que o outro seja fiador de uma dívida que ele não consegue pagar e diz: 'Se você confiasse em mim, assinaria sem fazer perguntas'.",
+"conference_question": "Como distinguir confiança verdadeira de chantagem que tenta impedir uma avaliação prudente?",
+"anchors": ["CEC 2217", "G07", "O05"],
+"facilitator_note": "Não julgue automaticamente todo ato de ser fiador; examine pressão e risco ocultado.",
+"reading_points": [
+{
+"title": "Pedido de alto risco",
+"body": "A assinatura criaria responsabilidade financeira real para quem está sendo pressionado."
+},
+{
+"title": "Amor como prova",
+"body": "A amizade é usada para bloquear perguntas e transformar prudência em deslealdade."
+},
+{
+"title": "Liberdade para discernir",
+"body": "Um vínculo saudável permite dizer não, pedir informações e considerar deveres já assumidos."
+}
+]
+},
+{
+"id": "N05",
+"term_id": "N05",
+"call_label": "N05 - Era só brincadeira",
+"case": "Funcionários imitam repetidamente o sotaque de um colega durante o intervalo. Quando ele pede que parem, respondem que ele não sabe brincar.",
+"conference_question": "Que critério mostra que o riso do grupo não transforma a humilhação repetida em diversão inocente?",
+"anchors": ["Ef 4,29", "CEC 2477"],
+"facilitator_note": "Considere repetição, alvo constante e reação da pessoa atingida.",
+"reading_points": [
+{
+"title": "Alvo definido",
+"body": "A mesma característica pessoal é usada continuamente para provocar riso às custas de alguém."
+},
+{
+"title": "Culpa transferida",
+"body": "O grupo evita rever a conduta e acusa a pessoa ferida de falta de humor."
+},
+{
+"title": "Responsabilidade pelo efeito",
+"body": "Brincadeira legítima não exige que alguém aceite ser rebaixado para manter o entretenimento dos demais."
+}
+]
+},
+{
+"id": "N06",
+"term_id": "N06",
+"call_label": "N06 - Eu só repassei",
+"case": "Uma gravação íntima e humilhante chega a um grupo. Várias pessoas a encaminham e afirmam que a culpa pertence apenas a quem fez o primeiro envio.",
+"conference_question": "Por que cada novo encaminhamento constitui uma nova participação no dano?",
+"anchors": ["CEC 2477", "Christus vivit 87-90", "O07"],
+"facilitator_note": "Nomeie a cooperação sem igualar automaticamente todas as responsabilidades.",
+"reading_points": [
+{
+"title": "Dano reproduzido",
+"body": "Cada repasse cria novos espectadores e prolonga a perda de controle sobre a intimidade."
+},
+{
+"title": "Neutralidade falsa",
+"body": "Não ter produzido o material não torna inocente a decisão de fazê-lo circular."
+},
+{
+"title": "Responsabilidade concreta",
+"body": "Quem recebe deve interromper, apagar, denunciar pelos meios adequados e não alimentar a curiosidade."
+}
+]
+},
+{
+"id": "N07",
+"term_id": "N07",
+"call_label": "N07 - Verdade autoriza exposição",
+"case": "Durante uma discussão familiar, alguém revela num grupo amplo o histórico de dependência química de um parente e se defende dizendo que não contou nenhuma mentira.",
+"conference_question": "Que perguntas sobre finalidade, necessidade e público precisam ser feitas antes de divulgar uma verdade delicada?",
+"anchors": ["CEC 2477", "B07", "B12"],
+"facilitator_note": "Diferencie busca legítima de ajuda de exposição usada como arma.",
+"reading_points": [
+{
+"title": "Fato sensível",
+"body": "A informação pode ser verdadeira e ainda pertencer à intimidade da pessoa."
+},
+{
+"title": "Finalidade de ferir",
+"body": "A divulgação ocorre no calor da disputa e não para organizar tratamento ou proteção."
+},
+{
+"title": "Verdade com caridade",
+"body": "Informações graves devem chegar apenas a quem precisa conhecê-las para uma finalidade justa."
+}
+]
+},
+{
+"id": "N08",
+"term_id": "N08",
+"call_label": "N08 - Família não se denuncia",
+"case": "Um parente agride a esposa e ameaça os filhos. Outros familiares sabem, mas dizem que procurar proteção pública destruiria a família.",
+"conference_question": "Por que a unidade familiar não pode ser preservada à custa da segurança de quem sofre violência?",
+"anchors": ["CEC 2217", "Fratelli tutti 241", "O10"],
+"facilitator_note": "Afirme que enfrentar a violência protege pessoas e pode ser condição para qualquer restauração futura.",
+"reading_points": [
+{
+"title": "Família já ferida",
+"body": "A violência rompe a comunhão antes de qualquer comunicação às autoridades ou serviços."
+},
+{
+"title": "Aparência acima da vítima",
+"body": "O silêncio preserva o agressor e deixa os vulneráveis sem proteção."
+},
+{
+"title": "Verdade protetiva",
+"body": "Buscar ajuda competente não é destruir a família, mas recusar que o abuso seja tratado como normal."
+}
+]
+},
+{
+"id": "N09",
+"term_id": "N09",
+"call_label": "N09 - Perdoar é esquecer",
+"case": "Após sofrer uma fraude praticada por um sócio, um comerciante é pressionado a retirar controles internos porque, segundo os familiares, lembrar do ocorrido demonstra falta de perdão.",
+"conference_question": "Como a memória do dano pode orientar prudência sem alimentar vingança?",
+"anchors": ["CEC 2843", "G11", "G12"],
+"facilitator_note": "Mostre que aprender com a ofensa não é necessariamente conservar ódio.",
+"reading_points": [
+{
+"title": "Perdão possível",
+"body": "O comerciante pode renunciar à vingança e desejar a conversão do antigo sócio."
+},
+{
+"title": "Memória prudente",
+"body": "Controles internos respondem a uma vulnerabilidade real revelada pela fraude."
+},
+{
+"title": "Coração purificado",
+"body": "Perdoar transforma a relação com a memória, mas não exige apagar fatos ou abandonar precauções."
+}
+]
+},
+{
+"id": "N10",
+"term_id": "N10",
+"call_label": "N10 - Perdoar exige voltar",
+"case": "Uma pessoa que se afastou de um familiar violento é acusada de falta de fé porque não aceita voltar imediatamente a morar na mesma casa.",
+"conference_question": "Por que o perdão interior não cria, por si só, condições seguras para restaurar a convivência?",
+"anchors": ["Fratelli tutti 241", "G12", "O14"],
+"facilitator_note": "Não condicione o perdão à exposição renovada ao risco.",
+"reading_points": [
+{
+"title": "Perdão e distância",
+"body": "É possível trabalhar contra o ódio e ainda manter afastamento protetivo."
+},
+{
+"title": "Convivência exige condições",
+"body": "Retornar pressupõe mudança, responsabilidade e segurança verificáveis."
+},
+{
+"title": "Pressão indevida",
+"body": "Usar a fé para apressar o retorno coloca sobre a vítima o peso do problema não resolvido."
+}
+]
+},
+{
+"id": "N11",
+"term_id": "N11",
+"call_label": "N11 - Desculpa apaga o dano",
+"case": "Depois de dirigir alcoolizado e destruir o portão de uma casa, um homem pede desculpas, mas se recusa a pagar o conserto porque considera o assunto encerrado.",
+"conference_question": "Por que o reconhecimento verbal não substitui a responsabilidade pelas consequências materiais?",
+"anchors": ["CEC 2487", "B14", "O13"],
+"facilitator_note": "Diferencie perdão concedido pela vítima e dever objetivo de reparar.",
+"reading_points": [
+{
+"title": "Dano verificável",
+"body": "O portão quebrado gera despesa e insegurança para outra pessoa."
+},
+{
+"title": "Palavra sem consequência",
+"body": "O pedido de desculpas é usado para evitar o custo da ação cometida."
+},
+{
+"title": "Responsabilidade integral",
+"body": "Arrependimento verdadeiro procura reparar o prejuízo e modificar a conduta que o causou."
+}
+]
+},
+{
+"id": "N12",
+"term_id": "N12",
+"call_label": "N12 - Paz a qualquer preço",
+"case": "Uma gerente recebe uma denúncia consistente de assédio, mas pede que a funcionária não formalize nada para não prejudicar o clima da equipe.",
+"conference_question": "Como distinguir a busca de paz da omissão que protege uma injustiça?",
+"anchors": ["Mt 18,15-17", "Ef 4,15", "G04"],
+"facilitator_note": "Não reduza a resposta a confronto público; destaque apuração e proteção adequadas.",
+"reading_points": [
+{
+"title": "Conflito já existente",
+"body": "O assédio produz dano mesmo que a instituição evite falar sobre ele."
+},
+{
+"title": "Silêncio conveniente",
+"body": "Preservar aparência de harmonia transfere o custo para quem sofreu a conduta."
+},
+{
+"title": "Paz fundada na justiça",
+"body": "A verdadeira paz requer escuta, proteção, apuração e consequência proporcional."
+}
+]
+},
+{
+"id": "N13",
+"term_id": "N13",
+"call_label": "N13 - Rejeição define valor",
+"case": "Depois do fim de um noivado, uma mulher conclui que ninguém mais poderá amá-la e aceita encontros nos quais é insultada porque teme ficar sozinha.",
+"conference_question": "O que muda quando a rejeição é lida como acontecimento doloroso, mas não como medida da dignidade pessoal?",
+"anchors": ["CEC 356-357", "Sl 138", "B01"],
+"facilitator_note": "Não minimize o luto do rompimento; confronte a conclusão sobre o valor pessoal.",
+"reading_points": [
+{
+"title": "Dor legítima",
+"body": "O fim do noivado pode provocar tristeza, medo e sensação de perda."
+},
+{
+"title": "Valor entregue ao outro",
+"body": "A pessoa passa a depender da aceitação alheia para acreditar que merece respeito."
+},
+{
+"title": "Dignidade anterior à aprovação",
+"body": "Ser querida por Deus permite recusar humilhações mesmo enquanto a ferida afetiva é tratada."
+}
+]
+},
+{
+"id": "N14",
+"term_id": "N14",
+"call_label": "N14 - Autonomia sem vínculos",
+"case": "Um pai deixa todo o cuidado dos filhos para a antiga companheira e afirma que, depois da separação, tem direito de viver sem prestar contas a ninguém.",
+"conference_question": "Por que a liberdade após o fim da relação conjugal não elimina responsabilidades assumidas com os filhos?",
+"anchors": ["CEC 1878-1879", "Gl 5,13", "B08"],
+"facilitator_note": "Diferencie liberdade pessoal de abandono de deveres objetivos.",
+"reading_points": [
+{
+"title": "Relação modificada",
+"body": "A separação altera a vida do casal, mas não apaga a condição e os deveres de pai."
+},
+{
+"title": "Autonomia deformada",
+"body": "A frase sobre viver sem prestar contas encobre a transferência injusta de responsabilidades."
+},
+{
+"title": "Liberdade vinculada ao bem",
+"body": "Escolhas adultas devem considerar pessoas que dependem legitimamente de cuidado, presença e sustento."
+}
+]
+},
+{
+"id": "N15",
+"term_id": "N15",
+"call_label": "N15 - O outro deve me completar",
+"case": "Uma pessoa abandona amigos, oração e atividades próprias e exige que o companheiro esteja sempre disponível para afastar sua solidão. Qualquer limite é tratado como falta de amor.",
+"conference_question": "Por que transformar uma pessoa na única fonte de segurança afetiva prejudica os dois lados da relação?",
+"anchors": ["Dilexit nos 21", "CEC 357", "Jo 15,12-15"],
+"facilitator_note": "Não condene a necessidade de afeto; examine exclusividade e responsabilidade pessoal.",
+"reading_points": [
+{
+"title": "Necessidade concentrada",
+"body": "Toda solidão, medo e confirmação de valor são colocados sobre uma única pessoa."
+},
+{
+"title": "Limite interpretado como rejeição",
+"body": "O companheiro perde liberdade para cuidar de outros deveres e vínculos."
+},
+{
+"title": "Comunhão entre pessoas inteiras",
+"body": "O amor maduro inclui presença e apoio sem exigir que o outro substitua Deus, a comunidade e o próprio amadurecimento."
+}
+]
+},
+{
+"id": "G01",
+"term_id": "G01",
+"call_label": "G01 - Sentimento ou decisão",
+"case": "Ao descobrir uma mentira, uma mulher sente vontade de expor o responsável nas redes. Ela escreve a publicação, mas decide não enviá-la antes de buscar orientação.",
+"conference_question": "Que diferença moral existe entre experimentar o desejo de retaliar e consentir em transformá-lo numa ação?",
+"anchors": ["CEC 1763-1767", "B06"],
+"facilitator_note": "Não trate o sentimento como pecado automático nem a pausa como solução completa.",
+"reading_points": [
+{
+"title": "Movimento interior",
+"body": "A vontade de expor aparece como reação à ferida e precisa ser reconhecida."
+},
+{
+"title": "Espaço de decisão",
+"body": "Não publicar interrompe a passagem automática do sentimento para a ação."
+},
+{
+"title": "Responsabilidade moral",
+"body": "O próximo passo deve ser escolhido segundo verdade, justiça e caridade, não apenas segundo a intensidade da ira."
+}
+]
+},
+{
+"id": "G02",
+"term_id": "G02",
+"call_label": "G02 - Pessoa ou ato",
+"case": "Um tesoureiro desvia dinheiro de uma associação. Alguns membros querem negar o crime para preservar sua dignidade; outros dizem que ele não merece mais ser tratado como pessoa.",
+"conference_question": "Como condenar com firmeza o ato sem negar a dignidade de quem o cometeu?",
+"anchors": ["CEC 356-357", "Jo 8,11"],
+"facilitator_note": "Evite tanto relativização quanto desumanização.",
+"reading_points": [
+{
+"title": "Ato objetivamente grave",
+"body": "O desvio exige apuração, restituição e consequências proporcionais."
+},
+{
+"title": "Dignidade que permanece",
+"body": "O crime não transforma o autor em objeto disponível para crueldade ou humilhação."
+},
+{
+"title": "Verdade inteira",
+"body": "A leitura cristã sustenta simultaneamente responsabilidade pelo ato e possibilidade de conversão da pessoa."
+}
+]
+},
+{
+"id": "G03",
+"term_id": "G03",
+"call_label": "G03 - Escuta ou aprovação",
+"case": "Uma irmã ouve por longo tempo o irmão dependente químico explicar seus medos, mas não concorda quando ele pede dinheiro e nega precisar de tratamento.",
+"conference_question": "Como a escuta pode permanecer sincera sem validar a interpretação ou o pedido apresentado?",
+"anchors": ["Amoris laetitia 136-139", "Tg 1,19"],
+"facilitator_note": "Mostre que ouvir não obriga a ceder.",
+"reading_points": [
+{
+"title": "Pessoa acolhida",
+"body": "O irmão recebe atenção e pode expressar sofrimento sem ser reduzido à dependência."
+},
+{
+"title": "Pedido avaliado",
+"body": "Escutar não torna prudente entregar dinheiro nem aceitar a negação do problema."
+},
+{
+"title": "Resposta verdadeira",
+"body": "A irmã pode demonstrar compreensão e, ao mesmo tempo, propor ajuda orientada para tratamento e responsabilidade."
+}
+]
+},
+{
+"id": "G04",
+"term_id": "G04",
+"call_label": "G04 - Paciência ou passividade",
+"case": "Uma mulher suporta insultos frequentes do companheiro porque lhe disseram que o amor cristão aguenta tudo em silêncio.",
+"conference_question": "Como a paciência cristã enfrenta limitações sem normalizar agressão e omissão?",
+"anchors": ["1Cor 13,4-7", "Fratelli tutti 241"],
+"facilitator_note": "Não use a linguagem da cruz para exigir permanência desprotegida na violência.",
+"reading_points": [
+{
+"title": "Paciência deformada",
+"body": "O silêncio é apresentado como virtude mesmo quando permite repetição do insulto."
+},
+{
+"title": "Caridade ativa",
+"body": "Amar não significa chamar o mal de bem nem abandonar a própria dignidade."
+},
+{
+"title": "Ação proporcional",
+"body": "Paciência pode conviver com limite, afastamento, pedido de ajuda e exigência de mudança."
+}
+]
+},
+{
+"id": "G05",
+"term_id": "G05",
+"call_label": "G05 - Limite ou desprezo",
+"case": "Uma filha se recusa a entregar dinheiro ao pai enquanto ele estiver usando a quantia para alimentar uma dependência. Ela continua levando alimento e oferece acompanhá-lo a um serviço de tratamento.",
+"conference_question": "O que mostra que a recusa protege um bem sem negar a dignidade do pai?",
+"anchors": ["Fratelli tutti 241", "B01", "G15"],
+"facilitator_note": "Destaque o objeto da recusa e as formas alternativas de cuidado.",
+"reading_points": [
+{
+"title": "Conduta limitada",
+"body": "A filha recusa entregar dinheiro numa situação em que ele sustenta o dano."
+},
+{
+"title": "Pessoa não abandonada",
+"body": "Ela mantém ajuda alimentar e oferece apoio para tratamento."
+},
+{
+"title": "Firmeza sem desprezo",
+"body": "O limite é claro, relacionado ao risco e acompanhado de respeito e cuidado possível."
+}
+]
+},
+{
+"id": "G06",
+"term_id": "G06",
+"call_label": "G06 - Conflito ou violência",
+"case": "Um casal discute sobre dinheiro. Durante a conversa, um deles bloqueia a porta, toma o telefone do outro e ameaça quebrar objetos se a discussão terminar.",
+"conference_question": "Que elementos fazem a cena ultrapassar uma divergência e entrar no campo da violência?",
+"anchors": ["Amoris laetitia 135-139", "Ef 4,26-27"],
+"facilitator_note": "Nomeie coerção, retenção e ameaça; não trate como discussão comum.",
+"reading_points": [
+{
+"title": "Divergência existente",
+"body": "O desacordo financeiro poderia ser discutido por fala, escuta e negociação."
+},
+{
+"title": "Coerção introduzida",
+"body": "Bloquear a saída, tomar o telefone e ameaçar retiram liberdade e criam medo."
+},
+{
+"title": "Mudança de resposta",
+"body": "Quando há violência, a prioridade deixa de ser resolver o tema da discussão e passa a ser obter segurança."
+}
+]
+},
+{
+"id": "G07",
+"term_id": "G07",
+"call_label": "G07 - Amizade ou posse",
+"case": "Uma pessoa se irrita sempre que o amigo encontra outros grupos, exige ser informada de todas as conversas e ameaça romper a amizade quando não recebe exclusividade.",
+"conference_question": "Como distinguir desejo legítimo de proximidade de uma tentativa de possuir a liberdade do amigo?",
+"anchors": ["Jo 15,12-15", "Christus vivit 151-152"],
+"facilitator_note": "Reconheça que amizade envolve compromisso, mas não exclusividade total.",
+"reading_points": [
+{
+"title": "Desejo de vínculo",
+"body": "Querer tempo, lealdade e confiança numa amizade é legítimo."
+},
+{
+"title": "Exigência de exclusividade",
+"body": "Controlar outros vínculos e todas as conversas transforma proximidade em posse."
+},
+{
+"title": "Amizade livre",
+"body": "O amigo procura o bem, aceita diferenças e não usa ameaça de abandono como instrumento de domínio."
+}
+]
+},
+{
+"id": "G08",
+"term_id": "G08",
+"call_label": "G08 - Autoridade ou abuso",
+"case": "Um empregador estabelece regras de segurança necessárias, mas também retém salários e humilha quem questiona. Ele afirma que o dono decide tudo dentro da empresa.",
+"conference_question": "Que limites morais permanecem mesmo quando alguém ocupa uma posição legítima de comando?",
+"anchors": ["CEC 2217", "CEC 2221-2223", "B10"],
+"facilitator_note": "O exemplo amplia o princípio da autoridade para além da família.",
+"reading_points": [
+{
+"title": "Autoridade real",
+"body": "O empregador pode organizar funções e exigir normas necessárias ao trabalho."
+},
+{
+"title": "Poder abusivo",
+"body": "Reter pagamento e humilhar não servem ao bem comum e violam direitos das pessoas."
+},
+{
+"title": "Critério de serviço",
+"body": "Autoridade legítima permanece vinculada à justiça, à dignidade e aos limites de sua função."
+}
+]
+},
+{
+"id": "G09",
+"term_id": "G09",
+"call_label": "G09 - Correção ou humilhação",
+"case": "Uma médica chama uma enfermeira em particular, mostra um erro de registro e combina como evitá-lo. Em outro plantão, um superior ridiculariza erro semelhante diante de pacientes.",
+"conference_question": "Que diferenças de finalidade, modo e público separam as duas formas de abordar a falha?",
+"anchors": ["Mt 18,15", "Ef 4,15"],
+"facilitator_note": "A comparação deve evidenciar que correção pode ser firme e respeitosa.",
+"reading_points": [
+{
+"title": "Fato nomeado",
+"body": "Nos dois casos existe uma falha que precisa ser corrigida por segurança e responsabilidade."
+},
+{
+"title": "Finalidades diferentes",
+"body": "A conversa privada busca mudança; a ridicularização usa a falha para rebaixar."
+},
+{
+"title": "Correção caridosa",
+"body": "A verdade deve chegar a quem precisa conhecê-la, com clareza e sem exposição desnecessária."
+}
+]
+},
+{
+"id": "G10",
+"term_id": "G10",
+"call_label": "G10 - Confidência ou segredo de risco",
+"case": "Uma adolescente conta à amiga que está sendo agredida em casa e pede segredo porque teme piorar a situação.",
+"conference_question": "Como comunicar o fato a alguém capaz de proteger sem transformar a revelação em fofoca ou exposição?",
+"anchors": ["CEC 2477", "I11", "O10"],
+"facilitator_note": "Oriente comunicação restrita a adultos ou serviços capazes de agir.",
+"reading_points": [
+{
+"title": "Confiança recebida",
+"body": "A adolescente procurou a amiga porque precisava ser ouvida e tem medo das consequências."
+},
+{
+"title": "Risco superior à reserva",
+"body": "A agressão torna moralmente inadequado guardar o segredo entre duas pessoas sem capacidade de proteção."
+},
+{
+"title": "Comunicação responsável",
+"body": "O fato deve ser levado com discrição a adulto seguro ou serviço competente, sem circulação entre curiosos."
+}
+]
+},
+{
+"id": "G11",
+"term_id": "G11",
+"call_label": "G11 - Perdão ou impunidade",
+"case": "Um funcionário desvia dinheiro. O proprietário decide não alimentar ódio contra ele, mas mantém a investigação, exige restituição e comunica o fato pelos meios legais.",
+"conference_question": "Por que consequências justas podem permanecer mesmo quando a pessoa ofendida escolhe perdoar?",
+"anchors": ["CEC 2843", "CEC 2487", "Fratelli tutti 241"],
+"facilitator_note": "Não apresente consequência como sinônimo de vingança.",
+"reading_points": [
+{
+"title": "Renúncia ao ódio",
+"body": "O proprietário pode desejar conversão e recusar crueldade contra o funcionário."
+},
+{
+"title": "Dano que exige resposta",
+"body": "O desvio afeta patrimônio, confiança e deveres institucionais."
+},
+{
+"title": "Perdão com justiça",
+"body": "Perdoar não elimina apuração, proteção de terceiros, restituição ou consequência proporcional."
+}
+]
+},
+{
+"id": "G12",
+"term_id": "G12",
+"call_label": "G12 - Perdão ou reconciliação",
+"case": "Uma irmã decide não buscar vingança depois de ser traída, mas a outra nega o que fez e continua repetindo a mesma conduta.",
+"conference_question": "O que pode começar unilateralmente no perdão e o que depende da participação de ambas para haver reconciliação?",
+"anchors": ["CEC 2843", "Mt 5,23-24", "Fratelli tutti 250"],
+"facilitator_note": "Não faça da reconciliação uma obrigação unilateral da pessoa ferida.",
+"reading_points": [
+{
+"title": "Trabalho do coração",
+"body": "A irmã ferida pode renunciar à vingança sem depender da reação da outra."
+},
+{
+"title": "Relação ainda insegura",
+"body": "Negação e repetição do dano impedem restaurar confiança e comunhão."
+},
+{
+"title": "Reconciliação bilateral",
+"body": "Retomar a relação exige verdade, mudança e liberdade possível dos dois lados."
+}
+]
+},
+{
+"id": "G13",
+"term_id": "G13",
+"call_label": "G13 - Justiça ou vingança",
+"case": "Depois de sofrer um golpe comercial, a vítima busca restituição e responsabilização. Um amigo sugere divulgar informações íntimas da família do autor para fazê-lo sofrer.",
+"conference_question": "Que critério separa uma resposta proporcional ao dano de uma retaliação dirigida a causar sofrimento?",
+"anchors": ["Rm 12,17-21", "CEC 2487"],
+"facilitator_note": "Destaque objeto, proporção e pessoas atingidas.",
+"reading_points": [
+{
+"title": "Justiça relacionada ao ato",
+"body": "Restituição e responsabilização procuram corrigir o golpe e proteger outras pessoas."
+},
+{
+"title": "Vingança ampliada",
+"body": "Expor intimidades familiares não repara o dano e alcança pessoas que não o cometeram."
+},
+{
+"title": "Proporção moral",
+"body": "A resposta justa permanece ligada à verdade, ao bem protegido e aos meios legítimos."
+}
+]
+},
+{
+"id": "G14",
+"term_id": "G14",
+"call_label": "G14 - Autonomia ou ruptura",
+"case": "Uma jovem adulta escolhe uma profissão diferente da desejada pelos pais, explica suas razões e continua aberta ao diálogo. Um conhecido aconselha que ela corte todo contato para provar independência.",
+"conference_question": "Como assumir uma escolha própria sem transformar divergência em rompimento desnecessário?",
+"anchors": ["CEC 2232", "Amoris laetitia 261-262"],
+"facilitator_note": "Não presuma que todo afastamento é errado; aqui não há risco ou abuso descrito.",
+"reading_points": [
+{
+"title": "Escolha pessoal legítima",
+"body": "A jovem precisa responder pela própria vocação e profissão."
+},
+{
+"title": "Vínculo não absoluto",
+"body": "A vontade dos pais não determina toda decisão adulta, mas continua merecendo escuta respeitosa."
+},
+{
+"title": "Autonomia relacional",
+"body": "Maturidade permite discordar, sustentar a escolha e conservar o vínculo quando não há razão grave para rompê-lo."
+}
+]
+},
+{
+"id": "G15",
+"term_id": "G15",
+"call_label": "G15 - Ajuda ou dependência",
+"case": "Uma família paga todas as dívidas de um parente dependente químico, mente aos empregadores dele e impede que enfrente qualquer consequência. O padrão se repete há anos.",
+"conference_question": "Que sinais indicam que a ajuda deixou de fortalecer a pessoa e passou a sustentar sua irresponsabilidade?",
+"anchors": ["Gl 6,2", "B04", "G05"],
+"facilitator_note": "Não proponha abandono; direcione para limites e tratamento.",
+"reading_points": [
+{
+"title": "Auxílio sem mudança",
+"body": "As intervenções retiram consequências, mas não aproximam o parente de tratamento ou responsabilidade."
+},
+{
+"title": "Sistema de encobrimento",
+"body": "Mentiras e pagamentos mantêm o funcionamento do comportamento destrutivo."
+},
+{
+"title": "Ajuda orientada ao bem",
+"body": "A família precisa substituir o resgate repetido por limites, apoio especializado e formas seguras de cuidado."
+}
+]
+},
+{
+"id": "O01",
+"term_id": "O01",
+"call_label": "O01 - Nomear o que sente",
+"case": "Antes de acusar a companheira por conversar com outra pessoa, um homem percebe que sente ciúme, medo de ser abandonado e vergonha de admitir insegurança.",
+"conference_question": "Como nomear emoções diferentes pode impedir que todas sejam descarregadas numa acusação única?",
+"anchors": ["Sl 138,23-24", "CEC 1763", "G01"],
+"facilitator_note": "Nomear não resolve tudo, mas cria espaço para discernimento.",
+"reading_points": [
+{
+"title": "Emoções diferenciadas",
+"body": "Ciúme, medo e vergonha pedem respostas diferentes e não devem ser confundidos."
+},
+{
+"title": "Impulso interrompido",
+"body": "Reconhecer o que ocorre interiormente reduz a chance de agir como se a acusação já fosse fato."
+},
+{
+"title": "Próximo passo",
+"body": "A pessoa pode levar o sentimento à oração, conferir fatos e conversar sem controlar."
+}
+]
+},
+{
+"id": "O02",
+"term_id": "O02",
+"call_label": "O02 - Conferir os fatos",
+"case": "Uma mensagem importante fica sem resposta por várias horas. Em vez de publicar uma indireta, a pessoa pergunta se houve algum problema e descobre que o telefone foi perdido.",
+"conference_question": "Que mudança de conduta ocorre quando uma interpretação é tratada como hipótese e não como certeza?",
+"anchors": ["Pr 18,13", "CEC 1767", "N01"],
+"facilitator_note": "Mostre que conferir fatos não significa ignorar padrões reais de desrespeito.",
+"reading_points": [
+{
+"title": "Interpretação suspensa",
+"body": "A demora poderia ter várias causas e não é tomada imediatamente como rejeição."
+},
+{
+"title": "Pergunta direta",
+"body": "A pessoa busca informação com quem pode esclarecer o ocorrido."
+},
+{
+"title": "Resposta proporcional",
+"body": "Fatos verificados permitem agir segundo a realidade, e não segundo uma suposição alimentada pelo medo."
+}
+]
+},
+{
+"id": "O03",
+"term_id": "O03",
+"call_label": "O03 - Falar sem acusar",
+"case": "Dois moradores dividem despesas. Um deles diz: 'As duas últimas contas venceram sem sua parte; precisei cobrir o valor e quero combinar uma data fixa', em vez de chamá-lo de irresponsável.",
+"conference_question": "Por que descrever fatos, efeitos e pedido concreto favorece mais a verdade do que rotular a pessoa?",
+"anchors": ["Ef 4,15", "Amoris laetitia 136-139"],
+"facilitator_note": "Falar sem acusar não exige esconder gravidade nem evitar consequência.",
+"reading_points": [
+{
+"title": "Fato específico",
+"body": "A fala identifica quais contas não foram pagas e o que aconteceu em seguida."
+},
+{
+"title": "Sem julgamento total",
+"body": "O morador não reduz o outro a um rótulo sobre toda sua personalidade."
+},
+{
+"title": "Pedido verificável",
+"body": "A proposta de data fixa permite compromisso, resposta e avaliação posterior."
+}
+]
+},
+{
+"id": "O04",
+"term_id": "O04",
+"call_label": "O04 - Escutar até compreender",
+"case": "Dois irmãos discutem uma herança. Antes de responder, cada um aceita ouvir o outro por alguns minutos, repetir o que entendeu e só então apresentar sua proposta.",
+"conference_question": "O que a repetição do que foi compreendido acrescenta a uma conversa em que cada lado já conhece sua própria posição?",
+"anchors": ["Tg 1,19", "Amoris laetitia 136-139", "G03"],
+"facilitator_note": "Escuta não garante acordo, mas melhora a qualidade do conflito.",
+"reading_points": [
+{
+"title": "Atenção real",
+"body": "Cada irmão precisa suspender a defesa imediata para captar razões e preocupações do outro."
+},
+{
+"title": "Compreensão conferida",
+"body": "Repetir o que ouviu permite corrigir interpretações antes de discutir soluções."
+},
+{
+"title": "Diálogo responsável",
+"body": "Mesmo sem concordância, as decisões podem ser tomadas com menos caricatura e mais verdade."
+}
+]
+},
+{
+"id": "O05",
+"term_id": "O05",
+"call_label": "O05 - Recusar cumplicidade",
+"case": "O dono de uma empresa pede ao contador que altere uma nota fiscal. O contador recusa, registra a orientação recebida e procura os canais profissionais adequados.",
+"conference_question": "Como recusar uma ordem injusta sem transformar a resposta em imprudência ou agressão pessoal?",
+"anchors": ["Pr 27,5-6", "CEC 2217", "I05"],
+"facilitator_note": "Destaque recusa clara, documentação e encaminhamento competente.",
+"reading_points": [
+{
+"title": "Não objetivo",
+"body": "O contador não participa da falsificação, mesmo sob risco de conflito com o superior."
+},
+{
+"title": "Prudência documental",
+"body": "Registrar o pedido protege a verdade e evita que o caso dependa apenas de versões orais."
+},
+{
+"title": "Encaminhamento correto",
+"body": "A resposta busca meios profissionais e legítimos, não retaliação improvisada."
+}
+]
+},
+{
+"id": "O06",
+"term_id": "O06",
+"call_label": "O06 - Guardar confidência legítima",
+"case": "Uma funcionária conta a uma colega que está passando por tratamento de infertilidade. Outros perguntam o motivo de suas ausências, mas a colega não revela a informação.",
+"conference_question": "Por que a curiosidade do grupo não cria direito de acesso a uma informação privada sem risco para terceiros?",
+"anchors": ["CEC 2477", "B12", "G10"],
+"facilitator_note": "Diferencie reserva legítima de ocultação de risco grave.",
+"reading_points": [
+{
+"title": "Informação íntima",
+"body": "O tratamento pertence à vida privada e foi comunicado a uma pessoa específica."
+},
+{
+"title": "Ausência de necessidade",
+"body": "Os demais não precisam conhecer o diagnóstico para organizar o trabalho."
+},
+{
+"title": "Fidelidade à confiança",
+"body": "Guardar a confidência protege a dignidade e devolve à pessoa o controle sobre sua própria história."
+}
+]
+},
+{
+"id": "O07",
+"term_id": "O07",
+"call_label": "O07 - Romper a circulação",
+"case": "Ao receber uma fotografia humilhante num grupo, uma pessoa não a encaminha, apaga o arquivo, pede a retirada da postagem e utiliza a ferramenta de denúncia da plataforma.",
+"conference_question": "Por que apenas não rir do conteúdo pode ser insuficiente quando ainda é possível reduzir seu alcance?",
+"anchors": ["Christus vivit 87-90", "CEC 2477", "N06"],
+"facilitator_note": "Não incentive redistribuir o material como prova; preserve a vítima.",
+"reading_points": [
+{
+"title": "Interrupção pessoal",
+"body": "A pessoa recusa participar do próximo repasse e elimina sua própria cópia."
+},
+{
+"title": "Redução do alcance",
+"body": "Pedir remoção e denunciar busca conter a continuidade do dano."
+},
+{
+"title": "Proteção sem espetáculo",
+"body": "A resposta evita novas exposições e usa os meios disponíveis para proteger a pessoa atingida."
+}
+]
+},
+{
+"id": "O08",
+"term_id": "O08",
+"call_label": "O08 - Corrigir sem expor",
+"case": "Uma supervisora percebe atrasos repetidos de um funcionário. Chama-o em particular, apresenta os registros, ouve a explicação e define o que precisa mudar e quais consequências haverá.",
+"conference_question": "Como unir respeito pela pessoa e firmeza diante de uma conduta que está prejudicando o trabalho?",
+"anchors": ["Mt 18,15", "Ef 4,15", "G09"],
+"facilitator_note": "Correção privada não significa ausência de consequência.",
+"reading_points": [
+{
+"title": "Fatos apresentados",
+"body": "A supervisora baseia a conversa em atrasos registrados, não em ataques vagos."
+},
+{
+"title": "Escuta sem relativização",
+"body": "A explicação é ouvida, mas o impacto da conduta continua sendo tratado."
+},
+{
+"title": "Mudança e consequência",
+"body": "A correção indica expectativa clara e resposta proporcional se o padrão continuar."
+}
+]
+},
+{
+"id": "O09",
+"term_id": "O09",
+"call_label": "O09 - Estabelecer limite claro",
+"case": "Um parente chega alcoolizado e agressivo a uma reunião familiar. O responsável pela casa diz que ele não entrará nessas condições e oferece chamar alguém seguro para acompanhá-lo.",
+"conference_question": "O que torna esse limite firme e protetivo sem transformá-lo em desprezo pela pessoa?",
+"anchors": ["Fratelli tutti 241", "G05", "G06"],
+"facilitator_note": "A segurança dos presentes vem antes de uma conversa longa.",
+"reading_points": [
+{
+"title": "Conduta especificada",
+"body": "A entrada é recusada por causa da agressividade e da intoxicação, não por negação do valor pessoal."
+},
+{
+"title": "Condição objetiva",
+"body": "O limite comunica claramente o que não será aceito naquele ambiente."
+},
+{
+"title": "Cuidado possível",
+"body": "Oferecer acompanhamento seguro evita abandono sem colocar os demais em risco."
+}
+]
+},
+{
+"id": "O10",
+"term_id": "O10",
+"call_label": "O10 - Buscar proteção imediata",
+"case": "Após receber ameaça concreta de agressão, uma mulher sai do local, procura uma pessoa segura e aciona os serviços competentes, em vez de voltar sozinha para convencer o agressor.",
+"conference_question": "Por que a prioridade muda de diálogo para proteção quando existe ameaça concreta?",
+"anchors": ["Fratelli tutti 241", "G06", "G10"],
+"facilitator_note": "Não apresente conversa direta como dever em situação de risco.",
+"reading_points": [
+{
+"title": "Perigo reconhecido",
+"body": "A ameaça torna imprudente permanecer ou tentar resolver tudo a sós."
+},
+{
+"title": "Afastamento protetivo",
+"body": "Sair do local reduz a exposição imediata e cria possibilidade de apoio."
+},
+{
+"title": "Ajuda competente",
+"body": "Pessoas e serviços preparados podem proteger, registrar e encaminhar a situação com mais segurança."
+}
+]
+},
+{
+"id": "O11",
+"term_id": "O11",
+"call_label": "O11 - Procurar outro adulto",
+"case": "Uma adolescente relata agressões a um adulto, mas ouve que deve ter entendido errado. Ela procura outra pessoa responsável e pede ajuda novamente.",
+"conference_question": "Por que a primeira resposta inadequada não encerra o dever de buscar proteção?",
+"anchors": ["G10", "O10", "I11"],
+"facilitator_note": "Afirme que insistir é legítimo e que a adolescente não deve investigar ou enfrentar o agressor sozinha.",
+"reading_points": [
+{
+"title": "Relato desconsiderado",
+"body": "O primeiro adulto minimiza uma informação que pode indicar risco real."
+},
+{
+"title": "Persistência responsável",
+"body": "Buscar outra pessoa não é desobediência, exagero nem traição."
+},
+{
+"title": "Rede de proteção",
+"body": "A comunicação deve continuar até alcançar alguém capaz de acolher e tomar providências."
+}
+]
+},
+{
+"id": "O12",
+"term_id": "O12",
+"call_label": "O12 - Pedir perdão sem desculpas",
+"case": "Um empresário diz ao funcionário: 'Eu o humilhei diante da equipe. Foi errado. Quero ouvi-lo e corrigir publicamente o que disse', sem acrescentar justificativas.",
+"conference_question": "Que elementos tornam essa fala diferente de uma desculpa usada apenas para encerrar o assunto?",
+"anchors": ["Mt 5,23-24", "CEC 2487", "I13"],
+"facilitator_note": "O pedido é início; a mudança posterior ainda precisa confirmar sua verdade.",
+"reading_points": [
+{
+"title": "Ato nomeado",
+"body": "O empresário reconhece precisamente a humilhação que praticou."
+},
+{
+"title": "Responsabilidade assumida",
+"body": "Ele não culpa estresse, intenção ou sensibilidade do funcionário."
+},
+{
+"title": "Abertura à reparação",
+"body": "Ouvir o atingido e corrigir publicamente apontam para resposta proporcional ao dano."
+}
+]
+},
+{
+"id": "O13",
+"term_id": "O13",
+"call_label": "O13 - Reparar onde feriu",
+"case": "Uma pessoa acusou falsamente um vizinho em três grupos de mensagens. Depois de reconhecer o erro, envia a correção aos mesmos grupos e assume os prejuízos comprovados.",
+"conference_question": "Por que reparar no mesmo alcance da ofensa é parte da justiça e não mera preocupação com aparência?",
+"anchors": ["CEC 2487", "Lc 19,8", "B14"],
+"facilitator_note": "A reparação deve ser proporcional, verdadeira e sem nova exposição desnecessária.",
+"reading_points": [
+{
+"title": "Alcance identificado",
+"body": "A acusação feriu a reputação diante de públicos concretos."
+},
+{
+"title": "Verdade restabelecida",
+"body": "A correção chega às pessoas que receberam a informação falsa."
+},
+{
+"title": "Consequências assumidas",
+"body": "Responder por prejuízos mostra que o arrependimento inclui justiça prática."
+}
+]
+},
+{
+"id": "O14",
+"term_id": "O14",
+"call_label": "O14 - Reconstruir confiança devagar",
+"case": "Após repetidas mentiras financeiras, um casal mantém contas separadas por um período, combina prestação de informações e só amplia responsabilidades conforme a conduta se torna estável.",
+"conference_question": "Como a gradualidade protege a relação sem declarar que a pessoa nunca poderá mudar?",
+"anchors": ["G12", "Fratelli tutti 250", "B15"],
+"facilitator_note": "Não transforme vigilância permanente em ideal; o objetivo é verificar mudança e recuperar liberdade.",
+"reading_points": [
+{
+"title": "Confiança ferida",
+"body": "As mentiras repetidas tornam imprudente retornar imediatamente ao modelo anterior."
+},
+{
+"title": "Condições verificáveis",
+"body": "A transparência combinada permite observar constância e assumir responsabilidades progressivas."
+},
+{
+"title": "Esperança sem ingenuidade",
+"body": "A relação permanece aberta à mudança sem ignorar o histórico nem exigir confiança instantânea."
+}
+]
+},
+{
+"id": "O15",
+"term_id": "O15",
+"call_label": "O15 - Levar a ferida à oração",
+"case": "Depois de uma traição profissional, um homem apresenta a Deus sua ira, pede para não buscar vingança e continua usando os meios legais para recuperar o que lhe foi tirado.",
+"conference_question": "Como a oração pode transformar a relação com a ofensa sem substituir justiça, limite e reparação?",
+"anchors": ["CEC 2843", "Mt 5,44", "B13"],
+"facilitator_note": "Evite opor oração e ação justa.",
+"reading_points": [
+{
+"title": "Ferida nomeada diante de Deus",
+"body": "O homem não finge serenidade nem esconde a ira que precisa ser purificada."
+},
+{
+"title": "Renúncia à vingança",
+"body": "A oração pede liberdade interior para não responder ao mal com desejo de destruição."
+},
+{
+"title": "Justiça preservada",
+"body": "Buscar restituição por meios legítimos permanece compatível com um coração que procura perdoar."
+}
+]
+}
+]
+}
+CHAMADAS_JSON_END
+
+EXPLICACOES_JSON_BEGIN
+{
+"title": "Carta de explicações rápidas — Bingo Relacionamento humano",
+"meeting": "Encontro 09 — Relacionamento humano",
+"source_calls": "data/chamadas.json",
+"purpose": "Explicações breves para o condutor usar durante a chamada de cada carta.",
+"entries": [
+{
+"id": "B01",
+"explanation": "A **dignidade de pessoa** não depende de saúde, produtividade ou autonomia. Quem precisa de ajuda continua sendo alguém com nome, história e voz. O cuidado cristão protege a vida sem transformar a pessoa em objeto administrado."
+},
+{
+"id": "B02",
+"explanation": "Ser **imagem de Deus** é o fundamento da igual dignidade humana. Aparência, prestígio e conveniência não autorizam reduzir alguém a obstáculo ou vitrine. A relação justa começa reconhecendo no outro uma pessoa querida pelo Criador."
+},
+{
+"id": "B03",
+"explanation": "A **vocação à comunhão** mostra que precisar dos outros não é defeito. A pessoa cresce por diálogo, serviço e reciprocidade, sem depender da aprovação de todos. Isolamento absoluto e comunhão verdadeira não são a mesma coisa."
+},
+{
+"id": "B04",
+"explanation": "**Amar é querer o bem**, não apenas evitar que o outro se irrite ou sofra uma consequência. Às vezes, agradar mantém uma mentira, um vício ou uma irresponsabilidade. O amor pode exigir ajuda, limite e verdade ao mesmo tempo."
+},
+{
+"id": "B05",
+"explanation": "O **dom de si** é generoso, mas deve permanecer livre e ordenado. Chantagem e culpa podem explorar uma disposição boa. Servir não significa aceitar que outros abandonem as próprias responsabilidades."
+},
+{
+"id": "B06",
+"explanation": "O **governo dos sentimentos** não apaga emoções nem as trata como pecado automático. Ele impede que a emoção seja obedecida cegamente. Reconhecer, examinar e escolher permite que razão, vontade e graça orientem a ação."
+},
+{
+"id": "B07",
+"explanation": "A **verdade na caridade** recusa dois extremos: esconder o necessário e usar a verdade como arma. O modo, o momento e o público também fazem parte da moral da fala. Corrigir deve servir ao bem e não à humilhação."
+},
+{
+"id": "B08",
+"explanation": "A **liberdade responsável** considera o bem, os direitos do outro e as consequências. Poder fazer algo não significa ter razão para fazê-lo. A liberdade amadurece quando a pessoa responde por suas escolhas."
+},
+{
+"id": "B09",
+"explanation": "A família é chamada a ser **igreja doméstica**, não porque seja perfeita, mas porque recebeu uma missão. Oração e prática religiosa devem alcançar tarefas, palavras, cuidado e reconciliação. A fé celebrada precisa formar a convivência."
+},
+{
+"id": "B10",
+"explanation": "A **autoridade como serviço** orienta e protege sem substituir a consciência da pessoa. Pais, responsáveis e superiores possuem limites morais. O poder legítimo deve favorecer maturidade, justiça e responsabilidade."
+},
+{
+"id": "B11",
+"explanation": "A **amizade em Cristo** procura o bem do amigo e não sua aprovação a qualquer preço. Por isso, pode corrigir, impedir um risco e recusar cumplicidade. Amizade fiel não é posse nem concordância automática."
+},
+{
+"id": "B12",
+"explanation": "O **respeito à reputação** impede divulgar faltas sem necessidade justa. Uma informação verdadeira também pode ser usada de modo injusto. A intimidade do outro não se torna propriedade de quem a conhece."
+},
+{
+"id": "B13",
+"explanation": "O **perdão de coração** começa pela renúncia à vingança, não pelo desaparecimento imediato da dor. A memória pode continuar ferida e ainda assim ser entregue ao Espírito Santo. Perdoar não exige fingir que nada aconteceu."
+},
+{
+"id": "B14",
+"explanation": "O **dever de reparação** nasce do dano causado contra a justiça ou a verdade. Pedir desculpas não basta quando a reputação, os bens ou a segurança continuam prejudicados. A correção deve ser proporcional ao alcance da ofensa."
+},
+{
+"id": "B15",
+"explanation": "A **reconciliação** restaura uma comunhão ferida e, por isso, não pode ser imposta. Ela precisa de verdade, mudança e liberdade dos envolvidos. A graça sustenta o processo, mas não dispensa responsabilidade nem segurança."
+},
+{
+"id": "I01",
+"explanation": "A **comparação corrosiva** usa recortes da vida alheia como medida da própria existência. Isso deforma a percepção dos dons, limites e caminhos reais. O autoconhecimento cristão retorna à verdade diante de Deus, sem desprezo nem representação."
+},
+{
+"id": "I02",
+"explanation": "A **persona fabricada** pode atrair atenção, mas impede intimidade. Os outros passam a se relacionar com uma imagem construída. A comunhão exige verdade suficiente para que a pessoa real possa ser conhecida e responsável."
+},
+{
+"id": "I03",
+"explanation": "O **silêncio punitivo** retira comunicação para castigar ou forçar submissão. Isso é diferente de pedir tempo para recuperar serenidade. Uma pausa responsável informa o limite e prevê retomada do diálogo."
+},
+{
+"id": "I04",
+"explanation": "O **ciúme vigilante** transforma insegurança em direito de fiscalização. Senhas, localização e provas constantes não produzem confiança verdadeira. Amor respeita liberdade e enfrenta o medo sem possuir o outro."
+},
+{
+"id": "I05",
+"explanation": "A **pressão por cumplicidade** usa um vínculo bom para exigir uma ação má. Mentir ou encobrir não se tornam lealdade porque foram pedidos por um amigo ou familiar. A fidelidade real ajuda a pessoa a enfrentar a verdade."
+},
+{
+"id": "I06",
+"explanation": "A **confidência exposta** transforma vulnerabilidade recebida em instrumento de retaliação. O fim de uma amizade não apaga o dever de reserva. O que foi confiado continua pertencendo à história da outra pessoa."
+},
+{
+"id": "I07",
+"explanation": "O **boato em cadeia** cresce por muitos atos pequenos de repetição. Cada encaminhamento amplia o dano sem provar a acusação. A resposta prudente é interromper a circulação e levar fatos a quem deve apurá-los."
+},
+{
+"id": "I08",
+"explanation": "A **correção humilhante** usa uma falha real para produzir constrangimento. Corrigir pode ser necessário e firme, mas não deve virar espetáculo. O objetivo cristão é mudança e verdade, não rebaixamento."
+},
+{
+"id": "I09",
+"explanation": "Uma **ordem familiar injusta** não obriga moralmente. Respeito e gratidão não autorizam mentira, fraude ou violência. A consciência deve recusar o mal sem usar essa recusa como pretexto para desprezar a família."
+},
+{
+"id": "I10",
+"explanation": "A **violência doméstica encoberta** não preserva a família; preserva a continuidade do dano. Aparência, patrimônio ou reputação não valem mais que a segurança das vítimas. A verdade precisa chegar a quem possa proteger."
+},
+{
+"id": "I11",
+"explanation": "Um **segredo de risco** envolve ameaça à vida, abuso ou violência grave. Nesses casos, guardar silêncio não é fidelidade. A informação deve ser comunicada com discrição a pessoas ou serviços capazes de agir."
+},
+{
+"id": "I12",
+"explanation": "O **conflito de expectativas** aparece quando um desejo não conversado é tratado como obrigação do outro. A expectativa pode ser compreensível, mas ainda precisa ser explicitada e negociada. Diálogo evita transformar diferença em acusação moral."
+},
+{
+"id": "I13",
+"explanation": "Um **pedido de perdão vazio** evita nomear o ato e transfere a culpa à pessoa ferida. Sem responsabilidade, escuta e mudança, a palavra desculpa vira encerramento forçado. Arrependimento verdadeiro aceita também reparação."
+},
+{
+"id": "I14",
+"explanation": "O **retorno sem mudança** exige convivência antes que o mal tenha sido enfrentado. Saudade ou promessa genérica não restabelecem segurança e confiança. A reconciliação precisa de conversão verificável e liberdade da pessoa ferida."
+},
+{
+"id": "I15",
+"explanation": "A **conexão sem presença** oferece sinais rápidos de contato, mas pode deixar necessidades reais sem resposta. Comunicação digital é útil, porém não substitui toda escuta, tempo e serviço. Comunhão envolve presença conforme as possibilidades concretas."
+},
+{
+"id": "N01",
+"explanation": "A narrativa **sentimento é prova** confunde emoção com conhecimento dos fatos. O sentimento é verdadeiro como experiência interior, mas sua interpretação pode estar errada. Antes de agir, é preciso conferir o que realmente aconteceu."
+},
+{
+"id": "N02",
+"explanation": "A frase **ciúme é amor** transforma intensidade emocional em justificativa para controle. Ciúme pode revelar medo, mas não cria direito de restringir a liberdade alheia. O amor procura confiança e bem, não posse."
+},
+{
+"id": "N03",
+"explanation": "A narrativa **controle é cuidado** encobre invasão e domínio. Cuidar ajuda a pessoa a crescer em responsabilidade; controlar impede que ela responda por escolhas reais. Proteção legítima precisa respeitar limites e condições concretas."
+},
+{
+"id": "N04",
+"explanation": "A chantagem **quem ama obedece** transforma o vínculo em teste de submissão. Amor não obriga ninguém a mentir, assumir risco injusto ou abandonar a consciência. Relações maduras permitem perguntas, prudência e recusa."
+},
+{
+"id": "N05",
+"explanation": "A desculpa **era só brincadeira** não apaga humilhação repetida. O riso do grupo não define sozinho a bondade da ação. Quando alguém precisa ser rebaixado para divertir os demais, há responsabilidade moral."
+},
+{
+"id": "N06",
+"explanation": "A frase **eu só repassei** esconde a participação de quem amplia o dano. Cada envio cria novo alcance e nova exposição. Quem recebe conteúdo ofensivo deve interromper a corrente em vez de alegar neutralidade."
+},
+{
+"id": "N07",
+"explanation": "A ideia de que a **verdade autoriza exposição** ignora finalidade, necessidade e público. Nem tudo o que é verdadeiro deve ser divulgado. A verdade cristã serve ao bem e respeita a reputação."
+},
+{
+"id": "N08",
+"explanation": "A regra **família não se denuncia** coloca a aparência acima da vítima. Violência e abuso já feriram a comunhão familiar. Buscar proteção não destrói a família; recusa que o dano continue escondido."
+},
+{
+"id": "N09",
+"explanation": "A frase **perdoar é esquecer** exige algo que não depende simplesmente da vontade. A memória pode permanecer e orientar limites prudentes. O perdão muda a relação com a ofensa sem apagar sua verdade."
+},
+{
+"id": "N10",
+"explanation": "A narrativa **perdoar exige voltar** confunde decisão interior e restauração da convivência. O perdão pode existir com distância e proteção. O retorno depende de mudança, segurança e confiança reconstruída."
+},
+{
+"id": "N11",
+"explanation": "A ideia de que a **desculpa apaga o dano** reduz o arrependimento a uma palavra. Consequências materiais, morais e relacionais continuam existindo. Quem reconhece a falta procura também reparar e mudar."
+},
+{
+"id": "N12",
+"explanation": "A **paz a qualquer preço** evita conflito, mas pode proteger a injustiça. Silenciar uma denúncia não cria comunhão; apenas transfere o custo para quem sofreu. A paz cristã precisa de verdade, proteção e justiça."
+},
+{
+"id": "N13",
+"explanation": "A narrativa **rejeição define valor** entrega a dignidade ao julgamento alheio. Rejeição pode ferir profundamente, mas não decide quanto uma pessoa vale. A dignidade recebida de Deus permite buscar ajuda e recusar humilhações."
+},
+{
+"id": "N14",
+"explanation": "A **autonomia sem vínculos** chama de liberdade o abandono de deveres. Escolhas pessoais continuam atingindo filhos, familiares, trabalhadores e outras pessoas. Liberdade responsável reconhece compromissos legítimos."
+},
+{
+"id": "N15",
+"explanation": "A expectativa de que **o outro deve me completar** coloca sobre uma pessoa um peso impossível. Afeto e apoio são necessários, mas não substituem Deus, comunidade e amadurecimento pessoal. O amor une duas liberdades; não absorve uma delas."
+},
+{
+"id": "G01",
+"explanation": "**Sentimento e decisão** não são a mesma coisa. A emoção surge e pode ser intensa, enquanto a decisão envolve consentimento e ação. Essa distinção permite reconhecer o que se sente sem entregar ao impulso o comando da conduta."
+},
+{
+"id": "G02",
+"explanation": "Distinguir **pessoa e ato** evita relativização e desumanização. O ato mau deve ser nomeado e responsabilizado. A pessoa conserva dignidade e possibilidade de conversão."
+},
+{
+"id": "G03",
+"explanation": "**Escutar não é aprovar**. É possível acolher a pessoa, compreender seu sofrimento e ainda discordar de sua interpretação ou pedido. A escuta séria prepara uma resposta mais verdadeira."
+},
+{
+"id": "G04",
+"explanation": "A **paciência** trabalha pelo bem sem responder impulsivamente. A passividade deixa o mal continuar quando era necessário proteger, corrigir ou pedir ajuda. Caridade não obriga ninguém a normalizar violência."
+},
+{
+"id": "G05",
+"explanation": "O **limite** recusa uma conduta e protege um bem. O desprezo ataca o valor da pessoa e procura fazê-la sofrer. É possível dizer não com firmeza e ainda oferecer respeito e ajuda adequada."
+},
+{
+"id": "G06",
+"explanation": "**Conflito e violência** exigem respostas diferentes. Divergências podem ser enfrentadas por diálogo e negociação. Ameaça, coerção e agressão mudam a prioridade para segurança e proteção."
+},
+{
+"id": "G07",
+"explanation": "A **amizade** respeita liberdade e outros vínculos. A posse exige exclusividade, acesso total e submissão. Proximidade verdadeira não precisa controlar para permanecer fiel."
+},
+{
+"id": "G08",
+"explanation": "A **autoridade** possui função e limites; o abuso usa a posição para dominar. Dar ordens legítimas não autoriza humilhar, explorar ou exigir o mal. Toda autoridade deve servir à justiça e ao bem das pessoas."
+},
+{
+"id": "G09",
+"explanation": "A **correção** nomeia o erro para promover mudança. A humilhação usa o erro para rebaixar e exibir superioridade. Finalidade, linguagem e público ajudam a distinguir uma da outra."
+},
+{
+"id": "G10",
+"explanation": "A **confidência legítima** merece reserva. Um segredo ligado a abuso, violência ou risco grave precisa ser comunicado a quem possa proteger. Romper esse segredo com discrição é cuidado, não fofoca."
+},
+{
+"id": "G11",
+"explanation": "**Perdão não é impunidade**. Renunciar ao ódio não elimina investigação, proteção, restituição ou consequência proporcional. A misericórdia cristã não chama o mal de bem."
+},
+{
+"id": "G12",
+"explanation": "**Perdão e reconciliação** são relacionados, mas distintos. O perdão pode começar no coração de uma só pessoa. A reconciliação restaura a relação e normalmente exige verdade, mudança e participação dos dois lados."
+},
+{
+"id": "G13",
+"explanation": "A **justiça** busca verdade, reparação e proteção proporcionais. A vingança busca devolver sofrimento e pode atingir inocentes. O meio escolhido revela se a resposta está ligada ao bem ou ao desejo de ferir."
+},
+{
+"id": "G14",
+"explanation": "A **autonomia** permite assumir escolhas próprias com responsabilidade. Ruptura não é prova automática de maturidade. Quando não há risco grave, é possível discordar e conservar respeito e diálogo."
+},
+{
+"id": "G15",
+"explanation": "A **ajuda** verdadeira fortalece a pessoa para enfrentar a realidade. A dependência mantém encobrimento, irresponsabilidade ou manipulação. Cuidar pode exigir mudar a forma de ajudar e estabelecer limites."
+},
+{
+"id": "O01",
+"explanation": "**Nomear o que sente** separa medo, ira, vergonha, ciúme e tristeza. Isso reduz a confusão e cria espaço entre emoção e ação. Depois de nomear, ainda é preciso conferir fatos e escolher o bem."
+},
+{
+"id": "O02",
+"explanation": "**Conferir os fatos** impede que uma hipótese seja tratada como certeza. Perguntar com serenidade é diferente de acusar ou expor. A resposta moral deve partir do que realmente ocorreu."
+},
+{
+"id": "O03",
+"explanation": "**Falar sem acusar** significa nomear fatos, efeitos e pedidos concretos. Isso não exige suavizar uma falta grave. Evitar rótulos ajuda a corrigir a conduta sem reduzir a pessoa ao erro."
+},
+{
+"id": "O04",
+"explanation": "**Escutar até compreender** exige atenção antes da defesa. Repetir o que foi entendido permite corrigir caricaturas e mal-entendidos. A escuta não garante acordo, mas torna o conflito mais verdadeiro."
+},
+{
+"id": "O05",
+"explanation": "**Recusar cumplicidade** é dizer não a uma ação má, mesmo sob pressão de autoridade ou amizade. A recusa deve ser clara e prudente. Quando necessário, fatos devem ser documentados e encaminhados pelos meios adequados."
+},
+{
+"id": "O06",
+"explanation": "**Guardar confidência legítima** protege a intimidade e a reputação. Curiosidade não cria direito de acesso à história alheia. A reserva só cede quando existe risco grave ou dever real de comunicar."
+},
+{
+"id": "O07",
+"explanation": "**Romper a circulação** exige mais que não rir. É preciso não encaminhar, apagar, pedir remoção e denunciar pelos meios adequados. A resposta deve conter o dano sem produzir nova exposição."
+},
+{
+"id": "O08",
+"explanation": "**Corrigir sem expor** une fatos claros, contexto adequado e pedido de mudança. Respeito não elimina consequência. A correção cristã procura recuperar a verdade e o bem da relação."
+},
+{
+"id": "O09",
+"explanation": "**Estabelecer limite claro** é dizer qual conduta não será aceita e qual consequência seguirá. O limite deve proteger a segurança sem humilhar. Ele se dirige ao comportamento e não nega a dignidade da pessoa."
+},
+{
+"id": "O10",
+"explanation": "**Buscar proteção imediata** é a resposta prudente diante de ameaça, abuso ou risco grave. A pessoa não tem obrigação de resolver sozinha nem de convencer o agressor. Afastamento e ajuda competente vêm antes do diálogo."
+},
+{
+"id": "O11",
+"explanation": "**Procurar outro adulto** é necessário quando a primeira pessoa não acolhe ou não age diante do risco. Uma resposta inadequada não torna o problema menos grave. A busca deve continuar até alcançar proteção responsável."
+},
+{
+"id": "O12",
+"explanation": "**Pedir perdão sem desculpas** é nomear o ato e assumir o dano. Justificativas que culpam a vítima esvaziam o pedido. Escuta, mudança e disposição para reparar confirmam a sinceridade."
+},
+{
+"id": "O13",
+"explanation": "**Reparar onde feriu** significa alcançar o mesmo público, bem ou relação atingidos. Mentira pública pede correção pública proporcional; prejuízo material pede resposta concreta. Reparação é parte da justiça."
+},
+{
+"id": "O14",
+"explanation": "**Reconstruir confiança devagar** evita dois erros: ingenuidade e condenação definitiva. A confiança cresce conforme a mudança se torna estável e verificável. Ninguém pode exigir retorno imediato ao nível anterior de proximidade."
+},
+{
+"id": "O15",
+"explanation": "**Levar a ferida à oração** não é fingir que não houve dano. É apresentar a Deus a ira e pedir libertação da vingança. Oração, limite, justiça e reparação podem caminhar juntos."
+}
+]
+}
+EXPLICACOES_JSON_END

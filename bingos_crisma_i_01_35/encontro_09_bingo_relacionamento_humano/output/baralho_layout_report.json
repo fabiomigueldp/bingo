@@ -1,0 +1,466 @@
+{
+  "schema": "bingo-catequese/call-deck-layout-report.v1",
+  "build_version": "2.0.0",
+  "page_size": "A4 landscape",
+  "grid": "4x2",
+  "cards_per_page": 8,
+  "page_count": 10,
+  "card_size_mm": [
+    66.5,
+    93.1
+  ],
+  "minimum_allowed_font_pt": 6.8,
+  "all_cards_fit": true,
+  "cards": [
+    {
+      "id": "B01",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 1.08
+    },
+    {
+      "id": "B02",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 4.19
+    },
+    {
+      "id": "B03",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 1.08
+    },
+    {
+      "id": "B04",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 1.08
+    },
+    {
+      "id": "B05",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 4.19
+    },
+    {
+      "id": "B06",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 1.08
+    },
+    {
+      "id": "B07",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 1.08
+    },
+    {
+      "id": "B08",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 1.08
+    },
+    {
+      "id": "B09",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 4.19
+    },
+    {
+      "id": "B10",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 1.08
+    },
+    {
+      "id": "B11",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 4.08
+    },
+    {
+      "id": "B12",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 1.08
+    },
+    {
+      "id": "B13",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 1.08
+    },
+    {
+      "id": "B14",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 4.08
+    },
+    {
+      "id": "B15",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 1.08
+    },
+    {
+      "id": "I01",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 1.08
+    },
+    {
+      "id": "I02",
+      "profile": "compacto",
+      "minimum_font_pt": 6.8,
+      "vertical_spare_mm": 4.08
+    },
+    {
+      "id": "I03",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 1.08
+    },
+    {
+      "id": "I04",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 4.19
+    },
+    {
+      "id": "I05",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 7.18
+    },
+    {
+      "id": "I06",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 7.18
+    },
+    {
+      "id": "I07",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 4.08
+    },
+    {
+      "id": "I08",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 7.18
+    },
+    {
+      "id": "I09",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 7.18
+    },
+    {
+      "id": "I10",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 4.08
+    },
+    {
+      "id": "I11",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 7.29
+    },
+    {
+      "id": "I12",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 1.08
+    },
+    {
+      "id": "I13",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 4.19
+    },
+    {
+      "id": "I14",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 4.08
+    },
+    {
+      "id": "I15",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 1.08
+    },
+    {
+      "id": "N01",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 4.08
+    },
+    {
+      "id": "N02",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 13.29
+    },
+    {
+      "id": "N03",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 4.08
+    },
+    {
+      "id": "N04",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 4.19
+    },
+    {
+      "id": "N05",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 1.19
+    },
+    {
+      "id": "N06",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 1.19
+    },
+    {
+      "id": "N07",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 1.08
+    },
+    {
+      "id": "N08",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 4.19
+    },
+    {
+      "id": "N09",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 4.19
+    },
+    {
+      "id": "N10",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 4.08
+    },
+    {
+      "id": "N11",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 4.08
+    },
+    {
+      "id": "N12",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 10.29
+    },
+    {
+      "id": "N13",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 4.08
+    },
+    {
+      "id": "N14",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 1.08
+    },
+    {
+      "id": "N15",
+      "profile": "compacto",
+      "minimum_font_pt": 6.8,
+      "vertical_spare_mm": 1.22
+    },
+    {
+      "id": "G01",
+      "profile": "compacto",
+      "minimum_font_pt": 6.8,
+      "vertical_spare_mm": 9.8
+    },
+    {
+      "id": "G02",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 4.19
+    },
+    {
+      "id": "G03",
+      "profile": "regular",
+      "minimum_font_pt": 7.0,
+      "vertical_spare_mm": 2.46
+    },
+    {
+      "id": "G04",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 7.29
+    },
+    {
+      "id": "G05",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 4.08
+    },
+    {
+      "id": "G06",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 4.19
+    },
+    {
+      "id": "G07",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 4.08
+    },
+    {
+      "id": "G08",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 1.08
+    },
+    {
+      "id": "G09",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 4.19
+    },
+    {
+      "id": "G10",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 1.19
+    },
+    {
+      "id": "G11",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 4.08
+    },
+    {
+      "id": "G12",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 4.19
+    },
+    {
+      "id": "G13",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 1.08
+    },
+    {
+      "id": "G14",
+      "profile": "compacto",
+      "minimum_font_pt": 6.8,
+      "vertical_spare_mm": 6.94
+    },
+    {
+      "id": "G15",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 1.08
+    },
+    {
+      "id": "O01",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 1.08
+    },
+    {
+      "id": "O02",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 4.08
+    },
+    {
+      "id": "O03",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 1.08
+    },
+    {
+      "id": "O04",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 1.08
+    },
+    {
+      "id": "O05",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 1.08
+    },
+    {
+      "id": "O06",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 1.08
+    },
+    {
+      "id": "O07",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 1.08
+    },
+    {
+      "id": "O08",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 1.08
+    },
+    {
+      "id": "O09",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 4.19
+    },
+    {
+      "id": "O10",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 4.19
+    },
+    {
+      "id": "O11",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 7.18
+    },
+    {
+      "id": "O12",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 4.08
+    },
+    {
+      "id": "O13",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 7.08
+    },
+    {
+      "id": "O14",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 1.08
+    },
+    {
+      "id": "O15",
+      "profile": "confortável",
+      "minimum_font_pt": 7.2,
+      "vertical_spare_mm": 1.08
+    }
+  ]
+}

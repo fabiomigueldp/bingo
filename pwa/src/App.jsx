@@ -125,9 +125,16 @@ function Icon({ name }) {
 
 function renderRich(text) {
   return String(text || "")
-    .split(/(\*\*[^*]+\*\*|\*[^*]+\*)/g)
+    .split(/(\*\*\*[^*]+\*\*\*|\*\*[^*]+\*\*|\*[^*]+\*)/g)
     .filter(Boolean)
     .map((part, index) => {
+      if (part.startsWith("***") && part.endsWith("***")) {
+        return (
+          <strong key={`${part}-${index}`}>
+            <em>{part.slice(3, -3)}</em>
+          </strong>
+        );
+      }
       if (part.startsWith("**") && part.endsWith("**")) {
         return <strong key={`${part}-${index}`}>{part.slice(2, -2)}</strong>;
       }
@@ -1229,6 +1236,31 @@ function MemorySection({ section }) {
   );
 }
 
+function TeachingTables({ tables = [], sectionTitle }) {
+  return tables.map((table, tableIndex) => (
+    <div className="teaching-table-wrap" key={`${sectionTitle}-table-${tableIndex}`}>
+      <table className="teaching-table">
+        <thead>
+          <tr>
+            {table.headers.map((header, index) => (
+              <th scope="col" key={`${header}-${index}`}>{renderRich(header)}</th>
+            ))}
+          </tr>
+        </thead>
+        <tbody>
+          {table.rows.map((row, rowIndex) => (
+            <tr key={`${sectionTitle}-${tableIndex}-${rowIndex}`}>
+              {row.map((cell, cellIndex) => (
+                <td key={`${cell}-${cellIndex}`}>{renderRich(cell)}</td>
+              ))}
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  ));
+}
+
 function TeachingSection({ section, sectionIndex }) {
   if (section.kind === "reflection") {
     return <ReflectionSection section={section} sectionIndex={sectionIndex} />;
@@ -1247,11 +1279,12 @@ function TeachingSection({ section, sectionIndex }) {
   }
 
   return (
-    <section className="teaching-section" key={`${section.title}-${sectionIndex}`}>
+    <section className={section.kind === "quotation" ? "teaching-section quotation-section" : "teaching-section"} key={`${section.title}-${sectionIndex}`}>
       <h3>{section.title}</h3>
       {section.paragraphs.map((paragraph, index) => (
         <p key={`${section.title}-${sectionIndex}-${index}`}>{renderRich(paragraph)}</p>
       ))}
+      <TeachingTables tables={section.tables} sectionTitle={section.title} />
     </section>
   );
 }

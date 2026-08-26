@@ -56,9 +56,11 @@ FORBIDDEN_GENERIC_CASES = [
     "uma pessoa desrespeita a dignidade",
 ]
 
-MAX_TERM_LABEL_CHARS = 34
-WARN_TERM_LABEL_CHARS = 32
-WARN_CASE_WORDS = 24
+MAX_TERM_LABEL_CHARS = 32
+WARN_TERM_LABEL_CHARS = 30
+MAX_CASE_WORDS = 35
+MAX_QUESTION_WORDS = 24
+MAX_READING_POINT_WORDS = 27
 WARN_EXPLANATION_WORDS = 55
 
 YOUTH_CONTEXT_SNIPPETS = [
@@ -247,6 +249,21 @@ def main():
     if center.get("called") is not False:
         errors.append("centro da cartela deve ter called=false")
 
+    conference_anchors = termos.get("conference_anchors", [])
+    if len(conference_anchors) != 3:
+        errors.append("conference_anchors deve definir exatamente três referências centrais")
+
+    required_method_fields = {
+        "rule",
+        "conference_rule",
+        "tie_rule",
+        "estimated_duration",
+        "pastoral_safety",
+    }
+    missing_method_fields = required_method_fields - set(chamadas.get("method", {}))
+    if missing_method_fields:
+        errors.append(f"método sem campos operacionais: {sorted(missing_method_fields)}")
+
     required_card_fields = {
         "id",
         "term_id",
@@ -275,10 +292,13 @@ def main():
                 warnings.append(
                     f"chamada {card_id} usa 'catequista' no case; revisar se é necessidade real e excepcional"
                 )
-            if word_count(case) > WARN_CASE_WORDS:
-                warnings.append(f"chamada {card_id} tem case longo; revisar concisão e naturalidade")
-        if not card.get("conference_question", "").strip():
+            if word_count(case) > MAX_CASE_WORDS:
+                errors.append(f"chamada {card_id} excede {MAX_CASE_WORDS} palavras no caso")
+        question = card.get("conference_question", "")
+        if not question.strip():
             errors.append(f"chamada {card_id} sem pergunta de conferência")
+        elif word_count(question) > MAX_QUESTION_WORDS:
+            errors.append(f"chamada {card_id} excede {MAX_QUESTION_WORDS} palavras na pergunta")
         if not card.get("anchors"):
             errors.append(f"chamada {card_id} sem âncoras")
         if not card.get("facilitator_note", "").strip():
@@ -296,6 +316,10 @@ def main():
                 )
             elif not str(point.get("title", "")).strip() or not str(point.get("body", "")).strip():
                 errors.append(f"chamada {card_id} reading_point {index} vazio")
+            elif word_count(point.get("body", "")) > MAX_READING_POINT_WORDS:
+                errors.append(
+                    f"chamada {card_id} reading_point {index} excede {MAX_READING_POINT_WORDS} palavras"
+                )
 
     for entry in explanation_entries:
         missing = {"id", "explanation"} - set(entry)
@@ -349,6 +373,57 @@ def main():
     ]
     if found_forbidden:
         errors.append(f"strings proibidas encontradas no texto-fonte: {found_forbidden}")
+
+    if not errors:
+        import build as generator
+
+        terms_data, _calls_data, normalized_terms, normalized_calls = generator.load_project_data()
+        cards_generated = generator.generate_bingo_cards(normalized_terms)
+        assignments = {
+            col: [
+                [
+                    term
+                    for row in card["grid"]
+                    for term in row
+                    if term["id"] != "FREE" and term["column"] == col
+                ]
+                for card in cards_generated
+            ]
+            for col in generator.COLUMN_ORDER
+        }
+        overlap = generator.card_overlap_metrics(assignments)
+        if overlap["maximum"] > generator.MAX_CARD_OVERLAP:
+            errors.append(
+                f"sobreposição máxima entre cartelas é {overlap['maximum']}; "
+                f"limite é {generator.MAX_CARD_OVERLAP}"
+            )
+
+        simulation = generator.simulate_game_metrics(cards_generated, iterations=2_000)
+        if not 28 <= simulation["mean_first_claim"] <= 40:
+            errors.append(
+                "simulação do jogo fora da faixa esperada: média da primeira conferência "
+                f"em {simulation['mean_first_claim']} chamadas"
+            )
+
+        call_positions = generator.playing_card_positions()
+        if len(call_positions) != 8:
+            errors.append(f"baralho deve ter 8 cartas por A4; encontrou {len(call_positions)}")
+        else:
+            for call in normalized_calls:
+                try:
+                    layout = generator.call_card_layout(
+                        call,
+                        call_positions[0][2],
+                        call_positions[0][3],
+                    )
+                except ValueError as exc:
+                    errors.append(str(exc))
+                    continue
+                if layout["minimum_font_pt"] < 6.8:
+                    errors.append(
+                        f"carta {call['id']} usa fonte abaixo de 6,8 pt: "
+                        f"{layout['minimum_font_pt']}"
+                    )
 
     if errors:
         fail(errors)

@@ -2439,6 +2439,71 @@ button.material-row[aria-busy="true"] .material-icon svg {
   line-height: 1.48;
 }
 
+.quotation-section {
+  border-color: color-mix(in oklch, var(--gold) 46%, var(--line));
+  background:
+    linear-gradient(135deg, color-mix(in oklch, var(--surface) 84%, var(--paper)), color-mix(in oklch, var(--paper-deep) 16%, var(--surface-soft)));
+}
+
+.teaching-table-wrap {
+  overflow-x: auto;
+  border: 1px solid color-mix(in oklch, var(--line) 78%, var(--paper));
+  border-radius: 13px;
+  background: color-mix(in oklch, var(--surface) 92%, var(--paper));
+}
+
+.teaching-table {
+  width: 100%;
+  min-width: 440px;
+  border-collapse: collapse;
+  color: color-mix(in oklch, var(--ink) 92%, var(--muted));
+  font-size: 13.5px;
+  line-height: 1.45;
+}
+
+.teaching-table th,
+.teaching-table td {
+  padding: 10px 11px;
+  text-align: left;
+  vertical-align: top;
+}
+
+.teaching-table th {
+  color: var(--charcoal);
+  background: color-mix(in oklch, var(--paper-deep) 30%, var(--surface));
+  font-size: 12px;
+  font-weight: 850;
+  letter-spacing: 0.02em;
+}
+
+.teaching-table tr + tr td {
+  border-top: 1px solid color-mix(in oklch, var(--line) 68%, var(--paper));
+}
+
+.teaching-table td:first-child {
+  width: 36%;
+  color: var(--charcoal);
+  font-weight: 760;
+}
+
+@media (max-width: 520px) {
+  .teaching-table {
+    min-width: 0;
+    table-layout: fixed;
+  }
+
+  .teaching-table th:first-child,
+  .teaching-table td:first-child {
+    width: 38%;
+  }
+
+  .teaching-table th,
+  .teaching-table td {
+    overflow-wrap: anywhere;
+    padding-inline: 9px;
+  }
+}
+
 .teaching-section strong {
   color: var(--charcoal);
   font-weight: 860;

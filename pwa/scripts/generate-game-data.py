@@ -252,7 +252,18 @@ def enrich_teaching_section(section: dict) -> dict:
     if upper_title == "PARA REFLETIR":
         return {**section, "kind": "reflection"}
 
+    if paragraphs and paragraphs[0].startswith("***"):
+        return {**section, "kind": "quotation"}
+
     return section
+
+
+def markdown_table_cells(line: str) -> list[str]:
+    return [cell.strip() for cell in line.strip().strip("|").split("|")]
+
+
+def is_markdown_table_separator(cells: list[str]) -> bool:
+    return bool(cells) and all(re.fullmatch(r":?-{3,}:?", cell) for cell in cells)
 
 
 def parse_teaching_markdown(text: str) -> dict:
@@ -261,6 +272,7 @@ def parse_teaching_markdown(text: str) -> dict:
     sections = []
     current_section = None
     current_paragraph: list[str] = []
+    current_table: list[list[str]] = []
 
     def flush_paragraph() -> None:
         nonlocal current_paragraph
@@ -268,9 +280,17 @@ def parse_teaching_markdown(text: str) -> dict:
             current_section["paragraphs"].append(" ".join(current_paragraph).strip())
         current_paragraph = []
 
+    def flush_table() -> None:
+        nonlocal current_table
+        if current_section is not None and current_table:
+            headers, *rows = current_table
+            current_section.setdefault("tables", []).append({"headers": headers, "rows": rows})
+        current_table = []
+
     def flush_section() -> None:
         nonlocal current_section
         flush_paragraph()
+        flush_table()
         if current_section is not None:
             sections.append(enrich_teaching_section(current_section))
         current_section = None
@@ -280,6 +300,7 @@ def parse_teaching_markdown(text: str) -> dict:
         stripped = line.strip()
         if not stripped:
             flush_paragraph()
+            flush_table()
             continue
         if stripped == "---":
             flush_section()
@@ -287,11 +308,30 @@ def parse_teaching_markdown(text: str) -> dict:
         if stripped.startswith("# "):
             title = stripped[2:].strip()
             continue
+        heading_match = re.match(r"^#{2,6}\s+(.+)$", stripped)
+        if heading_match:
+            flush_section()
+            current_section = {"title": heading_match.group(1).strip(), "paragraphs": []}
+            continue
         meta_match = re.match(r"\*\*(.+?):\*\*\s*(.+)", stripped)
         if meta_match and current_section is None:
             meta.append({"label": meta_match.group(1).strip(), "value": meta_match.group(2).strip()})
             continue
+
+        if stripped.startswith("|") and stripped.endswith("|"):
+            flush_paragraph()
+            if current_section is None:
+                current_section = {"title": "Quadro de discernimento", "paragraphs": []}
+            cells = markdown_table_cells(stripped)
+            if not is_markdown_table_separator(cells):
+                current_table.append(cells)
+            continue
+
+        flush_table()
         if not stripped.startswith(">"):
+            if current_section is None:
+                current_section = {"title": "Apresentação", "paragraphs": []}
+            current_paragraph.append(markdown_inline_text(stripped))
             continue
 
         quote = stripped[1:].strip()
@@ -299,7 +339,7 @@ def parse_teaching_markdown(text: str) -> dict:
             flush_paragraph()
             continue
 
-        heading_match = re.fullmatch(r"\*\*(.+?)\*\*", quote)
+        heading_match = re.fullmatch(r"\*\*([^*]+?)\*\*", quote)
         if heading_match:
             flush_section()
             current_section = {"title": heading_match.group(1).strip(), "paragraphs": []}

@@ -3,6 +3,7 @@ from __future__ import annotations
 import hashlib
 import json
 import random
+import re
 from pathlib import Path
 from typing import Iterable
 from xml.sax.saxutils import escape
@@ -21,6 +22,7 @@ from reportlab.pdfgen import canvas
 from reportlab.platypus import (
     BaseDocTemplate,
     Frame,
+    FrameBreak,
     Flowable,
     KeepTogether,
     ListFlowable,
@@ -46,14 +48,21 @@ TERMS_PATH = DATA_DIR / "termos.json"
 CALLS_PATH = DATA_DIR / "chamadas.json"
 EXPLANATIONS_PATH = DATA_DIR / "explicacoes.json"
 CARDS_MANIFEST_PATH = ROOT / "output" / "cartelas_manifest.json"
+CALL_LAYOUT_REPORT_PATH = ROOT / "output" / "baralho_layout_report.json"
 
 NUM_CARDS = 24
 RANDOM_SEED = 404
+BUILD_VERSION = "2.0.0"
+MAX_CARD_OVERLAP = 10
+CALL_CARDS_PER_PAGE = 8
 PROJECT_TITLE = "Bingo catequético"
 MEETING_TITLE = "Encontro"
 MEETING_LABEL = "Encontro"
 OUTPUT_SLUG = "bingo_catequetico"
 CORE_MESSAGE = "Frase-síntese doutrinal e pedagógica do encontro."
+CORE_MESSAGE_SHORT = CORE_MESSAGE
+CENTER_CONFIG = {"label": "LIVRE", "fixed": True, "called": False}
+FAITH_ANCHORS = "as âncoras bíblicas e doutrinais do encontro"
 
 A4_W, A4_H = A4
 LAND_W, LAND_H = landscape(A4)
@@ -277,8 +286,35 @@ def load_json(path: Path) -> dict:
         return json.load(f)
 
 
+def split_anchors(values: Iterable[str]) -> tuple[list[str], list[str]]:
+    """Separate source references from internal bingo cross-references."""
+    sources: list[str] = []
+    related_terms: list[str] = []
+    for value in values:
+        if re.fullmatch(r"[BINGO]\d{2}", value):
+            related_terms.append(value)
+        else:
+            sources.append(value)
+    return sources, related_terms
+
+
+def normalize_term_relationships(terms: list[dict]) -> None:
+    """Expose a clean in-memory schema while remaining compatible with v1 JSON."""
+    for term in terms:
+        sources, inferred_related = split_anchors(term.get("anchors", []))
+        term["anchors"] = sources
+        term["related_terms"] = sorted(set(term.get("related_terms", []) + inferred_related))
+
+
+def normalize_call_relationships(calls: list[dict]) -> None:
+    for call in calls:
+        sources, inferred_related = split_anchors(call.get("anchors", []))
+        call["anchors"] = sources
+        call["related_terms"] = sorted(set(call.get("related_terms", []) + inferred_related))
+
+
 def load_project_data() -> tuple[dict, dict, list[dict], list[dict]]:
-    global COLUMN_FULL_TITLES, COLUMN_SHORT_FUNCTIONS, PROJECT_TITLE, MEETING_TITLE, MEETING_LABEL, OUTPUT_SLUG, CORE_MESSAGE
+    global COLUMN_FULL_TITLES, COLUMN_SHORT_FUNCTIONS, COLUMN_TITLES, PROJECT_TITLE, MEETING_TITLE, MEETING_LABEL, OUTPUT_SLUG, CORE_MESSAGE, CORE_MESSAGE_SHORT, CENTER_CONFIG, FAITH_ANCHORS
     terms_data = load_json(TERMS_PATH)
     calls_data = load_json(CALLS_PATH)
     PROJECT_TITLE = terms_data.get("title", PROJECT_TITLE)
@@ -286,10 +322,26 @@ def load_project_data() -> tuple[dict, dict, list[dict], list[dict]]:
     MEETING_LABEL = terms_data.get("meeting_label", MEETING_TITLE)
     OUTPUT_SLUG = terms_data.get("output_slug", OUTPUT_SLUG)
     CORE_MESSAGE = terms_data.get("core_message", CORE_MESSAGE)
+    CORE_MESSAGE_SHORT = terms_data.get("core_message_short", CORE_MESSAGE)
+    CENTER_CONFIG = terms_data.get("card_model", {}).get("center", CENTER_CONFIG)
+    selected_anchors = terms_data.get("conference_anchors", [])
+    if not selected_anchors:
+        selected_anchors = terms_data.get("scripture", [])[:1] + terms_data.get("catechism", [])[:2]
+    if selected_anchors:
+        FAITH_ANCHORS = ", ".join(selected_anchors)
     COLUMN_FULL_TITLES = {col["key"]: col["title"] for col in terms_data["columns"]}
     COLUMN_SHORT_FUNCTIONS = {
         col["key"]: col.get("short_function", col["function"]) for col in terms_data["columns"]
     }
+    COLUMN_TITLES = {
+        "B": "BASE",
+        "I": "SITUAÇÕES",
+        "N": "NARRATIVAS",
+        "G": "DISCERNIMENTOS",
+        "O": "ORIENTAÇÕES",
+    }
+    normalize_term_relationships(terms_data["terms"])
+    normalize_call_relationships(calls_data["cards"])
     return terms_data, calls_data, terms_data["terms"], calls_data["cards"]
 
 
@@ -356,6 +408,88 @@ def balanced_column_assignments(
     raise RuntimeError("Não foi possível montar cartelas balanceadas sem repetição por coluna.")
 
 
+def card_overlap_metrics(assignments: dict[str, list[list[dict]]]) -> dict[str, float | int]:
+    card_sets = [
+        {
+            term["id"]
+            for col in COLUMN_ORDER
+            for term in assignments[col][card_index]
+        }
+        for card_index in range(NUM_CARDS)
+    ]
+    overlaps = [
+        len(card_sets[left] & card_sets[right])
+        for left in range(NUM_CARDS)
+        for right in range(left + 1, NUM_CARDS)
+    ]
+    maximum = max(overlaps)
+    return {
+        "maximum": maximum,
+        "pairs_at_maximum": overlaps.count(maximum),
+        "average": round(sum(overlaps) / len(overlaps), 3),
+        "sum_of_squares": sum(value * value for value in overlaps),
+    }
+
+
+def optimize_column_assignments(
+    assignments: dict[str, list[list[dict]]],
+    *,
+    seed: int,
+    max_overlap: int = MAX_CARD_OVERLAP,
+    max_steps: int = 20_000,
+) -> dict[str, float | int]:
+    """Reduce pairwise similarity using count-preserving swaps within columns."""
+    rng = random.Random(seed + 505)
+
+    def score(metrics: dict[str, float | int]) -> tuple[int, int, int]:
+        return (
+            int(metrics["maximum"]),
+            int(metrics["pairs_at_maximum"]),
+            int(metrics["sum_of_squares"]),
+        )
+
+    current_metrics = card_overlap_metrics(assignments)
+    current_score = score(current_metrics)
+    for _step in range(max_steps):
+        if int(current_metrics["maximum"]) <= max_overlap:
+            return current_metrics
+
+        col = rng.choice(COLUMN_ORDER)
+        left, right = rng.sample(range(NUM_CARDS), 2)
+        left_ids = {term["id"] for term in assignments[col][left]}
+        right_ids = {term["id"] for term in assignments[col][right]}
+        left_candidates = [
+            (index, term)
+            for index, term in enumerate(assignments[col][left])
+            if term["id"] not in right_ids
+        ]
+        right_candidates = [
+            (index, term)
+            for index, term in enumerate(assignments[col][right])
+            if term["id"] not in left_ids
+        ]
+        if not left_candidates or not right_candidates:
+            continue
+
+        left_index, left_term = rng.choice(left_candidates)
+        right_index, right_term = rng.choice(right_candidates)
+        assignments[col][left][left_index] = right_term
+        assignments[col][right][right_index] = left_term
+        candidate_metrics = card_overlap_metrics(assignments)
+        candidate_score = score(candidate_metrics)
+        if candidate_score <= current_score:
+            current_metrics = candidate_metrics
+            current_score = candidate_score
+        else:
+            assignments[col][left][left_index] = left_term
+            assignments[col][right][right_index] = right_term
+
+    raise RuntimeError(
+        "Não foi possível limitar a sobreposição entre cartelas a "
+        f"{max_overlap}; melhor resultado: {current_metrics['maximum']}."
+    )
+
+
 def generate_bingo_cards(terms: list[dict], count: int = NUM_CARDS, seed: int = RANDOM_SEED) -> list[dict]:
     rng = random.Random(seed)
     grouped = terms_by_column(terms)
@@ -368,6 +502,7 @@ def generate_bingo_cards(terms: list[dict], count: int = NUM_CARDS, seed: int = 
         )
         for col in COLUMN_ORDER
     }
+    optimize_column_assignments(assignments, seed=seed)
 
     cards = []
     for card_index in range(count):
@@ -380,12 +515,17 @@ def generate_bingo_cards(terms: list[dict], count: int = NUM_CARDS, seed: int = 
             for term, row in zip(assignments[col][card_index], row_positions):
                 grid[row][c_index] = term
 
+        center_label = str(CENTER_CONFIG.get("label", "LIVRE")).strip()
+        if " / " in center_label:
+            free_label, free_reference = center_label.split(" / ", 1)
+        else:
+            free_label, free_reference = center_label, ""
         grid[2][2] = {
             "id": "FREE",
             "column": "N",
-            "label": "LIVRE",
-            "definition": "Gn 1,27",
-            "anchors": ["Gn 1,27"],
+            "label": free_label,
+            "definition": free_reference,
+            "anchors": [free_reference] if free_reference else [],
         }
         cards.append({"number": card_index + 1, "grid": grid})
 
@@ -394,6 +534,11 @@ def generate_bingo_cards(terms: list[dict], count: int = NUM_CARDS, seed: int = 
 
 def file_sha256(path: Path) -> str:
     return hashlib.sha256(path.read_bytes()).hexdigest()
+
+
+def project_source_path(path_value: str) -> Path:
+    path = Path(path_value)
+    return path if path.is_absolute() else ROOT / path
 
 
 def manifest_line_model() -> list[dict]:
@@ -423,6 +568,72 @@ def manifest_line_model() -> list[dict]:
     return lines
 
 
+def simulate_game_metrics(cards: list[dict], *, iterations: int = 5_000, seed: int = 9_009) -> dict:
+    """Estimate the first valid two-line conference and simultaneous claims."""
+    rng = random.Random(seed)
+    term_ids = sorted({
+        term["id"]
+        for card in cards
+        for row in card["grid"]
+        for term in row
+        if term["id"] != "FREE"
+    })
+    line_cells = [
+        [(row, col) for col in range(5)] for row in range(5)
+    ] + [
+        [(row, col) for row in range(5)] for col in range(5)
+    ] + [
+        [(index, index) for index in range(5)],
+        [(index, 4 - index) for index in range(5)],
+    ]
+    card_lines = []
+    for card in cards:
+        card_lines.append([
+            [
+                card["grid"][row][col]["id"]
+                for row, col in line
+                if card["grid"][row][col]["id"] != "FREE"
+            ]
+            for line in line_cells
+        ])
+
+    first_claims: list[int] = []
+    simultaneous_claims = 0
+    maximum_winners = 1
+    for _ in range(iterations):
+        order = term_ids[:]
+        rng.shuffle(order)
+        called_at = {term_id: index for index, term_id in enumerate(order, start=1)}
+        card_claims = []
+        for lines in card_lines:
+            completion_calls = sorted(max(called_at[term_id] for term_id in line) for line in lines)
+            card_claims.append(completion_calls[1])
+        first_claim = min(card_claims)
+        winners = card_claims.count(first_claim)
+        first_claims.append(first_claim)
+        if winners > 1:
+            simultaneous_claims += 1
+        maximum_winners = max(maximum_winners, winners)
+
+    ordered = sorted(first_claims)
+
+    def percentile(fraction: float) -> int:
+        return ordered[round((len(ordered) - 1) * fraction)]
+
+    return {
+        "iterations": iterations,
+        "seed": seed,
+        "mean_first_claim": round(sum(first_claims) / len(first_claims), 2),
+        "median_first_claim": percentile(0.5),
+        "p10": percentile(0.10),
+        "p25": percentile(0.25),
+        "p75": percentile(0.75),
+        "p90": percentile(0.90),
+        "simultaneous_claim_rate": round(simultaneous_claims / iterations, 4),
+        "maximum_simultaneous_winners": maximum_winners,
+    }
+
+
 def card_cell_manifest(term: dict, row: int, col: int) -> dict:
     payload = {
         "row": row,
@@ -435,6 +646,9 @@ def card_cell_manifest(term: dict, row: int, col: int) -> dict:
         payload["free"] = True
         payload["called"] = False
         payload["anchors"] = term.get("anchors", [])
+    else:
+        payload["anchors"] = term.get("anchors", [])
+        payload["related_terms"] = term.get("related_terms", [])
     return payload
 
 
@@ -455,7 +669,16 @@ def build_cards_manifest(terms_data: dict, cards: list[dict]) -> Path:
         "termos.json": file_sha256(TERMS_PATH),
         "chamadas.json": file_sha256(CALLS_PATH),
         "explicacoes.json": file_sha256(EXPLANATIONS_PATH),
+        "build.py": file_sha256(Path(__file__)),
+        "validate.py": file_sha256(ROOT / "validate.py"),
+        "qa.py": file_sha256(ROOT / "qa.py"),
     }
+    for metadata_key in ("source_meeting_markdown", "source_meeting_pdf", "source_response_text"):
+        relative_path = terms_data.get(metadata_key)
+        if relative_path:
+            source_path = project_source_path(relative_path)
+            if source_path.exists():
+                source_hashes[relative_path] = file_sha256(source_path)
     card_payload = [
         {
             "id": f"C{card['number']:02d}",
@@ -509,15 +732,31 @@ def build_cards_manifest(terms_data: dict, cards: list[dict]) -> Path:
             "meeting_label": MEETING_LABEL,
             "output_slug": OUTPUT_SLUG,
             "core_message": CORE_MESSAGE,
+            "core_message_short": CORE_MESSAGE_SHORT,
+            "edition": terms_data.get("edition"),
         },
         "generation": {
-            "algorithm": "balanced-column-assignments-v1",
+            "algorithm": "balanced-column-assignments-with-overlap-optimizer-v2",
+            "build_version": BUILD_VERSION,
             "seed": RANDOM_SEED,
             "num_cards": len(cards),
             "columns": COLUMN_ORDER,
             "grid": "5x5",
             "center": terms_data.get("card_model", {}).get("center", {}),
             "win_condition": terms_data.get("card_model", {}).get("recommended_win_condition"),
+            "overlap": card_overlap_metrics({
+                col: [
+                    [
+                        term
+                        for row in card["grid"]
+                        for term in row
+                        if term["id"] != "FREE" and term["column"] == col
+                    ]
+                    for card in cards
+                ]
+                for col in COLUMN_ORDER
+            }),
+            "game_simulation": simulate_game_metrics(cards),
         },
         "source_hashes": source_hashes,
         "line_model": manifest_line_model(),
@@ -525,6 +764,13 @@ def build_cards_manifest(terms_data: dict, cards: list[dict]) -> Path:
             "pdf": "output/pdf/cartelas_bingo_24_a4.pdf",
             "cards_per_page": 2,
             "page_order": print_layout_manifest(cards),
+        },
+        "call_deck_layout": {
+            "pdf": "output/pdf/baralho_chamadas_a4.pdf",
+            "page_size": "A4 landscape",
+            "cards_per_page": CALL_CARDS_PER_PAGE,
+            "grid": "4x2",
+            "card_size_mm": [66.5, 93.1],
         },
         "cards": card_payload,
     }
@@ -700,11 +946,11 @@ def draw_bingo_card(c: canvas.Canvas, card: dict, x: float, y: float, w: float, 
                 
                 c.setFillColor(PALETTE["gold"])
                 c.setFont(FONTS["serif_bold"], 10.5)
-                c.drawCentredString(cx + cell_w / 2, cy + cell_h / 2 + 0.8 * mm, "LIVRE")
+                c.drawCentredString(cx + cell_w / 2, cy + cell_h / 2 + 0.8 * mm, term.get("label", "LIVRE"))
                 
                 c.setFillColor(PALETTE["muted"])
                 c.setFont(FONTS["serif"], 6.5)
-                c.drawCentredString(cx + cell_w / 2, cy + cell_h / 2 - 3.8 * mm, "Gn 1,27")
+                c.drawCentredString(cx + cell_w / 2, cy + cell_h / 2 - 3.8 * mm, term.get("definition", ""))
             else:
                 pad = 2.0 * mm
                 text_w = cell_w - 2 * pad
@@ -811,7 +1057,19 @@ def playing_card_positions() -> list[tuple[float, float, float, float]]:
 
 
 def draw_card_cut_guides(c: canvas.Canvas, positions: list[tuple[float, float, float, float]], page_w: float, page_h: float) -> None:
-    pass
+    c.saveState()
+    c.setStrokeColor(alpha(PALETTE["hairline_dark"], 0.72))
+    c.setLineWidth(0.25)
+    mark = 1.8 * mm
+    offset = 0.8 * mm
+    for x, y, w, h in positions:
+        for corner_x, direction in ((x, -1), (x + w, 1)):
+            c.line(corner_x + direction * offset, y, corner_x + direction * (offset + mark), y)
+            c.line(corner_x + direction * offset, y + h, corner_x + direction * (offset + mark), y + h)
+        for corner_y, direction in ((y, -1), (y + h, 1)):
+            c.line(x, corner_y + direction * offset, x, corner_y + direction * (offset + mark))
+            c.line(x + w, corner_y + direction * offset, x + w, corner_y + direction * (offset + mark))
+    c.restoreState()
 
 
 def draw_column_icon(c: canvas.Canvas, col: str, x: float, y: float, size: float, color) -> None:
@@ -910,208 +1168,204 @@ def draw_html_para(
     return pw, ph
 
 
+CALL_LAYOUT_PROFILES = (
+    {"name": "confortável", "case": (7.4, 8.8), "point": (7.2, 8.5), "question": (7.3, 8.8)},
+    {"name": "regular", "case": (7.1, 8.5), "point": (7.0, 8.3), "question": (7.1, 8.5)},
+    {"name": "compacto", "case": (6.8, 8.1), "point": (6.8, 8.1), "question": (6.8, 8.1)},
+)
+
+
+def call_card_layout(call: dict, w: float, h: float) -> dict:
+    pad = 4.2 * mm
+    text_w = w - 2 * pad
+    point_w = text_w - 4.3 * mm
+    question_w = text_w - 4.0 * mm
+    available_h = h - 2 * pad
+    fixed_h = (10.5 + 2.2 + 2.2 + 0.8 + 1.3 + 2.2 + 0.8 + 2.4 + 1.3 + 2.2 + 0.8 + 3.2 + 5.0) * mm
+
+    for profile in CALL_LAYOUT_PROFILES:
+        case_style = pstyle(
+            f"Case{call['id']}{profile['name']}",
+            profile["case"][0],
+            profile["case"][1],
+            font=FONTS["sans"],
+            color=PALETTE["ink"],
+        )
+        _, case_h = para(call["case"], case_style).wrap(text_w, h)
+        point_items = []
+        point_total_h = 0.0
+        for index, point in enumerate(call["reading_points"], start=1):
+            html = f"<b>{escape(point['title'])}:</b> {escape(point['body'])}"
+            point_style = pstyle(
+                f"Point{call['id']}{index}{profile['name']}",
+                profile["point"][0],
+                profile["point"][1],
+                font=FONTS["sans"],
+                color=PALETTE["ink"],
+            )
+            _, point_h = Paragraph(html, point_style).wrap(point_w, h)
+            point_items.append({"html": html, "style": point_style, "height": point_h})
+            point_total_h += point_h
+
+        question_style = pstyle(
+            f"Question{call['id']}{profile['name']}",
+            profile["question"][0],
+            profile["question"][1],
+            font=FONTS["sans"],
+            color=PALETTE["petrol"],
+        )
+        _, question_h = para(call["conference_question"], question_style).wrap(question_w, h)
+        total_h = fixed_h + case_h + point_total_h + question_h
+        spare_h = available_h - total_h
+        if spare_h >= 0.8 * mm or profile is CALL_LAYOUT_PROFILES[-1]:
+            if spare_h < 0:
+                raise ValueError(
+                    f"Carta {call['id']} excede a área segura em {-spare_h / mm:.2f} mm "
+                    f"mesmo no perfil mínimo de {profile['point'][0]:.1f} pt."
+                )
+            return {
+                "profile": profile["name"],
+                "pad": pad,
+                "text_w": text_w,
+                "point_w": point_w,
+                "question_w": question_w,
+                "case_style": case_style,
+                "case_h": case_h,
+                "points": point_items,
+                "question_style": question_style,
+                "question_h": question_h,
+                "spare_h": spare_h,
+                "minimum_font_pt": min(profile["case"][0], profile["point"][0], profile["question"][0]),
+            }
+    raise AssertionError("perfil de layout não selecionado")
+
+
 def draw_call_card(c: canvas.Canvas, call: dict, term_lookup: dict[str, dict], x: float, y: float, w: float, h: float) -> None:
     term = term_lookup[call["term_id"]]
     col = term["column"]
+    accent = COLUMN_ACCENTS[col]
+    layout = call_card_layout(call, w, h)
+    pad = layout["pad"]
+    cy = y + h - pad
 
     c.saveState()
     c.setFillColor(PALETTE["field"])
-    c.setStrokeColor(alpha(PALETTE["petrol"], 0.52))
+    c.setStrokeColor(alpha(PALETTE["petrol"], 0.55))
     c.setLineWidth(0.45)
-    c.roundRect(x, y, w, h, 3.2 * mm, stroke=1, fill=1)
+    c.roundRect(x, y, w, h, 3.0 * mm, stroke=1, fill=1)
+    c.setFillColor(accent)
+    c.roundRect(x, y + h - 2.2 * mm, w, 2.2 * mm, 2.0 * mm, stroke=0, fill=1)
+    c.rect(x, y + h - 2.2 * mm, w, 1.1 * mm, stroke=0, fill=1)
 
-    # Subtle paper fiber lines; deterministic and intentionally sparse.
-    c.setStrokeColor(alpha(PALETTE["gold"], 0.055))
-    c.setLineWidth(0.18)
-    for i in range(5):
-        yy = y + h * (0.18 + i * 0.15)
-        c.line(x + 5 * mm, yy, x + w - 5 * mm, yy + (0.25 if i % 2 else -0.15) * mm)
-
-    pad = 5.0 * mm
-    
-    # Active vertical coordinate starting from top margin
-    cy = y + h - pad
-
-    # Header: B01 chip and Title centered vertically
-    chip_w = 9.0 * mm
-    chip_h = 6.2 * mm
-    chip_y = cy - chip_h
-    
-    # Thin elegant golden border, white background for chip
-    c.setStrokeColor(alpha(PALETTE["gold"], 0.90))
+    # Header compacto: código, campo e conceito.
+    header_h = 10.5 * mm
+    chip_w = 8.5 * mm
+    chip_h = 5.2 * mm
+    chip_y = cy - 6.2 * mm
+    c.setStrokeColor(alpha(accent, 0.9))
     c.setFillColor(PALETTE["field"])
-    c.setLineWidth(0.38)
     c.roundRect(x + pad, chip_y, chip_w, chip_h, 1.0 * mm, stroke=1, fill=1)
-    
-    # Chip text (B01, etc.) - mathematically centered vertically and horizontally
     c.setFillColor(PALETTE["petrol"])
-    chip_font_size = 5.8
-    c.setFont(FONTS["sans"], chip_font_size)
-    c.drawCentredString(x + pad + chip_w / 2, chip_y + (chip_h - 0.7 * chip_font_size) / 2, call["id"])
+    c.setFont(FONTS["sans_bold"], 5.5)
+    c.drawCentredString(x + pad + chip_w / 2, chip_y + 1.65 * mm, call["id"])
 
-    # Title is to the right of the chip
-    title_x = x + pad + chip_w + 3.0 * mm
-    title_w = w - (title_x - x) - pad
-    title_h = 9.0 * mm
-    title_y = chip_y + (chip_h - title_h) / 2
+    title_x = x + pad + chip_w + 2.2 * mm
+    title_w = w - pad - (title_x - x)
+    draw_tracked_label(
+        c,
+        COLUMN_FULL_TITLES[col].upper(),
+        title_x,
+        cy - 1.8 * mm,
+        color=accent,
+        font_size=4.0,
+        tracking=0.75,
+    )
     title_style = fit_style(
         f"CallTitle{call['id']}",
         term["label"],
         title_w,
-        title_h,
-        font=FONTS["serif"],
+        7.0 * mm,
+        font=FONTS["serif_bold"],
         color=PALETTE["petrol"],
         alignment=TA_LEFT,
-        sizes=((14.5, 16.0), (13.0, 14.5), (11.5, 13.0), (10.0, 11.5)),
+        sizes=((10.8, 11.6), (10.2, 11.0), (9.6, 10.4)),
     )
-    # Centered vertically relative to the chip
-    draw_para(c, term["label"], title_style, title_x, title_y, title_w, title_h, valign="middle")
-    
-    # Move active y-coordinate past the header
-    cy -= chip_h
+    draw_para(c, term["label"], title_style, title_x, cy - 9.3 * mm, title_w, 6.6 * mm, valign="middle")
+    cy -= header_h
 
-    # Divider line
-    cy -= 2.0 * mm
-    c.setStrokeColor(alpha(PALETTE["petrol_line"], 0.75))
-    c.setLineWidth(0.35)
-    c.line(x + pad, cy, x + w - pad, cy)
-
-    # Typography Rules: Unified label styling for AAA editorial quality
-    LABEL_SIZE = 5.5
-    LABEL_TRACKING = 1.6
-
-    # Category name below the line
-    cy -= 4.0 * mm
-    category_text = COLUMN_FULL_TITLES[col].upper()
-    draw_tracked_label(c, category_text, x + pad, cy, color=PALETTE["petrol"], font_size=LABEL_SIZE, tracking=LABEL_TRACKING)
-
-    # CASO Section
-    cy -= 4.8 * mm
-    draw_tracked_label(c, "CASO", x + pad, cy, color=PALETTE["petrol"], font_size=LABEL_SIZE, tracking=LABEL_TRACKING)
-    
+    c.setStrokeColor(alpha(PALETTE["petrol_line"], 0.8))
+    c.setLineWidth(0.3)
+    c.line(x + pad, cy + 0.9 * mm, x + w - pad, cy + 0.9 * mm)
     cy -= 2.2 * mm
-    case_max_h = 12.0 * mm
-    case_style = fit_style(
-        f"Case{call['id']}",
-        call["case"],
-        w - 2 * pad,
-        case_max_h,
-        font=FONTS["sans"],
-        color=PALETTE["ink"],
-        alignment=TA_LEFT,
-        sizes=((7.2, 9.4), (6.7, 8.8), (6.2, 8.2), (5.7, 7.6)),
-    )
-    # Draw from top (cy) downwards, retrieve actual paragraph height
-    _, case_h = draw_para(c, call["case"], case_style, x + pad, cy - case_max_h, w - 2 * pad, case_max_h)
-    cy -= case_h
 
-    # LEITURA DO CASO Section
-    cy -= 4.2 * mm
-    draw_tracked_label(c, "LEITURA DO CASO", x + pad, cy, color=PALETTE["petrol"], font_size=LABEL_SIZE, tracking=LABEL_TRACKING)
-
+    label_size = 4.35
+    label_tracking = 1.0
+    draw_tracked_label(c, "CASO", x + pad, cy - 1.5 * mm, color=accent, font_size=label_size, tracking=label_tracking)
     cy -= 2.2 * mm
-    point_max_h = 5.2 * mm
-    number_r = 1.6 * mm
-    point_text_x = x + pad + 5.0 * mm
-    point_w = w - 2 * pad - 5.0 * mm
-    
-    for index, point in enumerate(call["reading_points"], start=1):
-        # Continuous paragraph text: Title in Bold, Body in Regular
-        combined_text = f"<b>{point['title']}:</b> {point['body']}"
-        point_style = fit_html_style(
-            f"PointText{call['id']}{index}",
-            combined_text,
-            point_w,
-            point_max_h,
-            font=FONTS["sans"],
-            color=PALETTE["ink"],
-            alignment=TA_LEFT,
-            sizes=((6.8, 8.4), (6.3, 7.8), (5.8, 7.2)),
-        )
-        
-        # Draw paragraph and get its height
-        _, point_h = draw_html_para(c, combined_text, point_style, point_text_x, cy - point_max_h, point_w, point_max_h)
-        
-        # Circle with number, centered vertically relative to the first line
-        leading = point_style.leading
-        circle_y = cy - (leading / 2)
-        c.setStrokeColor(PALETTE["petrol"])
-        c.setFillColor(PALETTE["field"])
-        c.setLineWidth(0.42)
+    cy -= 0.8 * mm
+    draw_para(c, call["case"], layout["case_style"], x + pad, cy - layout["case_h"], layout["text_w"], layout["case_h"])
+    cy -= layout["case_h"] + 1.3 * mm
+
+    draw_tracked_label(c, "LEITURA DO CASO", x + pad, cy - 1.5 * mm, color=accent, font_size=label_size, tracking=label_tracking)
+    cy -= 2.2 * mm
+    cy -= 0.8 * mm
+    number_r = 1.35 * mm
+    point_x = x + pad + 4.3 * mm
+    for index, point_layout in enumerate(layout["points"], start=1):
+        point_h = point_layout["height"]
+        draw_html_para(c, point_layout["html"], point_layout["style"], point_x, cy - point_h, layout["point_w"], point_h)
+        circle_y = cy - point_layout["style"].leading / 2
+        c.setStrokeColor(accent)
+        c.setLineWidth(0.38)
         c.circle(x + pad + number_r, circle_y, number_r, stroke=1, fill=0)
         c.setFillColor(PALETTE["petrol"])
-        circle_font_size = 4.25
-        c.setFont(FONTS["sans_bold"], circle_font_size)
-        c.drawCentredString(x + pad + number_r, circle_y - (0.7 * circle_font_size) / 2, str(index))
-        
-        cy -= point_h + 1.2 * mm
+        c.setFont(FONTS["sans_bold"], 3.9)
+        c.drawCentredString(x + pad + number_r, circle_y - 1.35, str(index))
+        cy -= point_h
+        if index < len(layout["points"]):
+            cy -= 1.2 * mm
+    cy -= 1.3 * mm
 
-    # CONFERÊNCIA Section
-    cy -= 2.0 * mm
-    draw_tracked_label(c, "CONFERÊNCIA", x + pad, cy, color=PALETTE["petrol"], font_size=LABEL_SIZE, tracking=LABEL_TRACKING)
-    
-    cy -= 1.8 * mm
-    conf_box_h = 10.5 * mm
-    conf_box_y = cy - conf_box_h
-    
-    # Beautiful light blue rounded box with thin border
+    draw_tracked_label(c, "CONFERÊNCIA", x + pad, cy - 1.5 * mm, color=accent, font_size=label_size, tracking=label_tracking)
+    cy -= 2.2 * mm
+    cy -= 0.8 * mm
+    question_box_h = layout["question_h"] + 3.2 * mm
+    question_box_y = cy - question_box_h
     c.setFillColor(PALETTE["petrol_light"])
     c.setStrokeColor(PALETTE["petrol_line"])
-    c.setLineWidth(0.38)
-    c.roundRect(x + pad, conf_box_y, w - 2 * pad, conf_box_h, 1.7 * mm, stroke=1, fill=1)
-    
-    # Question text inside the box
-    q_style = fit_style(
-        f"Q{call['id']}",
+    c.setLineWidth(0.34)
+    c.roundRect(x + pad, question_box_y, layout["text_w"], question_box_h, 1.5 * mm, stroke=1, fill=1)
+    draw_para(
+        c,
         call["conference_question"],
-        w - 2 * pad - 5.0 * mm,
-        conf_box_h - 2.0 * mm,
-        font=FONTS["sans"],
-        color=PALETTE["petrol"],
-        alignment=TA_LEFT,
-        sizes=((7.2, 9.0), (6.7, 8.4), (6.2, 7.8), (5.7, 7.2)),
+        layout["question_style"],
+        x + pad + 2.0 * mm,
+        question_box_y + 1.6 * mm,
+        layout["question_w"],
+        layout["question_h"],
+        valign="middle",
     )
-    draw_para(c, call["conference_question"], q_style, x + pad + 2.5 * mm, conf_box_y + 1.0 * mm, w - 2 * pad - 5.0 * mm, conf_box_h - 2.0 * mm, valign="middle")
-    
-    cy -= conf_box_h
+    cy -= question_box_h
 
-    # NOTA Section
-    cy -= 3.2 * mm
-    draw_tracked_label(c, "NOTA", x + pad, cy, color=PALETTE["petrol"], font_size=LABEL_SIZE, tracking=LABEL_TRACKING)
-    
-    cy -= 1.8 * mm
-    tag = " · ".join(call["anchors"])
-    tag_w = min(w - 2 * pad, max(21 * mm, pdfmetrics.stringWidth(tag, FONTS["sans"], 4.25) + 4.4 * mm))
-    note_w = w - 2 * pad - tag_w - 2.5 * mm
-    
-    # Increased vertical space allowance to ensure large readable font sizes for note text
-    note_max_h = 10.0 * mm
-    note_style = fit_style(
-        f"Note{call['id']}",
-        call["facilitator_note"],
-        note_w,
-        note_max_h,
-        font=FONTS["serif_italic"],
-        color=PALETTE["muted"],
-        alignment=TA_LEFT,
-        sizes=((7.5, 9.2), (7.0, 8.6), (6.5, 8.0), (6.0, 7.4)),
-    )
-    # The note text flows naturally below the NOTA label
-    _, note_h = draw_para(c, call["facilitator_note"], note_style, x + pad, cy - note_max_h, note_w, note_max_h)
-    cy -= note_h
-
-    # Reference / Anchor Badge is fixed at bottom right for perfect structural alignment
-    badge_y = y + 2.0 * mm
-    badge_h = 4.5 * mm
-    c.setStrokeColor(alpha(PALETTE["petrol"], 0.75))
-    c.setFillColor(PALETTE["field"])
-    c.setLineWidth(0.38)
-    c.roundRect(x + w - pad - tag_w, badge_y, tag_w, badge_h, 1.2 * mm, stroke=1, fill=1)
-    
-    c.setFillColor(PALETTE["petrol"])
-    badge_font_size = 4.25
-    c.setFont(FONTS["sans"], badge_font_size)
-    c.drawCentredString(x + w - pad - tag_w / 2, badge_y + (badge_h - 0.7 * badge_font_size) / 2, tag)
+    # Rodapé fixo: somente fontes primárias; notas completas ficam no caderno do catequista.
+    footer_y = y + pad
+    c.setStrokeColor(alpha(PALETTE["hairline_dark"], 0.55))
+    c.line(x + pad, footer_y + 4.3 * mm, x + w - pad, footer_y + 4.3 * mm)
+    tag = " · ".join(call.get("anchors", [])[:2])
+    tag_size = 4.25
+    edition = "8/A4"
+    edition_w = pdfmetrics.stringWidth(edition, FONTS["sans_bold"], 4.0)
+    max_tag_w = layout["text_w"] - edition_w - 3.0 * mm
+    while pdfmetrics.stringWidth(tag, FONTS["sans"], tag_size) > max_tag_w and tag_size > 3.8:
+        tag_size -= 0.1
+    if pdfmetrics.stringWidth(tag, FONTS["sans"], tag_size) > max_tag_w:
+        raise ValueError(f"Referências da carta {call['id']} excedem o rodapé seguro.")
+    c.setFillColor(PALETTE["muted"])
+    c.setFont(FONTS["sans"], tag_size)
+    c.drawString(x + pad, footer_y + 1.2 * mm, tag)
+    c.setFillColor(accent)
+    c.setFont(FONTS["sans_bold"], 4.0)
+    c.drawRightString(x + w - pad, footer_y + 1.2 * mm, edition)
     c.restoreState()
 
 
@@ -1122,13 +1376,42 @@ def build_call_deck(terms: list[dict], calls: list[dict]) -> Path:
     c = canvas.Canvas(str(path), pagesize=landscape(A4))
     c.setTitle(f"Baralho de chamadas — {PROJECT_TITLE}")
     positions = playing_card_positions()
+    layout_entries = []
+    for call in calls:
+        layout = call_card_layout(call, positions[0][2], positions[0][3])
+        layout_entries.append({
+            "id": call["id"],
+            "profile": layout["profile"],
+            "minimum_font_pt": layout["minimum_font_pt"],
+            "vertical_spare_mm": round(layout["spare_h"] / mm, 2),
+        })
+
+    CALL_LAYOUT_REPORT_PATH.parent.mkdir(parents=True, exist_ok=True)
+    CALL_LAYOUT_REPORT_PATH.write_text(
+        json.dumps(
+            {
+                "schema": "bingo-catequese/call-deck-layout-report.v1",
+                "build_version": BUILD_VERSION,
+                "page_size": "A4 landscape",
+                "grid": "4x2",
+                "cards_per_page": len(positions),
+                "page_count": (len(calls) + len(positions) - 1) // len(positions),
+                "card_size_mm": [round(positions[0][2] / mm, 2), round(positions[0][3] / mm, 2)],
+                "minimum_allowed_font_pt": 6.8,
+                "all_cards_fit": True,
+                "cards": layout_entries,
+            },
+            ensure_ascii=False,
+            indent=2,
+        ) + "\n",
+        encoding="utf-8",
+    )
 
     for i in range(0, len(calls), len(positions)):
         draw_plain_sheet_bg(c, LAND_W, LAND_H)
-        draw_card_cut_guides(c, positions, LAND_W, LAND_H)
-        for offset, pos in enumerate(positions):
-            if i + offset >= len(calls):
-                continue
+        active_positions = positions[: min(len(positions), len(calls) - i)]
+        draw_card_cut_guides(c, active_positions, LAND_W, LAND_H)
+        for offset, pos in enumerate(active_positions):
             draw_call_card(c, calls[i + offset], term_lookup, *pos)
         c.showPage()
     c.save()
@@ -1339,7 +1622,7 @@ def draw_team_rule_card(c: canvas.Canvas, x: float, y: float, w: float, h: float
         "a equipe escolhe <b>uma delas</b> e explica "
         "<b>três conceitos</b> dessa linha.<br/>"
         "As duas linhas podem se cruzar. "
-        "Ao menos uma das respostas deve ligar o conceito à fé usando: <b>Gn 1,27</b>, <b>Mt 25,40</b> ou <b>CEC 1931-1940</b>."
+        f"Ao menos uma das respostas deve ligar o conceito à fé usando uma destas âncoras: <b>{FAITH_ANCHORS}</b>."
     )
     flow_html(sec2_text, body_style, 2.5 * mm)
 
@@ -1354,7 +1637,8 @@ def draw_team_rule_card(c: canvas.Canvas, x: float, y: float, w: float, h: float
     panel_style = pstyle("TeamRulePanelBody", 7.2, 8.8, font=FONTS["sans"], color=GUIDE["dark"])
     panel_text = (
         "<b>Boa resposta:</b> explique o conceito com suas palavras. Pode usar um exemplo simples, "
-        "mas não precisa lembrar o caso exato. O centro livre conta para fechar linha, mas não conta como conceito."
+        "mas não precisa lembrar o caso exato. O centro livre conta para fechar linha, mas não conta como conceito. "
+        "Se houver empate na mesma chamada, todas as equipes serão conferidas."
     )
     draw_html_para(c, panel_text, panel_style, x + pad_x + 3.0 * mm, panel_y + 2.5 * mm, content_w - 6.0 * mm, panel_h - 4.5 * mm, valign="middle")
     
@@ -1739,11 +2023,11 @@ def guide_timeline_table(width: float, styles: dict[str, ParagraphStyle]) -> Tab
     rows = [["Tempo", "Ação", "Critério"]]
     rows.extend(
         [
-            ["5 min", "Abertura", "Gn 1,26-27 e Mt 25,40 como chave do encontro."],
+            ["5 min", "Abertura", f"{FAITH_ANCHORS} como chaves do encontro."],
             ["3 min", "Regras", "Explicar cartela, chamada, marcação e validação."],
             ["20-25 min", "Rodada principal", "Chamadas de 30 a 45 segundos, com ritmo firme."],
             ["5 min", "Conferência", "A equipe explica três conceitos de uma linha fechada."],
-            ["5 min", "Fechamento", "Retomar dignidade, caridade, reparação e convivência."],
+            ["5 min", "Fechamento", "Retomar o critério central e as respostas concretas do encontro."],
         ]
     )
     table = Table(rows, colWidths=[22 * mm, 39 * mm, width - 61 * mm], hAlign="LEFT")
@@ -1833,7 +2117,7 @@ def build_facilitator_guide(terms_data: dict, calls_data: dict) -> Path:
         guide_card_grid(
             [
                 ("Equipes", "Entregue **uma cartela por equipe**, não por pessoa. A conversa interna ajuda a fixar os conceitos.", "Formato"),
-                ("Baralho", "Use as **75 cartas de chamada**. Em cada rodada, sorteie uma carta e conduza o ciclo completo.", "Material"),
+                ("Baralho", "Recorte as **75 cartas de chamada**, montadas em oito unidades por A4. Em cada rodada, sorteie uma carta e conduza o ciclo completo.", "Material"),
                 ("Vitória", "A equipe só pede conferência depois de fechar **duas linhas** válidas: horizontais, verticais ou diagonais.", "Condição"),
                 ("Catequese", "A vitória depende de explicar **três conceitos** de uma linha fechada, com critério cristão.", "Validação"),
             ],
@@ -1868,6 +2152,15 @@ def build_facilitator_guide(terms_data: dict, calls_data: dict) -> Path:
             styles,
         )
     )
+    story.append(Spacer(1, 3 * mm))
+    story.append(
+        guide_band(
+            "Horizonte positivo",
+            "A dinâmica não termina no diagnóstico das feridas. Retome também gratidão, presença, escuta, amizade estável, serviço, alegria partilhada, oração em família e autonomia responsável como formas concretas de comunhão.",
+            frame_w,
+            styles,
+        )
+    )
 
     story.append(PageBreak())
     story.append(Paragraph("Condução da rodada", styles["h1"]))
@@ -1881,7 +2174,7 @@ def build_facilitator_guide(terms_data: dict, calls_data: dict) -> Path:
                 ("1. Conferir códigos", "Verifique se todos os códigos das linhas fechadas realmente foram chamados na folha de controle.", None),
                 ("2. Escolher uma linha", "A equipe escolhe **uma** das linhas fechadas para a conferência. As duas linhas podem se cruzar; não precisa explicar as duas.", None),
                 ("3. Explicar conceitos", "A equipe explica pelo menos **três conceitos da linha escolhida**. A resposta deve mostrar compreensão, não memória literal do caso.", None),
-                ("4. Amarrar à fé", "Ao menos uma explicação deve ligar o jogo a **Gn 1,27**, **Mt 25,40** ou **CEC 1931-1940**.", None),
+                ("4. Amarrar à fé", f"Ao menos uma explicação deve ligar o jogo a **{FAITH_ANCHORS}**.", None),
             ],
             frame_w,
             styles,
@@ -1894,6 +2187,15 @@ def build_facilitator_guide(terms_data: dict, calls_data: dict) -> Path:
         guide_band(
             "Se a explicação falhar",
             "Dê uma segunda tentativa curta. Se a resposta continuar vazia ou confusa, a vitória fica suspensa e o jogo segue.",
+            frame_w,
+            styles,
+        )
+    )
+    story.append(Spacer(1, 3 * mm))
+    story.append(
+        guide_band(
+            "Empate na mesma chamada",
+            calls_data["method"]["tie_rule"],
             frame_w,
             styles,
         )
@@ -1911,7 +2213,7 @@ def build_facilitator_guide(terms_data: dict, calls_data: dict) -> Path:
             [
                 (
                     "Abertura",
-                    "Hoje a cartela não traz palavras para decorar. Ela traz critérios para enxergar situações reais: fundamentos da fé, injustiças, desculpas falsas, discernimentos e respostas concretas.",
+                    "Hoje a cartela não traz palavras para decorar. Ela traz critérios para enxergar situações reais: fundamentos da fé, situações concretas, desculpas falsas, discernimentos e respostas concretas.",
                     "Script",
                 ),
                 (
@@ -1926,7 +2228,7 @@ def build_facilitator_guide(terms_data: dict, calls_data: dict) -> Path:
                 ),
                 (
                     "Fechamento",
-                    CORE_MESSAGE,
+                    CORE_MESSAGE_SHORT,
                     "Script",
                 ),
             ],
@@ -1943,7 +2245,7 @@ def build_facilitator_guide(terms_data: dict, calls_data: dict) -> Path:
     story.append(
         guide_band(
             "Segurança pastoral",
-            "Não peça relatos pessoais e não use nomes reais. Se aparecer relato sério de ameaça, agressão, exposição de imagem ou violência continuada, acolha com discrição e encaminhe à coordenação e aos responsáveis.",
+            calls_data["method"]["pastoral_safety"],
             frame_w,
             styles,
         )
@@ -1971,7 +2273,7 @@ def build_facilitator_guide(terms_data: dict, calls_data: dict) -> Path:
         )
     )
     story.append(Spacer(1, 1.5 * mm))
-    story.append(Paragraph("A seção \"Leitura do caso\" é apoio do catequista: durante a rodada, use-a para uma explicação curta; na conferência, use-a para exigir respostas mais precisas.", styles["small"]))
+    story.append(Paragraph("A seção \"Leitura do caso\" é apoio do catequista: durante a rodada, use-a para uma explicação curta; na conferência, use-a para exigir respostas mais precisas. As notas integrais de condução ficam na Carta de explicações, preservando a legibilidade do baralho com oito cartas por A4.", styles["small"]))
 
     doc.build(story, onFirstPage=guide_header_footer, onLaterPages=guide_header_footer)
     return path
@@ -1988,6 +2290,7 @@ def explanation_styles() -> dict[str, ParagraphStyle]:
         "entry_code": pstyle("ExplanationCode", 6.8, 8.0, font=FONTS["label"], color=GUIDE["dark"], alignment=TA_CENTER),
         "entry_title": pstyle("ExplanationEntryTitle", 8.5, 10.0, font=FONTS["serif_bold"], color=GUIDE["dark"], space_after=1),
         "entry_body": pstyle("ExplanationEntryBody", 7.25, 9.45, font=FONTS["serif"], color=GUIDE["ink"], space_after=1.5),
+        "entry_note": pstyle("ExplanationEntryNote", 6.35, 8.0, font=FONTS["serif_italic"], color=GUIDE["muted"], space_after=0),
         "entry_meta": pstyle("ExplanationEntryMeta", 5.9, 7.2, font=FONTS["sans"], color=GUIDE["muted"], space_after=0),
     }
 
@@ -2035,11 +2338,14 @@ def explanation_entry_block(
     width: float,
     styles: dict[str, ParagraphStyle],
 ) -> KeepTogether:
-    anchors = " · ".join(call["anchors"])
+    anchors = "Fontes: " + " · ".join(call["anchors"])
+    if call.get("related_terms"):
+        anchors += "  |  Relações: " + " · ".join(call["related_terms"])
     table = Table(
         [
             [para(call["id"], styles["entry_code"]), para(term["label"], styles["entry_title"])],
             ["", rich_para(explanation, styles["entry_body"])],
+            ["", rich_para(f"**Nota de condução:** {call['facilitator_note']}", styles["entry_note"])],
             ["", para(anchors, styles["entry_meta"])],
         ],
         colWidths=[11.5 * mm, width - 11.5 * mm],
@@ -2050,18 +2356,18 @@ def explanation_entry_block(
             [
                 ("BACKGROUND", (0, 0), (-1, -1), GUIDE["surface"]),
                 ("BOX", (0, 0), (-1, -1), 0.25, GUIDE["line_soft"]),
-                ("SPAN", (0, 0), (0, 2)),
+                ("SPAN", (0, 0), (0, 3)),
                 ("VALIGN", (0, 0), (-1, -1), "TOP"),
-                ("BACKGROUND", (0, 0), (0, 2), GUIDE["surface_alt"]),
-                ("LINEAFTER", (0, 0), (0, 2), 0.25, GUIDE["line_soft"]),
+                ("BACKGROUND", (0, 0), (0, 3), GUIDE["surface_alt"]),
+                ("LINEAFTER", (0, 0), (0, 3), 0.25, GUIDE["line_soft"]),
                 ("LEFTPADDING", (0, 0), (-1, -1), 4.5),
                 ("RIGHTPADDING", (0, 0), (-1, -1), 4.5),
-                ("TOPPADDING", (0, 0), (-1, -1), 3.5),
-                ("BOTTOMPADDING", (0, 0), (-1, -1), 3.5),
+                ("TOPPADDING", (0, 0), (-1, -1), 3.0),
+                ("BOTTOMPADDING", (0, 0), (-1, -1), 3.0),
             ]
         )
     )
-    return KeepTogether([table, Spacer(1, 2.3 * mm)])
+    return KeepTogether([table, Spacer(1, 1.7 * mm)])
 
 
 def build_explanations_letter(terms: list[dict], calls: list[dict], explanations_data: dict) -> Path:
@@ -2111,7 +2417,7 @@ def build_explanations_letter(terms: list[dict], calls: list[dict], explanations
             [
                 "Sorteie a carta, anuncie o código e o conceito.",
                 "Leia o caso do baralho de chamadas.",
-                "Use a explicação do código como apoio para uma fala de 20 a 40 segundos.",
+                "Use a explicação e a nota de condução do código como apoio para uma fala de 20 a 40 segundos.",
                 "Depois dê alguns segundos para marcação e siga a rodada.",
                 "Na conferência, volte à explicação e à pergunta da carta para validar a linha.",
             ],
@@ -2162,6 +2468,8 @@ def build_explanations_letter(terms: list[dict], calls: list[dict], explanations
     for col in COLUMN_ORDER:
         story.append(explanation_section_block(col, col_w, styles))
         for call in calls_by_column[col]:
+            if call["id"] == "O14":
+                story.append(FrameBreak())
             term = term_lookup[call["term_id"]]
             story.append(explanation_entry_block(call, term, explanation_lookup[call["id"]], col_w, styles))
 
@@ -2213,7 +2521,7 @@ def main() -> None:
     kit = merge_pdfs([cartelas, chamadas, explicacoes, regras, controle, guia])
     render_previews([cartelas, chamadas, explicacoes, regras, controle, guia, kit])
 
-    for path in [manifest, cartelas, chamadas, explicacoes, regras, controle, guia, kit]:
+    for path in [manifest, CALL_LAYOUT_REPORT_PATH, cartelas, chamadas, explicacoes, regras, controle, guia, kit]:
         print(path.relative_to(ROOT))
 
 
