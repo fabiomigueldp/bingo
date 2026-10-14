@@ -594,8 +594,8 @@
   },
   "sourceHashes": {
     "termos.json": "e30033d99b59149c3680d32e9891ab6590c8d14ce344367c3bfb8ede92eb5d3b",
-    "chamadas.json": "428f1d7cce3dabf152b6d035ab5ffdf1c2329bac7952ac34e599e2e6cf22fcc3",
-    "explicacoes.json": "73d26d225df0dd70660d80509f5bf754fc612cf4cba34696155060d7c70cafe8"
+    "chamadas.json": "67edd248a7bc08fa65ccffef106acc3fe84039b3c03c63b3eaf9ba6182d77ca7",
+    "explicacoes.json": "df0f65f7fb8e440810c8438fcd4eaa09d3e1437bec58a73121d40977b63825ea"
   },
   "teachingMaterial": {
     "title": "Consciência, liberdade e responsabilidade",
@@ -2073,27 +2073,27 @@
       "column": "B",
       "columnTitle": "Base moral",
       "definition": "A consciência julga o que é justo fazer.",
-      "case": "Recebeu troco a mais. Ninguém percebeu, mas ela reconhece que aquele dinheiro não é seu.",
+      "case": "Uma cliente recebe troco a mais. O caixa não percebe, mas a cliente reconhece que precisa devolver o dinheiro.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "O erro do caixa favorece a cliente."
+          "body": "Ninguém está cobrando a devolução."
         },
         {
           "title": "Critério",
-          "body": "A consciência julga o que é justo fazer."
+          "body": "A consciência permite reconhecer o bem que devemos fazer."
         },
         {
           "title": "Resposta",
-          "body": "Devolver responde ao bem reconhecido."
+          "body": "A cliente deve avisar o caixa e devolver a diferença."
         }
       ],
-      "conferenceQuestion": "Por que isso não depende de alguém estar olhando?",
+      "conferenceQuestion": "Por que devolver, mesmo sem ninguém ter percebido?",
       "anchors": [
         "CEC 1778"
       ],
       "facilitatorNote": "Reconhecer o dever, mesmo sem vigilância.",
-      "explanation": "O erro do caixa favorece a cliente. A consciência julga o que é justo fazer. Devolver responde ao bem reconhecido."
+      "explanation": "Ninguém está cobrando a devolução. A consciência permite reconhecer o bem que devemos fazer. A cliente deve avisar o caixa e devolver a diferença."
     },
     {
       "id": "B02",
@@ -2103,27 +2103,27 @@
       "column": "B",
       "columnTitle": "Base moral",
       "definition": "A consciência precisa aprender e corrigir seus juízos.",
-      "case": "Ele achava normal copiar trabalhos da internet. Ao conversar sobre autoria, percebe que precisa rever esse costume.",
+      "case": "Um aluno costuma entregar textos copiados como se fossem seus. Ao ouvir uma explicação sobre honestidade, percebe que precisa mudar.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "Uma prática aceita pode estar errada."
+          "body": "O aluno considerava normal uma prática desonesta."
         },
         {
           "title": "Critério",
-          "body": "A consciência precisa aprender e corrigir seus juízos."
+          "body": "A consciência precisa ser formada e pode corrigir seus julgamentos."
         },
         {
           "title": "Resposta",
-          "body": "Palavra de Deus e ensinamento da Igreja ajudam nessa formação."
+          "body": "A Palavra de Deus e o ensinamento da Igreja ajudam a reconhecer o bem."
         }
       ],
-      "conferenceQuestion": "O que mudou: o certo e o errado ou o entendimento dele?",
+      "conferenceQuestion": "O costume de copiar tornava essa prática correta?",
       "anchors": [
         "CEC 1783-1785"
       ],
       "facilitatorNote": "A verdade não muda para acompanhar nossa opinião.",
-      "explanation": "Uma prática aceita pode estar errada. A consciência precisa aprender e corrigir seus juízos. Palavra de Deus e ensinamento da Igreja ajudam nessa formação."
+      "explanation": "O aluno considerava normal uma prática desonesta. A consciência precisa ser formada e pode corrigir seus julgamentos. A Palavra de Deus e o ensinamento da Igreja ajudam a reconhecer o bem."
     },
     {
       "id": "B03",
@@ -2133,27 +2133,27 @@
       "column": "B",
       "columnTitle": "Base moral",
       "definition": "Razão e vontade permitem uma escolha pessoal.",
-      "case": "Convidada para sair, ela lembra que prometeu acompanhar a avó. Pensa nas opções antes de responder.",
+      "case": "Uma jovem recebe um convite para sair no horário em que prometeu acompanhar a avó ao médico. Precisa decidir o que fazer.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "Há mais de uma possibilidade."
+          "body": "O convite é atraente, mas existe um compromisso."
         },
         {
           "title": "Critério",
-          "body": "Razão e vontade permitem uma escolha pessoal."
+          "body": "O livre-arbítrio permite escolher com a razão e a vontade."
         },
         {
           "title": "Resposta",
-          "body": "A promessa feita precisa entrar na decisão."
+          "body": "A jovem precisa considerar a promessa e as necessidades da avó."
         }
       ],
-      "conferenceQuestion": "Como o compromisso participa dessa escolha?",
+      "conferenceQuestion": "O que deve pesar nessa decisão, além da vontade de sair?",
       "anchors": [
         "CEC 1730-1731"
       ],
       "facilitatorNote": "Escolher inclui considerar o que foi prometido.",
-      "explanation": "Há mais de uma possibilidade. Razão e vontade permitem uma escolha pessoal. A promessa feita precisa entrar na decisão."
+      "explanation": "O convite é atraente, mas existe um compromisso. O livre-arbítrio permite escolher com a razão e a vontade. A jovem precisa considerar a promessa e as necessidades da avó."
     },
     {
       "id": "B04",
@@ -2163,27 +2163,27 @@
       "column": "B",
       "columnTitle": "Base moral",
       "definition": "A prudência escolhe meios adequados para fazer o bem.",
-      "case": "Chegou um aviso de que faltará água. Antes de repassar, ele procura confirmar a informação.",
+      "case": "Um morador recebe uma mensagem dizendo que faltará água no bairro. Antes de avisar os vizinhos, procura o comunicado da companhia de água.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "A mensagem pode afetar outras pessoas."
+          "body": "A mensagem pode ser verdadeira ou falsa."
         },
         {
           "title": "Critério",
-          "body": "A prudência escolhe meios adequados para fazer o bem."
+          "body": "A prudência ajuda a avaliar a situação e escolher como agir."
         },
         {
           "title": "Resposta",
-          "body": "Verificar evita espalhar um aviso falso."
+          "body": "Conferir a fonte evita espalhar um aviso falso."
         }
       ],
-      "conferenceQuestion": "Por que esperar para conferir pode ser uma boa decisão?",
+      "conferenceQuestion": "Por que conferir a informação antes de avisar os vizinhos?",
       "anchors": [
         "CEC 1806"
       ],
       "facilitatorNote": "Prudência não é compartilhar por precaução.",
-      "explanation": "A mensagem pode afetar outras pessoas. A prudência escolhe meios adequados para fazer o bem. Verificar evita espalhar um aviso falso."
+      "explanation": "A mensagem pode ser verdadeira ou falsa. A prudência ajuda a avaliar a situação e escolher como agir. Conferir a fonte evita espalhar um aviso falso."
     },
     {
       "id": "B05",
@@ -2193,27 +2193,27 @@
       "column": "B",
       "columnTitle": "Base moral",
       "definition": "Justiça é dar a cada um o que lhe é devido.",
-      "case": "Ao dividir o pagamento, o responsável percebe que deixou de contar um dia trabalhado por uma ajudante.",
+      "case": "Um ajudante termina o serviço combinado. O contratante tenta pagar menos, embora o trabalho tenha sido feito conforme o acordo.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "Falta pagar parte do trabalho."
+          "body": "O ajudante cumpriu sua parte."
         },
         {
           "title": "Critério",
-          "body": "Justiça é dar a cada um o que lhe é devido."
+          "body": "A justiça exige dar a cada pessoa o que lhe é devido."
         },
         {
           "title": "Resposta",
-          "body": "Acertar o valor é dever, não favor."
+          "body": "O contratante deve pagar o valor combinado."
         }
       ],
-      "conferenceQuestion": "Por que o pagamento não depende de ela reclamar?",
+      "conferenceQuestion": "Por que esse pagamento é uma obrigação, e não um favor?",
       "anchors": [
         "CEC 1807"
       ],
       "facilitatorNote": "Distinguir um direito de um presente.",
-      "explanation": "Falta pagar parte do trabalho. Justiça é dar a cada um o que lhe é devido. Acertar o valor é dever, não favor."
+      "explanation": "O ajudante cumpriu sua parte. A justiça exige dar a cada pessoa o que lhe é devido. O contratante deve pagar o valor combinado."
     },
     {
       "id": "B06",
@@ -2223,27 +2223,27 @@
       "column": "B",
       "columnTitle": "Base moral",
       "definition": "Fortaleza sustenta a escolha do bem apesar do medo.",
-      "case": "Os amigos riem quando ele se recusa a esconder a mochila de outro rapaz. Ele mantém a recusa.",
+      "case": "Um adolescente se recusa a esconder a mochila de um colega. Os amigos começam a zombar da recusa.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "A pressão torna a recusa difícil."
+          "body": "A pressão do grupo dificulta fazer o certo."
         },
         {
           "title": "Critério",
-          "body": "Fortaleza sustenta a escolha do bem apesar do medo."
+          "body": "A fortaleza ajuda a permanecer no bem diante das dificuldades."
         },
         {
           "title": "Resposta",
-          "body": "Não é preciso humilhar os amigos para resistir."
+          "body": "O adolescente pode manter a recusa sem ofender os amigos."
         }
       ],
-      "conferenceQuestion": "Ter medo significa que faltou coragem?",
+      "conferenceQuestion": "Que dificuldade a fortaleza ajuda a enfrentar aqui?",
       "anchors": [
         "CEC 1808"
       ],
       "facilitatorNote": "Coragem não exige ausência de medo.",
-      "explanation": "A pressão torna a recusa difícil. Fortaleza sustenta a escolha do bem apesar do medo. Não é preciso humilhar os amigos para resistir."
+      "explanation": "A pressão do grupo dificulta fazer o certo. A fortaleza ajuda a permanecer no bem diante das dificuldades. O adolescente pode manter a recusa sem ofender os amigos."
     },
     {
       "id": "B07",
@@ -2253,27 +2253,27 @@
       "column": "B",
       "columnTitle": "Base moral",
       "definition": "Temperança ajuda a moderar desejos e prazeres.",
-      "case": "O episódio terminou, mas outro começa automaticamente. Ela precisa dormir e pega o controle para desligar.",
+      "case": "Uma jovem precisa acordar cedo, mas a série acaba de iniciar outro episódio. Decide desligar a televisão e ir dormir.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "Algo agradável disputa espaço com uma necessidade."
+          "body": "Continuar assistindo é agradável, mas prejudicaria o descanso."
         },
         {
           "title": "Critério",
-          "body": "Temperança ajuda a moderar desejos e prazeres."
+          "body": "A temperança ajuda a moderar os desejos e os prazeres."
         },
         {
           "title": "Resposta",
-          "body": "Desligar pode ser um uso livre da vontade."
+          "body": "Saber parar permite cuidar das outras necessidades."
         }
       ],
-      "conferenceQuestion": "O que se ganha ao aceitar esse limite?",
+      "conferenceQuestion": "O problema está em assistir à série ou em não saber parar?",
       "anchors": [
         "CEC 1809"
       ],
       "facilitatorNote": "Não tratar lazer ou descanso como males.",
-      "explanation": "Algo agradável disputa espaço com uma necessidade. Temperança ajuda a moderar desejos e prazeres. Desligar pode ser um uso livre da vontade."
+      "explanation": "Continuar assistindo é agradável, mas prejudicaria o descanso. A temperança ajuda a moderar os desejos e os prazeres. Saber parar permite cuidar das outras necessidades."
     },
     {
       "id": "B08",
@@ -2283,27 +2283,27 @@
       "column": "B",
       "columnTitle": "Base moral",
       "definition": "Responsabilidade inclui responder pelas próprias escolhas.",
-      "case": "Ao estacionar a bicicleta, ele risca um carro. O dono ainda não viu e ele poderia ir embora.",
+      "case": "Um ciclista arranha um carro estacionado. O dono não está por perto, e o ciclista pode ir embora sem ser visto.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "O dano aconteceu numa ação sua."
+          "body": "O ciclista causou um dano."
         },
         {
           "title": "Critério",
-          "body": "Responsabilidade inclui responder pelas próprias escolhas."
+          "body": "Ser responsável inclui responder pelos próprios atos e suas consequências."
         },
         {
           "title": "Resposta",
-          "body": "É preciso esclarecer o ocorrido e buscar uma solução."
+          "body": "É preciso procurar o dono e combinar a reparação."
         }
       ],
-      "conferenceQuestion": "O que assumir o dano exige além de sentir vergonha?",
+      "conferenceQuestion": "O que assumir a responsabilidade exige além de admitir o arranhão?",
       "anchors": [
         "CEC 1734-1736"
       ],
       "facilitatorNote": "Não presumir culpa só porque houve prejuízo.",
-      "explanation": "O dano aconteceu numa ação sua. Responsabilidade inclui responder pelas próprias escolhas. É preciso esclarecer o ocorrido e buscar uma solução."
+      "explanation": "O ciclista causou um dano. Ser responsável inclui responder pelos próprios atos e suas consequências. É preciso procurar o dono e combinar a reparação."
     },
     {
       "id": "B09",
@@ -2313,27 +2313,27 @@
       "column": "B",
       "columnTitle": "Base moral",
       "definition": "A intenção é o objetivo de quem age.",
-      "case": "Ela oferece ajuda na mudança, mas planeja cobrar depois um favor que a amiga não quer fazer.",
+      "case": "Um aluno ajuda um colega a estudar pensando apenas em conseguir cola na prova seguinte.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "A ajuda esconde uma cobrança."
+          "body": "A ajuda esconde um interesse desonesto."
         },
         {
           "title": "Critério",
-          "body": "A intenção é o objetivo de quem age."
+          "body": "A intenção é aquilo que buscamos ao agir e também deve ser boa."
         },
         {
           "title": "Resposta",
-          "body": "Uma intenção ruim pode corromper uma ação boa."
+          "body": "Ajudar para obter cola não é uma intenção correta."
         }
       ],
-      "conferenceQuestion": "Qual é a diferença entre ajudar e preparar uma chantagem?",
+      "conferenceQuestion": "O que o aluno pretende conseguir com a ajuda?",
       "anchors": [
         "CEC 1752-1753"
       ],
-      "facilitatorNote": "Distinguir gratidão livre de favor exigido.",
-      "explanation": "A ajuda esconde uma cobrança. A intenção é o objetivo de quem age. Uma intenção ruim pode corromper uma ação boa."
+      "facilitatorNote": "A ajuda não deve servir para obter uma vantagem desonesta.",
+      "explanation": "A ajuda esconde um interesse desonesto. A intenção é aquilo que buscamos ao agir e também deve ser boa. Ajudar para obter cola não é uma intenção correta."
     },
     {
       "id": "B10",
@@ -2343,27 +2343,27 @@
       "column": "B",
       "columnTitle": "Base moral",
       "definition": "As circunstâncias podem aumentar a gravidade do ato.",
-      "case": "Durante uma discussão, alguém insulta o vizinho diante dos filhos dele. Depois diz que foram apenas palavras.",
+      "case": "Durante uma discussão, um morador insulta o vizinho diante dos filhos pequenos do vizinho.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "A ofensa atingiu também quem presenciou."
+          "body": "A ofensa também expõe o pai diante dos filhos."
         },
         {
           "title": "Critério",
-          "body": "As circunstâncias podem aumentar a gravidade do ato."
+          "body": "As circunstâncias podem aumentar a gravidade de uma ação."
         },
         {
           "title": "Resposta",
-          "body": "Lugar, pessoas afetadas e consequências precisam ser considerados."
+          "body": "É preciso considerar quem foi atingido e reparar a ofensa."
         }
       ],
-      "conferenceQuestion": "O que a presença dos filhos acrescenta ao caso?",
+      "conferenceQuestion": "Que detalhe torna essa ofensa ainda mais dolorosa?",
       "anchors": [
         "CEC 1754"
       ],
       "facilitatorNote": "Não reduzir a avaliação ao efeito visível.",
-      "explanation": "A ofensa atingiu também quem presenciou. As circunstâncias podem aumentar a gravidade do ato. Lugar, pessoas afetadas e consequências precisam ser considerados."
+      "explanation": "A ofensa também expõe o pai diante dos filhos. As circunstâncias podem aumentar a gravidade de uma ação. É preciso considerar quem foi atingido e reparar a ofensa."
     },
     {
       "id": "B11",
@@ -2373,28 +2373,28 @@
       "column": "B",
       "columnTitle": "Base moral",
       "definition": "A graça é o auxílio gratuito de Deus para responder ao seu amor.",
-      "case": "Ela quer abandonar o costume de mentir, mas teme perder amizades. Reza e procura ajuda para começar.",
+      "case": "Uma jovem quer contar a verdade depois de mentir aos amigos. Tem medo de perder a amizade e pede ajuda a Deus para assumir o erro.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "Mudar pode exigir enfrentar o medo."
+          "body": "O medo dificulta uma decisão correta."
         },
         {
           "title": "Critério",
-          "body": "A graça é o auxílio gratuito de Deus para responder ao seu amor."
+          "body": "A graça é a ajuda gratuita de Deus para vivermos no bem."
         },
         {
           "title": "Resposta",
-          "body": "Deus toma a iniciativa e pede nossa resposta livre."
+          "body": "A jovem pode acolher essa ajuda e contar a verdade, mesmo com medo."
         }
       ],
-      "conferenceQuestion": "Por que pedir a graça não dispensa dar um passo?",
+      "conferenceQuestion": "Pedir ajuda a Deus dispensa a jovem de contar a verdade?",
       "anchors": [
         "CEC 1996",
         "CEC 2001-2002"
       ],
       "facilitatorNote": "A graça não é prêmio por esforço anterior.",
-      "explanation": "Mudar pode exigir enfrentar o medo. A graça é o auxílio gratuito de Deus para responder ao seu amor. Deus toma a iniciativa e pede nossa resposta livre."
+      "explanation": "O medo dificulta uma decisão correta. A graça é a ajuda gratuita de Deus para vivermos no bem. A jovem pode acolher essa ajuda e contar a verdade, mesmo com medo."
     },
     {
       "id": "B12",
@@ -2404,27 +2404,27 @@
       "column": "B",
       "columnTitle": "Base moral",
       "definition": "No Batismo recebemos vida nova e nos tornamos filhos adotivos de Deus.",
-      "case": "Um rapaz encontra a vela do seu Batismo e pergunta por que a família guardou aquilo.",
+      "case": "Um adolescente pergunta à mãe: “Se fui batizado, por que ainda sinto vontade de fazer coisas erradas?”",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "A lembrança aponta para um sacramento."
+          "body": "O Batismo não elimina todas as tentações."
         },
         {
           "title": "Critério",
-          "body": "No Batismo recebemos vida nova e nos tornamos filhos adotivos de Deus."
+          "body": "No Batismo, recebemos a vida nova de Deus e nos tornamos seus filhos adotivos."
         },
         {
           "title": "Resposta",
-          "body": "Essa vida é chamada a crescer na fé e no amor."
+          "body": "Essa vida cresce com a oração, os sacramentos e a prática do bem."
         }
       ],
-      "conferenceQuestion": "O que o Batismo significa além de uma lembrança familiar?",
+      "conferenceQuestion": "Sentir uma tentação significa que o Batismo não teve efeito?",
       "anchors": [
-        "CEC 1265-1266"
+        "CEC 1264-1266"
       ],
-      "facilitatorNote": "Evitar reduzir o Batismo a um símbolo.",
-      "explanation": "A lembrança aponta para um sacramento. No Batismo recebemos vida nova e nos tornamos filhos adotivos de Deus. Essa vida é chamada a crescer na fé e no amor."
+      "facilitatorNote": "O Batismo dá vida nova; não elimina toda inclinação ao pecado.",
+      "explanation": "O Batismo não elimina todas as tentações. No Batismo, recebemos a vida nova de Deus e nos tornamos seus filhos adotivos. Essa vida cresce com a oração, os sacramentos e a prática do bem."
     },
     {
       "id": "B13",
@@ -2434,28 +2434,28 @@
       "column": "B",
       "columnTitle": "Base moral",
       "definition": "Na Reconciliação, Cristo perdoa por meio da absolvição do sacerdote.",
-      "case": "Depois de enganar o irmão, ela quer procurar a Confissão, mas tem vergonha de contar o que fez.",
+      "case": "Um jovem enganou o irmão e se arrependeu. Quer procurar a Confissão, mas sente vergonha de contar o que fez.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "A vergonha dificulta pedir perdão."
+          "body": "A vergonha pode dificultar o pedido de perdão."
         },
         {
           "title": "Critério",
-          "body": "Na Reconciliação, Cristo perdoa por meio da absolvição do sacerdote."
+          "body": "Na Reconciliação, Cristo perdoa os pecados pela absolvição do sacerdote."
         },
         {
           "title": "Resposta",
-          "body": "Arrependimento inclui querer mudar e reparar o possível."
+          "body": "O jovem pode confessar com sinceridade e reparar o que fez ao irmão."
         }
       ],
-      "conferenceQuestion": "Por que não é preciso esperar sentir-se perfeita para confessar?",
+      "conferenceQuestion": "Como a Confissão ajuda esse jovem a recomeçar?",
       "anchors": [
         "CEC 1422-1424",
         "CEC 1468"
       ],
       "facilitatorNote": "Arrependimento não é garantia de nunca cair.",
-      "explanation": "A vergonha dificulta pedir perdão. Na Reconciliação, Cristo perdoa por meio da absolvição do sacerdote. Arrependimento inclui querer mudar e reparar o possível."
+      "explanation": "A vergonha pode dificultar o pedido de perdão. Na Reconciliação, Cristo perdoa os pecados pela absolvição do sacerdote. O jovem pode confessar com sinceridade e reparar o que fez ao irmão."
     },
     {
       "id": "B14",
@@ -2465,27 +2465,27 @@
       "column": "B",
       "columnTitle": "Base moral",
       "definition": "Na Eucaristia recebemos Cristo, que fortalece a caridade.",
-      "case": "Depois da Missa, ele pergunta como a Comunhão se relaciona com a dificuldade de tratar bem as pessoas em casa.",
+      "case": "Depois da Missa, uma jovem se recusa a ajudar o avô a carregar as compras. A mãe lembra que a Comunhão também fortalece o amor no dia a dia.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "A vida cristã continua depois da celebração."
+          "body": "O cuidado com o avô é uma ocasião de amar."
         },
         {
           "title": "Critério",
-          "body": "Na Eucaristia recebemos Cristo, que fortalece a caridade."
+          "body": "Na Eucaristia, recebemos Cristo, que nos une a Ele e fortalece a caridade."
         },
         {
           "title": "Resposta",
-          "body": "Esse dom sustenta nosso esforço para amar."
+          "body": "A jovem é chamada a viver esse amor também em casa."
         }
       ],
-      "conferenceQuestion": "Como a Comunhão pode sustentar escolhas durante a semana?",
+      "conferenceQuestion": "Como o cuidado com o avô se relaciona com a Comunhão?",
       "anchors": [
         "CEC 1394-1395"
       ],
       "facilitatorNote": "A Comunhão não dispensa a resposta pessoal.",
-      "explanation": "A vida cristã continua depois da celebração. Na Eucaristia recebemos Cristo, que fortalece a caridade. Esse dom sustenta nosso esforço para amar."
+      "explanation": "O cuidado com o avô é uma ocasião de amar. Na Eucaristia, recebemos Cristo, que nos une a Ele e fortalece a caridade. A jovem é chamada a viver esse amor também em casa."
     },
     {
       "id": "B15",
@@ -2495,29 +2495,29 @@
       "column": "B",
       "columnTitle": "Base moral",
       "definition": "A Lei do Evangelho nos chama a agir por amor, com a graça do Espírito.",
-      "case": "Ela visita a tia sozinha porque quer lhe fazer companhia, mesmo sem ninguém cobrar ou prometer recompensa.",
+      "case": "Uma sobrinha reserva parte da tarde para visitar a tia que mora sozinha, mesmo sabendo que não receberá nenhum presente em troca.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "O gesto nasce do cuidado com a tia."
+          "body": "A visita procura o bem da tia."
         },
         {
           "title": "Critério",
-          "body": "A Lei do Evangelho nos chama a agir por amor, com a graça do Espírito."
+          "body": "Jesus nos ensina a amar o próximo sem exigir recompensa."
         },
         {
           "title": "Resposta",
-          "body": "Liberdade amadurece no serviço ao próximo."
+          "body": "Oferecer companhia é uma maneira concreta de viver esse amor."
         }
       ],
-      "conferenceQuestion": "O que muda quando o bem é feito por amor?",
+      "conferenceQuestion": "O que mostra que a visita não é uma troca de favores?",
       "anchors": [
         "CEC 1966",
         "CEC 1972",
         "Gl 5,13"
       ],
       "facilitatorNote": "Relacionar serviço e ação do Espírito Santo.",
-      "explanation": "O gesto nasce do cuidado com a tia. A Lei do Evangelho nos chama a agir por amor, com a graça do Espírito. Liberdade amadurece no serviço ao próximo."
+      "explanation": "A visita procura o bem da tia. Jesus nos ensina a amar o próximo sem exigir recompensa. Oferecer companhia é uma maneira concreta de viver esse amor."
     },
     {
       "id": "I01",
@@ -2527,28 +2527,28 @@
       "column": "I",
       "columnTitle": "Situações concretas",
       "definition": "Perceber o erro e ficar com o valor é uma escolha.",
-      "case": "O caixa devolve vinte reais a mais. O cliente percebe e guarda o dinheiro antes que alguém note.",
+      "case": "Ao pagar uma compra, um cliente recebe vinte reais a mais no troco. Percebe o erro e guarda o dinheiro sem avisar.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "O engano do caixa não transfere a propriedade."
+          "body": "O cliente fica com um dinheiro que não lhe pertence."
         },
         {
           "title": "Critério",
-          "body": "Perceber o erro e ficar com o valor é uma escolha."
+          "body": "O erro do caixa não dá direito à quantia recebida a mais."
         },
         {
           "title": "Resposta",
-          "body": "O dinheiro deve ser devolvido."
+          "body": "É preciso devolver a diferença."
         }
       ],
-      "conferenceQuestion": "Qual foi a escolha do cliente depois de perceber o erro?",
+      "conferenceQuestion": "Por que o erro do caixa não justifica guardar o dinheiro?",
       "anchors": [
         "CEC 1736",
         "CEC 1807"
       ],
       "facilitatorNote": "A decisão vem depois de perceber o engano.",
-      "explanation": "O engano do caixa não transfere a propriedade. Perceber o erro e ficar com o valor é uma escolha. O dinheiro deve ser devolvido."
+      "explanation": "O cliente fica com um dinheiro que não lhe pertence. O erro do caixa não dá direito à quantia recebida a mais. É preciso devolver a diferença."
     },
     {
       "id": "I02",
@@ -2558,28 +2558,28 @@
       "column": "I",
       "columnTitle": "Situações concretas",
       "definition": "Querer avisar não justifica espalhar algo sem fundamento.",
-      "case": "Ela recebe uma acusação sem prova contra um vizinho e encaminha para a família, dizendo que é só um alerta.",
+      "case": "Uma moradora encaminha ao grupo do bairro uma acusação contra o vizinho. Não sabe se é verdade, mas diz que quer alertar os outros.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "O repasse aumenta o alcance da acusação."
+          "body": "A mensagem pode prejudicar a reputação do vizinho."
         },
         {
           "title": "Critério",
-          "body": "Querer avisar não justifica espalhar algo sem fundamento."
+          "body": "Querer alertar não justifica divulgar uma acusação sem verificar."
         },
         {
           "title": "Resposta",
-          "body": "É preciso interromper o boato e esclarecer o repasse."
+          "body": "A moradora deve conferir os fatos e corrigir o que divulgou."
         }
       ],
-      "conferenceQuestion": "Por que chamar de alerta não resolve o problema?",
+      "conferenceQuestion": "Que cuidado faltou antes de encaminhar a mensagem?",
       "anchors": [
         "CEC 1753",
         "CEC 1868"
       ],
       "facilitatorNote": "Não pedir que investiguem acusações por conta própria.",
-      "explanation": "O repasse aumenta o alcance da acusação. Querer avisar não justifica espalhar algo sem fundamento. É preciso interromper o boato e esclarecer o repasse."
+      "explanation": "A mensagem pode prejudicar a reputação do vizinho. Querer alertar não justifica divulgar uma acusação sem verificar. A moradora deve conferir os fatos e corrigir o que divulgou."
     },
     {
       "id": "I03",
@@ -2589,28 +2589,28 @@
       "column": "I",
       "columnTitle": "Situações concretas",
       "definition": "A pressão deve ser considerada sem tornar a humilhação correta.",
-      "case": "Os amigos pressionam um rapaz a ridicularizar outro no grupo. Ele acha errado, mas teme perder as amizades.",
+      "case": "Um grupo começa a ridicularizar um colega. Um dos amigos participa, com medo de ser excluído se não rir junto.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "O medo pesa sobre a decisão."
+          "body": "O medo de perder os amigos pesa na decisão."
         },
         {
           "title": "Critério",
-          "body": "A pressão deve ser considerada sem tornar a humilhação correta."
+          "body": "A pressão pode dificultar a escolha, mas não torna a humilhação correta."
         },
         {
           "title": "Resposta",
-          "body": "Recusar e procurar apoio são respostas possíveis."
+          "body": "É possível recusar a zombaria e buscar apoio se a pressão continuar."
         }
       ],
-      "conferenceQuestion": "Como resistir sem começar outra humilhação?",
+      "conferenceQuestion": "Como participar da zombaria prejudica outra pessoa?",
       "anchors": [
         "CEC 1735",
         "CEC 1808"
       ],
       "facilitatorNote": "Recusar sem ridicularizar quem pressionou.",
-      "explanation": "O medo pesa sobre a decisão. A pressão deve ser considerada sem tornar a humilhação correta. Recusar e procurar apoio são respostas possíveis."
+      "explanation": "O medo de perder os amigos pesa na decisão. A pressão pode dificultar a escolha, mas não torna a humilhação correta. É possível recusar a zombaria e buscar apoio se a pressão continuar."
     },
     {
       "id": "I04",
@@ -2620,27 +2620,27 @@
       "column": "I",
       "columnTitle": "Situações concretas",
       "definition": "Ignorar um risco previsível pode trazer responsabilidade pelo dano.",
-      "case": "Ele chuta a bola junto à janela, mesmo após ser avisado. O vidro quebra, e ele diz que foi sem querer.",
+      "case": "Um menino continua chutando a bola perto de uma janela, mesmo depois de ser avisado. O vidro quebra, e o menino diz que foi sem querer.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "Ele não queria quebrar o vidro."
+          "body": "Quebrar o vidro não era o objetivo, mas o risco era conhecido."
         },
         {
           "title": "Critério",
-          "body": "Ignorar um risco previsível pode trazer responsabilidade pelo dano."
+          "body": "Podemos responder por um dano que era possível prever e evitar."
         },
         {
           "title": "Resposta",
-          "body": "Não querer o resultado não apaga o descuido."
+          "body": "O menino precisa admitir o descuido e ajudar a reparar o dano."
         }
       ],
-      "conferenceQuestion": "Qual aviso torna esse caso diferente de um acidente inevitável?",
+      "conferenceQuestion": "O aviso anterior faz diferença para entender a responsabilidade?",
       "anchors": [
         "CEC 1736-1737"
       ],
       "facilitatorNote": "Distinguir resultado não desejado de risco ignorado.",
-      "explanation": "Ele não queria quebrar o vidro. Ignorar um risco previsível pode trazer responsabilidade pelo dano. Não querer o resultado não apaga o descuido."
+      "explanation": "Quebrar o vidro não era o objetivo, mas o risco era conhecido. Podemos responder por um dano que era possível prever e evitar. O menino precisa admitir o descuido e ajudar a reparar o dano."
     },
     {
       "id": "I05",
@@ -2650,28 +2650,28 @@
       "column": "I",
       "columnTitle": "Situações concretas",
       "definition": "Uma nova vontade não elimina um dever assumido.",
-      "case": "Ela combinou buscar o irmão menor. Decide ficar com as amigas e não avisa quem poderia buscá-lo.",
+      "case": "Uma jovem prometeu buscar o irmão na escola. Fica conversando com os amigos, perde o horário e não avisa a família.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "Outra pessoa dependia do combinado."
+          "body": "O irmão depende do compromisso assumido."
         },
         {
           "title": "Critério",
-          "body": "Uma nova vontade não elimina um dever assumido."
+          "body": "A vontade de continuar a conversa não elimina essa responsabilidade."
         },
         {
           "title": "Resposta",
-          "body": "Se houver impedimento, é preciso organizar ajuda a tempo."
+          "body": "É preciso cumprir o combinado ou avisar a tempo de organizar outra solução."
         }
       ],
-      "conferenceQuestion": "Quem foi afetado por essa decisão?",
+      "conferenceQuestion": "Quem sofre as consequências do compromisso abandonado?",
       "anchors": [
         "CEC 1734",
         "CEC 1736"
       ],
       "facilitatorNote": "Destacar a pessoa que dependia do combinado.",
-      "explanation": "Outra pessoa dependia do combinado. Uma nova vontade não elimina um dever assumido. Se houver impedimento, é preciso organizar ajuda a tempo."
+      "explanation": "O irmão depende do compromisso assumido. A vontade de continuar a conversa não elimina essa responsabilidade. É preciso cumprir o combinado ou avisar a tempo de organizar outra solução."
     },
     {
       "id": "I06",
@@ -2681,27 +2681,27 @@
       "column": "I",
       "columnTitle": "Situações concretas",
       "definition": "Omissão é deixar um bem devido e ao nosso alcance.",
-      "case": "Um passageiro vê uma senhora cair. Pode avisar o motorista com segurança, mas fica quieto para não se envolver.",
+      "case": "Uma passageira vê uma senhora cair ao subir no ônibus. Pode avisar o motorista com segurança, mas permanece calada para não se envolver.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "Havia uma ajuda possível e segura."
+          "body": "Há uma ajuda simples ao alcance da passageira."
         },
         {
           "title": "Critério",
-          "body": "Omissão é deixar um bem devido e ao nosso alcance."
+          "body": "Também podemos errar ao deixar de fazer um bem que nos cabe."
         },
         {
           "title": "Resposta",
-          "body": "Avisar quem pode ajudar já é uma ação concreta."
+          "body": "Avisar o motorista permite que a senhora receba ajuda."
         }
       ],
-      "conferenceQuestion": "O que ele podia fazer sem resolver tudo sozinho?",
+      "conferenceQuestion": "Que ajuda a passageira poderia oferecer sem se colocar em risco?",
       "anchors": [
         "Tg 4,17"
       ],
       "facilitatorNote": "Não exigir heroísmo para reconhecer uma ajuda possível.",
-      "explanation": "Havia uma ajuda possível e segura. Omissão é deixar um bem devido e ao nosso alcance. Avisar quem pode ajudar já é uma ação concreta."
+      "explanation": "Há uma ajuda simples ao alcance da passageira. Também podemos errar ao deixar de fazer um bem que nos cabe. Avisar o motorista permite que a senhora receba ajuda."
     },
     {
       "id": "I07",
@@ -2711,28 +2711,28 @@
       "column": "I",
       "columnTitle": "Situações concretas",
       "definition": "Repetir o pecado pode tornar mais difícil abandoná-lo.",
-      "case": "Para esconder uma compra, ele inventa uma dívida. Quando pedem detalhes, cria mais uma história.",
+      "case": "Um adolescente quebra o fone do irmão e diz que o cachorro estragou. Quando a família pergunta onde estava o fone, inventa outra história.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "A primeira mentira exige novas mentiras."
+          "body": "A primeira mentira leva à invenção de outras."
         },
         {
           "title": "Critério",
-          "body": "Repetir o pecado pode tornar mais difícil abandoná-lo."
+          "body": "Mentir para esconder um erro aumenta o problema e prejudica a confiança."
         },
         {
           "title": "Resposta",
-          "body": "Admitir a verdade permite começar a sair dessa situação."
+          "body": "Contar a verdade interrompe a sequência de mentiras."
         }
       ],
-      "conferenceQuestion": "Por que esse caminho diminui a liberdade?",
+      "conferenceQuestion": "O que precisa acontecer para essa sequência parar?",
       "anchors": [
         "CEC 1865",
         "Jo 8,34"
       ],
       "facilitatorNote": "A repetição dificulta, mas não impossibilita mudar.",
-      "explanation": "A primeira mentira exige novas mentiras. Repetir o pecado pode tornar mais difícil abandoná-lo. Admitir a verdade permite começar a sair dessa situação."
+      "explanation": "A primeira mentira leva à invenção de outras. Mentir para esconder um erro aumenta o problema e prejudica a confiança. Contar a verdade interrompe a sequência de mentiras."
     },
     {
       "id": "I08",
@@ -2742,27 +2742,27 @@
       "column": "I",
       "columnTitle": "Situações concretas",
       "definition": "Gratidão não obriga ninguém a fazer o mal.",
-      "case": "Uma amiga empresta suas anotações. Depois exige que a outra minta por ela, lembrando o favor que fez.",
+      "case": "Uma aluna empresta o caderno a uma amiga. Depois exige que a amiga diga à professora que fizeram juntas um trabalho que nem começou.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "Um favor virou instrumento de pressão."
+          "body": "A ajuda está sendo usada para cobrar uma mentira."
         },
         {
           "title": "Critério",
-          "body": "Gratidão não obriga ninguém a fazer o mal."
+          "body": "Receber um favor não obriga ninguém a fazer algo errado."
         },
         {
           "title": "Resposta",
-          "body": "É possível agradecer e recusar a mentira."
+          "body": "A amiga pode agradecer o empréstimo e recusar a mentira."
         }
       ],
-      "conferenceQuestion": "Por que recusar não é ingratidão?",
+      "conferenceQuestion": "Até onde vai a obrigação de retribuir um favor?",
       "anchors": [
         "CEC 1789"
       ],
       "facilitatorNote": "Um favor recebido não compra a consciência.",
-      "explanation": "Um favor virou instrumento de pressão. Gratidão não obriga ninguém a fazer o mal. É possível agradecer e recusar a mentira."
+      "explanation": "A ajuda está sendo usada para cobrar uma mentira. Receber um favor não obriga ninguém a fazer algo errado. A amiga pode agradecer o empréstimo e recusar a mentira."
     },
     {
       "id": "I09",
@@ -2772,28 +2772,28 @@
       "column": "I",
       "columnTitle": "Situações concretas",
       "definition": "O medo pode diminuir a responsabilidade, mas não torna a mentira boa.",
-      "case": "O dono de uma loja manda a atendente esconder um defeito do produto. Ela teme perder o emprego.",
+      "case": "O dono de uma loja manda o funcionário esconder um defeito do produto. O funcionário teme perder o emprego se contar ao cliente.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "Há uma ordem injusta e uma pressão real."
+          "body": "O emprego está sendo usado como pressão."
         },
         {
           "title": "Critério",
-          "body": "O medo pode diminuir a responsabilidade, mas não torna a mentira boa."
+          "body": "O medo pode diminuir a responsabilidade, mas enganar o cliente continua errado."
         },
         {
           "title": "Resposta",
-          "body": "Ela precisa de apoio para enfrentar a situação."
+          "body": "O funcionário deve buscar uma forma segura de recusar e pedir orientação."
         }
       ],
-      "conferenceQuestion": "O que devemos considerar antes de julgar a culpa dela?",
+      "conferenceQuestion": "O medo muda o defeito do produto ou a liberdade do funcionário?",
       "anchors": [
         "CEC 1735",
         "CEC 1754"
       ],
-      "facilitatorNote": "Não presumir quanto ela podia resistir.",
-      "explanation": "Há uma ordem injusta e uma pressão real. O medo pode diminuir a responsabilidade, mas não torna a mentira boa. Ela precisa de apoio para enfrentar a situação."
+      "facilitatorNote": "Não presumir quanto o funcionário conseguia resistir à pressão.",
+      "explanation": "O emprego está sendo usado como pressão. O medo pode diminuir a responsabilidade, mas enganar o cliente continua errado. O funcionário deve buscar uma forma segura de recusar e pedir orientação."
     },
     {
       "id": "I10",
@@ -2803,28 +2803,28 @@
       "column": "I",
       "columnTitle": "Situações concretas",
       "definition": "A liberdade precisa ser exercitada também no uso do tempo.",
-      "case": "Ele promete dormir cedo, mas passa a madrugada jogando. De manhã, não consegue cumprir o que havia combinado.",
+      "case": "Um adolescente combina de ajudar na mudança da avó pela manhã. Passa a noite jogando e não consegue acordar no horário.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "O hábito está prejudicando seus deveres."
+          "body": "O jogo ocupou o tempo necessário para descansar."
         },
         {
           "title": "Critério",
-          "body": "A liberdade precisa ser exercitada também no uso do tempo."
+          "body": "Nossas escolhas anteriores podem prejudicar os compromissos do dia seguinte."
         },
         {
           "title": "Resposta",
-          "body": "Horários e ajuda podem facilitar a mudança."
+          "body": "É preciso limitar o horário de jogar e assumir a ajuda combinada."
         }
       ],
-      "conferenceQuestion": "Que limite concreto poderia ajudá-lo?",
+      "conferenceQuestion": "Em que momento o adolescente poderia ter evitado o problema?",
       "anchors": [
         "CEC 1734",
         "CEC 1809"
       ],
       "facilitatorNote": "Não diagnosticar dependência apenas por esta cena.",
-      "explanation": "O hábito está prejudicando seus deveres. A liberdade precisa ser exercitada também no uso do tempo. Horários e ajuda podem facilitar a mudança."
+      "explanation": "O jogo ocupou o tempo necessário para descansar. Nossas escolhas anteriores podem prejudicar os compromissos do dia seguinte. É preciso limitar o horário de jogar e assumir a ajuda combinada."
     },
     {
       "id": "I11",
@@ -2834,28 +2834,28 @@
       "column": "I",
       "columnTitle": "Situações concretas",
       "definition": "Evitar a própria bronca não justifica prejudicar outra pessoa.",
-      "case": "Uma irmã leva a culpa por um copo quebrado. Quem quebrou sabe disso e permanece calado para evitar a bronca.",
+      "case": "Uma menina quebra um copo e fica calada quando a mãe culpa o irmão.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "O silêncio mantém uma acusação falsa."
+          "body": "O silêncio deixa outra pessoa receber a culpa."
         },
         {
           "title": "Critério",
-          "body": "Evitar a própria bronca não justifica prejudicar outra pessoa."
+          "body": "Esconder a própria falta à custa de um inocente é injusto."
         },
         {
           "title": "Resposta",
-          "body": "É preciso esclarecer quem causou o dano."
+          "body": "A menina deve contar o que aconteceu e livrar o irmão da acusação."
         }
       ],
-      "conferenceQuestion": "O que torna esse silêncio uma escolha?",
+      "conferenceQuestion": "Por que ficar calada também é uma escolha nessa situação?",
       "anchors": [
         "CEC 1736",
         "CEC 1868"
       ],
       "facilitatorNote": "Saber da acusação e mantê-la é relevante.",
-      "explanation": "O silêncio mantém uma acusação falsa. Evitar a própria bronca não justifica prejudicar outra pessoa. É preciso esclarecer quem causou o dano."
+      "explanation": "O silêncio deixa outra pessoa receber a culpa. Esconder a própria falta à custa de um inocente é injusto. A menina deve contar o que aconteceu e livrar o irmão da acusação."
     },
     {
       "id": "I12",
@@ -2865,27 +2865,27 @@
       "column": "I",
       "columnTitle": "Situações concretas",
       "definition": "A misericórdia de Deus nos chama à conversão.",
-      "case": "Depois de um longo afastamento, ela pensa em procurar a Confissão, mas acha que Deus já desistiu dela.",
+      "case": "Uma jovem volta a cometer um pecado que já confessou. Tem vergonha de procurar o padre e pensa que Deus desistiu de perdoar.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "A vergonha está impedindo a aproximação."
+          "body": "A recaída trouxe desânimo e vergonha."
         },
         {
           "title": "Critério",
-          "body": "A misericórdia de Deus nos chama à conversão."
+          "body": "A misericórdia de Deus continua chamando ao arrependimento."
         },
         {
           "title": "Resposta",
-          "body": "É possível procurar o sacerdote e pedir orientação."
+          "body": "A jovem pode voltar à Confissão e buscar ajuda para mudar."
         }
       ],
-      "conferenceQuestion": "Por que reconhecer o pecado pode ser um começo?",
+      "conferenceQuestion": "Por que a recaída não deve levar a desistir do perdão?",
       "anchors": [
         "CEC 1846-1848"
       ],
       "facilitatorNote": "Não pedir relatos de pecados ao grupo.",
-      "explanation": "A vergonha está impedindo a aproximação. A misericórdia de Deus nos chama à conversão. É possível procurar o sacerdote e pedir orientação."
+      "explanation": "A recaída trouxe desânimo e vergonha. A misericórdia de Deus continua chamando ao arrependimento. A jovem pode voltar à Confissão e buscar ajuda para mudar."
     },
     {
       "id": "I13",
@@ -2895,27 +2895,27 @@
       "column": "I",
       "columnTitle": "Situações concretas",
       "definition": "Arrependimento pede uma disposição real de abandonar o mal.",
-      "case": "Depois de insultar o irmão, ele pede desculpas. Na próxima discussão, repete os insultos e se recusa a conversar sobre isso.",
+      "case": "Um rapaz insulta a irmã, pede desculpas e repete a ofensa no dia seguinte. Quando a irmã pede respeito, responde que já se desculpou.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "O pedido não veio acompanhado de mudança."
+          "body": "O pedido de desculpas não está acompanhado de mudança."
         },
         {
           "title": "Critério",
-          "body": "Arrependimento pede uma disposição real de abandonar o mal."
+          "body": "Arrepender-se inclui querer abandonar o erro."
         },
         {
           "title": "Resposta",
-          "body": "É preciso rever como agir na próxima discussão."
+          "body": "O rapaz precisa parar com as ofensas e aprender a conversar com respeito."
         }
       ],
-      "conferenceQuestion": "Que atitude mostraria que o pedido foi levado a sério?",
+      "conferenceQuestion": "O que falta nesse pedido de desculpas?",
       "anchors": [
         "CEC 1431"
       ],
       "facilitatorNote": "Querer mudar não significa nunca mais falhar.",
-      "explanation": "O pedido não veio acompanhado de mudança. Arrependimento pede uma disposição real de abandonar o mal. É preciso rever como agir na próxima discussão."
+      "explanation": "O pedido de desculpas não está acompanhado de mudança. Arrepender-se inclui querer abandonar o erro. O rapaz precisa parar com as ofensas e aprender a conversar com respeito."
     },
     {
       "id": "I14",
@@ -2925,28 +2925,28 @@
       "column": "I",
       "columnTitle": "Situações concretas",
       "definition": "Induzir alguém ao mal também traz responsabilidade.",
-      "case": "O funcionário mais antigo ensina o novato a registrar horas que não trabalhou. Diz que ali sempre foi assim.",
+      "case": "Um funcionário ensina um colega recém-contratado a registrar horas que não trabalhou, dizendo que ninguém confere.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "Ele está ensinando outra pessoa a fraudar."
+          "body": "O funcionário incentiva outra pessoa a enganar."
         },
         {
           "title": "Critério",
-          "body": "Induzir alguém ao mal também traz responsabilidade."
+          "body": "O mau exemplo pode levar o próximo ao pecado."
         },
         {
           "title": "Resposta",
-          "body": "A experiência deveria orientar para uma prática honesta."
+          "body": "É preciso recusar a fraude e deixar de ensiná-la aos outros."
         }
       ],
-      "conferenceQuestion": "Por que o exemplo do veterano pesa nessa situação?",
+      "conferenceQuestion": "Por que a atitude prejudica também o colega novo?",
       "anchors": [
         "CEC 2284",
         "CEC 1868"
       ],
       "facilitatorNote": "Distinguir mau exemplo de simples desagrado.",
-      "explanation": "Ele está ensinando outra pessoa a fraudar. Induzir alguém ao mal também traz responsabilidade. A experiência deveria orientar para uma prática honesta."
+      "explanation": "O funcionário incentiva outra pessoa a enganar. O mau exemplo pode levar o próximo ao pecado. É preciso recusar a fraude e deixar de ensiná-la aos outros."
     },
     {
       "id": "I15",
@@ -2956,27 +2956,27 @@
       "column": "I",
       "columnTitle": "Situações concretas",
       "definition": "A liberdade pode ser usada para servir por amor.",
-      "case": "Ao terminar a visita, ela vê que a avó ficou com toda a louça. Pode ir embora ou ficar para ajudar.",
+      "case": "Depois do almoço de família, uma neta vê a avó lavando toda a louça sozinha. Os outros já saíram, e a neta fica para ajudar.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "Há uma necessidade concreta diante dela."
+          "body": "A avó precisa de ajuda mesmo sem ninguém olhando."
         },
         {
           "title": "Critério",
-          "body": "A liberdade pode ser usada para servir por amor."
+          "body": "O valor do serviço não depende de elogios."
         },
         {
           "title": "Resposta",
-          "body": "Ajudar não precisa depender de elogio."
+          "body": "Dividir a tarefa é uma forma concreta de cuidar."
         }
       ],
-      "conferenceQuestion": "Como esse gesto pode expressar liberdade?",
+      "conferenceQuestion": "O que torna essa ajuda valiosa mesmo sem aplausos?",
       "anchors": [
         "Gl 5,13"
       ],
       "facilitatorNote": "Um gesto pequeno pode expressar caridade.",
-      "explanation": "Há uma necessidade concreta diante dela. A liberdade pode ser usada para servir por amor. Ajudar não precisa depender de elogio."
+      "explanation": "A avó precisa de ajuda mesmo sem ninguém olhando. O valor do serviço não depende de elogios. Dividir a tarefa é uma forma concreta de cuidar."
     },
     {
       "id": "N01",
@@ -2986,28 +2986,28 @@
       "column": "N",
       "columnTitle": "Narrativas falsas",
       "definition": "A aprovação de muitos não torna a fraude correta.",
-      "case": "Na prova, oferecem uma cola. Quando ele recusa, ouve que a sala inteira está usando.",
+      "case": "Um aluno cola na prova e se justifica: “Todo mundo da turma faz isso”.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "O número de participantes vira desculpa."
+          "body": "O aluno usa o comportamento dos outros como desculpa."
         },
         {
           "title": "Critério",
-          "body": "A aprovação de muitos não torna a fraude correta."
+          "body": "Uma prática não se torna correta por ser comum."
         },
         {
           "title": "Resposta",
-          "body": "Cada um responde pela parte que escolhe fazer."
+          "body": "Cada pessoa precisa responder pela própria escolha."
         }
       ],
-      "conferenceQuestion": "Por que a escolha continua pessoal?",
+      "conferenceQuestion": "A quantidade de pessoas que colam muda a honestidade da ação?",
       "anchors": [
         "CEC 1778",
         "CEC 1734"
       ],
       "facilitatorNote": "A maioria não decide o valor moral.",
-      "explanation": "O número de participantes vira desculpa. A aprovação de muitos não torna a fraude correta. Cada um responde pela parte que escolhe fazer."
+      "explanation": "O aluno usa o comportamento dos outros como desculpa. Uma prática não se torna correta por ser comum. Cada pessoa precisa responder pela própria escolha."
     },
     {
       "id": "N02",
@@ -3017,27 +3017,27 @@
       "column": "N",
       "columnTitle": "Narrativas falsas",
       "definition": "Sentir raiva não prova que uma ação seja justa.",
-      "case": "Ela quer publicar uma resposta cruel e diz que, se sente tanta raiva, tem razão em fazê-lo.",
+      "case": "Depois de uma discussão, uma jovem publica uma mensagem para humilhar a amiga e diz: “Eu estava com raiva, tinha que falar”.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "Uma emoção está sendo usada como autorização."
+          "body": "A raiva foi usada para justificar a humilhação."
         },
         {
           "title": "Critério",
-          "body": "Sentir raiva não prova que uma ação seja justa."
+          "body": "Sentir raiva não dá direito de ferir outra pessoa."
         },
         {
           "title": "Resposta",
-          "body": "A resposta precisa passar pelo juízo da razão."
+          "body": "A jovem pode esperar se acalmar e conversar sem ofender."
         }
       ],
-      "conferenceQuestion": "O que o sentimento revela e o que ele não decide?",
+      "conferenceQuestion": "Que diferença há entre sentir raiva e humilhar alguém?",
       "anchors": [
         "CEC 1778"
       ],
       "facilitatorNote": "Não condenar a emoção; avaliar a resposta.",
-      "explanation": "Uma emoção está sendo usada como autorização. Sentir raiva não prova que uma ação seja justa. A resposta precisa passar pelo juízo da razão."
+      "explanation": "A raiva foi usada para justificar a humilhação. Sentir raiva não dá direito de ferir outra pessoa. A jovem pode esperar se acalmar e conversar sem ofender."
     },
     {
       "id": "N03",
@@ -3047,27 +3047,27 @@
       "column": "N",
       "columnTitle": "Narrativas falsas",
       "definition": "O valor moral não depende de ser descoberto.",
-      "case": "Ele encontra dinheiro na gaveta da irmã. Pensa em pegar porque ela não costuma conferir.",
+      "case": "Um rapaz tira dinheiro da bolsa da irmã e pensa: “É pouco, ninguém vai perceber”.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "A falta de testemunhas parece facilitar o furto."
+          "body": "O rapaz conta com a falta de vigilância."
         },
         {
           "title": "Critério",
-          "body": "O valor moral não depende de ser descoberto."
+          "body": "O dinheiro continua pertencendo à irmã, mesmo sem ninguém notar."
         },
         {
           "title": "Resposta",
-          "body": "A consciência pede respeito mesmo no segredo."
+          "body": "É preciso devolver e assumir o que fez."
         }
       ],
-      "conferenceQuestion": "Por que a ausência de cobrança não torna o dinheiro dele?",
+      "conferenceQuestion": "Por que não ser descoberto não torna a ação correta?",
       "anchors": [
         "CEC 1777-1778"
       ],
       "facilitatorNote": "O segredo não transforma furto em direito.",
-      "explanation": "A falta de testemunhas parece facilitar o furto. O valor moral não depende de ser descoberto. A consciência pede respeito mesmo no segredo."
+      "explanation": "O rapaz conta com a falta de vigilância. O dinheiro continua pertencendo à irmã, mesmo sem ninguém notar. É preciso devolver e assumir o que fez."
     },
     {
       "id": "N04",
@@ -3077,27 +3077,27 @@
       "column": "N",
       "columnTitle": "Narrativas falsas",
       "definition": "Um fim bom não torna bom um meio mau.",
-      "case": "Para arrecadar mais doações, ela inventa que uma família está passando fome. Quer ajudar, mas sabe que a história é falsa.",
+      "case": "Para conseguir doações, uma voluntária inventa que uma família está passando fome. Diz que a mentira vale a pena porque o dinheiro ajudará outras pessoas.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "O objetivo é ajudar por meio de uma mentira."
+          "body": "A intenção de ajudar veio acompanhada de uma mentira."
         },
         {
           "title": "Critério",
-          "body": "Um fim bom não torna bom um meio mau."
+          "body": "Uma boa finalidade não torna correto um meio desonesto."
         },
         {
           "title": "Resposta",
-          "body": "A arrecadação precisa apresentar necessidades verdadeiras."
+          "body": "É possível pedir doações explicando a necessidade verdadeira."
         }
       ],
-      "conferenceQuestion": "O que precisa mudar sem abandonar a vontade de ajudar?",
+      "conferenceQuestion": "Como ajudar sem inventar uma história?",
       "anchors": [
         "CEC 1753"
       ],
       "facilitatorNote": "Preservar o objetivo bom, corrigindo o meio.",
-      "explanation": "O objetivo é ajudar por meio de uma mentira. Um fim bom não torna bom um meio mau. A arrecadação precisa apresentar necessidades verdadeiras."
+      "explanation": "A intenção de ajudar veio acompanhada de uma mentira. Uma boa finalidade não torna correto um meio desonesto. É possível pedir doações explicando a necessidade verdadeira."
     },
     {
       "id": "N05",
@@ -3107,27 +3107,27 @@
       "column": "N",
       "columnTitle": "Narrativas falsas",
       "definition": "Obedecer não elimina automaticamente a responsabilidade.",
-      "case": "Mandado pelo irmão mais velho, ele esconde a chave para impedir a mãe de sair. Depois diz que só cumpriu ordens.",
+      "case": "Um irmão mais velho manda o caçula dizer ao pai que o vaso foi quebrado pelo gato. O caçula mente e depois diz: “Só obedeci”.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "Ele participou de uma ação contra outra pessoa."
+          "body": "A ordem recebida foi uma ordem para mentir."
         },
         {
           "title": "Critério",
-          "body": "Obedecer não elimina automaticamente a responsabilidade."
+          "body": "Obedecer não torna correta uma ação errada."
         },
         {
           "title": "Resposta",
-          "body": "É preciso considerar a pressão e reconhecer o mal feito."
+          "body": "O caçula pode recusar a mentira e contar o que sabe."
         }
       ],
-      "conferenceQuestion": "Que informações faltam para avaliar a responsabilidade dele?",
+      "conferenceQuestion": "Por que a ordem do irmão não resolve a questão moral?",
       "anchors": [
         "CEC 1734-1735"
       ],
       "facilitatorNote": "Perguntar pela pressão sem justificar a ordem.",
-      "explanation": "Ele participou de uma ação contra outra pessoa. Obedecer não elimina automaticamente a responsabilidade. É preciso considerar a pressão e reconhecer o mal feito."
+      "explanation": "A ordem recebida foi uma ordem para mentir. Obedecer não torna correta uma ação errada. O caçula pode recusar a mentira e contar o que sabe."
     },
     {
       "id": "N06",
@@ -3137,28 +3137,28 @@
       "column": "N",
       "columnTitle": "Narrativas falsas",
       "definition": "Ter dificuldade não significa que mudar seja impossível.",
-      "case": "Sempre que é contrariado, ele grita. Quando a família reclama, responde que nasceu assim e pronto.",
+      "case": "Um pai grita com os filhos sempre que se irrita. Quando a família pede que converse com calma, responde: “Sou assim, não vou mudar”.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "Um hábito ruim virou justificativa."
+          "body": "O pai trata um costume ruim como se fosse inevitável."
         },
         {
           "title": "Critério",
-          "body": "Ter dificuldade não significa que mudar seja impossível."
+          "body": "Hábitos podem ser difíceis de mudar, mas isso não dispensa o esforço."
         },
         {
           "title": "Resposta",
-          "body": "Ajuda, graça e prática podem sustentar novos hábitos."
+          "body": "Reconhecer o problema e buscar ajuda são passos possíveis."
         }
       ],
-      "conferenceQuestion": "Qual é o risco de tratar o hábito como destino?",
+      "conferenceQuestion": "O que o pai poderia fazer em vez de usar o temperamento como desculpa?",
       "anchors": [
         "CEC 1865",
         "CEC 1811"
       ],
       "facilitatorNote": "Não prometer mudança instantânea de hábitos.",
-      "explanation": "Um hábito ruim virou justificativa. Ter dificuldade não significa que mudar seja impossível. Ajuda, graça e prática podem sustentar novos hábitos."
+      "explanation": "O pai trata um costume ruim como se fosse inevitável. Hábitos podem ser difíceis de mudar, mas isso não dispensa o esforço. Reconhecer o problema e buscar ajuda são passos possíveis."
     },
     {
       "id": "N07",
@@ -3168,28 +3168,28 @@
       "column": "N",
       "columnTitle": "Narrativas falsas",
       "definition": "A Reconciliação pede arrependimento e propósito de mudança.",
-      "case": "Ele decide roubar e diz que poderá pedir perdão na Confissão depois.",
+      "case": "Um adolescente decide pegar dinheiro escondido da mãe para sair com os amigos. Pensa: “No sábado eu confesso e fica tudo certo”.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "O perdão está sendo usado como licença."
+          "body": "O perdão está sendo usado como desculpa para planejar o pecado."
         },
         {
           "title": "Critério",
-          "body": "A Reconciliação pede arrependimento e propósito de mudança."
+          "body": "A Confissão pede arrependimento e propósito de mudança."
         },
         {
           "title": "Resposta",
-          "body": "A misericórdia convida a abandonar o pecado agora."
+          "body": "O adolescente deve desistir do furto, em vez de contar com uma desculpa futura."
         }
       ],
-      "conferenceQuestion": "Por que esse plano contradiz o arrependimento?",
+      "conferenceQuestion": "Por que planejar o erro contradiz o arrependimento?",
       "anchors": [
         "CEC 1431",
         "CEC 1451"
       ],
       "facilitatorNote": "A Confissão não é autorização antecipada.",
-      "explanation": "O perdão está sendo usado como licença. A Reconciliação pede arrependimento e propósito de mudança. A misericórdia convida a abandonar o pecado agora."
+      "explanation": "O perdão está sendo usado como desculpa para planejar o pecado. A Confissão pede arrependimento e propósito de mudança. O adolescente deve desistir do furto, em vez de contar com uma desculpa futura."
     },
     {
       "id": "N08",
@@ -3199,27 +3199,27 @@
       "column": "N",
       "columnTitle": "Narrativas falsas",
       "definition": "Participar do mal alheio também pode ser uma escolha culpável.",
-      "case": "Ela repassa um apelido ofensivo e se defende dizendo que outra pessoa inventou.",
+      "case": "Uma aluna repete um apelido que humilha uma colega. Quando é chamada a parar, responde: “Não fui eu que inventei”.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "Ela não criou o apelido, mas o espalhou."
+          "body": "A aluna não começou a ofensa, mas ajuda a mantê-la."
         },
         {
           "title": "Critério",
-          "body": "Participar do mal alheio também pode ser uma escolha culpável."
+          "body": "Repetir uma humilhação também é participar dela."
         },
         {
           "title": "Resposta",
-          "body": "Parar de repetir ajuda a interromper a ofensa."
+          "body": "É preciso parar de usar o apelido e tratar a colega com respeito."
         }
       ],
-      "conferenceQuestion": "Qual é a responsabilidade de quem apenas repete?",
+      "conferenceQuestion": "Qual é a responsabilidade de quem repete a ofensa?",
       "anchors": [
         "CEC 1868"
       ],
       "facilitatorNote": "Distinguir começar o dano de ampliá-lo.",
-      "explanation": "Ela não criou o apelido, mas o espalhou. Participar do mal alheio também pode ser uma escolha culpável. Parar de repetir ajuda a interromper a ofensa."
+      "explanation": "A aluna não começou a ofensa, mas ajuda a mantê-la. Repetir uma humilhação também é participar dela. É preciso parar de usar o apelido e tratar a colega com respeito."
     },
     {
       "id": "N09",
@@ -3229,27 +3229,27 @@
       "column": "N",
       "columnTitle": "Narrativas falsas",
       "definition": "Não ser dono não elimina todo dever de ajudar.",
-      "case": "Ele vê água de uma torneira aberta alagando o corredor. Poderia fechá-la, mas diz que o prédio não é dele.",
+      "case": "Um visitante vê uma torneira aberta alagando o corredor. Pode fechá-la sem risco, mas vai embora dizendo: “O prédio não é meu”.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "Evitar o dano estava ao seu alcance."
+          "body": "O visitante pode evitar um prejuízo com uma ação simples."
         },
         {
           "title": "Critério",
-          "body": "Não ser dono não elimina todo dever de ajudar."
+          "body": "Não ser dono do lugar não elimina todo dever de cuidado."
         },
         {
           "title": "Resposta",
-          "body": "Um gesto simples pode impedir prejuízo aos outros."
+          "body": "Fechar a torneira e avisar alguém é uma ajuda possível."
         }
       ],
-      "conferenceQuestion": "O que torna essa omissão diferente de não conseguir ajudar?",
+      "conferenceQuestion": "Que responsabilidade existe mesmo quando o lugar não é nosso?",
       "anchors": [
         "Tg 4,17"
       ],
       "facilitatorNote": "Considerar se a ajuda era devida e possível.",
-      "explanation": "Evitar o dano estava ao seu alcance. Não ser dono não elimina todo dever de ajudar. Um gesto simples pode impedir prejuízo aos outros."
+      "explanation": "O visitante pode evitar um prejuízo com uma ação simples. Não ser dono do lugar não elimina todo dever de cuidado. Fechar a torneira e avisar alguém é uma ajuda possível."
     },
     {
       "id": "N10",
@@ -3259,27 +3259,27 @@
       "column": "N",
       "columnTitle": "Narrativas falsas",
       "definition": "O ato escolhido também precisa ser moralmente bom.",
-      "case": "Ele colou, passou e concluiu que não havia problema, pois ninguém ficou sem vaga.",
+      "case": "Um aluno altera a nota de uma prova antes de mostrá-la em casa. Diz que fez bem, pois evitou uma briga com os pais.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "O bom resultado é usado para aprovar o meio."
+          "body": "O resultado desejado foi evitar a discussão."
         },
         {
           "title": "Critério",
-          "body": "O ato escolhido também precisa ser moralmente bom."
+          "body": "Uma consequência agradável não torna a mentira correta."
         },
         {
           "title": "Resposta",
-          "body": "Passar não transforma a cola em honestidade."
+          "body": "O aluno precisa mostrar a nota verdadeira e conversar sobre a dificuldade."
         }
       ],
-      "conferenceQuestion": "O que falta nessa avaliação da escolha?",
+      "conferenceQuestion": "Evitar a briga basta para justificar a mentira?",
       "anchors": [
         "CEC 1750-1756"
       ],
-      "facilitatorNote": "Não avaliar apenas se alguém perdeu a vaga.",
-      "explanation": "O bom resultado é usado para aprovar o meio. O ato escolhido também precisa ser moralmente bom. Passar não transforma a cola em honestidade."
+      "facilitatorNote": "Evitar uma discussão não justifica falsificar a nota.",
+      "explanation": "O resultado desejado foi evitar a discussão. Uma consequência agradável não torna a mentira correta. O aluno precisa mostrar a nota verdadeira e conversar sobre a dificuldade."
     },
     {
       "id": "N11",
@@ -3289,27 +3289,27 @@
       "column": "N",
       "columnTitle": "Narrativas falsas",
       "definition": "Liberdade não é autorização para ignorar os outros.",
-      "case": "Ele coloca música muito alta de madrugada. Quando reclamam, diz que faz o que quiser na própria casa.",
+      "case": "Um morador coloca música alta de madrugada. Quando o vizinho reclama, responde: “Na minha casa faço o que quiser”.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "Seu uso da casa prejudica o descanso alheio."
+          "body": "A escolha do morador impede o descanso dos vizinhos."
         },
         {
           "title": "Critério",
-          "body": "Liberdade não é autorização para ignorar os outros."
+          "body": "A liberdade deve respeitar o bem e os direitos dos outros."
         },
         {
           "title": "Resposta",
-          "body": "É possível ouvir música respeitando o horário e o volume."
+          "body": "Diminuir o volume é respeitar quem precisa dormir."
         }
       ],
-      "conferenceQuestion": "Que bem do outro precisa entrar na escolha?",
+      "conferenceQuestion": "Que direito dos vizinhos precisa entrar nessa decisão?",
       "anchors": [
         "CEC 1740"
       ],
       "facilitatorNote": "O descanso dos outros também importa.",
-      "explanation": "Seu uso da casa prejudica o descanso alheio. Liberdade não é autorização para ignorar os outros. É possível ouvir música respeitando o horário e o volume."
+      "explanation": "A escolha do morador impede o descanso dos vizinhos. A liberdade deve respeitar o bem e os direitos dos outros. Diminuir o volume é respeitar quem precisa dormir."
     },
     {
       "id": "N12",
@@ -3319,27 +3319,27 @@
       "column": "N",
       "columnTitle": "Narrativas falsas",
       "definition": "Evitar uma informação devida não isenta de responsabilidade.",
-      "case": "Antes de vender uma bicicleta, ele evita verificar um problema no freio. Assim poderá dizer que não sabia.",
+      "case": "Um vendedor percebe que o freio de uma bicicleta usada pode estar falhando. Prefere não verificar, para poder dizer ao comprador que não sabia.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "A ignorância está sendo procurada."
+          "body": "O vendedor evita saber de um risco que já suspeita existir."
         },
         {
           "title": "Critério",
-          "body": "Evitar uma informação devida não isenta de responsabilidade."
+          "body": "Recusar uma informação necessária não serve de desculpa."
         },
         {
           "title": "Resposta",
-          "body": "É preciso verificar e informar o defeito."
+          "body": "É preciso conferir o freio e informar o comprador."
         }
       ],
-      "conferenceQuestion": "Por que não saber, nesse caso, não é uma desculpa segura?",
+      "conferenceQuestion": "Por que evitar a verificação não elimina a responsabilidade?",
       "anchors": [
         "CEC 1791"
       ],
       "facilitatorNote": "Destacar a recusa deliberada de verificar.",
-      "explanation": "A ignorância está sendo procurada. Evitar uma informação devida não isenta de responsabilidade. É preciso verificar e informar o defeito."
+      "explanation": "O vendedor evita saber de um risco que já suspeita existir. Recusar uma informação necessária não serve de desculpa. É preciso conferir o freio e informar o comprador."
     },
     {
       "id": "N13",
@@ -3349,28 +3349,28 @@
       "column": "N",
       "columnTitle": "Narrativas falsas",
       "definition": "O pecado não destrói a possibilidade de conversão.",
-      "case": "Depois de mentir várias vezes, ela acha inútil tentar recuperar a confiança e continua inventando histórias.",
+      "case": "Depois de mentir várias vezes, uma jovem diz: “Ninguém vai confiar em mim de novo, então não adianta tentar”.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "O desânimo está prolongando o erro."
+          "body": "A jovem usa o desânimo para desistir da mudança."
         },
         {
           "title": "Critério",
-          "body": "O pecado não destrói a possibilidade de conversão."
+          "body": "O erro não elimina a possibilidade de conversão."
         },
         {
           "title": "Resposta",
-          "body": "Dizer a verdade e reparar são primeiros passos."
+          "body": "A confiança pode ser reconstruída com verdade e constância, mesmo levando tempo."
         }
       ],
-      "conferenceQuestion": "Por que a confiança demorar a voltar não impede recomeçar?",
+      "conferenceQuestion": "Qual pode ser o primeiro passo para reconstruir a confiança?",
       "anchors": [
         "CEC 1847-1848",
         "CEC 1865"
       ],
       "facilitatorNote": "Mudança real não exige confiança imediata dos outros.",
-      "explanation": "O desânimo está prolongando o erro. O pecado não destrói a possibilidade de conversão. Dizer a verdade e reparar são primeiros passos."
+      "explanation": "A jovem usa o desânimo para desistir da mudança. O erro não elimina a possibilidade de conversão. A confiança pode ser reconstruída com verdade e constância, mesmo levando tempo."
     },
     {
       "id": "N14",
@@ -3380,27 +3380,27 @@
       "column": "N",
       "columnTitle": "Narrativas falsas",
       "definition": "Perdoar não apaga o dever de reparar o possível.",
-      "case": "Ele pede que esqueçam o dinheiro que pegou. Diz que, se o perdoaram, não precisam mais falar em devolver.",
+      "case": "Um rapaz pede perdão por ter pegado dinheiro do irmão. Quando o irmão pede a devolução, responde: “Mas você já me perdoou”.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "Ele confunde perdão com ausência de reparação."
+          "body": "O perdão não devolveu o dinheiro retirado."
         },
         {
           "title": "Critério",
-          "body": "Perdoar não apaga o dever de reparar o possível."
+          "body": "Ser perdoado não elimina o dever de reparar o dano possível."
         },
         {
           "title": "Resposta",
-          "body": "Devolver faz parte de uma resposta sincera."
+          "body": "O rapaz precisa devolver ou combinar como fará a devolução."
         }
       ],
-      "conferenceQuestion": "Como perdão e devolução podem caminhar juntos?",
+      "conferenceQuestion": "O que ainda falta resolver depois do pedido de perdão?",
       "anchors": [
         "CEC 1459"
       ],
-      "facilitatorNote": "O perdão não compra o silêncio da vítima.",
-      "explanation": "Ele confunde perdão com ausência de reparação. Perdoar não apaga o dever de reparar o possível. Devolver faz parte de uma resposta sincera."
+      "facilitatorNote": "O perdão não elimina a devolução do que foi retirado.",
+      "explanation": "O perdão não devolveu o dinheiro retirado. Ser perdoado não elimina o dever de reparar o dano possível. O rapaz precisa devolver ou combinar como fará a devolução."
     },
     {
       "id": "N15",
@@ -3410,27 +3410,27 @@
       "column": "N",
       "columnTitle": "Narrativas falsas",
       "definition": "A graça sustenta nossa colaboração livre.",
-      "case": "Ela reza para parar de insultar, mas diz que não precisa mudar seus hábitos: Deus resolverá tudo sozinho.",
+      "case": "Uma jovem reza para parar de ofender a irmã, mas se recusa a mudar o modo de discutir. Diz: “Se Deus quiser, Ele me muda”.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "A oração está sendo separada da resposta pessoal."
+          "body": "A oração está sendo separada da disposição de mudar."
         },
         {
           "title": "Critério",
-          "body": "A graça sustenta nossa colaboração livre."
+          "body": "A graça de Deus pede nossa resposta livre."
         },
         {
           "title": "Resposta",
-          "body": "Ela pode rezar e praticar outra forma de responder."
+          "body": "A jovem pode rezar e aprender a interromper a conversa antes de ofender."
         }
       ],
-      "conferenceQuestion": "Que pequena decisão poderia acompanhar essa oração?",
+      "conferenceQuestion": "Como cooperar com a ajuda que foi pedida a Deus?",
       "anchors": [
         "CEC 2001-2002"
       ],
       "facilitatorNote": "A iniciativa é de Deus; a resposta é livre.",
-      "explanation": "A oração está sendo separada da resposta pessoal. A graça sustenta nossa colaboração livre. Ela pode rezar e praticar outra forma de responder."
+      "explanation": "A oração está sendo separada da disposição de mudar. A graça de Deus pede nossa resposta livre. A jovem pode rezar e aprender a interromper a conversa antes de ofender."
     },
     {
       "id": "G01",
@@ -3440,28 +3440,28 @@
       "column": "G",
       "columnTitle": "Discernimentos",
       "definition": "Sentir uma tentação não é o mesmo que aceitá-la.",
-      "case": "Ele sente vontade de insultar quem o provocou, mas deixa o celular de lado e decide não responder com uma ofensa.",
+      "case": "Durante uma discussão, um rapaz sente vontade de mandar uma mensagem ofensiva. Antes de enviar, apaga o texto e espera se acalmar.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "A vontade de ferir apareceu."
+          "body": "A vontade de ofender apareceu, mas foi recusada."
         },
         {
           "title": "Critério",
-          "body": "Sentir uma tentação não é o mesmo que aceitá-la."
+          "body": "Sentir um impulso não é o mesmo que consentir nele."
         },
         {
           "title": "Resposta",
-          "body": "Recusar o insulto é uma escolha real."
+          "body": "Parar antes de enviar permite escolher outra resposta."
         }
       ],
-      "conferenceQuestion": "Em que momento a vontade de ofender se tornaria uma escolha aceita?",
+      "conferenceQuestion": "Em que momento o rapaz recusou o impulso?",
       "anchors": [
         "CEC 1264",
         "CEC 1734"
       ],
       "facilitatorNote": "Não confundir tentação recusada com pecado.",
-      "explanation": "A vontade de ferir apareceu. Sentir uma tentação não é o mesmo que aceitá-la. Recusar o insulto é uma escolha real."
+      "explanation": "A vontade de ofender apareceu, mas foi recusada. Sentir um impulso não é o mesmo que consentir nele. Parar antes de enviar permite escolher outra resposta."
     },
     {
       "id": "G02",
@@ -3471,27 +3471,27 @@
       "column": "G",
       "columnTitle": "Discernimentos",
       "definition": "Certeza pessoal não garante que o juízo esteja correto.",
-      "case": "Ela tem certeza de que o irmão pegou seu dinheiro. Depois encontra a nota dentro do próprio caderno.",
+      "case": "Uma menina tem certeza de que o irmão pegou seu dinheiro. Antes de acusá-lo, encontra a nota dentro do próprio caderno.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "Ela estava convencida e estava enganada."
+          "body": "A certeza inicial estava errada."
         },
         {
           "title": "Critério",
-          "body": "Certeza pessoal não garante que o juízo esteja correto."
+          "body": "Estar convencido de algo não garante que seja verdade."
         },
         {
           "title": "Resposta",
-          "body": "A verdade exige corrigir a acusação."
+          "body": "Conferir os fatos evita uma acusação injusta."
         }
       ],
-      "conferenceQuestion": "O que esse caso ensina sobre a necessidade de rever um juízo?",
+      "conferenceQuestion": "O que esse caso ensina sobre ter certeza?",
       "anchors": [
         "CEC 1790-1793"
       ],
       "facilitatorNote": "Certeza subjetiva não equivale a acerto.",
-      "explanation": "Ela estava convencida e estava enganada. Certeza pessoal não garante que o juízo esteja correto. A verdade exige corrigir a acusação."
+      "explanation": "A certeza inicial estava errada. Estar convencido de algo não garante que seja verdade. Conferir os fatos evita uma acusação injusta."
     },
     {
       "id": "G03",
@@ -3501,27 +3501,27 @@
       "column": "G",
       "columnTitle": "Discernimentos",
       "definition": "A consciência julga o dever; não apenas confirma o desejo.",
-      "case": "Ele prometeu ajudar numa tarefa, mas prefere sair. Diz que sua consciência mandou esquecer o combinado.",
+      "case": "Um jovem prometeu ajudar o pai na feira, mas recebe um convite para jogar. Diz que abandonar o combinado é certo só porque prefere jogar.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "Uma preferência recebeu o nome de consciência."
+          "body": "O desejo de jogar entra em conflito com a promessa."
         },
         {
           "title": "Critério",
-          "body": "A consciência julga o dever; não apenas confirma o desejo."
+          "body": "A consciência julga o que devemos fazer, não apenas o que desejamos."
         },
         {
           "title": "Resposta",
-          "body": "É preciso avaliar o compromisso assumido."
+          "body": "O jovem precisa considerar o compromisso antes de decidir."
         }
       ],
-      "conferenceQuestion": "Como distinguir um dever reconhecido de uma vontade conveniente?",
+      "conferenceQuestion": "Qual é a diferença entre preferir jogar e julgar que deve jogar?",
       "anchors": [
         "CEC 1778"
       ],
       "facilitatorNote": "Não chamar qualquer preferência de consciência.",
-      "explanation": "Uma preferência recebeu o nome de consciência. A consciência julga o dever; não apenas confirma o desejo. É preciso avaliar o compromisso assumido."
+      "explanation": "O desejo de jogar entra em conflito com a promessa. A consciência julga o que devemos fazer, não apenas o que desejamos. O jovem precisa considerar o compromisso antes de decidir."
     },
     {
       "id": "G04",
@@ -3531,27 +3531,27 @@
       "column": "G",
       "columnTitle": "Discernimentos",
       "definition": "Previsão e possibilidade de evitar o dano mudam a responsabilidade.",
-      "case": "Uma rajada derruba um vaso bem apoiado. Em outro dia, alguém o deixa na beirada, apesar do aviso, e ele cai.",
+      "case": "Uma bola rasga porque tinha um defeito escondido. Outra rasga quando um menino a chuta contra arame farpado, apesar do aviso.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "O resultado é parecido nos dois casos."
+          "body": "As duas bolas estragaram em condições diferentes."
         },
         {
           "title": "Critério",
-          "body": "Previsão e possibilidade de evitar o dano mudam a responsabilidade."
+          "body": "Um acidente imprevisível não é igual a ignorar um risco conhecido."
         },
         {
           "title": "Resposta",
-          "body": "É preciso examinar como cada queda ocorreu."
+          "body": "É preciso considerar o cuidado possível em cada caso."
         }
       ],
-      "conferenceQuestion": "Por que o vaso quebrado não basta para medir a culpa?",
+      "conferenceQuestion": "Em qual caso havia um risco conhecido que podia ser evitado?",
       "anchors": [
         "CEC 1736-1737"
       ],
       "facilitatorNote": "Não presumir que todo acidente seja sem culpa.",
-      "explanation": "O resultado é parecido nos dois casos. Previsão e possibilidade de evitar o dano mudam a responsabilidade. É preciso examinar como cada queda ocorreu."
+      "explanation": "As duas bolas estragaram em condições diferentes. Um acidente imprevisível não é igual a ignorar um risco conhecido. É preciso considerar o cuidado possível em cada caso."
     },
     {
       "id": "G05",
@@ -3561,27 +3561,27 @@
       "column": "G",
       "columnTitle": "Discernimentos",
       "definition": "Não poder saber difere de recusar o que se deveria saber.",
-      "case": "Uma pessoa não recebeu uma informação importante. Outra recebeu o aviso e decidiu não ler.",
+      "case": "Uma cozinheira não foi avisada da alergia de um convidado. Outra recebeu a lista de alergias, mas decidiu não ler antes de preparar a comida.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "As duas alegam desconhecimento."
+          "body": "Uma informação faltou; a outra foi recusada."
         },
         {
           "title": "Critério",
-          "body": "Não poder saber difere de recusar o que se deveria saber."
+          "body": "Nem toda falta de conhecimento tem a mesma responsabilidade."
         },
         {
           "title": "Resposta",
-          "body": "A responsabilidade exige considerar as condições reais."
+          "body": "Devemos buscar as informações necessárias para cuidar de quem depende de nós."
         }
       ],
-      "conferenceQuestion": "Que diferença há entre os dois desconhecimentos?",
+      "conferenceQuestion": "Qual é a diferença entre não receber a lista e decidir não ler?",
       "anchors": [
         "CEC 1791-1793"
       ],
       "facilitatorNote": "Verificar se havia condições razoáveis de saber.",
-      "explanation": "As duas alegam desconhecimento. Não poder saber difere de recusar o que se deveria saber. A responsabilidade exige considerar as condições reais."
+      "explanation": "Uma informação faltou; a outra foi recusada. Nem toda falta de conhecimento tem a mesma responsabilidade. Devemos buscar as informações necessárias para cuidar de quem depende de nós."
     },
     {
       "id": "G06",
@@ -3591,27 +3591,27 @@
       "column": "G",
       "columnTitle": "Discernimentos",
       "definition": "A ameaça pode diminuir ou suprimir a responsabilidade.",
-      "case": "Um caixa entrega dinheiro sob ameaça. Outro tira a mesma quantia para comprar algo para si.",
+      "case": "Um caixa entrega dinheiro a um assaltante sob ameaça. Em outra ocasião, um funcionário tira dinheiro do caixa para comprar um celular.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "O dinheiro sai do caixa em ambos os casos."
+          "body": "As ações ocorreram com graus de liberdade muito diferentes."
         },
         {
           "title": "Critério",
-          "body": "A ameaça pode diminuir ou suprimir a responsabilidade."
+          "body": "Uma ameaça grave pode diminuir ou eliminar a responsabilidade."
         },
         {
           "title": "Resposta",
-          "body": "Não se pode igualar as duas decisões pelo resultado."
+          "body": "Não se deve julgar a vítima de uma ameaça como quem escolheu furtar."
         }
       ],
-      "conferenceQuestion": "O que a ameaça muda na avaliação?",
+      "conferenceQuestion": "Como a ameaça muda a responsabilidade de quem entrega o dinheiro?",
       "anchors": [
         "CEC 1735"
       ],
       "facilitatorNote": "Não comparar coação grave a mero incômodo.",
-      "explanation": "O dinheiro sai do caixa em ambos os casos. A ameaça pode diminuir ou suprimir a responsabilidade. Não se pode igualar as duas decisões pelo resultado."
+      "explanation": "As ações ocorreram com graus de liberdade muito diferentes. Uma ameaça grave pode diminuir ou eliminar a responsabilidade. Não se deve julgar a vítima de uma ameaça como quem escolheu furtar."
     },
     {
       "id": "G07",
@@ -3621,28 +3621,28 @@
       "column": "G",
       "columnTitle": "Discernimentos",
       "definition": "Um ato errado não resume toda a pessoa.",
-      "case": "Depois de uma mentira, passam a dizer que o rapaz nunca presta para nada, mesmo quando tenta corrigir o erro.",
+      "case": "Depois de descobrir uma mentira, um pai diz ao filho: “Você não presta e nunca vai mudar”.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "A mentira merece correção."
+          "body": "A reprovação da mentira virou uma condenação da pessoa."
         },
         {
           "title": "Critério",
-          "body": "Um ato errado não resume toda a pessoa."
+          "body": "Podemos reconhecer uma ação errada sem negar a dignidade de quem errou."
         },
         {
           "title": "Resposta",
-          "body": "É possível cobrar a verdade sem negar a possibilidade de mudança."
+          "body": "O pai deve corrigir a mentira e ajudar o filho a mudar."
         }
       ],
-      "conferenceQuestion": "Como corrigir sem transformar o erro num rótulo definitivo?",
+      "conferenceQuestion": "Como corrigir o erro sem reduzir a pessoa a ele?",
       "anchors": [
         "CEC 1848",
         "CEC 1861"
       ],
       "facilitatorNote": "Evitar tanto o rótulo quanto negar o erro.",
-      "explanation": "A mentira merece correção. Um ato errado não resume toda a pessoa. É possível cobrar a verdade sem negar a possibilidade de mudança."
+      "explanation": "A reprovação da mentira virou uma condenação da pessoa. Podemos reconhecer uma ação errada sem negar a dignidade de quem errou. O pai deve corrigir a mentira e ajudar o filho a mudar."
     },
     {
       "id": "G08",
@@ -3652,27 +3652,27 @@
       "column": "G",
       "columnTitle": "Discernimentos",
       "definition": "A intenção boa não justifica uma acusação falsa.",
-      "case": "Ela quer proteger a amiga de uma bronca e acusa outra pessoa pelo erro cometido.",
+      "case": "Para proteger uma amiga que quebrou o celular de uma colega, uma jovem acusa uma aluna inocente.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "O motivo apresentado é proteger uma amiga."
+          "body": "A intenção é proteger a amiga, mas a ação prejudica outra pessoa."
         },
         {
           "title": "Critério",
-          "body": "A intenção boa não justifica uma acusação falsa."
+          "body": "Uma boa intenção não torna justa uma acusação falsa."
         },
         {
           "title": "Resposta",
-          "body": "É preciso ajudar sem transferir injustamente a culpa."
+          "body": "A jovem precisa dizer a verdade sem transferir a culpa."
         }
       ],
-      "conferenceQuestion": "Quais são a intenção e a ação escolhida?",
+      "conferenceQuestion": "Por que proteger a amiga não justifica essa acusação?",
       "anchors": [
         "CEC 1750-1753"
       ],
       "facilitatorNote": "Nomear separadamente a finalidade e o meio.",
-      "explanation": "O motivo apresentado é proteger uma amiga. A intenção boa não justifica uma acusação falsa. É preciso ajudar sem transferir injustamente a culpa."
+      "explanation": "A intenção é proteger a amiga, mas a ação prejudica outra pessoa. Uma boa intenção não torna justa uma acusação falsa. A jovem precisa dizer a verdade sem transferir a culpa."
     },
     {
       "id": "G09",
@@ -3682,27 +3682,27 @@
       "column": "G",
       "columnTitle": "Discernimentos",
       "definition": "A culpa depende também de conhecimento e vontade.",
-      "case": "Duas pessoas causam o mesmo prejuízo. Uma agiu de propósito; a outra tomou todos os cuidados e não pôde evitar o acidente.",
+      "case": "Um rapaz quebra uma cadeira para se vingar do irmão. Outro quebra uma cadeira ao sentar, sem saber que estava danificada.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "O prejuízo é igual."
+          "body": "O prejuízo pode ser parecido, mas as escolhas foram diferentes."
         },
         {
           "title": "Critério",
-          "body": "A culpa depende também de conhecimento e vontade."
+          "body": "A responsabilidade depende também do conhecimento e da liberdade."
         },
         {
           "title": "Resposta",
-          "body": "Cuidar do dano não exige inventar culpa onde ela não existe."
+          "body": "Antes de atribuir culpa, é preciso entender como o dano aconteceu."
         }
       ],
-      "conferenceQuestion": "Que diferença precisa ser reconhecida mesmo havendo prejuízo?",
+      "conferenceQuestion": "Por que cadeiras quebradas não significam culpas iguais?",
       "anchors": [
         "CEC 1734-1737"
       ],
       "facilitatorNote": "Distinguir cuidado com o prejuízo e culpa moral.",
-      "explanation": "O prejuízo é igual. A culpa depende também de conhecimento e vontade. Cuidar do dano não exige inventar culpa onde ela não existe."
+      "explanation": "O prejuízo pode ser parecido, mas as escolhas foram diferentes. A responsabilidade depende também do conhecimento e da liberdade. Antes de atribuir culpa, é preciso entender como o dano aconteceu."
     },
     {
       "id": "G10",
@@ -3712,27 +3712,27 @@
       "column": "G",
       "columnTitle": "Discernimentos",
       "definition": "Pecado mortal exige matéria grave, pleno conhecimento e consentimento deliberado.",
-      "case": "Ele pensa que todo erro é pecado mortal. Ao lembrar uma distração involuntária, fica com medo de ter rompido com Deus.",
+      "case": "Um jovem esquece uma oração por distração e fica com medo de ter cometido pecado mortal.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "Nem toda falha é pecado."
+          "body": "Um esquecimento involuntário não é uma escolha deliberada contra Deus."
         },
         {
           "title": "Critério",
-          "body": "Pecado mortal exige matéria grave, pleno conhecimento e consentimento deliberado."
+          "body": "O pecado mortal exige matéria grave, pleno conhecimento e consentimento deliberado."
         },
         {
           "title": "Resposta",
-          "body": "O venial não rompe a caridade; um gesto involuntário pode não ter culpa."
+          "body": "O pecado venial não reúne essas três condições; nem toda falha involuntária é pecado."
         }
       ],
-      "conferenceQuestion": "Quais três condições precisam estar juntas para haver pecado mortal?",
+      "conferenceQuestion": "Quais condições precisam estar juntas para haver pecado mortal?",
       "anchors": [
         "CEC 1857-1862"
       ],
       "facilitatorNote": "Não classificar toda falha como pecado venial.",
-      "explanation": "Nem toda falha é pecado. Pecado mortal exige matéria grave, pleno conhecimento e consentimento deliberado. O venial não rompe a caridade; um gesto involuntário pode não ter culpa."
+      "explanation": "Um esquecimento involuntário não é uma escolha deliberada contra Deus. O pecado mortal exige matéria grave, pleno conhecimento e consentimento deliberado. O pecado venial não reúne essas três condições; nem toda falha involuntária é pecado."
     },
     {
       "id": "G11",
@@ -3742,7 +3742,7 @@
       "column": "G",
       "columnTitle": "Discernimentos",
       "definition": "Virtudes inclinam ao bem; vícios inclinam ao mal.",
-      "case": "Ela se acostumou a devolver o que pega emprestado. O irmão se acostumou a esconder os objetos para não devolver.",
+      "case": "Uma jovem costuma devolver o que pega emprestado. O irmão costuma esconder os objetos para não precisar devolver.",
       "readingPoints": [
         {
           "title": "Na cena",
@@ -3750,20 +3750,20 @@
         },
         {
           "title": "Critério",
-          "body": "Virtudes inclinam ao bem; vícios inclinam ao mal."
+          "body": "Bons hábitos favorecem as virtudes; hábitos ruins podem se tornar vícios."
         },
         {
           "title": "Resposta",
-          "body": "Nossos hábitos podem facilitar ou dificultar escolhas futuras."
+          "body": "Praticar a honestidade ajuda a escolher o bem com mais firmeza."
         }
       ],
-      "conferenceQuestion": "Por que repetir uma escolha influencia a próxima?",
+      "conferenceQuestion": "Como repetir uma escolha influencia as próximas escolhas?",
       "anchors": [
         "CEC 1803",
         "CEC 1865"
       ],
       "facilitatorNote": "Nem todo costume é virtude ou vício moral.",
-      "explanation": "A repetição fortalece modos diferentes de agir. Virtudes inclinam ao bem; vícios inclinam ao mal. Nossos hábitos podem facilitar ou dificultar escolhas futuras."
+      "explanation": "A repetição fortalece modos diferentes de agir. Bons hábitos favorecem as virtudes; hábitos ruins podem se tornar vícios. Praticar a honestidade ajuda a escolher o bem com mais firmeza."
     },
     {
       "id": "G12",
@@ -3773,27 +3773,27 @@
       "column": "G",
       "columnTitle": "Discernimentos",
       "definition": "Arrepender-se inclui rejeitar o mal, não apenas temer ser descoberto.",
-      "case": "Ele devolve um objeto quando descobre a câmera. Ainda diz que pegar não teria problema se ninguém percebesse.",
+      "case": "Um cliente devolve um produto que furtou só depois de ver a câmera. Diz que, sem a gravação, teria ficado com o objeto.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "O medo motivou a devolução."
+          "body": "O cliente está preocupado apenas em ser descoberto."
         },
         {
           "title": "Critério",
-          "body": "Arrepender-se inclui rejeitar o mal, não apenas temer ser descoberto."
+          "body": "Temer a consequência não é o mesmo que reconhecer e rejeitar o próprio erro."
         },
         {
           "title": "Resposta",
-          "body": "O temor pode ser um começo, mas precisa levar à conversão."
+          "body": "O arrependimento pede abandonar o pecado, além de devolver o produto."
         }
       ],
-      "conferenceQuestion": "O que ainda precisa mudar no modo de pensar dele?",
+      "conferenceQuestion": "O que falta além do medo de ser descoberto?",
       "anchors": [
         "CEC 1451-1453"
       ],
-      "facilitatorNote": "O temor pode iniciar a conversão, sem completá-la.",
-      "explanation": "O medo motivou a devolução. Arrepender-se inclui rejeitar o mal, não apenas temer ser descoberto. O temor pode ser um começo, mas precisa levar à conversão."
+      "facilitatorNote": "O medo pode iniciar a conversão, mas deve haver rejeição do pecado.",
+      "explanation": "O cliente está preocupado apenas em ser descoberto. Temer a consequência não é o mesmo que reconhecer e rejeitar o próprio erro. O arrependimento pede abandonar o pecado, além de devolver o produto."
     },
     {
       "id": "G13",
@@ -3803,27 +3803,27 @@
       "column": "G",
       "columnTitle": "Discernimentos",
       "definition": "Reparar o prejuízo não contradiz o perdão.",
-      "case": "Ela perdoa a irmã por estragar seu livro. As duas ainda precisam conversar sobre como substituí-lo.",
+      "case": "Uma menina estraga o livro da irmã e pede perdão. A irmã perdoa, mas o livro continua sem algumas páginas.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "O perdão foi oferecido."
+          "body": "A reconciliação não consertou o livro."
         },
         {
           "title": "Critério",
-          "body": "Reparar o prejuízo não contradiz o perdão."
+          "body": "Perdoar e reparar são coisas diferentes que podem andar juntas."
         },
         {
           "title": "Resposta",
-          "body": "A solução deve considerar o dano e as possibilidades reais."
+          "body": "As irmãs podem combinar como recuperar ou substituir o livro."
         }
       ],
-      "conferenceQuestion": "Por que falar da reposição não significa retirar o perdão?",
+      "conferenceQuestion": "O que ainda pode ser feito depois do perdão?",
       "anchors": [
         "CEC 1459"
       ],
       "facilitatorNote": "Pedir reparação não é exigir vingança.",
-      "explanation": "O perdão foi oferecido. Reparar o prejuízo não contradiz o perdão. A solução deve considerar o dano e as possibilidades reais."
+      "explanation": "A reconciliação não consertou o livro. Perdoar e reparar são coisas diferentes que podem andar juntas. As irmãs podem combinar como recuperar ou substituir o livro."
     },
     {
       "id": "G14",
@@ -3833,28 +3833,28 @@
       "column": "G",
       "columnTitle": "Discernimentos",
       "definition": "Um compromisso bom pode ajudar a governar a própria vontade.",
-      "case": "Ele combina um horário para sair do jogo e estudar. Quando o alarme toca, pensa que o combinado tirou sua liberdade.",
+      "case": "Um adolescente decide limitar o tempo de jogo para conseguir estudar. Um amigo diz que aceitar um limite é perder a liberdade.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "O limite protege uma escolha anterior."
+          "body": "O limite ajuda a cumprir uma decisão importante."
         },
         {
           "title": "Critério",
-          "body": "Um compromisso bom pode ajudar a governar a própria vontade."
+          "body": "Ser livre inclui governar os próprios desejos."
         },
         {
           "title": "Resposta",
-          "body": "Cumpri-lo também é exercer liberdade."
+          "body": "Organizar o tempo pode fortalecer a liberdade, em vez de diminuí-la."
         }
       ],
-      "conferenceQuestion": "Como esse limite pode ampliar o domínio sobre os próprios atos?",
+      "conferenceQuestion": "Como esse limite ajuda o adolescente a fazer o que decidiu?",
       "anchors": [
         "CEC 1734",
         "CEC 1809"
       ],
       "facilitatorNote": "Um limite justo pode proteger um compromisso.",
-      "explanation": "O limite protege uma escolha anterior. Um compromisso bom pode ajudar a governar a própria vontade. Cumpri-lo também é exercer liberdade."
+      "explanation": "O limite ajuda a cumprir uma decisão importante. Ser livre inclui governar os próprios desejos. Organizar o tempo pode fortalecer a liberdade, em vez de diminuí-la."
     },
     {
       "id": "G15",
@@ -3864,27 +3864,27 @@
       "column": "G",
       "columnTitle": "Discernimentos",
       "definition": "Deus age primeiro e sustenta nossa resposta livre.",
-      "case": "Ela tenta mudar só com força de vontade. O amigo diz que basta rezar e esperar, sem fazer nada.",
+      "case": "Um jovem quer parar de mentir. Um amigo diz que basta força de vontade; outro diz que basta rezar, sem mudar nada.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "Os dois separam o que precisa caminhar junto."
+          "body": "As duas opiniões separam a ajuda de Deus da resposta humana."
         },
         {
           "title": "Critério",
-          "body": "Deus age primeiro e sustenta nossa resposta livre."
+          "body": "A graça vem de Deus e nos chama a cooperar livremente."
         },
         {
           "title": "Resposta",
-          "body": "A oração acompanha decisões e práticas concretas."
+          "body": "O jovem pode rezar, contar a verdade e corrigir as mentiras."
         }
       ],
-      "conferenceQuestion": "O que falta em cada uma dessas duas posições?",
+      "conferenceQuestion": "O que falta em cada um dos conselhos?",
       "anchors": [
         "CEC 2001-2002"
       ],
       "facilitatorNote": "Não opor a graça à colaboração humana.",
-      "explanation": "Os dois separam o que precisa caminhar junto. Deus age primeiro e sustenta nossa resposta livre. A oração acompanha decisões e práticas concretas."
+      "explanation": "As duas opiniões separam a ajuda de Deus da resposta humana. A graça vem de Deus e nos chama a cooperar livremente. O jovem pode rezar, contar a verdade e corrigir as mentiras."
     },
     {
       "id": "O01",
@@ -3894,28 +3894,28 @@
       "column": "O",
       "columnTitle": "Orientações de resposta",
       "definition": "Proteger os outros exige compromisso com a verdade.",
-      "case": "Uma mensagem acusa um comerciante de enganar clientes. Ela não sabe de onde veio, mas o grupo pede que divulgue.",
+      "case": "Uma moradora recebe um áudio acusando uma padaria de vender comida estragada. O áudio não diz quando aconteceu nem quem presenciou.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "A acusação ainda não foi verificada."
+          "body": "Faltam informações para saber se a acusação é verdadeira."
         },
         {
           "title": "Critério",
-          "body": "Proteger os outros exige compromisso com a verdade."
+          "body": "Antes de repassar, é preciso conferir a origem e os fatos."
         },
         {
           "title": "Resposta",
-          "body": "Não repasse; procure uma fonte confiável."
+          "body": "A moradora deve buscar informação confiável e evitar espalhar a acusação."
         }
       ],
-      "conferenceQuestion": "O que fazer enquanto não há informação suficiente?",
+      "conferenceQuestion": "O que precisa ser esclarecido antes de repassar o áudio?",
       "anchors": [
         "CEC 1806",
         "CEC 1788"
       ],
       "facilitatorNote": "Evitar que a busca de confirmação amplie o boato.",
-      "explanation": "A acusação ainda não foi verificada. Proteger os outros exige compromisso com a verdade. Não repasse; procure uma fonte confiável."
+      "explanation": "Faltam informações para saber se a acusação é verdadeira. Antes de repassar, é preciso conferir a origem e os fatos. A moradora deve buscar informação confiável e evitar espalhar a acusação."
     },
     {
       "id": "O02",
@@ -3925,27 +3925,27 @@
       "column": "O",
       "columnTitle": "Orientações de resposta",
       "definition": "Bom conselho ajuda a esclarecer a consciência.",
-      "case": "Ele recebe um pedido para esconder algo da família e não sabe se está protegendo alguém ou encobrindo um erro.",
+      "case": "Um adolescente é convidado a apostar dinheiro pela internet. O amigo promete lucro fácil e pede segredo. O adolescente fica em dúvida.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "A dúvida envolve o bem de outra pessoa."
+          "body": "A promessa de lucro e o segredo pedem cuidado."
         },
         {
           "title": "Critério",
-          "body": "Bom conselho ajuda a esclarecer a consciência."
+          "body": "Pedir conselho ajuda a avaliar algo que não entendemos bem."
         },
         {
           "title": "Resposta",
-          "body": "Procure um adulto prudente e explique os fatos sem espalhá-los."
+          "body": "O adolescente pode conversar com um adulto de confiança antes de decidir."
         }
       ],
-      "conferenceQuestion": "Que tipo de conselho ajudaria, em vez de apenas agradar?",
+      "conferenceQuestion": "Que sinais mostram a necessidade de pedir conselho?",
       "anchors": [
         "CEC 1787-1788"
       ],
       "facilitatorNote": "Conselho prudente não é procurar quem concorde.",
-      "explanation": "A dúvida envolve o bem de outra pessoa. Bom conselho ajuda a esclarecer a consciência. Procure um adulto prudente e explique os fatos sem espalhá-los."
+      "explanation": "A promessa de lucro e o segredo pedem cuidado. Pedir conselho ajuda a avaliar algo que não entendemos bem. O adolescente pode conversar com um adulto de confiança antes de decidir."
     },
     {
       "id": "O03",
@@ -3955,28 +3955,28 @@
       "column": "O",
       "columnTitle": "Orientações de resposta",
       "definition": "Exame de consciência é uma revisão sincera diante de Deus.",
-      "case": "Antes de dormir, ela lembra que interrompeu a mãe várias vezes, mas também ajudou o irmão numa dificuldade.",
+      "case": "Ao chegar a noite, uma jovem lembra que ajudou o irmão, mas tratou a mãe com grosseria. Reserva alguns minutos para pensar no dia.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "Há bem a agradecer e erro a reconhecer."
+          "body": "O dia teve atitudes boas e atitudes que precisam mudar."
         },
         {
           "title": "Critério",
-          "body": "Exame de consciência é uma revisão sincera diante de Deus."
+          "body": "Rever as próprias ações ajuda a formar a consciência."
         },
         {
           "title": "Resposta",
-          "body": "Agradeça, peça perdão e escolha o que corrigir."
+          "body": "A jovem pode agradecer pelo bem, pedir perdão e pensar em como reparar."
         }
       ],
-      "conferenceQuestion": "Como rever o dia sem procurar culpa em tudo?",
+      "conferenceQuestion": "O que essa revisão pode ajudar a fazer no dia seguinte?",
       "anchors": [
         "CEC 1785",
         "CEC 1781"
       ],
       "facilitatorNote": "Incluir gratidão e evitar busca ansiosa de culpa.",
-      "explanation": "Há bem a agradecer e erro a reconhecer. Exame de consciência é uma revisão sincera diante de Deus. Agradeça, peça perdão e escolha o que corrigir."
+      "explanation": "O dia teve atitudes boas e atitudes que precisam mudar. Rever as próprias ações ajuda a formar a consciência. A jovem pode agradecer pelo bem, pedir perdão e pensar em como reparar."
     },
     {
       "id": "O04",
@@ -3986,28 +3986,28 @@
       "column": "O",
       "columnTitle": "Orientações de resposta",
       "definition": "A Palavra de Deus forma e corrige nossa consciência.",
-      "case": "Depois de uma briga, ele lê o Evangelho, mas percebe que só procura uma frase que dê razão à sua raiva.",
+      "case": "Depois de brigar com o irmão, um jovem ouve no Evangelho o chamado de Jesus ao perdão. Pensa em como retomar a conversa.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "A leitura pode virar busca de confirmação."
+          "body": "A Palavra de Deus ilumina uma dificuldade concreta."
         },
         {
           "title": "Critério",
-          "body": "A Palavra de Deus forma e corrige nossa consciência."
+          "body": "Escutar a Palavra inclui acolher o que ela pede de nós."
         },
         {
           "title": "Resposta",
-          "body": "Leia com disposição para rever também a própria atitude."
+          "body": "O jovem pode reconhecer sua parte na briga e procurar a paz."
         }
       ],
-      "conferenceQuestion": "O que significa deixar-se corrigir pelo que se lê?",
+      "conferenceQuestion": "Como passar da escuta do Evangelho a uma atitude concreta?",
       "anchors": [
         "CEC 1785",
         "Jo 8,31-32"
       ],
       "facilitatorNote": "Não usar versículos como arma contra o outro.",
-      "explanation": "A leitura pode virar busca de confirmação. A Palavra de Deus forma e corrige nossa consciência. Leia com disposição para rever também a própria atitude."
+      "explanation": "A Palavra de Deus ilumina uma dificuldade concreta. Escutar a Palavra inclui acolher o que ela pede de nós. O jovem pode reconhecer sua parte na briga e procurar a paz."
     },
     {
       "id": "O05",
@@ -4017,28 +4017,28 @@
       "column": "O",
       "columnTitle": "Orientações de resposta",
       "definition": "Firmeza pode caminhar com respeito.",
-      "case": "Pedem que ela minta sobre a falta de uma amiga. Ela quer recusar sem começar outra briga.",
+      "case": "Uma aluna pede que a amiga minta à professora sobre um trabalho não entregue. A amiga precisa responder.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "A amizade não exige uma mentira."
+          "body": "A amizade está sendo usada para pedir uma mentira."
         },
         {
           "title": "Critério",
-          "body": "Firmeza pode caminhar com respeito."
+          "body": "Recusar o erro não exige humilhar quem fez o pedido."
         },
         {
           "title": "Resposta",
-          "body": "Diga que não vai mentir e ofereça ajuda para explicar o ocorrido."
+          "body": "A amiga pode dizer: “Não vou mentir, mas posso ajudar você a explicar o atraso”."
         }
       ],
-      "conferenceQuestion": "Que resposta curta preserva a verdade e o respeito?",
+      "conferenceQuestion": "Como recusar o pedido e ainda oferecer uma ajuda correta?",
       "anchors": [
         "CEC 1789",
         "CEC 1808"
       ],
       "facilitatorNote": "Aceite uma frase simples de recusa respeitosa.",
-      "explanation": "A amizade não exige uma mentira. Firmeza pode caminhar com respeito. Diga que não vai mentir e ofereça ajuda para explicar o ocorrido."
+      "explanation": "A amizade está sendo usada para pedir uma mentira. Recusar o erro não exige humilhar quem fez o pedido. A amiga pode dizer: “Não vou mentir, mas posso ajudar você a explicar o atraso”."
     },
     {
       "id": "O06",
@@ -4048,27 +4048,27 @@
       "column": "O",
       "columnTitle": "Orientações de resposta",
       "definition": "Responsabilidade começa pelo que cada um escolheu fazer.",
-      "case": "Na discussão, os dois se ofenderam. Ele só fala no insulto que recebeu e evita reconhecer o que disse.",
+      "case": "Dois irmãos trocam ofensas. Um deles conta à mãe apenas o que ouviu, escondendo os insultos que também disse.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "O erro do outro não apaga o seu."
+          "body": "O relato omite a própria participação."
         },
         {
           "title": "Critério",
-          "body": "Responsabilidade começa pelo que cada um escolheu fazer."
+          "body": "Assumir a própria parte não significa aceitar toda a culpa."
         },
         {
           "title": "Resposta",
-          "body": "Reconheça sua ofensa sem acrescentar uma desculpa."
+          "body": "O irmão deve contar também o que fez e pedir perdão por isso."
         }
       ],
-      "conferenceQuestion": "Como pedir perdão sem transferir a culpa?",
+      "conferenceQuestion": "Como reconhecer a própria falta sem encobrir a falta do outro?",
       "anchors": [
         "CEC 1736"
       ],
       "facilitatorNote": "Não exigir que assuma também a culpa alheia.",
-      "explanation": "O erro do outro não apaga o seu. Responsabilidade começa pelo que cada um escolheu fazer. Reconheça sua ofensa sem acrescentar uma desculpa."
+      "explanation": "O relato omite a própria participação. Assumir a própria parte não significa aceitar toda a culpa. O irmão deve contar também o que fez e pedir perdão por isso."
     },
     {
       "id": "O07",
@@ -4078,27 +4078,27 @@
       "column": "O",
       "columnTitle": "Orientações de resposta",
       "definition": "A reparação deve alcançar quem recebeu a falsidade.",
-      "case": "Ela descobre que a acusação que enviou ao grupo era falsa. Apaga a mensagem, mas muitos já a leram.",
+      "case": "Uma jovem acusa um colega no grupo de mensagens. Depois descobre que a informação era falsa e apaga a publicação, mas várias pessoas já leram.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "Apagar não corrige o que os outros entenderam."
+          "body": "Apagar a mensagem não desfaz o que os outros acreditaram."
         },
         {
           "title": "Critério",
-          "body": "A reparação deve alcançar quem recebeu a falsidade."
+          "body": "Corrigir uma acusação exige alcançar quem recebeu a informação errada."
         },
         {
           "title": "Resposta",
-          "body": "Avise no mesmo grupo que a informação era falsa."
+          "body": "A jovem deve esclarecer o engano no grupo e pedir desculpas ao colega."
         }
       ],
-      "conferenceQuestion": "Por que apenas apagar pode não bastar?",
+      "conferenceQuestion": "Por que apagar a mensagem não basta?",
       "anchors": [
         "CEC 1459"
       ],
       "facilitatorNote": "Corrigir diante de quem recebeu a informação.",
-      "explanation": "Apagar não corrige o que os outros entenderam. A reparação deve alcançar quem recebeu a falsidade. Avise no mesmo grupo que a informação era falsa."
+      "explanation": "Apagar a mensagem não desfaz o que os outros acreditaram. Corrigir uma acusação exige alcançar quem recebeu a informação errada. A jovem deve esclarecer o engano no grupo e pedir desculpas ao colega."
     },
     {
       "id": "O08",
@@ -4108,27 +4108,27 @@
       "column": "O",
       "columnTitle": "Orientações de resposta",
       "definition": "Reparar exige sinceridade e uma solução possível.",
-      "case": "Ele estragou um objeto emprestado e não tem dinheiro para substituí-lo agora. Evita falar com o dono.",
+      "case": "Um rapaz danifica o instrumento que pegou emprestado. Quer reparar, mas não tem dinheiro para pagar tudo de uma vez.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "A dificuldade de pagar não elimina o dano."
+          "body": "O dano existe, mesmo com a dificuldade de pagar."
         },
         {
           "title": "Critério",
-          "body": "Reparar exige sinceridade e uma solução possível."
+          "body": "Reparar pede um compromisso possível e sincero."
         },
         {
           "title": "Resposta",
-          "body": "Conte o ocorrido e combine como reparar, com ajuda se necessário."
+          "body": "O rapaz pode explicar o ocorrido e combinar o conserto ou o pagamento em partes."
         }
       ],
-      "conferenceQuestion": "Que primeiro passo é possível mesmo sem ter o valor inteiro?",
+      "conferenceQuestion": "Como assumir a reparação sem prometer o que não pode cumprir?",
       "anchors": [
         "CEC 1459"
       ],
       "facilitatorNote": "Não impor promessa impossível de cumprir.",
-      "explanation": "A dificuldade de pagar não elimina o dano. Reparar exige sinceridade e uma solução possível. Conte o ocorrido e combine como reparar, com ajuda se necessário."
+      "explanation": "O dano existe, mesmo com a dificuldade de pagar. Reparar pede um compromisso possível e sincero. O rapaz pode explicar o ocorrido e combinar o conserto ou o pagamento em partes."
     },
     {
       "id": "O09",
@@ -4138,28 +4138,28 @@
       "column": "O",
       "columnTitle": "Orientações de resposta",
       "definition": "Pedir proteção não exige enfrentar o perigo sozinho.",
-      "case": "Ela recebe ameaças para não contar uma intimidação. Tem medo de piorar a situação se enfrentar o agressor sozinha.",
+      "case": "Um adolescente recebe ameaças de um colega que exige dinheiro. Tem medo de contar à família porque o colega prometeu uma vingança.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "A ameaça limita sua segurança."
+          "body": "A ameaça dificulta pedir ajuda."
         },
         {
           "title": "Critério",
-          "body": "Pedir proteção não exige enfrentar o perigo sozinho."
+          "body": "Ninguém precisa enfrentar sozinho uma situação de intimidação."
         },
         {
           "title": "Resposta",
-          "body": "Procure um adulto de confiança e explique a ameaça."
+          "body": "O adolescente deve procurar um adulto de confiança e guardar as mensagens, se for seguro."
         }
       ],
-      "conferenceQuestion": "Por que pedir ajuda pode ser a atitude mais corajosa?",
+      "conferenceQuestion": "Por que buscar ajuda é melhor que enfrentar a ameaça sozinho?",
       "anchors": [
         "CEC 1806",
         "CEC 1808"
       ],
       "facilitatorNote": "Proteção vem antes de confrontar o agressor.",
-      "explanation": "A ameaça limita sua segurança. Pedir proteção não exige enfrentar o perigo sozinho. Procure um adulto de confiança e explique a ameaça."
+      "explanation": "A ameaça dificulta pedir ajuda. Ninguém precisa enfrentar sozinho uma situação de intimidação. O adolescente deve procurar um adulto de confiança e guardar as mensagens, se for seguro."
     },
     {
       "id": "O10",
@@ -4169,27 +4169,27 @@
       "column": "O",
       "columnTitle": "Orientações de resposta",
       "definition": "A Reconciliação oferece o perdão de Cristo ao arrependido.",
-      "case": "Ele reconhece que precisa confessar, mas não sabe os horários e vai deixando para depois.",
+      "case": "Um jovem quer se confessar, mas sempre deixa para depois. Ainda não procurou os horários de atendimento da paróquia.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "Há uma intenção que ainda não virou ação."
+          "body": "A intenção de procurar o sacramento precisa de um passo concreto."
         },
         {
           "title": "Critério",
-          "body": "A Reconciliação oferece o perdão de Cristo ao arrependido."
+          "body": "Na Confissão, buscamos o perdão de Deus com arrependimento."
         },
         {
           "title": "Resposta",
-          "body": "Confira o horário ou peça ao sacerdote que o atenda."
+          "body": "O jovem pode consultar os horários e preparar-se para confessar com sinceridade."
         }
       ],
-      "conferenceQuestion": "Qual passo concreto pode tirar essa decisão do adiamento?",
+      "conferenceQuestion": "Qual passo concreto pode ser dado hoje?",
       "anchors": [
         "CEC 1422-1424"
       ],
       "facilitatorNote": "Não pedir que conte ao grupo o que confessaria.",
-      "explanation": "Há uma intenção que ainda não virou ação. A Reconciliação oferece o perdão de Cristo ao arrependido. Confira o horário ou peça ao sacerdote que o atenda."
+      "explanation": "A intenção de procurar o sacramento precisa de um passo concreto. Na Confissão, buscamos o perdão de Deus com arrependimento. O jovem pode consultar os horários e preparar-se para confessar com sinceridade."
     },
     {
       "id": "O11",
@@ -4199,28 +4199,28 @@
       "column": "O",
       "columnTitle": "Orientações de resposta",
       "definition": "Conhecer a própria dificuldade ajuda a agir antes.",
-      "case": "Sempre que entra numa conversa, ela acaba participando de insultos. Já percebeu o padrão e quer parar.",
+      "case": "Uma jovem percebe que, toda vez que entra em certo grupo de mensagens, acaba participando de ofensas contra colegas.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "Uma situação repetida facilita novas quedas."
+          "body": "O grupo facilita a repetição de um erro."
         },
         {
           "title": "Critério",
-          "body": "Conhecer a própria dificuldade ajuda a agir antes."
+          "body": "Evitar uma ocasião de pecado ajuda a sustentar a decisão de mudar."
         },
         {
           "title": "Resposta",
-          "body": "Saia da conversa ofensiva e procure apoio para manter a decisão."
+          "body": "A jovem pode sair do grupo e deixar de alimentar as ofensas."
         }
       ],
-      "conferenceQuestion": "Por que sair pode ser melhor do que testar a própria resistência?",
+      "conferenceQuestion": "Que mudança no ambiente pode ajudar a parar com as ofensas?",
       "anchors": [
         "CEC 1865",
         "CEC 1734"
       ],
       "facilitatorNote": "Afastar-se pode ser prudência, não covardia.",
-      "explanation": "Uma situação repetida facilita novas quedas. Conhecer a própria dificuldade ajuda a agir antes. Saia da conversa ofensiva e procure apoio para manter a decisão."
+      "explanation": "O grupo facilita a repetição de um erro. Evitar uma ocasião de pecado ajuda a sustentar a decisão de mudar. A jovem pode sair do grupo e deixar de alimentar as ofensas."
     },
     {
       "id": "O12",
@@ -4230,28 +4230,28 @@
       "column": "O",
       "columnTitle": "Orientações de resposta",
       "definition": "A graça fortalece uma resposta livre.",
-      "case": "Ele pede a Deus paciência, mas percebe que responde às mensagens no auge da irritação.",
+      "case": "Um pai reza para ter mais paciência com os filhos. Ao perceber que está ficando irritado, decide pausar a conversa antes de gritar.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "A dificuldade aparece num momento reconhecível."
+          "body": "A oração vem acompanhada de uma atitude concreta."
         },
         {
           "title": "Critério",
-          "body": "A graça fortalece uma resposta livre."
+          "body": "Cooperar com a graça inclui agir sobre o que podemos mudar."
         },
         {
           "title": "Resposta",
-          "body": "Reze, espere a irritação baixar e responda sem ofender."
+          "body": "O pai pode se acalmar e retomar a conversa com respeito."
         }
       ],
-      "conferenceQuestion": "Que decisão concreta pode acompanhar o pedido de paciência?",
+      "conferenceQuestion": "Como a atitude do pai acompanha o pedido feito a Deus?",
       "anchors": [
         "CEC 1742",
         "CEC 2001"
       ],
       "facilitatorNote": "Não tratar a oração como técnica automática.",
-      "explanation": "A dificuldade aparece num momento reconhecível. A graça fortalece uma resposta livre. Reze, espere a irritação baixar e responda sem ofender."
+      "explanation": "A oração vem acompanhada de uma atitude concreta. Cooperar com a graça inclui agir sobre o que podemos mudar. O pai pode se acalmar e retomar a conversa com respeito."
     },
     {
       "id": "O13",
@@ -4261,28 +4261,28 @@
       "column": "O",
       "columnTitle": "Orientações de resposta",
       "definition": "Virtudes crescem com prática e perseverança.",
-      "case": "Ela quer ser mais responsável, mas tenta mudar tudo de uma vez e acaba desistindo.",
+      "case": "Uma jovem vive esquecendo tarefas que combinou fazer em casa. Decide anotá-las e conferir a lista antes de sair.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "O objetivo está amplo demais para começar."
+          "body": "A jovem escolhe uma prática simples para cumprir os compromissos."
         },
         {
           "title": "Critério",
-          "body": "Virtudes crescem com prática e perseverança."
+          "body": "Um bom hábito cresce pela repetição de pequenas ações."
         },
         {
           "title": "Resposta",
-          "body": "Escolha um compromisso possível e cumpra-o a cada dia."
+          "body": "Anotar e conferir pode ajudar a desenvolver responsabilidade."
         }
       ],
-      "conferenceQuestion": "Que hábito pequeno teria efeito real na rotina?",
+      "conferenceQuestion": "Por que uma prática pequena e constante pode ajudar mais que uma promessa vaga?",
       "anchors": [
         "CEC 1803",
         "CEC 1810"
       ],
       "facilitatorNote": "Pedir um hábito específico, não uma intenção vaga.",
-      "explanation": "O objetivo está amplo demais para começar. Virtudes crescem com prática e perseverança. Escolha um compromisso possível e cumpra-o a cada dia."
+      "explanation": "A jovem escolhe uma prática simples para cumprir os compromissos. Um bom hábito cresce pela repetição de pequenas ações. Anotar e conferir pode ajudar a desenvolver responsabilidade."
     },
     {
       "id": "O14",
@@ -4292,28 +4292,28 @@
       "column": "O",
       "columnTitle": "Orientações de resposta",
       "definition": "A caridade pode pedir renúncia a algo permitido.",
-      "case": "Um convidado em recuperação do alcoolismo chega ao jantar. O anfitrião pensa em oferecer outra bebida para todos.",
+      "case": "Um homem recebe para jantar um amigo que está em recuperação do alcoolismo. Decide não servir bebidas alcoólicas naquela noite.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "A ocasião pede atenção à fragilidade do convidado."
+          "body": "O anfitrião leva em conta uma dificuldade do amigo."
         },
         {
           "title": "Critério",
-          "body": "A caridade pode pedir renúncia a algo permitido."
+          "body": "A caridade pode pedir que renunciemos a algo permitido para cuidar do próximo."
         },
         {
           "title": "Resposta",
-          "body": "Sirva outra bebida sem expor a história da pessoa."
+          "body": "Servir bebidas sem álcool é uma forma discreta de acolher e apoiar."
         }
       ],
-      "conferenceQuestion": "Por que essa renúncia pode ser um ato de liberdade?",
+      "conferenceQuestion": "Por que essa renúncia é um cuidado com o amigo?",
       "anchors": [
         "1Cor 8,9-13",
         "CEC 1789"
       ],
       "facilitatorNote": "Cuidar sem divulgar a fragilidade do convidado.",
-      "explanation": "A ocasião pede atenção à fragilidade do convidado. A caridade pode pedir renúncia a algo permitido. Sirva outra bebida sem expor a história da pessoa."
+      "explanation": "O anfitrião leva em conta uma dificuldade do amigo. A caridade pode pedir que renunciemos a algo permitido para cuidar do próximo. Servir bebidas sem álcool é uma forma discreta de acolher e apoiar."
     },
     {
       "id": "O15",
@@ -4323,28 +4323,28 @@
       "column": "O",
       "columnTitle": "Orientações de resposta",
       "definition": "A misericórdia permite retomar o caminho com sinceridade.",
-      "case": "Depois de semanas evitando insultos, ela volta a ofender alguém. Fica tentada a abandonar todo o esforço.",
+      "case": "Uma jovem vinha evitando ofender a irmã, mas volta a insultá-la numa discussão. Fica desanimada com a recaída.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "Uma queda não apaga o bem já aprendido."
+          "body": "A recaída precisa ser reconhecida sem levar à desistência."
         },
         {
           "title": "Critério",
-          "body": "A misericórdia permite retomar o caminho com sinceridade."
+          "body": "Cair novamente não apaga o bem já praticado nem impede a conversão."
         },
         {
           "title": "Resposta",
-          "body": "Peça perdão, repare e reveja o que favoreceu a queda."
+          "body": "A jovem pode pedir perdão, reparar a ofensa e retomar o esforço com a ajuda de Deus."
         }
       ],
-      "conferenceQuestion": "Como recomeçar sem tratar a ofensa como algo sem importância?",
+      "conferenceQuestion": "O que fazer depois da recaída, além de lamentar o erro?",
       "anchors": [
         "CEC 1847-1848",
         "CEC 1811"
       ],
       "facilitatorNote": "Recomeçar inclui corrigir, não apenas esquecer.",
-      "explanation": "Uma queda não apaga o bem já aprendido. A misericórdia permite retomar o caminho com sinceridade. Peça perdão, repare e reveja o que favoreceu a queda."
+      "explanation": "A recaída precisa ser reconhecida sem levar à desistência. Cair novamente não apaga o bem já praticado nem impede a conversão. A jovem pode pedir perdão, reparar a ofensa e retomar o esforço com a ajuda de Deus."
     }
   ],
   "boards": [

@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import hashlib
 import os
 import re
 import shutil
@@ -543,6 +544,7 @@ def catalog_item(payload: dict, encounter_dir: Path, href: str) -> dict:
         "meetingLabel": payload.get("meetingLabel"),
         "coreMessage": payload.get("coreMessage"),
         "cardSetId": payload["cardSetId"],
+        "contentRevision": hashlib.sha256(json.dumps(payload["sourceHashes"], sort_keys=True).encode()).hexdigest()[:12],
         "encounterNumber": encounter_number_from_path(encounter_dir),
         "directory": relative_to_repo(encounter_dir),
         "boardCount": len(payload["boards"]),
