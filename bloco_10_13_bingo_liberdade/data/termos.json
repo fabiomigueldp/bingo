@@ -1,0 +1,1413 @@
+{
+  "title": "Bingo - Livres para escolher o bem",
+  "teaching_encounters": [10, 11, 12, 13],
+  "meeting": "Encontros 10 a 13 - Consciência, liberdade e responsabilidade",
+  "meeting_label": "Encontros 10 a 13",
+  "output_slug": "bingo_liberdade_10_13",
+  "core_message": "A consciência reconhece o bem; a liberdade permite escolhê-lo. Respondemos por nossos atos e contamos com a graça de Cristo para mudar e amar.",
+  "source_meeting_markdown": "projects/catequese/material_didatico/output/markdown/encontro_10.md",
+  "scripture": [
+    "Gl 5,13",
+    "Tg 4,17",
+    "Jo 8,34",
+    "Jo 8,31-32",
+    "1Cor 8,9-13"
+  ],
+  "catechism": [
+    "CEC 1778",
+    "CEC 1783-1785",
+    "CEC 1730-1731",
+    "CEC 1806",
+    "CEC 1807",
+    "CEC 1808",
+    "CEC 1809",
+    "CEC 1734-1736",
+    "CEC 1752-1753",
+    "CEC 1754",
+    "CEC 1996",
+    "CEC 2001-2002",
+    "CEC 1265-1266",
+    "CEC 1422-1424",
+    "CEC 1468",
+    "CEC 1394-1395",
+    "CEC 1966",
+    "CEC 1972",
+    "CEC 1736",
+    "CEC 1753",
+    "CEC 1868",
+    "CEC 1735",
+    "CEC 1736-1737",
+    "CEC 1734",
+    "CEC 1865",
+    "CEC 1789",
+    "CEC 1846-1848",
+    "CEC 1431",
+    "CEC 2284",
+    "CEC 1777-1778",
+    "CEC 1734-1735",
+    "CEC 1811",
+    "CEC 1451",
+    "CEC 1750-1756",
+    "CEC 1740",
+    "CEC 1791",
+    "CEC 1847-1848",
+    "CEC 1459",
+    "CEC 1264",
+    "CEC 1790-1793",
+    "CEC 1791-1793",
+    "CEC 1848",
+    "CEC 1861",
+    "CEC 1750-1753",
+    "CEC 1734-1737",
+    "CEC 1857-1862",
+    "CEC 1803",
+    "CEC 1451-1453",
+    "CEC 1788",
+    "CEC 1787-1788",
+    "CEC 1785",
+    "CEC 1781",
+    "CEC 1742",
+    "CEC 2001",
+    "CEC 1810"
+  ],
+  "card_model": {
+    "total_terms": 75,
+    "columns": 5,
+    "terms_per_column": 15,
+    "grid": "5x5",
+    "center": {
+      "label": "LIVRE / Jo 8,36",
+      "fixed": true,
+      "called": false
+    },
+    "recommended_win_condition": "duas_linhas"
+  },
+  "columns": [
+    {
+      "key": "B",
+      "title": "Base moral",
+      "function": "Fundamentos bíblicos e doutrinais para ler o tema.",
+      "short_function": "fundamento cristão do tema"
+    },
+    {
+      "key": "I",
+      "title": "Situações concretas",
+      "function": "Formas reais em que o tema aparece na vida concreta, em situações inteligíveis para a turma.",
+      "short_function": "situações concretas do tema"
+    },
+    {
+      "key": "N",
+      "title": "Narrativas falsas",
+      "function": "Desculpas, autoenganos e frases que desviam do bem.",
+      "short_function": "desculpas que normalizam o erro"
+    },
+    {
+      "key": "G",
+      "title": "Discernimentos",
+      "function": "Distinções morais que evitam respostas simplistas.",
+      "short_function": "distinções para discernir"
+    },
+    {
+      "key": "O",
+      "title": "Orientações de resposta",
+      "function": "Ações concretas, prudentes e proporcionais diante do problema.",
+      "short_function": "respostas proporcionais e prudentes"
+    }
+  ],
+  "terms": [
+    {
+      "id": "B01",
+      "column": "B",
+      "label": "Consciência moral",
+      "definition": "A consciência julga o que é justo fazer.",
+      "anchors": [
+        "CEC 1778"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-10"
+      ],
+      "source_meetings": [
+        10
+      ]
+    },
+    {
+      "id": "B02",
+      "column": "B",
+      "label": "Formação da consciência",
+      "definition": "A consciência precisa aprender e corrigir seus juízos.",
+      "anchors": [
+        "CEC 1783-1785"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-10"
+      ],
+      "source_meetings": [
+        10
+      ]
+    },
+    {
+      "id": "B03",
+      "column": "B",
+      "label": "Livre-arbítrio",
+      "definition": "Razão e vontade permitem uma escolha pessoal.",
+      "anchors": [
+        "CEC 1730-1731"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-11"
+      ],
+      "source_meetings": [
+        11
+      ]
+    },
+    {
+      "id": "B04",
+      "column": "B",
+      "label": "Prudência",
+      "definition": "A prudência escolhe meios adequados para fazer o bem.",
+      "anchors": [
+        "CEC 1806"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-11"
+      ],
+      "source_meetings": [
+        11
+      ]
+    },
+    {
+      "id": "B05",
+      "column": "B",
+      "label": "Justiça",
+      "definition": "Justiça é dar a cada um o que lhe é devido.",
+      "anchors": [
+        "CEC 1807"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-11"
+      ],
+      "source_meetings": [
+        11
+      ]
+    },
+    {
+      "id": "B06",
+      "column": "B",
+      "label": "Fortaleza",
+      "definition": "Fortaleza sustenta a escolha do bem apesar do medo.",
+      "anchors": [
+        "CEC 1808"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-11"
+      ],
+      "source_meetings": [
+        11
+      ]
+    },
+    {
+      "id": "B07",
+      "column": "B",
+      "label": "Temperança",
+      "definition": "Temperança ajuda a moderar desejos e prazeres.",
+      "anchors": [
+        "CEC 1809"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-11"
+      ],
+      "source_meetings": [
+        11
+      ]
+    },
+    {
+      "id": "B08",
+      "column": "B",
+      "label": "Responsabilidade",
+      "definition": "Responsabilidade inclui responder pelas próprias escolhas.",
+      "anchors": [
+        "CEC 1734-1736"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-12"
+      ],
+      "source_meetings": [
+        12
+      ]
+    },
+    {
+      "id": "B09",
+      "column": "B",
+      "label": "Intenção",
+      "definition": "A intenção é o objetivo de quem age.",
+      "anchors": [
+        "CEC 1752-1753"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-12"
+      ],
+      "source_meetings": [
+        12
+      ]
+    },
+    {
+      "id": "B10",
+      "column": "B",
+      "label": "Circunstâncias",
+      "definition": "As circunstâncias podem aumentar a gravidade do ato.",
+      "anchors": [
+        "CEC 1754"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-12"
+      ],
+      "source_meetings": [
+        12
+      ]
+    },
+    {
+      "id": "B11",
+      "column": "B",
+      "label": "Graça de Deus",
+      "definition": "A graça é o auxílio gratuito de Deus para responder ao seu amor.",
+      "anchors": [
+        "CEC 1996",
+        "CEC 2001-2002"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-13"
+      ],
+      "source_meetings": [
+        13
+      ]
+    },
+    {
+      "id": "B12",
+      "column": "B",
+      "label": "Batismo",
+      "definition": "No Batismo recebemos vida nova e nos tornamos filhos adotivos de Deus.",
+      "anchors": [
+        "CEC 1265-1266"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-13"
+      ],
+      "source_meetings": [
+        13
+      ]
+    },
+    {
+      "id": "B13",
+      "column": "B",
+      "label": "Reconciliação",
+      "definition": "Na Reconciliação, Cristo perdoa por meio da absolvição do sacerdote.",
+      "anchors": [
+        "CEC 1422-1424",
+        "CEC 1468"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-13"
+      ],
+      "source_meetings": [
+        13
+      ]
+    },
+    {
+      "id": "B14",
+      "column": "B",
+      "label": "Eucaristia",
+      "definition": "Na Eucaristia recebemos Cristo, que fortalece a caridade.",
+      "anchors": [
+        "CEC 1394-1395"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-13"
+      ],
+      "source_meetings": [
+        13
+      ]
+    },
+    {
+      "id": "B15",
+      "column": "B",
+      "label": "Lei do amor",
+      "definition": "A Lei do Evangelho nos chama a agir por amor, com a graça do Espírito.",
+      "anchors": [
+        "CEC 1966",
+        "CEC 1972",
+        "Gl 5,13"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-13"
+      ],
+      "source_meetings": [
+        13
+      ]
+    },
+    {
+      "id": "I01",
+      "column": "I",
+      "label": "Troco recebido a mais",
+      "definition": "Perceber o erro e ficar com o valor é uma escolha.",
+      "anchors": [
+        "CEC 1736",
+        "CEC 1807"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-10",
+        "encontro-12"
+      ],
+      "source_meetings": [
+        10,
+        12
+      ]
+    },
+    {
+      "id": "I02",
+      "column": "I",
+      "label": "Boato compartilhado",
+      "definition": "Querer avisar não justifica espalhar algo sem fundamento.",
+      "anchors": [
+        "CEC 1753",
+        "CEC 1868"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-10",
+        "encontro-12"
+      ],
+      "source_meetings": [
+        10,
+        12
+      ]
+    },
+    {
+      "id": "I03",
+      "column": "I",
+      "label": "Medo de ficar de fora",
+      "definition": "A pressão deve ser considerada sem tornar a humilhação correta.",
+      "anchors": [
+        "CEC 1735",
+        "CEC 1808"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-11",
+        "encontro-12"
+      ],
+      "source_meetings": [
+        11,
+        12
+      ]
+    },
+    {
+      "id": "I04",
+      "column": "I",
+      "label": "Dano previsível",
+      "definition": "Ignorar um risco previsível pode trazer responsabilidade pelo dano.",
+      "anchors": [
+        "CEC 1736-1737"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-12"
+      ],
+      "source_meetings": [
+        12
+      ]
+    },
+    {
+      "id": "I05",
+      "column": "I",
+      "label": "Compromisso abandonado",
+      "definition": "Uma nova vontade não elimina um dever assumido.",
+      "anchors": [
+        "CEC 1734",
+        "CEC 1736"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-11",
+        "encontro-12"
+      ],
+      "source_meetings": [
+        11,
+        12
+      ]
+    },
+    {
+      "id": "I06",
+      "column": "I",
+      "label": "Ajuda adiada",
+      "definition": "Omissão é deixar um bem devido e ao nosso alcance.",
+      "anchors": [
+        "Tg 4,17"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-12"
+      ],
+      "source_meetings": [
+        12
+      ]
+    },
+    {
+      "id": "I07",
+      "column": "I",
+      "label": "Uma mentira puxa outra",
+      "definition": "Repetir o pecado pode tornar mais difícil abandoná-lo.",
+      "anchors": [
+        "CEC 1865",
+        "Jo 8,34"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-11",
+        "encontro-13"
+      ],
+      "source_meetings": [
+        11,
+        13
+      ]
+    },
+    {
+      "id": "I08",
+      "column": "I",
+      "label": "Ajuda com cobrança",
+      "definition": "Gratidão não obriga ninguém a fazer o mal.",
+      "anchors": [
+        "CEC 1789"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-10",
+        "encontro-11"
+      ],
+      "source_meetings": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "I09",
+      "column": "I",
+      "label": "Pressão para mentir",
+      "definition": "O medo pode diminuir a responsabilidade, mas não torna a mentira boa.",
+      "anchors": [
+        "CEC 1735",
+        "CEC 1754"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-11",
+        "encontro-12"
+      ],
+      "source_meetings": [
+        11,
+        12
+      ]
+    },
+    {
+      "id": "I10",
+      "column": "I",
+      "label": "Tela sem hora para parar",
+      "definition": "A liberdade precisa ser exercitada também no uso do tempo.",
+      "anchors": [
+        "CEC 1734",
+        "CEC 1809"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-11"
+      ],
+      "source_meetings": [
+        11
+      ]
+    },
+    {
+      "id": "I11",
+      "column": "I",
+      "label": "Acusação injusta",
+      "definition": "Evitar a própria bronca não justifica prejudicar outra pessoa.",
+      "anchors": [
+        "CEC 1736",
+        "CEC 1868"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-12"
+      ],
+      "source_meetings": [
+        12
+      ]
+    },
+    {
+      "id": "I12",
+      "column": "I",
+      "label": "Vergonha de voltar",
+      "definition": "A misericórdia de Deus nos chama à conversão.",
+      "anchors": [
+        "CEC 1846-1848"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-13"
+      ],
+      "source_meetings": [
+        13
+      ]
+    },
+    {
+      "id": "I13",
+      "column": "I",
+      "label": "Desculpa repetida",
+      "definition": "Arrependimento pede uma disposição real de abandonar o mal.",
+      "anchors": [
+        "CEC 1431"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-12",
+        "encontro-13"
+      ],
+      "source_meetings": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "I14",
+      "column": "I",
+      "label": "Exemplo que incentiva",
+      "definition": "Induzir alguém ao mal também traz responsabilidade.",
+      "anchors": [
+        "CEC 2284",
+        "CEC 1868"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-10",
+        "encontro-12"
+      ],
+      "source_meetings": [
+        10,
+        12
+      ]
+    },
+    {
+      "id": "I15",
+      "column": "I",
+      "label": "Serviço sem aplauso",
+      "definition": "A liberdade pode ser usada para servir por amor.",
+      "anchors": [
+        "Gl 5,13"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-11",
+        "encontro-13"
+      ],
+      "source_meetings": [
+        11,
+        13
+      ]
+    },
+    {
+      "id": "N01",
+      "column": "N",
+      "label": "Todo mundo faz",
+      "definition": "A aprovação de muitos não torna a fraude correta.",
+      "anchors": [
+        "CEC 1778",
+        "CEC 1734"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-10",
+        "encontro-11"
+      ],
+      "source_meetings": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "N02",
+      "column": "N",
+      "label": "Sinto, então está certo",
+      "definition": "Sentir raiva não prova que uma ação seja justa.",
+      "anchors": [
+        "CEC 1778"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-10"
+      ],
+      "source_meetings": [
+        10
+      ]
+    },
+    {
+      "id": "N03",
+      "column": "N",
+      "label": "Ninguém vai saber",
+      "definition": "O valor moral não depende de ser descoberto.",
+      "anchors": [
+        "CEC 1777-1778"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-10"
+      ],
+      "source_meetings": [
+        10
+      ]
+    },
+    {
+      "id": "N04",
+      "column": "N",
+      "label": "Boa intenção basta",
+      "definition": "Um fim bom não torna bom um meio mau.",
+      "anchors": [
+        "CEC 1753"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-12"
+      ],
+      "source_meetings": [
+        12
+      ]
+    },
+    {
+      "id": "N05",
+      "column": "N",
+      "label": "Só obedeci",
+      "definition": "Obedecer não elimina automaticamente a responsabilidade.",
+      "anchors": [
+        "CEC 1734-1735"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-11",
+        "encontro-12"
+      ],
+      "source_meetings": [
+        11,
+        12
+      ]
+    },
+    {
+      "id": "N06",
+      "column": "N",
+      "label": "Meu jeito não muda",
+      "definition": "Ter dificuldade não significa que mudar seja impossível.",
+      "anchors": [
+        "CEC 1865",
+        "CEC 1811"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-11",
+        "encontro-13"
+      ],
+      "source_meetings": [
+        11,
+        13
+      ]
+    },
+    {
+      "id": "N07",
+      "column": "N",
+      "label": "Depois eu confesso",
+      "definition": "A Reconciliação pede arrependimento e propósito de mudança.",
+      "anchors": [
+        "CEC 1431",
+        "CEC 1451"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-13"
+      ],
+      "source_meetings": [
+        13
+      ]
+    },
+    {
+      "id": "N08",
+      "column": "N",
+      "label": "Não fui eu que comecei",
+      "definition": "Participar do mal alheio também pode ser uma escolha culpável.",
+      "anchors": [
+        "CEC 1868"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-12"
+      ],
+      "source_meetings": [
+        12
+      ]
+    },
+    {
+      "id": "N09",
+      "column": "N",
+      "label": "Não é problema meu",
+      "definition": "Não ser dono não elimina todo dever de ajudar.",
+      "anchors": [
+        "Tg 4,17"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-12"
+      ],
+      "source_meetings": [
+        12
+      ]
+    },
+    {
+      "id": "N10",
+      "column": "N",
+      "label": "Só vale o resultado",
+      "definition": "O ato escolhido também precisa ser moralmente bom.",
+      "anchors": [
+        "CEC 1750-1756"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-12"
+      ],
+      "source_meetings": [
+        12
+      ]
+    },
+    {
+      "id": "N11",
+      "column": "N",
+      "label": "Sou livre para tudo",
+      "definition": "Liberdade não é autorização para ignorar os outros.",
+      "anchors": [
+        "CEC 1740"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-11"
+      ],
+      "source_meetings": [
+        11
+      ]
+    },
+    {
+      "id": "N12",
+      "column": "N",
+      "label": "Prefiro não saber",
+      "definition": "Evitar uma informação devida não isenta de responsabilidade.",
+      "anchors": [
+        "CEC 1791"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-10",
+        "encontro-12"
+      ],
+      "source_meetings": [
+        10,
+        12
+      ]
+    },
+    {
+      "id": "N13",
+      "column": "N",
+      "label": "Errei, não tem mais jeito",
+      "definition": "O pecado não destrói a possibilidade de conversão.",
+      "anchors": [
+        "CEC 1847-1848",
+        "CEC 1865"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-13"
+      ],
+      "source_meetings": [
+        13
+      ]
+    },
+    {
+      "id": "N14",
+      "column": "N",
+      "label": "Perdão sem mudança",
+      "definition": "Perdoar não apaga o dever de reparar o possível.",
+      "anchors": [
+        "CEC 1459"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-12",
+        "encontro-13"
+      ],
+      "source_meetings": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "N15",
+      "column": "N",
+      "label": "Deus faz, eu espero",
+      "definition": "A graça sustenta nossa colaboração livre.",
+      "anchors": [
+        "CEC 2001-2002"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-13"
+      ],
+      "source_meetings": [
+        13
+      ]
+    },
+    {
+      "id": "G01",
+      "column": "G",
+      "label": "Sentir ou consentir",
+      "definition": "Sentir uma tentação não é o mesmo que aceitá-la.",
+      "anchors": [
+        "CEC 1264",
+        "CEC 1734"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-12",
+        "encontro-13"
+      ],
+      "source_meetings": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "G02",
+      "column": "G",
+      "label": "Certeza e verdade",
+      "definition": "Certeza pessoal não garante que o juízo esteja correto.",
+      "anchors": [
+        "CEC 1790-1793"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-10"
+      ],
+      "source_meetings": [
+        10
+      ]
+    },
+    {
+      "id": "G03",
+      "column": "G",
+      "label": "Consciência ou vontade",
+      "definition": "A consciência julga o dever; não apenas confirma o desejo.",
+      "anchors": [
+        "CEC 1778"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-10",
+        "encontro-11"
+      ],
+      "source_meetings": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "G04",
+      "column": "G",
+      "label": "Acidente ou descuido",
+      "definition": "Previsão e possibilidade de evitar o dano mudam a responsabilidade.",
+      "anchors": [
+        "CEC 1736-1737"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-12"
+      ],
+      "source_meetings": [
+        12
+      ]
+    },
+    {
+      "id": "G05",
+      "column": "G",
+      "label": "Ignorância ou recusa",
+      "definition": "Não poder saber difere de recusar o que se deveria saber.",
+      "anchors": [
+        "CEC 1791-1793"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-10",
+        "encontro-12"
+      ],
+      "source_meetings": [
+        10,
+        12
+      ]
+    },
+    {
+      "id": "G06",
+      "column": "G",
+      "label": "Pressão e liberdade",
+      "definition": "A ameaça pode diminuir ou suprimir a responsabilidade.",
+      "anchors": [
+        "CEC 1735"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-11",
+        "encontro-12"
+      ],
+      "source_meetings": [
+        11,
+        12
+      ]
+    },
+    {
+      "id": "G07",
+      "column": "G",
+      "label": "Ato e pessoa",
+      "definition": "Um ato errado não resume toda a pessoa.",
+      "anchors": [
+        "CEC 1848",
+        "CEC 1861"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-12",
+        "encontro-13"
+      ],
+      "source_meetings": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "G08",
+      "column": "G",
+      "label": "Intenção e ação",
+      "definition": "A intenção boa não justifica uma acusação falsa.",
+      "anchors": [
+        "CEC 1750-1753"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-12"
+      ],
+      "source_meetings": [
+        12
+      ]
+    },
+    {
+      "id": "G09",
+      "column": "G",
+      "label": "Dano e culpa",
+      "definition": "A culpa depende também de conhecimento e vontade.",
+      "anchors": [
+        "CEC 1734-1737"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-12"
+      ],
+      "source_meetings": [
+        12
+      ]
+    },
+    {
+      "id": "G10",
+      "column": "G",
+      "label": "Mortal e venial",
+      "definition": "Pecado mortal exige matéria grave, pleno conhecimento e consentimento deliberado.",
+      "anchors": [
+        "CEC 1857-1862"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-12"
+      ],
+      "source_meetings": [
+        12
+      ]
+    },
+    {
+      "id": "G11",
+      "column": "G",
+      "label": "Hábito bom ou vício",
+      "definition": "Virtudes inclinam ao bem; vícios inclinam ao mal.",
+      "anchors": [
+        "CEC 1803",
+        "CEC 1865"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-11",
+        "encontro-13"
+      ],
+      "source_meetings": [
+        11,
+        13
+      ]
+    },
+    {
+      "id": "G12",
+      "column": "G",
+      "label": "Arrepender ou temer",
+      "definition": "Arrepender-se inclui rejeitar o mal, não apenas temer ser descoberto.",
+      "anchors": [
+        "CEC 1451-1453"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-13"
+      ],
+      "source_meetings": [
+        13
+      ]
+    },
+    {
+      "id": "G13",
+      "column": "G",
+      "label": "Perdoar e reparar",
+      "definition": "Reparar o prejuízo não contradiz o perdão.",
+      "anchors": [
+        "CEC 1459"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-12",
+        "encontro-13"
+      ],
+      "source_meetings": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "G14",
+      "column": "G",
+      "label": "Limite ou falta de liberdade",
+      "definition": "Um compromisso bom pode ajudar a governar a própria vontade.",
+      "anchors": [
+        "CEC 1734",
+        "CEC 1809"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-11"
+      ],
+      "source_meetings": [
+        11
+      ]
+    },
+    {
+      "id": "G15",
+      "column": "G",
+      "label": "Graça e esforço",
+      "definition": "Deus age primeiro e sustenta nossa resposta livre.",
+      "anchors": [
+        "CEC 2001-2002"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-13"
+      ],
+      "source_meetings": [
+        13
+      ]
+    },
+    {
+      "id": "O01",
+      "column": "O",
+      "label": "Conferir antes de repassar",
+      "definition": "Proteger os outros exige compromisso com a verdade.",
+      "anchors": [
+        "CEC 1806",
+        "CEC 1788"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-10",
+        "encontro-11"
+      ],
+      "source_meetings": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "O02",
+      "column": "O",
+      "label": "Pedir conselho",
+      "definition": "Bom conselho ajuda a esclarecer a consciência.",
+      "anchors": [
+        "CEC 1787-1788"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-10"
+      ],
+      "source_meetings": [
+        10
+      ]
+    },
+    {
+      "id": "O03",
+      "column": "O",
+      "label": "Rever o dia",
+      "definition": "Exame de consciência é uma revisão sincera diante de Deus.",
+      "anchors": [
+        "CEC 1785",
+        "CEC 1781"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-10"
+      ],
+      "source_meetings": [
+        10
+      ]
+    },
+    {
+      "id": "O04",
+      "column": "O",
+      "label": "Escutar a Palavra",
+      "definition": "A Palavra de Deus forma e corrige nossa consciência.",
+      "anchors": [
+        "CEC 1785",
+        "Jo 8,31-32"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-10",
+        "encontro-13"
+      ],
+      "source_meetings": [
+        10,
+        13
+      ]
+    },
+    {
+      "id": "O05",
+      "column": "O",
+      "label": "Recusar sem ofender",
+      "definition": "Firmeza pode caminhar com respeito.",
+      "anchors": [
+        "CEC 1789",
+        "CEC 1808"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-11"
+      ],
+      "source_meetings": [
+        11
+      ]
+    },
+    {
+      "id": "O06",
+      "column": "O",
+      "label": "Assumir a própria parte",
+      "definition": "Responsabilidade começa pelo que cada um escolheu fazer.",
+      "anchors": [
+        "CEC 1736"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-12"
+      ],
+      "source_meetings": [
+        12
+      ]
+    },
+    {
+      "id": "O07",
+      "column": "O",
+      "label": "Corrigir a informação",
+      "definition": "A reparação deve alcançar quem recebeu a falsidade.",
+      "anchors": [
+        "CEC 1459"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-12"
+      ],
+      "source_meetings": [
+        12
+      ]
+    },
+    {
+      "id": "O08",
+      "column": "O",
+      "label": "Combinar a reparação",
+      "definition": "Reparar exige sinceridade e uma solução possível.",
+      "anchors": [
+        "CEC 1459"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-12",
+        "encontro-13"
+      ],
+      "source_meetings": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "O09",
+      "column": "O",
+      "label": "Buscar ajuda segura",
+      "definition": "Pedir proteção não exige enfrentar o perigo sozinho.",
+      "anchors": [
+        "CEC 1806",
+        "CEC 1808"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-11",
+        "encontro-12"
+      ],
+      "source_meetings": [
+        11,
+        12
+      ]
+    },
+    {
+      "id": "O10",
+      "column": "O",
+      "label": "Procurar a Confissão",
+      "definition": "A Reconciliação oferece o perdão de Cristo ao arrependido.",
+      "anchors": [
+        "CEC 1422-1424"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-13"
+      ],
+      "source_meetings": [
+        13
+      ]
+    },
+    {
+      "id": "O11",
+      "column": "O",
+      "label": "Afastar a ocasião",
+      "definition": "Conhecer a própria dificuldade ajuda a agir antes.",
+      "anchors": [
+        "CEC 1865",
+        "CEC 1734"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-11",
+        "encontro-13"
+      ],
+      "source_meetings": [
+        11,
+        13
+      ]
+    },
+    {
+      "id": "O12",
+      "column": "O",
+      "label": "Rezar e agir",
+      "definition": "A graça fortalece uma resposta livre.",
+      "anchors": [
+        "CEC 1742",
+        "CEC 2001"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-13"
+      ],
+      "source_meetings": [
+        13
+      ]
+    },
+    {
+      "id": "O13",
+      "column": "O",
+      "label": "Escolher um hábito bom",
+      "definition": "Virtudes crescem com prática e perseverança.",
+      "anchors": [
+        "CEC 1803",
+        "CEC 1810"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-11"
+      ],
+      "source_meetings": [
+        11
+      ]
+    },
+    {
+      "id": "O14",
+      "column": "O",
+      "label": "Renunciar por cuidado",
+      "definition": "A caridade pode pedir renúncia a algo permitido.",
+      "anchors": [
+        "1Cor 8,9-13",
+        "CEC 1789"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-10",
+        "encontro-13"
+      ],
+      "source_meetings": [
+        10,
+        13
+      ]
+    },
+    {
+      "id": "O15",
+      "column": "O",
+      "label": "Retomar depois da queda",
+      "definition": "A misericórdia permite retomar o caminho com sinceridade.",
+      "anchors": [
+        "CEC 1847-1848",
+        "CEC 1811"
+      ],
+      "tags": [
+        "bloco-10-13",
+        "encontro-13"
+      ],
+      "source_meetings": [
+        13
+      ]
+    }
+  ],
+  "source_meeting_markdowns": [
+    "projects/catequese/material_didatico/output/markdown/encontro_10.md",
+    "projects/catequese/material_didatico/output/markdown/encontro_11.md",
+    "projects/catequese/material_didatico/output/markdown/encontro_12.md",
+    "projects/catequese/material_didatico/output/markdown/encontro_13.md"
+  ],
+  "edition": "integrado-10-13-v1"
+}

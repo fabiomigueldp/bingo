@@ -1,0 +1,307 @@
+{
+  "title": "Explicações rápidas - Livres para escolher o bem",
+  "meeting": "Encontros 10 a 13 - Consciência, liberdade e responsabilidade",
+  "source_calls": "data/chamadas.json",
+  "entries": [
+    {
+      "id": "B01",
+      "explanation": "Ninguém está cobrando a devolução. A consciência julga nossas ações e nos indica o bem que devemos fazer. A cliente deve avisar o caixa e devolver a diferença."
+    },
+    {
+      "id": "B02",
+      "explanation": "O aluno considerava normal uma prática desonesta. A consciência precisa ser formada e pode corrigir seus julgamentos. O aluno pode aprender com a Palavra de Deus, a Igreja e bons conselhos."
+    },
+    {
+      "id": "B03",
+      "explanation": "O convite é atraente, mas existe um compromisso. O livre-arbítrio é a capacidade de escolher, usando a razão e a vontade. A jovem precisa considerar a promessa e as necessidades da avó."
+    },
+    {
+      "id": "B04",
+      "explanation": "A mensagem pode ser verdadeira ou falsa. A prudência ajuda a reconhecer o bem e escolher os meios para realizá-lo. Conferir a fonte evita espalhar um aviso falso."
+    },
+    {
+      "id": "B05",
+      "explanation": "O pintor cumpriu o acordo e tem direito ao pagamento. A justiça exige dar a cada pessoa o que lhe é devido. O dono da casa deve pagar o valor combinado."
+    },
+    {
+      "id": "B06",
+      "explanation": "A pressão do grupo dificulta fazer o certo. A fortaleza ajuda a permanecer no bem diante das dificuldades. O adolescente pode manter a recusa sem ofender os amigos."
+    },
+    {
+      "id": "B07",
+      "explanation": "Continuar assistindo é agradável, mas prejudicaria o descanso. A temperança ajuda a moderar os desejos e os prazeres. A jovem pode aproveitar o lazer sem deixar de cuidar do descanso."
+    },
+    {
+      "id": "B08",
+      "explanation": "A falta de atenção do ciclista causou um dano. Ser responsável inclui responder pelos próprios atos e suas consequências. É preciso procurar o dono e combinar a reparação."
+    },
+    {
+      "id": "B09",
+      "explanation": "O rapaz procura elogios, não o bem das famílias. A intenção é o objetivo de quem age e também precisa ser boa. É preciso ajudar por cuidado com as pessoas, sem usá-las para se promover."
+    },
+    {
+      "id": "B10",
+      "explanation": "A presença dos filhos pode aumentar a humilhação do vizinho. As circunstâncias podem aumentar ou diminuir a gravidade e a responsabilidade. É preciso considerar quem foi atingido e reparar a ofensa."
+    },
+    {
+      "id": "B11",
+      "explanation": "O medo dificulta uma decisão correta. A graça é a ajuda gratuita de Deus para vivermos no bem. A jovem pode acolher essa ajuda e contar a verdade, mesmo com medo."
+    },
+    {
+      "id": "B12",
+      "explanation": "Mesmo depois do Batismo, podemos sentir tentações. No Batismo, recebemos a vida nova de Deus e nos tornamos seus filhos adotivos. Essa vida cresce com a oração, os sacramentos e a prática do bem."
+    },
+    {
+      "id": "B13",
+      "explanation": "A vergonha pode dificultar o pedido de perdão. Na Reconciliação, Cristo perdoa os pecados pela absolvição do sacerdote. O jovem pode confessar com sinceridade e combinar a devolução do dinheiro."
+    },
+    {
+      "id": "B14",
+      "explanation": "A jovem tem uma oportunidade de cuidar do avô. Na Eucaristia, recebemos Cristo, que nos une a Ele e fortalece a caridade. A Comunhão chama a jovem a viver esse amor também no cuidado com o avô."
+    },
+    {
+      "id": "B15",
+      "explanation": "A visita procura o bem da tia. Jesus nos chama a amar o próximo, procurando o seu bem. Oferecer companhia é uma maneira concreta de viver esse amor."
+    },
+    {
+      "id": "I01",
+      "explanation": "O cliente fica com um dinheiro que não lhe pertence. O erro do caixa não dá direito à quantia recebida a mais. É preciso devolver a diferença."
+    },
+    {
+      "id": "I02",
+      "explanation": "A mensagem pode prejudicar a reputação do vizinho. Querer alertar não justifica divulgar uma acusação sem verificar. A moradora deve esclarecer no grupo que repassou uma acusação sem confirmação."
+    },
+    {
+      "id": "I03",
+      "explanation": "O medo de perder os amigos pesa na decisão. A pressão pode dificultar a escolha, mas não torna a humilhação correta. É possível recusar a zombaria e buscar apoio se a pressão continuar."
+    },
+    {
+      "id": "I04",
+      "explanation": "Quebrar o vidro não era o objetivo, mas o risco era conhecido. Podemos responder por um dano que era possível prever e evitar. O menino precisa admitir o descuido e ajudar a reparar o dano."
+    },
+    {
+      "id": "I05",
+      "explanation": "O irmão depende do compromisso assumido. A vontade de continuar a conversa não elimina essa responsabilidade. A jovem deve buscar o irmão; se houver um impedimento, precisa avisar a família."
+    },
+    {
+      "id": "I06",
+      "explanation": "A passageira percebe uma necessidade e deixa a ajuda para depois. Também podemos errar ao deixar de fazer um bem que nos cabe. Avisar o motorista permite que a senhora receba ajuda."
+    },
+    {
+      "id": "I07",
+      "explanation": "Para esconder o dano, o adolescente sustenta uma mentira com outra. Mentir para esconder um erro aumenta o problema e prejudica a confiança. Contar a verdade interrompe a sequência de mentiras."
+    },
+    {
+      "id": "I08",
+      "explanation": "A ajuda está sendo usada para cobrar uma mentira. Receber um favor não obriga ninguém a fazer algo errado. A amiga pode agradecer o empréstimo e recusar a mentira."
+    },
+    {
+      "id": "I09",
+      "explanation": "O emprego está sendo usado como pressão. O medo pode diminuir a responsabilidade, mas enganar o cliente continua errado. O funcionário deve buscar uma forma segura de recusar e pedir orientação."
+    },
+    {
+      "id": "I10",
+      "explanation": "O jogo ocupou o tempo necessário para descansar. Nossas escolhas anteriores podem prejudicar os compromissos do dia seguinte. O adolescente precisa assumir a falta e combinar um horário para encerrar o jogo."
+    },
+    {
+      "id": "I11",
+      "explanation": "O silêncio deixa outra pessoa receber a culpa. Esconder a própria falta à custa de um inocente é injusto. A menina deve contar o que aconteceu e livrar o irmão da acusação."
+    },
+    {
+      "id": "I12",
+      "explanation": "A recaída trouxe desânimo e vergonha. A misericórdia de Deus continua chamando ao arrependimento. A jovem pode voltar à Confissão com arrependimento e buscar ajuda para mudar."
+    },
+    {
+      "id": "I13",
+      "explanation": "O rapaz usa o pedido de desculpas para evitar a conversa sobre a mudança. Arrepender-se inclui querer abandonar o erro. O rapaz precisa parar com as ofensas e aprender a conversar com respeito."
+    },
+    {
+      "id": "I14",
+      "explanation": "O funcionário incentiva outra pessoa a enganar. O mau exemplo pode levar o próximo ao pecado. O colega novo deve recusar a fraude; quem a ensinou precisa corrigir a orientação."
+    },
+    {
+      "id": "I15",
+      "explanation": "A neta percebe o trabalho que ficou para a avó. O valor do serviço não depende de elogios. Dividir a tarefa é uma forma concreta de cuidar."
+    },
+    {
+      "id": "N01",
+      "explanation": "O aluno usa o comportamento dos outros como desculpa. Uma prática não se torna correta por ser comum. O aluno deve fazer a prova com honestidade, mesmo que outros colem."
+    },
+    {
+      "id": "N02",
+      "explanation": "A raiva foi usada para justificar a humilhação. Sentir raiva não dá direito de ferir outra pessoa. A jovem precisa retirar a ofensa, pedir desculpas e conversar com calma."
+    },
+    {
+      "id": "N03",
+      "explanation": "O rapaz espera esconder o furto porque a quantia é pequena. O dinheiro continua pertencendo à irmã, mesmo sem ninguém notar. É preciso devolver e assumir o que fez."
+    },
+    {
+      "id": "N04",
+      "explanation": "A intenção de ajudar veio acompanhada de uma mentira. Uma boa finalidade não torna correto um meio desonesto. A voluntária pode pedir doações explicando a necessidade real da reforma."
+    },
+    {
+      "id": "N05",
+      "explanation": "A ordem recebida foi uma ordem para mentir. Obedecer não torna correta uma ação errada. O caçula pode recusar a mentira e contar o que sabe."
+    },
+    {
+      "id": "N06",
+      "explanation": "O pai trata um costume ruim como se fosse inevitável. Hábitos podem ser difíceis de mudar, mas isso não dispensa o esforço. O pai pode buscar ajuda e aprender a conversar sem gritar."
+    },
+    {
+      "id": "N07",
+      "explanation": "O perdão está sendo usado como desculpa para planejar o pecado. A Confissão pede arrependimento e propósito de mudança. O adolescente precisa desistir do furto, em vez de planejar o pecado e o perdão."
+    },
+    {
+      "id": "N08",
+      "explanation": "A aluna não começou a ofensa, mas ajuda a mantê-la. Repetir uma humilhação também é participar dela. É preciso parar de usar o apelido e tratar a colega com respeito."
+    },
+    {
+      "id": "N09",
+      "explanation": "O visitante pode evitar um prejuízo com uma ação simples. Não ser dono do lugar não elimina todo dever de cuidado. Fechar a torneira e avisar alguém é uma ajuda possível."
+    },
+    {
+      "id": "N10",
+      "explanation": "O resultado desejado foi evitar a discussão. Uma consequência agradável não torna a mentira correta. O aluno precisa mostrar a nota verdadeira e conversar sobre a dificuldade."
+    },
+    {
+      "id": "N11",
+      "explanation": "A escolha do morador impede o descanso dos vizinhos. A liberdade deve respeitar o bem e os direitos dos outros. Diminuir o volume é respeitar quem precisa dormir."
+    },
+    {
+      "id": "N12",
+      "explanation": "O vendedor evita confirmar um problema que já suspeita existir. Recusar uma informação necessária não serve de desculpa. É preciso conferir o freio e informar o comprador."
+    },
+    {
+      "id": "N13",
+      "explanation": "A perda de confiança faz a jovem pensar em desistir. O erro não elimina a possibilidade de conversão. Dizer a verdade com constância pode ajudar a recuperar a confiança, mesmo levando tempo."
+    },
+    {
+      "id": "N14",
+      "explanation": "O perdão não devolveu o dinheiro retirado. Ser perdoado não elimina o dever de reparar o dano possível. O rapaz precisa devolver ou combinar como fará a devolução."
+    },
+    {
+      "id": "N15",
+      "explanation": "A oração está sendo separada da disposição de mudar. A graça de Deus pede nossa resposta livre. A jovem pode rezar e aprender a interromper a conversa antes de ofender."
+    },
+    {
+      "id": "G01",
+      "explanation": "O impulso de ofender apareceu, mas não foi aceito. Sentir uma tentação não é o mesmo que escolher ceder a ela. O rapaz pode esperar se acalmar e retomar a conversa sem insultos."
+    },
+    {
+      "id": "G02",
+      "explanation": "A certeza inicial estava errada. Estar convencido de algo não garante que seja verdade. Conferir os fatos evita uma acusação injusta."
+    },
+    {
+      "id": "G03",
+      "explanation": "A vontade de jogar leva o jovem a procurar uma desculpa. A consciência julga o que devemos fazer, não apenas o que desejamos. O jovem precisa avaliar honestamente o compromisso, sem decidir só pelo desejo."
+    },
+    {
+      "id": "G04",
+      "explanation": "As duas bolas estragaram em condições diferentes. Um acidente imprevisível não é igual a ignorar um risco conhecido. No segundo caso, mudar o local do jogo poderia evitar o dano."
+    },
+    {
+      "id": "G05",
+      "explanation": "Uma cozinheira não recebeu o aviso; a outra decidiu ignorá-lo. Nem toda falta de conhecimento tem a mesma responsabilidade. Devemos buscar as informações necessárias para cuidar de quem depende de nós."
+    },
+    {
+      "id": "G06",
+      "explanation": "Os dois mentem, mas a ameaça limita a liberdade de um deles. O medo pode diminuir ou até eliminar a culpa, sem tornar correta a mentira. O aluno ameaçado precisa de proteção para poder contar o que aconteceu."
+    },
+    {
+      "id": "G07",
+      "explanation": "A reprovação da mentira virou uma condenação da pessoa. Podemos reconhecer uma ação errada sem negar a dignidade de quem errou. O pai deve corrigir a mentira e ajudar o filho a mudar."
+    },
+    {
+      "id": "G08",
+      "explanation": "A intenção é proteger a amiga, mas a ação prejudica outra pessoa. É preciso avaliar tanto o objetivo quanto a ação escolhida para alcançá-lo. A jovem precisa dizer a verdade sem transferir a culpa."
+    },
+    {
+      "id": "G09",
+      "explanation": "O prejuízo pode ser parecido, mas as escolhas foram diferentes. A responsabilidade depende também do conhecimento e da liberdade. Antes de atribuir culpa, é preciso entender como o dano aconteceu."
+    },
+    {
+      "id": "G10",
+      "explanation": "Todo pecado fere o amor, mas nem todos têm a mesma gravidade. O mortal exige algo grave, saber que é grave e escolher fazê-lo livremente. O venial envolve matéria leve ou falta de pleno conhecimento ou consentimento em matéria grave."
+    },
+    {
+      "id": "G11",
+      "explanation": "A repetição fortalece modos diferentes de agir. Praticar o bem forma virtudes; repetir escolhas más favorece os vícios. Praticar a honestidade ajuda a escolher o bem com mais firmeza."
+    },
+    {
+      "id": "G12",
+      "explanation": "O cliente evita ser descoberto, mas continua aprovando o furto. Arrepender-se é reconhecer o pecado e querer abandoná-lo. Além de devolver, o cliente precisa rejeitar o furto e decidir não repeti-lo."
+    },
+    {
+      "id": "G13",
+      "explanation": "A reconciliação não consertou o livro. Perdoar e reparar são coisas diferentes que podem andar juntas. Quem estragou o livro deve combinar como consertá-lo ou substituí-lo."
+    },
+    {
+      "id": "G14",
+      "explanation": "O limite ajuda a cumprir uma decisão importante. Ser livre inclui governar os próprios desejos. Organizar o tempo pode fortalecer a liberdade, em vez de diminuí-la."
+    },
+    {
+      "id": "G15",
+      "explanation": "As duas opiniões separam a ajuda de Deus da resposta humana. Deus nos oferece sua graça e nos chama a responder livremente. O jovem pode rezar, contar a verdade e corrigir as mentiras."
+    },
+    {
+      "id": "O01",
+      "explanation": "Faltam informações para saber se a acusação é verdadeira. Antes de repassar, é preciso conferir a origem e os fatos. A moradora deve buscar informação confiável e evitar espalhar a acusação."
+    },
+    {
+      "id": "O02",
+      "explanation": "O pedido de segredo e de dados pessoais exige cuidado. Pedir conselho ajuda a avaliar algo que não entendemos bem. Antes de enviar dados ou combinar a venda, o adolescente deve procurar um adulto de confiança."
+    },
+    {
+      "id": "O03",
+      "explanation": "O dia teve atitudes boas e atitudes que precisam mudar. Rever as próprias ações ajuda a formar a consciência. A jovem pode agradecer a Deus pelo bem e pedir perdão à mãe pela grosseria."
+    },
+    {
+      "id": "O04",
+      "explanation": "A Palavra de Deus ilumina uma dificuldade concreta. A Palavra de Deus ajuda a formar a consciência e orientar nossas escolhas. O jovem pode reconhecer sua parte na briga e procurar a paz."
+    },
+    {
+      "id": "O05",
+      "explanation": "A amizade está sendo usada para pedir uma mentira. Recusar o erro não exige humilhar quem fez o pedido. A amiga pode dizer: “Não vou mentir. Posso ajudar você a conversar com a professora”."
+    },
+    {
+      "id": "O06",
+      "explanation": "O irmão conta só uma parte da discussão para parecer inocente. Assumir a própria parte não significa aceitar toda a culpa. O irmão deve contar também o que fez e pedir perdão por isso."
+    },
+    {
+      "id": "O07",
+      "explanation": "Apagar a mensagem não desfaz o que os outros acreditaram. É preciso corrigir a acusação diante de quem recebeu a informação falsa. A jovem deve esclarecer o engano no grupo e pedir desculpas ao colega."
+    },
+    {
+      "id": "O08",
+      "explanation": "O dano existe, mesmo com a dificuldade de pagar. Reparar pede um compromisso possível e sincero. O rapaz pode explicar o ocorrido e combinar o conserto ou o pagamento em partes."
+    },
+    {
+      "id": "O09",
+      "explanation": "A ameaça dificulta pedir ajuda. Ninguém precisa enfrentar sozinho uma situação de intimidação. O adolescente deve mostrar as mensagens a um adulto de confiança e pedir proteção."
+    },
+    {
+      "id": "O10",
+      "explanation": "A intenção de procurar o sacramento precisa de um passo concreto. Na Confissão, buscamos o perdão de Deus com arrependimento. O jovem pode consultar os horários e preparar-se para confessar com sinceridade."
+    },
+    {
+      "id": "O11",
+      "explanation": "A participação no grupo facilita a repetição da ofensa. Evitar uma ocasião de pecado ajuda a sustentar a decisão de mudar. A jovem pode sair do grupo e deixar de alimentar as ofensas."
+    },
+    {
+      "id": "O12",
+      "explanation": "A oração vem acompanhada de uma atitude concreta. A ajuda de Deus fortalece nossa liberdade e pede nossa colaboração. O pai pode se acalmar e retomar a conversa com respeito."
+    },
+    {
+      "id": "O13",
+      "explanation": "A jovem escolhe uma prática simples para cumprir os compromissos. Um bom hábito cresce pela repetição de pequenas ações. Anotar e conferir pode ajudar a desenvolver responsabilidade."
+    },
+    {
+      "id": "O14",
+      "explanation": "O anfitrião quer apoiar o amigo na decisão de não beber. A caridade pode pedir que renunciemos a algo permitido para cuidar do próximo. Servir bebidas sem álcool é uma forma discreta de acolher e apoiar."
+    },
+    {
+      "id": "O15",
+      "explanation": "A recaída precisa ser reconhecida sem levar à desistência. Uma recaída não impede o recomeço, mas pede arrependimento e mudança. A jovem pode pedir perdão, reparar a ofensa e retomar o esforço com a ajuda de Deus."
+    }
+  ]
+}

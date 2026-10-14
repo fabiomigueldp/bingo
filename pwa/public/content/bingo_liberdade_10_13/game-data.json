@@ -594,8 +594,8 @@
   },
   "sourceHashes": {
     "termos.json": "e30033d99b59149c3680d32e9891ab6590c8d14ce344367c3bfb8ede92eb5d3b",
-    "chamadas.json": "a552dcce428f6ba65562f858b03a0bfbf2af7dec568fb0253ad9a3338e17c02b",
-    "explicacoes.json": "44610752257e9a51938d64ebab46cb8e2718ad7f7f7db1ab14b594d7723a4a04"
+    "chamadas.json": "8d8c9fbf72c84aa58a7cc31f4a520e69f74d01b5e6773d3e3127cee982fff741",
+    "explicacoes.json": "3a1bbcc6066b4b5bf85d7d2a6ee6556b2c26df5166a2d78a168b9040d88b20f0"
   },
   "teachingMaterial": {
     "title": "Consciência, liberdade e responsabilidade",
@@ -2073,11 +2073,11 @@
       "column": "B",
       "columnTitle": "Base moral",
       "definition": "A consciência julga o que é justo fazer.",
-      "case": "Uma cliente recebe troco a mais. O caixa não percebe, mas a cliente reconhece que precisa devolver o dinheiro.",
+      "case": "Um rapaz encontra um celular no banco do ônibus. Ninguém vê, mas percebe que ficar com o aparelho seria errado.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "Ninguém está cobrando a devolução."
+          "body": "Encontrar o celular não torna o rapaz dono do aparelho."
         },
         {
           "title": "Critério",
@@ -2085,7 +2085,7 @@
         },
         {
           "title": "Resposta",
-          "body": "A cliente deve avisar o caixa e devolver a diferença."
+          "body": "O rapaz deve buscar um meio de devolver o celular ao dono."
         }
       ],
       "conferenceQuestion": "O que a consciência ajuda a reconhecer nessa situação?",
@@ -2093,7 +2093,7 @@
         "CEC 1778"
       ],
       "facilitatorNote": "A consciência julga também quando ninguém está olhando.",
-      "explanation": "Ninguém está cobrando a devolução. A consciência julga nossas ações e nos indica o bem que devemos fazer. A cliente deve avisar o caixa e devolver a diferença."
+      "explanation": "Encontrar o celular não torna o rapaz dono do aparelho. A consciência julga nossas ações e nos indica o bem que devemos fazer. O rapaz deve buscar um meio de devolver o celular ao dono."
     },
     {
       "id": "B02",
@@ -2503,7 +2503,7 @@
         },
         {
           "title": "Critério",
-          "body": "Jesus nos chama a amar o próximo, procurando o seu bem."
+          "body": "Jesus nos chama a amar, com a ajuda do Espírito Santo."
         },
         {
           "title": "Resposta",
@@ -2517,7 +2517,7 @@
         "Gl 5,13"
       ],
       "facilitatorNote": "Amar envolve atenção às necessidades concretas do outro.",
-      "explanation": "A visita procura o bem da tia. Jesus nos chama a amar o próximo, procurando o seu bem. Oferecer companhia é uma maneira concreta de viver esse amor."
+      "explanation": "A visita procura o bem da tia. Jesus nos chama a amar, com a ajuda do Espírito Santo. Oferecer companhia é uma maneira concreta de viver esse amor."
     },
     {
       "id": "I01",
@@ -2815,7 +2815,7 @@
         },
         {
           "title": "Resposta",
-          "body": "O adolescente precisa assumir a falta e combinar um horário para encerrar o jogo."
+          "body": "O adolescente precisa reconhecer a falta e limitar o jogo para cumprir os próximos compromissos."
         }
       ],
       "conferenceQuestion": "Em que momento o adolescente poderia ter evitado o problema?",
@@ -2824,7 +2824,7 @@
         "CEC 1809"
       ],
       "facilitatorNote": "Não diagnosticar dependência apenas por esta cena.",
-      "explanation": "O jogo ocupou o tempo necessário para descansar. Nossas escolhas anteriores podem prejudicar os compromissos do dia seguinte. O adolescente precisa assumir a falta e combinar um horário para encerrar o jogo."
+      "explanation": "O jogo ocupou o tempo necessário para descansar. Nossas escolhas anteriores podem prejudicar os compromissos do dia seguinte. O adolescente precisa reconhecer a falta e limitar o jogo para cumprir os próximos compromissos."
     },
     {
       "id": "I11",
@@ -2842,7 +2842,7 @@
         },
         {
           "title": "Critério",
-          "body": "Esconder a própria falta à custa de um inocente é injusto."
+          "body": "Evitar uma bronca não justifica deixar uma pessoa inocente receber a culpa."
         },
         {
           "title": "Resposta",
@@ -2854,8 +2854,8 @@
         "CEC 1736",
         "CEC 1868"
       ],
-      "facilitatorNote": "Quebrar o copo pode ser um acidente; culpar o inocente é outra questão.",
-      "explanation": "O silêncio deixa outra pessoa receber a culpa. Esconder a própria falta à custa de um inocente é injusto. A menina deve contar o que aconteceu e livrar o irmão da acusação."
+      "facilitatorNote": "Mesmo se o copo quebrou por acidente, manter a acusação é injusto.",
+      "explanation": "O silêncio deixa outra pessoa receber a culpa. Evitar uma bronca não justifica deixar uma pessoa inocente receber a culpa. A menina deve contar o que aconteceu e livrar o irmão da acusação."
     },
     {
       "id": "I12",
@@ -3119,7 +3119,7 @@
         },
         {
           "title": "Resposta",
-          "body": "O caçula pode recusar a mentira e contar o que sabe."
+          "body": "O irmão mais novo precisa corrigir a mentira e recusar novas ordens desse tipo."
         }
       ],
       "conferenceQuestion": "Por que receber uma ordem não torna a mentira correta?",
@@ -3127,7 +3127,7 @@
         "CEC 1734-1735"
       ],
       "facilitatorNote": "Uma ordem errada e a pressão para obedecer são questões distintas.",
-      "explanation": "A ordem recebida foi uma ordem para mentir. Obedecer não torna correta uma ação errada. O caçula pode recusar a mentira e contar o que sabe."
+      "explanation": "A ordem recebida foi uma ordem para mentir. Obedecer não torna correta uma ação errada. O irmão mais novo precisa corrigir a mentira e recusar novas ordens desse tipo."
     },
     {
       "id": "N06",
@@ -3180,7 +3180,7 @@
         },
         {
           "title": "Resposta",
-          "body": "O adolescente precisa desistir do furto, em vez de planejar o pecado e o perdão."
+          "body": "O adolescente deve desistir de pegar o dinheiro; o perdão não é uma licença para furtar."
         }
       ],
       "conferenceQuestion": "Por que planejar o erro contradiz o arrependimento?",
@@ -3189,7 +3189,7 @@
         "CEC 1451"
       ],
       "facilitatorNote": "A Confissão não é autorização antecipada.",
-      "explanation": "O perdão está sendo usado como desculpa para planejar o pecado. A Confissão pede arrependimento e propósito de mudança. O adolescente precisa desistir do furto, em vez de planejar o pecado e o perdão."
+      "explanation": "O perdão está sendo usado como desculpa para planejar o pecado. A Confissão pede arrependimento e propósito de mudança. O adolescente deve desistir de pegar o dinheiro; o perdão não é uma licença para furtar."
     },
     {
       "id": "N08",
@@ -3471,27 +3471,27 @@
       "column": "G",
       "columnTitle": "Discernimentos",
       "definition": "Certeza pessoal não garante que o juízo esteja correto.",
-      "case": "Uma menina tem certeza de que o irmão pegou seu dinheiro. Antes de acusá-lo, encontra a nota dentro do próprio caderno.",
+      "case": "Um aluno acha justo colar porque o professor cobrou um assunto difícil. Está convencido de que a dificuldade da prova lhe dá esse direito.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "A certeza inicial estava errada."
+          "body": "O aluno usa a dificuldade da prova para justificar a cola."
         },
         {
           "title": "Critério",
-          "body": "Estar convencido de algo não garante que seja verdade."
+          "body": "A consciência pode se enganar, mesmo quando a pessoa está convencida."
         },
         {
           "title": "Resposta",
-          "body": "Conferir os fatos evita uma acusação injusta."
+          "body": "O aluno pode questionar a prova com respeito, mas precisa agir com honestidade."
         }
       ],
-      "conferenceQuestion": "O que esse caso ensina sobre ter certeza?",
+      "conferenceQuestion": "Por que a convicção do aluno não torna correta a decisão de colar?",
       "anchors": [
         "CEC 1790-1793"
       ],
-      "facilitatorNote": "A consciência também pode errar e precisa buscar a verdade.",
-      "explanation": "A certeza inicial estava errada. Estar convencido de algo não garante que seja verdade. Conferir os fatos evita uma acusação injusta."
+      "facilitatorNote": "É preciso formar a consciência e corrigir seus julgamentos errados.",
+      "explanation": "O aluno usa a dificuldade da prova para justificar a cola. A consciência pode se enganar, mesmo quando a pessoa está convencida. O aluno pode questionar a prova com respeito, mas precisa agir com honestidade."
     },
     {
       "id": "G03",
@@ -3561,27 +3561,27 @@
       "column": "G",
       "columnTitle": "Discernimentos",
       "definition": "Não poder saber difere de recusar o que se deveria saber.",
-      "case": "Uma cozinheira não foi avisada da alergia de um convidado. Outra recebeu a lista de alergias, mas decidiu não ler antes de preparar a comida.",
+      "case": "Uma cozinheira recebe uma lista de alergias incompleta, sem saber da falha. Outra recebe a lista correta, mas decide não ler antes de preparar a comida.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "Uma cozinheira não recebeu o aviso; a outra decidiu ignorá-lo."
+          "body": "Uma recebeu informação incompleta; a outra ignorou uma informação disponível."
         },
         {
           "title": "Critério",
-          "body": "Nem toda falta de conhecimento tem a mesma responsabilidade."
+          "body": "Não conseguir saber é diferente de evitar aquilo que precisamos saber."
         },
         {
           "title": "Resposta",
-          "body": "Devemos buscar as informações necessárias para cuidar de quem depende de nós."
+          "body": "É preciso buscar e usar as informações necessárias antes de preparar a refeição."
         }
       ],
-      "conferenceQuestion": "Qual é a diferença entre não receber a lista e decidir não ler?",
+      "conferenceQuestion": "Que diferença existe entre confiar numa lista incompleta e decidir nem ler a lista?",
       "anchors": [
         "CEC 1791-1793"
       ],
       "facilitatorNote": "Verificar se havia condições razoáveis de saber.",
-      "explanation": "Uma cozinheira não recebeu o aviso; a outra decidiu ignorá-lo. Nem toda falta de conhecimento tem a mesma responsabilidade. Devemos buscar as informações necessárias para cuidar de quem depende de nós."
+      "explanation": "Uma recebeu informação incompleta; a outra ignorou uma informação disponível. Não conseguir saber é diferente de evitar aquilo que precisamos saber. É preciso buscar e usar as informações necessárias antes de preparar a refeição."
     },
     {
       "id": "G06",
@@ -3652,11 +3652,11 @@
       "column": "G",
       "columnTitle": "Discernimentos",
       "definition": "A intenção boa não justifica uma acusação falsa.",
-      "case": "Para proteger uma amiga que quebrou o celular de uma colega, uma jovem acusa uma aluna inocente.",
+      "case": "Para livrar a irmã de uma bronca, um rapaz acusa o primo de quebrar a janela, embora saiba que foi a irmã quem quebrou.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "A intenção é proteger a amiga, mas a ação prejudica outra pessoa."
+          "body": "O rapaz quer proteger a irmã, mas acusa o primo inocente."
         },
         {
           "title": "Critério",
@@ -3664,15 +3664,15 @@
         },
         {
           "title": "Resposta",
-          "body": "A jovem precisa dizer a verdade sem transferir a culpa."
+          "body": "O rapaz precisa contar a verdade e corrigir a acusação contra o primo."
         }
       ],
-      "conferenceQuestion": "Qual é o objetivo da jovem, e que ação escolheu para alcançá-lo?",
+      "conferenceQuestion": "O que o rapaz quer conseguir, e por que o modo escolhido é errado?",
       "anchors": [
         "CEC 1750-1753"
       ],
-      "facilitatorNote": "Querer ajudar uma amiga não justifica acusar uma inocente.",
-      "explanation": "A intenção é proteger a amiga, mas a ação prejudica outra pessoa. É preciso avaliar tanto o objetivo quanto a ação escolhida para alcançá-lo. A jovem precisa dizer a verdade sem transferir a culpa."
+      "facilitatorNote": "Querer proteger a irmã não justifica acusar uma pessoa inocente.",
+      "explanation": "O rapaz quer proteger a irmã, mas acusa o primo inocente. É preciso avaliar tanto o objetivo quanto a ação escolhida para alcançá-lo. O rapaz precisa contar a verdade e corrigir a acusação contra o primo."
     },
     {
       "id": "G09",
@@ -3712,27 +3712,27 @@
       "column": "G",
       "columnTitle": "Discernimentos",
       "definition": "Pecado mortal exige matéria grave, pleno conhecimento e consentimento deliberado.",
-      "case": "Ao se preparar para a Confissão, um jovem pergunta se todo pecado tem a mesma gravidade.",
+      "case": "Um rapaz rouba o dinheiro do aluguel da mãe. Sabe que é uma falta grave e, mesmo podendo desistir, decide ficar com o dinheiro.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "Todo pecado fere o amor, mas nem todos têm a mesma gravidade."
+          "body": "O caso reúne uma ação grave, o conhecimento dessa gravidade e uma escolha deliberada."
         },
         {
           "title": "Critério",
-          "body": "O mortal exige algo grave, saber que é grave e escolher fazê-lo livremente."
+          "body": "O pecado mortal exige essas três condições juntas e rompe a amizade com Deus."
         },
         {
           "title": "Resposta",
           "body": "O venial envolve matéria leve ou falta de pleno conhecimento ou consentimento em matéria grave."
         }
       ],
-      "conferenceQuestion": "Quais três condições precisam estar juntas para um pecado ser mortal?",
+      "conferenceQuestion": "Quais detalhes do caso mostram as três condições do pecado mortal?",
       "anchors": [
-        "CEC 1857-1862"
+        "CEC 1857-1863"
       ],
       "facilitatorNote": "Sem escolha voluntária, pode não haver pecado, nem mesmo venial.",
-      "explanation": "Todo pecado fere o amor, mas nem todos têm a mesma gravidade. O mortal exige algo grave, saber que é grave e escolher fazê-lo livremente. O venial envolve matéria leve ou falta de pleno conhecimento ou consentimento em matéria grave."
+      "explanation": "O caso reúne uma ação grave, o conhecimento dessa gravidade e uma escolha deliberada. O pecado mortal exige essas três condições juntas e rompe a amizade com Deus. O venial envolve matéria leve ou falta de pleno conhecimento ou consentimento em matéria grave."
     },
     {
       "id": "G11",
@@ -3925,27 +3925,27 @@
       "column": "O",
       "columnTitle": "Orientações de resposta",
       "definition": "Bom conselho ajuda a esclarecer a consciência.",
-      "case": "Um adolescente quer vender um videogame pela internet. Um interessado pede dados pessoais e insiste em conversar sem os pais. O adolescente fica em dúvida.",
+      "case": "Uma jovem descobre que uma amiga está sendo humilhada por colegas. Prometeu guardar segredo, mas teme que o silêncio deixe a amiga sem ajuda.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "O pedido de segredo e de dados pessoais exige cuidado."
+          "body": "A jovem quer respeitar a amiga e evitar que as humilhações continuem."
         },
         {
           "title": "Critério",
-          "body": "Pedir conselho ajuda a avaliar algo que não entendemos bem."
+          "body": "Um bom conselho ajuda a reconhecer o dever e escolher como agir."
         },
         {
           "title": "Resposta",
-          "body": "Antes de enviar dados ou combinar a venda, o adolescente deve procurar um adulto de confiança."
+          "body": "A jovem pode procurar um adulto de confiança e pedir orientação sobre como ajudar a amiga."
         }
       ],
-      "conferenceQuestion": "Por que é importante pedir orientação antes de continuar a conversa?",
+      "conferenceQuestion": "Como pedir conselho pode ajudar a cuidar da amiga sem espalhar o caso?",
       "anchors": [
         "CEC 1787-1788"
       ],
       "facilitatorNote": "Um bom conselho ajuda a avaliar, mesmo quando contraria nossa vontade.",
-      "explanation": "O pedido de segredo e de dados pessoais exige cuidado. Pedir conselho ajuda a avaliar algo que não entendemos bem. Antes de enviar dados ou combinar a venda, o adolescente deve procurar um adulto de confiança."
+      "explanation": "A jovem quer respeitar a amiga e evitar que as humilhações continuem. Um bom conselho ajuda a reconhecer o dever e escolher como agir. A jovem pode procurar um adulto de confiança e pedir orientação sobre como ajudar a amiga."
     },
     {
       "id": "O03",
@@ -3963,7 +3963,7 @@
         },
         {
           "title": "Critério",
-          "body": "Rever as próprias ações ajuda a formar a consciência."
+          "body": "O exame de consciência é uma revisão das próprias escolhas diante de Deus."
         },
         {
           "title": "Resposta",
@@ -3976,7 +3976,7 @@
         "CEC 1781"
       ],
       "facilitatorNote": "Rever o dia inclui reconhecer o bem, não apenas procurar falhas.",
-      "explanation": "O dia teve atitudes boas e atitudes que precisam mudar. Rever as próprias ações ajuda a formar a consciência. A jovem pode agradecer a Deus pelo bem e pedir perdão à mãe pela grosseria."
+      "explanation": "O dia teve atitudes boas e atitudes que precisam mudar. O exame de consciência é uma revisão das próprias escolhas diante de Deus. A jovem pode agradecer a Deus pelo bem e pedir perdão à mãe pela grosseria."
     },
     {
       "id": "O04",
@@ -3990,7 +3990,7 @@
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "A Palavra de Deus ilumina uma dificuldade concreta."
+          "body": "O jovem percebe que o chamado ao perdão vale também para aquela briga."
         },
         {
           "title": "Critério",
@@ -3998,7 +3998,7 @@
         },
         {
           "title": "Resposta",
-          "body": "O jovem pode reconhecer sua parte na briga e procurar a paz."
+          "body": "O jovem pode pedir desculpas pela própria ofensa e tentar conversar com o irmão."
         }
       ],
       "conferenceQuestion": "Como passar da escuta do Evangelho a uma atitude concreta?",
@@ -4007,7 +4007,7 @@
         "Jo 8,31-32"
       ],
       "facilitatorNote": "Aplicar a Palavra à própria conduta, não só à do irmão.",
-      "explanation": "A Palavra de Deus ilumina uma dificuldade concreta. A Palavra de Deus ajuda a formar a consciência e orientar nossas escolhas. O jovem pode reconhecer sua parte na briga e procurar a paz."
+      "explanation": "O jovem percebe que o chamado ao perdão vale também para aquela briga. A Palavra de Deus ajuda a formar a consciência e orientar nossas escolhas. O jovem pode pedir desculpas pela própria ofensa e tentar conversar com o irmão."
     },
     {
       "id": "O05",
@@ -4063,7 +4063,7 @@
           "body": "O irmão deve contar também o que fez e pedir perdão por isso."
         }
       ],
-      "conferenceQuestion": "Como reconhecer a própria falta sem encobrir a falta do outro?",
+      "conferenceQuestion": "O que o irmão precisa acrescentar ao relato para assumir a própria parte?",
       "anchors": [
         "CEC 1736"
       ],
@@ -4078,11 +4078,11 @@
       "column": "O",
       "columnTitle": "Orientações de resposta",
       "definition": "A reparação deve alcançar quem recebeu a falsidade.",
-      "case": "Uma jovem acusa um colega no grupo de mensagens. Depois descobre que a informação era falsa e apaga a publicação, mas várias pessoas já leram.",
+      "case": "Uma moradora avisa no grupo que uma loja vendeu um produto vencido. Depois percebe que leu a data errada e apaga a mensagem.",
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "Apagar a mensagem não desfaz o que os outros acreditaram."
+          "body": "Apagar o aviso não esclarece o engano para quem já leu."
         },
         {
           "title": "Critério",
@@ -4090,7 +4090,7 @@
         },
         {
           "title": "Resposta",
-          "body": "A jovem deve esclarecer o engano no grupo e pedir desculpas ao colega."
+          "body": "A moradora deve explicar o engano no grupo e se desculpar com a loja."
         }
       ],
       "conferenceQuestion": "Por que apagar a mensagem não basta?",
@@ -4098,7 +4098,7 @@
         "CEC 1459"
       ],
       "facilitatorNote": "Corrigir diante de quem recebeu a informação.",
-      "explanation": "Apagar a mensagem não desfaz o que os outros acreditaram. É preciso corrigir a acusação diante de quem recebeu a informação falsa. A jovem deve esclarecer o engano no grupo e pedir desculpas ao colega."
+      "explanation": "Apagar o aviso não esclarece o engano para quem já leu. É preciso corrigir a acusação diante de quem recebeu a informação falsa. A moradora deve explicar o engano no grupo e se desculpar com a loja."
     },
     {
       "id": "O08",
@@ -4108,7 +4108,7 @@
       "column": "O",
       "columnTitle": "Orientações de resposta",
       "definition": "Reparar exige sinceridade e uma solução possível.",
-      "case": "Um rapaz derruba o violão que pegou emprestado e quebra o braço do instrumento. Quer reparar o dano, mas não consegue pagar tudo de uma vez.",
+      "case": "Um rapaz apoia o violão emprestado num lugar instável. O instrumento cai e quebra. O rapaz quer reparar, mas não consegue pagar tudo de uma vez.",
       "readingPoints": [
         {
           "title": "Na cena",
@@ -4327,7 +4327,7 @@
       "readingPoints": [
         {
           "title": "Na cena",
-          "body": "A recaída precisa ser reconhecida sem levar à desistência."
+          "body": "A jovem se frustra porque esperava não voltar a ofender."
         },
         {
           "title": "Critério",
@@ -4344,7 +4344,7 @@
         "CEC 1811"
       ],
       "facilitatorNote": "Recomeçar inclui corrigir, não apenas esquecer.",
-      "explanation": "A recaída precisa ser reconhecida sem levar à desistência. Uma recaída não impede o recomeço, mas pede arrependimento e mudança. A jovem pode pedir perdão, reparar a ofensa e retomar o esforço com a ajuda de Deus."
+      "explanation": "A jovem se frustra porque esperava não voltar a ofender. Uma recaída não impede o recomeço, mas pede arrependimento e mudança. A jovem pode pedir perdão, reparar a ofensa e retomar o esforço com a ajuda de Deus."
     }
   ],
   "boards": [
