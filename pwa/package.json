@@ -8,6 +8,7 @@
     "dev": "vite --host 127.0.0.1",
     "prebuild": "python scripts/generate-game-data.py",
     "build": "vite build",
+    "build:published": "vite build && python scripts/generate-sw.py",
     "postbuild": "python scripts/generate-sw.py",
     "preview": "vite preview --host 127.0.0.1"
   },

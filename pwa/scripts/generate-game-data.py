@@ -18,7 +18,7 @@ MATERIALS_DIR = PUBLIC_DIR / "materials"
 CONTENT_DIR = PUBLIC_DIR / "content"
 
 DEFAULT_CONFIG = {
-    "contentProject": "bingos_crisma_i_01_35/encontro_04_bingo_violencia_discriminacao",
+    "contentProject": "encontro_04_bingo_violencia_discriminacao",
 }
 
 
@@ -37,10 +37,18 @@ def display_subtitle(title: str) -> str:
 
 
 def encounter_number_from_path(path: Path) -> str:
+    numbers = teaching_encounter_numbers(path)
+    return numbers[0] if len(numbers) == 1 else f"{numbers[0]}–{numbers[-1]}"
+
+
+def teaching_encounter_numbers(path: Path) -> list[str]:
+    metadata = load_json(path / "data/termos.json")
+    if metadata.get("teaching_encounters"):
+        return [f"{int(n):02d}" for n in metadata["teaching_encounters"]]
     match = re.search(r"encontro_(\d{2})_", path.name)
     if not match:
         raise SystemExit(f"Could not infer encounter number from directory name: {path.name}")
-    return match.group(1)
+    return [match.group(1)]
 
 
 def load_config() -> dict:
@@ -92,6 +100,9 @@ def discover_encounter_dirs(collection_dir: Path) -> list[Path]:
 
 
 def reset_directory(path: Path) -> None:
+    resolved = path.resolve()
+    if resolved not in {MATERIALS_DIR.resolve(), CONTENT_DIR.resolve()}:
+        raise ValueError(f"Refusing to reset unexpected directory: {resolved}")
     if path.exists():
         shutil.rmtree(path)
     path.mkdir(parents=True, exist_ok=True)
@@ -271,6 +282,7 @@ def parse_teaching_markdown(text: str) -> dict:
     meta = []
     sections = []
     current_section = None
+    quote_section = False
     current_paragraph: list[str] = []
     current_table: list[list[str]] = []
 
@@ -288,12 +300,13 @@ def parse_teaching_markdown(text: str) -> dict:
         current_table = []
 
     def flush_section() -> None:
-        nonlocal current_section
+        nonlocal current_section, quote_section
         flush_paragraph()
         flush_table()
         if current_section is not None:
             sections.append(enrich_teaching_section(current_section))
         current_section = None
+        quote_section = False
 
     for raw_line in text.splitlines():
         line = raw_line.rstrip()
@@ -329,8 +342,10 @@ def parse_teaching_markdown(text: str) -> dict:
 
         flush_table()
         if not stripped.startswith(">"):
+            if quote_section:
+                flush_section()
             if current_section is None:
-                current_section = {"title": "Apresentação", "paragraphs": []}
+                current_section = {"title": "Reflexão", "paragraphs": []}
             current_paragraph.append(markdown_inline_text(stripped))
             continue
 
@@ -343,6 +358,7 @@ def parse_teaching_markdown(text: str) -> dict:
         if heading_match:
             flush_section()
             current_section = {"title": heading_match.group(1).strip(), "paragraphs": []}
+            quote_section = True
             continue
 
         if current_section is None:
@@ -354,10 +370,27 @@ def parse_teaching_markdown(text: str) -> dict:
 
 
 def publish_teaching_material(encounter_dir: Path, destination_dir: Path, href_base: str) -> dict:
-    encounter_number = encounter_number_from_path(encounter_dir)
-    source_dir = encounter_dir / "material_didatico"
-    source_pdf = source_dir / f"material_didatico_encontro_{encounter_number}.pdf"
-    source_md = source_dir / f"material_didatico_encontro_{encounter_number}.md"
+    numbers = teaching_encounter_numbers(encounter_dir)
+    documents = [publish_teaching_encounter(number, destination_dir, href_base) for number in numbers]
+    if len(documents) == 1:
+        return documents[0]
+    sections = []
+    for number, document in zip(numbers, documents):
+        sections.append({"title": document["title"], "paragraphs": [f"{m['label']}: {m['value']}" for m in document["meta"]]})
+        sections.extend(document["sections"])
+    return {
+        "title": "Consciência, liberdade e responsabilidade",
+        "meta": [],
+        "sections": sections,
+        "pdfs": [{**doc["pdf"], "title": f"Material didático - Encontro {number}"} for number, doc in zip(numbers, documents)],
+    }
+
+
+def publish_teaching_encounter(encounter_number: str, destination_dir: Path, href_base: str) -> dict:
+    # Shared editorial exports: no per-bingo copies or synchronization step.
+    source_dir = REPO_ROOT.parent / "material_didatico" / "output"
+    source_pdf = source_dir / f"encontro_{encounter_number}.pdf"
+    source_md = source_dir / "markdown" / f"encontro_{encounter_number}.md"
 
     if not source_pdf.exists():
         raise SystemExit(f"Missing teaching PDF: {source_pdf}")
@@ -450,6 +483,7 @@ def build_payload(
     teaching_pdf = teaching_material.pop("pdf", None)
     if teaching_pdf:
         materials.append(teaching_pdf)
+    materials.extend(teaching_material.pop("pdfs", []))
 
     call_cards = []
     for call in calls:
@@ -519,6 +553,11 @@ def catalog_item(payload: dict, encounter_dir: Path, href: str) -> dict:
 def write_content_catalog(config: dict, default_encounter_dir: Path, default_payload: dict) -> dict:
     collection_dir = resolve_collection_dir(config, default_encounter_dir)
     encounter_dirs = discover_encounter_dirs(collection_dir)
+    for directory in config.get("additionalProjects", []):
+        additional = resolve_from_repo(directory)
+        if additional not in encounter_dirs:
+            encounter_dirs.append(additional)
+    encounter_dirs.sort(key=lambda path: (int(teaching_encounter_numbers(path)[-1]), len(teaching_encounter_numbers(path))))
     if not encounter_dirs:
         raise SystemExit(f"No bingo encounter directories found in {collection_dir}")
 

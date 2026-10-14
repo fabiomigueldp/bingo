@@ -1,3 +1,5 @@
 {
-  "contentProject": "bingos_crisma_i_01_35/encontro_04_bingo_violencia_discriminacao"
+  "contentProject": "encontro_04_bingo_violencia_discriminacao",
+  "contentCollection": ".",
+  "additionalProjects": ["bloco_10_13_bingo_liberdade"]
 }

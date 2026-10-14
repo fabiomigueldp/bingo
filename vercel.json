@@ -1,5 +1,5 @@
 {
-  "buildCommand": "cd pwa && npm ci && npm run build",
+  "buildCommand": "cd pwa && npm ci && npm run build:published",
   "outputDirectory": "pwa/dist",
   "cleanUrls": true,
   "headers": [
