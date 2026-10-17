@@ -953,27 +953,27 @@
       "id": "N07",
       "term_id": "N07",
       "call_label": "N07 - Oração como fórmula",
-      "case": "Uma mensagem promete que uma oração repetida sete vezes garante qualquer pedido. Uma mulher fica preocupada por ter perdido a conta.",
+      "case": "Uma mulher recebe uma mensagem dizendo que basta repetir uma oração sete vezes para ter qualquer pedido atendido. Ao perder a conta, acha que a oração não vai funcionar.",
       "reading_points": [
         {
           "title": "Na cena",
-          "body": "A mensagem apresenta a oração como uma garantia automática."
+          "body": "A mulher trata a oração como uma fórmula mágica."
         },
         {
           "title": "Fundamento",
-          "body": "Nenhuma contagem obriga Deus a realizar um desejo."
+          "body": "Isso é superstição: nenhuma oração obriga Deus a fazer o que queremos."
         },
         {
           "title": "Aplicação",
-          "body": "A mulher deve rejeitar essa promessa e rezar confiando em Deus."
+          "body": "A mulher deve rejeitar essa promessa e rezar confiando em Deus e aceitando sua vontade."
         }
       ],
-      "conference_question": "Por que repetir a oração sete vezes não garante o pedido?",
+      "conference_question": "Por que essa promessa é superstição?",
       "anchors": [
         "CEC 2111",
-        "CEC 2565"
+        "CEC 2735-2736"
       ],
-      "facilitator_note": "Não desvalorizar orações repetidas como o Rosário; o erro está na promessa mágica."
+      "facilitator_note": "Repetir orações, como no terço, não é superstição por si só."
     },
     {
       "id": "N08",
@@ -1606,7 +1606,7 @@
       "id": "O02",
       "term_id": "O02",
       "call_label": "O02 - Reservar tempo para rezar",
-      "case": "Um rapaz deixa a oração para depois dos vídeos e das mensagens. Quase sempre fica com sono e adia para o dia seguinte.",
+      "case": "Um rapaz deixa para rezar depois de mexer no celular. Quando guarda o celular, já está com sono e adia a oração para o dia seguinte.",
       "reading_points": [
         {
           "title": "Na cena",
@@ -1618,7 +1618,7 @@
         },
         {
           "title": "Aplicação",
-          "body": "O rapaz deve reservar um horário para rezar antes de começar a ver os vídeos."
+          "body": "O rapaz deve reservar um horário para rezar e guardar o celular nesse momento."
         }
       ],
       "conference_question": "Que mudança simples pode ajudar a oração a fazer parte do dia?",

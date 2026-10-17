@@ -510,17 +510,17 @@ O rapaz pede desculpas, mas pretende repetir o furto. Arrepender-se inclui rejei
 
 ## N07 - Oração como fórmula
 
-**Conceito:** A oração é relação com Deus; repetir palavras não obriga Deus a realizar um desejo.
+**Conceito:** Tratar a oração como uma fórmula que garante o que pedimos a Deus é superstição.
 
-**Caso:** Uma mensagem promete que uma oração repetida sete vezes garante qualquer pedido. Uma mulher fica preocupada por ter perdido a conta.
+**Caso:** Uma mulher recebe uma mensagem dizendo que basta repetir uma oração sete vezes para ter qualquer pedido atendido. Ao perder a conta, acha que a oração não vai funcionar.
 
-A mensagem apresenta a oração como uma garantia automática. Nenhuma contagem obriga Deus a realizar um desejo. A mulher deve rejeitar essa promessa e rezar confiando em Deus.
+A mulher trata a oração como uma fórmula mágica. Isso é superstição: nenhuma oração obriga Deus a fazer o que queremos. A mulher deve rejeitar essa promessa e rezar confiando em Deus e aceitando sua vontade.
 
-**Conferência:** Por que repetir a oração sete vezes não garante o pedido?
+**Conferência:** Por que essa promessa é superstição?
 
-**Nota:** Não desvalorizar orações repetidas como o Rosário; o erro está na promessa mágica.
+**Nota:** Repetir orações, como no terço, não é superstição por si só.
 
-**Referências:** CEC 2111; CEC 2565
+**Referências:** CEC 2111; CEC 2735-2736
 
 ## N08 - Bíblia fora de contexto
 
@@ -862,9 +862,9 @@ A jovem só pensa nas desculpas que quer receber, sem reconhecer as próprias of
 
 **Conceito:** A oração diária precisa de tempo reservado, em vez de depender de sobrar tempo.
 
-**Caso:** Um rapaz deixa a oração para depois dos vídeos e das mensagens. Quase sempre fica com sono e adia para o dia seguinte.
+**Caso:** Um rapaz deixa para rezar depois de mexer no celular. Quando guarda o celular, já está com sono e adia a oração para o dia seguinte.
 
-Deixar a oração por último virou uma forma de sempre adiá-la. Rezar é parte da vida cristã e precisa ter lugar no nosso dia. O rapaz deve reservar um horário para rezar antes de começar a ver os vídeos.
+Deixar a oração por último virou uma forma de sempre adiá-la. Rezar é parte da vida cristã e precisa ter lugar no nosso dia. O rapaz deve reservar um horário para rezar e guardar o celular nesse momento.
 
 **Conferência:** Que mudança simples pode ajudar a oração a fazer parte do dia?
 
