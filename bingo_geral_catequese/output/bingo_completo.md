@@ -734,11 +734,11 @@ Há uma falta grave, consciência da gravidade e uma decisão livre. Essas três
 
 ## G08 - Presença e participação
 
-**Conceito:** Participar da liturgia pede escuta, oração e atenção ao que a Igreja celebra.
+**Conceito:** Participar da Missa exige atenção à Palavra de Deus e oração com a comunidade.
 
 **Caso:** Um homem chega à Missa no horário, mas passa a celebração respondendo mensagens que poderiam esperar. Depois diz que participou porque esteve lá.
 
-O homem está na igreja, mas sua atenção está nas mensagens. Participar da Missa inclui escutar a Palavra de Deus e rezar com a comunidade. Guardar o celular ajuda a acompanhar as leituras e as orações.
+Estar na igreja sem prestar atenção não basta para participar da Missa. É preciso escutar a Palavra de Deus e rezar com a comunidade. O homem deve guardar o celular e acompanhar a celebração.
 
 **Conferência:** Por que estar na igreja não basta para participar bem da Missa?
 
