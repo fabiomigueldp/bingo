@@ -70,4 +70,19 @@ python projects/catequese/dinamicas/pwa/scripts/generate-game-data.py
 
 O primeiro comando exporta o Markdown, gera as cartelas com semente fixa `171026`, registra o manifesto e produz os PDFs. O segundo distribui o material no PWA. Depois de encaminhar cartelas para impressão, preserve seus termos, códigos, distribuição e ordem nas próximas revisões.
 
+Para revisar apenas os textos das cartas, preservando o PDF, a distribuição e a identidade das cartelas já publicadas:
+
+```powershell
+python projects/catequese/dinamicas/bingo_geral_catequese/build.py --somente-textos
+python projects/catequese/dinamicas/pwa/scripts/generate-game-data.py
+```
+
+## Revisão editorial de 17/10/2026
+
+As 75 cartas foram relidas como conjunto de termo, definição, caso, explicação, pergunta e nota. A revisão substituiu cenas artificiais, esclareceu ações e personagens, simplificou frases e corrigiu perguntas que não correspondiam ao caso. Os códigos e os termos impressos permanecem os mesmos.
+
+Entre as mudanças: B01 passou a tratar do medo de procurar Deus depois de mentir; N08, do uso de "não julgar" para evitar uma correção; O05, da relação entre o Pai-Nosso e ajudar um vizinho; G08 recebeu uma explicação direta sobre atenção e participação na Missa. I13 trata da renúncia à vingança, enquanto G05 trata da reconstrução da confiança. As novas referências foram consultadas nos índices locais da Bíblia e do Catecismo.
+
+`data/editorial.tsv` e `preparar_editorial.py` preservam a criação inicial e não contêm esta revisão. A versão atual está nos JSONs canônicos e em `output/bingo_completo.md`.
+
 O aplicativo apresenta este bingo como **Catequese geral — Conhecer e viver a fé**, com seu próprio panorama. A publicação utiliza o repositório existente e o deploy automático por push.

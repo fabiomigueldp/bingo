@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import argparse
 import hashlib
 import json
 import random
@@ -2058,20 +2059,49 @@ def render_previews(paths: list[Path]) -> None:
 
 
 def main() -> None:
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--somente-textos', action='store_true', help='Atualiza cartas e explicações preservando as cartelas existentes.')
+    args = parser.parse_args()
     from exportar_markdown import main as exportar_markdown
     exportar_markdown()
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     terms_data, calls_data, terms, calls = load_project_data()
     explanations_data = load_explanations_data()
 
-    cards = generate_bingo_cards(terms)
-    manifest = build_cards_manifest(terms_data, cards)
-    cartelas = build_bingo_cards(cards)
+    if args.somente_textos:
+        manifest = CARDS_MANIFEST_PATH
+        existing = json.loads(manifest.read_text(encoding='utf-8'))
+        terms_by_id = {term['id']: term for term in terms}
+        for card in existing['cards']:
+            for row in card['grid']:
+                for cell in row:
+                    if cell.get('free'):
+                        continue
+                    term = terms_by_id.get(cell['id'])
+                    if not term or any(term[key] != cell[key] for key in ('id', 'label', 'column')):
+                        raise SystemExit('A revisão de textos não pode alterar os termos das cartelas existentes.')
+        existing['source_hashes'] = {
+            'termos.json': file_sha256(TERMS_PATH),
+            'chamadas.json': file_sha256(CALLS_PATH),
+            'explicacoes.json': file_sha256(EXPLANATIONS_PATH),
+        }
+        cartelas = OUT_DIR / 'cartelas_bingo_24_a4.pdf'
+        regras = OUT_DIR / 'cartoes_regras_equipes_a4.pdf'
+        controle = OUT_DIR / 'folha_controle_chamadas.pdf'
+        guia = OUT_DIR / 'guia_do_catequista.pdf'
+        for path in (cartelas, regras, controle, guia):
+            if not path.exists():
+                raise SystemExit(f'Arquivo existente necessário para atualizar os textos: {path}')
+        manifest.write_text(json.dumps(existing, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+    else:
+        cards = generate_bingo_cards(terms)
+        manifest = build_cards_manifest(terms_data, cards)
+        cartelas = build_bingo_cards(cards)
+        regras = build_team_rule_cards()
+        controle = build_control_sheet(terms)
+        guia = build_facilitator_guide(terms_data, calls_data)
     chamadas = build_call_deck(terms, calls)
     explicacoes = build_explanations_letter(terms, calls, explanations_data)
-    regras = build_team_rule_cards()
-    controle = build_control_sheet(terms)
-    guia = build_facilitator_guide(terms_data, calls_data)
     kit = merge_pdfs([cartelas, chamadas, explicacoes, regras, controle, guia])
     render_previews([cartelas, chamadas, explicacoes, regras, controle, guia, kit])
 

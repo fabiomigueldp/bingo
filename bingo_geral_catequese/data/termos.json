@@ -8,17 +8,20 @@
   "teaching_overview": "data/panorama.json",
   "scripture": [
     "Jo 14,6",
-    "Mt 6,9-13",
+    "Lc 15,20-24",
     "Lc 24,1-6",
     "Lc 10,30-37",
     "At 2,42-47",
     "1Cor 12,4-7",
+    "Mt 7,1-5",
+    "Mt 18,15",
     "Jo 2,1-5",
+    "Mt 6,9-13",
     "1Pd 3,15-16"
   ],
   "catechism": [
     "CEC 240",
-    "CEC 2565",
+    "CEC 1439",
     "CEC 423",
     "CEC 457-459",
     "CEC 638",
@@ -30,8 +33,7 @@
     "CEC 651",
     "CEC 104",
     "CEC 112-113",
-    "CEC 150",
-    "CEC 153",
+    "CEC 150-156",
     "CEC 751-752",
     "CEC 1213",
     "CEC 1255",
@@ -40,8 +42,10 @@
     "CEC 1285",
     "CEC 1303",
     "CEC 1422",
+    "CEC 1441-1442",
     "CEC 1459",
     "CEC 2558",
+    "CEC 2565",
     "CEC 988",
     "CEC 1023",
     "CEC 1032",
@@ -64,6 +68,7 @@
     "CEC 2843",
     "CEC 1499",
     "CEC 1514",
+    "CEC 1520",
     "CEC 901",
     "CEC 2044",
     "CEC 2099",
@@ -80,6 +85,7 @@
     "CEC 1431",
     "CEC 1811",
     "CEC 1753",
+    "CEC 150",
     "CEC 2731",
     "CEC 158",
     "CEC 2088",
@@ -101,6 +107,7 @@
     "CEC 2013",
     "CEC 1601",
     "CEC 1632",
+    "CEC 1641",
     "CEC 1367",
     "CEC 1411",
     "CEC 1547",
@@ -170,8 +177,8 @@
       "definition": "Jesus nos revela o Pai e nos ensina a confiar em seu amor.",
       "anchors": [
         "CEC 240",
-        "CEC 2565",
-        "Mt 6,9-13"
+        "CEC 1439",
+        "Lc 15,20-24"
       ],
       "tags": [
         "catequese-geral"
@@ -263,8 +270,7 @@
       "label": "Fé",
       "definition": "A fé é dom de Deus e nossa resposta livre de confiança nele e naquilo que revelou.",
       "anchors": [
-        "CEC 150",
-        "CEC 153"
+        "CEC 150-156"
       ],
       "tags": [
         "catequese-geral"
@@ -313,7 +319,7 @@
       "id": "B12",
       "column": "B",
       "label": "Crisma",
-      "definition": "A Crisma fortalece a graça do Batismo e nos dá força para testemunhar Cristo.",
+      "definition": "A Crisma fortalece a graça do Batismo pelo dom do Espírito Santo, para testemunharmos Cristo.",
       "anchors": [
         "CEC 1285",
         "CEC 1303"
@@ -329,6 +335,7 @@
       "definition": "Na Confissão, Cristo nos perdoa e nos reconcilia com Deus e com a Igreja.",
       "anchors": [
         "CEC 1422",
+        "CEC 1441-1442",
         "CEC 1459"
       ],
       "tags": [
@@ -441,7 +448,7 @@
       "id": "I07",
       "column": "I",
       "label": "Ajuda sem exposição",
-      "definition": "A caridade cuida da necessidade sem transformar a pessoa em motivo de exibição.",
+      "definition": "A caridade ajuda sem expor ou constranger quem recebe.",
       "anchors": [
         "CEC 1931",
         "CEC 2447"
@@ -518,7 +525,7 @@
       "id": "I13",
       "column": "I",
       "label": "Perdão que custa",
-      "definition": "Jesus nos chama a perdoar; isso não exige negar a ferida nem abandonar a proteção necessária.",
+      "definition": "Jesus nos chama a perdoar, renunciando à vingança mesmo quando ainda estamos magoados.",
       "anchors": [
         "CEC 2840",
         "CEC 2843"
@@ -534,7 +541,8 @@
       "definition": "A Igreja acompanha os doentes com oração, presença e a Unção dos Enfermos quando indicada.",
       "anchors": [
         "CEC 1499",
-        "CEC 1514"
+        "CEC 1514",
+        "CEC 1520"
       ],
       "tags": [
         "catequese-geral"
@@ -649,7 +657,9 @@
       "label": "Bíblia fora de contexto",
       "definition": "Um versículo deve ser compreendido no conjunto da Escritura e na fé da Igreja.",
       "anchors": [
-        "CEC 112-114"
+        "CEC 112-114",
+        "Mt 7,1-5",
+        "Mt 18,15"
       ],
       "tags": [
         "catequese-geral"
@@ -787,7 +797,7 @@
       "id": "G04",
       "column": "G",
       "label": "Tentação e pecado",
-      "definition": "Sentir um impulso para o mal é diferente de aceitá-lo e escolher agir.",
+      "definition": "Sentir uma tentação é diferente de escolher o mal, mesmo que essa escolha fique só no pensamento.",
       "anchors": [
         "CEC 1264",
         "CEC 2847"
@@ -826,7 +836,7 @@
       "id": "G07",
       "column": "G",
       "label": "Mortal e venial",
-      "definition": "O pecado mortal exige matéria grave, pleno conhecimento e consentimento deliberado; nem todo pecado tem a mesma gravidade.",
+      "definition": "O pecado mortal rompe a amizade com Deus; o venial a enfraquece. Para ser mortal, a falta exige gravidade, pleno conhecimento e consentimento deliberado.",
       "anchors": [
         "CEC 1857-1863"
       ],
@@ -838,7 +848,7 @@
       "id": "G08",
       "column": "G",
       "label": "Presença e participação",
-      "definition": "Participar da liturgia envolve escuta, oração e união ao que a Igreja celebra.",
+      "definition": "Participar da liturgia pede escuta, oração e atenção ao que a Igreja celebra.",
       "anchors": [
         "CEC 1141",
         "CEC 1388"
@@ -878,7 +888,7 @@
       "id": "G11",
       "column": "G",
       "label": "Esperança e acomodação",
-      "definition": "A esperança confia nas promessas de Deus e sustenta a ação, sem dispensar nossa responsabilidade.",
+      "definition": "A esperança cristã confia na vida eterna prometida por Deus e sustenta nossa fidelidade no presente.",
       "anchors": [
         "CEC 1817",
         "CEC 2001"
@@ -904,10 +914,11 @@
       "id": "G13",
       "column": "G",
       "label": "Matrimônio e festa",
-      "definition": "O Matrimônio é uma aliança de vida entre os esposos; a festa celebra esse compromisso.",
+      "definition": "O Matrimônio une os esposos numa aliança para toda a vida; entre batizados, é sacramento.",
       "anchors": [
         "CEC 1601",
-        "CEC 1632"
+        "CEC 1632",
+        "CEC 1641"
       ],
       "tags": [
         "catequese-geral"
@@ -931,7 +942,7 @@
       "id": "G15",
       "column": "G",
       "label": "Sacramentos e magia",
-      "definition": "Nos sacramentos, Cristo age por sinais eficazes da graça; não são técnicas para controlar Deus.",
+      "definition": "Nos sacramentos, Cristo nos comunica sua graça; não são meios de forçar Deus a fazer o que queremos.",
       "anchors": [
         "CEC 1127-1128",
         "CEC 1213",
@@ -984,7 +995,7 @@
       "id": "O04",
       "column": "O",
       "label": "Preparar a Comunhão",
-      "definition": "Receber a Eucaristia pede fé, reverência e a disposição adequada.",
+      "definition": "Preparar-se para comungar inclui reconhecer quem recebemos e buscar a Reconciliação quando necessária.",
       "anchors": [
         "CEC 1385"
       ],

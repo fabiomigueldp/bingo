@@ -29,9 +29,9 @@
     "win_condition": "duas_linhas"
   },
   "source_hashes": {
-    "termos.json": "6cbbd393131fafcc4dfab69b3682ff73220a4207864c4501698ef8531286a254",
-    "chamadas.json": "ade8c70999e5e601c5c7c43805e19744fe0a166a52c904812cf4edf2acf7220f",
-    "explicacoes.json": "98b71f04c44ba1e98d3ce83d602be6838fc1ca1e4ac8bc9c418589f90b1e4a87"
+    "termos.json": "ff39bfa763b7eae30fb521100c67974ab7782562cd4521d5952e97c31c2e03dc",
+    "chamadas.json": "ae066f6076dbee231bab8ee1a272ca595c93d289e13e386cecc91a1fe0c45d07",
+    "explicacoes.json": "4b191e9c1e1d7a6691c1e15ced244b3231c9c5190f39f2ab57373ae4dbde253c"
   },
   "line_model": [
     {
