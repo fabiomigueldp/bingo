@@ -83,6 +83,16 @@ As 75 cartas foram relidas como conjunto de termo, definição, caso, explicaç�
 
 Entre as mudanças: B01 passou a tratar do medo de procurar Deus depois de mentir; N08, do uso de "não julgar" para evitar uma correção; O05, da relação entre o Pai-Nosso e ajudar um vizinho; G08 recebeu uma explicação direta sobre atenção e participação na Missa. I13 trata da renúncia à vingança, enquanto G05 trata da reconstrução da confiança. As novas referências foram consultadas nos índices locais da Bíblia e do Catecismo.
 
+A nova leitura das 75 cartas, após o ajuste de G08, tornou explícitos deveres que apareciam como sugestões e refez situações que dependiam de informações não dadas. N09 passou a tratar da recusa de participar da Igreja sob a alegação de já ter sido batizado; O03, de esconder um furto na Confissão; O04, da tentativa de comungar por aparência apesar da consciência de pecado grave. Perguntas, definições e notas foram ajustadas junto dos casos.
+
+Nas próximas revisões, manter estes critérios:
+
+- Dizer diretamente o que deve ser feito quando há uma obrigação clara: devolver, pagar, reparar, pedir perdão, interromper uma ofensa ou participar da Missa. Não apresentar o dever como uma possibilidade indiferente.
+- Manter a liberdade entre respostas legítimas e considerar as possibilidades reais de quem ajuda. Não substituir todos os usos de "pode" por "deve" de forma automática.
+- Dar no caso os fatos necessários à explicação. Não presumir culpa, intenção, recursos disponíveis ou fatos que a cena não informa.
+- Usar ações e palavras reconhecíveis, com personagens fáceis de identificar na leitura em voz alta. A pergunta deve cobrar compreensão do próprio caso.
+- Preservar a precisão cristã: graça, sacramentos, misericórdia e responsabilidade. Firmeza não exige dureza nem a eliminação de distinções importantes.
+
 `data/editorial.tsv` e `preparar_editorial.py` preservam a criação inicial e não contêm esta revisão. A versão atual está nos JSONs canônicos e em `output/bingo_completo.md`.
 
 O aplicativo apresenta este bingo como **Catequese geral — Conhecer e viver a fé**, com seu próprio panorama. A publicação utiliza o repositório existente e o deploy automático por push.

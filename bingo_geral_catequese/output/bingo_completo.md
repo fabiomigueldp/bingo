@@ -10,11 +10,11 @@ Jesus Cristo nos revela o Pai e nos salva. Pelo Espírito Santo, aprendemos a cr
 
 **Caso:** Depois de mentir para a mãe, uma jovem evita rezar: acha que Deus não vai querer ouvi-la.
 
-A mentira precisa ser reconhecida, mas não impede a jovem de procurar Deus. Jesus nos revela um Pai que nos ama e nos chama a voltar quando erramos. A jovem pode pedir perdão a Deus e contar a verdade à mãe.
+A jovem errou ao mentir, mas Deus não deixa de amá-la. Jesus nos revela o Pai que acolhe quem se arrepende e volta a Ele. A jovem deve pedir perdão a Deus e contar a verdade à mãe.
 
-**Conferência:** Por que reconhecer o erro pode levar a jovem a procurar Deus, em vez de fugir dele?
+**Conferência:** Por que a jovem deve procurar Deus depois de mentir?
 
-**Nota:** O amor do Pai não torna o pecado indiferente; nos convida ao arrependimento.
+**Nota:** O amor do Pai não torna a mentira aceitável; chama ao arrependimento.
 
 **Referências:** CEC 240; CEC 1439; Lc 15,20-24
 
@@ -26,7 +26,7 @@ A mentira precisa ser reconhecida, mas não impede a jovem de procurar Deus. Jes
 
 A fé cristã reconhece em Jesus mais que um mestre. Jesus é o Filho de Deus feito homem; morreu e ressuscitou para nos salvar. Por isso, seguimos seus ensinamentos e o adoramos como Senhor.
 
-**Conferência:** Por que admirar os conselhos de Jesus não resume a fé cristã?
+**Conferência:** Por que admirar os ensinamentos de Jesus não basta para crer nele?
 
 **Nota:** Unir a Encarnação à morte e ressurreição de Jesus.
 
@@ -36,9 +36,9 @@ A fé cristã reconhece em Jesus mais que um mestre. Jesus é o Filho de Deus fe
 
 **Conceito:** O Espírito Santo é Deus, que nos une a Cristo e nos fortalece para viver a fé.
 
-**Caso:** Uma jovem quer pedir perdão à irmã, mas teme a reação. Reza ao Espírito Santo antes de procurar a conversa.
+**Caso:** Uma jovem ofendeu a irmã e quer pedir perdão, mas tem medo da reação. Antes de conversar, reza ao Espírito Santo.
 
-A jovem precisa de coragem para reconhecer o erro. O Espírito Santo é Deus e nos fortalece para seguir Jesus. Com essa ajuda, a jovem pode pedir perdão e ouvir a irmã.
+A jovem reconhece que errou e pede a ajuda de Deus. O Espírito Santo é Deus e nos dá força para seguir Jesus, mesmo nas dificuldades. A jovem deve procurar a irmã e pedir perdão pela ofensa.
 
 **Conferência:** Como a oração ao Espírito Santo pode ajudar a jovem a agir?
 
@@ -52,7 +52,7 @@ A jovem precisa de coragem para reconhecer o erro. O Espírito Santo é Deus e n
 
 **Caso:** No Batismo do irmão, um menino ouve o nome do Pai, do Filho e do Espírito Santo. Depois pergunta se os cristãos acreditam em três deuses.
 
-A fórmula do Batismo expressa a fé cristã. Pai, Filho e Espírito Santo são três Pessoas distintas e um só Deus. Ao fazer o sinal da cruz, professamos essa mesma fé.
+Ouvir três nomes não significa que existam três deuses. Pai, Filho e Espírito Santo são três Pessoas distintas e um só Deus. É nessa fé que somos batizados e fazemos o sinal da cruz.
 
 **Conferência:** Por que nomear o Pai, o Filho e o Espírito Santo não significa crer em três deuses?
 
@@ -66,7 +66,7 @@ A fórmula do Batismo expressa a fé cristã. Pai, Filho e Espírito Santo são 
 
 **Caso:** Após um passeio, uma família deixa lixo à beira do rio. Um adulto diz que não precisa recolher porque o terreno não é deles.
 
-O cuidado com o lugar não depende de ser seu dono. A criação é dom de Deus, destinado ao bem de todos. A família deve recolher o próprio lixo e preservar o lugar para quem vier depois.
+A família continua responsável pelo lixo, mesmo num terreno que não é seu. O mundo é criação de Deus e deve ser respeitado. A família deve recolher o próprio lixo e deixar o lugar limpo.
 
 **Conferência:** Por que a família deve cuidar desse lugar mesmo sem ser dona do terreno?
 
@@ -80,7 +80,7 @@ O cuidado com o lugar não depende de ser seu dono. A criação é dom de Deus, 
 
 **Caso:** Num velório, um visitante diz que a morte é o fim de tudo. A família de quem morreu reza e recorda a ressurreição de Jesus.
 
-A família pode sentir tristeza e, ao mesmo tempo, ter esperança. Jesus ressuscitou de verdade e vive para sempre. A ressurreição de Jesus nos dá esperança de também viver com Deus.
+A morte causa tristeza, mas não é o fim de tudo. Jesus morreu e ressuscitou: está vivo, não apenas na lembrança de quem o ama. Por isso, os cristãos esperam a ressurreição dos mortos e a vida com Deus.
 
 **Conferência:** Por que a ressurreição de Jesus dá esperança a essa família?
 
@@ -92,15 +92,15 @@ A família pode sentir tristeza e, ao mesmo tempo, ter esperança. Jesus ressusc
 
 **Conceito:** Na Sagrada Escritura, Deus fala ao seu povo; a Igreja nos ajuda a compreendê-la.
 
-**Caso:** Uma família lê a parábola do bom samaritano e se comove. Quando o vizinho doente pede ajuda com as compras, ninguém quer perder tempo.
+**Caso:** Um homem lê a Bíblia todos os dias, mas ofende a família quando é contrariado. Acha que sua vida de fé vai bem porque nunca deixa de fazer a leitura.
 
-A família se comove com a leitura, mas evita ajudar o vizinho. Na Bíblia, Deus nos fala e nos chama a responder com fé. Ajudar nas compras é uma forma de colocar essa Palavra em prática.
+O homem lê a Bíblia, mas desobedece ao mandamento de amar o próximo. Na Escritura, Deus nos fala e nos chama a viver o que ouvimos. O homem deve parar com as ofensas, pedir perdão e tratar a família com respeito.
 
-**Conferência:** O que falta para a leitura produzir uma mudança nessa família?
+**Conferência:** O que precisa mudar para a leitura da Bíblia orientar a vida desse homem?
 
 **Nota:** A Escritura é lida com a Tradição e o ensinamento da Igreja.
 
-**Referências:** CEC 104; CEC 112-113; Lc 10,30-37
+**Referências:** CEC 104; CEC 112-113; Tg 1,22-25
 
 ## B08 - Fé
 
@@ -108,7 +108,7 @@ A família se comove com a leitura, mas evita ajudar o vizinho. Na Bíblia, Deus
 
 **Caso:** Um rapaz diz que só acredita no que vê e, por isso, não consegue crer em Deus.
 
-A fé não depende de ver Deus com os olhos. Deus se dá a conhecer, sobretudo em Jesus; a fé é acolher essa revelação e confiar nele. O rapaz pode conhecer melhor Jesus pela Escritura, pela oração e com a ajuda da Igreja.
+Não ver Deus não significa que Ele não exista. A fé é confiar em Deus e no que Ele revelou, sobretudo por Jesus Cristo. O rapaz pode ler os Evangelhos e buscar respostas para suas dúvidas com a ajuda da Igreja.
 
 **Conferência:** Em que podemos apoiar nossa fé, mesmo sem ver Deus?
 
@@ -120,9 +120,9 @@ A fé não depende de ver Deus com os olhos. Deus se dá a conhecer, sobretudo e
 
 **Conceito:** A Igreja é o povo reunido por Cristo, unido na fé, nos sacramentos e na missão.
 
-**Caso:** O prédio de uma igreja precisa fechar para reparos. A comunidade combina outro lugar para rezar e continua visitando as famílias do bairro.
+**Caso:** Uma igreja precisa fechar para reforma. A comunidade passa a se reunir num salão e mantém as visitas às famílias do bairro.
 
-A comunidade continua existindo mesmo com o prédio fechado. A Igreja é o povo que Cristo reúne, não apenas uma construção. Essa união se vive na oração, nos sacramentos e no serviço ao próximo.
+A comunidade continua existindo mesmo com o prédio fechado. A Igreja é o povo que Cristo reúne, não apenas uma construção. A Igreja se reúne para ouvir a Palavra, celebrar os sacramentos e servir ao próximo.
 
 **Conferência:** O que mostra que a Igreja é mais que o prédio?
 
@@ -136,11 +136,11 @@ A comunidade continua existindo mesmo com o prédio fechado. A Igreja é o povo 
 
 **Caso:** Um casal quer batizar a filha, mas escolhe os padrinhos apenas pelos presentes que podem dar.
 
-O casal dá prioridade aos presentes e esquece a missão dos padrinhos. No Batismo, Cristo nos liberta do pecado e nos une à Igreja. Os padrinhos ajudam a criança a crescer nessa vida de fé.
+O casal confunde a missão dos padrinhos com dar presentes. No Batismo, Cristo nos liberta do pecado e nos une à Igreja. O casal deve escolher padrinhos que vivam a fé e ajudem a filha a vivê-la.
 
 **Conferência:** Por que a escolha dos padrinhos exige mais que pensar nos presentes?
 
-**Nota:** O Batismo é dom de Deus. Ajudar a viver esse dom é parte da missão dos padrinhos.
+**Nota:** Os padrinhos ajudam na formação cristã; não substituem a responsabilidade dos pais.
 
 **Referências:** CEC 1213; CEC 1255
 
@@ -154,7 +154,7 @@ As aparências do pão e do vinho permanecem depois da consagração. Pela consa
 
 **Conferência:** O que recebemos na Comunhão, mesmo sem ver uma mudança na aparência da hóstia?
 
-**Nota:** Cristo está presente inteiro; não se trata de um símbolo vazio.
+**Nota:** Cristo está presente inteiro. Sua presença é real, não apenas simbólica.
 
 **Referências:** CEC 1374; CEC 1391
 
@@ -164,7 +164,7 @@ As aparências do pão e do vinho permanecem depois da consagração. Pela consa
 
 **Caso:** Depois da Crisma, um jovem ouve amigos zombarem de quem participa da Igreja. Fica dividido entre esconder a própria fé e falar com respeito.
 
-O jovem teme a reação dos amigos ao falar de sua fé. A Crisma nos fortalece com o dom do Espírito Santo e nos une mais à Igreja. O jovem pode dizer que crê em Jesus sem atacar os amigos.
+O jovem teme a reação dos amigos ao falar de sua fé. A Crisma nos fortalece com o dom do Espírito Santo e nos une mais à Igreja. O jovem deve falar de sua fé com respeito, sem participar da zombaria.
 
 **Conferência:** Como o dom recebido na Crisma ajuda o jovem nessa situação?
 
@@ -176,15 +176,15 @@ O jovem teme a reação dos amigos ao falar de sua fé. A Crisma nos fortalece c
 
 **Conceito:** Na Confissão, Cristo nos perdoa e nos reconcilia com Deus e com a Igreja.
 
-**Caso:** Uma mulher se arrepende de uma mentira, mas decide não se confessar. Acha que o padre não tem nada a ver com seu pedido de perdão a Deus.
+**Caso:** Uma mulher acusou falsamente uma colega de furto e agora se arrepende. Quer pedir perdão a Deus, mas diz que não precisa se confessar a um padre.
 
-A mulher reconhece o erro, mas descarta a Confissão. Jesus confiou à Igreja o perdão dos pecados; na Confissão, Cristo nos perdoa por meio do sacerdote. A mulher pode se confessar e corrigir o mal causado pela mentira.
+A mulher se arrepende, mas não reconhece a missão que Jesus deu à Igreja. Jesus confiou à Igreja o perdão dos pecados; na Confissão, Cristo nos perdoa por meio do sacerdote. A mulher deve procurar a Confissão e retirar a acusação diante de quem a ouviu.
 
 **Conferência:** Por que procurar a Confissão, se o perdão vem de Deus?
 
-**Nota:** O sacerdote serve ao perdão de Cristo. A Confissão não dispensa a reparação possível.
+**Nota:** Confessar não dispensa reparar o dano.
 
-**Referências:** CEC 1422; CEC 1441-1442; CEC 1459
+**Referências:** CEC 1422; CEC 1441-1442; CEC 1459; Jo 20,22-23
 
 ## B14 - Oração
 
@@ -192,7 +192,7 @@ A mulher reconhece o erro, mas descarta a Confissão. Jesus confiou à Igreja o 
 
 **Caso:** No fim do dia, um rapaz quer rezar, mas não consegue encontrar palavras bonitas. Pensa em deixar a oração para outra hora.
 
-A dificuldade com as palavras não impede a oração. Deus nos convida a uma relação sincera, não a um discurso perfeito. O rapaz pode agradecer pelo dia e falar de suas preocupações com simplicidade.
+A dificuldade com as palavras não impede a oração. Deus escuta quem reza com sinceridade, mesmo sem palavras bonitas. O rapaz pode agradecer pelo dia e falar de suas preocupações com simplicidade.
 
 **Conferência:** Por que a oração não depende de falar de um jeito bonito?
 
@@ -206,7 +206,7 @@ A dificuldade com as palavras não impede a oração. Deus nos convida a uma rel
 
 **Caso:** Uma viúva pede uma Missa pelo marido. Um parente diz que não adianta rezar por quem já morreu.
 
-A morte não torna inútil a oração por quem amamos. Cristo nos chama à vida eterna, na comunhão com Deus. Rezamos pelos falecidos, pedindo que Deus os purifique e os acolha em sua presença.
+A morte não torna inútil a oração por quem amamos. Cristo nos chama a viver para sempre com Deus. Rezamos pelos falecidos, pedindo que Deus os purifique e os acolha no céu.
 
 **Conferência:** O que a viúva pede a Deus quando reza pelo marido falecido?
 
@@ -216,13 +216,13 @@ A morte não torna inútil a oração por quem amamos. Cristo nos chama à vida 
 
 ## I01 - Lugar à mesa
 
-**Conceito:** A acolhida cristã reconhece a dignidade de quem chega e favorece sua participação.
+**Conceito:** Receber bem quem chega inclui dar atenção e ajudar a pessoa a participar.
 
-**Caso:** Uma família recém-chegada ao bairro participa de um almoço comunitário. Há lugares livres, mas ninguém se aproxima para conversar.
+**Caso:** No almoço comunitário do bairro, uma família recém-chegada fica sozinha à mesa. Os organizadores percebem, mas continuam conversando só com os conhecidos.
 
-Ter uma cadeira disponível não garante que a família se sinta acolhida. O amor ao próximo inclui atenção a quem ainda não conhece ninguém. Um participante pode se apresentar e convidar a família a sentar junto.
+A família foi recebida no evento, mas ficou isolada. Acolher o próximo exige dar atenção também a quem ainda não conhecemos. Os organizadores devem se apresentar e convidar a família a sentar com os demais.
 
-**Conferência:** Como acolher a família, além de oferecer um lugar para sentar?
+**Conferência:** Que atitude dos organizadores mudaria a forma como a família foi recebida?
 
 **Nota:** Acolher não exige forçar intimidade ou fazer perguntas pessoais.
 
@@ -232,9 +232,9 @@ Ter uma cadeira disponível não garante que a família se sinta acolhida. O amo
 
 **Conceito:** Nossas palavras devem respeitar a dignidade das pessoas, mesmo numa correção.
 
-**Caso:** Um pai corrige o erro do filho durante o almoço e o chama de inútil diante da família. Depois diz que estava apenas ensinando.
+**Caso:** Um pai chama o filho de inútil diante da família porque o menino esqueceu de lavar a louça. Depois diz que estava apenas ensinando.
 
-A correção virou uma humilhação. O erro precisa ser corrigido sem negar o valor de quem errou. O pai pode pedir desculpas e explicar o que precisa mudar, sem insultos.
+A correção virou uma humilhação. O erro precisa ser corrigido sem negar o valor de quem errou. O pai deve pedir desculpas pelo insulto e cobrar a tarefa sem humilhar o filho.
 
 **Conferência:** Qual é a diferença entre corrigir o erro e humilhar o filho?
 
@@ -248,7 +248,7 @@ A correção virou uma humilhação. O erro precisa ser corrigido sem negar o va
 
 **Caso:** Um rapaz promete levar a avó a uma consulta. Aceita um convite para jogar e só lembra do combinado quando a avó liga, esperando por ele.
 
-O esquecimento prejudicou alguém que contava com o rapaz. Amar inclui cuidar dos compromissos assumidos. O rapaz deve atender a avó e buscar uma solução para a consulta, mesmo que precise sair do jogo.
+O esquecimento prejudicou alguém que contava com o rapaz. Amar inclui cuidar dos compromissos assumidos. O rapaz deve sair do jogo e ir buscar a avó, avisando a clínica se houver atraso.
 
 **Conferência:** O que o rapaz precisa fazer ao perceber que esqueceu o compromisso?
 
@@ -260,7 +260,7 @@ O esquecimento prejudicou alguém que contava com o rapaz. Amar inclui cuidar do
 
 **Conceito:** O cuidado com a verdade protege as pessoas de acusações e danos injustos.
 
-**Caso:** Uma mensagem acusa um funcionário de ficar com o troco dos clientes. Um morador encaminha o aviso sem saber de onde veio a informação.
+**Caso:** No grupo do bairro, uma mensagem acusa um funcionário de ficar com o troco dos clientes. Um morador encaminha sem confirmar e diz que é só um aviso.
 
 A acusação pode prejudicar alguém injustamente. O respeito ao próximo exige cuidado com a verdade e a reputação. O morador deve interromper o repasse e esclarecer que a acusação não foi confirmada.
 
@@ -276,7 +276,7 @@ A acusação pode prejudicar alguém injustamente. O respeito ao próximo exige 
 
 **Caso:** Uma família aproveita todas as promoções do mercado. Compra mais comida do que consegue consumir e acaba jogando parte fora.
 
-O preço baixo não impediu o desperdício. Os alimentos são dons que devemos usar com cuidado. A família pode planejar as compras e aproveitar primeiro o que já tem.
+Comprar além do que a família usa está causando desperdício. Os alimentos são dons de Deus e não devem ser desperdiçados. A família deve conferir o que tem em casa e comprar só o que vai consumir.
 
 **Conferência:** O que precisa mudar para evitar esse desperdício?
 
@@ -288,9 +288,9 @@ O preço baixo não impediu o desperdício. Os alimentos são dons que devemos u
 
 **Conceito:** O pagamento justo é um direito de quem trabalha, não um favor de quem contrata.
 
-**Caso:** Uma costureira entrega as peças no prazo. O cliente usa as roupas, mas adia o pagamento para gastar o dinheiro numa viagem.
+**Caso:** Uma costureira entrega as roupas, mas o cliente não paga na data combinada. Prefere usar o dinheiro numa viagem de férias.
 
-O cliente aproveita o trabalho sem cumprir sua parte. A justiça exige pagar o que é devido a quem trabalhou. O cliente deve acertar o pagamento antes de gastar esse dinheiro na viagem.
+A costureira cumpriu o combinado, mas o cliente não pagou. A justiça exige pagar o que é devido a quem trabalhou. O cliente deve pagar a costureira, mesmo que precise adiar a viagem.
 
 **Conferência:** Por que esse pagamento não pode depender da boa vontade do cliente?
 
@@ -302,9 +302,9 @@ O cliente aproveita o trabalho sem cumprir sua parte. A justiça exige pagar o q
 
 **Conceito:** A caridade ajuda sem expor ou constranger quem recebe.
 
-**Caso:** Um voluntário leva uma cesta de alimentos a uma família e pede uma foto da entrega. A mãe recusa, mas o voluntário insiste.
+**Caso:** Um voluntário leva alimentos a uma família e pede uma foto para publicar nas redes sociais. A mãe não autoriza, mas o voluntário insiste.
 
-A família precisa de ajuda, não de exposição. A dignidade de quem recebe deve orientar a forma de ajudar. O voluntário deve respeitar a recusa e entregar a cesta sem exigir a foto.
+O voluntário insiste na foto apesar da recusa da mãe. Receber ajuda não obriga ninguém a expor sua vida. O voluntário deve entregar os alimentos sem fotografar a família.
 
 **Conferência:** Por que a ajuda não dá direito de expor quem a recebe?
 
@@ -314,13 +314,13 @@ A família precisa de ajuda, não de exposição. A dignidade de quem recebe dev
 
 ## I08 - Domingo em disputa
 
-**Conceito:** O domingo é dia de celebrar a ressurreição, participar da Missa e cultivar descanso e convivência.
+**Conceito:** O domingo é dia de celebrar a ressurreição, participar da Missa, descansar e conviver com a família.
 
 **Caso:** Uma família combina os passeios de domingo e deixa a Missa para depois. Como sempre volta tarde, acaba não participando.
 
-A Missa fica sempre em segundo plano nos compromissos da família. No domingo, celebramos a ressurreição de Jesus e nos reunimos para a Eucaristia. A família pode escolher um horário de Missa ao organizar os passeios.
+A família organiza os passeios, mas não reserva tempo para a Missa. O domingo é o dia da ressurreição de Jesus; participar da Missa é um dever dos católicos. A família deve escolher o horário da Missa antes de marcar os passeios.
 
-**Conferência:** O que a família pode mudar nos planos de domingo para participar da Missa?
+**Conferência:** Como a família deve organizar o domingo para conciliar a Missa e os passeios?
 
 **Nota:** Distinguir escolha por comodidade de doença, cuidado de dependentes ou outro impedimento sério.
 
@@ -330,9 +330,9 @@ A Missa fica sempre em segundo plano nos compromissos da família. No domingo, c
 
 **Conceito:** Podemos confiar em Deus e pedir sua ajuda mesmo sem compreender o sofrimento.
 
-**Caso:** Uma mulher reza pelo marido, que está em tratamento há meses. Sem melhora, começa a achar que Deus não escuta suas orações.
+**Caso:** Uma mulher reza pelo marido, que está em tratamento há meses. A falta de melhora faz a mulher pensar que Deus não escuta suas orações.
 
-A mulher desanima porque o marido não melhora. Deus nos escuta e nos ama, mesmo quando não recebemos a resposta que esperamos. A mulher pode continuar rezando e aceitar apoio durante o tratamento.
+A mulher desanima porque o marido não melhora. Deus nos escuta e nos ama, mesmo quando não recebemos a resposta que esperamos. Na oração, a mulher pode apresentar sua dor e pedir força para cuidar do marido.
 
 **Conferência:** Por que a falta de melhora não significa que a oração foi inútil?
 
@@ -346,7 +346,7 @@ A mulher desanima porque o marido não melhora. Deus nos escuta e nos ama, mesmo
 
 **Caso:** Depois de anos afastado, um homem volta à Missa. Um conhecido pergunta em voz alta, diante de outras pessoas, por que ficou tanto tempo sem aparecer.
 
-A cobrança pública pode constranger quem está voltando. A comunidade deve ajudar quem deseja retomar a vida de fé. O conhecido pode cumprimentar o homem e oferecer ajuda, sem cobrar explicações diante dos outros.
+A cobrança pública pode constranger quem está voltando. A comunidade tem o dever de acolher quem volta a procurar Deus. O conhecido deve cumprimentar o homem e deixar que fale de sua ausência se quiser.
 
 **Conferência:** Como acolher esse retorno sem constranger quem chegou?
 
@@ -360,7 +360,7 @@ A cobrança pública pode constranger quem está voltando. A comunidade deve aju
 
 **Caso:** Um idoso passa a semana sozinho e repete as mesmas histórias quando recebe visitas. O sobrinho pensa em encurtar a visita porque já ouviu tudo.
 
-O idoso precisa de companhia, mesmo quando repete as histórias. Visitar e escutar são formas de praticar a misericórdia que Jesus nos ensina. O sobrinho pode ouvir com atenção e combinar quando pode voltar.
+O idoso precisa de companhia, mesmo quando repete as histórias. Visitar e escutar são formas de praticar a misericórdia que Jesus nos ensina. O sobrinho deve ouvir com atenção e combinar quando conseguirá voltar.
 
 **Conferência:** O que a visita oferece ao idoso, mesmo quando as histórias se repetem?
 
@@ -372,9 +372,9 @@ O idoso precisa de companhia, mesmo quando repete as histórias. Visitar e escut
 
 **Conceito:** Os dons de cada pessoa são recebidos para servir ao bem da comunidade.
 
-**Caso:** Numa comunidade, uma jovem canta nas celebrações e um rapaz prepara o espaço. Só a cantora recebe agradecimentos; o trabalho do rapaz passa despercebido.
+**Caso:** Na paróquia, uma jovem canta e um rapaz organiza as cadeiras e os livros antes da Missa. Só a cantora recebe agradecimentos.
 
-Os dois serviços contribuem para a celebração. Deus concede dons para o bem de todos, não para disputar importância. A comunidade pode agradecer também a quem trabalha sem aparecer.
+Os dois serviços contribuem para a celebração. Os dons recebidos de Deus servem ao bem da comunidade. A comunidade deve reconhecer e agradecer também o trabalho do rapaz.
 
 **Conferência:** Por que o serviço de quem prepara o espaço também merece reconhecimento?
 
@@ -388,7 +388,7 @@ Os dois serviços contribuem para a celebração. Deus concede dons para o bem d
 
 **Caso:** Uma jovem aceita as desculpas da amiga que espalhou um segredo. Mesmo assim, pensa em divulgar algo íntimo da amiga para que sinta a mesma vergonha.
 
-A jovem ainda deseja se vingar, apesar de ter aceitado as desculpas. Jesus nos chama a perdoar, mesmo quando a mágoa não passa de imediato. A jovem pode pedir a ajuda de Deus e desistir de expor a amiga.
+A jovem ainda deseja se vingar, apesar de ter aceitado as desculpas. Jesus nos chama a perdoar, mesmo quando a mágoa não passa de imediato. A jovem deve desistir de expor a amiga e pedir a Deus força para perdoar.
 
 **Conferência:** Como a jovem pode começar a perdoar, mesmo ainda magoada?
 
@@ -402,7 +402,7 @@ A jovem ainda deseja se vingar, apesar de ter aceitado as desculpas. Jesus nos c
 
 **Caso:** Um homem gravemente doente pede a Unção dos Enfermos. A família adia a visita do padre porque acha que esse sacramento é só para quem está morrendo.
 
-A Unção não precisa esperar os últimos momentos da vida. Cristo oferece ao doente força, paz e coragem para enfrentar a enfermidade. A família pode procurar o padre e continuar acompanhando o tratamento.
+A Unção não precisa esperar os últimos momentos da vida. Nesse sacramento, Cristo dá ao doente força, paz e coragem para enfrentar a doença. A família deve atender ao pedido do doente e chamar o padre.
 
 **Conferência:** Por que a família não precisa esperar a proximidade da morte para chamar o padre?
 
@@ -412,11 +412,11 @@ A Unção não precisa esperar os últimos momentos da vida. Cristo oferece ao d
 
 ## I15 - Fé fora da igreja
 
-**Conceito:** A vida cristã também se manifesta na família, no trabalho e no modo de tratar as pessoas.
+**Conceito:** A fé deve orientar também a vida em casa, no trabalho e no trato com as pessoas.
 
-**Caso:** Uma comerciante que participa da Missa percebe que deu menos troco a um cliente. O cliente já foi embora e não reclamou.
+**Caso:** Uma comerciante que participa da Missa percebe que deu menos troco a um cliente conhecido. Pensa em ficar com a diferença, já que o cliente não reclamou.
 
-Mesmo sem reclamação, a comerciante sabe que deve devolver o dinheiro. A fé celebrada na Missa também orienta o trabalho e o uso do dinheiro. A comerciante deve procurar o cliente e devolver o que falta.
+Ficar com a diferença seria tomar um dinheiro que pertence ao cliente. A fé celebrada na Missa exige honestidade também no trabalho. A comerciante deve procurar o cliente e devolver o valor que falta.
 
 **Conferência:** Como essa decisão se relaciona com a fé celebrada na Missa?
 
@@ -430,7 +430,7 @@ Mesmo sem reclamação, a comerciante sabe que deve devolver o dinheiro. A fé c
 
 **Caso:** Um homem faz uma oferta à igreja para conseguir uma promoção. Como não é promovido, reclama que Deus não cumpriu o combinado.
 
-O homem transforma a oferta numa cobrança. O amor de Deus não é comprado por ofertas. Podemos oferecer e pedir com confiança, sem tratar Deus como devedor.
+O homem acha que a oferta obriga Deus a lhe dar a promoção. O amor de Deus não é comprado por ofertas. O homem deve rezar e doar sem exigir que Deus lhe dê uma recompensa.
 
 **Conferência:** O que diferencia uma oferta sincera de uma tentativa de comprar um favor?
 
@@ -440,11 +440,11 @@ O homem transforma a oferta numa cobrança. O amor de Deus não é comprado por 
 
 ## N02 - Deus só castiga
 
-**Conceito:** Deus é justo e misericordioso; sua ação não se reduz a vigiar e punir.
+**Conceito:** Deus é justo e misericordioso; ensina a evitar o pecado e oferece perdão a quem se arrepende.
 
 **Caso:** Uma menina derruba um prato sem querer. Um parente diz que foi castigo de Deus porque a menina tinha desobedecido mais cedo.
 
-Derrubar o prato não prova que Deus esteja castigando a menina. Deus nos ama e nos chama a corrigir nossos erros. O parente pode tratar da desobediência sem usar o acidente para assustar a menina.
+Derrubar o prato não prova que Deus esteja castigando a menina. Deus nos ama e nos chama a corrigir nossos erros. O parente deve corrigir a desobediência sem usar o nome de Deus para assustar a menina.
 
 **Conferência:** O que há de errado em usar esse acidente para ensinar a menina sobre Deus?
 
@@ -454,13 +454,13 @@ Derrubar o prato não prova que Deus esteja castigando a menina. Deus nos ama e 
 
 ## N03 - Fé só de palavras
 
-**Conceito:** A fé pede uma resposta que alcance nossas escolhas e o cuidado com o próximo.
+**Conceito:** Crer em Deus exige viver a fé nas escolhas e no cuidado com o próximo.
 
 **Caso:** Um homem diz que basta acreditar em Deus, mas se recusa a devolver uma ferramenta que pegou emprestada do vizinho.
 
-A declaração de fé não dispensa o homem de respeitar o que pertence ao vizinho. Crer em Deus também pede agir com justiça e caridade. O homem deve devolver a ferramenta, em vez de ficar com o que não é seu.
+Dizer que acredita em Deus não dá ao homem o direito de ficar com a ferramenta. A fé exige honestidade e respeito ao próximo. O homem deve devolver a ferramenta, em vez de ficar com o que não é seu.
 
-**Conferência:** O que falta quando a fé é afirmada, mas não orienta a ação?
+**Conferência:** Por que devolver a ferramenta também é uma questão de fé?
 
 **Nota:** As obras são resposta à graça, não uma compra da salvação.
 
@@ -468,11 +468,11 @@ A declaração de fé não dispensa o homem de respeitar o que pertence ao vizin
 
 ## N04 - Sacramento como formatura
 
-**Conceito:** Receber um sacramento faz crescer a vida cristã; não encerra a relação com a Igreja.
+**Conceito:** Receber um sacramento alimenta a vida cristã; não é o fim da participação na Igreja.
 
 **Caso:** Depois da Primeira Comunhão do filho, um casal deixa de levá-lo à Missa: acha que a obrigação com a Igreja já foi cumprida.
 
-A família trata a Primeira Comunhão como o fim da participação na Igreja. A Eucaristia nos une a Cristo e alimenta a vida cristã. Por isso, a família é chamada a continuar participando da Missa.
+A família trata a Primeira Comunhão como o fim da participação na Igreja. A Eucaristia nos une a Cristo e alimenta a vida cristã. O casal deve continuar participando da Missa com o filho e cuidando da sua formação cristã.
 
 **Conferência:** Por que a participação na Igreja continua depois da Primeira Comunhão?
 
@@ -482,11 +482,11 @@ A família trata a Primeira Comunhão como o fim da participação na Igreja. A 
 
 ## N05 - Missa só quando dá vontade
 
-**Conceito:** Participar da Missa dominical é um compromisso de fé, não apenas uma preferência do momento.
+**Conceito:** Participar da Missa aos domingos é um dever dos católicos, salvo impedimento sério.
 
 **Caso:** Um jovem só vai à Missa quando canta um grupo de que gosta. Nos outros domingos, fica em casa, embora possa participar.
 
-O gosto musical passou a decidir a participação. Na Missa, a comunidade se reúne para ouvir a Palavra e celebrar a Páscoa de Cristo. O jovem pode participar com fé mesmo quando as músicas não são suas preferidas.
+O jovem decide ir à Missa só pelo gosto musical. Na Missa, ouvimos a Palavra de Deus e celebramos a Eucaristia. O jovem deve participar da Missa aos domingos, mesmo quando outro grupo canta.
 
 **Conferência:** O que faz a Missa ter valor além do nosso gosto pessoal?
 
@@ -500,7 +500,7 @@ O gosto musical passou a decidir a participação. Na Missa, a comunidade se re�
 
 **Caso:** Um rapaz pega dinheiro da irmã sem permissão. Pede desculpas, mas já planeja pegar mais quando precisar.
 
-O pedido de perdão não acompanha uma decisão de mudar. Arrepender-se inclui rejeitar o pecado. O rapaz precisa desistir do novo furto e devolver o que retirou.
+O rapaz pede desculpas, mas pretende repetir o furto. Arrepender-se inclui rejeitar o pecado. O rapaz precisa desistir do novo furto e devolver o que retirou.
 
 **Conferência:** Por que o pedido de desculpas não mostra arrependimento nesse caso?
 
@@ -514,7 +514,7 @@ O pedido de perdão não acompanha uma decisão de mudar. Arrepender-se inclui r
 
 **Caso:** Uma mensagem promete que uma oração repetida sete vezes garante qualquer pedido. Uma mulher fica preocupada por ter perdido a conta.
 
-A mulher teme perder o resultado prometido pela mensagem. Rezar sete vezes não obriga Deus a atender um pedido. A mulher pode rezar com confiança em Deus, sem depender dessa promessa.
+A mensagem apresenta a oração como uma garantia automática. Nenhuma contagem obriga Deus a realizar um desejo. A mulher deve rejeitar essa promessa e rezar confiando em Deus.
 
 **Conferência:** Por que repetir a oração sete vezes não garante o pedido?
 
@@ -528,7 +528,7 @@ A mulher teme perder o resultado prometido pela mensagem. Rezar sete vezes não 
 
 **Caso:** Um rapaz faz piadas sobre a aparência de um colega. Quando pedem que pare, responde: 'Jesus mandou não julgar'.
 
-O rapaz usa uma frase de Jesus para evitar reconhecer o erro. Jesus ensina a reconhecer nossos erros e corrigir o irmão com caridade. O rapaz precisa parar a humilhação e reparar a ofensa.
+O rapaz usa uma frase de Jesus para evitar reconhecer o erro. Jesus ensina a reconhecer nossos erros e corrigir o irmão com caridade. O rapaz deve parar as piadas e pedir desculpas ao colega.
 
 **Conferência:** Por que a frase usada pelo rapaz não impede uma correção justa?
 
@@ -538,13 +538,13 @@ O rapaz usa uma frase de Jesus para evitar reconhecer o erro. Jesus ensina a rec
 
 ## N09 - Igreja sem compromisso
 
-**Conceito:** Pertencer à Igreja envolve comunhão, participação e responsabilidade pelo bem dos outros.
+**Conceito:** O Batismo nos torna membros da Igreja, com o dever de viver a fé junto da comunidade.
 
-**Caso:** Um homem procura a paróquia para obter uma certidão de Batismo. Ao ser convidado a participar da comunidade, diz que só quer o documento.
+**Caso:** Um homem recusa um convite para a Missa de domingo. Diz que não precisa participar da Igreja porque já foi batizado quando criança.
 
-A certidão registra o Batismo, mas pertencer à Igreja vai além desse documento. O Batismo nos une a um povo chamado a viver e testemunhar a fé. O homem pode buscar uma forma possível e constante de participar da comunidade.
+Ser batizado não elimina o dever de participar da Igreja. O Batismo nos une a Cristo e à comunidade dos fiéis. O homem deve viver essa fé na Missa, na oração e no cuidado com o próximo.
 
-**Conferência:** O que significa pertencer à Igreja, além de ter uma certidão de Batismo?
+**Conferência:** Que compromissos o Batismo traz para a vida do cristão?
 
 **Nota:** Não presumir desinteresse de quem enfrenta obstáculos reais à participação.
 
@@ -552,11 +552,11 @@ A certidão registra o Batismo, mas pertencer à Igreja vai além desse document
 
 ## N10 - Doação sem cuidado
 
-**Conceito:** Partilhar exige considerar se aquilo que oferecemos atende à necessidade com dignidade.
+**Conceito:** Doar exige oferecer algo que a pessoa possa usar, sem tratá-la como inferior.
 
 **Caso:** Durante uma campanha de doação, um homem separa roupas sujas e rasgadas. Diz que, para quem precisa, qualquer coisa serve.
 
-A doação está sendo usada para descartar o que não serve. Quem precisa de ajuda conserva a mesma dignidade de quem oferece. O homem pode separar peças em condições de uso e doar com respeito.
+A doação está sendo usada para descartar o que não serve. Quem precisa de ajuda conserva a mesma dignidade de quem oferece. O homem deve separar roupas limpas e em boas condições de uso.
 
 **Conferência:** Que critério deve orientar a escolha do que doar?
 
@@ -570,7 +570,7 @@ A doação está sendo usada para descartar o que não serve. Quem precisa de aj
 
 **Caso:** Depois de perder o emprego, um pai pensa que sua fé não valeu de nada. Acreditava que, por rezar, nunca passaria por uma dificuldade assim.
 
-O pai esperava que a oração o protegesse de qualquer dificuldade. Jesus não prometeu uma vida sem sofrimento; prometeu estar conosco. O pai pode pedir ajuda, procurar trabalho e confiar em Deus.
+Perder o emprego não prova falta de fé nem abandono de Deus. Jesus não prometeu uma vida sem sofrimento; prometeu estar conosco. O pai pode continuar rezando e pedir apoio à família enquanto procura outro emprego.
 
 **Conferência:** Por que enfrentar uma dificuldade não prova que a fé foi inútil?
 
@@ -582,9 +582,9 @@ O pai esperava que a oração o protegesse de qualquer dificuldade. Jesus não p
 
 **Conceito:** A Igreja chama os pecadores à conversão e os acompanha no caminho da santidade.
 
-**Caso:** Uma mulher adia a volta à Igreja. Acha que primeiro precisa corrigir todos os seus defeitos para poder participar.
+**Caso:** Uma mulher quer voltar à Missa, mas sente vergonha porque ainda grita com os filhos. Diz que só voltará quando não errar mais.
 
-A mulher acha que precisa ser perfeita para voltar. Cristo chama os pecadores à conversão e oferece graça para mudar. A mulher pode voltar à comunidade, procurar a Confissão e retomar a vida de fé.
+A mulher espera ficar perfeita antes de procurar a ajuda da Igreja. Cristo chama os pecadores à conversão e oferece graça para mudar. O caminho é voltar à Missa, procurar a Confissão e corrigir o modo de tratar os filhos.
 
 **Conferência:** Por que não é preciso esperar ser perfeito para procurar a Igreja?
 
@@ -594,11 +594,11 @@ A mulher acha que precisa ser perfeita para voltar. Cristo chama os pecadores à
 
 ## N13 - Mudar é impossível
 
-**Conceito:** Com a graça de Deus e passos concretos, podemos combater hábitos ruins e recomeçar.
+**Conceito:** A graça de Deus nos ajuda a abandonar hábitos ruins e escolher o bem.
 
 **Caso:** Um rapaz costuma mentir para evitar broncas. Quando a família pede sinceridade, responde que sempre foi assim e não consegue mudar.
 
-O rapaz trata um hábito como se fosse impossível mudá-lo. A graça de Deus nos ajuda a reconhecer o pecado e a mudar de atitude. O rapaz pode começar admitindo uma mentira e pedindo apoio para agir diferente.
+Ter o hábito de mentir não significa ser incapaz de mudar. A graça de Deus nos ajuda a reconhecer o pecado e a mudar de atitude. O rapaz deve contar a verdade, aceitar a correção e pedir a Deus ajuda para não mentir.
 
 **Conferência:** O que o rapaz pode fazer para começar a mudar esse hábito?
 
@@ -608,11 +608,11 @@ O rapaz trata um hábito como se fosse impossível mudá-lo. A graça de Deus no
 
 ## N14 - Corrente de medo
 
-**Conceito:** Uma ameaça em nome de Deus não transforma uma mensagem em verdade de fé.
+**Conceito:** Não é ensinamento da Igreja ameaçar com castigos quem se recusa a encaminhar uma mensagem.
 
 **Caso:** Uma mensagem de oração ameaça com castigo quem não a encaminhar. Um adolescente fica com medo e pensa em enviá-la à família.
 
-A mensagem usa o medo para conseguir novos envios. A fé em Deus não depende de repassar ameaças ou correntes. O adolescente pode interromper o envio e esclarecer que a ameaça não é ensinamento da Igreja.
+A mensagem usa o medo para conseguir novos envios. Essa ameaça é superstição, não um ensinamento da Igreja. O adolescente não deve encaminhar a corrente; ignorar essa mensagem não é ofensa a Deus.
 
 **Conferência:** Como distinguir um convite à oração de uma corrente que usa o medo?
 
@@ -622,15 +622,15 @@ A mensagem usa o medo para conseguir novos envios. A fé em Deus não depende de
 
 ## N15 - Vale tudo para ajudar
 
-**Conceito:** Uma boa finalidade não torna correto um meio desonesto ou injusto.
+**Conceito:** Querer ajudar não torna aceitável mentir, enganar ou prejudicar alguém.
 
 **Caso:** Para arrecadar dinheiro para reformar um abrigo, uma voluntária diz que os moradores estão sem comida, embora saiba que isso não é verdade.
 
-A voluntária usa uma mentira para conseguir doações. Um fim bom não justifica um meio mau. A voluntária deve corrigir a informação e apresentar a necessidade real da reforma.
+A voluntária usa uma mentira para conseguir doações. Ajudar o abrigo não dá à voluntária o direito de mentir. A voluntária deve corrigir a informação e apresentar a necessidade real da reforma.
 
-**Conferência:** Como manter o objetivo de ajudar sem aceitar a mentira?
+**Conferência:** Como a voluntária deve corrigir o que fez e continuar ajudando o abrigo?
 
-**Nota:** Distinguir a finalidade da ação usada para alcançá-la.
+**Nota:** É preciso avaliar o objetivo e também a maneira de alcançá-lo.
 
 **Referências:** CEC 1753
 
@@ -640,7 +640,7 @@ A voluntária usa uma mentira para conseguir doações. Um fim bom não justific
 
 **Caso:** Uma jovem antes se emocionava ao rezar. Agora vive um período sem entusiasmo e pensa que deixou de ter fé.
 
-A jovem acha que perdeu a fé porque deixou de se emocionar. A fé se apoia em Deus, não na intensidade da emoção. A jovem pode continuar rezando e buscar orientação sobre essa fase.
+Deixar de se emocionar não significa deixar de crer. Ter fé é confiar em Deus e responder à sua Palavra, mesmo sem sentir emoção. A jovem deve continuar rezando com sinceridade, mesmo sem a emoção de antes.
 
 **Conferência:** Por que a falta de emoção não significa, por si só, falta de fé?
 
@@ -652,9 +652,9 @@ A jovem acha que perdeu a fé porque deixou de se emocionar. A fé se apoia em D
 
 **Conceito:** Perguntar para compreender é diferente de rejeitar uma resposta sem querer escutá-la.
 
-**Caso:** Dois amigos têm dúvidas sobre a ressurreição. Um procura entender; o outro interrompe toda explicação e diz que não quer ouvir.
+**Caso:** Numa conversa sobre a ressurreição, um rapaz pede que expliquem melhor o que não entendeu. Outro interrompe: diz que não quer ouvir porque nada o fará mudar de ideia.
 
-Os dois têm uma dúvida, mas só um está disposto a buscar uma resposta. Perguntar com sinceridade pode ajudar a crescer na fé. É possível pedir ajuda, estudar e continuar perguntando sem fingir que já entendeu.
+Um rapaz quer compreender; o outro não aceita nem ouvir a resposta. Ter uma dúvida é diferente de rejeitar uma explicação antes de conhecê-la. Quem busca compreender a fé precisa escutar e perguntar sobre o que ainda não ficou claro.
 
 **Conferência:** O que distingue uma pergunta sincera de uma recusa de escutar?
 
@@ -668,9 +668,9 @@ Os dois têm uma dúvida, mas só um está disposto a buscar uma resposta. Pergu
 
 **Caso:** Um morador põe música alta de madrugada e diz que ser livre é fazer o que quiser dentro de casa. O vizinho precisa acordar cedo.
 
-O som alto impede os vizinhos de descansar. Ser livre não elimina a responsabilidade pelo bem do próximo. O morador pode diminuir o volume e respeitar o descanso dos vizinhos.
+O som alto impede os vizinhos de descansar. Ser livre não elimina a responsabilidade pelo bem do próximo. O morador deve baixar o volume ou usar fones para não atrapalhar os vizinhos.
 
-**Conferência:** Como distinguir exercer a liberdade de impor a própria vontade aos outros?
+**Conferência:** Por que estar dentro de casa não dá ao morador o direito de manter esse barulho?
 
 **Nota:** O limite protege um bem real: o descanso.
 
@@ -682,11 +682,11 @@ O som alto impede os vizinhos de descansar. Ser livre não elimina a responsabil
 
 **Caso:** Durante uma discussão, uma jovem sente vontade de insultar a irmã. Decide parar antes de falar e esperar se acalmar.
 
-A jovem sentiu raiva, mas decidiu não insultar a irmã. Ter vontade de ofender não é o mesmo que decidir fazer isso. Esperar se acalmar ajuda a retomar a conversa sem ofensas.
+A jovem sentiu raiva e vontade de ofender. Sentir uma tentação não é pecado; aceitá-la e escolher o mal é. Parar a discussão para se acalmar foi uma forma de resistir à tentação.
 
 **Conferência:** O que mostra que a jovem não escolheu ceder à tentação?
 
-**Nota:** Pode haver pecado interior quando se aceita o mal; pensamento involuntário não é consentimento.
+**Nota:** Também há pecado quando escolhemos alimentar o mal no pensamento. Um pensamento que surge sem querer não é essa escolha.
 
 **Referências:** CEC 1264; CEC 2847
 
@@ -696,7 +696,7 @@ A jovem sentiu raiva, mas decidiu não insultar a irmã. Ter vontade de ofender 
 
 **Caso:** Um rapaz perdoa um amigo que mentiu para conseguir dinheiro emprestado, mas decide não fazer outro empréstimo.
 
-Perdoar a ofensa não obriga o rapaz a correr o mesmo risco de novo. A confiança se reconstrói com atitudes, não só com palavras. O rapaz pode manter o limite sem desejar mal ao amigo.
+Perdoar a ofensa não obriga o rapaz a correr o mesmo risco de novo. A confiança exige que o amigo pare de mentir e cumpra o combinado. O rapaz pode perdoar e recusar outro empréstimo; isso não é vingança.
 
 **Conferência:** Por que esse limite não prova que o perdão foi falso?
 
@@ -708,9 +708,9 @@ Perdoar a ofensa não obriga o rapaz a correr o mesmo risco de novo. A confianç
 
 **Conceito:** Uma ação pode ser errada sem que a pessoa perca sua dignidade ou a possibilidade de conversão.
 
-**Caso:** Um vendedor esconde um defeito do produto. Ao descobrir, o cliente diz: 'Esse homem não presta e nunca vai mudar'.
+**Caso:** Um vendedor sabe que um celular usado desliga sozinho, mas esconde o problema. Depois da compra, o cliente descobre e diz: 'Esse homem não presta e nunca vai mudar'.
 
-O cliente tem razão em reclamar, mas afirma que o vendedor nunca poderá mudar. O pecado deve ser corrigido; quem errou continua tendo dignidade e pode se converter. O vendedor deve reparar o prejuízo e mudar de atitude.
+A venda foi desonesta, e o cliente tem razão em reclamar. O vendedor errou, mas não perdeu sua dignidade nem a possibilidade de se arrepender. O cliente deve cobrar uma solução para o defeito, sem insultar o vendedor.
 
 **Conferência:** Como cobrar a reparação sem tratar o vendedor como alguém incapaz de mudar?
 
@@ -720,11 +720,11 @@ O cliente tem razão em reclamar, mas afirma que o vendedor nunca poderá mudar.
 
 ## G07 - Mortal e venial
 
-**Conceito:** O pecado mortal rompe a amizade com Deus; o venial a enfraquece. Para ser mortal, a falta exige gravidade, pleno conhecimento e consentimento deliberado.
+**Conceito:** O pecado mortal rompe a amizade com Deus; o venial a enfraquece. Para ser mortal, o pecado precisa ser grave, cometido com plena consciência e por livre decisão.
 
 **Caso:** Um rapaz rouba o dinheiro do aluguel da família para comprar um celular. Sabe que é gravemente errado e faz isso por decisão própria.
 
-Há uma falta grave, consciência da gravidade e uma decisão livre. Essas três condições juntas caracterizam o pecado mortal, que rompe a amizade com Deus. O pecado venial fere essa amizade, mas não a rompe; também precisa de arrependimento.
+Roubar o dinheiro do aluguel prejudica gravemente a família. Uma falta grave, feita com pleno conhecimento e livre decisão, é pecado mortal. O pecado mortal rompe a amizade com Deus; o venial a enfraquece. Ambos exigem arrependimento.
 
 **Conferência:** Quais detalhes do caso mostram as três condições do pecado mortal?
 
@@ -766,23 +766,23 @@ Rezar diante de uma imagem não significa adorar a estátua. Adoramos somente a 
 
 **Caso:** Uma mulher deixa de rezar a Ave-Maria porque ouviu que pedir ajuda a Maria é deixar Jesus de lado.
 
-Pedir que Maria reze por nós não impede falar diretamente com Jesus. Maria é a mãe de Jesus, o Filho de Deus, e nos conduz a Ele. Podemos pedir essa intercessão e seguir o exemplo de fé de Maria.
+Quando rezamos a Ave-Maria, pedimos que Maria ore por nós. Maria é a Mãe de Jesus e nos ensina a obedecer a Ele. Pedir a oração de Maria não substitui nossa confiança em Jesus, o único Salvador.
 
 **Conferência:** Por que recorrer a Maria não significa substituir Jesus?
 
 **Nota:** Interceder é pedir a Deus por alguém; Maria não é uma deusa.
 
-**Referências:** CEC 495; CEC 971; Jo 2,1-5
+**Referências:** CEC 495; CEC 970-971; Jo 2,1-5
 
 ## G11 - Esperança e acomodação
 
-**Conceito:** A esperança cristã confia na vida eterna prometida por Deus e sustenta nossa fidelidade no presente.
+**Conceito:** A esperança cristã é confiar na vida eterna prometida por Deus e contar com sua ajuda para viver a fé.
 
 **Caso:** Um homem desempregado deixa passar uma entrevista. Diz que, se a vaga for vontade de Deus, vai consegui-la sem precisar fazer nada.
 
-Confiar em Deus não dispensa o homem de procurar trabalho. A esperança cristã confia nas promessas de Cristo e na ajuda de Deus para perseverar. O homem pode rezar e se preparar para as oportunidades que surgirem.
+Confiar em Deus não dispensa o homem de procurar trabalho. A esperança cristã confia na vida eterna prometida por Deus e na sua ajuda para viver a fé. O homem deve procurar vagas e comparecer às entrevistas, pedindo a Deus força para não desistir.
 
-**Conferência:** Como a esperança pode incentivar a ação em vez de impedir o esforço?
+**Conferência:** Qual é a diferença entre confiar na ajuda de Deus e esperar que Ele faça tudo?
 
 **Nota:** Esperança não é certeza de conseguir uma vaga. Não culpar quem enfrenta obstáculos reais para trabalhar.
 
@@ -794,7 +794,7 @@ Confiar em Deus não dispensa o homem de procurar trabalho. A esperança cristã
 
 **Caso:** Uma enfermeira quer servir a Deus, mas pensa que precisaria deixar o trabalho e entrar num convento.
 
-A enfermeira pode servir a Deus também no trabalho. A profissão é o trabalho que exercemos; a vocação é o chamado de Deus para uma vida santa. Cuidar dos pacientes com amor e honestidade pode fazer parte dessa resposta.
+Servir a Deus não exige que toda pessoa entre num convento. A profissão é o trabalho que exercemos; a vocação é o chamado de Deus para uma vida santa. A enfermeira vive esse chamado ao cuidar bem dos pacientes e respeitar cada pessoa.
 
 **Conferência:** Por que a enfermeira não precisa entrar num convento para servir a Deus?
 
@@ -808,11 +808,11 @@ A enfermeira pode servir a Deus também no trabalho. A profissão é o trabalho 
 
 **Caso:** Um casal dedica meses à decoração do casamento, mas evita conversar sobre fidelidade, filhos e responsabilidades da vida em comum.
 
-Preparar a festa não substitui preparar a vida em comum. No Matrimônio cristão, os esposos recebem a graça de Cristo para viver uma união fiel por toda a vida. O casal precisa conversar sobre esses compromissos antes de assumi-los.
+Preparar a festa não substitui preparar a vida em comum. No Matrimônio cristão, os esposos recebem a graça de Cristo para viver uma união fiel por toda a vida. Os noivos devem conversar sobre como viver a fidelidade, acolher os filhos e dividir as responsabilidades.
 
 **Conferência:** O que precisa ser preparado além da cerimônia e da festa?
 
-**Nota:** A beleza da festa não é o problema; o compromisso é o essencial.
+**Nota:** A festa não é o sacramento.
 
 **Referências:** CEC 1601; CEC 1632; CEC 1641
 
@@ -820,9 +820,9 @@ Preparar a festa não substitui preparar a vida em comum. No Matrimônio cristã
 
 **Conceito:** A celebração da Palavra reúne a comunidade; a Missa inclui também o sacrifício eucarístico e a consagração.
 
-**Caso:** Numa comunidade sem padre naquele domingo, uma mulher conduz a celebração da Palavra. Um visitante chama a celebração de Missa, embora não haja consagração.
+**Caso:** Num domingo sem padre na comunidade, uma mulher conduz as leituras e as orações. Um visitante diz que participou da Missa.
 
-A comunidade se reúne para rezar e escutar a Palavra, mas não celebra a Missa. Na Missa, torna-se presente o sacrifício de Cristo, e o pão e o vinho são consagrados. Pelo sacramento da Ordem, bispos e padres podem consagrar o pão e o vinho.
+A comunidade se reúne para rezar e escutar a Palavra, mas não celebra a Missa. Na Missa, o sacrifício de Cristo na cruz se torna presente, e o pão e o vinho são consagrados. Somente padres e bispos, pelo sacramento da Ordem, podem consagrar o pão e o vinho.
 
 **Conferência:** O que distingue essa celebração da Palavra de uma Missa?
 
@@ -836,23 +836,23 @@ A comunidade se reúne para rezar e escutar a Palavra, mas não celebra a Missa.
 
 **Caso:** O bebê fica doente com frequência. A família acredita que o Batismo resolverá isso e procura a paróquia por esse motivo.
 
-A família trata o Batismo como uma proteção automática contra doenças. No Batismo, Cristo perdoa o pecado e dá vida nova; não promete uma vida sem doença. Os pais precisam entender o sacramento e continuar cuidando da saúde da criança.
+A família espera uma cura garantida pelo Batismo. No Batismo, recebemos vida nova em Cristo e o perdão do pecado original. O sacramento não garante saúde física nem substitui o tratamento da criança.
 
 **Conferência:** Por que procurar o Batismo como garantia de saúde é entender mal o sacramento?
 
-**Nota:** A ação de Cristo é real; não depende apenas do sentimento de quem recebe.
+**Nota:** A graça do Batismo é real; o pecado original não é uma culpa pessoal do bebê.
 
-**Referências:** CEC 1127-1128; CEC 1213; CEC 2111
+**Referências:** CEC 1127-1128; CEC 1250; CEC 405; CEC 2111
 
 ## O01 - Escutar o Evangelho
 
-**Conceito:** Escutar o Evangelho é acolher a palavra de Jesus e procurar responder a ela.
+**Conceito:** Escutar o Evangelho exige compreender o que Jesus ensina e colocar em prática.
 
-**Caso:** Na Missa, uma jovem ouve o chamado de Jesus ao perdão. Pensa na irmã com quem brigou, mas só lembra das ofensas que recebeu.
+**Caso:** Uma jovem e a irmã trocam ofensas numa discussão. Na Missa, a jovem ouve Jesus falar de perdão, mas só pensa nas desculpas que quer receber.
 
-A jovem escuta o Evangelho pensando apenas no erro da irmã. A Palavra de Jesus também chama quem escuta a rever suas atitudes. A jovem pode reconhecer sua parte na briga e procurar a irmã para conversar.
+A jovem só pensa nas desculpas que quer receber, sem reconhecer as próprias ofensas. Escutar Jesus exige aplicar sua Palavra à própria vida. A jovem deve reconhecer suas ofensas, pedir perdão e ouvir a irmã.
 
-**Conferência:** O que essa jovem pode mudar ao escutar o Evangelho?
+**Conferência:** O que precisa mudar para a jovem colocar em prática o Evangelho que ouviu?
 
 **Nota:** A Palavra não deve virar uma arma para corrigir apenas os outros.
 
@@ -860,15 +860,15 @@ A jovem escuta o Evangelho pensando apenas no erro da irmã. A Palavra de Jesus 
 
 ## O02 - Reservar tempo para rezar
 
-**Conceito:** Um tempo possível e constante de oração ajuda a cultivar a relação com Deus.
+**Conceito:** A oração diária precisa de tempo reservado, em vez de depender de sobrar tempo.
 
-**Caso:** Um rapaz só tenta rezar quando termina tudo o que queria fazer. Quase sempre fica cansado e adia para o dia seguinte.
+**Caso:** Um rapaz deixa a oração para depois dos vídeos e das mensagens. Quase sempre fica com sono e adia para o dia seguinte.
 
-A oração fica dependente de sobrar tempo. A amizade com Deus pede atenção e perseverança. O rapaz pode escolher um horário e reservar alguns minutos só para a oração.
+Deixar a oração por último virou uma forma de sempre adiá-la. Rezar é parte da vida cristã e precisa ter lugar no nosso dia. O rapaz deve reservar um horário para rezar antes de começar a ver os vídeos.
 
 **Conferência:** Que mudança simples pode ajudar a oração a fazer parte do dia?
 
-**Nota:** Uma rotina possível ajuda mais que uma promessa exagerada.
+**Nota:** Começar com poucos minutos diários e manter o compromisso.
 
 **Referências:** CEC 2697-2698
 
@@ -876,37 +876,37 @@ A oração fica dependente de sobrar tempo. A amizade com Deus pede atenção e 
 
 **Conceito:** Preparar a Confissão envolve examinar a consciência, arrepender-se e confessar com sinceridade.
 
-**Caso:** Uma jovem quer se confessar, mas não sabe o que dizer ao padre. Pensa em repetir uma lista de pecados que encontrou na internet.
+**Caso:** Um rapaz quer se confessar e lembra que pegou dinheiro do pai sem permissão. Pensa em dizer apenas que foi desobediente, para não contar o que fez.
 
-Uma lista pode ajudar, mas não deve ser repetida sem olhar a própria vida. Preparar a Confissão é reconhecer os pecados, arrepender-se e querer mudar. A jovem pode rever suas escolhas e pedir orientação ao padre, sem inventar faltas.
+Dizer apenas 'fui desobediente' esconde o que o rapaz fez. Preparar a Confissão exige reconhecer os pecados, arrepender-se e querer mudar. O rapaz deve confessar o furto com sinceridade e devolver o dinheiro ao pai.
 
-**Conferência:** Por que uma lista pronta não basta para preparar a Confissão?
+**Conferência:** Por que o rapaz precisa contar o que fez, em vez de dizer apenas que foi desobediente?
 
-**Nota:** Roteiros podem ajudar no exame de consciência. Nunca pedir relatos de pecados ao grupo.
+**Nota:** Confessar com clareza não exige contar detalhes desnecessários. Nunca pedir relatos de pecados ao grupo.
 
 **Referências:** CEC 1451; CEC 1454; CEC 1456
 
 ## O04 - Preparar a Comunhão
 
-**Conceito:** Preparar-se para comungar inclui reconhecer quem recebemos e buscar a Reconciliação quando necessária.
+**Conceito:** Quem tem consciência de pecado grave deve procurar a Confissão antes de receber a Eucaristia.
 
-**Caso:** Antes da Missa, um homem reconhece que cometeu um pecado grave e ainda não se confessou. Pensa em comungar apenas para que os outros não estranhem.
+**Caso:** Um homem sabe que pecou gravemente ao trair a esposa, mas ainda não se confessou. Na Missa, pensa em comungar para evitar comentários.
 
-O homem quer comungar para evitar comentários. Quem tem consciência de pecado grave deve procurar a Confissão antes de comungar. O homem pode participar da Missa e rezar, mesmo sem comungar.
+O homem quer comungar para manter as aparências. Quem tem consciência de pecado grave deve procurar a Confissão antes de comungar. O homem deve participar da Missa sem comungar e procurar a Confissão com arrependimento.
 
-**Conferência:** Por que a decisão de comungar não deve depender de parecer igual aos outros?
+**Conferência:** Por que evitar comentários não é motivo para comungar nessa situação?
 
 **Nota:** Não comentar nem tentar adivinhar por que outra pessoa não comungou.
 
-**Referências:** CEC 1385
+**Referências:** CEC 1385; CEC 2380-2381
 
 ## O05 - Rezar o Pai-Nosso
 
 **Conceito:** Na oração ensinada por Jesus, pedimos o Reino, o pão, o perdão e a libertação do mal.
 
-**Caso:** Uma família reza o Pai-Nosso antes do jantar, mas se recusa a dividir comida com um vizinho desempregado que pediu ajuda.
+**Caso:** Uma família reza o Pai-Nosso antes do jantar. Há comida de sobra, mas ninguém quer dividir com um vizinho desempregado que pediu ajuda.
 
-No Pai-Nosso, pedimos o pão de cada dia para todos. Jesus nos ensina a falar com o Pai como irmãos. A família pode separar uma refeição e ajudar o vizinho.
+A família pede o pão de cada dia, mas nega comida a quem precisa, mesmo podendo ajudar. Quando dizemos 'pão nosso', rezamos também pelas necessidades dos outros. A família deve dividir a comida com o vizinho e viver o que pede na oração.
 
 **Conferência:** Como a família pode viver o que pede ao rezar 'o pão nosso de cada dia'?
 
@@ -916,13 +916,13 @@ No Pai-Nosso, pedimos o pão de cada dia para todos. Jesus nos ensina a falar co
 
 ## O06 - Examinar a consciência
 
-**Conceito:** O exame de consciência revê nossas escolhas diante de Deus e ajuda a reconhecer o que precisa de conversão.
+**Conceito:** Examinar a consciência é rever o que fizemos diante de Deus para reconhecer os pecados e mudar.
 
 **Caso:** Ao rever o dia, um jovem lembra que ajudou um colega e mentiu para a mãe. Pensa que a boa ação compensou a mentira.
 
-Uma boa ação não apaga o mal de outra escolha. No exame de consciência, olhamos cada escolha à luz dos mandamentos e do Evangelho. O jovem pode agradecer pelo bem feito, pedir perdão e contar a verdade à mãe.
+Uma boa ação não apaga o mal de outra escolha. Examinar a consciência é comparar nossas escolhas com os mandamentos e o Evangelho. O jovem deve reconhecer a mentira, pedir perdão e contar a verdade à mãe.
 
-**Conferência:** Como rever o dia pode levar a uma mudança concreta?
+**Conferência:** Por que a ajuda ao colega não dispensa o jovem de corrigir a mentira?
 
 **Nota:** Evitar tanto as desculpas quanto a procura ansiosa de culpa em tudo.
 
@@ -932,11 +932,11 @@ Uma boa ação não apaga o mal de outra escolha. No exame de consciência, olha
 
 **Conceito:** Arrepender-se também pede corrigir, conforme possível, o prejuízo causado.
 
-**Caso:** Um menino devolve um livro emprestado com várias páginas rasgadas. Pede desculpas, mas acha que não precisa fazer mais nada.
+**Caso:** Um menino rabisca um livro emprestado. Na hora de devolver, pede desculpas e diz que não tem mais nada a fazer.
 
-As desculpas não resolveram o prejuízo. O arrependimento pede reparar o dano, conforme for possível. Com ajuda de um responsável, o menino pode combinar como consertar ou substituir o livro.
+As desculpas não resolveram o prejuízo. O arrependimento exige reparar o dano, conforme for possível. Com a ajuda de um responsável, o menino deve combinar com o dono como reparar ou substituir o livro.
 
-**Conferência:** Por que pedir desculpas não dispensa o menino de cuidar do prejuízo?
+**Conferência:** Por que pedir desculpas não basta para resolver o prejuízo do dono do livro?
 
 **Nota:** A reparação precisa considerar a idade e as possibilidades de quem causou o dano.
 
@@ -948,7 +948,7 @@ As desculpas não resolveram o prejuízo. O arrependimento pede reparar o dano, 
 
 **Caso:** Um adolescente recebe mensagens exigindo dinheiro e ameaçando uma agressão se contar à família. Fica com medo de pedir ajuda.
 
-A ameaça tenta impedir que o adolescente procure proteção. Cuidar da vida inclui buscar ajuda diante da violência. O adolescente pode mostrar as mensagens a um adulto de confiança e pedir proteção.
+A ameaça tenta impedir que o adolescente procure proteção. Cuidar da vida inclui buscar ajuda diante da violência. O adolescente deve procurar um adulto de confiança, mostrar as ameaças e pedir proteção.
 
 **Conferência:** Por que pedir ajuda é mais prudente que enfrentar essa ameaça sozinho?
 
@@ -958,21 +958,21 @@ A ameaça tenta impedir que o adolescente procure proteção. Cuidar da vida inc
 
 ## O09 - Partilhar com respeito
 
-**Conceito:** A partilha cristã procura o bem de quem recebe e respeita sua liberdade e dignidade.
+**Conceito:** Partilhar exige ouvir do que a pessoa precisa e respeitar sua decisão de aceitar ou recusar.
 
-**Caso:** Uma família oferece uma cesta de alimentos à vizinha desempregada. A vizinha agradece, mas explica que está precisando de fraldas para o bebê.
+**Caso:** Uma família oferece alimentos à vizinha desempregada. A vizinha explica que já tem comida, mas precisa de fraldas para o bebê. A família reclama que a vizinha é ingrata.
 
-A oferta não corresponde ao que a vizinha mais precisa. A caridade considera a necessidade real e a dignidade de quem recebe. Se estiver ao seu alcance, a família pode oferecer as fraldas de que o bebê precisa.
+Precisar de fraldas em vez de alimentos não é ingratidão. A caridade exige ouvir quem recebe e respeitar sua dignidade. A família deve respeitar a resposta e, se puder, ajudar com as fraldas.
 
 **Conferência:** Por que ouvir a vizinha faz parte da ajuda?
 
-**Nota:** A pessoa pode recusar uma oferta; respeitar essa decisão.
+**Nota:** Se a família não puder comprar fraldas, deve dizer isso com respeito, sem censurar a vizinha.
 
 **Referências:** CEC 1931; CEC 2447
 
 ## O10 - Corrigir uma informação
 
-**Conceito:** Quem divulgou uma informação falsa deve procurar corrigir o engano diante de quem a recebeu.
+**Conceito:** Quem divulga uma informação falsa deve corrigir o engano diante de quem a recebeu.
 
 **Caso:** No grupo do bairro, uma moradora acusa a farmácia de vender um produto vencido. Depois percebe que leu a data errada e só apaga a mensagem.
 
@@ -986,13 +986,13 @@ Quem já leu pode continuar acreditando na acusação. Quem divulga informação
 
 ## O11 - Incluir quem ficou de fora
 
-**Conceito:** Acolher pede perceber barreiras concretas e ajudar a pessoa a participar.
+**Conceito:** Incluir alguém exige ajudar a pessoa a superar o que a impede de participar.
 
 **Caso:** Um menino quer entrar num jogo de cartas, mas não conhece as regras. Os jogadores começam outra rodada sem explicar.
 
-O menino quer jogar, mas não sabe como participar. O amor ao próximo inclui atenção a quem fica de fora. Um jogador pode explicar as regras e ajudar o menino na primeira rodada.
+O menino quer jogar, mas não sabe como participar. O amor ao próximo inclui atenção a quem fica de fora. Os jogadores devem explicar as regras e ajudar o menino na primeira rodada.
 
-**Conferência:** Que gesto simples pode transformar a situação desse menino?
+**Conferência:** O que os jogadores precisam fazer para que o menino consiga participar?
 
 **Nota:** Dar apoio sem jogar no lugar do menino.
 
@@ -1000,11 +1000,11 @@ O menino quer jogar, mas não sabe como participar. O amor ao próximo inclui at
 
 ## O12 - Cuidar da casa comum
 
-**Conceito:** O cuidado com a criação começa também em hábitos concretos de uso dos recursos.
+**Conceito:** Cuidar da criação inclui evitar o desperdício de água, energia e alimentos.
 
 **Caso:** Uma família percebe que deixa luzes acesas e a torneira aberta sem necessidade. Todos reclamam da conta, mas ninguém muda os hábitos.
 
-Há desperdícios que a própria família consegue evitar. Cuidar da criação é respeitar um dom de Deus e o bem de todos. Cada pessoa pode apagar a luz ao sair e fechar a torneira enquanto escova os dentes.
+Há desperdícios que a própria família consegue evitar. Cuidar da criação é respeitar um dom de Deus e o bem de todos. A família deve apagar as luzes dos cômodos vazios e fechar a torneira ao escovar os dentes.
 
 **Conferência:** Qual mudança concreta está ao alcance dessa família?
 
@@ -1014,15 +1014,15 @@ Há desperdícios que a própria família consegue evitar. Cuidar da criação �
 
 ## O13 - Assumir um serviço
 
-**Conceito:** Servir à comunidade pede disponibilidade, responsabilidade e fidelidade ao compromisso.
+**Conceito:** Assumir um serviço exige cumprir o combinado, porque outras pessoas passam a contar com a ajuda.
 
-**Caso:** Uma jovem se oferece para organizar as cadeiras antes de um encontro. Quando aparece um convite para sair, pensa em faltar sem avisar.
+**Caso:** Uma jovem se oferece para organizar as cadeiras de uma reunião dos moradores. Depois recebe um convite para sair no mesmo horário e pensa em faltar sem avisar.
 
-Outras pessoas passaram a contar com a ajuda combinada. O serviço à comunidade é uma forma de viver o amor ao próximo. A jovem deve cumprir o combinado ou avisar a tempo se houver um impedimento real.
+Outras pessoas passaram a contar com a ajuda combinada. O serviço à comunidade é uma forma de viver o amor ao próximo. Outro convite não desfaz o compromisso: a jovem deve comparecer e cumprir o combinado.
 
 **Conferência:** Como uma tarefa pequena pode expressar um compromisso de fé?
 
-**Nota:** Não transformar serviço voluntário em obrigação sem limites.
+**Nota:** Se houver um impedimento real, avisar assim que possível e buscar alguém que possa substituir.
 
 **Referências:** CEC 951; CEC 2044
 
@@ -1032,7 +1032,7 @@ Outras pessoas passaram a contar com a ajuda combinada. O serviço à comunidade
 
 **Caso:** Uma jovem convida um colega para a Missa. Como o colega recusa, passa a insistir todos os dias e diz que está apenas tentando ajudar.
 
-O convite se tornou uma pressão sobre o colega. A fé pede uma resposta livre; anunciar Jesus não é forçar alguém a participar. A jovem pode explicar por que a fé importa para ela, ouvir o colega e respeitar a recusa.
+O convite se tornou uma pressão sobre o colega. A fé pede uma resposta livre; anunciar Jesus não é forçar alguém a participar. A jovem deve parar de insistir e respeitar a decisão do colega.
 
 **Conferência:** Como a jovem pode testemunhar a fé respeitando a decisão do colega?
 
@@ -1042,11 +1042,11 @@ O convite se tornou uma pressão sobre o colega. A fé pede uma resposta livre; 
 
 ## O15 - Recomeçar com Deus
 
-**Conceito:** A misericórdia de Deus nos chama a levantar, reparar o erro e retomar o caminho de conversão.
+**Conceito:** Deus oferece perdão e graça para abandonar o pecado; recomeçar exige arrependimento e mudança de atitude.
 
 **Caso:** Um homem estava tentando tratar a família com mais paciência, mas volta a gritar. Fica desanimado e pensa que todo esforço foi inútil.
 
-Voltar a gritar não torna inútil todo o esforço anterior. Deus nos chama ao arrependimento e oferece graça para recomeçar. O homem pode pedir perdão e aprender a fazer uma pausa antes de responder com raiva.
+Voltar a gritar foi errado, mas não torna impossível a mudança. Deus nos chama ao arrependimento e oferece graça para recomeçar. O homem deve pedir perdão à família e fazer uma pausa quando perceber que vai gritar.
 
 **Conferência:** O que significa recomeçar sem fingir que o erro não aconteceu?
 

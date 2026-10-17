@@ -1871,7 +1871,7 @@ def explanation_header_footer(c: canvas.Canvas, doc) -> None:
     c.restoreState()
 
 
-def explanation_section_block(col: str, width: float, styles: dict[str, ParagraphStyle]) -> KeepTogether:
+def explanation_section_block(col: str, width: float, styles: dict[str, ParagraphStyle]) -> Table:
     label = f"{col} · {COLUMN_FULL_TITLES[col].upper()}"
     table = Table([[para(label, styles["section"])]], colWidths=[width])
     table.setStyle(
@@ -1886,7 +1886,10 @@ def explanation_section_block(col: str, width: float, styles: dict[str, Paragrap
             ]
         )
     )
-    return KeepTogether([Spacer(1, 2.8 * mm), table, Spacer(1, 2.0 * mm)])
+    table.spaceBefore = 2.8 * mm
+    table.spaceAfter = 2.0 * mm
+    table.keepWithNext = True
+    return table
 
 
 def explanation_entry_block(
@@ -1895,7 +1898,7 @@ def explanation_entry_block(
     explanation: str,
     width: float,
     styles: dict[str, ParagraphStyle],
-) -> KeepTogether:
+) -> Table:
     anchors = " · ".join(call["anchors"])
     table = Table(
         [
@@ -1922,7 +1925,9 @@ def explanation_entry_block(
             ]
         )
     )
-    return KeepTogether([table, Spacer(1, 2.3 * mm)])
+    table.spaceAfter = 2.3 * mm
+    table.splitByRow = 0
+    return table
 
 
 def build_explanations_letter(terms: list[dict], calls: list[dict], explanations_data: dict) -> Path:
