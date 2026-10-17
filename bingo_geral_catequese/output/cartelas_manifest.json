@@ -1,0 +1,5842 @@
+{
+  "schema": "bingo-catequese/cartelas-manifest.v1",
+  "card_set_id": "bingo_geral_catequese_24_seed_171026_d1a209489fe9",
+  "card_set_hash": "d1a209489fe9e0ada717a74d91c4d0ce911ccb779a2d9634a2b40058282fd038",
+  "project": {
+    "title": "Bingo - Conhecer e viver a fé",
+    "meeting": "Catequese geral - Primeira Eucaristia e Crisma",
+    "meeting_label": "Catequese geral",
+    "output_slug": "bingo_geral_catequese",
+    "core_message": "Jesus Cristo nos revela o Pai e nos salva. Pelo Espírito Santo, aprendemos a crer, celebrar, rezar e amar na vida da Igreja."
+  },
+  "generation": {
+    "algorithm": "balanced-column-assignments-v1",
+    "seed": 171026,
+    "num_cards": 24,
+    "columns": [
+      "B",
+      "I",
+      "N",
+      "G",
+      "O"
+    ],
+    "grid": "5x5",
+    "center": {
+      "label": "LIVRE / Jo 14,6",
+      "fixed": true,
+      "called": false
+    },
+    "win_condition": "duas_linhas"
+  },
+  "source_hashes": {
+    "termos.json": "6cbbd393131fafcc4dfab69b3682ff73220a4207864c4501698ef8531286a254",
+    "chamadas.json": "ade8c70999e5e601c5c7c43805e19744fe0a166a52c904812cf4edf2acf7220f",
+    "explicacoes.json": "98b71f04c44ba1e98d3ce83d602be6838fc1ca1e4ac8bc9c418589f90b1e4a87"
+  },
+  "line_model": [
+    {
+      "type": "horizontal",
+      "index": 1,
+      "cells": [
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ]
+      ]
+    },
+    {
+      "type": "horizontal",
+      "index": 2,
+      "cells": [
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ]
+      ]
+    },
+    {
+      "type": "horizontal",
+      "index": 3,
+      "cells": [
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          3,
+          5
+        ]
+      ]
+    },
+    {
+      "type": "horizontal",
+      "index": 4,
+      "cells": [
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          4,
+          5
+        ]
+      ]
+    },
+    {
+      "type": "horizontal",
+      "index": 5,
+      "cells": [
+        [
+          5,
+          1
+        ],
+        [
+          5,
+          2
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          5,
+          4
+        ],
+        [
+          5,
+          5
+        ]
+      ]
+    },
+    {
+      "type": "vertical",
+      "index": 1,
+      "cells": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          5,
+          1
+        ]
+      ]
+    },
+    {
+      "type": "vertical",
+      "index": 2,
+      "cells": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          5,
+          2
+        ]
+      ]
+    },
+    {
+      "type": "vertical",
+      "index": 3,
+      "cells": [
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          5,
+          3
+        ]
+      ]
+    },
+    {
+      "type": "vertical",
+      "index": 4,
+      "cells": [
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          4
+        ]
+      ]
+    },
+    {
+      "type": "vertical",
+      "index": 5,
+      "cells": [
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          5
+        ],
+        [
+          5,
+          5
+        ]
+      ]
+    },
+    {
+      "type": "diagonal",
+      "index": 1,
+      "cells": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          5
+        ]
+      ]
+    },
+    {
+      "type": "diagonal",
+      "index": 2,
+      "cells": [
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          5,
+          1
+        ]
+      ]
+    }
+  ],
+  "print_layout": {
+    "pdf": "output/pdf/cartelas_bingo_24_a4.pdf",
+    "cards_per_page": 2,
+    "page_order": [
+      {
+        "page": 1,
+        "positions": [
+          {
+            "slot": "top",
+            "card_id": "C01"
+          },
+          {
+            "slot": "bottom",
+            "card_id": "C02"
+          }
+        ]
+      },
+      {
+        "page": 2,
+        "positions": [
+          {
+            "slot": "top",
+            "card_id": "C03"
+          },
+          {
+            "slot": "bottom",
+            "card_id": "C04"
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "positions": [
+          {
+            "slot": "top",
+            "card_id": "C05"
+          },
+          {
+            "slot": "bottom",
+            "card_id": "C06"
+          }
+        ]
+      },
+      {
+        "page": 4,
+        "positions": [
+          {
+            "slot": "top",
+            "card_id": "C07"
+          },
+          {
+            "slot": "bottom",
+            "card_id": "C08"
+          }
+        ]
+      },
+      {
+        "page": 5,
+        "positions": [
+          {
+            "slot": "top",
+            "card_id": "C09"
+          },
+          {
+            "slot": "bottom",
+            "card_id": "C10"
+          }
+        ]
+      },
+      {
+        "page": 6,
+        "positions": [
+          {
+            "slot": "top",
+            "card_id": "C11"
+          },
+          {
+            "slot": "bottom",
+            "card_id": "C12"
+          }
+        ]
+      },
+      {
+        "page": 7,
+        "positions": [
+          {
+            "slot": "top",
+            "card_id": "C13"
+          },
+          {
+            "slot": "bottom",
+            "card_id": "C14"
+          }
+        ]
+      },
+      {
+        "page": 8,
+        "positions": [
+          {
+            "slot": "top",
+            "card_id": "C15"
+          },
+          {
+            "slot": "bottom",
+            "card_id": "C16"
+          }
+        ]
+      },
+      {
+        "page": 9,
+        "positions": [
+          {
+            "slot": "top",
+            "card_id": "C17"
+          },
+          {
+            "slot": "bottom",
+            "card_id": "C18"
+          }
+        ]
+      },
+      {
+        "page": 10,
+        "positions": [
+          {
+            "slot": "top",
+            "card_id": "C19"
+          },
+          {
+            "slot": "bottom",
+            "card_id": "C20"
+          }
+        ]
+      },
+      {
+        "page": 11,
+        "positions": [
+          {
+            "slot": "top",
+            "card_id": "C21"
+          },
+          {
+            "slot": "bottom",
+            "card_id": "C22"
+          }
+        ]
+      },
+      {
+        "page": 12,
+        "positions": [
+          {
+            "slot": "top",
+            "card_id": "C23"
+          },
+          {
+            "slot": "bottom",
+            "card_id": "C24"
+          }
+        ]
+      }
+    ]
+  },
+  "cards": [
+    {
+      "id": "C01",
+      "number": 1,
+      "term_ids": [
+        "B12",
+        "I12",
+        "N12",
+        "G01",
+        "O06",
+        "B03",
+        "I02",
+        "N08",
+        "G04",
+        "O05",
+        "B04",
+        "I08",
+        "G12",
+        "O12",
+        "B02",
+        "I07",
+        "N06",
+        "G06",
+        "O03",
+        "B06",
+        "I13",
+        "N14",
+        "G03",
+        "O10"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B12",
+            "column": "B",
+            "label": "Crisma"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I12",
+            "column": "I",
+            "label": "Dons diferentes"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N12",
+            "column": "N",
+            "label": "Só os perfeitos participam"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G01",
+            "column": "G",
+            "label": "Fé e sentimento"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O06",
+            "column": "O",
+            "label": "Examinar a consciência"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B03",
+            "column": "B",
+            "label": "Espírito Santo"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I02",
+            "column": "I",
+            "label": "Palavra que machuca"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N08",
+            "column": "N",
+            "label": "Bíblia fora de contexto"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G04",
+            "column": "G",
+            "label": "Tentação e pecado"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O05",
+            "column": "O",
+            "label": "Rezar o Pai-Nosso"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B04",
+            "column": "B",
+            "label": "Santíssima Trindade"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I08",
+            "column": "I",
+            "label": "Domingo em disputa"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Jo 14,6"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G12",
+            "column": "G",
+            "label": "Vocação e profissão"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O12",
+            "column": "O",
+            "label": "Cuidar da casa comum"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B02",
+            "column": "B",
+            "label": "Jesus Cristo"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I07",
+            "column": "I",
+            "label": "Ajuda sem exposição"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N06",
+            "column": "N",
+            "label": "Perdão sem arrependimento"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G06",
+            "column": "G",
+            "label": "Pecado e pessoa"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O03",
+            "column": "O",
+            "label": "Preparar a Confissão"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B06",
+            "column": "B",
+            "label": "Ressurreição"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I13",
+            "column": "I",
+            "label": "Perdão que custa"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N14",
+            "column": "N",
+            "label": "Corrente de medo"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G03",
+            "column": "G",
+            "label": "Liberdade e capricho"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O10",
+            "column": "O",
+            "label": "Corrigir uma informação"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C02",
+      "number": 2,
+      "term_ids": [
+        "B01",
+        "I01",
+        "N05",
+        "G14",
+        "O09",
+        "B11",
+        "I07",
+        "N08",
+        "G08",
+        "O15",
+        "B05",
+        "I13",
+        "G11",
+        "O13",
+        "B10",
+        "I08",
+        "N07",
+        "G02",
+        "O01",
+        "B12",
+        "I12",
+        "N10",
+        "G05",
+        "O02"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B01",
+            "column": "B",
+            "label": "Deus Pai"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I01",
+            "column": "I",
+            "label": "Lugar à mesa"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N05",
+            "column": "N",
+            "label": "Missa só quando dá vontade"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G14",
+            "column": "G",
+            "label": "Missa e celebração da Palavra"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O09",
+            "column": "O",
+            "label": "Partilhar com respeito"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B11",
+            "column": "B",
+            "label": "Eucaristia"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I07",
+            "column": "I",
+            "label": "Ajuda sem exposição"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N08",
+            "column": "N",
+            "label": "Bíblia fora de contexto"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G08",
+            "column": "G",
+            "label": "Presença e participação"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O15",
+            "column": "O",
+            "label": "Recomeçar com Deus"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B05",
+            "column": "B",
+            "label": "Criação"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I13",
+            "column": "I",
+            "label": "Perdão que custa"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Jo 14,6"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G11",
+            "column": "G",
+            "label": "Esperança e acomodação"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O13",
+            "column": "O",
+            "label": "Assumir um serviço"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B10",
+            "column": "B",
+            "label": "Batismo"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I08",
+            "column": "I",
+            "label": "Domingo em disputa"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N07",
+            "column": "N",
+            "label": "Oração como fórmula"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G02",
+            "column": "G",
+            "label": "Dúvida e recusa"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O01",
+            "column": "O",
+            "label": "Escutar o Evangelho"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B12",
+            "column": "B",
+            "label": "Crisma"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I12",
+            "column": "I",
+            "label": "Dons diferentes"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N10",
+            "column": "N",
+            "label": "Doação sem cuidado"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G05",
+            "column": "G",
+            "label": "Perdão e confiança"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O02",
+            "column": "O",
+            "label": "Reservar tempo para rezar"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C03",
+      "number": 3,
+      "term_ids": [
+        "B11",
+        "I03",
+        "N12",
+        "G04",
+        "O05",
+        "B05",
+        "I10",
+        "N03",
+        "G11",
+        "O01",
+        "B03",
+        "I02",
+        "G01",
+        "O14",
+        "B15",
+        "I08",
+        "N02",
+        "G10",
+        "O06",
+        "B09",
+        "I14",
+        "N14",
+        "G05",
+        "O10"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B11",
+            "column": "B",
+            "label": "Eucaristia"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I03",
+            "column": "I",
+            "label": "Promessa esquecida"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N12",
+            "column": "N",
+            "label": "Só os perfeitos participam"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G04",
+            "column": "G",
+            "label": "Tentação e pecado"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O05",
+            "column": "O",
+            "label": "Rezar o Pai-Nosso"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B05",
+            "column": "B",
+            "label": "Criação"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I10",
+            "column": "I",
+            "label": "Volta à comunidade"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N03",
+            "column": "N",
+            "label": "Fé só de palavras"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G11",
+            "column": "G",
+            "label": "Esperança e acomodação"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O01",
+            "column": "O",
+            "label": "Escutar o Evangelho"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B03",
+            "column": "B",
+            "label": "Espírito Santo"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I02",
+            "column": "I",
+            "label": "Palavra que machuca"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Jo 14,6"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G01",
+            "column": "G",
+            "label": "Fé e sentimento"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O14",
+            "column": "O",
+            "label": "Testemunhar sem impor"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B15",
+            "column": "B",
+            "label": "Vida eterna"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I08",
+            "column": "I",
+            "label": "Domingo em disputa"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N02",
+            "column": "N",
+            "label": "Deus só castiga"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G10",
+            "column": "G",
+            "label": "Maria e Jesus"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O06",
+            "column": "O",
+            "label": "Examinar a consciência"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B09",
+            "column": "B",
+            "label": "Igreja"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I14",
+            "column": "I",
+            "label": "Doença e cuidado"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N14",
+            "column": "N",
+            "label": "Corrente de medo"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G05",
+            "column": "G",
+            "label": "Perdão e confiança"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O10",
+            "column": "O",
+            "label": "Corrigir uma informação"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C04",
+      "number": 4,
+      "term_ids": [
+        "B13",
+        "I12",
+        "N09",
+        "G02",
+        "O10",
+        "B11",
+        "I01",
+        "N03",
+        "G15",
+        "O11",
+        "B03",
+        "I11",
+        "G06",
+        "O02",
+        "B08",
+        "I06",
+        "N11",
+        "G12",
+        "O03",
+        "B09",
+        "I05",
+        "N14",
+        "G08",
+        "O09"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B13",
+            "column": "B",
+            "label": "Reconciliação"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I12",
+            "column": "I",
+            "label": "Dons diferentes"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N09",
+            "column": "N",
+            "label": "Igreja sem compromisso"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G02",
+            "column": "G",
+            "label": "Dúvida e recusa"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O10",
+            "column": "O",
+            "label": "Corrigir uma informação"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B11",
+            "column": "B",
+            "label": "Eucaristia"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I01",
+            "column": "I",
+            "label": "Lugar à mesa"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N03",
+            "column": "N",
+            "label": "Fé só de palavras"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G15",
+            "column": "G",
+            "label": "Sacramentos e magia"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O11",
+            "column": "O",
+            "label": "Incluir quem ficou de fora"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B03",
+            "column": "B",
+            "label": "Espírito Santo"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I11",
+            "column": "I",
+            "label": "Visita a quem está só"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Jo 14,6"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G06",
+            "column": "G",
+            "label": "Pecado e pessoa"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O02",
+            "column": "O",
+            "label": "Reservar tempo para rezar"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B08",
+            "column": "B",
+            "label": "Fé"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I06",
+            "column": "I",
+            "label": "Trabalho sem pagamento"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N11",
+            "column": "N",
+            "label": "Fé sem dificuldades"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G12",
+            "column": "G",
+            "label": "Vocação e profissão"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O03",
+            "column": "O",
+            "label": "Preparar a Confissão"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B09",
+            "column": "B",
+            "label": "Igreja"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I05",
+            "column": "I",
+            "label": "Compra e desperdício"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N14",
+            "column": "N",
+            "label": "Corrente de medo"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G08",
+            "column": "G",
+            "label": "Presença e participação"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O09",
+            "column": "O",
+            "label": "Partilhar com respeito"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C05",
+      "number": 5,
+      "term_ids": [
+        "B10",
+        "I11",
+        "N04",
+        "G01",
+        "O04",
+        "B12",
+        "I07",
+        "N12",
+        "G07",
+        "O14",
+        "B05",
+        "I15",
+        "G12",
+        "O10",
+        "B14",
+        "I13",
+        "N02",
+        "G10",
+        "O08",
+        "B11",
+        "I09",
+        "N05",
+        "G14",
+        "O11"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B10",
+            "column": "B",
+            "label": "Batismo"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I11",
+            "column": "I",
+            "label": "Visita a quem está só"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N04",
+            "column": "N",
+            "label": "Sacramento como formatura"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G01",
+            "column": "G",
+            "label": "Fé e sentimento"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O04",
+            "column": "O",
+            "label": "Preparar a Comunhão"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B12",
+            "column": "B",
+            "label": "Crisma"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I07",
+            "column": "I",
+            "label": "Ajuda sem exposição"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N12",
+            "column": "N",
+            "label": "Só os perfeitos participam"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G07",
+            "column": "G",
+            "label": "Mortal e venial"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O14",
+            "column": "O",
+            "label": "Testemunhar sem impor"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B05",
+            "column": "B",
+            "label": "Criação"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I15",
+            "column": "I",
+            "label": "Fé fora da igreja"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Jo 14,6"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G12",
+            "column": "G",
+            "label": "Vocação e profissão"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O10",
+            "column": "O",
+            "label": "Corrigir uma informação"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B14",
+            "column": "B",
+            "label": "Oração"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I13",
+            "column": "I",
+            "label": "Perdão que custa"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N02",
+            "column": "N",
+            "label": "Deus só castiga"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G10",
+            "column": "G",
+            "label": "Maria e Jesus"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O08",
+            "column": "O",
+            "label": "Pedir ajuda segura"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B11",
+            "column": "B",
+            "label": "Eucaristia"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I09",
+            "column": "I",
+            "label": "Oração na dificuldade"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N05",
+            "column": "N",
+            "label": "Missa só quando dá vontade"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G14",
+            "column": "G",
+            "label": "Missa e celebração da Palavra"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O11",
+            "column": "O",
+            "label": "Incluir quem ficou de fora"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C06",
+      "number": 6,
+      "term_ids": [
+        "B05",
+        "I13",
+        "N04",
+        "G09",
+        "O04",
+        "B06",
+        "I07",
+        "N13",
+        "G15",
+        "O02",
+        "B01",
+        "I10",
+        "G07",
+        "O10",
+        "B08",
+        "I08",
+        "N08",
+        "G11",
+        "O05",
+        "B02",
+        "I02",
+        "N10",
+        "G10",
+        "O08"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B05",
+            "column": "B",
+            "label": "Criação"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I13",
+            "column": "I",
+            "label": "Perdão que custa"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N04",
+            "column": "N",
+            "label": "Sacramento como formatura"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G09",
+            "column": "G",
+            "label": "Adorar e venerar"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O04",
+            "column": "O",
+            "label": "Preparar a Comunhão"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B06",
+            "column": "B",
+            "label": "Ressurreição"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I07",
+            "column": "I",
+            "label": "Ajuda sem exposição"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N13",
+            "column": "N",
+            "label": "Mudar é impossível"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G15",
+            "column": "G",
+            "label": "Sacramentos e magia"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O02",
+            "column": "O",
+            "label": "Reservar tempo para rezar"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B01",
+            "column": "B",
+            "label": "Deus Pai"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I10",
+            "column": "I",
+            "label": "Volta à comunidade"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Jo 14,6"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G07",
+            "column": "G",
+            "label": "Mortal e venial"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O10",
+            "column": "O",
+            "label": "Corrigir uma informação"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B08",
+            "column": "B",
+            "label": "Fé"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I08",
+            "column": "I",
+            "label": "Domingo em disputa"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N08",
+            "column": "N",
+            "label": "Bíblia fora de contexto"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G11",
+            "column": "G",
+            "label": "Esperança e acomodação"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O05",
+            "column": "O",
+            "label": "Rezar o Pai-Nosso"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B02",
+            "column": "B",
+            "label": "Jesus Cristo"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I02",
+            "column": "I",
+            "label": "Palavra que machuca"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N10",
+            "column": "N",
+            "label": "Doação sem cuidado"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G10",
+            "column": "G",
+            "label": "Maria e Jesus"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O08",
+            "column": "O",
+            "label": "Pedir ajuda segura"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C07",
+      "number": 7,
+      "term_ids": [
+        "B11",
+        "I04",
+        "N10",
+        "G06",
+        "O07",
+        "B04",
+        "I07",
+        "N14",
+        "G08",
+        "O02",
+        "B12",
+        "I13",
+        "G12",
+        "O03",
+        "B06",
+        "I09",
+        "N03",
+        "G01",
+        "O11",
+        "B14",
+        "I15",
+        "N07",
+        "G04",
+        "O06"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B11",
+            "column": "B",
+            "label": "Eucaristia"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I04",
+            "column": "I",
+            "label": "Notícia sem confirmação"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N10",
+            "column": "N",
+            "label": "Doação sem cuidado"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G06",
+            "column": "G",
+            "label": "Pecado e pessoa"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O07",
+            "column": "O",
+            "label": "Reparar o dano"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B04",
+            "column": "B",
+            "label": "Santíssima Trindade"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I07",
+            "column": "I",
+            "label": "Ajuda sem exposição"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N14",
+            "column": "N",
+            "label": "Corrente de medo"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G08",
+            "column": "G",
+            "label": "Presença e participação"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O02",
+            "column": "O",
+            "label": "Reservar tempo para rezar"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B12",
+            "column": "B",
+            "label": "Crisma"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I13",
+            "column": "I",
+            "label": "Perdão que custa"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Jo 14,6"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G12",
+            "column": "G",
+            "label": "Vocação e profissão"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O03",
+            "column": "O",
+            "label": "Preparar a Confissão"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B06",
+            "column": "B",
+            "label": "Ressurreição"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I09",
+            "column": "I",
+            "label": "Oração na dificuldade"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N03",
+            "column": "N",
+            "label": "Fé só de palavras"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G01",
+            "column": "G",
+            "label": "Fé e sentimento"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O11",
+            "column": "O",
+            "label": "Incluir quem ficou de fora"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B14",
+            "column": "B",
+            "label": "Oração"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I15",
+            "column": "I",
+            "label": "Fé fora da igreja"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N07",
+            "column": "N",
+            "label": "Oração como fórmula"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G04",
+            "column": "G",
+            "label": "Tentação e pecado"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O06",
+            "column": "O",
+            "label": "Examinar a consciência"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C08",
+      "number": 8,
+      "term_ids": [
+        "B04",
+        "I11",
+        "N04",
+        "G01",
+        "O01",
+        "B02",
+        "I07",
+        "N09",
+        "G14",
+        "O10",
+        "B10",
+        "I13",
+        "G05",
+        "O09",
+        "B08",
+        "I02",
+        "N11",
+        "G08",
+        "O12",
+        "B03",
+        "I10",
+        "N06",
+        "G13",
+        "O13"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B04",
+            "column": "B",
+            "label": "Santíssima Trindade"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I11",
+            "column": "I",
+            "label": "Visita a quem está só"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N04",
+            "column": "N",
+            "label": "Sacramento como formatura"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G01",
+            "column": "G",
+            "label": "Fé e sentimento"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O01",
+            "column": "O",
+            "label": "Escutar o Evangelho"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B02",
+            "column": "B",
+            "label": "Jesus Cristo"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I07",
+            "column": "I",
+            "label": "Ajuda sem exposição"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N09",
+            "column": "N",
+            "label": "Igreja sem compromisso"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G14",
+            "column": "G",
+            "label": "Missa e celebração da Palavra"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O10",
+            "column": "O",
+            "label": "Corrigir uma informação"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B10",
+            "column": "B",
+            "label": "Batismo"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I13",
+            "column": "I",
+            "label": "Perdão que custa"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Jo 14,6"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G05",
+            "column": "G",
+            "label": "Perdão e confiança"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O09",
+            "column": "O",
+            "label": "Partilhar com respeito"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B08",
+            "column": "B",
+            "label": "Fé"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I02",
+            "column": "I",
+            "label": "Palavra que machuca"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N11",
+            "column": "N",
+            "label": "Fé sem dificuldades"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G08",
+            "column": "G",
+            "label": "Presença e participação"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O12",
+            "column": "O",
+            "label": "Cuidar da casa comum"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B03",
+            "column": "B",
+            "label": "Espírito Santo"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I10",
+            "column": "I",
+            "label": "Volta à comunidade"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N06",
+            "column": "N",
+            "label": "Perdão sem arrependimento"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G13",
+            "column": "G",
+            "label": "Matrimônio e festa"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O13",
+            "column": "O",
+            "label": "Assumir um serviço"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C09",
+      "number": 9,
+      "term_ids": [
+        "B03",
+        "I07",
+        "N01",
+        "G12",
+        "O12",
+        "B09",
+        "I14",
+        "N15",
+        "G05",
+        "O03",
+        "B15",
+        "I01",
+        "G04",
+        "O11",
+        "B11",
+        "I09",
+        "N13",
+        "G10",
+        "O04",
+        "B05",
+        "I08",
+        "N02",
+        "G09",
+        "O07"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B03",
+            "column": "B",
+            "label": "Espírito Santo"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I07",
+            "column": "I",
+            "label": "Ajuda sem exposição"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N01",
+            "column": "N",
+            "label": "Fé como troca"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G12",
+            "column": "G",
+            "label": "Vocação e profissão"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O12",
+            "column": "O",
+            "label": "Cuidar da casa comum"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B09",
+            "column": "B",
+            "label": "Igreja"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I14",
+            "column": "I",
+            "label": "Doença e cuidado"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N15",
+            "column": "N",
+            "label": "Vale tudo para ajudar"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G05",
+            "column": "G",
+            "label": "Perdão e confiança"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O03",
+            "column": "O",
+            "label": "Preparar a Confissão"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B15",
+            "column": "B",
+            "label": "Vida eterna"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I01",
+            "column": "I",
+            "label": "Lugar à mesa"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Jo 14,6"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G04",
+            "column": "G",
+            "label": "Tentação e pecado"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O11",
+            "column": "O",
+            "label": "Incluir quem ficou de fora"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B11",
+            "column": "B",
+            "label": "Eucaristia"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I09",
+            "column": "I",
+            "label": "Oração na dificuldade"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N13",
+            "column": "N",
+            "label": "Mudar é impossível"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G10",
+            "column": "G",
+            "label": "Maria e Jesus"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O04",
+            "column": "O",
+            "label": "Preparar a Comunhão"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B05",
+            "column": "B",
+            "label": "Criação"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I08",
+            "column": "I",
+            "label": "Domingo em disputa"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N02",
+            "column": "N",
+            "label": "Deus só castiga"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G09",
+            "column": "G",
+            "label": "Adorar e venerar"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O07",
+            "column": "O",
+            "label": "Reparar o dano"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C10",
+      "number": 10,
+      "term_ids": [
+        "B14",
+        "I14",
+        "N09",
+        "G05",
+        "O12",
+        "B02",
+        "I08",
+        "N07",
+        "G11",
+        "O13",
+        "B04",
+        "I01",
+        "G09",
+        "O03",
+        "B08",
+        "I03",
+        "N03",
+        "G15",
+        "O15",
+        "B10",
+        "I12",
+        "N05",
+        "G03",
+        "O04"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B14",
+            "column": "B",
+            "label": "Oração"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I14",
+            "column": "I",
+            "label": "Doença e cuidado"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N09",
+            "column": "N",
+            "label": "Igreja sem compromisso"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G05",
+            "column": "G",
+            "label": "Perdão e confiança"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O12",
+            "column": "O",
+            "label": "Cuidar da casa comum"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B02",
+            "column": "B",
+            "label": "Jesus Cristo"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I08",
+            "column": "I",
+            "label": "Domingo em disputa"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N07",
+            "column": "N",
+            "label": "Oração como fórmula"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G11",
+            "column": "G",
+            "label": "Esperança e acomodação"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O13",
+            "column": "O",
+            "label": "Assumir um serviço"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B04",
+            "column": "B",
+            "label": "Santíssima Trindade"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I01",
+            "column": "I",
+            "label": "Lugar à mesa"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Jo 14,6"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G09",
+            "column": "G",
+            "label": "Adorar e venerar"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O03",
+            "column": "O",
+            "label": "Preparar a Confissão"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B08",
+            "column": "B",
+            "label": "Fé"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I03",
+            "column": "I",
+            "label": "Promessa esquecida"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N03",
+            "column": "N",
+            "label": "Fé só de palavras"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G15",
+            "column": "G",
+            "label": "Sacramentos e magia"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O15",
+            "column": "O",
+            "label": "Recomeçar com Deus"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B10",
+            "column": "B",
+            "label": "Batismo"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I12",
+            "column": "I",
+            "label": "Dons diferentes"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N05",
+            "column": "N",
+            "label": "Missa só quando dá vontade"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G03",
+            "column": "G",
+            "label": "Liberdade e capricho"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O04",
+            "column": "O",
+            "label": "Preparar a Comunhão"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C11",
+      "number": 11,
+      "term_ids": [
+        "B03",
+        "I06",
+        "N05",
+        "G05",
+        "O06",
+        "B08",
+        "I12",
+        "N13",
+        "G15",
+        "O08",
+        "B10",
+        "I08",
+        "G08",
+        "O14",
+        "B13",
+        "I05",
+        "N15",
+        "G09",
+        "O07",
+        "B07",
+        "I02",
+        "N09",
+        "G13",
+        "O11"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B03",
+            "column": "B",
+            "label": "Espírito Santo"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I06",
+            "column": "I",
+            "label": "Trabalho sem pagamento"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N05",
+            "column": "N",
+            "label": "Missa só quando dá vontade"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G05",
+            "column": "G",
+            "label": "Perdão e confiança"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O06",
+            "column": "O",
+            "label": "Examinar a consciência"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B08",
+            "column": "B",
+            "label": "Fé"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I12",
+            "column": "I",
+            "label": "Dons diferentes"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N13",
+            "column": "N",
+            "label": "Mudar é impossível"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G15",
+            "column": "G",
+            "label": "Sacramentos e magia"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O08",
+            "column": "O",
+            "label": "Pedir ajuda segura"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B10",
+            "column": "B",
+            "label": "Batismo"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I08",
+            "column": "I",
+            "label": "Domingo em disputa"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Jo 14,6"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G08",
+            "column": "G",
+            "label": "Presença e participação"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O14",
+            "column": "O",
+            "label": "Testemunhar sem impor"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B13",
+            "column": "B",
+            "label": "Reconciliação"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I05",
+            "column": "I",
+            "label": "Compra e desperdício"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N15",
+            "column": "N",
+            "label": "Vale tudo para ajudar"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G09",
+            "column": "G",
+            "label": "Adorar e venerar"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O07",
+            "column": "O",
+            "label": "Reparar o dano"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B07",
+            "column": "B",
+            "label": "Palavra de Deus"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I02",
+            "column": "I",
+            "label": "Palavra que machuca"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N09",
+            "column": "N",
+            "label": "Igreja sem compromisso"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G13",
+            "column": "G",
+            "label": "Matrimônio e festa"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O11",
+            "column": "O",
+            "label": "Incluir quem ficou de fora"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C12",
+      "number": 12,
+      "term_ids": [
+        "B15",
+        "I06",
+        "N15",
+        "G12",
+        "O03",
+        "B09",
+        "I01",
+        "N06",
+        "G15",
+        "O11",
+        "B14",
+        "I10",
+        "G10",
+        "O12",
+        "B07",
+        "I04",
+        "N01",
+        "G01",
+        "O06",
+        "B04",
+        "I05",
+        "N08",
+        "G07",
+        "O15"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B15",
+            "column": "B",
+            "label": "Vida eterna"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I06",
+            "column": "I",
+            "label": "Trabalho sem pagamento"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N15",
+            "column": "N",
+            "label": "Vale tudo para ajudar"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G12",
+            "column": "G",
+            "label": "Vocação e profissão"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O03",
+            "column": "O",
+            "label": "Preparar a Confissão"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B09",
+            "column": "B",
+            "label": "Igreja"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I01",
+            "column": "I",
+            "label": "Lugar à mesa"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N06",
+            "column": "N",
+            "label": "Perdão sem arrependimento"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G15",
+            "column": "G",
+            "label": "Sacramentos e magia"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O11",
+            "column": "O",
+            "label": "Incluir quem ficou de fora"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B14",
+            "column": "B",
+            "label": "Oração"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I10",
+            "column": "I",
+            "label": "Volta à comunidade"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Jo 14,6"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G10",
+            "column": "G",
+            "label": "Maria e Jesus"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O12",
+            "column": "O",
+            "label": "Cuidar da casa comum"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B07",
+            "column": "B",
+            "label": "Palavra de Deus"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I04",
+            "column": "I",
+            "label": "Notícia sem confirmação"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N01",
+            "column": "N",
+            "label": "Fé como troca"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G01",
+            "column": "G",
+            "label": "Fé e sentimento"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O06",
+            "column": "O",
+            "label": "Examinar a consciência"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B04",
+            "column": "B",
+            "label": "Santíssima Trindade"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I05",
+            "column": "I",
+            "label": "Compra e desperdício"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N08",
+            "column": "N",
+            "label": "Bíblia fora de contexto"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G07",
+            "column": "G",
+            "label": "Mortal e venial"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O15",
+            "column": "O",
+            "label": "Recomeçar com Deus"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C13",
+      "number": 13,
+      "term_ids": [
+        "B06",
+        "I15",
+        "N11",
+        "G14",
+        "O09",
+        "B11",
+        "I09",
+        "N01",
+        "G10",
+        "O13",
+        "B13",
+        "I03",
+        "G02",
+        "O07",
+        "B15",
+        "I06",
+        "N15",
+        "G13",
+        "O08",
+        "B01",
+        "I04",
+        "N03",
+        "G05",
+        "O14"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B06",
+            "column": "B",
+            "label": "Ressurreição"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I15",
+            "column": "I",
+            "label": "Fé fora da igreja"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N11",
+            "column": "N",
+            "label": "Fé sem dificuldades"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G14",
+            "column": "G",
+            "label": "Missa e celebração da Palavra"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O09",
+            "column": "O",
+            "label": "Partilhar com respeito"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B11",
+            "column": "B",
+            "label": "Eucaristia"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I09",
+            "column": "I",
+            "label": "Oração na dificuldade"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N01",
+            "column": "N",
+            "label": "Fé como troca"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G10",
+            "column": "G",
+            "label": "Maria e Jesus"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O13",
+            "column": "O",
+            "label": "Assumir um serviço"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B13",
+            "column": "B",
+            "label": "Reconciliação"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I03",
+            "column": "I",
+            "label": "Promessa esquecida"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Jo 14,6"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G02",
+            "column": "G",
+            "label": "Dúvida e recusa"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O07",
+            "column": "O",
+            "label": "Reparar o dano"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B15",
+            "column": "B",
+            "label": "Vida eterna"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I06",
+            "column": "I",
+            "label": "Trabalho sem pagamento"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N15",
+            "column": "N",
+            "label": "Vale tudo para ajudar"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G13",
+            "column": "G",
+            "label": "Matrimônio e festa"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O08",
+            "column": "O",
+            "label": "Pedir ajuda segura"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B01",
+            "column": "B",
+            "label": "Deus Pai"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I04",
+            "column": "I",
+            "label": "Notícia sem confirmação"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N03",
+            "column": "N",
+            "label": "Fé só de palavras"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G05",
+            "column": "G",
+            "label": "Perdão e confiança"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O14",
+            "column": "O",
+            "label": "Testemunhar sem impor"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C14",
+      "number": 14,
+      "term_ids": [
+        "B13",
+        "I07",
+        "N07",
+        "G15",
+        "O05",
+        "B08",
+        "I04",
+        "N13",
+        "G03",
+        "O03",
+        "B07",
+        "I06",
+        "G01",
+        "O12",
+        "B03",
+        "I10",
+        "N10",
+        "G07",
+        "O06",
+        "B09",
+        "I01",
+        "N08",
+        "G12",
+        "O10"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B13",
+            "column": "B",
+            "label": "Reconciliação"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I07",
+            "column": "I",
+            "label": "Ajuda sem exposição"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N07",
+            "column": "N",
+            "label": "Oração como fórmula"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G15",
+            "column": "G",
+            "label": "Sacramentos e magia"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O05",
+            "column": "O",
+            "label": "Rezar o Pai-Nosso"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B08",
+            "column": "B",
+            "label": "Fé"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I04",
+            "column": "I",
+            "label": "Notícia sem confirmação"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N13",
+            "column": "N",
+            "label": "Mudar é impossível"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G03",
+            "column": "G",
+            "label": "Liberdade e capricho"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O03",
+            "column": "O",
+            "label": "Preparar a Confissão"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B07",
+            "column": "B",
+            "label": "Palavra de Deus"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I06",
+            "column": "I",
+            "label": "Trabalho sem pagamento"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Jo 14,6"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G01",
+            "column": "G",
+            "label": "Fé e sentimento"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O12",
+            "column": "O",
+            "label": "Cuidar da casa comum"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B03",
+            "column": "B",
+            "label": "Espírito Santo"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I10",
+            "column": "I",
+            "label": "Volta à comunidade"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N10",
+            "column": "N",
+            "label": "Doação sem cuidado"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G07",
+            "column": "G",
+            "label": "Mortal e venial"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O06",
+            "column": "O",
+            "label": "Examinar a consciência"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B09",
+            "column": "B",
+            "label": "Igreja"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I01",
+            "column": "I",
+            "label": "Lugar à mesa"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N08",
+            "column": "N",
+            "label": "Bíblia fora de contexto"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G12",
+            "column": "G",
+            "label": "Vocação e profissão"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O10",
+            "column": "O",
+            "label": "Corrigir uma informação"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C15",
+      "number": 15,
+      "term_ids": [
+        "B05",
+        "I10",
+        "N12",
+        "G13",
+        "O13",
+        "B06",
+        "I11",
+        "N08",
+        "G07",
+        "O08",
+        "B15",
+        "I01",
+        "G10",
+        "O02",
+        "B02",
+        "I06",
+        "N10",
+        "G09",
+        "O04",
+        "B01",
+        "I05",
+        "N14",
+        "G04",
+        "O15"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B05",
+            "column": "B",
+            "label": "Criação"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I10",
+            "column": "I",
+            "label": "Volta à comunidade"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N12",
+            "column": "N",
+            "label": "Só os perfeitos participam"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G13",
+            "column": "G",
+            "label": "Matrimônio e festa"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O13",
+            "column": "O",
+            "label": "Assumir um serviço"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B06",
+            "column": "B",
+            "label": "Ressurreição"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I11",
+            "column": "I",
+            "label": "Visita a quem está só"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N08",
+            "column": "N",
+            "label": "Bíblia fora de contexto"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G07",
+            "column": "G",
+            "label": "Mortal e venial"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O08",
+            "column": "O",
+            "label": "Pedir ajuda segura"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B15",
+            "column": "B",
+            "label": "Vida eterna"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I01",
+            "column": "I",
+            "label": "Lugar à mesa"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Jo 14,6"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G10",
+            "column": "G",
+            "label": "Maria e Jesus"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O02",
+            "column": "O",
+            "label": "Reservar tempo para rezar"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B02",
+            "column": "B",
+            "label": "Jesus Cristo"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I06",
+            "column": "I",
+            "label": "Trabalho sem pagamento"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N10",
+            "column": "N",
+            "label": "Doação sem cuidado"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G09",
+            "column": "G",
+            "label": "Adorar e venerar"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O04",
+            "column": "O",
+            "label": "Preparar a Comunhão"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B01",
+            "column": "B",
+            "label": "Deus Pai"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I05",
+            "column": "I",
+            "label": "Compra e desperdício"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N14",
+            "column": "N",
+            "label": "Corrente de medo"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G04",
+            "column": "G",
+            "label": "Tentação e pecado"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O15",
+            "column": "O",
+            "label": "Recomeçar com Deus"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C16",
+      "number": 16,
+      "term_ids": [
+        "B02",
+        "I09",
+        "N01",
+        "G07",
+        "O15",
+        "B08",
+        "I02",
+        "N11",
+        "G03",
+        "O02",
+        "B09",
+        "I06",
+        "G09",
+        "O08",
+        "B13",
+        "I04",
+        "N06",
+        "G11",
+        "O09",
+        "B01",
+        "I03",
+        "N07",
+        "G04",
+        "O05"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B02",
+            "column": "B",
+            "label": "Jesus Cristo"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I09",
+            "column": "I",
+            "label": "Oração na dificuldade"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N01",
+            "column": "N",
+            "label": "Fé como troca"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G07",
+            "column": "G",
+            "label": "Mortal e venial"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O15",
+            "column": "O",
+            "label": "Recomeçar com Deus"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B08",
+            "column": "B",
+            "label": "Fé"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I02",
+            "column": "I",
+            "label": "Palavra que machuca"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N11",
+            "column": "N",
+            "label": "Fé sem dificuldades"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G03",
+            "column": "G",
+            "label": "Liberdade e capricho"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O02",
+            "column": "O",
+            "label": "Reservar tempo para rezar"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B09",
+            "column": "B",
+            "label": "Igreja"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I06",
+            "column": "I",
+            "label": "Trabalho sem pagamento"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Jo 14,6"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G09",
+            "column": "G",
+            "label": "Adorar e venerar"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O08",
+            "column": "O",
+            "label": "Pedir ajuda segura"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B13",
+            "column": "B",
+            "label": "Reconciliação"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I04",
+            "column": "I",
+            "label": "Notícia sem confirmação"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N06",
+            "column": "N",
+            "label": "Perdão sem arrependimento"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G11",
+            "column": "G",
+            "label": "Esperança e acomodação"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O09",
+            "column": "O",
+            "label": "Partilhar com respeito"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B01",
+            "column": "B",
+            "label": "Deus Pai"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I03",
+            "column": "I",
+            "label": "Promessa esquecida"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N07",
+            "column": "N",
+            "label": "Oração como fórmula"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G04",
+            "column": "G",
+            "label": "Tentação e pecado"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O05",
+            "column": "O",
+            "label": "Rezar o Pai-Nosso"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C17",
+      "number": 17,
+      "term_ids": [
+        "B12",
+        "I08",
+        "N01",
+        "G03",
+        "O05",
+        "B09",
+        "I15",
+        "N06",
+        "G06",
+        "O02",
+        "B14",
+        "I09",
+        "G15",
+        "O04",
+        "B02",
+        "I14",
+        "N15",
+        "G11",
+        "O15",
+        "B05",
+        "I05",
+        "N05",
+        "G01",
+        "O08"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B12",
+            "column": "B",
+            "label": "Crisma"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I08",
+            "column": "I",
+            "label": "Domingo em disputa"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N01",
+            "column": "N",
+            "label": "Fé como troca"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G03",
+            "column": "G",
+            "label": "Liberdade e capricho"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O05",
+            "column": "O",
+            "label": "Rezar o Pai-Nosso"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B09",
+            "column": "B",
+            "label": "Igreja"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I15",
+            "column": "I",
+            "label": "Fé fora da igreja"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N06",
+            "column": "N",
+            "label": "Perdão sem arrependimento"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G06",
+            "column": "G",
+            "label": "Pecado e pessoa"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O02",
+            "column": "O",
+            "label": "Reservar tempo para rezar"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B14",
+            "column": "B",
+            "label": "Oração"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I09",
+            "column": "I",
+            "label": "Oração na dificuldade"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Jo 14,6"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G15",
+            "column": "G",
+            "label": "Sacramentos e magia"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O04",
+            "column": "O",
+            "label": "Preparar a Comunhão"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B02",
+            "column": "B",
+            "label": "Jesus Cristo"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I14",
+            "column": "I",
+            "label": "Doença e cuidado"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N15",
+            "column": "N",
+            "label": "Vale tudo para ajudar"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G11",
+            "column": "G",
+            "label": "Esperança e acomodação"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O15",
+            "column": "O",
+            "label": "Recomeçar com Deus"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B05",
+            "column": "B",
+            "label": "Criação"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I05",
+            "column": "I",
+            "label": "Compra e desperdício"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N05",
+            "column": "N",
+            "label": "Missa só quando dá vontade"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G01",
+            "column": "G",
+            "label": "Fé e sentimento"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O08",
+            "column": "O",
+            "label": "Pedir ajuda segura"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C18",
+      "number": 18,
+      "term_ids": [
+        "B10",
+        "I04",
+        "N07",
+        "G07",
+        "O08",
+        "B12",
+        "I03",
+        "N10",
+        "G02",
+        "O09",
+        "B14",
+        "I13",
+        "G11",
+        "O07",
+        "B07",
+        "I01",
+        "N12",
+        "G10",
+        "O11",
+        "B13",
+        "I10",
+        "N02",
+        "G14",
+        "O14"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B10",
+            "column": "B",
+            "label": "Batismo"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I04",
+            "column": "I",
+            "label": "Notícia sem confirmação"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N07",
+            "column": "N",
+            "label": "Oração como fórmula"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G07",
+            "column": "G",
+            "label": "Mortal e venial"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O08",
+            "column": "O",
+            "label": "Pedir ajuda segura"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B12",
+            "column": "B",
+            "label": "Crisma"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I03",
+            "column": "I",
+            "label": "Promessa esquecida"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N10",
+            "column": "N",
+            "label": "Doação sem cuidado"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G02",
+            "column": "G",
+            "label": "Dúvida e recusa"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O09",
+            "column": "O",
+            "label": "Partilhar com respeito"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B14",
+            "column": "B",
+            "label": "Oração"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I13",
+            "column": "I",
+            "label": "Perdão que custa"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Jo 14,6"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G11",
+            "column": "G",
+            "label": "Esperança e acomodação"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O07",
+            "column": "O",
+            "label": "Reparar o dano"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B07",
+            "column": "B",
+            "label": "Palavra de Deus"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I01",
+            "column": "I",
+            "label": "Lugar à mesa"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N12",
+            "column": "N",
+            "label": "Só os perfeitos participam"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G10",
+            "column": "G",
+            "label": "Maria e Jesus"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O11",
+            "column": "O",
+            "label": "Incluir quem ficou de fora"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B13",
+            "column": "B",
+            "label": "Reconciliação"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I10",
+            "column": "I",
+            "label": "Volta à comunidade"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N02",
+            "column": "N",
+            "label": "Deus só castiga"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G14",
+            "column": "G",
+            "label": "Missa e celebração da Palavra"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O14",
+            "column": "O",
+            "label": "Testemunhar sem impor"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C19",
+      "number": 19,
+      "term_ids": [
+        "B12",
+        "I09",
+        "N13",
+        "G05",
+        "O14",
+        "B07",
+        "I04",
+        "N12",
+        "G04",
+        "O01",
+        "B13",
+        "I03",
+        "G09",
+        "O07",
+        "B10",
+        "I02",
+        "N04",
+        "G03",
+        "O04",
+        "B14",
+        "I14",
+        "N11",
+        "G13",
+        "O13"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B12",
+            "column": "B",
+            "label": "Crisma"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I09",
+            "column": "I",
+            "label": "Oração na dificuldade"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N13",
+            "column": "N",
+            "label": "Mudar é impossível"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G05",
+            "column": "G",
+            "label": "Perdão e confiança"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O14",
+            "column": "O",
+            "label": "Testemunhar sem impor"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B07",
+            "column": "B",
+            "label": "Palavra de Deus"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I04",
+            "column": "I",
+            "label": "Notícia sem confirmação"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N12",
+            "column": "N",
+            "label": "Só os perfeitos participam"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G04",
+            "column": "G",
+            "label": "Tentação e pecado"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O01",
+            "column": "O",
+            "label": "Escutar o Evangelho"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B13",
+            "column": "B",
+            "label": "Reconciliação"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I03",
+            "column": "I",
+            "label": "Promessa esquecida"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Jo 14,6"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G09",
+            "column": "G",
+            "label": "Adorar e venerar"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O07",
+            "column": "O",
+            "label": "Reparar o dano"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B10",
+            "column": "B",
+            "label": "Batismo"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I02",
+            "column": "I",
+            "label": "Palavra que machuca"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N04",
+            "column": "N",
+            "label": "Sacramento como formatura"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G03",
+            "column": "G",
+            "label": "Liberdade e capricho"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O04",
+            "column": "O",
+            "label": "Preparar a Comunhão"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B14",
+            "column": "B",
+            "label": "Oração"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I14",
+            "column": "I",
+            "label": "Doença e cuidado"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N11",
+            "column": "N",
+            "label": "Fé sem dificuldades"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G13",
+            "column": "G",
+            "label": "Matrimônio e festa"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O13",
+            "column": "O",
+            "label": "Assumir um serviço"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C20",
+      "number": 20,
+      "term_ids": [
+        "B07",
+        "I05",
+        "N05",
+        "G12",
+        "O09",
+        "B15",
+        "I15",
+        "N13",
+        "G14",
+        "O15",
+        "B04",
+        "I11",
+        "G06",
+        "O01",
+        "B09",
+        "I10",
+        "N14",
+        "G02",
+        "O12",
+        "B01",
+        "I14",
+        "N09",
+        "G08",
+        "O13"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B07",
+            "column": "B",
+            "label": "Palavra de Deus"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I05",
+            "column": "I",
+            "label": "Compra e desperdício"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N05",
+            "column": "N",
+            "label": "Missa só quando dá vontade"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G12",
+            "column": "G",
+            "label": "Vocação e profissão"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O09",
+            "column": "O",
+            "label": "Partilhar com respeito"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B15",
+            "column": "B",
+            "label": "Vida eterna"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I15",
+            "column": "I",
+            "label": "Fé fora da igreja"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N13",
+            "column": "N",
+            "label": "Mudar é impossível"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G14",
+            "column": "G",
+            "label": "Missa e celebração da Palavra"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O15",
+            "column": "O",
+            "label": "Recomeçar com Deus"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B04",
+            "column": "B",
+            "label": "Santíssima Trindade"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I11",
+            "column": "I",
+            "label": "Visita a quem está só"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Jo 14,6"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G06",
+            "column": "G",
+            "label": "Pecado e pessoa"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O01",
+            "column": "O",
+            "label": "Escutar o Evangelho"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B09",
+            "column": "B",
+            "label": "Igreja"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I10",
+            "column": "I",
+            "label": "Volta à comunidade"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N14",
+            "column": "N",
+            "label": "Corrente de medo"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G02",
+            "column": "G",
+            "label": "Dúvida e recusa"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O12",
+            "column": "O",
+            "label": "Cuidar da casa comum"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B01",
+            "column": "B",
+            "label": "Deus Pai"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I14",
+            "column": "I",
+            "label": "Doença e cuidado"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N09",
+            "column": "N",
+            "label": "Igreja sem compromisso"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G08",
+            "column": "G",
+            "label": "Presença e participação"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O13",
+            "column": "O",
+            "label": "Assumir um serviço"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C21",
+      "number": 21,
+      "term_ids": [
+        "B06",
+        "I12",
+        "N15",
+        "G02",
+        "O05",
+        "B01",
+        "I03",
+        "N03",
+        "G07",
+        "O01",
+        "B04",
+        "I15",
+        "G13",
+        "O02",
+        "B15",
+        "I04",
+        "N02",
+        "G03",
+        "O06",
+        "B02",
+        "I13",
+        "N01",
+        "G14",
+        "O10"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B06",
+            "column": "B",
+            "label": "Ressurreição"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I12",
+            "column": "I",
+            "label": "Dons diferentes"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N15",
+            "column": "N",
+            "label": "Vale tudo para ajudar"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G02",
+            "column": "G",
+            "label": "Dúvida e recusa"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O05",
+            "column": "O",
+            "label": "Rezar o Pai-Nosso"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B01",
+            "column": "B",
+            "label": "Deus Pai"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I03",
+            "column": "I",
+            "label": "Promessa esquecida"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N03",
+            "column": "N",
+            "label": "Fé só de palavras"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G07",
+            "column": "G",
+            "label": "Mortal e venial"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O01",
+            "column": "O",
+            "label": "Escutar o Evangelho"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B04",
+            "column": "B",
+            "label": "Santíssima Trindade"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I15",
+            "column": "I",
+            "label": "Fé fora da igreja"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Jo 14,6"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G13",
+            "column": "G",
+            "label": "Matrimônio e festa"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O02",
+            "column": "O",
+            "label": "Reservar tempo para rezar"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B15",
+            "column": "B",
+            "label": "Vida eterna"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I04",
+            "column": "I",
+            "label": "Notícia sem confirmação"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N02",
+            "column": "N",
+            "label": "Deus só castiga"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G03",
+            "column": "G",
+            "label": "Liberdade e capricho"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O06",
+            "column": "O",
+            "label": "Examinar a consciência"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B02",
+            "column": "B",
+            "label": "Jesus Cristo"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I13",
+            "column": "I",
+            "label": "Perdão que custa"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N01",
+            "column": "N",
+            "label": "Fé como troca"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G14",
+            "column": "G",
+            "label": "Missa e celebração da Palavra"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O10",
+            "column": "O",
+            "label": "Corrigir uma informação"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C22",
+      "number": 22,
+      "term_ids": [
+        "B06",
+        "I11",
+        "N11",
+        "G06",
+        "O09",
+        "B07",
+        "I15",
+        "N15",
+        "G08",
+        "O15",
+        "B04",
+        "I05",
+        "G02",
+        "O14",
+        "B14",
+        "I12",
+        "N09",
+        "G15",
+        "O03",
+        "B12",
+        "I14",
+        "N13",
+        "G11",
+        "O05"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B06",
+            "column": "B",
+            "label": "Ressurreição"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I11",
+            "column": "I",
+            "label": "Visita a quem está só"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N11",
+            "column": "N",
+            "label": "Fé sem dificuldades"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G06",
+            "column": "G",
+            "label": "Pecado e pessoa"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O09",
+            "column": "O",
+            "label": "Partilhar com respeito"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B07",
+            "column": "B",
+            "label": "Palavra de Deus"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I15",
+            "column": "I",
+            "label": "Fé fora da igreja"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N15",
+            "column": "N",
+            "label": "Vale tudo para ajudar"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G08",
+            "column": "G",
+            "label": "Presença e participação"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O15",
+            "column": "O",
+            "label": "Recomeçar com Deus"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B04",
+            "column": "B",
+            "label": "Santíssima Trindade"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I05",
+            "column": "I",
+            "label": "Compra e desperdício"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Jo 14,6"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G02",
+            "column": "G",
+            "label": "Dúvida e recusa"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O14",
+            "column": "O",
+            "label": "Testemunhar sem impor"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B14",
+            "column": "B",
+            "label": "Oração"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I12",
+            "column": "I",
+            "label": "Dons diferentes"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N09",
+            "column": "N",
+            "label": "Igreja sem compromisso"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G15",
+            "column": "G",
+            "label": "Sacramentos e magia"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O03",
+            "column": "O",
+            "label": "Preparar a Confissão"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B12",
+            "column": "B",
+            "label": "Crisma"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I14",
+            "column": "I",
+            "label": "Doença e cuidado"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N13",
+            "column": "N",
+            "label": "Mudar é impossível"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G11",
+            "column": "G",
+            "label": "Esperança e acomodação"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O05",
+            "column": "O",
+            "label": "Rezar o Pai-Nosso"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C23",
+      "number": 23,
+      "term_ids": [
+        "B01",
+        "I12",
+        "N09",
+        "G14",
+        "O12",
+        "B10",
+        "I05",
+        "N03",
+        "G09",
+        "O06",
+        "B05",
+        "I06",
+        "G06",
+        "O01",
+        "B08",
+        "I11",
+        "N02",
+        "G13",
+        "O07",
+        "B11",
+        "I02",
+        "N04",
+        "G03",
+        "O11"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B01",
+            "column": "B",
+            "label": "Deus Pai"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I12",
+            "column": "I",
+            "label": "Dons diferentes"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N09",
+            "column": "N",
+            "label": "Igreja sem compromisso"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G14",
+            "column": "G",
+            "label": "Missa e celebração da Palavra"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O12",
+            "column": "O",
+            "label": "Cuidar da casa comum"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B10",
+            "column": "B",
+            "label": "Batismo"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I05",
+            "column": "I",
+            "label": "Compra e desperdício"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N03",
+            "column": "N",
+            "label": "Fé só de palavras"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G09",
+            "column": "G",
+            "label": "Adorar e venerar"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O06",
+            "column": "O",
+            "label": "Examinar a consciência"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B05",
+            "column": "B",
+            "label": "Criação"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I06",
+            "column": "I",
+            "label": "Trabalho sem pagamento"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Jo 14,6"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G06",
+            "column": "G",
+            "label": "Pecado e pessoa"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O01",
+            "column": "O",
+            "label": "Escutar o Evangelho"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B08",
+            "column": "B",
+            "label": "Fé"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I11",
+            "column": "I",
+            "label": "Visita a quem está só"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N02",
+            "column": "N",
+            "label": "Deus só castiga"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G13",
+            "column": "G",
+            "label": "Matrimônio e festa"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O07",
+            "column": "O",
+            "label": "Reparar o dano"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B11",
+            "column": "B",
+            "label": "Eucaristia"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I02",
+            "column": "I",
+            "label": "Palavra que machuca"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N04",
+            "column": "N",
+            "label": "Sacramento como formatura"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G03",
+            "column": "G",
+            "label": "Liberdade e capricho"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O11",
+            "column": "O",
+            "label": "Incluir quem ficou de fora"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "C24",
+      "number": 24,
+      "term_ids": [
+        "B06",
+        "I11",
+        "N04",
+        "G04",
+        "O13",
+        "B13",
+        "I14",
+        "N08",
+        "G06",
+        "O04",
+        "B15",
+        "I09",
+        "G08",
+        "O07",
+        "B03",
+        "I03",
+        "N01",
+        "G02",
+        "O01",
+        "B07",
+        "I15",
+        "N06",
+        "G13",
+        "O14"
+      ],
+      "grid": [
+        [
+          {
+            "row": 1,
+            "col": 1,
+            "id": "B06",
+            "column": "B",
+            "label": "Ressurreição"
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "id": "I11",
+            "column": "I",
+            "label": "Visita a quem está só"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "id": "N04",
+            "column": "N",
+            "label": "Sacramento como formatura"
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "id": "G04",
+            "column": "G",
+            "label": "Tentação e pecado"
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "id": "O13",
+            "column": "O",
+            "label": "Assumir um serviço"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 1,
+            "id": "B13",
+            "column": "B",
+            "label": "Reconciliação"
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "id": "I14",
+            "column": "I",
+            "label": "Doença e cuidado"
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "id": "N08",
+            "column": "N",
+            "label": "Bíblia fora de contexto"
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "id": "G06",
+            "column": "G",
+            "label": "Pecado e pessoa"
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "id": "O04",
+            "column": "O",
+            "label": "Preparar a Comunhão"
+          }
+        ],
+        [
+          {
+            "row": 3,
+            "col": 1,
+            "id": "B15",
+            "column": "B",
+            "label": "Vida eterna"
+          },
+          {
+            "row": 3,
+            "col": 2,
+            "id": "I09",
+            "column": "I",
+            "label": "Oração na dificuldade"
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "id": "FREE",
+            "column": "N",
+            "label": "LIVRE",
+            "free": true,
+            "called": false,
+            "anchors": [
+              "Jo 14,6"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "id": "G08",
+            "column": "G",
+            "label": "Presença e participação"
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "id": "O07",
+            "column": "O",
+            "label": "Reparar o dano"
+          }
+        ],
+        [
+          {
+            "row": 4,
+            "col": 1,
+            "id": "B03",
+            "column": "B",
+            "label": "Espírito Santo"
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "id": "I03",
+            "column": "I",
+            "label": "Promessa esquecida"
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "id": "N01",
+            "column": "N",
+            "label": "Fé como troca"
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "id": "G02",
+            "column": "G",
+            "label": "Dúvida e recusa"
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "id": "O01",
+            "column": "O",
+            "label": "Escutar o Evangelho"
+          }
+        ],
+        [
+          {
+            "row": 5,
+            "col": 1,
+            "id": "B07",
+            "column": "B",
+            "label": "Palavra de Deus"
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "id": "I15",
+            "column": "I",
+            "label": "Fé fora da igreja"
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "id": "N06",
+            "column": "N",
+            "label": "Perdão sem arrependimento"
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "id": "G13",
+            "column": "G",
+            "label": "Matrimônio e festa"
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "id": "O14",
+            "column": "O",
+            "label": "Testemunhar sem impor"
+          }
+        ]
+      ]
+    }
+  ]
+}

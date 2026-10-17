@@ -1,6 +1,7 @@
 # Aplicativo integrado de bingo catequético
 
-Este PWA conduz os 35 bingos individuais e o bingo integrado dos encontros 10 a 13.
+Este PWA conduz os 35 bingos individuais, o bingo integrado dos encontros 10 a 13
+e o bingo geral **Conhecer e viver a fé** para Primeira Eucaristia e Crisma.
 Os JSONs `data/termos.json`, `chamadas.json` e `explicacoes.json` de cada encontro
 são as fontes editoriais do jogo. `output/cartelas_manifest.json` define as
 cartelas oficiais; o aplicativo não as reconstrói pela seed.
@@ -31,6 +32,9 @@ são artefatos gerados para distribuição/offline, não fontes editoriais dupli
 descobre os 35 encontros. `additionalProjects` inclui jogos integrados sem substituir
 os individuais. Os integrados declaram `teaching_encounters` em `termos.json`; o
 aplicativo reúne os textos e oferece os PDFs de cada encontro do bloco.
+O bingo geral declara `teaching_overview: "data/panorama.json"`: tem um panorama
+próprio e aparece como "Geral", sem receber um número de encontro. Esse panorama
+participa da revisão de conteúdo usada pelo cache do aplicativo.
 `BINGO_CONTENT_DIR` permite selecionar outro encontro.
 Para publicar, use `projects/catequese/dinamicas/pwa` como Root Directory na Vercel.
 O `vercel.json` local define o build e a saída `dist/`. A integração local não altera

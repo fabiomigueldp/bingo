@@ -4,6 +4,21 @@
   "collection": ".",
   "items": [
     {
+      "id": "bingo_geral_catequese",
+      "href": "./content/bingo_geral_catequese/game-data.json",
+      "title": "Bingo - Conhecer e viver a fé",
+      "subtitle": "Conhecer e viver a fé",
+      "meeting": "Catequese geral - Primeira Eucaristia e Crisma",
+      "meetingLabel": "Catequese geral",
+      "coreMessage": "Jesus Cristo nos revela o Pai e nos salva. Pelo Espírito Santo, aprendemos a crer, celebrar, rezar e amar na vida da Igreja.",
+      "cardSetId": "bingo_geral_catequese_24_seed_171026_d1a209489fe9",
+      "contentRevision": "e916ae850441",
+      "encounterNumber": null,
+      "directory": "bingo_geral_catequese",
+      "boardCount": 24,
+      "cardCount": 75
+    },
+    {
       "id": "bingo_cultura_atual",
       "href": "./content/bingo_cultura_atual/game-data.json",
       "title": "Bingo — Cultura atual",

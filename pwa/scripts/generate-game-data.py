@@ -37,8 +37,10 @@ def display_subtitle(title: str) -> str:
     return re.sub(r"^bingo\s*[-—]\s*", "", title, flags=re.IGNORECASE).strip() or title
 
 
-def encounter_number_from_path(path: Path) -> str:
+def encounter_number_from_path(path: Path) -> str | None:
     numbers = teaching_encounter_numbers(path)
+    if not numbers:
+        return None
     return numbers[0] if len(numbers) == 1 else f"{numbers[0]}–{numbers[-1]}"
 
 
@@ -48,6 +50,8 @@ def teaching_encounter_numbers(path: Path) -> list[str]:
         return [f"{int(n):02d}" for n in metadata["teaching_encounters"]]
     match = re.search(r"encontro_(\d{2})_", path.name)
     if not match:
+        if metadata.get("teaching_overview"):
+            return []
         raise SystemExit(f"Could not infer encounter number from directory name: {path.name}")
     return [match.group(1)]
 
@@ -371,6 +375,10 @@ def parse_teaching_markdown(text: str) -> dict:
 
 
 def publish_teaching_material(encounter_dir: Path, destination_dir: Path, href_base: str) -> dict:
+    terms_data = load_json(encounter_dir / "data" / "termos.json")
+    overview = terms_data.get("teaching_overview")
+    if overview:
+        return load_json(encounter_dir / overview)
     numbers = teaching_encounter_numbers(encounter_dir)
     documents = [publish_teaching_encounter(number, destination_dir, href_base) for number in numbers]
     if len(documents) == 1:
@@ -509,6 +517,10 @@ def build_payload(
 
     title = manifest_project.get("title") or terms_data["title"]
     version = cartelas_manifest["card_set_id"]
+    source_hashes = dict(cartelas_manifest["source_hashes"])
+    if terms_data.get("teaching_overview"):
+        overview_path = encounter_dir / terms_data["teaching_overview"]
+        source_hashes[terms_data["teaching_overview"]] = hashlib.sha256(overview_path.read_bytes()).hexdigest()
     return {
         "version": version,
         "slug": slug,
@@ -525,7 +537,7 @@ def build_payload(
         "columns": terms_data["columns"],
         "lineModel": cartelas_manifest["line_model"],
         "printLayout": cartelas_manifest["print_layout"],
-        "sourceHashes": cartelas_manifest["source_hashes"],
+        "sourceHashes": source_hashes,
         "teachingMaterial": teaching_material,
         "method": calls_data["method"],
         "materials": materials,
@@ -559,7 +571,11 @@ def write_content_catalog(config: dict, default_encounter_dir: Path, default_pay
         additional = resolve_from_repo(directory)
         if additional not in encounter_dirs:
             encounter_dirs.append(additional)
-    encounter_dirs.sort(key=lambda path: (int(teaching_encounter_numbers(path)[-1]), len(teaching_encounter_numbers(path))))
+    def collection_order(path: Path) -> tuple[int, int]:
+        numbers = teaching_encounter_numbers(path)
+        return (int(numbers[-1]) if numbers else 0, len(numbers))
+
+    encounter_dirs.sort(key=collection_order)
     if not encounter_dirs:
         raise SystemExit(f"No bingo encounter directories found in {collection_dir}")
 

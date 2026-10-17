@@ -204,7 +204,7 @@ function EncounterSelectButton({ isOpen, onClick }) {
       onClick={onClick}
       aria-expanded={isOpen}
       aria-controls="encounter-picker"
-      aria-label="Selecionar encontro e tema"
+      aria-label="Selecionar bingo"
     >
       <span className="encounter-select-main">
         <small>{data.meetingLabel || data.meeting || "Encontro"}</small>
@@ -236,7 +236,7 @@ function EncounterInlinePicker({ onSelect }) {
               onClick={() => chooseContent(item.id)}
               aria-pressed={selected}
             >
-              <span className="encounter-option-number">{item.encounterNumber || "..."}</span>
+              <span className="encounter-option-number">{item.encounterNumber || "Geral"}</span>
               <span className="encounter-option-copy">
                 <strong>{item.subtitle || item.title}</strong>
                 <small>{item.meetingLabel || item.meeting || `${item.cardCount || 75} chamadas`}</small>
@@ -535,7 +535,7 @@ function TopBar({ game, currentCard, drawCount = game.drawnIds.length, onOpenBoa
             className="icon-button"
             type="button"
             onClick={onOpenTeaching}
-            aria-label="Abrir tema do encontro"
+            aria-label="Abrir tema do bingo"
           >
             <Icon name="lightbulb" />
           </button>
@@ -1698,7 +1698,7 @@ function ConfirmDialog({ isOpen, title, message, confirmLabel, cancelLabel, onCo
 
 const MemoConfirmDialog = memo(ConfirmDialog);
 
-function LoadingScreen({ message = "Carregando encontro" }) {
+function LoadingScreen({ message = "Carregando bingo" }) {
   return (
     <main className="setup-screen">
       <div className="setup-content loading-content">
@@ -2031,7 +2031,7 @@ export default function App() {
           }
         }
 
-        setContentError(error.message || "Não foi possível carregar este encontro.");
+        setContentError(error.message || "Não foi possível carregar este bingo.");
         setContentStatus("error");
       });
 
@@ -2079,7 +2079,7 @@ export default function App() {
   }
 
   if (!appReady) {
-    return <LoadingScreen message={contentError ? "Conteúdo indisponível" : "Carregando encontro"} />;
+    return <LoadingScreen message={contentError ? "Conteúdo indisponível" : "Carregando bingo"} />;
   }
 
   return (

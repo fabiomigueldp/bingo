@@ -1,0 +1,1963 @@
+{
+  "title": "Chamadas - Conhecer e viver a fé",
+  "meeting": "Catequese geral - Primeira Eucaristia e Crisma",
+  "source_terms": "data/termos.json",
+  "method": {
+    "read_order": [
+      "call_label",
+      "case",
+      "reading_points"
+    ],
+    "rule": "Anuncie código e termo; leia o caso e a explicação rápida ou os três pontos, sem repetir ambos. Marquem pelo código. Use a pergunta na conferência ou para esclarecer uma dúvida.",
+    "conference_rule": "Após completar duas linhas (horizontal, vertical ou diagonal), a equipe escolhe uma delas, explica três conceitos e relaciona pelo menos um à fé cristã. As linhas podem se cruzar. O centro livre conta para fechar linha, mas não como conceito. Permita uma segunda tentativa breve quando necessário."
+  },
+  "cards": [
+    {
+      "id": "B01",
+      "term_id": "B01",
+      "call_label": "B01 - Deus Pai",
+      "case": "Ao rezar o Pai-Nosso em família, uma menina pergunta se pode chamar Deus de Pai mesmo sem ter o próprio pai por perto.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "A oração de Jesus nos convida à confiança em Deus."
+        },
+        {
+          "title": "Fundamento",
+          "body": "Deus é Pai de Jesus e nos acolhe como filhos em Cristo."
+        },
+        {
+          "title": "Aplicação",
+          "body": "Podemos falar com Deus com confiança, inclusive sobre o que nos faz sofrer."
+        }
+      ],
+      "conference_question": "O que chamar Deus de Pai nos ensina sobre a oração?",
+      "anchors": [
+        "CEC 240",
+        "CEC 2565",
+        "Mt 6,9-13"
+      ],
+      "facilitator_note": "Não pedir relatos familiares; o amor de Deus não repete as falhas humanas."
+    },
+    {
+      "id": "B02",
+      "term_id": "B02",
+      "call_label": "B02 - Jesus Cristo",
+      "case": "Diante de um presépio, um visitante diz que Jesus foi apenas um homem bondoso. Uma família procura explicar por que celebra seu nascimento.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "A família celebra o nascimento do Salvador."
+        },
+        {
+          "title": "Fundamento",
+          "body": "Jesus é o Filho de Deus feito homem; morreu e ressuscitou para nos salvar."
+        },
+        {
+          "title": "Aplicação",
+          "body": "Seguir Jesus inclui acolher quem Ele é e viver segundo seus ensinamentos."
+        }
+      ],
+      "conference_question": "Por que celebrar Jesus envolve mais que admirar um bom exemplo?",
+      "anchors": [
+        "CEC 423",
+        "CEC 457-459",
+        "CEC 638"
+      ],
+      "facilitator_note": "Unir a Encarnação à morte e ressurreição de Jesus."
+    },
+    {
+      "id": "B03",
+      "term_id": "B03",
+      "call_label": "B03 - Espírito Santo",
+      "case": "Antes de uma conversa difícil para resolver uma briga, uma jovem reza ao Espírito Santo. Ainda sente medo de pedir perdão.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "A jovem pede ajuda para dar um passo de reconciliação."
+        },
+        {
+          "title": "Fundamento",
+          "body": "O Espírito Santo é Deus e nos ajuda a viver como discípulos de Jesus."
+        },
+        {
+          "title": "Aplicação",
+          "body": "Sua ajuda não dispensa a jovem de procurar a conversa e assumir sua parte."
+        }
+      ],
+      "conference_question": "Como a ajuda do Espírito Santo pode acompanhar essa decisão?",
+      "anchors": [
+        "CEC 689",
+        "CEC 1694"
+      ],
+      "facilitator_note": "Não reduzir o Espírito Santo a uma energia ou a uma emoção."
+    },
+    {
+      "id": "B04",
+      "term_id": "B04",
+      "call_label": "B04 - Santíssima Trindade",
+      "case": "No Batismo do irmão, um menino ouve o nome do Pai, do Filho e do Espírito Santo. Depois pergunta se os cristãos acreditam em três deuses.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "A fórmula do Batismo expressa a fé cristã."
+        },
+        {
+          "title": "Fundamento",
+          "body": "Pai, Filho e Espírito Santo são três Pessoas distintas e um só Deus."
+        },
+        {
+          "title": "Aplicação",
+          "body": "Ao fazer o sinal da cruz, professamos essa mesma fé."
+        }
+      ],
+      "conference_question": "Como explicar por que nomeamos três Pessoas e cremos em um só Deus?",
+      "anchors": [
+        "CEC 232-234"
+      ],
+      "facilitator_note": "Evitar comparar a Trindade a partes de um objeto ou a três disfarces."
+    },
+    {
+      "id": "B05",
+      "term_id": "B05",
+      "call_label": "B05 - Criação",
+      "case": "Depois de um passeio, uma família deixa embalagens junto ao rio. Um dos filhos recolhe o lixo, mas ouve que aquela margem não pertence a ninguém.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "O cuidado com o lugar não depende de ser seu dono."
+        },
+        {
+          "title": "Fundamento",
+          "body": "A criação é dom de Deus, destinado ao bem de todos."
+        },
+        {
+          "title": "Aplicação",
+          "body": "A família pode levar o próprio lixo e preservar o lugar para quem vier depois."
+        }
+      ],
+      "conference_question": "Por que receber a criação como dom traz responsabilidade?",
+      "anchors": [
+        "CEC 293",
+        "CEC 2415"
+      ],
+      "facilitator_note": "Cuidar não exige que a família resolva sozinha a poluição do rio."
+    },
+    {
+      "id": "B06",
+      "term_id": "B06",
+      "call_label": "B06 - Ressurreição",
+      "case": "Na manhã de Páscoa, uma avó acende uma vela e anuncia que Jesus vive. O neto pergunta se isso significa apenas que lembramos dele.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "A Páscoa anuncia mais que uma lembrança de Jesus."
+        },
+        {
+          "title": "Fundamento",
+          "body": "Jesus ressuscitou de verdade; a morte não teve a última palavra."
+        },
+        {
+          "title": "Aplicação",
+          "body": "Por isso, podemos confiar nele e viver com esperança mesmo diante da morte."
+        }
+      ],
+      "conference_question": "Qual é a diferença entre lembrar Jesus e crer que Ele ressuscitou?",
+      "anchors": [
+        "CEC 638",
+        "CEC 651",
+        "Lc 24,1-6"
+      ],
+      "facilitator_note": "A ressurreição não é só a continuidade de uma ideia ou de uma memória."
+    },
+    {
+      "id": "B07",
+      "term_id": "B07",
+      "call_label": "B07 - Palavra de Deus",
+      "case": "Uma família lê a parábola do bom samaritano. Um dos filhos relaciona a história ao vizinho doente que quase não recebe visitas.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "A leitura permite olhar de outro modo para uma necessidade próxima."
+        },
+        {
+          "title": "Fundamento",
+          "body": "Na Bíblia, Deus nos fala e nos chama a responder com fé."
+        },
+        {
+          "title": "Aplicação",
+          "body": "Com a ajuda da Igreja, podemos compreender o texto e colocá-lo em prática."
+        }
+      ],
+      "conference_question": "Como essa leitura pode transformar o modo de tratar o vizinho?",
+      "anchors": [
+        "CEC 104",
+        "CEC 112-113",
+        "Lc 10,30-37"
+      ],
+      "facilitator_note": "A Escritura é lida com a Tradição e o ensinamento da Igreja."
+    },
+    {
+      "id": "B08",
+      "term_id": "B08",
+      "call_label": "B08 - Fé",
+      "case": "Um homem continua rezando enquanto procura trabalho. Não sabe quando será contratado e não trata a oração como garantia de conseguir uma vaga.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "A incerteza não impede a confiança em Deus."
+        },
+        {
+          "title": "Fundamento",
+          "body": "Ter fé é confiar em Deus e acolher o que Ele revelou."
+        },
+        {
+          "title": "Aplicação",
+          "body": "O homem pode perseverar na oração e continuar procurando trabalho."
+        }
+      ],
+      "conference_question": "Por que confiar em Deus não é ter certeza de que tudo acontecerá como queremos?",
+      "anchors": [
+        "CEC 150",
+        "CEC 153"
+      ],
+      "facilitator_note": "Não confundir fé com pensamento positivo."
+    },
+    {
+      "id": "B09",
+      "term_id": "B09",
+      "call_label": "B09 - Igreja",
+      "case": "O prédio de uma igreja precisa fechar para reparos. A comunidade combina outro lugar para rezar e continua visitando as famílias do bairro.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "A comunidade continua existindo mesmo com o prédio fechado."
+        },
+        {
+          "title": "Fundamento",
+          "body": "A Igreja é o povo que Cristo reúne, não apenas uma construção."
+        },
+        {
+          "title": "Aplicação",
+          "body": "Rezar, celebrar e servir juntos expressa essa pertença."
+        }
+      ],
+      "conference_question": "O que mostra que a Igreja é mais que o prédio?",
+      "anchors": [
+        "CEC 751-752",
+        "At 2,42-47"
+      ],
+      "facilitator_note": "A Igreja também tem uma organização visível; não é só um grupo de amigos."
+    },
+    {
+      "id": "B10",
+      "term_id": "B10",
+      "call_label": "B10 - Batismo",
+      "case": "Após o Batismo de uma criança, os padrinhos guardam a vela e as fotos. Conversam sobre como acompanhar a afilhada quando a festa terminar.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "O Batismo inicia uma vida que precisa ser alimentada."
+        },
+        {
+          "title": "Fundamento",
+          "body": "Pela água e pela Palavra, Cristo nos liberta do pecado e nos une à Igreja."
+        },
+        {
+          "title": "Aplicação",
+          "body": "Pais e padrinhos são chamados a ajudar a criança a crescer na fé."
+        }
+      ],
+      "conference_question": "O que permanece do Batismo depois da celebração e das fotos?",
+      "anchors": [
+        "CEC 1213",
+        "CEC 1255"
+      ],
+      "facilitator_note": "O sacramento é dom de Deus, não simples compromisso da família."
+    },
+    {
+      "id": "B11",
+      "term_id": "B11",
+      "call_label": "B11 - Eucaristia",
+      "case": "Depois da consagração, a hóstia mantém a mesma aparência. Um menino pergunta à mãe por que o padre a apresenta como Corpo de Cristo.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "A aparência não explica tudo o que acontece na Eucaristia."
+        },
+        {
+          "title": "Fundamento",
+          "body": "Pela consagração, o pão e o vinho se tornam Corpo e Sangue de Cristo."
+        },
+        {
+          "title": "Aplicação",
+          "body": "Na Comunhão, recebemos o próprio Jesus, que nos une a Ele e à Igreja."
+        }
+      ],
+      "conference_question": "Por que comungar é mais que recordar uma refeição de Jesus?",
+      "anchors": [
+        "CEC 1374",
+        "CEC 1391"
+      ],
+      "facilitator_note": "Cristo está presente inteiro; não se trata de um símbolo vazio."
+    },
+    {
+      "id": "B12",
+      "term_id": "B12",
+      "call_label": "B12 - Crisma",
+      "case": "Depois da Crisma, um jovem ouve amigos zombarem de quem participa da Igreja. Fica dividido entre esconder a própria fé e falar com respeito.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "O jovem encontra uma dificuldade real para testemunhar a fé."
+        },
+        {
+          "title": "Fundamento",
+          "body": "A Crisma nos fortalece com o dom do Espírito Santo e nos une mais à Igreja."
+        },
+        {
+          "title": "Aplicação",
+          "body": "O jovem pode falar de sua fé sem vergonha e sem atacar os amigos."
+        }
+      ],
+      "conference_question": "Como a Crisma se relaciona com essa situação fora da celebração?",
+      "anchors": [
+        "CEC 1285",
+        "CEC 1303"
+      ],
+      "facilitator_note": "A Crisma não promete ausência de medo nem encerra a formação cristã."
+    },
+    {
+      "id": "B13",
+      "term_id": "B13",
+      "call_label": "B13 - Reconciliação",
+      "case": "Uma mulher mentiu para prejudicar uma colega e se arrependeu. Quer corrigir a mentira e procurar a Confissão, mas sente vergonha.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "O arrependimento abre caminho para pedir perdão e mudar."
+        },
+        {
+          "title": "Fundamento",
+          "body": "Na Reconciliação, recebemos o perdão de Cristo pela absolvição do sacerdote."
+        },
+        {
+          "title": "Aplicação",
+          "body": "A mulher pode confessar com sinceridade e reparar o mal causado à colega."
+        }
+      ],
+      "conference_question": "Como a Confissão e a correção da mentira se completam?",
+      "anchors": [
+        "CEC 1422",
+        "CEC 1459"
+      ],
+      "facilitator_note": "O sacramento não substitui a reparação possível."
+    },
+    {
+      "id": "B14",
+      "term_id": "B14",
+      "call_label": "B14 - Oração",
+      "case": "No fim do dia, um rapaz quer rezar, mas não consegue encontrar palavras bonitas. Pensa em deixar a oração para outra hora.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "A dificuldade com as palavras não impede a oração."
+        },
+        {
+          "title": "Fundamento",
+          "body": "Deus nos convida a uma relação sincera, não a um discurso perfeito."
+        },
+        {
+          "title": "Aplicação",
+          "body": "O rapaz pode agradecer pelo dia e falar de suas preocupações com simplicidade."
+        }
+      ],
+      "conference_question": "Por que a oração não depende de falar de um jeito bonito?",
+      "anchors": [
+        "CEC 2558",
+        "CEC 2565"
+      ],
+      "facilitator_note": "O silêncio atento também pode fazer parte da oração."
+    },
+    {
+      "id": "B15",
+      "term_id": "B15",
+      "call_label": "B15 - Vida eterna",
+      "case": "Uma família reza junto ao túmulo da avó. Um neto pergunta por que continuam rezando se não podem mais conversar com ela como antes.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "A saudade convive com a esperança cristã."
+        },
+        {
+          "title": "Fundamento",
+          "body": "Cristo nos chama à vida eterna; esperamos a ressurreição e a comunhão com Deus."
+        },
+        {
+          "title": "Aplicação",
+          "body": "Podemos confiar os falecidos à misericórdia de Deus e rezar por eles."
+        }
+      ],
+      "conference_question": "Que esperança sustenta a oração dessa família?",
+      "anchors": [
+        "CEC 988",
+        "CEC 1023",
+        "CEC 1032"
+      ],
+      "facilitator_note": "Não afirmar o destino eterno de uma pessoa nem dizer que virou um anjo."
+    },
+    {
+      "id": "I01",
+      "term_id": "I01",
+      "call_label": "I01 - Lugar à mesa",
+      "case": "Uma família recém-chegada ao bairro participa de um almoço comunitário. Há lugares livres, mas ninguém se aproxima para conversar.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "Ter uma cadeira disponível não garante que a família se sinta acolhida."
+        },
+        {
+          "title": "Fundamento",
+          "body": "O amor ao próximo inclui atenção a quem ainda não tem vínculos."
+        },
+        {
+          "title": "Aplicação",
+          "body": "Um participante pode se apresentar e convidar a família a sentar junto."
+        }
+      ],
+      "conference_question": "O que pode transformar um lugar vazio em acolhida de verdade?",
+      "anchors": [
+        "CEC 1931",
+        "CEC 1970"
+      ],
+      "facilitator_note": "Acolher não exige forçar intimidade ou fazer perguntas pessoais."
+    },
+    {
+      "id": "I02",
+      "term_id": "I02",
+      "call_label": "I02 - Palavra que machuca",
+      "case": "Um pai corrige o erro do filho durante o almoço e o chama de inútil diante da família. Depois diz que estava apenas ensinando.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "A correção virou uma humilhação."
+        },
+        {
+          "title": "Fundamento",
+          "body": "O erro precisa ser corrigido sem negar o valor de quem errou."
+        },
+        {
+          "title": "Aplicação",
+          "body": "O pai pode pedir desculpas e explicar o que precisa mudar, sem insultos."
+        }
+      ],
+      "conference_question": "Qual é a diferença entre corrigir o erro e humilhar o filho?",
+      "anchors": [
+        "CEC 1931",
+        "CEC 2223"
+      ],
+      "facilitator_note": "Não pedir que participantes relatem humilhações sofridas em casa."
+    },
+    {
+      "id": "I03",
+      "term_id": "I03",
+      "call_label": "I03 - Promessa esquecida",
+      "case": "Um rapaz promete levar a avó a uma consulta. Recebe um convite para jogar e sai sem avisar, deixando a avó esperando.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "A escolha prejudica alguém que dependia do combinado."
+        },
+        {
+          "title": "Fundamento",
+          "body": "Amar inclui cumprir os compromissos assumidos."
+        },
+        {
+          "title": "Aplicação",
+          "body": "O rapaz precisa se responsabilizar pelo ocorrido e combinar como ajudar a avó."
+        }
+      ],
+      "conference_question": "Por que essa decisão não diz respeito apenas à vontade do rapaz?",
+      "anchors": [
+        "CEC 1734",
+        "CEC 2218"
+      ],
+      "facilitator_note": "Um impedimento real exige aviso e ajuda para encontrar uma solução."
+    },
+    {
+      "id": "I04",
+      "term_id": "I04",
+      "call_label": "I04 - Notícia sem confirmação",
+      "case": "Uma mensagem acusa o funcionário de uma loja de roubar clientes. Um morador encaminha o aviso sem saber de onde veio a informação.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "A acusação pode prejudicar alguém injustamente."
+        },
+        {
+          "title": "Fundamento",
+          "body": "O respeito ao próximo exige cuidado com a verdade e a reputação."
+        },
+        {
+          "title": "Aplicação",
+          "body": "O morador deve interromper o repasse e esclarecer que a acusação não foi confirmada."
+        }
+      ],
+      "conference_question": "Por que dizer que era apenas um aviso não elimina o problema?",
+      "anchors": [
+        "CEC 2477"
+      ],
+      "facilitator_note": "Distinguir um boato de um pedido responsável de ajuda diante de uma suspeita."
+    },
+    {
+      "id": "I05",
+      "term_id": "I05",
+      "call_label": "I05 - Compra e desperdício",
+      "case": "Uma família compra alimentos em promoção, além do que consegue consumir. Parte estraga enquanto novas compras chegam.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "O preço baixo não impediu o desperdício."
+        },
+        {
+          "title": "Fundamento",
+          "body": "Os bens da criação pedem uso responsável."
+        },
+        {
+          "title": "Aplicação",
+          "body": "A família pode planejar as compras e aproveitar primeiro o que já tem."
+        }
+      ],
+      "conference_question": "O que precisa mudar para evitar esse desperdício?",
+      "anchors": [
+        "CEC 2415"
+      ],
+      "facilitator_note": "Não responsabilizar famílias por problemas de conservação fora de seu controle."
+    },
+    {
+      "id": "I06",
+      "term_id": "I06",
+      "call_label": "I06 - Trabalho sem pagamento",
+      "case": "Uma costureira entrega as peças no prazo. O cliente usa as roupas, mas adia o pagamento para gastar o dinheiro numa viagem.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "O cliente aproveita o trabalho sem cumprir sua parte."
+        },
+        {
+          "title": "Fundamento",
+          "body": "A justiça exige pagar o que é devido a quem trabalhou."
+        },
+        {
+          "title": "Aplicação",
+          "body": "O cliente precisa pagar a costureira antes de tratar a quantia como dinheiro disponível."
+        }
+      ],
+      "conference_question": "Por que esse pagamento não pode depender da boa vontade do cliente?",
+      "anchors": [
+        "CEC 2434"
+      ],
+      "facilitator_note": "Uma dificuldade real de pagar exige diálogo, não desaparecimento."
+    },
+    {
+      "id": "I07",
+      "term_id": "I07",
+      "call_label": "I07 - Ajuda sem exposição",
+      "case": "Um voluntário entrega uma cesta de alimentos e pede uma foto da família. A mãe recusa a foto, mas o voluntário insiste.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "A família precisa de ajuda, não de exposição."
+        },
+        {
+          "title": "Fundamento",
+          "body": "A dignidade de quem recebe deve orientar a forma de ajudar."
+        },
+        {
+          "title": "Aplicação",
+          "body": "O voluntário deve respeitar a recusa e entregar a cesta sem exigir a foto."
+        }
+      ],
+      "conference_question": "Por que a ajuda não dá direito de expor quem a recebe?",
+      "anchors": [
+        "CEC 1931",
+        "CEC 2447"
+      ],
+      "facilitator_note": "Prestar contas de uma doação não exige fotografar a pessoa atendida."
+    },
+    {
+      "id": "I08",
+      "term_id": "I08",
+      "call_label": "I08 - Domingo em disputa",
+      "case": "Uma família marca passeios para todos os domingos e só depois percebe que deixou a Missa sempre para quando sobrasse tempo.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "A organização do tempo revela o lugar dado à fé."
+        },
+        {
+          "title": "Fundamento",
+          "body": "A Eucaristia dominical está no centro da vida da comunidade cristã."
+        },
+        {
+          "title": "Aplicação",
+          "body": "A família pode planejar os passeios considerando um horário possível de Missa."
+        }
+      ],
+      "conference_question": "Como organizar o domingo sem tratar a Missa como sobra de tempo?",
+      "anchors": [
+        "CEC 2177",
+        "CEC 2181"
+      ],
+      "facilitator_note": "Distinguir escolha por comodidade de doença, cuidado de dependentes ou outro impedimento sério."
+    },
+    {
+      "id": "I09",
+      "term_id": "I09",
+      "call_label": "I09 - Oração na dificuldade",
+      "case": "Uma mulher reza pelo marido doente. O tratamento demora, e a família não sabe se haverá melhora. Uma vizinha se oferece para rezar junto.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "A demora aumenta a angústia, mas não impede a oração."
+        },
+        {
+          "title": "Fundamento",
+          "body": "Deus acolhe nossas súplicas; a fé não garante o resultado que desejamos."
+        },
+        {
+          "title": "Aplicação",
+          "body": "A família pode perseverar na oração e aceitar apoio durante o tratamento."
+        }
+      ],
+      "conference_question": "O que a oração pode expressar mesmo sem uma resposta imediata?",
+      "anchors": [
+        "CEC 2734",
+        "CEC 165"
+      ],
+      "facilitator_note": "Não atribuir a demora ou a doença à falta de fé da família."
+    },
+    {
+      "id": "I10",
+      "term_id": "I10",
+      "call_label": "I10 - Volta à comunidade",
+      "case": "Depois de anos afastado, um homem chega à Missa e não sabe acompanhar as respostas. Um participante começa a comentar sua ausência com os vizinhos.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "O retorno pede acolhida, não exposição."
+        },
+        {
+          "title": "Fundamento",
+          "body": "A Igreja é chamada a ajudar as pessoas a se aproximarem de Cristo."
+        },
+        {
+          "title": "Aplicação",
+          "body": "Um participante pode cumprimentar o homem e oferecer ajuda sem cobrar explicações."
+        }
+      ],
+      "conference_question": "Como acolher esse retorno sem constranger quem chegou?",
+      "anchors": [
+        "CEC 1697",
+        "CEC 2179"
+      ],
+      "facilitator_note": "Não confundir acolhida à pessoa com orientação automática para comungar."
+    },
+    {
+      "id": "I11",
+      "term_id": "I11",
+      "call_label": "I11 - Visita a quem está só",
+      "case": "Um idoso passa a semana sozinho e repete as mesmas histórias quando recebe visitas. O sobrinho pensa em encurtar a visita porque já ouviu tudo.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "A necessidade do idoso inclui companhia e escuta."
+        },
+        {
+          "title": "Fundamento",
+          "body": "A misericórdia cuida também da solidão e da tristeza."
+        },
+        {
+          "title": "Aplicação",
+          "body": "O sobrinho pode ouvir com atenção e combinar outra visita possível."
+        }
+      ],
+      "conference_question": "O que essa visita oferece além de ouvir uma história nova?",
+      "anchors": [
+        "CEC 2447"
+      ],
+      "facilitator_note": "Não prometer uma disponibilidade que a pessoa não consegue manter."
+    },
+    {
+      "id": "I12",
+      "term_id": "I12",
+      "call_label": "I12 - Dons diferentes",
+      "case": "Numa equipe, uma jovem canta bem e outro participante prefere organizar o espaço. Alguém diz que só quem aparece diante de todos ajuda de verdade.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "As tarefas são diferentes, mas ambas servem à comunidade."
+        },
+        {
+          "title": "Fundamento",
+          "body": "Deus concede dons para o bem de todos, não para disputar importância."
+        },
+        {
+          "title": "Aplicação",
+          "body": "A equipe pode reconhecer cada contribuição e distribuir as tarefas com cuidado."
+        }
+      ],
+      "conference_question": "Por que uma tarefa discreta pode ser tão necessária quanto uma tarefa visível?",
+      "anchors": [
+        "CEC 951",
+        "1Cor 12,4-7"
+      ],
+      "facilitator_note": "Valorizar os dons sem classificar pessoas como superiores ou inferiores."
+    },
+    {
+      "id": "I13",
+      "term_id": "I13",
+      "call_label": "I13 - Perdão que custa",
+      "case": "Uma amiga pede perdão por espalhar um segredo. A jovem ofendida quer parar de alimentar a vingança, mas ainda não consegue confiar como antes.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "A decisão de perdoar convive com uma ferida que precisa de tempo."
+        },
+        {
+          "title": "Fundamento",
+          "body": "Perdoar é renunciar à vingança e desejar o bem, com a ajuda de Deus."
+        },
+        {
+          "title": "Aplicação",
+          "body": "A jovem pode manter limites enquanto a confiança é reconstruída."
+        }
+      ],
+      "conference_question": "Por que perdoar não obriga a contar novamente todos os segredos?",
+      "anchors": [
+        "CEC 2840",
+        "CEC 2843"
+      ],
+      "facilitator_note": "Perdão não obriga a retomar uma relação perigosa."
+    },
+    {
+      "id": "I14",
+      "term_id": "I14",
+      "call_label": "I14 - Doença e cuidado",
+      "case": "Um homem gravemente doente pede a visita do padre. A família hesita, achando que receber a Unção dos Enfermos significa desistir do tratamento.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "A família confunde o sacramento com uma despedida obrigatória."
+        },
+        {
+          "title": "Fundamento",
+          "body": "A Unção oferece a graça de Cristo ao doente e não se limita aos últimos instantes."
+        },
+        {
+          "title": "Aplicação",
+          "body": "A família pode procurar o padre e continuar acompanhando o tratamento."
+        }
+      ],
+      "conference_question": "Por que receber a Unção não significa desistir de viver ou de cuidar?",
+      "anchors": [
+        "CEC 1499",
+        "CEC 1514"
+      ],
+      "facilitator_note": "Não prometer cura física nem sugerir substituir cuidados de saúde."
+    },
+    {
+      "id": "I15",
+      "term_id": "I15",
+      "call_label": "I15 - Fé fora da igreja",
+      "case": "Uma comerciante participa da Missa e, durante a semana, percebe que cobrou a mais de um cliente que já foi embora. Ninguém lhe pede devolução.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "A honestidade do trabalho também faz parte da vida cristã."
+        },
+        {
+          "title": "Fundamento",
+          "body": "Seguir Cristo envolve nossas escolhas de todos os dias."
+        },
+        {
+          "title": "Aplicação",
+          "body": "A comerciante pode procurar o cliente e devolver a diferença."
+        }
+      ],
+      "conference_question": "Como essa decisão se relaciona com a fé celebrada na Missa?",
+      "anchors": [
+        "CEC 901",
+        "CEC 2044"
+      ],
+      "facilitator_note": "A Missa alimenta a vida cristã; não é um gesto isolado da semana."
+    },
+    {
+      "id": "N01",
+      "term_id": "N01",
+      "call_label": "N01 - Fé como troca",
+      "case": "Um homem faz uma doação esperando uma promoção no trabalho. Quando a promoção não vem, diz que Deus não cumpriu a parte dele.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "O homem transforma a oferta numa cobrança."
+        },
+        {
+          "title": "Fundamento",
+          "body": "Deus nos ama gratuitamente; a fé não compra resultados."
+        },
+        {
+          "title": "Aplicação",
+          "body": "Podemos oferecer e pedir com confiança, sem tratar Deus como devedor."
+        }
+      ],
+      "conference_question": "O que diferencia uma oferta sincera de uma tentativa de comprar um favor?",
+      "anchors": [
+        "CEC 2099",
+        "CEC 2111"
+      ],
+      "facilitator_note": "Não confundir gratidão ou promessa legítima com uma negociação com Deus."
+    },
+    {
+      "id": "N02",
+      "term_id": "N02",
+      "call_label": "N02 - Deus só castiga",
+      "case": "Uma menina derruba um prato. Um parente diz que foi castigo de Deus porque ela tinha desobedecido mais cedo.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "O parente apresenta um acidente como punição divina."
+        },
+        {
+          "title": "Fundamento",
+          "body": "Não podemos afirmar que uma dificuldade seja castigo de Deus por uma falta específica."
+        },
+        {
+          "title": "Aplicação",
+          "body": "A menina pode assumir o que fez sem ser ensinada a viver com medo de Deus."
+        }
+      ],
+      "conference_question": "Por que não podemos chamar esse acidente de castigo de Deus?",
+      "anchors": [
+        "CEC 218-221",
+        "CEC 1428"
+      ],
+      "facilitator_note": "Reconhecer o pecado sem inventar explicações para cada sofrimento."
+    },
+    {
+      "id": "N03",
+      "term_id": "N03",
+      "call_label": "N03 - Fé só de palavras",
+      "case": "Um morador diz que basta acreditar em Deus. Ao ver uma vizinha com dificuldade para carregar compras, recusa uma ajuda simples porque não quer perder tempo.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "A declaração de fé não chega à atitude concreta."
+        },
+        {
+          "title": "Fundamento",
+          "body": "A fé viva age pela caridade."
+        },
+        {
+          "title": "Aplicação",
+          "body": "O morador pode oferecer a ajuda que está ao seu alcance."
+        }
+      ],
+      "conference_question": "O que falta quando a fé é afirmada, mas não orienta a ação?",
+      "anchors": [
+        "CEC 1814-1815"
+      ],
+      "facilitator_note": "As obras são resposta à graça, não uma compra da salvação."
+    },
+    {
+      "id": "N04",
+      "term_id": "N04",
+      "call_label": "N04 - Sacramento como formatura",
+      "case": "Após a Primeira Comunhão, uma família guarda a roupa da celebração e diz que a criança já terminou sua parte na Igreja.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "A celebração é tratada como encerramento."
+        },
+        {
+          "title": "Fundamento",
+          "body": "A iniciação cristã abre e fortalece uma vida de comunhão com Cristo."
+        },
+        {
+          "title": "Aplicação",
+          "body": "A família pode continuar participando da Missa e ajudando a criança a crescer na fé."
+        }
+      ],
+      "conference_question": "Por que a Primeira Comunhão pede continuidade depois da festa?",
+      "anchors": [
+        "CEC 1212",
+        "CEC 1391"
+      ],
+      "facilitator_note": "A mesma ideia vale para a Crisma; evitar falar em diploma religioso."
+    },
+    {
+      "id": "N05",
+      "term_id": "N05",
+      "call_label": "N05 - Missa só quando dá vontade",
+      "case": "Um jovem decide ir à Missa apenas nos domingos em que gosta das músicas. Nos outros, fica em casa, embora possa participar.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "O gosto musical passou a decidir a participação."
+        },
+        {
+          "title": "Fundamento",
+          "body": "Na Missa, a comunidade se reúne para ouvir a Palavra e celebrar a Páscoa de Cristo."
+        },
+        {
+          "title": "Aplicação",
+          "body": "O jovem pode participar com fé mesmo quando as músicas não são suas preferidas."
+        }
+      ],
+      "conference_question": "O que faz a Missa ter valor além do nosso gosto pessoal?",
+      "anchors": [
+        "CEC 1324",
+        "CEC 2181"
+      ],
+      "facilitator_note": "Não aplicar o caso a quem está impedido por um motivo sério."
+    },
+    {
+      "id": "N06",
+      "term_id": "N06",
+      "call_label": "N06 - Perdão sem arrependimento",
+      "case": "Um rapaz pega dinheiro da irmã e pede desculpas. Antes de devolver, já planeja pegar outra quantia escondida.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "O pedido de perdão não acompanha uma decisão de mudar."
+        },
+        {
+          "title": "Fundamento",
+          "body": "Arrepender-se inclui rejeitar o pecado."
+        },
+        {
+          "title": "Aplicação",
+          "body": "O rapaz precisa desistir do novo furto e devolver o que retirou."
+        }
+      ],
+      "conference_question": "O que falta nesse pedido de perdão, além de dizer as palavras?",
+      "anchors": [
+        "CEC 1451",
+        "CEC 1459"
+      ],
+      "facilitator_note": "A dificuldade de mudar é diferente de planejar continuar errando."
+    },
+    {
+      "id": "N07",
+      "term_id": "N07",
+      "call_label": "N07 - Oração como fórmula",
+      "case": "Uma mensagem promete que uma oração repetida sete vezes garante qualquer pedido. Uma mulher fica preocupada por ter perdido a conta.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "A mensagem trata a oração como um mecanismo automático."
+        },
+        {
+          "title": "Fundamento",
+          "body": "Deus escuta nossa confiança; não fica preso a uma contagem de palavras."
+        },
+        {
+          "title": "Aplicação",
+          "body": "A mulher pode rezar com sinceridade sem acreditar na garantia da mensagem."
+        }
+      ],
+      "conference_question": "Por que a eficácia da oração não depende dessa contagem?",
+      "anchors": [
+        "CEC 2111",
+        "CEC 2565"
+      ],
+      "facilitator_note": "Não desvalorizar orações repetidas como o Rosário; o erro está na promessa mágica."
+    },
+    {
+      "id": "N08",
+      "term_id": "N08",
+      "call_label": "N08 - Bíblia fora de contexto",
+      "case": "Um homem usa uma frase sobre obedecer para exigir que o filho esconda uma fraude. Não aceita conversar sobre o restante do texto.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "A frase bíblica está sendo usada para justificar uma ação errada."
+        },
+        {
+          "title": "Fundamento",
+          "body": "A Escritura deve ser lida no seu conjunto e com a orientação da Igreja."
+        },
+        {
+          "title": "Aplicação",
+          "body": "O filho pode buscar ajuda para compreender o texto e recusar a fraude."
+        }
+      ],
+      "conference_question": "Por que citar uma frase da Bíblia não torna essa ordem correta?",
+      "anchors": [
+        "CEC 112-114"
+      ],
+      "facilitator_note": "A obediência não exige praticar o mal."
+    },
+    {
+      "id": "N09",
+      "term_id": "N09",
+      "call_label": "N09 - Igreja sem compromisso",
+      "case": "Uma família procura a comunidade quando precisa de documentos religiosos. Depois diz que rezar, celebrar e conviver com os demais não lhe interessa.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "A Igreja é procurada só como prestadora de um serviço."
+        },
+        {
+          "title": "Fundamento",
+          "body": "O Batismo nos une a um povo chamado a viver e testemunhar a fé."
+        },
+        {
+          "title": "Aplicação",
+          "body": "A família pode buscar uma participação possível e constante na comunidade."
+        }
+      ],
+      "conference_question": "O que falta quando a relação com a Igreja se resume a pedir um documento?",
+      "anchors": [
+        "CEC 1267",
+        "CEC 2179"
+      ],
+      "facilitator_note": "Não presumir desinteresse de quem enfrenta obstáculos reais à participação."
+    },
+    {
+      "id": "N10",
+      "term_id": "N10",
+      "call_label": "N10 - Doação sem cuidado",
+      "case": "Durante uma arrecadação, um homem entrega roupas sujas e rasgadas que não quer consertar. Diz que, para quem precisa, qualquer coisa serve.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "A doação está sendo usada para descartar o que não serve."
+        },
+        {
+          "title": "Fundamento",
+          "body": "Quem precisa de ajuda conserva a mesma dignidade de quem oferece."
+        },
+        {
+          "title": "Aplicação",
+          "body": "O homem pode separar peças em condições de uso e doar com respeito."
+        }
+      ],
+      "conference_question": "Que critério deve orientar a escolha do que doar?",
+      "anchors": [
+        "CEC 1931",
+        "CEC 2447"
+      ],
+      "facilitator_note": "Uma doação pequena pode ser generosa; o problema não é o valor baixo."
+    },
+    {
+      "id": "N11",
+      "term_id": "N11",
+      "call_label": "N11 - Fé sem dificuldades",
+      "case": "Depois de perder o emprego, um pai pensa que sua fé não valeu de nada. Acreditava que, por rezar, nunca passaria por uma dificuldade assim.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "A perda abalou uma expectativa sobre a fé."
+        },
+        {
+          "title": "Fundamento",
+          "body": "Jesus não prometeu uma vida sem sofrimento; prometeu estar conosco."
+        },
+        {
+          "title": "Aplicação",
+          "body": "O pai pode pedir ajuda, continuar buscando trabalho e confiar em Deus."
+        }
+      ],
+      "conference_question": "Por que enfrentar uma dificuldade não prova que a fé foi inútil?",
+      "anchors": [
+        "CEC 165",
+        "CEC 2734"
+      ],
+      "facilitator_note": "Acolher a dor antes de oferecer uma explicação."
+    },
+    {
+      "id": "N12",
+      "term_id": "N12",
+      "call_label": "N12 - Só os perfeitos participam",
+      "case": "Uma mulher evita voltar à comunidade porque tem erros que precisa corrigir. Diz que só poderá entrar na igreja quando estiver sem nenhuma falha.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "A mulher trata a perfeição como condição para começar."
+        },
+        {
+          "title": "Fundamento",
+          "body": "Cristo nos chama à conversão e oferece graça para crescer."
+        },
+        {
+          "title": "Aplicação",
+          "body": "A mulher pode voltar à comunidade e buscar ajuda para mudar."
+        }
+      ],
+      "conference_question": "Por que não é preciso esperar ser perfeito para procurar a Igreja?",
+      "anchors": [
+        "CEC 827",
+        "CEC 1428"
+      ],
+      "facilitator_note": "Acolhida não elimina a preparação própria para cada sacramento."
+    },
+    {
+      "id": "N13",
+      "term_id": "N13",
+      "call_label": "N13 - Mudar é impossível",
+      "case": "Um rapaz costuma mentir para evitar broncas. Quando a família pede sinceridade, responde que sempre foi assim e não consegue mudar.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "O costume virou uma desculpa para desistir."
+        },
+        {
+          "title": "Fundamento",
+          "body": "A graça de Deus nos ajuda a reconhecer o pecado e dar passos de conversão."
+        },
+        {
+          "title": "Aplicação",
+          "body": "O rapaz pode começar admitindo uma mentira e pedindo apoio para agir diferente."
+        }
+      ],
+      "conference_question": "Qual primeiro passo contraria a ideia de que nada pode mudar?",
+      "anchors": [
+        "CEC 1431",
+        "CEC 1811"
+      ],
+      "facilitator_note": "Mudar pode exigir tempo; não prometer uma solução instantânea."
+    },
+    {
+      "id": "N14",
+      "term_id": "N14",
+      "call_label": "N14 - Corrente de medo",
+      "case": "Uma mensagem diz que algo ruim acontecerá a quem não a encaminhar. Um adolescente pensa em enviá-la para a família, só por medo.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "A mensagem usa o medo para conseguir novos envios."
+        },
+        {
+          "title": "Fundamento",
+          "body": "A fé em Deus não depende de repassar ameaças ou correntes."
+        },
+        {
+          "title": "Aplicação",
+          "body": "O adolescente pode interromper o envio e esclarecer que a ameaça não é ensinamento da Igreja."
+        }
+      ],
+      "conference_question": "Como distinguir um convite à oração de uma corrente que usa o medo?",
+      "anchors": [
+        "CEC 2111"
+      ],
+      "facilitator_note": "Não repetir detalhes assustadores além do necessário para entender o caso."
+    },
+    {
+      "id": "N15",
+      "term_id": "N15",
+      "call_label": "N15 - Vale tudo para ajudar",
+      "case": "Para arrecadar dinheiro para um abrigo, uma voluntária inventa uma história de abandono. Diz que a mentira se justifica porque o dinheiro ajudará.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "A ajuda pretendida vem acompanhada de uma mentira."
+        },
+        {
+          "title": "Fundamento",
+          "body": "Um fim bom não justifica um meio mau."
+        },
+        {
+          "title": "Aplicação",
+          "body": "A voluntária pode apresentar a necessidade real do abrigo e corrigir a história inventada."
+        }
+      ],
+      "conference_question": "Como manter o objetivo de ajudar sem aceitar a mentira?",
+      "anchors": [
+        "CEC 1753"
+      ],
+      "facilitator_note": "Distinguir a finalidade da ação usada para alcançá-la."
+    },
+    {
+      "id": "G01",
+      "term_id": "G01",
+      "call_label": "G01 - Fé e sentimento",
+      "case": "Uma jovem antes se emocionava ao rezar. Agora vive um período sem entusiasmo e pensa que deixou de ter fé.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "A mudança de sentimento gera insegurança."
+        },
+        {
+          "title": "Fundamento",
+          "body": "A fé é confiança e adesão a Deus, não uma emoção constante."
+        },
+        {
+          "title": "Aplicação",
+          "body": "A jovem pode perseverar na oração e conversar com alguém que a ajude a compreender essa fase."
+        }
+      ],
+      "conference_question": "Por que a falta de emoção não significa, por si só, falta de fé?",
+      "anchors": [
+        "CEC 150",
+        "CEC 2731"
+      ],
+      "facilitator_note": "Não exigir que alguém produza sentimentos religiosos."
+    },
+    {
+      "id": "G02",
+      "term_id": "G02",
+      "call_label": "G02 - Dúvida e recusa",
+      "case": "Um rapaz faz perguntas sobre a ressurreição e procura explicações. Um amigo zomba das mesmas perguntas e se recusa a ouvir qualquer resposta.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "As duas atitudes diante da dificuldade são diferentes."
+        },
+        {
+          "title": "Fundamento",
+          "body": "Buscar compreender pode fazer parte do crescimento na fé."
+        },
+        {
+          "title": "Aplicação",
+          "body": "O rapaz pode continuar perguntando e estudando com a ajuda da Igreja."
+        }
+      ],
+      "conference_question": "O que distingue uma pergunta sincera de uma recusa de escutar?",
+      "anchors": [
+        "CEC 158",
+        "CEC 2088"
+      ],
+      "facilitator_note": "Não tratar toda dificuldade de compreensão como culpa ou falta de fé."
+    },
+    {
+      "id": "G03",
+      "term_id": "G03",
+      "call_label": "G03 - Liberdade e capricho",
+      "case": "Um morador põe música alta de madrugada e diz que ser livre é fazer o que quiser dentro de casa. O vizinho precisa acordar cedo.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "A vontade do morador interfere no descanso alheio."
+        },
+        {
+          "title": "Fundamento",
+          "body": "Ser livre não elimina a responsabilidade pelo bem do próximo."
+        },
+        {
+          "title": "Aplicação",
+          "body": "O morador pode diminuir o volume e respeitar o descanso dos vizinhos."
+        }
+      ],
+      "conference_question": "Como distinguir exercer a liberdade de impor a própria vontade aos outros?",
+      "anchors": [
+        "CEC 1733",
+        "CEC 1740"
+      ],
+      "facilitator_note": "O limite protege um bem real: o descanso."
+    },
+    {
+      "id": "G04",
+      "term_id": "G04",
+      "call_label": "G04 - Tentação e pecado",
+      "case": "Durante uma discussão, uma jovem sente vontade de insultar a irmã. Decide parar antes de falar e esperar se acalmar.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "O impulso apareceu, mas não foi aceito."
+        },
+        {
+          "title": "Fundamento",
+          "body": "A tentação recusada não é o mesmo que um pecado cometido."
+        },
+        {
+          "title": "Aplicação",
+          "body": "A jovem pode retomar a conversa sem transformar a raiva em ofensa."
+        }
+      ],
+      "conference_question": "O que mostra que a jovem não escolheu ceder à tentação?",
+      "anchors": [
+        "CEC 1264",
+        "CEC 2847"
+      ],
+      "facilitator_note": "Não confundir um pensamento involuntário com consentimento."
+    },
+    {
+      "id": "G05",
+      "term_id": "G05",
+      "call_label": "G05 - Perdão e confiança",
+      "case": "Um rapaz perdoa o amigo que pegou seu dinheiro escondido. Mesmo assim, decide não emprestar mais dinheiro por enquanto.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "O perdão não apaga automaticamente a necessidade de cuidado."
+        },
+        {
+          "title": "Fundamento",
+          "body": "Perdoar e voltar a confiar são passos diferentes."
+        },
+        {
+          "title": "Aplicação",
+          "body": "O rapaz pode desejar o bem do amigo e manter um limite prudente."
+        }
+      ],
+      "conference_question": "Por que esse limite não prova que o perdão foi falso?",
+      "anchors": [
+        "CEC 2843",
+        "CEC 1806"
+      ],
+      "facilitator_note": "O perdão não exige aceitar novos abusos."
+    },
+    {
+      "id": "G06",
+      "term_id": "G06",
+      "call_label": "G06 - Pecado e pessoa",
+      "case": "Após descobrir que um comerciante enganou um cliente, um vizinho afirma que aquela pessoa nunca mais poderá ser honesta.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "O vizinho trata um pecado como se definisse toda a vida do comerciante."
+        },
+        {
+          "title": "Fundamento",
+          "body": "O pecado precisa ser reconhecido, mas quem errou continua tendo dignidade."
+        },
+        {
+          "title": "Aplicação",
+          "body": "É preciso corrigir a fraude e reparar o dano, sem negar a possibilidade de mudança."
+        }
+      ],
+      "conference_question": "Como reprovar a fraude sem negar a possibilidade de conversão?",
+      "anchors": [
+        "CEC 1931",
+        "CEC 1848"
+      ],
+      "facilitator_note": "Nem humilhar a pessoa nem esconder o erro."
+    },
+    {
+      "id": "G07",
+      "term_id": "G07",
+      "call_label": "G07 - Mortal e venial",
+      "case": "Um rapaz pega o dinheiro do aluguel da família. Sabe que é uma falta grave e decide usá-lo numa compra para si.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "O caso reúne uma ação grave, o conhecimento dessa gravidade e uma escolha deliberada."
+        },
+        {
+          "title": "Fundamento",
+          "body": "O pecado mortal exige essas três condições juntas e rompe a amizade com Deus."
+        },
+        {
+          "title": "Distinção",
+          "body": "O venial envolve matéria leve ou falta de pleno conhecimento ou consentimento em matéria grave."
+        }
+      ],
+      "conference_question": "Quais detalhes do caso mostram as três condições do pecado mortal?",
+      "anchors": [
+        "CEC 1857-1863"
+      ],
+      "facilitator_note": "Sem escolha voluntária, pode não haver pecado, nem mesmo venial."
+    },
+    {
+      "id": "G08",
+      "term_id": "G08",
+      "call_label": "G08 - Presença e participação",
+      "case": "Um homem chega à Missa no horário, mas passa a celebração respondendo mensagens que poderiam esperar. Depois diz que participou porque esteve lá.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "Estar no lugar não garantiu atenção ao que se celebrava."
+        },
+        {
+          "title": "Fundamento",
+          "body": "A participação na Missa pede unir a mente e o coração à oração da Igreja."
+        },
+        {
+          "title": "Aplicação",
+          "body": "O homem pode guardar o celular e acompanhar as leituras e as orações."
+        }
+      ],
+      "conference_question": "O que transforma a presença física em participação mais consciente?",
+      "anchors": [
+        "CEC 1141",
+        "CEC 1388"
+      ],
+      "facilitator_note": "Uma distração involuntária é diferente de escolher ocupar-se de outra coisa."
+    },
+    {
+      "id": "G09",
+      "term_id": "G09",
+      "call_label": "G09 - Adorar e venerar",
+      "case": "Uma visitante vê uma família rezar diante de uma imagem de um santo e pergunta se a estátua recebe a mesma adoração dada a Deus.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "O gesto precisa ser compreendido pelo que expressa."
+        },
+        {
+          "title": "Fundamento",
+          "body": "Adoramos a Deus; a imagem nos recorda alguém que vive com Ele e pode interceder por nós."
+        },
+        {
+          "title": "Aplicação",
+          "body": "A família pode explicar que a oração não atribui poder divino ao objeto."
+        }
+      ],
+      "conference_question": "Qual é a diferença entre honrar um santo e adorar a Deus?",
+      "anchors": [
+        "CEC 956",
+        "CEC 2132"
+      ],
+      "facilitator_note": "A imagem não é um deus nem um objeto mágico."
+    },
+    {
+      "id": "G10",
+      "term_id": "G10",
+      "call_label": "G10 - Maria e Jesus",
+      "case": "Ao rezar a Ave-Maria, uma criança pergunta por que pedimos a Maria que rogue por nós, se podemos falar diretamente com Jesus.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "Pedir intercessão não impede a oração direta a Jesus."
+        },
+        {
+          "title": "Fundamento",
+          "body": "Maria é a mãe de Jesus e nos ajuda a acolher seu Filho, nosso Salvador."
+        },
+        {
+          "title": "Aplicação",
+          "body": "Podemos pedir sua intercessão e seguir o exemplo de sua confiança em Deus."
+        }
+      ],
+      "conference_question": "Como a oração a Maria nos aproxima de Jesus?",
+      "anchors": [
+        "CEC 495",
+        "CEC 971",
+        "Jo 2,1-5"
+      ],
+      "facilitator_note": "Maria não é uma deusa nem substitui Jesus."
+    },
+    {
+      "id": "G11",
+      "term_id": "G11",
+      "call_label": "G11 - Esperança e acomodação",
+      "case": "Um homem desempregado diz que Deus cuidará de tudo. Por isso, deixa de responder às oportunidades de trabalho que recebe.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "A confiança está sendo usada como motivo para não agir."
+        },
+        {
+          "title": "Fundamento",
+          "body": "A esperança cristã conta com a graça de Deus e sustenta nossa perseverança."
+        },
+        {
+          "title": "Aplicação",
+          "body": "O homem pode rezar, aceitar apoio e responder às oportunidades possíveis."
+        }
+      ],
+      "conference_question": "Como a esperança pode incentivar a ação em vez de impedir o esforço?",
+      "anchors": [
+        "CEC 1817",
+        "CEC 2001"
+      ],
+      "facilitator_note": "Não presumir preguiça de quem enfrenta barreiras reais para trabalhar."
+    },
+    {
+      "id": "G12",
+      "term_id": "G12",
+      "call_label": "G12 - Vocação e profissão",
+      "case": "Uma enfermeira acha que não tem vocação porque nunca pensou em ser religiosa. No trabalho, procura cuidar dos pacientes com honestidade e atenção.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "A enfermeira reduz a vocação a um único caminho de vida."
+        },
+        {
+          "title": "Fundamento",
+          "body": "Deus chama todos à santidade, em diferentes estados de vida e serviços."
+        },
+        {
+          "title": "Aplicação",
+          "body": "O cuidado cotidiano pode ser uma forma de responder ao chamado de Deus."
+        }
+      ],
+      "conference_question": "Por que a vocação não se limita a ser padre ou religiosa?",
+      "anchors": [
+        "CEC 2013",
+        "CEC 901"
+      ],
+      "facilitator_note": "Não confundir toda preferência profissional com uma vocação já discernida."
+    },
+    {
+      "id": "G13",
+      "term_id": "G13",
+      "call_label": "G13 - Matrimônio e festa",
+      "case": "Um casal dedica meses à decoração do casamento, mas evita conversar sobre fidelidade, filhos e responsabilidades da vida em comum.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "Os preparativos da festa estão tomando o lugar de uma preparação mais profunda."
+        },
+        {
+          "title": "Fundamento",
+          "body": "No Matrimônio, os esposos assumem uma aliança para toda a vida."
+        },
+        {
+          "title": "Aplicação",
+          "body": "O casal precisa preparar também a convivência e os compromissos que vai assumir."
+        }
+      ],
+      "conference_question": "O que precisa ser preparado além da cerimônia e da festa?",
+      "anchors": [
+        "CEC 1601",
+        "CEC 1632"
+      ],
+      "facilitator_note": "A beleza da festa não é o problema; o compromisso é o essencial."
+    },
+    {
+      "id": "G14",
+      "term_id": "G14",
+      "call_label": "G14 - Missa e celebração da Palavra",
+      "case": "Numa comunidade sem padre naquele domingo, uma leitora conduz a celebração da Palavra. Uma família pergunta por que não há consagração.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "A comunidade reza e escuta a Escritura, mas não celebra a Eucaristia."
+        },
+        {
+          "title": "Fundamento",
+          "body": "Na Missa, torna-se presente o único sacrifício de Cristo; a consagração cabe ao sacerdote."
+        },
+        {
+          "title": "Aplicação",
+          "body": "Pela Ordem, o sacerdote recebe esse ministério, a serviço de toda a comunidade."
+        }
+      ],
+      "conference_question": "O que distingue essa celebração da Palavra de uma Missa?",
+      "anchors": [
+        "CEC 1367",
+        "CEC 1411",
+        "CEC 1547"
+      ],
+      "facilitator_note": "Valorizar a celebração da Palavra sem confundi-la com a Missa."
+    },
+    {
+      "id": "G15",
+      "term_id": "G15",
+      "call_label": "G15 - Sacramentos e magia",
+      "case": "Uma família pede o Batismo apenas para garantir que a criança nunca adoeça. Não pretende ajudá-la a conhecer Jesus ou participar da Igreja.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "A família espera do sacramento uma proteção automática contra qualquer problema."
+        },
+        {
+          "title": "Fundamento",
+          "body": "No Batismo, Cristo dá vida nova e nos une à Igreja; não promete uma vida sem doença."
+        },
+        {
+          "title": "Aplicação",
+          "body": "A família precisa compreender o dom recebido e o compromisso de cultivar a fé."
+        }
+      ],
+      "conference_question": "Por que o Batismo não funciona como um amuleto?",
+      "anchors": [
+        "CEC 1127-1128",
+        "CEC 1213",
+        "CEC 2111"
+      ],
+      "facilitator_note": "A ação de Cristo é real; não depende apenas do sentimento de quem recebe."
+    },
+    {
+      "id": "O01",
+      "term_id": "O01",
+      "call_label": "O01 - Escutar o Evangelho",
+      "case": "Depois de uma briga, uma jovem lê o chamado de Jesus ao perdão. Pensa primeiro no que a irmã deveria mudar e quase não considera a própria atitude.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "É mais fácil aplicar a leitura à outra pessoa."
+        },
+        {
+          "title": "Fundamento",
+          "body": "O Evangelho chama também quem escuta a se converter."
+        },
+        {
+          "title": "Aplicação",
+          "body": "A jovem pode reconhecer sua parte na briga e procurar uma conversa sem acusações."
+        }
+      ],
+      "conference_question": "Como essa leitura pode orientar uma mudança na própria jovem?",
+      "anchors": [
+        "CEC 104",
+        "CEC 1435"
+      ],
+      "facilitator_note": "A Palavra não deve virar uma arma para corrigir apenas os outros."
+    },
+    {
+      "id": "O02",
+      "term_id": "O02",
+      "call_label": "O02 - Reservar tempo para rezar",
+      "case": "Um rapaz só tenta rezar quando termina tudo o que queria fazer. Quase sempre fica cansado e adia para o dia seguinte.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "A oração fica dependente de sobrar tempo."
+        },
+        {
+          "title": "Fundamento",
+          "body": "A amizade com Deus pede atenção e perseverança."
+        },
+        {
+          "title": "Aplicação",
+          "body": "O rapaz pode escolher um momento breve e possível do dia para rezar com regularidade."
+        }
+      ],
+      "conference_question": "Que mudança simples pode ajudar a oração a fazer parte do dia?",
+      "anchors": [
+        "CEC 2697-2698"
+      ],
+      "facilitator_note": "Uma rotina possível ajuda mais que uma promessa exagerada."
+    },
+    {
+      "id": "O03",
+      "term_id": "O03",
+      "call_label": "O03 - Preparar a Confissão",
+      "case": "Uma jovem quer se confessar, mas só pensa na vergonha de falar. Ainda não parou para reconhecer o que fez e o que precisa mudar.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "O medo está ocupando o lugar da preparação."
+        },
+        {
+          "title": "Fundamento",
+          "body": "A Confissão pede sinceridade, arrependimento e propósito de mudança."
+        },
+        {
+          "title": "Aplicação",
+          "body": "A jovem pode examinar a consciência e pedir orientação ao padre se não souber como começar."
+        }
+      ],
+      "conference_question": "Como se preparar para a Confissão além de vencer a vergonha?",
+      "anchors": [
+        "CEC 1451",
+        "CEC 1454",
+        "CEC 1456"
+      ],
+      "facilitator_note": "Nunca pedir que o participante conte ao grupo o que confessaria."
+    },
+    {
+      "id": "O04",
+      "term_id": "O04",
+      "call_label": "O04 - Preparar a Comunhão",
+      "case": "Antes da Missa, um homem reconhece que cometeu um pecado grave e ainda não se confessou. Pensa em comungar apenas para que os outros não estranhem.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "O receio da opinião alheia está orientando a decisão."
+        },
+        {
+          "title": "Fundamento",
+          "body": "Quem tem consciência de pecado grave deve procurar a Confissão antes de comungar."
+        },
+        {
+          "title": "Aplicação",
+          "body": "O homem pode participar da Missa, rezar e buscar a Reconciliação, sem se sentir obrigado a ir à fila."
+        }
+      ],
+      "conference_question": "Por que a decisão de comungar não deve depender de parecer igual aos outros?",
+      "anchors": [
+        "CEC 1385"
+      ],
+      "facilitator_note": "Não comentar nem tentar adivinhar por que outra pessoa não comungou."
+    },
+    {
+      "id": "O05",
+      "term_id": "O05",
+      "call_label": "O05 - Rezar o Pai-Nosso",
+      "case": "Uma família costuma rezar o Pai-Nosso depressa. Uma noite, para nas palavras “pão nosso” e lembra de um vizinho que perdeu a renda.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "Uma oração conhecida pode ser escutada com atenção nova."
+        },
+        {
+          "title": "Fundamento",
+          "body": "Jesus nos ensina a pedir ao Pai como irmãos, não só por nós mesmos."
+        },
+        {
+          "title": "Aplicação",
+          "body": "A família pode rezar com atenção e pensar numa ajuda possível ao vizinho."
+        }
+      ],
+      "conference_question": "O que a palavra “nosso” muda no modo de fazer esse pedido?",
+      "anchors": [
+        "CEC 2761",
+        "CEC 2831",
+        "Mt 6,9-13"
+      ],
+      "facilitator_note": "A oração não se reduz a uma tarefa social, mas também nos abre ao próximo."
+    },
+    {
+      "id": "O06",
+      "term_id": "O06",
+      "call_label": "O06 - Examinar a consciência",
+      "case": "À noite, um jovem lembra que ajudou um colega e mentiu para a mãe. Em vez de justificar tudo ou só se culpar, procura olhar para o dia com sinceridade.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "O dia teve um bem realizado e uma falta a corrigir."
+        },
+        {
+          "title": "Fundamento",
+          "body": "À luz dos mandamentos e do Evangelho, reconhecemos o que precisa mudar."
+        },
+        {
+          "title": "Aplicação",
+          "body": "O jovem pode agradecer a Deus e decidir contar a verdade à mãe."
+        }
+      ],
+      "conference_question": "Como rever o dia pode levar a uma mudança concreta?",
+      "anchors": [
+        "CEC 1785",
+        "CEC 1454",
+        "CEC 2055"
+      ],
+      "facilitator_note": "Evitar tanto as desculpas quanto a procura ansiosa de culpa em tudo."
+    },
+    {
+      "id": "O07",
+      "term_id": "O07",
+      "call_label": "O07 - Reparar o dano",
+      "case": "Um menino rasga o livro emprestado de um amigo. Pede desculpas, mas devolve o livro sem conversar sobre as páginas que faltam.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "As desculpas não resolveram o prejuízo."
+        },
+        {
+          "title": "Fundamento",
+          "body": "O perdão e a reparação podem caminhar juntos."
+        },
+        {
+          "title": "Aplicação",
+          "body": "Com ajuda de um responsável, o menino pode combinar como consertar ou substituir o livro."
+        }
+      ],
+      "conference_question": "O que ainda pode ser feito depois de pedir desculpas?",
+      "anchors": [
+        "CEC 1459"
+      ],
+      "facilitator_note": "A reparação precisa considerar a idade e as possibilidades de quem causou o dano."
+    },
+    {
+      "id": "O08",
+      "term_id": "O08",
+      "call_label": "O08 - Pedir ajuda segura",
+      "case": "Um adolescente recebe mensagens exigindo dinheiro e ameaçando uma agressão se contar à família. Fica com medo de pedir ajuda.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "A ameaça procura manter o adolescente isolado."
+        },
+        {
+          "title": "Fundamento",
+          "body": "Ninguém precisa enfrentar sozinho uma situação de violência."
+        },
+        {
+          "title": "Aplicação",
+          "body": "O adolescente pode mostrar as mensagens a um adulto de confiança e pedir proteção."
+        }
+      ],
+      "conference_question": "Por que pedir ajuda é mais prudente que enfrentar essa ameaça sozinho?",
+      "anchors": [
+        "CEC 1806",
+        "CEC 2265"
+      ],
+      "facilitator_note": "Não exigir confronto, silêncio ou perdão imediato da vítima."
+    },
+    {
+      "id": "O09",
+      "term_id": "O09",
+      "call_label": "O09 - Partilhar com respeito",
+      "case": "Uma família quer ajudar uma vizinha sem trabalho. Antes de comprar uma cesta pronta, conversa em particular para saber do que a vizinha precisa.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "A ajuda começa pela escuta da necessidade real."
+        },
+        {
+          "title": "Fundamento",
+          "body": "A caridade reconhece a pessoa, não apenas a falta de recursos."
+        },
+        {
+          "title": "Aplicação",
+          "body": "A família pode oferecer o que consegue sem expor a vizinha nem exigir retribuição."
+        }
+      ],
+      "conference_question": "Por que conversar com a vizinha pode tornar a ajuda mais adequada?",
+      "anchors": [
+        "CEC 1931",
+        "CEC 2447"
+      ],
+      "facilitator_note": "A pessoa pode recusar uma oferta; respeitar essa decisão."
+    },
+    {
+      "id": "O10",
+      "term_id": "O10",
+      "call_label": "O10 - Corrigir uma informação",
+      "case": "Uma moradora publica que a farmácia vendeu um produto vencido. Depois percebe que leu a data errada e apenas apaga a mensagem.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "Quem já leu pode continuar acreditando na acusação."
+        },
+        {
+          "title": "Fundamento",
+          "body": "O cuidado com a verdade inclui reparar a informação falsa."
+        },
+        {
+          "title": "Aplicação",
+          "body": "A moradora deve explicar o engano no mesmo grupo e pedir desculpas à farmácia."
+        }
+      ],
+      "conference_question": "Por que apagar a mensagem não basta para corrigir o dano?",
+      "anchors": [
+        "CEC 2487"
+      ],
+      "facilitator_note": "A correção deve ser clara, sem repetir a acusação como se ainda fosse dúvida."
+    },
+    {
+      "id": "O11",
+      "term_id": "O11",
+      "call_label": "O11 - Incluir quem ficou de fora",
+      "case": "Num encontro comunitário, um menino fica à parte porque não conhece a brincadeira. O grupo começa outra rodada sem explicar as regras.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "O menino está presente, mas não consegue participar."
+        },
+        {
+          "title": "Fundamento",
+          "body": "O amor ao próximo inclui atenção a quem fica de fora."
+        },
+        {
+          "title": "Aplicação",
+          "body": "Um participante pode explicar as regras e convidar o menino, respeitando sua resposta."
+        }
+      ],
+      "conference_question": "Que gesto simples pode transformar a situação desse menino?",
+      "anchors": [
+        "CEC 1931",
+        "CEC 1970"
+      ],
+      "facilitator_note": "Convidar não é obrigar a participar."
+    },
+    {
+      "id": "O12",
+      "term_id": "O12",
+      "call_label": "O12 - Cuidar da casa comum",
+      "case": "Uma família percebe que deixa luzes acesas e a torneira aberta sem necessidade. Todos reclamam da conta, mas ninguém muda os hábitos.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "Há desperdícios que a própria família consegue evitar."
+        },
+        {
+          "title": "Fundamento",
+          "body": "Cuidar da criação é respeitar um dom de Deus e o bem de todos."
+        },
+        {
+          "title": "Aplicação",
+          "body": "A família pode combinar cuidados simples e dividir a responsabilidade de mantê-los."
+        }
+      ],
+      "conference_question": "Qual mudança concreta está ao alcance dessa família?",
+      "anchors": [
+        "CEC 2415"
+      ],
+      "facilitator_note": "Não reduzir o cuidado com a criação apenas à economia de dinheiro."
+    },
+    {
+      "id": "O13",
+      "term_id": "O13",
+      "call_label": "O13 - Assumir um serviço",
+      "case": "Uma jovem se oferece para organizar as cadeiras antes de um encontro. Quando aparece um convite para sair, pensa em faltar sem avisar.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "Outras pessoas passaram a contar com a ajuda combinada."
+        },
+        {
+          "title": "Fundamento",
+          "body": "Servir é colocar os dons à disposição com responsabilidade."
+        },
+        {
+          "title": "Aplicação",
+          "body": "A jovem deve cumprir o combinado ou avisar a tempo se houver um impedimento real."
+        }
+      ],
+      "conference_question": "Como uma tarefa pequena pode expressar um compromisso de fé?",
+      "anchors": [
+        "CEC 951",
+        "CEC 2044"
+      ],
+      "facilitator_note": "Não transformar serviço voluntário em obrigação sem limites."
+    },
+    {
+      "id": "O14",
+      "term_id": "O14",
+      "call_label": "O14 - Testemunhar sem impor",
+      "case": "Um colega pergunta por que uma jovem participa da Igreja. A jovem quer responder, mas teme transformar a conversa numa discussão.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "A pergunta oferece uma oportunidade real de falar da fé."
+        },
+        {
+          "title": "Fundamento",
+          "body": "Testemunhar Cristo não exige constranger nem vencer uma disputa."
+        },
+        {
+          "title": "Aplicação",
+          "body": "A jovem pode explicar com simplicidade o que crê e ouvir as perguntas do colega."
+        }
+      ],
+      "conference_question": "Como falar da fé com clareza e respeito nessa conversa?",
+      "anchors": [
+        "CEC 160",
+        "CEC 2044",
+        "1Pd 3,15-16"
+      ],
+      "facilitator_note": "Respeitar a liberdade não exige esconder o conteúdo da fé."
+    },
+    {
+      "id": "O15",
+      "term_id": "O15",
+      "call_label": "O15 - Recomeçar com Deus",
+      "case": "Um homem estava tentando tratar a família com mais paciência, mas volta a gritar. Fica desanimado e pensa que todo esforço foi inútil.",
+      "reading_points": [
+        {
+          "title": "Na cena",
+          "body": "A queda trouxe desânimo, mas não precisa encerrar o esforço."
+        },
+        {
+          "title": "Fundamento",
+          "body": "Deus nos chama ao arrependimento e oferece graça para recomeçar."
+        },
+        {
+          "title": "Aplicação",
+          "body": "O homem pode pedir perdão, buscar ajuda e retomar uma forma mais respeitosa de conversar."
+        }
+      ],
+      "conference_question": "O que significa recomeçar sem fingir que o erro não aconteceu?",
+      "anchors": [
+        "CEC 1431",
+        "CEC 1811"
+      ],
+      "facilitator_note": "Recomeçar inclui mudar atitudes, não apenas esquecer a ofensa."
+    }
+  ]
+}
